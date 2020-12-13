@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR014504" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1236568"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Entertainment and Amusements</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Marketing and Merchandising</classifier>
+        <classifier class="indexing_service" type="descriptor">Violence</classifier>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Entertainment and Amusements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Violence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001006T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEEDD143CF935A35753C1A9669C8B63" item-length="140" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Oct 2 article in Business Day about marketing of violent video games to children</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article in Business Day on Monday about the marketing of violent video games to children misstated the legal action that the Federal Trade Commission might take in such cases. Jodie Z. Bernstein, director of the commission's bureau of consumer protection, said the agency was exploring civil complaints over deceptive or unfair trade practices by game makers or other entertainment companies that market adult content to children. She did not say criminal charges might apply.</p>
+      </block>
+      <block class="full_text">
+        <p>An article in Business Day on Monday about the marketing of violent video games to children misstated the legal action that the Federal Trade Commission might take in such cases. Jodie Z. Bernstein, director of the commission's bureau of consumer protection, said the agency was exploring civil complaints over deceptive or unfair trade practices by game makers or other entertainment companies that market adult content to children. She did not say criminal charges might apply.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

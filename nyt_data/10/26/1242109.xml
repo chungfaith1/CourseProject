@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Parade Plans</title>
+    <meta content="MB033034" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1242109"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BASEBALL: SUBWAY SERIES -- NOTEBOOK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">Parades</classifier>
+        <classifier class="indexing_service" type="descriptor">World Series</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">New York Yankees</org>
+        <org class="indexing_service">New York Mets</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Series</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parades</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001026T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806EED81031F935A15753C1A9669C8B63" item-length="97" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Parade Plans</hl1>
+      </hedline>
+      <byline class="print_byline">By Thomas Lueck</byline>
+      <abstract>
+        <p>Plans for ticker-tape parade up Broadway in Lower Manhattan for New York Yankees or New York Mets or both are being formulated (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>One thing not in dispute about the Subway Series is that it will culminate in a ticker-tape parade up Broadway in Lower Manhattan. But questions remained yesterday over when it will be held, and whether City Hall will honor both teams.</p>
+      </block>
+      <block class="full_text">
+        <p>One thing not in dispute about the Subway Series is that it will culminate in a ticker-tape parade up Broadway in Lower Manhattan. But questions remained yesterday over when it will be held, and whether City Hall will honor both teams.</p>
+        <p>''The parade would have to be on Monday or Tuesday, depending on who wins and when,'' Mayor Rudolph W. Giuliani said at a Shea Stadium news conference.</p>
+        <p>Thomas Lueck</p>
+        <p>BASEBALL: SUBWAY SERIES -- NOTEBOOK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

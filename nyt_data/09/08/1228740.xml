@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE MARKETS: CURRENCIES</title>
+    <meta content="Y08CURR" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1228740"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Currency</classifier>
+        <location class="indexing_service">Germany</location>
+        <location class="indexing_service">Europe</location>
+        <org class="indexing_service">European Union</org>
+        <person class="indexing_service">Schroder, Gerhard (Chancellor)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Germany</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany</classifier>
+        <classifier class="online_producer" type="general_descriptor">Currency</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000908T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E1DD1239F93BA3575AC0A9669C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE MARKETS: CURRENCIES</hl1>
+      </hedline>
+      <abstract>
+        <p>Euro rebounds after Chancellor Gerhard Schroder says Germany wants strong common currency, contradicting earlier remarks. in New York, the euro settles at 87.39 cents, up from 87.01 cents; graph; chart (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE EURO GAINS. The euro rebounded after Chancellor Gerhard Schroder said Germany wanted a strong common currency, contradicting earlier remarks. In New York, the euro settled at 87.39 cents, up from 87.01 cents.</p>
+      </block>
+      <block class="full_text">
+        <p>THE EURO GAINS. The euro rebounded after Chancellor Gerhard Schroder said Germany wanted a strong common currency, contradicting earlier remarks. In New York, the euro settled at 87.39 cents, up from 87.01 cents.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

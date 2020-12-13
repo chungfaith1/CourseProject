@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Income Ceiling Rises</title>
+    <meta content="MB000411" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1242958"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PERSONAL BUSINESS: DIARY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Social Security (US)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Social Security (US)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001029T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00EFDB1630F93AA15753C1A9669C8B63" item-length="89" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Income Ceiling Rises</hl1>
+      </hedline>
+      <abstract>
+        <p>Maximum earned income subject to Social Security taxes will rise 5.5 percent to $80,400 next year from $76,200 this year (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The maximum earned income subject to Social Security taxes will rise 5.5 percent next year, to $80,400 from $76,200 this year, according to the Social Security Administration.</p>
+      </block>
+      <block class="full_text">
+        <p>The maximum earned income subject to Social Security taxes will rise 5.5 percent next year, to $80,400 from $76,200 this year, according to the Social Security Administration.</p>
+        <p>The maximum tax paid directly by workers will increase to $4,984.80 from $4,724.40. Employers pay at the same rate as workers, and the self-employed pay both sides of the tax, but can deduct half of the tax on their income-tax returns.</p>
+        <p>PERSONAL BUSINESS: DIARY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

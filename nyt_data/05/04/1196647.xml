@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Technology; Making Phone Lines Do Double Duty</title>
+    <meta content="04SLIN" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1196647"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000504T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E1DB1139F937A35756C0A9669C8B63" item-length="717" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Technology; Making Phone Lines Do Double Duty</hl1>
+      </hedline>
+      <byline class="print_byline">By GLENN FLEISHMAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DIGITAL subscriber line service seemed like a minor miracle when it was introduced several years ago. D.S.L. seemed to appear out of nowhere, offering speeds as high as eight million bits per second over existing phone lines.</p>
+        <p>Where did all that extra bandwidth come from? The answer lies in the use of the short distances that signals travel between homes and businesses and central switching stations (also known as C.O.'s, or central offices).</p>
+      </block>
+      <block class="full_text">
+        <p>DIGITAL subscriber line service seemed like a minor miracle when it was introduced several years ago. D.S.L. seemed to appear out of nowhere, offering speeds as high as eight million bits per second over existing phone lines.</p>
+        <p>Where did all that extra bandwidth come from? The answer lies in the use of the short distances that signals travel between homes and businesses and central switching stations (also known as C.O.'s, or central offices).</p>
+        <p>A regular analog modem encodes sequences of ones and zeroes sent by a computer into a series of tones or frequencies that can be transmitted over the voice telephone network. Each tone is calculated to contain both the maximum information and hints for detecting and correcting transmission errors.</p>
+        <p>If you make a modem call from White Plains to Washington, or Kuala Lumpur to Kazakhstan, those tones have to pass through the entire phone system between the two points (although they might be converted back and forth into another set of digital signals along the way).</p>
+        <p>A D.S.L. modem bypasses this long-distance transmission by sending a much greater range of frequencies from the home or business to the nearest central office, where it is turned into data that is pumped over the Internet. Most large cities have several or even dozens of central offices, all within a few thousand feet of the majority of inhabitants and even closer for many businesses. And an unbroken wire connection runs from each phone line to a central office.</p>
+        <p>Because the phone network was built on voice standards, the usable range of frequencies on phone lines was limited to less than four kilohertz. That range encompasses most normally audible sounds. Over long distances, that is all that can be reliably carried without noise corrupting the signal. D.S.L. modems are not limited to four kilohertz because they are sending and receiving over fairly  short distances, from a home or business to the central office. A D.S.L. modem can use frequencies above one megahertz.</p>
+        <p>The most popular D.S.L. service provided by phone companies is A.D.S.L. (asymmetric D.S.L.) because it splits the available bandwidth into two lopsided pieces. The downstream bandwidth (from the Web to a customer) can be several times larger than the upstream bandwidth, letting a user retrieve Web pages and files much more rapidly.</p>
+        <p>A.D.S.L. also lets a regular voice line share a D.S.L. line. The D.S.L. line carries the digital information in just the higher frequencies, starting at about 25 kilohertz. A simple filter is placed over voice lines where they enter a home or business, removing all the data frequencies; the D.S.L. modem is plugged directly into that line.</p>
+        <p>In most areas in which D.S.L. is available, the telephone companies and independent D.S.L. providers can offer between roughly 144 kilobits per second and 1.1 megabits per second. Speeds of up to 8 megabits per second are possible but not widely deployed.</p>
+        <p>D.S.L. is distinctly different from cable modems, which use the huge bandwidth potential of coaxial cable to offer speeds up to 10 mbps; higher speeds may also be possible. However, cable modems work on the party line system, in which dozens or thousands of households may share the same bandwidth. As cable modems increase in popularity, individuals may find less bandwidth available to them; Excite@Home has also taken to limiting upstream (to the Internet) speed to as little as 128 kbps in selected areas to prevent home users from running services like Web servers.</p>
+        <p>D.S.L., on the other hand, is a point-to-point connection between a given location and the phone company or D.S.L. provider's network. That means there is a level of certainty about contracted rates for upstream and downstream bandwidth, but congestion can still occur where the D.S.L. is routed onto the Internet. If the phone company or provider has not purchased enough upstream bandwidth for itself, slowdowns are possible.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

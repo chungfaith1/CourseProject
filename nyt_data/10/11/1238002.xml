@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Business; Utility and Union Settle</title>
+    <meta content="MB021522" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1238002"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <org class="indexing_service">New York Power Authority</org>
+        <org class="indexing_service">Utility Workers Union of America</org>
+        <person class="indexing_service">Greenhouse, Steven</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001011T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DEED71F3CF932A25753C1A9669C8B63" item-length="132" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Business; Utility and Union Settle</hl1>
+      </hedline>
+      <byline class="print_byline">By Steven Greenhouse</byline>
+      <byline class="normalized_byline">Greenhouse, Steven</byline>
+      <abstract>
+        <p>New York Power Authority, state-owned utility, and Local 1-2 of the Utility Workers of America reach tentative contract (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The New York Power Authority, the state-owned utility, and the union representing 418 power plant workers have reached a tentative contract, it was announced yesterday.</p>
+        <p>The union, Local 1-2 of the Utility Workers of America, said 68 employees at the Poletti power plant in Astoria, Queens, and 350 at the Indian Point 3 nuclear power plant in Westchester County had been working without an agreement since Jan. 17.</p>
+      </block>
+      <block class="full_text">
+        <p>The New York Power Authority, the state-owned utility, and the union representing 418 power plant workers have reached a tentative contract, it was announced yesterday.</p>
+        <p>The union, Local 1-2 of the Utility Workers of America, said 68 employees at the Poletti power plant in Astoria, Queens, and 350 at the Indian Point 3 nuclear power plant in Westchester County had been working without an agreement since Jan. 17.</p>
+        <p>The new agreement calls for a 10.5 percent wage increase over three years and a job security provision that will help protect workers after the planned sale of Indian Point 3 to Energy Services Inc.</p>
+        <p>Steven Greenhouse (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

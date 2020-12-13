@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Quantum Leap May Transform Chips</title>
+    <meta content="26NEXT" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/26/technology/26NEXT.html" name="alternate_url"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20001114T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1241895"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WHAT'S NEXT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Chips</classifier>
+        <classifier class="indexing_service" type="descriptor">Transistors</classifier>
+        <person class="indexing_service">Austen, Ian</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/What's Next</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001026T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E5D71231F935A15753C1A9669C8B63" item-length="1052" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Quantum Leap May Transform Chips</hl1>
+      </hedline>
+      <byline class="print_byline">By IAN AUSTEN</byline>
+      <byline class="normalized_byline">Austen, Ian</byline>
+      <abstract>
+        <p>Article discusses challenges engineers face attempting to manufacture smaller transistors and the principles of physics which may help accomplish this (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FOR most microchip designers, quantum theory, which is usually applied to the behavior of atoms and subatomic particles, is something they would rather not think about for a while.</p>
+        <p>Chips are becoming more sophisticated and faster largely because their designers keep coming up with ways to make the channels that are etched to create transistors increasingly tiny. But a day of reckoning may arrive. If transistors reach a size of 25 nanometers (roughly the width of 250 hydrogen atoms set side by side) the electrons flowing through them would probably no longer play by the rules of classical physics. Instead the sometimes bizarre effects described by quantum theory would take over.</p>
+      </block>
+      <block class="full_text">
+        <p>FOR most microchip designers, quantum theory, which is usually applied to the behavior of atoms and subatomic particles, is something they would rather not think about for a while.</p>
+        <p>Chips are becoming more sophisticated and faster largely because their designers keep coming up with ways to make the channels that are etched to create transistors increasingly tiny. But a day of reckoning may arrive. If transistors reach a size of 25 nanometers (roughly the width of 250 hydrogen atoms set side by side) the electrons flowing through them would probably no longer play by the rules of classical physics. Instead the sometimes bizarre effects described by quantum theory would take over.</p>
+        <p>The good news for technicians at Intel and other chipmakers is that they still have a long way to go before their chips start misbehaving.</p>
+        <p>The most advanced chips widely available at the moment have transistors that are no thinner than 180 to 220 nanometers, about 2,000 atoms wide.</p>
+        <p>There is concern, however, that the limitations of chip-making technology may prevent the industry from creating circuitry thinner than that.</p>
+        <p>Now, in something of a reversal, a paper published last month in the journal Physical Review Letters suggests that quantum theory may be a chip designer's friend, at least when it comes to manufacturing.</p>
+        <p>In it, four quantum physics researchers from the Jet Propulsion Laboratory, managed for NASA by the California Institute of Technology, and two scientists from the University of Wales suggest that by embracing quantum theory, chip makers may find a way to shrink transistors well beyond current limits while avoiding the cost of building entirely new factories to do it.</p>
+        <p>''It's a whole new way of looking at chip making,'' said Dr. Daniel Abrams, a research scientist at the Jet Propulsion Laboratory and a co-author of the research report.</p>
+        <p>At its most basic level, chip manufacturing today is similar to what goes on when you take your film to a camera shop for processing and printing. Light is beamed onto a photosensitive surface through a mask, a chip-design template that acts much like a negative.</p>
+        <p>The resulting pattern is then etched in place to form the transistors in a process called optical lithography.</p>
+        <p>As transistors get smaller, chip makers need to use light of increasingly smaller wavelengths to make their exposures. The most common approach uses optics to create an effect called diffraction. Using diffraction, waves of deep ultraviolet light are generated by lasers and then passed through optical systems to decrease their wavelength even further.</p>
+        <p>But the current 180- to 220-nanometer light waves used today will not be able to make transistors smaller than 124 nanometers.</p>
+        <p>A number of proposals for generating smaller beams are in various stages of development. One uses ultraviolet light with very short wavelengths, another X-rays and a third beams of electrons. None of the techniques, however, will work with current chip lithography systems, and most of them may prove too slow and costly for large-scale manufacturing.</p>
+        <p>The recent quantum physics paper may give chip makers a way to adapt their current factories to generate tiny wavelengths of light that can generate very tiny circuitry.</p>
+        <p>At the heart of the technique is what Dr. Abrams calls ''one of the weird quantum effects.'' Photons -- particles of light -- usually do not interact with one another. But in some cases two or more photons can become, in quantum theory terms, entangled, linking their fates and properties together in a strange way. ''They're correlated in a funny way so that they affect each other even at a distance,'' Dr. Abrams said. ''Einstein called it 'spooky action at a distance.' ''</p>
+        <p>The process suggested in the paper begins by zapping crystals made of either potassium diphosphate and potassium triphosphate with small-wavelength laser light. The crystals, in turn, spew out a stream of entangled photons.</p>
+        <p>The entangled photons are then aimed at two slits. When light of various types is aimed at a diffraction grating, the light passes through the slits and forms characteristic patterns on the other side.</p>
+        <p>When an entangled pair of photons is squeezed through the slits, Dr. Abrams said, they appear to have twice the energy of ordinary photons making the same trip. (And, in another oddity of quantum theory, the entangled pairs pass through both slits simultaneously.) When the entangled pairs recombine on the far side of the slit, they form a wavelength that is half the size of what can be generated by using unentangled photons. With the technology, light from a conventional 248-nanometer laser could be reduced to a wavelength of 62 namometers to make transistors of that size, about a third of what can be achieved with current methods.</p>
+        <p>The potential for miniaturization does not stop there. Entangling three or even more photons and then passing them through the slit should, in theory, result in even shorter wavelengths of light, Dr. Abrams said, and that should allow chip makers to create even smaller circuitry ''while still using a regular laser and optics.''</p>
+        <p>But that ''cute trick'' may take years to make its way into chip plants, Dr. Abrams cautioned. ''To go from a theoretical idea to production is a large step,'' he said.</p>
+        <p>There are some doubters. Dr. Paul Kwiat, a physicist at the Los Alamos National Laboratory, said that he did not dispute any of the science in the recent paper. But he warned that the proposed technique might  encounter several insurmountable problems on the factory floor. ''We don't have really good sources for bright, entangled photons,'' he said.</p>
+        <p>Dr. Kwiat said the crystal method generated about one million entangled photons per second. ''That may sound impressive,'' he said, ''but even a simple laser pointer creates one billion million.'' So, he said, it may be hard to produce enough entangled protons for practical use. He also doubts that any practical method for actually aiming the entangled photons can be found, he said, and that would hinder the adoption of the new strategy.</p>
+        <p>''I'm a bit pessimistic for its widespread application,'' Dr. Kwiat said. ''But it's good that people are looking at this area using quantum theory.''</p>
+        <p>WHAT'S NEXT  Correction:  November 14, 2000, Tuesday  An article in Circuits on Oct. 26 about using quantum physics to reduce chip size mischaracterized a process by which smaller wavelengths of light could be produced to help manufacture smaller chips. In the process, the wavelength of light from a laser could be reduced to 124 nanometers from 248 nanometers, to produce transistors 62 nanometers wide. The wavelength would not actually be reduced to 62 nanometers.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: November 14, 2000, Tuesday</p>
+        <p>An article in Circuits on Oct. 26 about using quantum physics to reduce chip size mischaracterized a process by which smaller wavelengths of light could be produced to help manufacture smaller chips. In the process, the wavelength of light from a laser could be reduced to 124 nanometers from 248 nanometers, to produce transistors 62 nanometers wide. The wavelength would not actually be reduced to 62 nanometers.</p>
+        <p>&lt;br&gt;</p>
+        <p>&lt;br&gt;</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

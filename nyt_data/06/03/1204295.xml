@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE MARKETS: COMMODITIES</title>
+    <meta content="Y03COMM" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204295"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Futures and Options Trading</classifier>
+        <classifier class="indexing_service" type="descriptor">Gold</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E2DC113CF930A35755C0A9669C8B63" item-length="77" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE MARKETS: COMMODITIES</hl1>
+      </hedline>
+      <abstract>
+        <p>Gold for August delivery rises 3.2 percent to $284.20 per ounce; graph of commodities prices (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GOLD SURGES. Gold rose on expectations that a weaker dollar will increase investor demand for the precious metal. Gold for August delivery rose $8.80, or 3.2 percent, to $284.20 an ounce in New York.</p>
+      </block>
+      <block class="full_text">
+        <p>GOLD SURGES. Gold rose on expectations that a weaker dollar will increase investor demand for the precious metal. Gold for August delivery rose $8.80, or 3.2 percent, to $284.20 an ounce in New York.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

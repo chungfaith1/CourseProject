@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="02CMPBRFS" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204201"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E6DA103CF931A35755C0A9669C8B63" item-length="326" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PENN VIRGINIA CORP., Radnor, Pa., a crude petroleum and natural gas company, said it had acquired rights to natural gas and oil drilling prospects in West Virginia, Virginia and Kentucky for $35.7 million from an undisclosed seller.</p>
+      </block>
+      <block class="full_text">
+        <p>PENN VIRGINIA CORP., Radnor, Pa., a crude petroleum and natural gas company, said it had acquired rights to natural gas and oil drilling prospects in West Virginia, Virginia and Kentucky for $35.7 million from an undisclosed seller.</p>
+        <p>INGERSOLL-RAND CO., Woodcliff Lake, N.J., a maker of construction equipment, sold a unit, Northern Research and Engineering, Woburn, Mass., to Concepts ETI Inc., Wilder, Vt., for an undisclosed amount.</p>
+        <p>TERRA INDUSTRIES INC., Sioux City, Iowa, a maker of fertilizer, said it would idle its plant in Blytheville, Ark., and would dismiss 70 of the plant's 100 workers because of soaring prices of natural gas, the raw material for its ammonia and urea products.</p>
+        <p>ANNUITY AND LIFE RE (HOLDINGS) LTD., Hamilton, Bermuda, a life reinsurer, said it was acquiring Capitol Bankers Life Insurance Co., from Life Reassurance Corp. of America, for $13.2 million.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

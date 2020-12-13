@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>REUTERS TO PROCEED WITH INSTINET SALE</title>
+    <meta content="MB232514" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1240516"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WORLD BUSINESS BRIEFING: EUROPE"/>
+      <identified-content>
+        <org class="indexing_service">Instinet Corp</org>
+        <org class="indexing_service">Reuters Group Plc</org>
+        <person class="indexing_service">Kapner, Suzanne</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001021T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E3DC1E3EF932A15753C1A9669C8B63" item-length="145" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>REUTERS TO PROCEED WITH INSTINET SALE</hl1>
+      </hedline>
+      <byline class="print_byline">By Suzanne Kapner</byline>
+      <byline class="normalized_byline">Kapner, Suzanne</byline>
+      <abstract>
+        <p>Reuters decides to sell shares in its electronic trading subsidiary, Instinet (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The British media company Reuters said it had decided to proceed with an initial sale of shares in Instinet, its electronic trading subsidiary, although it did not specify the size or a date of the proposed offering. Reuters also said third-quarter sales rose 16 percent, to $:888 million, or about $1.29 billion. Instinet sales rose 46 percent, to $:189 million, or about $276 million.</p>
+        <p>Suzanne Kapner (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>The British media company Reuters said it had decided to proceed with an initial sale of shares in Instinet, its electronic trading subsidiary, although it did not specify the size or a date of the proposed offering. Reuters also said third-quarter sales rose 16 percent, to $:888 million, or about $1.29 billion. Instinet sales rose 46 percent, to $:189 million, or about $276 million.</p>
+        <p>Suzanne Kapner (NYT)</p>
+        <p>WORLD BUSINESS BRIEFING: EUROPE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

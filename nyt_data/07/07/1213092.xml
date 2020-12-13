@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="CN001330" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213092"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000707T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE0D91638F934A35754C0A9669C8B63" item-length="256" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WARNACO INC., New York, the apparel maker, said it was closing a manufacturing plant in Ottawa, cutting 425 jobs, or 1.5 percent of its work force.</p>
+        <p>TICKETMASTER GROUP, Los Angeles, the ticketing company, owned by USA Networks, said it would dismiss 382 people when it shuts a Dallas call center.</p>
+      </block>
+      <block class="full_text">
+        <p>WARNACO INC., New York, the apparel maker, said it was closing a manufacturing plant in Ottawa, cutting 425 jobs, or 1.5 percent of its work force.</p>
+        <p>TICKETMASTER GROUP, Los Angeles, the ticketing company, owned by USA Networks, said it would dismiss 382 people when it shuts a Dallas call center.</p>
+        <p>UNITED ILLUMINATING, New Haven, said its Precision Power unit had bought the closely held Orlando Diefenderfer, an electrical contractor, Allentown, Pa. Terms were not disclosed.</p>
+        <p>FEDERAL REALTY INVESTMENT TRUST, Rockville, Md., sold its Peninsula Shopping Center in Palos Verdes, Calif., to Principal Life Insurance for $48.6 million.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Funny money</title>
+    <meta content="14ENDT" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sophisticated Traveler Magazine" name="dsk"/>
+    <meta content="106" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Travel; Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1199123"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Currency</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sophisticated Traveler Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Currency</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000514T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E4D71339F937A25756C0A9669C8B63" item-length="120" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Funny money</hl1>
+      </hedline>
+      <abstract>
+        <p>Photo-quiz about some idiosyncratic, less-well-known currencies from around world (Special section, The Sophisticated Traveler) (Part 2 of 2-part section)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Arrivederci, lira; adieu, franc; adios, peseta. After next year, these and other ill-fated currencies will lose their identities to the common Euro. But there's still enough idiosyncratic money to go around. Where can you spend the specimens shown below?</p>
+        <p>1 litas  1 new shekel  200 sum  500 kyats  5 rufiyaa  25 rupees  1 rial  50 denari</p>
+        <p>Answers</p>
+        <p>1 litas, Lithuania  1 new shekel, Israel  200 sum, Uzbekistan  500 kyats, Myanmar  5 rufiyaa, Maldives  25 rupees, Nepal  1 rial, Oman  50 denari, Macedonia</p>
+      </block>
+      <block class="full_text">
+        <p>Arrivederci, lira; adieu, franc; adios, peseta. After next year, these and other ill-fated currencies will lose their identities to the common Euro. But there's still enough idiosyncratic money to go around. Where can you spend the specimens shown below?</p>
+        <p>1 litas  1 new shekel  200 sum  500 kyats  5 rufiyaa  25 rupees  1 rial  50 denari</p>
+        <p>Answers</p>
+        <p>1 litas, Lithuania  1 new shekel, Israel  200 sum, Uzbekistan  500 kyats, Myanmar  5 rufiyaa, Maldives  25 rupees, Nepal  1 rial, Oman  50 denari, Macedonia</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

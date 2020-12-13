@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>$120 Million Stock Deal for Drug Company</title>
+    <meta content="11GENE" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/11/business/11GENE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1229737"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">Genetics and Heredity</classifier>
+        <org class="indexing_service">Human Genome Sciences Inc</org>
+        <org class="indexing_service">Principia Pharmaceutical (Co)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000911T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E3D71E39F932A2575AC0A9669C8B63" item-length="362" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>$120 Million Stock Deal for Drug Company</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREW POLLACK</byline>
+      <abstract>
+        <p>Human Genome Sciences acquires Principia Pharmaceutical for $120 million in stock (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Human Genome Sciences, a company that is developing drugs based on discovery of genes, said yesterday that it had acquired privately held Principia Pharmaceutical for about $120 million in stock. Principia, based in Norristown, Pa., is developing a technology that could enhance the effectiveness of human proteins used as drugs.</p>
+        <p>Dozens of human proteins, made in bacterial or mammalian cells using genetic engineering, are now used as drugs, including insulin for diabetes, human growth factor for dwarfism and erythropoietin for anemia. One problem is that such proteins are often cleared from the bloodstream within minutes, meaning that high doses and frequent injections are needed.</p>
+      </block>
+      <block class="full_text">
+        <p>Human Genome Sciences, a company that is developing drugs based on discovery of genes, said yesterday that it had acquired privately held Principia Pharmaceutical for about $120 million in stock. Principia, based in Norristown, Pa., is developing a technology that could enhance the effectiveness of human proteins used as drugs.</p>
+        <p>Dozens of human proteins, made in bacterial or mammalian cells using genetic engineering, are now used as drugs, including insulin for diabetes, human growth factor for dwarfism and erythropoietin for anemia. One problem is that such proteins are often cleared from the bloodstream within minutes, meaning that high doses and frequent injections are needed.</p>
+        <p>Principia's technology, which was licensed from Aventis, fuses the drug protein with human albumin, an abundant protein in the blood. The result is a protein that should act like the drug but stay in the bloodstream as long as albumin, meaning for days.</p>
+        <p>''If you can inject a drug once every two weeks or once a month instead of once a day, you have a major advantage,'' said William A. Haseltine, chief executive of Human Genome Sciences. The company, based in Rockville, Md., will use the technology on its own drugs and also offer it to other manufacturers, he said.</p>
+        <p>Principia's technology has not yet been used in any drug on the market or in clinical trials. There are many other methods also being tried or already in use to make longer-lasting protein drugs.</p>
+        <p>Schering-Plough and Roche are each awaiting government approval to sell hepatitis C treatments made by linking an interferon protein to a chemical called polyethylene glycol. Amgen is awaiting approval for a longer-lasting form of erythropoietin made by modifying some protein components and attaching extra sugars.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

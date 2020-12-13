@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="26CMPBRFS" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1233901"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000926T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E2DC123AF935A1575AC0A9669C8B63" item-length="381" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ALEXION PHARMACEUTICALS INC., New Haven, a biopharmaceutical company, bought the closely held Prolifaron Inc., San Diego, for $41 million in stock to speed development of its antibody drugs.</p>
+      </block>
+      <block class="full_text">
+        <p>ALEXION PHARMACEUTICALS INC., New Haven, a biopharmaceutical company, bought the closely held Prolifaron Inc., San Diego, for $41 million in stock to speed development of its antibody drugs.</p>
+        <p>STEWART ENTERPRISES INC., Metairie, La., an owner of funeral homes and cemeteries, said it was in talks with Funespana S.A., a Spanish funeral services company, to sell its European operations. Terms were not disclosed.</p>
+        <p>CINERGY CORP., Cincinnati, a gas and electric utility holding company, said it would spend more than $700 million on pollution control equipment to reduce nitrogen oxide emissions, which cause smog.</p>
+        <p>GLOBALSTAR TELECOMMUNICATIONS LTD., New York, a satellite telecommunications company, said five of its founding partners would provide it with further equity financing of $56 million. The partners are Loral Space and Communications Ltd., Vodafone Group P.L.C., Qualcomm Inc., Elsacom, and a France Telecom/Alcatel partnership.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

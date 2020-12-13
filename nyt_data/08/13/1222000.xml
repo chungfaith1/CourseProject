@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Children's Books</title>
+    <meta content="RV102143" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1222000"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Tabourin, Emily-Greta</person>
+        <person class="indexing_service">Waugh, Sylvia</person>
+        <object.title class="indexing_service">Space Race (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Columns/Children's Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000813T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E5D9143CF930A2575BC0A9669C8B63" item-length="351" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Children's Books</hl1>
+      </hedline>
+      <byline class="print_byline">By Emily-Greta Tabourin</byline>
+      <byline class="normalized_byline">Tabourin, Emily-Greta</byline>
+      <abstract>
+        <p>Emily-Greta Tabourin reviews book Space Race by Sylvia Waugh (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SPACE RACE</p>
+        <p>By Sylvia Waugh.</p>
+        <p>Delacorte, $15.95.</p>
+        <p>(Ages 8 to 12)</p>
+      </block>
+      <block class="full_text">
+        <p>SPACE RACE</p>
+        <p>By Sylvia Waugh.</p>
+        <p>Delacorte, $15.95.</p>
+        <p>(Ages 8 to 12)</p>
+        <p>The only thing 11-year-old Thomas Derwent remembers of his former life on the planet Ormingat is three non-English words he tells his widowed father, Patrick, every night before bed: ''Nallytan, Vateelin mesht.'' Five years earlier, Thomas arrived on Earth with a mission: to keep a journal depicting his daily life as an English schoolboy. This could prove important should Ormingat be invaded by Earth. Now Thomas and Patrick -- with the journal -- must show up at the spacecraft for departure on the day after Christmas or be stranded on Earth forever. Though Thomas cannot bear the prospect of leaving his best friend and neighborly surrogate mother behind, he grudgingly agrees to accompany his father back home.</p>
+        <p>En route to the spaceship, Patrick is hit by a truck while crossing the street. He miraculously survives by ''Diminishing'' in size, a nice trick that Ormingats do naturally. In a humorous chapter, he hitches a lift by jumping up and clinging onto humans' shoelaces. A miniature Patrick continues his quest to find the spaceship and his son, who, unbeknown to his father, has been taken to the hospital even though he is uninjured. Thomas spends the next two-thirds of the novel lying on his hospital bed, alone and depressed, waiting for his father to rescue him.</p>
+        <p>Sylvia Waugh, author of ''The Mennyms,'' about those delightful life-size rag dolls that lead almost-human lives, once again has created a world that shifts between the ordinary and extraordinary. While ''Space Race'' has some intriguing special effects, the story, alas, becomes tedious. Young readers may not have the patience or interest to read about a boy who doesn't communicate for most of the book, although they may well sympathize with his feelings of never quite belonging in this world. It is father, rather than son, who goes off on an adventure. In the end, we never even learn the meaning of the three mysterious magic words.</p>
+        <p>Emily-Greta Tabourin</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

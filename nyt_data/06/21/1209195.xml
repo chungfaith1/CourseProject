@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Good to the Last Drop</title>
+    <meta content="LTR004549" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Dining and Wine; Style; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209195"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Water</classifier>
+        <person class="indexing_service">ball, bill</person>
+        <person class="indexing_service">Witchel, Alex</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000621T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E3D91031F932A15755C0A9669C8B63" item-length="167" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Good to the Last Drop</hl1>
+      </hedline>
+      <abstract>
+        <p>Bill Ball letter on Alex Witchel's June 14 article on ordering tap water in restaurant</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Alex Witchel's article made a recent dining experience in Paris even more memorable. The multi-level Colette, a modern design shop on the Rue St.-Honore, also has a cafe on the lower floor. On a drizzly day in May, it seemed like a good spot for lunch, so we settled in over a couple of glasses of Cotes-du-Rhone.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Alex Witchel's article made a recent dining experience in Paris even more memorable. The multi-level Colette, a modern design shop on the Rue St.-Honore, also has a cafe on the lower floor. On a drizzly day in May, it seemed like a good spot for lunch, so we settled in over a couple of glasses of Cotes-du-Rhone.</p>
+        <p>Our waiter advised us that this was also a water bar and suggested we peruse the list of some 50 waters. Amused, we asked him to recommend a water to accompany our roast chicken, and he returned with a 600-milliliter bottle of King Island Cloud Juice containing, according to the label we've saved, ''7,800 drops of pure rainwater.'' After I observed that there was more than enough rainwater outside, he quickly reassured us ''but this rain fell in Australia!''</p>
+        <p>BILL BALL  Sag Harbor, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

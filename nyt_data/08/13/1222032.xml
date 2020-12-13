@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Your Kids Are Their Problem</title>
+    <meta content="LTR101608" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1222032"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">CHILDREN AND YOUTH</classifier>
+        <person class="indexing_service">Hooper, Scott L</person>
+        <person class="indexing_service">Belkin, Lisa</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000813T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E5D9113CF930A2575BC0A9669C8B63" item-length="60" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Your Kids Are Their Problem</hl1>
+      </hedline>
+      <abstract>
+        <p>Scott L Hooper letter on Lisa Belkin's July 23 article on backlash against children holds people should not have children they cannot afford9</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Here's a novel thought: if you can't afford a child, don't have one. The key word is choice. People choose to breed, just as they choose to buy Ferraris, for selfish reasons. The only difference is that people who buy Ferraris don't pick other people's pockets to pay for them.</p>
+        <p>Scott L. Hooper  Athens, Ohio</p>
+      </block>
+      <block class="full_text">
+        <p>Here's a novel thought: if you can't afford a child, don't have one. The key word is choice. People choose to breed, just as they choose to buy Ferraris, for selfish reasons. The only difference is that people who buy Ferraris don't pick other people's pockets to pay for them.</p>
+        <p>Scott L. Hooper  Athens, Ohio</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Rx for Doctors</title>
+    <meta content="LTR224433" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1198162"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <person class="indexing_service">grandjean, nancy</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000509T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E0D71038F93AA35756C0A9669C8B63" item-length="165" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Rx for Doctors</hl1>
+      </hedline>
+      <abstract>
+        <p>Nancy Grandjean letter on May 2 article holds doctors rarely read patient's medical history before examining them; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I feel extremely frustrated whenever I'm asked to fill out a long medical history form on an initial visit to a doctor, a process described in the Personal Health column ''A Case for Expanding the Doctor's Checklist'' on May 2.</p>
+        <p>Physicians rarely, if ever, read the form before coming into the examining room; the usual practice is, first, for the nurse and, then, the physician to come in and ask me many of the same questions that are on the form.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I feel extremely frustrated whenever I'm asked to fill out a long medical history form on an initial visit to a doctor, a process described in the Personal Health column ''A Case for Expanding the Doctor's Checklist'' on May 2.</p>
+        <p>Physicians rarely, if ever, read the form before coming into the examining room; the usual practice is, first, for the nurse and, then, the physician to come in and ask me many of the same questions that are on the form.</p>
+        <p>I realize that time is precious, but what is the point of patients' being asked to spend much time and effort filling out such forms if no one is looking at them?</p>
+        <p>NANCY  GRANDJEAN  Seattle</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

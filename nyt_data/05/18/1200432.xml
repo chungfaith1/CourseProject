@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="CN222825" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200432"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000518T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE0D8173AF93BA25756C0A9669C8B63" item-length="261" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IDT CORP., Newark, an international long distance company, said it planned to buy back as many as 5 million shares, or about 14 percent of its common shares outstanding, currently valued at about $153 million.</p>
+        <p>INTEL CORP., Santa Clara, Calif., the biggest maker of semiconductors in the world, set a 2-for-1 stock split on July 30 to shareholders of record on July 2. Intel also is raising its dividend to 2 cents, or 33 percent on a post-split basis.</p>
+      </block>
+      <block class="full_text">
+        <p>IDT CORP., Newark, an international long distance company, said it planned to buy back as many as 5 million shares, or about 14 percent of its common shares outstanding, currently valued at about $153 million.</p>
+        <p>INTEL CORP., Santa Clara, Calif., the biggest maker of semiconductors in the world, set a 2-for-1 stock split on July 30 to shareholders of record on July 2. Intel also is raising its dividend to 2 cents, or 33 percent on a post-split basis.</p>
+        <p>SFX ENTERTAINMENT INC., New York, which produces and presents live entertainment, acquired Core Audience Entertainment, a Canadian concert promoter. Terms were not disclosed.</p>
+        <p>ARCH COAL INC., St. Louis, the second-largest coal producer in the United States, said it would cut most production at its Coal Creek mine in Wyoming and might idle the site entirely.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NEWARK MONORAIL</title>
+    <meta content="MB013839" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213658"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BRIEFING: TRANSPORTATION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Airports</classifier>
+        <classifier class="indexing_service" type="descriptor">Newark International Airport (NJ)</classifier>
+        <classifier class="indexing_service" type="descriptor">Buses</classifier>
+        <classifier class="indexing_service" type="descriptor">Vans</classifier>
+        <classifier class="indexing_service" type="descriptor">Monorails</classifier>
+        <org class="indexing_service">Port Authority of NY and NJ</org>
+        <person class="indexing_service">Smothers, Ronald</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Buses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transit Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000709T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E7DA1438F93AA35754C0A9669C8B63" item-length="149" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NEWARK MONORAIL</hl1>
+      </hedline>
+      <byline class="print_byline">By RONALD SMOTHERS</byline>
+      <byline class="normalized_byline">Smothers, Ronald</byline>
+      <abstract>
+        <p>Port Authority of NY and NJ plans to add 57 buses and vans this weekend to take up slack as repairs begin on monorail at Newark International Airport (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Starting this weekend, the Port Authority of New York and New Jersey will add 57 buses and vans to the 62,000 vehicles on the roads at Newark International Airport each day. The shuttles will take up the slack as repairs begin on the airport monorail, which has carried 30,000 people a day. Initially only the ends of the 1.9-mile system will be closed, but after Labor Day the entire system will be closed for three months.</p>
+        <p>RONALD SMOTHERS</p>
+      </block>
+      <block class="full_text">
+        <p>Starting this weekend, the Port Authority of New York and New Jersey will add 57 buses and vans to the 62,000 vehicles on the roads at Newark International Airport each day. The shuttles will take up the slack as repairs begin on the airport monorail, which has carried 30,000 people a day. Initially only the ends of the 1.9-mile system will be closed, but after Labor Day the entire system will be closed for three months.</p>
+        <p>RONALD SMOTHERS</p>
+        <p>BRIEFING: TRANSPORTATION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Keeping Hackers' Hands Off Your Card Numbers</title>
+    <meta content="17HACK" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1231295"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PERSONAL BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Credit and Money Cards</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <org class="indexing_service">Western Union Corp</org>
+        <person class="indexing_service">Stellin, Susan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit and Money Cards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000917T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E0D71038F934A2575AC0A9669C8B63" item-length="1510" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Keeping Hackers' Hands Off Your Card Numbers</hl1>
+      </hedline>
+      <byline class="print_byline">By SUSAN STELLIN</byline>
+      <byline class="normalized_byline">Stellin, Susan</byline>
+      <abstract>
+        <p>Article, in light of disclosure that hacker downloaded credit and debit card numbers from Western Union Web site, on precautions that Internet users can take to protect themselves; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE disclosure last weekend sounded like a wired consumer's nightmare: A technical lapse at Western Union left its cash-transfer Web site vulnerable to hackers, and someone downloaded credit and debit card numbers for about 15,700 customers. Western Union was advising them all to cancel their cards and start fresh, just in case.</p>
+        <p>Coming on the heels of a fraudulent-billing verdict in Los Angeles against operators of a pornography Web site who had bought access to thousands of credit card numbers from a California bank, the incident at Western Union left many consumers wondering whether credit cards and the Internet were a safe combination.</p>
+      </block>
+      <block class="full_text">
+        <p>THE disclosure last weekend sounded like a wired consumer's nightmare: A technical lapse at Western Union left its cash-transfer Web site vulnerable to hackers, and someone downloaded credit and debit card numbers for about 15,700 customers. Western Union was advising them all to cancel their cards and start fresh, just in case.</p>
+        <p>Coming on the heels of a fraudulent-billing verdict in Los Angeles against operators of a pornography Web site who had bought access to thousands of credit card numbers from a California bank, the incident at Western Union left many consumers wondering whether credit cards and the Internet were a safe combination.</p>
+        <p>Despite the occasional high-profile breaches, though, credit cards remain a very secure way to make Internet purchases, experts say. In fact, incidents of credit card data being compromised by an online transaction are far outnumbered by reports of fraud connected with other online Internet activities, like auctions.</p>
+        <p>That said, though, there are precautions that Internet users can take to reduce the risk of credit card fraud, just as there are in brick-and-mortar commerce. And consumer concerns about security are prompting the development of new technology to protect online payments.</p>
+        <p>Figures are scarce for security breaches at e-commerce sites, in part because companies are reluctant to publicize such incidents, and because consumers tend to report credit card problems directly to even tighter-lipped card issuers.</p>
+        <p>Still, several organizations track complaints about Internet-related fraud in general, and the credit card variety ranks low on the list. The Internet Fraud Complaint Center, an F.B.I.-linked organization in Morgantown, W. Va., said card fraud accounted for just 4.8 percent of the complaints it received since it opened in May. Ten times as many complaints -- 48.8 percent -- involved online auctions, while 19.2 percent involved goods ordered online that never arrived and 16.9 percent had to do with securities and commodities trading.</p>
+        <p>Internet Fraud Watch, sponsored by the National Consumers League, reported a higher proportion -- 9.5 percent of the complaints it received in the first six months of 2000. But that figure included all problems with credit card purchases, not just compromised card numbers. ''We've never received a complaint from a consumer about their credit card number being stolen during a secure transaction,'' said Holly Anderson, a spokeswoman for the organization.</p>
+        <p>Most high-profile incidents of online credit card theft -- including the Western Union case and a January incident in which a list of 350,000 credit card numbers was stolen from a music site, CD Universe -- have occurred because companies failed to protect their files from hackers. In the Western Union incident, the company attributed the security breach to human error, the digital equivalent of leaving the keys to the customer database dangling in the lock, where they could be found and used by anyone who knew how.</p>
+        <p>Elias Levy, chief technology officer at  SecurityFocus.com, an Internet security company, said that even though more attention was being paid to security issues, the number of incidents in which credit card data is compromised was likely to increase as more businesses and individuals go online.</p>
+        <p>Mr. Levy said many Web sites' security audits were not thorough enough to find problems -- a situation he attributed to the absence of severe consequences for failure to maintain tight security. The e-commerce industry resists government regulation but has generally been unsuccessful at regulating itself, he said, so ''the credit card companies themselves need to force the vendors to implement security measures.''</p>
+        <p>American Express and Visa have taken several measures in recent months intended to encourage Internet merchants to adopt stricter security and to provide consumers with more secure payment options.</p>
+        <p>On Sept. 7, American Express announced a new ''private payments'' service that is rather like having a disposable credit card. Customers who use the free service, which the company said would be available within a month, will register on American Express's own Web site, enter a name, password and account number, and obtain a single-use private payment number. That temporary number is used in place of the customer's real credit card number when making a purchase online; because it expires as soon as the transaction clears, it is of no use to anyone who intercepts it or retrieves it later from a database.</p>
+        <p>American Express uses a different approach with its Blue card, introduced earlier this year. A smart-card reader, supplied by the company, is attached to a consumer's home computer and works in much the same way as a card reader at a supermarket checkout, authenticating transactions when a PIN number is typed in. Visa followed suit last week with a similar smart-card technology.</p>
+        <p>But Visa is not following Amex's lead toward single-use numbers as an alternative. Instead, according to Jim McCarthy, senior vice president for member and merchant sales at e-Visa, the e-commerce unit of Visa USA, the company is testing a payer authentication technology that it hopes will be the electronic equivalent of a customer's signature on a sales receipt.</p>
+        <p>Banks that issue Visa cards will be able to use the system in several different ways. In one version, Mr. McCarthy said, a customer making a purchase at a retailer's Web site will see a small window pop up on the screen, asking for a password. The password will be transmitted not to the retailer but to the bank issuing the card, making it more difficult for someone who has stolen a card number to use it.</p>
+        <p>For online merchants and Internet service providers that accept its cards, Visa announced a set of security guidelines earlier this year. The guidelines, which will become mandatory at the end of 2001, stipulate how businesses should store, encrypt and grant access to card-holder data, with the goal of preventing security breaches like those at Western Union or CD Universe.</p>
+        <p>IN some ways, merchants have more to lose than consumers whose credit card numbers are stolen. In most cases, federal law limits a consumer's liability for purchases made with a stolen card or card number to $50, and many card issuers will absorb the $50, too, if the theft is reported promptly.</p>
+        <p>Debit cards are a different story: protections for consumers are much more limited, and banks are less likely to waive costs and fees if, for example, a debit card theft causes a consumer's later checks to bounce. For this reason, some consumer advocates advise against using debit cards online.</p>
+        <p>Recent news reports have highlighted a surge in identity theft, perhaps the most cataclysmic consequence a consumer can suffer from unauthorized disclosure of personal data. But Betsy Broder, assistant director of the Federal Trade Commission's consumer protection bureau, said the agency saw no direct link between identity theft and Internet use.</p>
+        <p>''None of the statistics show a greater vulnerability of consumers who are shopping online,'' Ms. Broder said, adding that most identity theft stems from insecure handling of paper documents, or from employees who abuse access to personal information, electronic or otherwise.</p>
+        <p>The commission does advise online shoppers not to share personal information with merchants they do not know. But as for payments, Ms. Broder said, ''we tell consumers that the safest way to do business online is by using their credit card.''</p>
+        <p>Tips on Avoiding Card Fraud Online</p>
+        <p>EXPERTS offer these tips for minimizing the risks of online shopping.</p>
+        <p>Look for security features. Before giving a Web site your credit card number or other personal information, make sure it is using S.S.L., or secure sockets layer, encryption technology. Signs that it is in use include a closed-lock or unbroken-key icon in the frame of your browser window, and a change in the beginning of the merchant's Web address from ''http'' to ''https'' when processing a transaction.</p>
+        <p>Avoid dubious sites. Do not shop at sites that fail to include a mailing address and phone number you can verify. Avoid those that fail to post a privacy policy or information about how they protect customer data.</p>
+        <p>Pay with a credit card, not a debit card, check or money order. Under federal law, consumer protections are much stronger for credit-card transactions.</p>
+        <p>Pick up the phone. If you are worried about online interception of your card number, provide it by telephone instead.</p>
+        <p>Stay out of the files, if you can. If given the option, resist the convenience of having the retailer save your credit card number for future purchases. Some sites automatically store the data without asking, but if you can opt out, you can reduce the chances of having your card number stolen by someone who breaks into the site's database.</p>
+        <p>Watch your papers. Be careful how you dispose of documents containing personal or financial information. Federal officials say identity theft usually starts on paper, even if the stolen information is later trafficked online.</p>
+        <p>SUSAN STELLIN</p>
+        <p>PERSONAL BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

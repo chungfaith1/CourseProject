@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR021110" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1230283"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <person class="indexing_service">Harris, Rebert H</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000913T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E3D71438F930A2575AC0A9669C8B63" item-length="99" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Sept 9 obituary of singer Rebert Harris; several facts noted</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A headline and a picture caption on Saturday with an obituary of Rebert  H. Harris, lead singer of the Soul Stirrers, characterized their music incorrectly. They were gospel singers, not soul singers.</p>
+        <p>Because of an editing error, the obituary also omitted the given name and background of a producer. He is  Anthony Heilbut, a gospel historian and Mr. Harris's former producer.</p>
+        <p>The obituary also misspelled the surnames of two members of the Soul Stirrers. They were Thomas Breuster (not Brewster) and Roy Crain (not Crane).</p>
+      </block>
+      <block class="full_text">
+        <p>A headline and a picture caption on Saturday with an obituary of Rebert  H. Harris, lead singer of the Soul Stirrers, characterized their music incorrectly. They were gospel singers, not soul singers.</p>
+        <p>Because of an editing error, the obituary also omitted the given name and background of a producer. He is  Anthony Heilbut, a gospel historian and Mr. Harris's former producer.</p>
+        <p>The obituary also misspelled the surnames of two members of the Soul Stirrers. They were Thomas Breuster (not Brewster) and Roy Crain (not Crane).</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

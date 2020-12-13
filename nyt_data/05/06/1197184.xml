@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Law Officials Seek Origins Of the Virus</title>
+    <meta content="Y06VIRU" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1197184"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <location class="indexing_service">Philippines</location>
+        <person class="indexing_service">Markoff, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Philippines</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Philippines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000506T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E6DA1438F935A35756C0A9669C8B63" item-length="834" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Law Officials Seek Origins Of the Virus</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <abstract>
+        <p>Investigators in Asia and United States suspect college student using Phillippine Internet service provider unleashed 'I Love You' software program that clogged or disabled corporate e-mail systems and destroyed data on personal computers; spread of virus appears to slow, but at least eight variations of original program have been identified; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Law enforcement officials and computer security investigators focused on the Philippines yesterday in their search for the author of a malicious software program that convulsed the world's computer networks.</p>
+        <p>Investigators in both Asia and the United States said clues appeared to point to a college student in his early 20's using a Philippine Internet service provider.</p>
+      </block>
+      <block class="full_text">
+        <p>Law enforcement officials and computer security investigators focused on the Philippines yesterday in their search for the author of a malicious software program that convulsed the world's computer networks.</p>
+        <p>Investigators in both Asia and the United States said clues appeared to point to a college student in his early 20's using a Philippine Internet service provider.</p>
+        <p>The rogue program, borne as an attachment to an e-mail message with the subject line ''I Love You,'' emerged in Asia on Wednesday. It moved to Europe and the United States on Thursday, clogging or disabling corporate e-mail systems and destroying data on personal computers.</p>
+        <p>Although the spread of the infection appeared to slow yesterday, at least eight variations of the original program had been identified by antivirus companies.</p>
+        <p>Once it is sent, the ''I Love You'' program, among other things, tries to fetch an additional program from a Philippine Web site enabling it to steal passwords from the victim's computer. American security experts said they had found evidence that a person using the ''spyder'' alias found in the ''I Love You'' program was the author of two versions of a password-stealing program found in recent months.</p>
+        <p>''Our theory is that he had written this program twice and was looking for a way to get broader distribution for it,'' said Peter S. Tippett of ICSA.net, a computer security company based in Reston, Va.</p>
+        <p>At the same time, Fredrik Bjorck, a Swedish computer security researcher who last year helped identify the author of a similar program called Melissa, told Swedish television that he had identified the perpetrator of the latest attack as a German exchange student named Mikael.</p>
+        <p>He said that Mikael was in his 20's and that he had used Internet service providers in the Philippines to spread his programs. Mr. Bjorck said Mikael had published information on how to get rid of the ''I Love You'' program. He did not identify Mikael's location.</p>
+        <p>The ICSA.net researchers said they had disassembled one of the four components of the ''I Love You'' program and had discovered that its instructions closely matched two similar programs that they had captured last fall and in January.</p>
+        <p>Once a computer was infected, the program was set up to fetch the password-stealing component from a Philippine Web site. After it was installed in the computer it was programmed to relay the stolen passwords to an e-mail account also in the Philippines.</p>
+        <p>But after the ''I Love You'' outbreak was detected on Wednesday, the company running the Philippine Web site, Sky Internet, quickly removed the password program from its system.</p>
+        <p>Computer investigators said that both the ''I Love You'' program and the password-stealing modules discovered earlier had references to Amable Mendoza Aguiluz Computer College, which they said had seven campuses in the Philippines.</p>
+        <p>''There have been subpoenas issued for an American computer server and elsewhere in an effort to get log files and compare times,'' Mr. Tippett said.</p>
+        <p>Officials at Sky Internet told reporters yesterday that authorities had informed them that a warrant would be served in the investigation to find the creator of the program.</p>
+        <p>The executives said they believed that the author of the program -- it has attributes of both a virus and what is known as a computer worm -- had tried to break in to the Internet service provider's computers and that they had blocked access from his phone number on April 1. But the attacker apparently then entered their system through another service provider. The company said it was cooperating with the Philippine National Bureau of Investigation.</p>
+        <p>An F.B.I. spokesman in Washington said last night that he was not aware of any suspects in the case.</p>
+        <p>As investigators pursued leads, antivirus companies said that the infection was coming under control.</p>
+        <p>''Things are quieter today than yesterday,'' said Carey Nachenberg, chief researcher for the Symantec Antivirus Research Center. He said that the company's Web traffic on Thursday had more than doubled.</p>
+        <p>One of the copycat programs that emerged yesterday came masquerading as a Mother's Day transaction. The message reads in part:</p>
+        <p>''We have proceeded to charge your credit card for the amount of $326.92 for the Mother's Day diamond special. We have attached a detailed invoice to this e-mail.''</p>
+        <p>Clicking on the attachment will start the malicious program.</p>
+        <p>Despite fears that the rogue program might cause huge losses of data like the MP3 audio files that are popularly traded by college students and others, digital music companies said there was no evidence that the infection had been especially aimed at music files.</p>
+        <p>A representative of Napster, a service that makes software used to share MP3 files over the Internet, said the company had heard of no problems for its products that were related to the program.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

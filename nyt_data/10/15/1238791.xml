@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Fiction</title>
+    <meta content="RV080839" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1238791"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Friedman, Paula</person>
+        <person class="indexing_service">Huo, T C</person>
+        <object.title class="indexing_service">Land of Smiles (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001015T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE3DC143CF936A25753C1A9669C8B63" item-length="357" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Fiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Paula Friedman</byline>
+      <byline class="normalized_byline">Friedman, Paula</byline>
+      <abstract>
+        <p>Paula Friedman reviews book Land of Smiles by T C Huo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Land of Smiles</p>
+        <p>By T. C. Huo.</p>
+        <p>Plume, paper, $12.95.</p>
+      </block>
+      <block class="full_text">
+        <p>Land of Smiles</p>
+        <p>By T. C. Huo.</p>
+        <p>Plume, paper, $12.95.</p>
+        <p>T. C. Huo is a Laotian writer who immigrated to the United States in 1979, and his understated second novel recounts the journey of a young Laotian man named Boontakorn who flees his country's Communist regime in the 1970's. He arrives first at a refugee camp in Thailand, where he is reunited with his father; they then travel to California, where they try to make a life. Huo's narrative gains power from its quiet matter-of-factness, and from the way it plunges almost seamlessly into dream worlds that can be both nightmarish and oddly consoling. Huo, whose first novel was titled ''A Thousand Wings'' (1998), intensifies the story's drama through the repetition of key events; each time we get a new slant or insight on how or why things happened. This approach proves particularly effective when Huo focuses on Boontakorn's crossing of the Mekong River; his mother and sister, who had earlier attempted such a trip, did not survive the journey. Huo quite early on raises questions about the mysterious circumstances under which the boy's mother and younger sister had attempted to leave the country without his father. Boontakorn circles this question while bringing himself closer and closer to its unhappy answer. The Mekong River itself, the site of happiness and terrible loss, takes on the weight of character here. One moment alluring, and the next almost devilishly menacing, the Mekong in ''Land of Smiles'' also comes to symbolize the disturbing paradoxes surrounding the Vietnam War and its aftermath. Huo's comic descriptions of his characters' lives in California further enhance this novel's alluring sense of dislocation.</p>
+        <p>Paula Friedman</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

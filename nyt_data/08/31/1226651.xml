@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Legal Tug of War</title>
+    <meta content="LTR233708" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1226651"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Copyrights</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <org class="indexing_service">World Intellectual Property Organization</org>
+        <person class="indexing_service">Misch, David</person>
+        <person class="indexing_service">Wayner, Peter</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Copyrights</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000831T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E0DA1430F932A0575BC0A9669C8B63" item-length="201" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Legal Tug of War</hl1>
+      </hedline>
+      <abstract>
+        <p>David Misch letter disputes statement in Peter Wayner's August 24 essay that proposal by World Intellectual Property Organization would allow corporations to own facts in their databases</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Peter Wayner said in his essay that the proposal from the World Intellectual Property Organization would allow corporations to own the facts in their databases. That is not true: they will own the presentation of those facts. No one can own a fact, but if the proposal is adopted, no one will be able to simply copy a database and present it without attribution (or payment).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Peter Wayner said in his essay that the proposal from the World Intellectual Property Organization would allow corporations to own the facts in their databases. That is not true: they will own the presentation of those facts. No one can own a fact, but if the proposal is adopted, no one will be able to simply copy a database and present it without attribution (or payment).</p>
+        <p>And on the Napster issue: According to their legal filings, yes, ''the big labels want to shut down'' Napster, but everyone knows that both Napster and the music labels are working behind the scenes toward an agreement. One can envision an arrangement similar to the one that radio stations have with Ascap and BMI: a blanket payment to the labels covering everything distributed.</p>
+        <p>It's all well and good to wave the flag for open-source freedom, but most artists make a living by charging for their products: albums, scripts, paintings and even newspaper articles.</p>
+        <p>DAVID MISCH  Santa Monica, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

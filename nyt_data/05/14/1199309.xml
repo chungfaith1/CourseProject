@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="14CORR$02" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Corrections; Real Estate" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1199309"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Population</classifier>
+        <classifier class="indexing_service" type="descriptor">Geographic Profiles</classifier>
+        <location class="indexing_service">Bethel (Conn)</location>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="general_descriptor">Geographic Profiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Population</classifier>
+        <classifier class="online_producer" type="general_descriptor">Geography</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000514T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E1D8163BF937A25756C0A9669C8B63" item-length="113" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Gazetteer chart on April 30 with article about living in Bethel, Conn, misstated estimate for population for the town.</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Gazetteer chart on April 30 with an article about living in Bethel, Conn., misstated the estimate for the population for the town. The estimate is 18,464, not 8,672. The smaller number is for a section of Bethel, not the entire town.</p>
+      </block>
+      <block class="full_text">
+        <p>The Gazetteer chart on April 30 with an article about living in Bethel, Conn., misstated the estimate for the population for the town. The estimate is 18,464, not 8,672. The smaller number is for a section of Bethel, not the entire town.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

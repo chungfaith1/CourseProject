@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Program Raises the Specter Of Viruses Attacking P.D.A.'s</title>
+    <meta content="31GEE3$01" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/08/31/technology/31GEE3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1226548"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000831T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E1DB1730F932A0575BC0A9669C8B63" item-length="404" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Program Raises the Specter Of Viruses Attacking P.D.A.'s</hl1>
+      </hedline>
+      <byline class="print_byline">By LISA GUERNSEY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The first malicious program to attack a Palm organizer appeared on the Internet this week, causing no permanent damage but leading security experts to warn that more harmful incursions are probably around the corner.</p>
+        <p>The program, known as Liberty Crack, is a not a virus because it does not automatically replicate. For that reason, most experts believe that it is already nearly extinct.</p>
+      </block>
+      <block class="full_text">
+        <p>The first malicious program to attack a Palm organizer appeared on the Internet this week, causing no permanent damage but leading security experts to warn that more harmful incursions are probably around the corner.</p>
+        <p>The program, known as Liberty Crack, is a not a virus because it does not automatically replicate. For that reason, most experts believe that it is already nearly extinct.</p>
+        <p>Still, said David Perry, public education director for Trend Micro, a security company, the program represents a milestone. ''This is the first time in history that someone has written a piece of malicious software to affect a Palm Pilot.'' The program was a Trojan horse, designed to trick users into thinking it was a piece of code that would override the copyright restrictions on Liberty, a program that lets people play Gameboy games on the Palm.</p>
+        <p>Instead, the program was designed to delete any software that had been previously downloaded to the Palm, like maps, games and city guides. Programs that came loaded with the Palm, like the address book, were not supposed to be affected.</p>
+        <p>The first warnings about the Trojan horse came from the author himself, Aaron Ardiri, a software programmer in Sweden who develops applications for the Palm.</p>
+        <p>In an e-mail interview, Mr. Ardiri said he had never intended the program for distribution. He wrote it as a piece of code that would help clean out the Palm when it was reset. He named it ''test'' and passed it on to a couple of friends via Internet Relay Chat. Only later, he said, did he find out that it had been renamed as a crack program for Liberty, a program that he himself created. ''I have tried to do anything and everything to prevent its spread and 'infection,' '' Mr. Ardiri wrote. He also told Internet security companies about the program.</p>
+        <p>So far, no one has reported being victimized by the Trojan horse, Mr. Perry said. ''I consider the case closed,'' he said. But it may not be long, he added, before similar programs are unleashed as replicating programs, wreaking much more havoc on personal digital assistants.</p>
+        <p>''This opens the door for more development of P.D.A.-malicious software,'' he said, ''particularly viruses.''</p>
+        <p>LISA GUERNSEY</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

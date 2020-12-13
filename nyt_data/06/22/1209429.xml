@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Real Books on Real Shelves</title>
+    <meta content="LTR000014" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209429"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Libraries and Librarians</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">green, toby</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Libraries and Librarians</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000622T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E6DA1E31F931A15755C0A9669C8B63" item-length="144" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Real Books on Real Shelves</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by Toby Green responds to library computerization; says Web-based digital libraries that do not replicate the print library's vital 'free at the point of use' component fail to use power of Internet</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The article about digital libraries was correct about students wanting to use library materials via their desktop in their dormitories, but Web-based digital libraries that don't replicate the print library's vital ''free at the point of use'' component fail to use the power of the Internet. The Internet can overcome the current one-user-at-a-time limitation of print. Bearing in mind that many users have no money to pay for their reading, it seems a missed opportunity not to use the Web to improve on the old system. Ebrary is expecting users to pay 25 cents a page when most students have either no purchasing power or at best a very limited budget.</p>
+        <p>TOBY GREEN  Paris</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The article about digital libraries was correct about students wanting to use library materials via their desktop in their dormitories, but Web-based digital libraries that don't replicate the print library's vital ''free at the point of use'' component fail to use the power of the Internet. The Internet can overcome the current one-user-at-a-time limitation of print. Bearing in mind that many users have no money to pay for their reading, it seems a missed opportunity not to use the Web to improve on the old system. Ebrary is expecting users to pay 25 cents a page when most students have either no purchasing power or at best a very limited budget.</p>
+        <p>TOBY GREEN  Paris</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

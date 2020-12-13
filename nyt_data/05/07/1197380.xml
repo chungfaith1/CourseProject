@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Way We Live Now: 5-7-00; What They Were Thinking</title>
+    <meta content="WLN080617" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="50" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1197380"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Brain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine/Columns/What They Were Thinking</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Mental Health and Behavior</classifier>
+        <classifier class="online_producer" type="general_descriptor">Brain</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000507T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E2DB1139F934A35756C0A9669C8B63" item-length="91" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Way We Live Now: 5-7-00; What They Were Thinking</hl1>
+      </hedline>
+      <abstract>
+        <p>Photos of MRI and PET scan images showing how different thoughts affect flow of bood to brain</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Thought Pictures  These images, generated with M.R.I. and PET scans, show the way different thoughts affect the flow of blood to the brains of research subjects. Each of the four groups above represents one averaged, composite brain from different views. The upper left corner shows a brain thinking pleasant thoughts and the upper right brain is thinking depressing thoughts; the lower left, anxiety-inducing thoughts; the lower right, irritating thoughts. Areas in red indicate intense brain activity; areas in purple, reduced brain activity.</p>
+      </block>
+      <block class="full_text">
+        <p>Thought Pictures  These images, generated with M.R.I. and PET scans, show the way different thoughts affect the flow of blood to the brains of research subjects. Each of the four groups above represents one averaged, composite brain from different views. The upper left corner shows a brain thinking pleasant thoughts and the upper right brain is thinking depressing thoughts; the lower left, anxiety-inducing thoughts; the lower right, irritating thoughts. Areas in red indicate intense brain activity; areas in purple, reduced brain activity.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

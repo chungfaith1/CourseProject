@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Telnet Still Available For Cruising the Web</title>
+    <meta content="31ASKK$02" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1226526"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000831T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E7DF1730F932A0575BC0A9669C8B63" item-length="719" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Telnet Still Available For Cruising the Web</hl1>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q.  What is Telnet and what can it do? I have Windows 98. Can I use Telnet?</p>
+        <p>A.  Although it is not used as much as it once was because of the Web, Telnet can still be a good way to connect to other computers from your own machine. It is a text-based system that dates to the 1970's, and some users who are used to point-and-click browsing may find Telnet a bit arcane. If one doesn't mind the old-fashioned interface of typed commands and numbered choices, however, it is a speedy way to connect to systems like online library catalogs and electronic bulletin boards.</p>
+      </block>
+      <block class="full_text">
+        <p>Q.  What is Telnet and what can it do? I have Windows 98. Can I use Telnet?</p>
+        <p>A.  Although it is not used as much as it once was because of the Web, Telnet can still be a good way to connect to other computers from your own machine. It is a text-based system that dates to the 1970's, and some users who are used to point-and-click browsing may find Telnet a bit arcane. If one doesn't mind the old-fashioned interface of typed commands and numbered choices, however, it is a speedy way to connect to systems like online library catalogs and electronic bulletin boards.</p>
+        <p>Yes, you can use Telnet with Windows 98, as long as you have a Telnet program installed on your computer. (If you have configured your Web browser properly, you can also use Telnet with it by typing a command in the browser's U.R.L. box.)</p>
+        <p>Most recent versions of Windows come with a program called HyperTerminal already installed with the communications programs. There are other Telnet programs, like NetTerm, that you can download from shareware Web sites as well. Several Telnet programs, including ones for Windows, Macintosh and Unix, are available from the TuCows shareware site at www.tucows.com.</p>
+        <p>Some popular Mac Telnet programs are BetterTelnet, dataComet and NiftyTelnet. The National Center for Supercomputing Applications keeps an informative (but no longer updated) page on its Telnet program at www.ncsa.uiuc.edu/SDG /Homepage/telnet.html. The site also provides a program manual that can be downloaded.</p>
+        <p>Once you have become acquainted with your Telnet software, you can use it to tap in remotely to other computers around the world. The Library of Congress has a Web site but still allows users to Telnet in to search its databases. Type locis.loc .gov in the Telnet address box to get there. A list of other places to Telnet into can be found at www.anzio.com /telnetsites.htm.</p>
+        <p>Q.  I use a Macintosh and have been getting a disturbing error message from my Eudora e-mail program. It keeps saying something about memory, then gives me these options: Quit or Live Dangerously. What happens if I decide to live dangerously?</p>
+        <p>A.  Living dangerously can be a bit of an adrenaline rush, but if you choose to do that with your e-mail program, it may soon start crashing or have trouble starting up when you least expect it. That particular alert box is warning you that the Eudora program is just about out of the system memory that it needs to operate properly. To make the message go away, you need to allot more of your Mac's RAM to the program or start deleting old messages and mailboxes that you don't need anymore.</p>
+        <p>The Quit option you were given in the dialogue box anticipates that you will tell your Mac to give Eudora more RAM to work with because you need to shut down the program to adjust the memory settings. Once you quit Eudora, go to your hard drive and locate the program's icon. Click once on the icon, then press Command I on the keyboard to call up the Get Information box for Eudora. You can also get that box by selecting Get Information from the File menu.</p>
+        <p>In the Get Information box, you will see the settings for Suggested, Minimum and Preferred Memory size. (Some later versions of the Macintosh operating system keep the Memory settings under a pop-up tab at the top of the box.) To give Eudora more memory, increase the numbers in both the Minimum and Preferred size boxes. For example, if the minimum and preferred sizes are both listed as 1,024 kilobytes, changing both numbers to 3,072 kilobytes will increase Eudora's share of RAM from one megabyte to three megabytes. Once you have adjusted your settings, close the Get Information box and restart Eudora. If you are still getting messages about tight memory, repeat the process and increase the memory settings even more.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

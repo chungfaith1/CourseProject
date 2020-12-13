@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="15NEW" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1222813"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000815T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E2DF1E3FF936A2575BC0A9669C8B63" item-length="216" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>VISTEON CORP., -- Dearborn, Mich., the world's No. 3 auto-parts maker, said it would form a business group to expand sales of products that provide in-vehicle Internet access and other communications and entertainment services.</p>
+        <p>SALTON INC., -- Mount Prospect, Ill., a maker of kitchenware and home appliances, bought the trademarks of the closely held lamp maker Stiffel Co. for an undisclosed amount.</p>
+      </block>
+      <block class="full_text">
+        <p>VISTEON CORP., -- Dearborn, Mich., the world's No. 3 auto-parts maker, said it would form a business group to expand sales of products that provide in-vehicle Internet access and other communications and entertainment services.</p>
+        <p>SALTON INC., -- Mount Prospect, Ill., a maker of kitchenware and home appliances, bought the trademarks of the closely held lamp maker Stiffel Co. for an undisclosed amount.</p>
+        <p>SUREBEAM CORP., -- San Diego, which manufactures electronic pasteurization systems and services for the food industry, filed to sell 6.7 million shares of Class A common stock at a price of $14.50 to $16.50 a share.</p>
+        <p>TOYOTA MOTOR CORP., -- the Japanese carmaker, said its Lexus luxury division had raised the United States price for the 2001-model GS midluxury sedan by $1,050, to $47,355. The price does not include a delivery charge of $545 a car.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

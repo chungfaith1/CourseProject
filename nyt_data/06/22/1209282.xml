@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Spy Software Puts Home PC's Under Surveillance</title>
+    <meta content="22PETE" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209282"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="STATE OF THE ART"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <classifier class="indexing_service" type="descriptor">Detectives (Private)</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Marriages</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Pornography and Obscenity</classifier>
+        <org class="indexing_service">SpectorSoft</org>
+        <person class="indexing_service">Lewis, Peter H</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/State of the Art</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Detectives (Private)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pornography and Obscenity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Marriages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000622T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E3DF1131F931A15755C0A9669C8B63" item-length="1916" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Spy Software Puts Home PC's Under Surveillance</hl1>
+      </hedline>
+      <byline class="print_byline">By Peter H. Lewis</byline>
+      <byline class="normalized_byline">Lewis, Peter H</byline>
+      <abstract>
+        <p>Peter H Lewis (State of the Art) article discusses software known as snoopware, that records everything that shows up on a computer screen; says one example of such software is Spector, $49.95 Windows program from SpectorSoft; company says software was originally designed to allow parents to spy on their children to make sure they were not visiting inappropriate Web sites; says that in short time software has been on market, parents have not turned out to be main customers; instead, according to SpectorSoft, program has found an enthusiastic audience among tens of thousands of suspicious spouses, distrustful bosses and private investigators (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>COMPUTERS are digital, and in their world everything is either on or off, one or zero, black or white. Real life is analog, with varying degrees of good and bad, right and wrong, and shades of gray. If our world were binary, it would make it much easier to condemn programs like Spector and eBlaster.</p>
+        <p>Spector, a $49.95 Windows program from SpectorSoft (www.spectorsoft.com), is snoopware. It's the computer equivalent of a VCR that secretly records everything that shows up on a computer screen -- every piece of e-mail, every Web page, every instant message, every program and file opened, every keystroke and every password or credit card number.</p>
+      </block>
+      <block class="full_text">
+        <p>COMPUTERS are digital, and in their world everything is either on or off, one or zero, black or white. Real life is analog, with varying degrees of good and bad, right and wrong, and shades of gray. If our world were binary, it would make it much easier to condemn programs like Spector and eBlaster.</p>
+        <p>Spector, a $49.95 Windows program from SpectorSoft (www.spectorsoft.com), is snoopware. It's the computer equivalent of a VCR that secretly records everything that shows up on a computer screen -- every piece of e-mail, every Web page, every instant message, every program and file opened, every keystroke and every password or credit card number.</p>
+        <p>Many people entrust their most intimate and sensitive information to their computers. So snoopware makes possible the computer equivalent of reading other people's private diaries, opening their mail, going through their garbage, scanning their bank statements and portfolios, cracking their safes, tapping their phones and peeping through their windows, all at once.</p>
+        <p>Spy software has been around for years, but until recently it was complicated and expensive. It has been used primarily by government and law enforcement agencies and large corporations. Spector, eBlaster and similar programs, like Cyber Snoop and the 007 Stealth Activity Recorder and Reporter, are now being marketed directly to consumers, and their easy availability and low cost has profound implications for personal privacy.</p>
+        <p>SpectorSoft, the company that created Spector, said the software had originally been designed to allow parents to spy on their children to make sure that they were not visiting inappropriate Web sites, engaging in dangerous conversations in chat rooms or otherwise doing things they ought not be doing.</p>
+        <p>But in the short time the software has been on the market, parents have not turned out to be the main customers. Instead, according to the company, the program has found an enthusiastic audience among tens of thousands of suspicious spouses, distrustful bosses and private investigators who specialize in human weaknesses, especially those that are exacerbated by the temptations of the Internet.</p>
+        <p>In short, it is a program that runs on an operating system of distrust and secrecy.</p>
+        <p>In the program's ''stealth'' mode, only the person who installed the program knows that it is running in the background. Later, when the target of the surveillance is not around, the Spector recordings can be played back by entering a secret combination of keys and then a password. The program does not show up in any directory and does not impede the normal operation of the computer. Spectorsoft says the program is undetectable, even by computer-adept teenagers.</p>
+        <p>The program's supporters argue that it can provide a parent with early warning when a child is on drugs or is suicidal, that it can illuminate the truth in a relationship that may be based on lies and that it can catch people who are using the computer to do bad things.</p>
+        <p>These programs are not to be confused with Web filters like Net Nanny and SurfWatch, which are intended to prevent children or employees from gaining access to pornographic and other types of undesirable sites on the Internet. Rather, programs like Spector are designed to spy on people who mistakenly think that what they do on the computer is private.</p>
+        <p>In promoting the Spector program, SpectorSoft offers customer testimonials that read like a dreary synopsis of the Jerry Springer show's greatest hits.</p>
+        <p>One customer described her experiences with Spector in a phone interview from Nashville, but to protect her privacy, she did not want her name to be used. She said she had installed Spector on her home computer and discovered that her husband was a regular visitor to pornography sites and sex-related chat rooms on the Internet. To her horror, she said, Spector replayed messages he had sent to women he had met online, proposing dalliances and bragging about extramarital relationships that spanned their 15 years of marriage.</p>
+        <p>The husband did not know that his computer had been bugged until last month, the woman said, when her divorce lawyer showed him dozens of pages of printouts, captured keystroke by keystroke and time-stamped by Spector.</p>
+        <p>''Spector is no different than going out and hiring a private investigator,'' the woman said. ''All it is is a more sophisticated way of doing something women and men have done for centuries.''</p>
+        <p>Trevor James, manager of Eye Spy, a spy equipment store in Olathe, Kan., said one of his customers had installed Spector on his wife's computer. The man said the program had captured her e-mail exchanges with her boyfriend, revealing not just their affair but also the boyfriend's desire to physically harm the husband, Mr. James said.</p>
+        <p>According to Mr. James, when the woman was confronted with the evidence, she agreed to a divorce, left town and gave up custody of the children without a fight.</p>
+        <p>Doug Fowler, president of SpectorSoft, recalled another case in which a private investigator, hired by a woman to check out her fiance, put the software on the man's computer and discovered that he was a philanderer. The marriage was called off.</p>
+        <p>And here is where the use of the technology may cross the line from morally ambiguous to morally reprehensible, if not also illegal, behavior.</p>
+        <p>Spector's newest program, eBlaster, was created for people who want to spy on computers to which they do not have regular access. It works like Spector, hiding in the background and recording on-screen activities, but it then surreptitiously sends a log of the activity via e-mail to any address specified by the person who installed the software.</p>
+        <p>Deep in the licensing agreement, which few people ever take the trouble to read, is a passage requiring the user to promise not to install or use the software on a computer without the knowledge of the computer owner.</p>
+        <p>Unlike Spector, eBlaster ($59.95) does its work remotely. Recording a screen shot every 30 seconds, as Spector does, would create unmanageable e-mail messages. Instead, eBlaster just sends the highlights. Or lowlights, as the case may be. The reports can be sent as frequently as every 15 minutes when the person being spied upon is connected to the Internet. The program does not leave an e-mail trail and does not automatically dial the Internet through the modem, which would alert the user that something was amiss.</p>
+        <p>Mr. Fowler said he had created eBlaster in response to requests by Spector customers. Some were fearful of being caught while reviewing the Spector playbacks on the target computer; the woman in Nashville said her husband had threatened her when he found her near his computer. Some were parents who wanted to monitor their children's computer activities from work when the children were home alone. Some were lovers in long-distance relationships. Mr. Fowler said one parent had wanted to install it on the computer that would go with his child to college.</p>
+        <p>''I would never advise anyone to put it on a computer that isn't owned by them,'' Mr. Fowler added quickly. And despite popular demand, he said, he would never create a version that could be installed on a computer remotely, as a Trojan horse program or virus can.</p>
+        <p>Of course, a skilled hacker would be able to send the program to someone else's computer, perhaps as an e-mail attachment.</p>
+        <p>In default mode, Spector captures a gray-scale picture of the computer screen every 30 seconds. If the user so chooses, it can capture screen shots in full 32-bit color as often as once a second. It can also capture keystrokes, which is useful in revealing passwords. On many screens, passwords are displayed as asterisks instead of clear text, but with keystroke playback, the passwords can easily be seen.</p>
+        <p>The default setting records 24 hours a day, beginning when Windows is first loaded, but it can be adjusted to fit the target's schedule, becoming active after work or after school. The recorded files are stored on a special area of the hard disk, one that does not show up on the directory. By default, the program stores up to 50 megabytes of data, about five days' worth, before recycling the disk space.</p>
+        <p>With standard hard disk sizes now in the multiple gigabytes (a gigabyte is about 1,000 megabytes), it is possible to track a user's actions for weeks. Playing back the computer record is as simple as using a VCR. Click on Play, and the screen shots are played back in slide-show fashion. The speed can be adjusted.</p>
+        <p>Some people think that they are sly because they encrypt their secret files and protect them with passwords, but Spector sees everything, including passwords.</p>
+        <p>Paranoid? The default hot-key combination to call Spector out of the shadows is Crtl-Alt-Shift-S, all held down at the same time. (The hot keys for eBlaster are Ctrl-Alt-Shift-T.) Or you can search your hard disk for TPS file extensions, which is where Spector stores its screen shots. It takes minimal computer knowledge to change the hot keys and file extensions, or to set up a password, but according to Mr. James, the spy shop manager, many of his customers are not exactly computer wizards.</p>
+        <p>Nor do they seem troubled by the difficult moral, ethical and legal questions that Spector raises.</p>
+        <p>Snoopware has raised some questions for privacy experts.</p>
+        <p>''Based on my reading of different state statutes, it is not clear if it is illegal or not,'' said Mike Godwin, a lawyer who is the author of ''Cyber Rights: Defending Free Speech in the Digital Age'' (Times Books, 1998). ''But this is fundamentally an ethical and moral discussion, and not fundamentally a legal one.</p>
+        <p>''Here you have a general-purpose tool that has all sorts of potential for  abuses. And that raises an important social question: Now that we have the technology to make it easy for people to violate someone else's privacy, even for the best of reasons sometimes, do we as a society promote it, tolerate it or forbid it?''</p>
+        <p>Mr. Godwin said he believed that programs like Spector needed some regulation. ''If someone ever installed this software on my computers in my home without my permission or knowledge,'' he said, he would take them to court.</p>
+        <p>Simson L. Garfinkel, author of ''Database Nation: The Death of Privacy in the 21st Century'' (O'Reilly &amp; Associates, 2000), also stopped short of condemning spy software. ''The issue isn't that these programs exist,'' he said. ''These programs have existed for years. What's new here is that they are coming into the mainstream. It's yet another example of why we need national data protection legislation.''</p>
+        <p>Many of Spector's proponents argue that those tactics are warranted if the software saves a child from harm or uncovers illegal or immoral activity.</p>
+        <p>''I have no sympathy for people who would try to claim that two wrongs don't make a right,'' said the woman in Nashville who spied on her husband. ''Spector helped save my life. How dare anyone say to me that what I did was wrong? When you're searching for truth and your spouse is doing everything he can to cover up, you depend on programs like Spector.''</p>
+        <p>STATE OF THE ART</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR025402" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1230779"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">Hitachi Corp</org>
+        <org class="indexing_service">Toshiba Corp</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000915T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E0DB1038F936A2575AC0A9669C8B63" item-length="170" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Sept 11 brief report on settlement of dispute over some types of digital television sets made by Hitachi and Toshiba, regarding adjoining picture</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A report in the Compressed Data column of Business Day on Monday about the settlement of a dispute over some types of digital television sets made by Hitachi and Toshiba referred incorrectly to the adjoining picture. It showed a standard high-definition TV, which has a wide screen -- not the type covered by the settlement. The companies gained the right to use the high-definition label for sets that have nearly square screens, so long as they notify buyers that the picture will have a lower resolution than that of a standard high-definition set.</p>
+      </block>
+      <block class="full_text">
+        <p>A report in the Compressed Data column of Business Day on Monday about the settlement of a dispute over some types of digital television sets made by Hitachi and Toshiba referred incorrectly to the adjoining picture. It showed a standard high-definition TV, which has a wide screen -- not the type covered by the settlement. The companies gained the right to use the high-definition label for sets that have nearly square screens, so long as they notify buyers that the picture will have a lower resolution than that of a standard high-definition set.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

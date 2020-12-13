@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Memorial Day</title>
+    <meta content="29HOLI$01" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203378"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000529T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CEFD61F3DF93AA15756C0A9669C8B63" item-length="442" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Memorial Day</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NEW YORK  GOVERNMENT OFFICES -- Closed.</p>
+        <p>POST OFFICES -- Express Mail only; main post office on Eighth Avenue at 32nd Street is open.</p>
+      </block>
+      <block class="full_text">
+        <p>NEW YORK  GOVERNMENT OFFICES -- Closed.</p>
+        <p>POST OFFICES -- Express Mail only; main post office on Eighth Avenue at 32nd Street is open.</p>
+        <p>BANKS -- Closed.</p>
+        <p>PARKING -- Alternate-side regulations will be suspended.</p>
+        <p>SANITATION -- No pickups, street cleaning or recycling.</p>
+        <p>SCHOOLS -- Closed.</p>
+        <p>FINANCIAL MARKETS -- Stock and bond markets closed.</p>
+        <p>TRANSPORTATION -- New York City subways and buses will operate on a Sunday schedule. Long Island Rail Road and Metro-North will operate on Sunday schedules.</p>
+        <p>NEW JERSEY</p>
+        <p>GOVERNMENT OFFICES -- Federal and state offices closed.</p>
+        <p>POST OFFICES -- Express Mail only.</p>
+        <p>BANKS -- Option to close.</p>
+        <p>SCHOOLS -- Option to close.</p>
+        <p>TRANSPORTATION -- New Jersey Transit rail service will operate on a Sunday schedule. PATH trains will operate on a weekend schedule. Most New Jersey Transit buses will operate on a holiday schedule, but some will operate on a Saturday or Sunday schedule.</p>
+        <p>CONNECTICUT</p>
+        <p>GOVERNMENT OFFICES -- Federal and state offices closed.</p>
+        <p>POST OFFICES -- Express Mail only.</p>
+        <p>BANKS -- Option to close.</p>
+        <p>SCHOOLS -- Closed.</p>
+        <p>TRANSPORTATION -- Metro-North trains will operate on a Sunday schedule.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

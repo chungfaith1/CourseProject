@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DOUBLECLICK TO BUY ATPLAN</title>
+    <meta content="MB234958" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1233916"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY BRIEFING: DEALS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Doubleclick Inc</org>
+        <org class="indexing_service">AtPlan (Co)</org>
+        <person class="indexing_service">Tedeschi, Bob</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000926T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E6DB123AF935A1575AC0A9669C8B63" item-length="147" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DOUBLECLICK TO BUY ATPLAN</hl1>
+      </hedline>
+      <byline class="print_byline">By Bob Tedeschi</byline>
+      <byline class="normalized_byline">Tedeschi, Bob</byline>
+      <abstract>
+        <p>Online advertising company DoubleClick acquires AtPlan, online market research company, for $120 million in stock and cash (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The online advertising company DoubleClick said yesterday that it had agreed to purchase AtPlan, an online market research company, for $120 million in stock and cash. AtPlan stockholders are to receive the equivalent of $9.25 for each share of AtPlan common stock -- 20 percent of which will be given as cash, the rest in DoubleClick common stock. AtPlan's shares closed yesterday at $8.75, up $1.50, or 21 percent.</p>
+        <p>Bob Tedeschi</p>
+      </block>
+      <block class="full_text">
+        <p>The online advertising company DoubleClick said yesterday that it had agreed to purchase AtPlan, an online market research company, for $120 million in stock and cash. AtPlan stockholders are to receive the equivalent of $9.25 for each share of AtPlan common stock -- 20 percent of which will be given as cash, the rest in DoubleClick common stock. AtPlan's shares closed yesterday at $8.75, up $1.50, or 21 percent.</p>
+        <p>Bob Tedeschi</p>
+        <p>TECHNOLOGY BRIEFING: DEALS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

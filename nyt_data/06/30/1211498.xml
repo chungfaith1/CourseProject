@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Business; Bond Trader Investigated</title>
+    <meta content="MB030934" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211498"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Bribery</classifier>
+        <org class="indexing_service">New York Life Insurance Co</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bribery</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000630T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E6DD1739F933A05755C0A9669C8B63" item-length="197" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Business; Bond Trader Investigated</hl1>
+      </hedline>
+      <byline class="print_byline">By Reuters</byline>
+      <abstract>
+        <p>New York Life Insurance acknowledges federal investigation of charges that one of its bond traders received kickbacks for favorable bond prices (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The New York Life Insurance Company said yesterday that it was cooperating with federal authorities investigating charges that one of its bond traders received kickbacks in return for favorable bond prices.</p>
+        <p>The Wall Street Journal reported that the Securities and Exchange Commission and the United States attorney's office for Manhattan were investigating whether Wall Street firms paid kickbacks or gave expensive gifts to Anthony Shen, a former New York Life trader.</p>
+      </block>
+      <block class="full_text">
+        <p>The New York Life Insurance Company said yesterday that it was cooperating with federal authorities investigating charges that one of its bond traders received kickbacks in return for favorable bond prices.</p>
+        <p>The Wall Street Journal reported that the Securities and Exchange Commission and the United States attorney's office for Manhattan were investigating whether Wall Street firms paid kickbacks or gave expensive gifts to Anthony Shen, a former New York Life trader.</p>
+        <p>The government also is investigating whether more firms and traders are involved and whether fraudulent off-market trading occurred, whereby traders pay more or less than the quoted market price for a bond, the newspaper said.</p>
+        <p>A spokeswoman for New York Life said the company was ''a victim of this scheme'' and was fully cooperating with regulatory and law enforcement authorities.</p>
+        <p>A spokesman from the United States attorney's office would not comment when asked whether an inquiry was taking place.  The associate director of the S.E.C.'s division of enforcement in Washington, William Baker, was not available for comment.</p>
+        <p>Mr. Shen was a portfolio manager at New York Life. His lawyer, Sean O'Shea, said Mr. Shen denied the charges.</p>
+        <p>(Reuters)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

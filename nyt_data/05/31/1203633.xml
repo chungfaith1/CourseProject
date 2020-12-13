@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Peel Me a Litchi</title>
+    <meta content="31LITC$05" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203633"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="FOOD STUFF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Litchis</classifier>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fruit</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000531T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E1D9173CF932A05756C0A9669C8B63" item-length="205" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Peel Me a Litchi</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>Fresh litchis are now at produce stands in Chinatown; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bouquets of fresh litchis, nubbly rose-red fruits hanging like little lanterns from their stems, now decorate produce stands in Chinatown.</p>
+        <p>Puncture the crisp shell and inhale the heady fragrance of the pearly, translucent fruit. The sweet, juicy flesh comes away easily.</p>
+      </block>
+      <block class="full_text">
+        <p>Bouquets of fresh litchis, nubbly rose-red fruits hanging like little lanterns from their stems, now decorate produce stands in Chinatown.</p>
+        <p>Puncture the crisp shell and inhale the heady fragrance of the pearly, translucent fruit. The sweet, juicy flesh comes away easily.</p>
+        <p>Cut litchis in half to remove the pit, and add them to fruit salads or a duck breast saute or puree them for a sorbet. Unpeeled and on the stem, they will keep for a couple of weeks in the refrigerator.</p>
+        <p>In Chinatown, the bunches are $8 at Ken Hing, 247 Grand Street (Chrystie Street). They are also sold loose, at $7.99 a pound, at Manhattan Fruit Exchange in the Chelsea Market, 75 Ninth Avenue (15th Street), and at $6.99 a pound at Gourmet Garage stores.</p>
+        <p>FOOD STUFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

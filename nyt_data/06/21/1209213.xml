@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>McCaw to Back OneWorld Entry</title>
+    <meta content="PL025514" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209213"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PLUS: YACHT RACING -- AMERICA'S CUP"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Boats and Boating</classifier>
+        <classifier class="indexing_service" type="descriptor">America's Cup</classifier>
+        <person class="indexing_service">Mccaw, Craig</person>
+        <person class="indexing_service">Mccormick, Herb</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Boating</classifier>
+        <classifier class="online_producer" type="general_descriptor">America's Cup</classifier>
+        <classifier class="online_producer" type="general_descriptor">Boats and Boating</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000621T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E3D81031F932A15755C0A9669C8B63" item-length="110" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>McCaw to Back OneWorld Entry</hl1>
+      </hedline>
+      <byline class="print_byline">By HERB MCCORMICK</byline>
+      <byline class="normalized_byline">Mccormick, Herb</byline>
+      <abstract>
+        <p>Seattle businessman Craig McCaw announces formation of OneWorld Challenge Syndicate to compete for America's Cup in New Zealand in 2002-3 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ending weeks of speculation, the Seattle businessman Craig McCaw announced yesterday the formation of the OneWorld Challenge Syndicate to compete for the America's Cup in New Zealand in 2002-3.</p>
+        <p>McCaw, a billionaire who will bankroll the challenge, added that any additional corporate money raised by his group would be earmarked for environmental efforts.</p>
+      </block>
+      <block class="full_text">
+        <p>Ending weeks of speculation, the Seattle businessman Craig McCaw announced yesterday the formation of the OneWorld Challenge Syndicate to compete for the America's Cup in New Zealand in 2002-3.</p>
+        <p>McCaw, a billionaire who will bankroll the challenge, added that any additional corporate money raised by his group would be earmarked for environmental efforts.</p>
+        <p>As representatives of the Seattle Yacht Club, the sailing team will be led by the cup veteran Peter Gilmour of Australia, who fronted Japan's Nippon Challenge in the most recent cup. Six members of the victorious Team New Zealand sailing squad have also signed on.</p>
+        <p>HERB McCORMICK</p>
+        <p>PLUS: YACHT RACING -- AMERICA'S CUP</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Yet Another Draw, and Time Grows Short for Kasparov</title>
+    <meta content="27CHES" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="49" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1242183"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="CHESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Chess</classifier>
+        <person class="indexing_service">Kasparov, Garry</person>
+        <person class="indexing_service">Kramnik, Vladimir</person>
+        <person class="indexing_service">Byrne, Robert</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Chess</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chess</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001027T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E0DD1131F934A15753C1A9669C8B63" item-length="432" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Yet Another Draw, and Time Grows Short for Kasparov</hl1>
+      </hedline>
+      <byline class="print_byline">By Robert Byrne</byline>
+      <byline class="normalized_byline">Byrne, Robert</byline>
+      <abstract>
+        <p>Robert Byrne chess column on Game 11 between Garry Kasparov and Vladimir Kramnik in London; diagram (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Time is running out for Garry Kasparov, but he conducted Game 11 against Vladimir Kramnik, the challenger for the world championship, as though he were taking a rest stop.</p>
+        <p>The draw the players agreed upon after 41 moves made the score Kramnik 6 1/2, Kasparov 4 1/4, but the champion seemed to be without ambition. All Kramnik, 25, needs is two victories or four draws to sew it up.</p>
+      </block>
+      <block class="full_text">
+        <p>Time is running out for Garry Kasparov, but he conducted Game 11 against Vladimir Kramnik, the challenger for the world championship, as though he were taking a rest stop.</p>
+        <p>The draw the players agreed upon after 41 moves made the score Kramnik 6 1/2, Kasparov 4 1/4, but the champion seemed to be without ambition. All Kramnik, 25, needs is two victories or four draws to sew it up.</p>
+        <p>It is understandable that Kasparov would like to recuperate from his grievous loss in Game 10, but that is a luxury he cannot afford at this stage.</p>
+        <p>The defense to the Ruy Lopez featuring 6 . . . Bc5 is not new, but it lacks a name because it was believed for many years to be an error. The refutation was supposed to be 7 Ne5 Ne5 8 d4 Bd4 9 Qd4, but it has now been appreciated that after 9 . . . d6 10 c3 O-O 11 f3 c5 12 Qd1 h6 13 a4 Bb7 14 ab ab 15 Ra8 Ba8 16 Na3 Bc6 17 Bf4 Qe7, Black's game is quite sound.</p>
+        <p>With 9 . . . Na5, Kramnik offers what has come to be considered a respectable positional gambit. Kasparov knows its ins and outs and so does Kramnik.</p>
+        <p>Kasparov had introduced 14 Bg5 against Alexei Shirov in Linares 1998, but after 14 . . . Be7 15 Nb5 de 16 de Be4, Shirov had no trouble making a draw.</p>
+        <p>After 16 . . . b4, Kasparov made the only original move of the game, 17 Bf6, but it led to a sterile endgame in which the denouement was a technical exercise. Was he hoping for something more?</p>
+        <p>After 19 Bd6 20 Nf8 Kf8, material was even, a rook and two pawns opposed to two bishops. After that, the players were running on empty.</p>
+        <p>On 42 gf, there could follow 42 . . . Be4 43 Kf4 Bd6 44 Kg5 Ba3 45 f7 Ke5, and Kramnik will exchange a bishop for the last pawn and enter into the routinely drawn rook versus bishop endgame. On 42 g6, there could follow 42 . . . Be4 43 Kf6 Bd4 44 Kf7 Be5 45 g7 Bg7 with the same result.</p>
+        <p>Game 12 begins tomorrow at 3 p.m. London time (10 a.m. Eastern Daylight Time).</p>
+        <p>CHESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

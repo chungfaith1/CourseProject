@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Simpler Monitoring Device for Diabetics</title>
+    <meta content="22DIAB$01" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health and Fitness" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1224420"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="VITAL SIGNS: IN THE LAB"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Diabetes</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <person class="indexing_service">Small, Gary W (Dr)</person>
+        <person class="indexing_service">Nagourney, Eric</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Diabetes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diabetes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000822T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05EFD8113EF931A1575BC0A9669C8B63" item-length="247" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Simpler Monitoring Device for Diabetics</hl1>
+      </hedline>
+      <byline class="print_byline">By ERIC NAGOURNEY</byline>
+      <byline class="normalized_byline">Nagourney, Eric</byline>
+      <abstract>
+        <p>Dr Gary W Small reports research on way to enable diabetics to monitor glucose levels by passing beams of infrared light through their skin (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For many diabetics, the task of monitoring their blood-glucose levels is an onerous one.</p>
+        <p>Millions of diabetics need to take blood samples regularly by piercing their fingers -- a time-consuming, somewhat painful practice that some people shun.</p>
+      </block>
+      <block class="full_text">
+        <p>For many diabetics, the task of monitoring their blood-glucose levels is an onerous one.</p>
+        <p>Millions of diabetics need to take blood samples regularly by piercing their fingers -- a time-consuming, somewhat painful practice that some people shun.</p>
+        <p>But a recent study suggests that things may become easier. Writing in the journal Diabetes Technology and Therapeutics, researchers said diabetics might one day be able to monitor glucose levels by passing beams of infrared light through the skin. The researchers are from Ohio State University and the University of Iowa.</p>
+        <p>Although earlier studies had suggested that the technique might work, this was the first to prove it reliable, said the lead author, Dr. Gary W. Small of Ohio State.</p>
+        <p>The study involved five people with Type 1 diabetes. For 39 days, researchers measured their glucose by shooting a beams of light through their tongues.</p>
+        <p>Because various molecules in the blood, including glucose, absorb differing light frequencies, the scientists were able to measure the concentration of glucose in the diabetics. Still, it will be some time before diabetics will benefit. Researchers need to develop much smaller, cheaper monitoring units. They hope to make a model about the size of a portable CD player, costing about $500.</p>
+        <p>VITAL SIGNS: IN THE LAB</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

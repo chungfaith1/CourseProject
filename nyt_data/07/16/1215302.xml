@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>AIDS RATE</title>
+    <meta content="MB000500" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215302"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BRIEFING: HEALTH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Acquired Immune Deficiency Syndrome (AIDS)</classifier>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <classifier class="indexing_service" type="descriptor">Hispanic-Americans</classifier>
+        <location class="indexing_service">Newark (NJ)</location>
+        <location class="indexing_service">Jersey City (NJ)</location>
+        <location class="indexing_service">New York State</location>
+        <location class="indexing_service">Florida</location>
+        <org class="indexing_service">Centers for Disease Control and Prevention</org>
+        <person class="indexing_service">Beller, Peter</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Florida</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hispanic-Americans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Viruses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E2DE173BF935A25754C0A9669C8B63" item-length="88" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>AIDS RATE</hl1>
+      </hedline>
+      <byline class="print_byline">By PETER BELLER</byline>
+      <byline class="normalized_byline">Beller, Peter</byline>
+      <abstract>
+        <p>Centers for Disease Control and Prevention reports that Jersey City, NJ, has highest number of blacks infected with AIDS virus in US cities and is second only to Newark among Hispanics; New York and Florida were not included because they do not compile data on HIV rates (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jersey City has the highest number of blacks infected with the AIDS virus in the nation's cities, and is second only to Newark among Hispanics, according to a report issued last week by the Centers for Disease Control and Prevention. The survey covered metropolitan areas with black or Hispanic populations of more than 50,000, although New York and Florida were not included because they do not compile data on HIV rates.</p>
+        <p>PETER BELLER</p>
+      </block>
+      <block class="full_text">
+        <p>Jersey City has the highest number of blacks infected with the AIDS virus in the nation's cities, and is second only to Newark among Hispanics, according to a report issued last week by the Centers for Disease Control and Prevention. The survey covered metropolitan areas with black or Hispanic populations of more than 50,000, although New York and Florida were not included because they do not compile data on HIV rates.</p>
+        <p>PETER BELLER</p>
+        <p>BRIEFING: HEALTH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

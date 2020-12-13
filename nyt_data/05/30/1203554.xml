@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Lyme Battle Rages</title>
+    <meta content="LTR225147" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203554"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Lyme Disease</classifier>
+        <person class="indexing_service">parrett, debbie</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lyme Disease</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000530T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04EFDE173CF933A05756C0A9669C8B63" item-length="94" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Lyme Battle Rages</hl1>
+      </hedline>
+      <abstract>
+        <p>Debbie Parret letter comments on May 23 article on controversy over treating Lyme disease</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The article ''Questioning Long-Term Lyme Cases'' (May 23) depicts Western medicine politics at its worst. The situation may seem bizarre to those who have not experienced the complications of Lyme disease but, as one who has, I can state that there are many more patient stories similar to those in the article.</p>
+        <p>DEBBIE PARRETT  Centerville, Ohio</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The article ''Questioning Long-Term Lyme Cases'' (May 23) depicts Western medicine politics at its worst. The situation may seem bizarre to those who have not experienced the complications of Lyme disease but, as one who has, I can state that there are many more patient stories similar to those in the article.</p>
+        <p>DEBBIE PARRETT  Centerville, Ohio</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

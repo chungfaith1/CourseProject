@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Inconvenient Woman</title>
+    <meta content="LTR105315" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208111"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MURDERS AND ATTEMPTED MURDERS</classifier>
+        <classifier class="indexing_service" type="descriptor">Transsexuals</classifier>
+        <person class="indexing_service">Winchell, Barry L (Pfc)</person>
+        <person class="indexing_service">Addams, Calpernia Sarah</person>
+        <person class="indexing_service">Peruo, Marsha</person>
+        <person class="indexing_service">France, David</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E3DA153EF93BA25755C0A9669C8B63" item-length="84" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Inconvenient Woman</hl1>
+      </hedline>
+      <abstract>
+        <p>Marsha Peruo letter takes exception to prejudice shown toward Pfc Barry Winchell by his friends in David France's May 28 article on Winchell's murder</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I was appalled by the extreme prejudice shown toward Barry Winchell by his ''friends.'' I was also amazed at how much excessive drinking was tolerated by the military. It sounded to me as if alcohol abuse was as much to blame for the murder as was hatred of gays.</p>
+        <p>Marsha Peruo</p>
+        <p>New York</p>
+      </block>
+      <block class="full_text">
+        <p>I was appalled by the extreme prejudice shown toward Barry Winchell by his ''friends.'' I was also amazed at how much excessive drinking was tolerated by the military. It sounded to me as if alcohol abuse was as much to blame for the murder as was hatred of gays.</p>
+        <p>Marsha Peruo</p>
+        <p>New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jose Is Back; Johnson Is Out</title>
+    <meta content="31LANC$01" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203740"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <org class="indexing_service">New York Yankees</org>
+        <person class="indexing_service">Jose, Felix</person>
+        <person class="indexing_service">Johnson, Lance</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000531T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01EED7143CF932A05756C0A9669C8B63" item-length="191" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jose Is Back; Johnson Is Out</hl1>
+      </hedline>
+      <abstract>
+        <p>New York Yankees announce that Felix Jose has returned from injured list; Lance Johnson is designated for assignment (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When Felix Jose was promoted to the Yankees from Class AAA Columbus last month, he cried in the clubhouse because he had finally ended a five-year fight to return to the major leagues. Then Jose strained his left groin muscle after two at-bats and was put on the disabled list. The Yankees summoned Jose back yesterday, hoping he can stay healthy.</p>
+        <p>''It was kind of funny,'' Jose said. ''People were asking me how long I had been in New York. I told them it was less than a day.''</p>
+      </block>
+      <block class="full_text">
+        <p>When Felix Jose was promoted to the Yankees from Class AAA Columbus last month, he cried in the clubhouse because he had finally ended a five-year fight to return to the major leagues. Then Jose strained his left groin muscle after two at-bats and was put on the disabled list. The Yankees summoned Jose back yesterday, hoping he can stay healthy.</p>
+        <p>''It was kind of funny,'' Jose said. ''People were asking me how long I had been in New York. I told them it was less than a day.''</p>
+        <p>To add the 35-year-old switch-hitting outfielder to the roster, the Yankees designated outfielder Lance Johnson for assignment. The team has 10 days to trade, release or outright Johnson, 36, to the minor leagues, but he said he would not go to the minors.</p>
+        <p>Steve Phillips, the Mets' general manager, was traveling and unavailable for comment. One baseball official said the Mets believe that Johnson's skills have eroded and they would probably not have interest in him. Johnson batted .300 in 30 at-bats with the Yankees.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

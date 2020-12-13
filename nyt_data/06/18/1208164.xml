@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Frozen Switches</title>
+    <meta content="LTR014544" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208164"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Railroads</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <org class="indexing_service">Amtrak</org>
+        <person class="indexing_service">Wald, Matthew L</person>
+        <person class="indexing_service">Karabell, I Milton</person>
+        <person class="indexing_service">Taubenkibel, Stephen</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Railroads</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05EFDD133EF93BA25755C0A9669C8B63" item-length="167" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Frozen Switches</hl1>
+      </hedline>
+      <abstract>
+        <p>I Milton Karabell letter on Matthew L Wald's May 21 travel article praises Amtrak for installing modern safety devices but questions why switches that do not freeze on cold days are not used; Amtrak spokesman Stephen Taubenkibel responds (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: I was pleased to see that Amtrak is installing modern safety devices in ''Faster Amtrak Trains, Fancier Safeguards'' by Matthew L. Wald (May 21).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: I was pleased to see that Amtrak is installing modern safety devices in ''Faster Amtrak Trains, Fancier Safeguards'' by Matthew L. Wald (May 21).</p>
+        <p>I would be happy if after 150 years of railroading they could come up with a switch that doesn't freeze on cold days. When the switches freeze, as they do almost every winter, the speed of the stopped trains is moot!</p>
+        <p>I. MILTON KARABELL  Philadelphia</p>
+        <p>Stephen Taubenkibel, an Amtrak spokesman, responds: In the Northeast Corridor, between Washington and Boston, we have switch heaters. Most of them are turned on from a center in Philadelphia if we know there will be heavy ice or severe weather.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Source for Seeds</title>
+    <meta content="LTR011601" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Dining and Wine; Style; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212678"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Herbs</classifier>
+        <classifier class="indexing_service" type="descriptor">Basil</classifier>
+        <org class="indexing_service">Native Seeds Search (Orgn)</org>
+        <person class="indexing_service">Egan, Martha J</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Herbs</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000705T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E5DC1139F936A35754C0A9669C8B63" item-length="112" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Source for Seeds</hl1>
+      </hedline>
+      <abstract>
+        <p>Martha J Egan letter gives address for buying Mrs Burns's lemon basil, from Native Seeds Search in Tucson (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The Mrs. Burns's lemon basil (Ocimum basilicum), referred to in ''Chocolate, Lemon, Clove: Yes, This Is Basil,'' June 28), was grown for many decades in Carlsbad, N.M., by the mother of Barney Burns, a board member of Native Seeds Search, which now sells her famous seeds. The company is at 526 North Fourth Avenue, Tucson, Ariz. 85705 (e-mail: info@Nativeseeds.org).  MARTHA J. EGAN  Corrales, N.M.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The Mrs. Burns's lemon basil (Ocimum basilicum), referred to in ''Chocolate, Lemon, Clove: Yes, This Is Basil,'' June 28), was grown for many decades in Carlsbad, N.M., by the mother of Barney Burns, a board member of Native Seeds Search, which now sells her famous seeds. The company is at 526 North Fourth Avenue, Tucson, Ariz. 85705 (e-mail: info@Nativeseeds.org).  MARTHA J. EGAN  Corrales, N.M.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

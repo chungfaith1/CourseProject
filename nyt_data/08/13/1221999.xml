@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Children's Books</title>
+    <meta content="RV102131" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1221999"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Oppenheimer, Mark</person>
+        <person class="indexing_service">Turner, Megan Whalen</person>
+        <object.title class="indexing_service">Queen of Attolia, The (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Columns/Children's Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000813T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E5D9143CF930A2575BC0A9669C8B63" item-length="371" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Children's Books</hl1>
+      </hedline>
+      <byline class="print_byline">By Mark Oppenheimer</byline>
+      <byline class="normalized_byline">Oppenheimer, Mark</byline>
+      <abstract>
+        <p>Mark Oppenheimer reviews book The Queen of Attolia by Megan Whalen Turner (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Queen of Attolia</p>
+        <p>By Megan Whalen Turner.</p>
+        <p>Greenwillow, $15.95.</p>
+        <p>(Ages 10 and up)</p>
+      </block>
+      <block class="full_text">
+        <p>The Queen of Attolia</p>
+        <p>By Megan Whalen Turner.</p>
+        <p>Greenwillow, $15.95.</p>
+        <p>(Ages 10 and up)</p>
+        <p>Fantasy succeeds to the extent that it creates a deep, totalizing world, one that invites us to suspend disbelief. For the most part, Megan Whalen Turner succeeds in ''The Queen of Attolia,'' the sequel to her Newbery Honor book, ''The Thief.'' Her protagonist, Eugenides, is a likably impish thief, caught stealing in the opening scene. The queen of Attolia has a jailer lop off his hand with a sword -- Turner does not shy from amputations, drownings and the like -- and, in a domino effect reminiscent of World War I, sets off a multilateral conflict involving Attolia, Eddis (Eugenides's homeland), Sounis and the Mede empire.</p>
+        <p>The characters are distinct and moving: we can feel a magus's wisdom, the Mede ambassador's treachery and especially Eugenides's self-loathing for having brought on this war. The characters also, alas, use modern idioms like ''robbing the cradle.'' After peopling her world with antique elements like a physician named Galen and a river called Aracthus, Turner should know better than to have Eugenides complain acridly to his queen, ''You bought a lovely house for me in the suburbs.''</p>
+        <p>Taken alone, these slips are jarring; taken together, they diminish the novel's authentic feel, make this fantasy novel less fantastic. The book's strengths, then, lie not in the language but in the plot, which somehow teaches us about trade embargoes and military strategy without resorting to jargon or condescension. The skirmishes are exciting without being gruesome, and the war's climax is startling, a series of surprise endings that insist on tension every time you want to relax.</p>
+        <p>At the end, the action has won out, leaving us with the juvenile equivalent of Tom Clancy. We do not wonder about the morality of thieving, an activity that has made Eugenides famous and admired; we smile as the title character, a prisoner of war, is nearly drowned. ''The Queen of Attolia'' is a book to turn children into readers -- bound, one hopes, for richer fare.</p>
+        <p>Mark Oppenheimer</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

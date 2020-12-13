@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>What the BBC Did</title>
+    <meta content="LTR040358" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1235065"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="ADAPTING JAMES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <person class="indexing_service">Brown, Lee</person>
+        <person class="indexing_service">Zeidner, Lisa</person>
+        <person class="indexing_service">James, Henry (1843-1916)</person>
+        <object.title class="indexing_service">Golden Bowl, The (Book)</object.title>
+        <object.title class="indexing_service">Masterpiece Theater (TV Program)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001001T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E2DA1E3AF932A35753C1A9669C8B63" item-length="129" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>What the BBC Did</hl1>
+      </hedline>
+      <abstract>
+        <p>Lee Brown letter on Lisa Zeidner's September 10 article on adaptations of Henry James novels recalls Masterpiece Theater version of The Golden Bowl (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I am reminded of the virtues of the earlier BBC ''Masterpiece Theater'' version of ''The Golden Bowl.'' First, it gave us about four and a half visual hours of James's masterpiece. Second, it came close to solving the problem of what to do with the narrative voice, without resorting to a tedious voice-over. In the BBC version, that voice becomes a character, brilliantly played by Cyril Cusack. We see Cusack-as-storyteller sitting in his study, musing over the events he unfolds. The performance is a tour de force, since it manages to make complex Jamesian reflections seem conversational. Will the new film version offer as much?</p>
+        <p>LEE BROWN  Columbus, Ohio</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I am reminded of the virtues of the earlier BBC ''Masterpiece Theater'' version of ''The Golden Bowl.'' First, it gave us about four and a half visual hours of James's masterpiece. Second, it came close to solving the problem of what to do with the narrative voice, without resorting to a tedious voice-over. In the BBC version, that voice becomes a character, brilliantly played by Cyril Cusack. We see Cusack-as-storyteller sitting in his study, musing over the events he unfolds. The performance is a tour de force, since it manages to make complex Jamesian reflections seem conversational. Will the new film version offer as much?</p>
+        <p>LEE BROWN  Columbus, Ohio</p>
+        <p>ADAPTING JAMES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

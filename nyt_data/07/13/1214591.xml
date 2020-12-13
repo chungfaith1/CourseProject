@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Strike Against Bandwidth</title>
+    <meta content="LTR234838" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1214591"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">levine, richard (prof)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000713T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E5DA1F38F930A25754C0A9669C8B63" item-length="316" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Strike Against Bandwidth</hl1>
+      </hedline>
+      <abstract>
+        <p>Richard Levine letter, commenting on July 6 Q &amp; A column, deplores indiscriminate use of the term 'bandwidth'</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I want to compliment J. D. Biersdorfer for pointing out in the Q &amp; A column of July 6 (''Computers Need Space to Work'') just how vague the term ''bandwidth'' is.</p>
+        <p>I would like to see the term bandwidth restricted to the one case where it is appropriate: when a signal is encoded and modulated as a specific wave form and therefore occupies a definite amount of frequency spectrum. That case is almost exclusively confined to radio transmissions or optical transmissions, as opposed to ''baseband'' signals passing through a cable, a wire or a conductive bus (a group of wires) on a printed wiring board. The rate of information transfer should be given as ''bits per second'' (or kilobits or megabits, etc.).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I want to compliment J. D. Biersdorfer for pointing out in the Q &amp; A column of July 6 (''Computers Need Space to Work'') just how vague the term ''bandwidth'' is.</p>
+        <p>I would like to see the term bandwidth restricted to the one case where it is appropriate: when a signal is encoded and modulated as a specific wave form and therefore occupies a definite amount of frequency spectrum. That case is almost exclusively confined to radio transmissions or optical transmissions, as opposed to ''baseband'' signals passing through a cable, a wire or a conductive bus (a group of wires) on a printed wiring board. The rate of information transfer should be given as ''bits per second'' (or kilobits or megabits, etc.).</p>
+        <p>Incidentally, there is an official agreement to use a lowercase ''k'' for the prefix ''kilo.'' Many editors and writers unofficially reserve the capital letter K exclusively for the number 1024, which is used to describe the capacity of digital memory since it is exactly 2 to the 10th power. Without some standard about use of the two forms of k/K, there is often ambiguity in situations that involve both the storage and transfer of binary information.</p>
+        <p>Without some care taken by writers, the word bandwidth can end up having so many different meanings that it will become useless to convey real meaning, like the words ''biannual'' and ''semiannual.'' Next, I hope that writers will all become specific about the vague uses of ''protocol'' and ''handshake.''</p>
+        <p>RICHARD LEVINE  Dallas</p>
+        <p>The writer is an adjunct professor of electrical engineering at Southern Methodist University.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

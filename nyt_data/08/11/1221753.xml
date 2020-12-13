@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>GOOGLE OFFERS MOBILE WEB SERVICE</title>
+    <meta content="MB002434" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1221753"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY BRIEFING: INTERNET"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Cellular Telephones</classifier>
+        <org class="indexing_service">Google (Internet Search Engine)</org>
+        <person class="indexing_service">Katz, Marty</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000811T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE6DA143FF932A2575BC0A9669C8B63" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>GOOGLE OFFERS MOBILE WEB SERVICE</hl1>
+      </hedline>
+      <byline class="print_byline">By Marty Katz</byline>
+      <byline class="normalized_byline">Katz, Marty</byline>
+      <abstract>
+        <p>New service from Google, Internet search engine, will allow Web-enabled cell phones to view any of estimated 1.6 billion pages on Web (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Web-enabled cell phones can now be used to view any of the estimated 1.6 billion pages on the Web with a new service from the Google search engine. The Google service, which was introduced last week, translates standard Web pages into wireless markup language, the programming language used by most cell phone browsers. Mobile searchers who go to the Google site can enter the address of any Web page and it will be translated and displayed. Some Nextel Communications phones began displaying the Google search option on Aug. 1.</p>
+        <p>Marty Katz (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Web-enabled cell phones can now be used to view any of the estimated 1.6 billion pages on the Web with a new service from the Google search engine. The Google service, which was introduced last week, translates standard Web pages into wireless markup language, the programming language used by most cell phone browsers. Mobile searchers who go to the Google site can enter the address of any Web page and it will be translated and displayed. Some Nextel Communications phones began displaying the Google search option on Aug. 1.</p>
+        <p>Marty Katz (NYT)</p>
+        <p>TECHNOLOGY BRIEFING: INTERNET</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

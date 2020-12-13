@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cat in the Box Theory</title>
+    <meta content="LTR233511" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215885"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Physics</classifier>
+        <person class="indexing_service">perez, l jeffrey (dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Physics</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000718T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E1DE103BF93BA25754C0A9669C8B63" item-length="128" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cat in the Box Theory</hl1>
+      </hedline>
+      <abstract>
+        <p>Dr L Jeffrey Perez leeter on July 11 article comments on quantum mechanics experiment</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Here, There and Everywhere: A Quantum State of Mind'' (July 11) refers to Erwin Schrodinger's ''cat in a box'' thought experiment in which radioactive decay may, or may not, have triggered the release of poison, killing the cat. As the reporter put it, the cat ''oscillates between life and death and only when the box is opened is its fate decided.'' Tell that to the cat.</p>
+        <p>DR. L. JEFFREY PEREZ  Albany</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Here, There and Everywhere: A Quantum State of Mind'' (July 11) refers to Erwin Schrodinger's ''cat in a box'' thought experiment in which radioactive decay may, or may not, have triggered the release of poison, killing the cat. As the reporter put it, the cat ''oscillates between life and death and only when the box is opened is its fate decided.'' Tell that to the cat.</p>
+        <p>DR. L. JEFFREY PEREZ  Albany</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

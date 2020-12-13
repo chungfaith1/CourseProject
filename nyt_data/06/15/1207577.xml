@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Support for the Psion</title>
+    <meta content="LTR231615" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1207577"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Personal Computers</classifier>
+        <org class="indexing_service">Psion Plc</org>
+        <person class="indexing_service">Zakin, Richard</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE7DC113EF936A25755C0A9669C8B63" item-length="201" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Support for the Psion</hl1>
+      </hedline>
+      <abstract>
+        <p>Richard Zakin letter on Psion 7 computer (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I enjoyed reading about the Psion Series 7 with its EPOC operating system. I am writing this on a five-pound portable with an 8.5-inch TFT screen, a small but decent keyboard and a small but O.K. hard drive. The computer is five years old, but still capable, Toshiba Portege. The computer came to me used and refurbished and was very inexpensive. Windows runs slowly on it, but I am not running Windows on it very much. I am running programs written to run in DOS.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I enjoyed reading about the Psion Series 7 with its EPOC operating system. I am writing this on a five-pound portable with an 8.5-inch TFT screen, a small but decent keyboard and a small but O.K. hard drive. The computer is five years old, but still capable, Toshiba Portege. The computer came to me used and refurbished and was very inexpensive. Windows runs slowly on it, but I am not running Windows on it very much. I am running programs written to run in DOS.</p>
+        <p>For the time being, I am content to carry this computer around with me in the same way my friends carry P.D.A.'s. The only difference is that I have to carry a bit more weight (bad) and I can use Word Perfect 6 for DOS, a great writing program and totally compatible with Word Perfect For Windows (very good).</p>
+        <p>RICHARD ZAKIN  Oswego, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

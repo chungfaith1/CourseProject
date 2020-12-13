@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fall Arts Festival in Hoboken</title>
+    <meta content="MB000617" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1231222"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="JERSEY FOOTLIGHTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <org class="indexing_service">Nrbq (Music Group)</org>
+        <person class="indexing_service">Nile, Willie</person>
+        <person class="indexing_service">Woliver, Robbie</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000917T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00EEDC1038F934A2575AC0A9669C8B63" item-length="210" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fall Arts Festival in Hoboken</hl1>
+      </hedline>
+      <byline class="print_byline">By Robbie Woliver</byline>
+      <byline class="normalized_byline">Woliver, Robbie</byline>
+      <abstract>
+        <p>Annual fall arts and music festival in Hoboken, NJ, will feature band NRBQ and singer-songwriter Willie Nile (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As if there wasn't enough going on in Hoboken, the city's annual fall arts and music festival takes place next Sunday from 11 a.m. until 6 p.m. on Washington Street.</p>
+      </block>
+      <block class="full_text">
+        <p>As if there wasn't enough going on in Hoboken, the city's annual fall arts and music festival takes place next Sunday from 11 a.m. until 6 p.m. on Washington Street.</p>
+        <p>A musical highlight is NRBQ, a band that plays a sly mix of styles ranging from rock to country, with a heavy dose of rhythm and blues (their name derives from New Rhythm and Blues Quartet). The eclectic, irreverent group has been honing their live performance since 1967. Other acts include Willie Nile, one of the most gratifying rock-based singer-songwriters on the scene, and the classic Doo Wop outfit, the Duprees (''Sixteen Candles''). Also performing are the alternative-country band the Health and Happiness Show, the Jose Conde Cuban jazz band. The Elizabethan Shakespeare company is even on hand for some high-brow theater.</p>
+        <p>Robbie Woliver</p>
+        <p>JERSEY FOOTLIGHTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

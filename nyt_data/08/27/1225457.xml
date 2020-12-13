@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>My Name Is Not Robert</title>
+    <meta content="LTR091247" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225457"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <person class="indexing_service">Beckerman, Jeffrey Scott</person>
+        <person class="indexing_service">Sanders, Kerry</person>
+        <person class="indexing_service">Weiser, Benjamin</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000827T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E7D8113EF934A1575BC0A9669C8B63" item-length="122" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>My Name Is Not Robert</hl1>
+      </hedline>
+      <abstract>
+        <p>Jeffrey Scott Beckerman letter on Benjamin Weiser's August 6 article on wrongful imprisonment of Kerry Sanders holds it is arrogant of psychiatrist to trivialize right of innocent to remain free (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I could forgive Dr. Chung's incorrect diagnosis of Kerry Sanders, as he appears to be an overworked civil servant. But the psychiatrist's comment that his wrongfully accused patient should thank New York State is an arrogant trivialization of the right of the innocent to remain free.</p>
+        <p>Jeffrey Scott Beckerman  Short Hills, N.J.</p>
+      </block>
+      <block class="full_text">
+        <p>I could forgive Dr. Chung's incorrect diagnosis of Kerry Sanders, as he appears to be an overworked civil servant. But the psychiatrist's comment that his wrongfully accused patient should thank New York State is an arrogant trivialization of the right of the innocent to remain free.</p>
+        <p>Jeffrey Scott Beckerman  Short Hills, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

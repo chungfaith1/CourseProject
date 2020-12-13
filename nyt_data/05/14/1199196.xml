@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stay Tuned on the Road</title>
+    <meta content="RADIO.$04" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Travel" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1199196"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Radio</classifier>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Tedeschi, Bob</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000514T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E5D81338F937A25756C0A9669C8B63" item-length="548" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stay Tuned on the Road</hl1>
+      </hedline>
+      <byline class="print_byline">By BOB TEDESCHI</byline>
+      <byline class="normalized_byline">Tedeschi, Bob</byline>
+      <abstract>
+        <p>Bob Tedeschi comment on Internet radio as way to locate stations while traveling (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NO matter how grueling the baggage claim wait or the customs process, the first real jolt of culture shock for many travelers comes when, behind the wheel of their rental cars, they reach for their favorite radio station. Some people scan the dial for good music before setting off, and program the preset buttons to ensure optimal driving bliss. For the rest, venturing onto the radio dial in a foreign city is an exercise in high-fidelity futility.</p>
+        <p>The Internet offers a solution. With a few clicks, travelers can preview stations in a city they're heading to, so they'll know where to dial when they arrive and perhaps catch the weather before they get there.  Conversely, those with Internet-enabled laptop computers can stay tuned to their hometown favorites, even if their station's signal is half a world away.</p>
+      </block>
+      <block class="full_text">
+        <p>NO matter how grueling the baggage claim wait or the customs process, the first real jolt of culture shock for many travelers comes when, behind the wheel of their rental cars, they reach for their favorite radio station. Some people scan the dial for good music before setting off, and program the preset buttons to ensure optimal driving bliss. For the rest, venturing onto the radio dial in a foreign city is an exercise in high-fidelity futility.</p>
+        <p>The Internet offers a solution. With a few clicks, travelers can preview stations in a city they're heading to, so they'll know where to dial when they arrive and perhaps catch the weather before they get there.  Conversely, those with Internet-enabled laptop computers can stay tuned to their hometown favorites, even if their station's signal is half a world away.</p>
+        <p>Every week, dozens of radio stations are putting their programming on the Web, adding to the 3,500 stations that listeners can log onto for songs, news, sports and, for those with serious loyalties, air fund drives. The sound quality is often less than perfect and sometimes software must be downloaded, but those who track the industry say the trend is growing, and frequent travelers can benefit.</p>
+        <p>Ralph Jennings, general manager of WFUV, a public radio station affiliated  with Fordham University in New York, said  that since the station began offering  programs online in February, it had developed listeners throughout the world. ''It's been amazing,'' Mr. Jennings said. ''We  get about 10,000 hits on our Web site (www.wfuv.com) every day.''</p>
+        <p>Among the Internet sites that list radio stations with Web programming -- or streaming audio, in industry parlance -- The M.I.T. List of Radio Stations on the Internet (wmbr.mit.edu/stations/list.html)  is particularly useful. It includes links to  nearly 3,000 stations that stream audio. This site lets you browse by continent, nation, state, frequency, format or alphabetical order. A search function allows you to locate stations near a given town, or find them by call letters.</p>
+        <p>On Chicago's classic rock station, WXCD-FM, at 94.7, I cranked up ''Wild Horses''  through the tinny speaker on my Macintosh. The tunes were great as a background-noise antidote to my hard drive's hum, but there were some drawbacks. First, I had to download RealPlayer software to tune in, a process that's daunting when done with a 56-kilobit-per-second modem, but ultimately took just a few minutes. Second, that software slowed my Internet surfing to a crawl. Web pages that took 10 seconds to load in silence took 60 seconds or more with radio accompaniment. Perhaps the biggest drawback was the intermittent musical gaps brought on by Internet interference.</p>
+        <p>Still, for those far from home, Internet radio is a potent weapon against homesickness, said Dan Pulcrano, editor in chief of sanfrancisco.com, a site for city residents and potential visitors. ''It used to be you were culturally cut off from your home country,'' said Mr. Pulcrano, who lists a handful of San Francisco radio stations on his site. ''But this allows people to maintain a connection to their homeland.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

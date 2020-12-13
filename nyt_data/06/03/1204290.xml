@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Architect Objects</title>
+    <meta content="L03ARC" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204290"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Architecture</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Wendy's International Inc</org>
+        <person class="indexing_service">Samton, Peter</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Architecture</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Architecture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000603T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E4DF113CF930A35755C0A9669C8B63" item-length="81" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Architect Objects</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Peter Samton, an architect, takes offense at use of term 'architect of the crime' in June 1 article on the Wendy's massacre</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''An Atrocity's Mystery of Evil'' (news article, June 1), your reference to John Taylor, a suspect in the Wendy's massacre, as the person ''who is thought to have been the architect of the crime'' is a most unfortunate analogy that many in my profession would take issue with.</p>
+        <p>PETER SAMTON  New York, June 2, 2000</p>
+        <p>The writer is a partner in an architectural firm.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''An Atrocity's Mystery of Evil'' (news article, June 1), your reference to John Taylor, a suspect in the Wendy's massacre, as the person ''who is thought to have been the architect of the crime'' is a most unfortunate analogy that many in my profession would take issue with.</p>
+        <p>PETER SAMTON  New York, June 2, 2000</p>
+        <p>The writer is a partner in an architectural firm.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

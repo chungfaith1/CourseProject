@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="23INSI$04" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201846"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000523T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E7D71F3AF930A15756C0A9669C8B63" item-length="381" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ex-G.M. Executive Indicted  A former executive has been indicted on charges of defrauding General Motors by taking documents with him when he jumped to Volkswagen in 1993. PAGE C1</p>
+      </block>
+      <block class="full_text">
+        <p>Ex-G.M. Executive Indicted  A former executive has been indicted on charges of defrauding General Motors by taking documents with him when he jumped to Volkswagen in 1993. PAGE C1</p>
+        <p>New Rules for Western Wall  The Israeli Supreme Court ruled that women may now hold group prayer services at the Western Wall in Jerusalem.  PAGE A6</p>
+        <p>Harvard President to Resign  The president of Harvard University, Neil L. Rudenstine, who led a record-setting fund-raising campaign, is stepping down.  PAGE A20</p>
+        <p>Jazz With a View  Concert halls and a dance floor with a 50-foot window on Central Park will be the new face of Jazz at Lincoln Center. THE ARTS, PAGE E1</p>
+        <p>Devils Stay Alive  New Jersey scored a 4-1 victory over the Philadelphia Flyers and trails its playoff series by 3 games to 2. SPORTSTUESDAY, PAGE D1</p>
+        <p>Trail Blazers Get Even  Portland defeated the Los Angeles Lakers, 106-77, to even the Western Conference finals at a game apiece. SPORTSTUESDAY, PAGE D3</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

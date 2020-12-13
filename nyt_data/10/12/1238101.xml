@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lego Mindstorm Robots Ready to Play Spy</title>
+    <meta content="12GEE1$02" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/12/technology/12GEE1.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1238101"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Toys</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Robots</classifier>
+        <org class="indexing_service">Lego Group</org>
+        <person class="indexing_service">Biersdorfer, J D</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Robots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Toys</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001012T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E6D9163FF931A25753C1A9669C8B63" item-length="346" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lego Mindstorm Robots Ready to Play Spy</hl1>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+      <byline class="normalized_byline">Biersdorfer, J D</byline>
+      <abstract>
+        <p>Article describes upgraded Lego toy, Mindstorm Robotics Invention System, recently equipped with video camera and vision recognition software; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Legos, the little plastic building blocks that have found their way into the hearts of children and the tender insoles of their parents' feet since the 1950's, have adapted nicely to the new millennium. With the Lego Mindstorms Robotics Invention System kit, introduced in 1998, children and adults can build and program their own Lego robots, and recent additions to the product line give even more powers to the creations.</p>
+        <p>Lego Mindstorms Vision Command, when used with the Robotics Invention System, lets users create robots that can react to their visual environment. The kit includes 141 Lego pieces, a LegoCam PC video camera and vision recognition software, and users can program their robots to do things like follow them around the room and respond to hand signals. A robot equipped with Vision Command can even keep a lookout and record the actions of intruders.</p>
+      </block>
+      <block class="full_text">
+        <p>Legos, the little plastic building blocks that have found their way into the hearts of children and the tender insoles of their parents' feet since the 1950's, have adapted nicely to the new millennium. With the Lego Mindstorms Robotics Invention System kit, introduced in 1998, children and adults can build and program their own Lego robots, and recent additions to the product line give even more powers to the creations.</p>
+        <p>Lego Mindstorms Vision Command, when used with the Robotics Invention System, lets users create robots that can react to their visual environment. The kit includes 141 Lego pieces, a LegoCam PC video camera and vision recognition software, and users can program their robots to do things like follow them around the room and respond to hand signals. A robot equipped with Vision Command can even keep a lookout and record the actions of intruders.</p>
+        <p>Vision Command is intended for ages 12 and older. Users will need a computer with Windows 98 and at least a Pentium II-level, 233-megahertz processor, 32 megabytes of RAM, 200 megabytes of hard drive space and a U.S.B. port.</p>
+        <p>''Star Wars'' fans who have exhausted the possibilities of the previously released Droid Developer Kit can create walking robots with the new Dark Side Developer Kit. The set includes 578 Lego pieces and a Lego microcomputer called the Micro Scout with a built-in light sensor, a motor and seven programmed behaviors. The Dark Side kit, which doesn't require a computer, offers three different levels of difficulty for building robots -- including some of the leggy mechanical beasts seen in ''The Empire Strikes Back'' -- and is designed for ages 9 and older.</p>
+        <p>Each new kit is priced at $99; more information on Lego Mindstorms is available at www .legomindstorms.com. Parents with battered feet, take note: At least with Vision Command, now the Legos can see you coming.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

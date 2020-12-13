@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mets to Have 2 Ceremonies</title>
+    <meta content="29MAYO$01" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="8A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/29/sports/29MAYO.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1243007"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BASEBALL: SUBWAY SERIES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">World Series</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">New York Mets</org>
+        <org class="indexing_service">New York Yankees</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Series</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001029T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00EEDC1730F93AA15753C1A9669C8B63" item-length="145" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mets to Have 2 Ceremonies</hl1>
+      </hedline>
+      <abstract>
+        <p>New York Mets will be honored in two modest City Hall ceremonies, one involving team's management and several players and second involving entire Mets team next spring; no dates are given (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Mets, having declined a mayoral invitation to take part in the ticker-tape parade for the Yankees tomorrow, will be honored in two, more modest, City Hall ceremonies, Mayor Rudolph W. Giuliani said yesterday.</p>
+        <p>He said one would involve the team's management and a few players in about two weeks, and the second would involve the entire Mets team next spring. He did not specify a date for either event.</p>
+      </block>
+      <block class="full_text">
+        <p>The Mets, having declined a mayoral invitation to take part in the ticker-tape parade for the Yankees tomorrow, will be honored in two, more modest, City Hall ceremonies, Mayor Rudolph W. Giuliani said yesterday.</p>
+        <p>He said one would involve the team's management and a few players in about two weeks, and the second would involve the entire Mets team next spring. He did not specify a date for either event.</p>
+        <p>''That was the desire of Mets management,'' the mayor said.</p>
+        <p>BASEBALL: SUBWAY SERIES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>As Web Expands, Search Engines Puff to Keep Up</title>
+    <meta content="29SEAR" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203304"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="COMPRESSED DATA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Markoff, John</person>
+        <person class="indexing_service">Brewington, Brian E</person>
+        <person class="indexing_service">Cybenko, George</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000529T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E1DE1F3DF93AA15756C0A9669C8B63" item-length="390" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>As Web Expands, Search Engines Puff to Keep Up</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <abstract>
+        <p>George Cybenko and Brian E Brewington, two Dartmouth College computer researchers, measure how quickly the World Wide Web is expanding and estimate that a search engine now needs a communications pipeline capable of carrying 50 million bits of data a second in order to keep reasonably current (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Pity the poor search engine.</p>
+        <p>Two Dartmouth College computer researchers have measured how quickly the World Wide Web is expanding, and their findings are not good news for the companies that are trying to index the hundreds of millions of documents that are linked by the Web.</p>
+      </block>
+      <block class="full_text">
+        <p>Pity the poor search engine.</p>
+        <p>Two Dartmouth College computer researchers have measured how quickly the World Wide Web is expanding, and their findings are not good news for the companies that are trying to index the hundreds of millions of documents that are linked by the Web.</p>
+        <p>To keep reasonably current, say within a week, a search engine -- or Web-searching service -- now needs a communications pipeline capable of carrying 50 million bits of data a second. That is the conclusion of George Cybenko, a Dartmouth computer scientist and the co-author of a study of the changing Web. He said such a fast communications pipe is required if a search engine's so-called spider software is going to scurry about the Web with sufficient swiftness as it looks for new documents and any other changes.</p>
+        <p>''We were able to determine that one in five Web pages is 12 days old or younger,'' said Brian E. Brewington, the co-author of the paper with Mr. Cybenko.</p>
+        <p>The researchers sampled more than 2 million of the estimated 800 million Web pages over seven months.</p>
+        <p>The resulting picture is of an increasingly dynamic Web of documents that will become increasingly difficult for search engine companies to keep track of -- particularly as new software formats like XML, or Extensible Markup Language, alter the now relatively static world of Web documents.</p>
+        <p>Mr. Brewington and Mr. Cybenko said their study might have already struck a raw nerve in the world of search engines. When they presented their comparative findings showing how up to date various search engines were at a recent Internet conference, he raised hackles among some search engine executives whose sites appeared not to be as current as others.</p>
+        <p>For that reason Mr. Brewington said he was not willing to make his data public, acknowledging that any rankings would shift, depending on when the survey took place. He said that most people do not expect search engines to be absolutely up to date and that a fair criterion might be having a search service that is within a month of being current.</p>
+        <p>For all the changes, the researchers noted that many parts of the Web are quite static. One in four Web pages is more than a year old, they found.</p>
+        <p>JOHN MARKOFF</p>
+        <p>COMPRESSED DATA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

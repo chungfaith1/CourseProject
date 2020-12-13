@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Legal Tug of War</title>
+    <meta content="LTR233645" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Movies; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1226649"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Copyrights</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Dvd (Digital Versatile Disk)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <person class="indexing_service">Zalon, Jules D</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/DVD and Video</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features/Copyright</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Copyrights</classifier>
+        <classifier class="online_producer" type="general_descriptor">DVD (Digital Versatile Disk)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000831T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E0DA1430F932A0575BC0A9669C8B63" item-length="287" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Legal Tug of War</hl1>
+      </hedline>
+      <abstract>
+        <p>Jules D Zalon letter on August 24 articles on legal fight over distribution of DeCSS program, which allows uses to copy DVD movies holds court injunction gives same protection as principle of copyright</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Two articles on Aug. 24 mentioned the legal fight over the distribution of the DeCSS program: the State of the Art column ''DVD Toy for Rich Techies'' and the essay ''Whose Intellectual Property Is It, Anyway? The Open Source War.'' Both note  that Judge Lewis A. Kaplan not only enjoined the distribution of the DeCSS program, which allows a user to copy DVD movies, but also ordered the defendants to take down hyperlinks to other Web sites that still contained the DeCSS program. In his column, Peter H. Lewis appears to view that second remedy as unusual, stating that if it is upheld on appeal, ''this ruling means that someone can be found liable merely for pointing to objectionable information or programs that someone else has posted in the Internet.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Two articles on Aug. 24 mentioned the legal fight over the distribution of the DeCSS program: the State of the Art column ''DVD Toy for Rich Techies'' and the essay ''Whose Intellectual Property Is It, Anyway? The Open Source War.'' Both note  that Judge Lewis A. Kaplan not only enjoined the distribution of the DeCSS program, which allows a user to copy DVD movies, but also ordered the defendants to take down hyperlinks to other Web sites that still contained the DeCSS program. In his column, Peter H. Lewis appears to view that second remedy as unusual, stating that if it is upheld on appeal, ''this ruling means that someone can be found liable merely for pointing to objectionable information or programs that someone else has posted in the Internet.''</p>
+        <p>But it is absolutely common for courts, when issuing injunctions, not only to enjoin the offending conduct, but to enjoin the defendants from ''aiding, abetting, encouraging or inducing another to do any of the acts herein enjoined.'' Mr. Lewis and Peter Wayner, the essayist, may object to the closing of Eric Corley's illegal portal, but the court order, limited as it was to the individuals distributing the program, was a straightforward application of the same basic legal principle that protects your news articles: the principle of copyright protection.</p>
+        <p>JULES D. ZALON  Maplewood, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

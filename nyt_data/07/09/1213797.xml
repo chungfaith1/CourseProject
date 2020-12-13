@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Fiction</title>
+    <meta content="RV131421" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213797"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Ciolkowski, Laura</person>
+        <person class="indexing_service">Gadol, Peter</person>
+        <object.title class="indexing_service">Light at Dusk (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000709T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E0D91F30F93AA35754C0A9669C8B63" item-length="254" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Fiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Laura Ciolkowski</byline>
+      <byline class="normalized_byline">Ciolkowski, Laura</byline>
+      <abstract>
+        <p>Laura Ciolkowski reviews book Light at Dusk by Peter Gadol (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Light at Dusk</p>
+        <p>By Peter Gadol.</p>
+        <p>Picador USA, $24.</p>
+      </block>
+      <block class="full_text">
+        <p>Light at Dusk</p>
+        <p>By Peter Gadol.</p>
+        <p>Picador USA, $24.</p>
+        <p>As he gazes across the Seine toward Paris, Pedro Douglas, the narrator of Peter Gadol's ''Light at Dusk,'' wonders why the city ''had not yet cratered and collapsed against the weight of its long and weary history.'' Sadly, Gadol's readers are forced to wonder something similar about this overwrought tale of a Lebanese child's abduction by a gang of French nationalists and the attempts of Will Law, a former foreign service agent who is also Pedro's lover, to locate the child and get him back. Will comes to Paris to find Pedro and to forget his ethically dubious career in the Foreign Service. But then he meets Jorie, an American woman who is caring for a young Lebanese boy, Nico; when Nico is snatched off the street right before their eyes, Will's romantic adventures with Pedro and his feeble attempts at moral reflection take a back seat to the challenge of finding a way to return the child to Jorie. Although Gadol is never able to breathe much life into these characters, his elaborate story of international intrigue and foreign affairs can be gripping. Will uses his diplomatic skills to negotiate Nico's release and puts together a deal that tests the nerve and the ethics of reader and protagonist alike. One only wishes that ''Light at Dusk'' were as carefully constructed.</p>
+        <p>Laura Ciolkowski</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

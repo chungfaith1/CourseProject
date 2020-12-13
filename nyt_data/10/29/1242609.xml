@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Fiction</title>
+    <meta content="RV091850" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1242609"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Jarvis, Louise</person>
+        <person class="indexing_service">Davis, Claire</person>
+        <object.title class="indexing_service">Winter Range (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001029T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E2DA103EF93AA15753C1A9669C8B63" item-length="284" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Fiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Louise Jarvis</byline>
+      <byline class="normalized_byline">Jarvis, Louise</byline>
+      <abstract>
+        <p>Louise Jarvis reviews novel Winter Range by Claire Davis (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Winter Range</p>
+        <p>By Claire Davis.</p>
+        <p>Picador USA, $23.</p>
+      </block>
+      <block class="full_text">
+        <p>Winter Range</p>
+        <p>By Claire Davis.</p>
+        <p>Picador USA, $23.</p>
+        <p>When the characters in Claire Davis's first novel finally cut themselves loose from hokey-folky cliches, they can be just as confounding and breathtaking as their landscape, a frosty corner pocket of Montana. This isolated tundra breeds a bullheaded population of ranchers, a private and proud lot whose hatred of the government is as genetically hard-wired as their reverence for ranching. It is at times a cartoonish place full of sensitive and verbose cowpokes; locals rhapsodize about starry nights and snowy days with the kind of wide-eyed wonder more common in tourists. But as Davis's wonderfully strange story of a rancher descending into violent rage unfolds, so does an unflinching portrait of a way of life indebted to nature. Ike, the stoic sheriff, clashes with local ranchers when one of their own, a Milton-quoting depressive named Chas, leaves his cattle to starve in the fields because he's too poor to buy feed and too stubborn to accept help. Purvis, the town's eccentric veterinarian, and Ike's wife, Pattiann, a modern cowgirl, provide subtle and layered emotional relief from the growing tensions. Davis examines the complicated relationship between ranchers and animals, too. Skirting sentimentality, she exposes the ugly realities: by the time ''Winter Range'' is over, there are enough dead animals to make PETA apoplectic.</p>
+        <p>Louise Jarvis</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

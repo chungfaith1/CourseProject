@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR230525" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1205787"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Sentences (Criminal)</classifier>
+        <classifier class="indexing_service" type="descriptor">Embezzlement</classifier>
+        <org class="indexing_service">American Federation of State, County and Municipal Employees</org>
+        <org class="indexing_service">District Council 37</org>
+        <person class="indexing_service">Hill, Stanley</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Embezzlement</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sentences (Criminal)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E4D8133FF93BA35755C0A9669C8B63" item-length="161" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Corrections of June 6 article: Stanley Hill was formerly executive director, not president, of District Council 37; Local 1930, whose president commented on sentencing of head of affiliated union, represents 1,800, not 18,000, librarians and clerical workers</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article on Tuesday about the sentencing of a former union president who pleaded guilty to stealing more than $2 million misstated the title once held by Stanley Hill at the union's parent, District Council 37, which is being investigated by Manhattan prosecutors. Mr. Hill was executive director, not president.</p>
+        <p>The article also misstated the membership of an affiliated union, Local 1930, whose president found the corruption sentence of three to nine years too lenient. The local represents 1,800 librarians and clerical workers, not 18,000.</p>
+      </block>
+      <block class="full_text">
+        <p>An article on Tuesday about the sentencing of a former union president who pleaded guilty to stealing more than $2 million misstated the title once held by Stanley Hill at the union's parent, District Council 37, which is being investigated by Manhattan prosecutors. Mr. Hill was executive director, not president.</p>
+        <p>The article also misstated the membership of an affiliated union, Local 1930, whose president found the corruption sentence of three to nine years too lenient. The local represents 1,800 librarians and clerical workers, not 18,000.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Children's Books</title>
+    <meta content="RV083446" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215061"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Pinder, Jeanne B</person>
+        <person class="indexing_service">Narahashi, Keiko</person>
+        <object.title class="indexing_service">Two Girls Can! (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Columns/Children's Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E0D81638F935A25754C0A9669C8B63" item-length="277" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Children's Books</hl1>
+      </hedline>
+      <byline class="print_byline">By Jeanne B. Pinder</byline>
+      <byline class="normalized_byline">Pinder, Jeanne B</byline>
+      <abstract>
+        <p>Jeanne B Pinder reviews book Two Girls Can! by Keiko Narahashi (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TWO GIRLS CAN!</p>
+        <p>Written and illustrated</p>
+        <p>by Keiko Narahashi.</p>
+        <p>Margaret K. McElderry, $16.</p>
+        <p>(Ages 3 to 7)</p>
+      </block>
+      <block class="full_text">
+        <p>TWO GIRLS CAN!</p>
+        <p>Written and illustrated</p>
+        <p>by Keiko Narahashi.</p>
+        <p>Margaret K. McElderry, $16.</p>
+        <p>(Ages 3 to 7)</p>
+        <p>Two girls can have a lot of fun together. They can spy on the grown-ups. Or they can put on the grown-ups' sunglasses and look soignee. Or they can eat up all the Halloween candy immediately. The soul of girlhood friendships, real and imagined, leaps off the page in this lovely book. Keiko Narahashi's magical watercolors capture childhood in the details -- the swirl of a hem, the bulge of a kindergartner's tummy, the mystery of a childhood hiding place under low-hanging branches. To give some relief from the slightly soggy sweetness, Narahashi includes a fierce drawing showing how two girls can ''get really, really mad.'' This is a book for any girl who's ever had a friend, although it's likely to work better for girls at the younger edge of the announced age range of 3 to 7. And it will work quite well for those girls' parents, who may enjoy the dance finale as much as their daughters will. (''Hey,'' a mother might say, ''there's the girl who looks like you! And the one who looks like Kayandra, and the one who looks like Jiani!'') The parents, especially, will want to make sure not to miss the grace note on the final page after the multigirl dance: this small jewel shows two girls from behind, perfectly rendered, with all the heart-grabbing mystery and promise that a grown-up can find in the back of a child.</p>
+        <p>Jeanne B. Pinder</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

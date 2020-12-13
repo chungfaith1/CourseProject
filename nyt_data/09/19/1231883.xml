@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Flawed Plan</title>
+    <meta content="LTR234355" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1231883"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Blair, Farnham</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000919T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E4DC143BF93AA2575AC0A9669C8B63" item-length="100" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Flawed Plan</hl1>
+      </hedline>
+      <abstract>
+        <p>Farnham Blair letter on computer's evolution, and possibility that someday it may self-destruct</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The amusing article on Prof. Seth Lloyd's reductio ad absurdum musing on ''the ultimate laptop'' in a recent issue of Nature (Sept. 5) reveals a major flaw in the Cambridge mechanical engineer's otherwise brilliant scheme: at a certain degree of evolution, that is currently impossible to predict, the computer will most assuredly develop an awareness of its self-destructive direction and refuse to be shrunk any further, no matter how glorious it might seem to expire in a cosmic blaze of information.</p>
+        <p>FARNHAM BLAIR  Blue Hill, Me.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The amusing article on Prof. Seth Lloyd's reductio ad absurdum musing on ''the ultimate laptop'' in a recent issue of Nature (Sept. 5) reveals a major flaw in the Cambridge mechanical engineer's otherwise brilliant scheme: at a certain degree of evolution, that is currently impossible to predict, the computer will most assuredly develop an awareness of its self-destructive direction and refuse to be shrunk any further, no matter how glorious it might seem to expire in a cosmic blaze of information.</p>
+        <p>FARNHAM BLAIR  Blue Hill, Me.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

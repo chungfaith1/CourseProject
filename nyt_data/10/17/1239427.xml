@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gauging the Rain</title>
+    <meta content="17QNA" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1239427"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Rain</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001017T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01EED9113FF934A25753C1A9669C8B63" item-length="331" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gauging the Rain</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Answer to reader's query about why rain gauges are shaped and marked the way they are</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q.: I recently bought a rain gauge, a cylinder with a flared upper rim and a scale in inches on the side. The diameter at the bottom is about two inches and at the top about four inches. Why is it shaped and marked that way?</p>
+        <p>A.: A rain gauge shaped like a megaphone is not the standard shape, said Todd Miner, a meteorologist at Pennsylvania State University, but it should work if it has the correct ratios between the cross-sectional area at the top and the part of the gauge that actually collects and measures the water.</p>
+      </block>
+      <block class="full_text">
+        <p>Q.: I recently bought a rain gauge, a cylinder with a flared upper rim and a scale in inches on the side. The diameter at the bottom is about two inches and at the top about four inches. Why is it shaped and marked that way?</p>
+        <p>A.: A rain gauge shaped like a megaphone is not the standard shape, said Todd Miner, a meteorologist at Pennsylvania State University, but it should work if it has the correct ratios between the cross-sectional area at the top and the part of the gauge that actually collects and measures the water.</p>
+        <p>If this gauge were a straight-sided cylinder that did not narrow toward the bottom, Mr. Miner explained, it would be very difficult to measure small amounts of precipitation. It would require the bottom inch, for example, to be divided into 100 separate markings for hundredths of an inch, and most rainfall is much less than an inch, Mr. Miner said.</p>
+        <p>Meteorologists commonly use a gauge that consists of a small straight-sided cylinder within a bigger cylinder, Mr. Miner said. The rain is collected by a funnel at the top of the smaller cylinder, which is only a fraction of the diameter of the bigger cylinder. The inner tube is open at the bottom. The markings on the outer tube reflect a 10-to-1 ratio, so that an inch of rain would reach a mark 10 inches from the bottom.</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Readers are invited to submit questions by mail to Question, Science Times, The New York Times, 229 West 43rd Street, New York, N.Y. 10036-3959, or by e-mail to question@nytimes.com.</p>
+        <p>Questions of general interest will be answered in this column, but unpublished letters cannot be answered individually.</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

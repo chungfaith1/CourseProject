@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dividend Meetings</title>
+    <meta content="15DIVI$02" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1199695"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000515T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02EFD8133BF936A25756C0A9669C8B63" item-length="311" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dividend Meetings</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A partial list for this week.</p>
+        <p>MONDAY  Automatic Data Processing Inc  Synovus Finl Corp</p>
+        <p>TUESDAY  Acadia Rlty Tr  Bestfoods  Central Newspapers Inc  Cross Timbers Oil Co  Donnelly Corp  Florida East Coast Inds Inc  Gallagher Arthur J &amp; Co  Georgia Gulf Corp  Great Lakes REIT Inc  Longs Drug Stores Corp  Questar Corp</p>
+      </block>
+      <block class="full_text">
+        <p>A partial list for this week.</p>
+        <p>MONDAY  Automatic Data Processing Inc  Synovus Finl Corp</p>
+        <p>TUESDAY  Acadia Rlty Tr  Bestfoods  Central Newspapers Inc  Cross Timbers Oil Co  Donnelly Corp  Florida East Coast Inds Inc  Gallagher Arthur J &amp; Co  Georgia Gulf Corp  Great Lakes REIT Inc  Longs Drug Stores Corp  Questar Corp</p>
+        <p>WEDNESDAY  Axa Finl Inc (formerly Equitable Cos Inc)  Clorox Co  Corn Prods Intl Inc  Gabelli Equity Tr Inc  Gabelli Global Multimedia Tr  Northrop Grumman Corp  Scpie Hldgs Inc  True North Communications Inc</p>
+        <p>THURSDAY  Allstate Corp  Bancwest Corp (New)  Champion Intl Corp  E Town Corp  Financial Sec Assurn Hldgs Ltd  Green Mountain Pwr Corp  Host Marriott Corp (New)  International Flavors &amp; Fragrances  Luby's Cafeterias Inc (Now Luby's Inc)  OGE Energy Corp  Polaris Inds Inc  Potlatch Corp  Williams Cos Inc  Xerox Corp</p>
+        <p>FRIDAY  Commerce Group Inc (Mass)  Edwards A G Inc  Varian Med Sys Inc</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

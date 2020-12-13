@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="04CMPBRFS" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1220000"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000804T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EFDC143CF937A3575BC0A9669C8B63" item-length="320" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WALTER INDUSTRIES INC., Tampa, Fla., which builds and finances houses and makes industrial products, said it would cut 5 percent of its work force, or about 375 employees. Robert G. Burton, chief executive, resigned after about three months in the post.</p>
+      </block>
+      <block class="full_text">
+        <p>WALTER INDUSTRIES INC., Tampa, Fla., which builds and finances houses and makes industrial products, said it would cut 5 percent of its work force, or about 375 employees. Robert G. Burton, chief executive, resigned after about three months in the post.</p>
+        <p>MEDIACOM COMMUNICATIONS CORP., Middletown, N.Y., a provider of cable television in rural areas, will buy two cable franchises: one with 12,000 subscribers for $27.5 million near Sioux Falls, S.D., and the other, with 1,000 customers in northern Illinois, for $1.4 million.</p>
+        <p>PACCAR INC., Bellevue, Wash., a truckmaker, is indefinitely laying off about 370 assembly workers, or about a third of the total at a plant in Madison, Tenn., and as many as 60 managers, which would be about a fifth of the salaried employees, as heavy-truck sales decline.</p>
+        <p>DAIMLERCHRYSLER A.G., Stuttgart, Germany, said it would idle its Jeep assembly plant in Toledo, Ohio, next week because of a backlog of Cherokee and Wrangler sport utility vehicles. The idling would result in the temporary layoff of about 2,800 of the 5,200 workers at the plant.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

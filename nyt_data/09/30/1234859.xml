@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>To Save One Twin, or Lose Both</title>
+    <meta content="LTR002000" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234859"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Multiple Births</classifier>
+        <classifier class="indexing_service" type="descriptor">Siamese Twins</classifier>
+        <person class="indexing_service">Respass, John (Dr)</person>
+        <person class="indexing_service">Sirico, Robert A (Rev)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Twins</classifier>
+        <classifier class="online_producer" type="general_descriptor">Births</classifier>
+        <classifier class="online_producer" type="general_descriptor">Multiple Births</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pregnancy and Obstetrics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000930T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE6DB143DF933A0575AC0A9669C8B63" item-length="109" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>To Save One Twin, or Lose Both</hl1>
+      </hedline>
+      <abstract>
+        <p>Dr John Respass letter on Rev Robert A Sirico's Sept 28 article holds doctors are right to try to save one conjoined twin rather than let both die</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''An Unjust Sacrifice,'' by Robert A. Sirico (Op-Ed, Sept. 28):</p>
+        <p>Father Sirico's argument reduces to the assertion that we should not kill, a laudable intention. But treating the case of the conjoined twins in England this simplistically merely results in two deaths as opposed to one. Instead, the moral decision is to save one of the children.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''An Unjust Sacrifice,'' by Robert A. Sirico (Op-Ed, Sept. 28):</p>
+        <p>Father Sirico's argument reduces to the assertion that we should not kill, a laudable intention. But treating the case of the conjoined twins in England this simplistically merely results in two deaths as opposed to one. Instead, the moral decision is to save one of the children.</p>
+        <p>Detaching the underdeveloped infant from her twin is no different from withdrawing artificial life support from a terminally ill patient who cannot otherwise survive (an action endorsed by most Catholic and Jewish ethicists). Refusal to act is an abdication of responsibility.</p>
+        <p>JOHN RESPASS, M.D.  Hamden, Conn., Sept. 28, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

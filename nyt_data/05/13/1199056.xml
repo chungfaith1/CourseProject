@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NO MORE LUNCH AT SEOUL EXCHANGE</title>
+    <meta content="MB222358" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1199056"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WORLD BUSINESS BRIEFING: ASIA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Working Hours</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <org class="indexing_service">Korea Stock Exchange</org>
+        <person class="indexing_service">Len, Samuel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Working Hours</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000513T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE5DC123BF930A25756C0A9669C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NO MORE LUNCH AT SEOUL EXCHANGE</hl1>
+      </hedline>
+      <byline class="print_byline">By Samuel Len</byline>
+      <byline class="normalized_byline">Len, Samuel</byline>
+      <abstract>
+        <p>Korea Stock Exchange to abolish its lunch-hour break, move delayed because of protests from unionized workers (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The lunch-hour break at the Korea Stock Exchange will be abolished, probably starting Monday, the Financial Supervisory Service said. The exchange has reconfigured its computers to run through the lunch hour, said Lee Kap Soo, director of the capital market supervision department. The abolition of lunch hour has been planned for some time but had been delayed because of protests from unionized workers.</p>
+        <p>Samuel Len (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>The lunch-hour break at the Korea Stock Exchange will be abolished, probably starting Monday, the Financial Supervisory Service said. The exchange has reconfigured its computers to run through the lunch hour, said Lee Kap Soo, director of the capital market supervision department. The abolition of lunch hour has been planned for some time but had been delayed because of protests from unionized workers.</p>
+        <p>Samuel Len (NYT)</p>
+        <p>WORLD BUSINESS BRIEFING: ASIA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

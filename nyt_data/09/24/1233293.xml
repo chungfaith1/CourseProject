@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="24CXN.$01" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Society Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style; Corrections" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1233293"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <person class="indexing_service">Mason, Sarah Montague</person>
+        <person class="indexing_service">Burgess, Terrence Michael</person>
+        <person class="indexing_service">Burgess, Nancy</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000924T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E4D81E3BF937A1575AC0A9669C8B63" item-length="58" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of September 17 article on wedding of Sarah Montague Mason and Terrence Michael Burgess, which misstated couple's married name, which is Burgess and misstated bridegroom's mother's name, Nancy Burgess (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A report last Sunday about the wedding of Sarah Montague Mason and Terrence Michael Burgess misstated the couple's married name. They are Mr. and Mrs. Burgess, not Mason. The report also misstated the surname of the bridegroom's mother at one point. As noted elsewhere, she is Nancy Burgess, not Mason.</p>
+      </block>
+      <block class="full_text">
+        <p>A report last Sunday about the wedding of Sarah Montague Mason and Terrence Michael Burgess misstated the couple's married name. They are Mr. and Mrs. Burgess, not Mason. The report also misstated the surname of the bridegroom's mother at one point. As noted elsewhere, she is Nancy Burgess, not Mason.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

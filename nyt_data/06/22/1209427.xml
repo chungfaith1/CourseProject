@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cell Phone Feedback</title>
+    <meta content="LTR235$07" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209427"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="indexing_service" type="descriptor">Customs, Etiquette and Manners</classifier>
+        <person class="indexing_service">greene, mott t</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Customs, Etiquette and Manners</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000622T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E6DA1E31F931A15755C0A9669C8B63" item-length="155" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cell Phone Feedback</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by Mott T Greene on June 8 article on cell phone users; says that while no one can deny rudeness of many cell phone users, the phenomenon of shouting into cellular phones is mostly a result of their design</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>While no one can deny the rudeness of many cell phone users (''No, I'm Not Talking to You,'' June 8), the phenomenon of shouting into cellular phones is mostly a result of their design.</p>
+        <p>The traditional (wired) telephones we have all grown up with provide audio feedback to the speaker through the handset: if you yell into the phone, you also yell into your own ear.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>While no one can deny the rudeness of many cell phone users (''No, I'm Not Talking to You,'' June 8), the phenomenon of shouting into cellular phones is mostly a result of their design.</p>
+        <p>The traditional (wired) telephones we have all grown up with provide audio feedback to the speaker through the handset: if you yell into the phone, you also yell into your own ear.</p>
+        <p>Cell phones provide no such audio feedback to the speaker. Therefore cell phone users, trained to expect audio feedback, hear the people they are talking to more loudly than they hear themselves, so they think that they are speaking too softly. So they raise their voices until the volume of their own voices equals that of callers'. Since the ear that expects the feedback is covered by the cell phone, a phone user must shout to match the incoming volume.</p>
+        <p>MOTT T. GREENE  Seattle</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

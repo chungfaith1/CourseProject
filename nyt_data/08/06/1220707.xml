@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>2nd-Quarter Results Are Mixed at Veeco</title>
+    <meta content="MB002143" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1220707"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="IN BRIEF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <org class="indexing_service">Veeco Instruments Inc</org>
+        <person class="indexing_service">Strugatch, Warren</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000806T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E6DD133CF935A3575BC0A9669C8B63" item-length="161" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>2nd-Quarter Results Are Mixed at Veeco</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by Warren Strugatch</byline>
+      <byline class="normalized_byline">Strugatch, Warren</byline>
+      <abstract>
+        <p>Veeco Instruments Inc of Plainview, Long Island, reports 21 percent rise in second-quarter sales, to record $93.6 million and decline in operating income, to $7.8 million; reports decline in first-half operating income, to $11.4 million (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Veeco Instruments Inc. of Plainview (Nasdaq: VECO) announced mixed second-quarter financial results after factoring in its $33 million acquisition of CVC Inc. this spring.</p>
+        <p>Sales of $93.6 million, a second-quarter record, rose 21 percent from the year-earlier figure of $77.1 million. But operating income (excluding nonrecurring charges) was $7.8 million, down from $11.8 million. Veeco incurred inventory write-off charges of $15.3 million associated with the CVC merger.</p>
+      </block>
+      <block class="full_text">
+        <p>Veeco Instruments Inc. of Plainview (Nasdaq: VECO) announced mixed second-quarter financial results after factoring in its $33 million acquisition of CVC Inc. this spring.</p>
+        <p>Sales of $93.6 million, a second-quarter record, rose 21 percent from the year-earlier figure of $77.1 million. But operating income (excluding nonrecurring charges) was $7.8 million, down from $11.8 million. Veeco incurred inventory write-off charges of $15.3 million associated with the CVC merger.</p>
+        <p>In the first half, operating income fell to $11.4 million, from $21.9 million in 1999. Net income dropped to $7.7 million, from $13.8 million. Diluted earnings were 31 cents a share, compared to 66 cents.</p>
+        <p>The company attributed its decline in profits primarily to lower margins on its data storage and processing equipment.</p>
+        <p>IN BRIEF E-mail address: libiz@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail address: libiz@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR000918" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1202291"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Birth Control and Family Planning</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Birth Control and Family Planning</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000525T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E3D9153DF936A15756C0A9669C8B63" item-length="159" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of May 9 article: number of women who have taken birth control pill is unknown</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Personal Health Column on May 9, about the 40th anniversary of the birth control pill, referred incorrectly to the number of women who have taken the pill since its introduction in 1960. The exact number is unknown. Johns Hopkins University has estimated that 80 percent of American women born since 1945 have used oral contraceptives at some time. The erroneous figure, 468 million, applied to the number of women who started taking the pill in any given year plus the number of women who continued to use it from the previous year, for a total of 40 years.</p>
+      </block>
+      <block class="full_text">
+        <p>The Personal Health Column on May 9, about the 40th anniversary of the birth control pill, referred incorrectly to the number of women who have taken the pill since its introduction in 1960. The exact number is unknown. Johns Hopkins University has estimated that 80 percent of American women born since 1945 have used oral contraceptives at some time. The erroneous figure, 468 million, applied to the number of women who started taking the pill in any given year plus the number of women who continued to use it from the previous year, for a total of 40 years.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

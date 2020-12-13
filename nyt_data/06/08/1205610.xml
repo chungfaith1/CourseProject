@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Adding Fonts to Increase A Computer's Repertory</title>
+    <meta content="08ASKK$01" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1205610"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802EED6153FF93BA35755C0A9669C8B63" item-length="716" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Adding Fonts to Increase A Computer's Repertory</hl1>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. How do I install new fonts on my computer?</p>
+        <p>A. Adding type fonts to a PC or Macintosh can be very simple, depending on the type of font you want to load. Two common font formats are TrueType and Adobe's Type 1 Font, and you should know which kind of font you are installing. You can usually find that information  when you purchase and download the font from the Web or in the documentation from the vendor who sent your fonts on a CD or floppy disk.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. How do I install new fonts on my computer?</p>
+        <p>A. Adding type fonts to a PC or Macintosh can be very simple, depending on the type of font you want to load. Two common font formats are TrueType and Adobe's Type 1 Font, and you should know which kind of font you are installing. You can usually find that information  when you purchase and download the font from the Web or in the documentation from the vendor who sent your fonts on a CD or floppy disk.</p>
+        <p>For Windows 98 systems, one way to load TrueType fonts is to go to the Start menu, then to Settings and Control Panel. Double-click on Fonts and pick Install New Font from the File menu. A box will pop up and ask you where the new fonts are, so navigate to the hard drive folder where you have copied the new fonts. Once you have located the fonts, click on them to add them to your system. (Hold down the Control key to select more than one font at a time.) If you can't see any fonts visible in the folder, go back to the Fonts control panel. Under File, select Fonts to add a check mark, then go back to Install New Font in the menu.</p>
+        <p>You can also add most TrueType fonts by dragging them to the Fonts folder in your Windows folder.</p>
+        <p>Adobe Type 1 fonts are a little trickier to deal with. Microsoft advises using a font-utility program called Adobe Type Manager to install the Type 1 fonts. There are versions of Adobe Type Manager Deluxe for both Windows and Macintosh, and more information is available at www.adobe.com/products /atm/main.html. The program is sometimes included with your font purchase and sometimes comes bundled with other graphics-related software.</p>
+        <p>If you have a Macintosh, one way to add fonts is to close all open programs, then drag the new font files into the Fonts folder in your Mac's System Folder. It is not always necessary to restart the Mac after you make adjustments or add things to the System Folder, but it is a good idea. A TrueType font will generally have only one file to drag. Each Type 1 font usually has two files that need to be dragged to the System Folder:  one for the screen version and one for the printer.</p>
+        <p>Trying to install a font in both TrueType and Type 1 formats can cause problems. A font utility program like Adobe Type Manager simplifies font installations and helps you avoid other font-related problems. Font manager programs will let you group fonts into sets that you might want to keep at hand for one project or another and can handle both TrueType and Type 1 fonts. Another program, Suitcase (www .extensis.com/suitcase), will also help you manage your fonts. Suitcase is currently available for only the Macintosh, but a Windows version is being developed.</p>
+        <p>When installing fonts on either platform, be sure not to change the name of the font file. Having a large number of fonts installed can also slow your computer when it starts up because it has to load all the font files as it boots. Microsoft says Windows 95 and 98 will let you have about 1,000 TrueType fonts installed, but you may want to limit them to what you really need.</p>
+        <p>Q. Is it possible to make a copy of my address book that I use with the Microsoft Outlook Express 5.0 e-mail program and save it on a floppy disk?</p>
+        <p>A. Go to the Start menu to Find, then select Files or Folders. When you see the Named box come up, type ''*.wab'' and direct the Look In option to search the drive where Outlook is installed. (It will probably be your C: drive.) Click Find Now, and the address book file, usually called Default, will pop up; right-click on it and select Copy from the pop-up menu.</p>
+        <p>Insert a formatted floppy disk into your computer and double-click on the My Computer icon on your desktop. Double-click on the ''3 1/2 Floppy (A:)'' icon. In the the window that pops up for the floppy disk's contents, right-click and select Paste to copy the address book file to the floppy disk.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

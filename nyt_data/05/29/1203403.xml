@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hernandez Still a Question</title>
+    <meta content="29PINS$04" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203403"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <org class="indexing_service">New York Yankees</org>
+        <person class="indexing_service">Hernandez, Orlando</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000529T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE2DE163CF93AA15756C0A9669C8B63" item-length="229" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hernandez Still a Question</hl1>
+      </hedline>
+      <abstract>
+        <p>New York Yankees are unsure whether injured Orlando Hernandez will be able to pitch next week or will eventually go on disabled list (S)0</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Orlando Hernandez said his sore back felt a little better yesterday, but the Yankees still do not know whether he will be able to pitch next week, or if they will eventually have to place him on the disabled list and reach to the minor leagues for a replacement.</p>
+        <p>The Yankees are not scheduled to play Thursday, which gives them flexibility in determining when El Duque may or may not pitch. They will not need a fifth starter until June 6, when they will be in Montreal. If Hernandez is not able by then, he will most likely go on the disabled list and the Yankees could call up a pitcher from Class AAA Columbus.</p>
+      </block>
+      <block class="full_text">
+        <p>Orlando Hernandez said his sore back felt a little better yesterday, but the Yankees still do not know whether he will be able to pitch next week, or if they will eventually have to place him on the disabled list and reach to the minor leagues for a replacement.</p>
+        <p>The Yankees are not scheduled to play Thursday, which gives them flexibility in determining when El Duque may or may not pitch. They will not need a fifth starter until June 6, when they will be in Montreal. If Hernandez is not able by then, he will most likely go on the disabled list and the Yankees could call up a pitcher from Class AAA Columbus.</p>
+        <p>Manager Joe Torre could use Jason Grimsley, who pitched five solid innings in place of Hernandez on Saturday against the Red Sox, as a starter, and a reliever like Darrell Einertson could be promoted. The Yankees might also call up a starter, perhaps Jake Westbrook or Ted Lilly, both of whom came to the organization in the trade with Montreal for Hideki Irabu.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

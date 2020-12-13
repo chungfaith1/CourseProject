@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV094925" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208073"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Michod, Alec</person>
+        <person class="indexing_service">West, Paul</person>
+        <object.title class="indexing_service">Secret Lives of Words, The (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03EFD6133FF93BA25755C0A9669C8B63" item-length="216" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Alec Michod</byline>
+      <byline class="normalized_byline">Michod, Alec</byline>
+      <abstract>
+        <p>Alec Michod reviews book The Secret Lives of Words by Paul West (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE SECRET LIVES OF WORDS</p>
+        <p>By Paul West.</p>
+        <p>Harcourt, $24.</p>
+      </block>
+      <block class="full_text">
+        <p>THE SECRET LIVES OF WORDS</p>
+        <p>By Paul West.</p>
+        <p>Harcourt, $24.</p>
+        <p>''The Secret Lives of Words'' is what the novelist Paul West calls his ''grateful album,'' a personalized greatest hits of his favorite words and their etymologies. This is not so much an all-inclusive dictionary as an alphabetized exploration into what lies at the heart of the English language. It is a zestful account of West's love for ''history-laden words'' -- from abacus to zymurgist (a brewer). His choices range from the expected (chowder, exuberant) to the arcane (meerschaum, piropo) to the whimsical (oomph girl, flaffy -- a histrionic word, this''). West cites De Quincey and Beckett in one breath, the History Channel in the next. ''Etymology unknown'' does not deter him. He quickly sets forth into whatever ''mental muddle'' he may encounter. Like Samuel Johnson's Dictionary, ''The Secret Lives of Words'' is best when savored piecemeal, bit by bit. Each bit -- from Old English bita, meaning a piece bitten off'' -- houses such wonders.</p>
+        <p>Alec Michod</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

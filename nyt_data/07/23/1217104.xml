@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Hidden Language of the Charts</title>
+    <meta content="23STRA$06" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1217104"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="STRATEGIES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Forecasts</classifier>
+        <person class="indexing_service">Hulbert, Mark</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Strategies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forecasts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000723T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE2D7173AF930A15754C0A9669C8B63" item-length="731" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Hidden Language of the Charts</hl1>
+      </hedline>
+      <byline class="print_byline">By MARK HULBERT</byline>
+      <byline class="normalized_byline">Hulbert, Mark</byline>
+      <abstract>
+        <p>Mark Hulbert Strategies column examines forecasting practice known as charting, which seeks to predict price changes in stock on basis of certain visual patterns in chart of its historical price or volume data; graphs (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FINANCE professors are by their nature a skeptical lot, but their disdain for the forecasting practice known as charting has been especially notable.</p>
+        <p>Charting is the branch of technical analysis that tries to predict price changes in a stock on the basis of certain visual patterns in a chart of its historical prices or volume data. In some academic circles, charting is dismissed out of hand because it is perceived to be unscientific.</p>
+      </block>
+      <block class="full_text">
+        <p>FINANCE professors are by their nature a skeptical lot, but their disdain for the forecasting practice known as charting has been especially notable.</p>
+        <p>Charting is the branch of technical analysis that tries to predict price changes in a stock on the basis of certain visual patterns in a chart of its historical prices or volume data. In some academic circles, charting is dismissed out of hand because it is perceived to be unscientific.</p>
+        <p>But according to a new study, much of this scorn may have resulted from a simple breakdown in communication between the academics and the chartists. The study was prepared by Andrew W. Lo and Jiang Wang, two professors of finance at the Sloan School of Management at the Massachusetts Institute of Technology, and Harry Mamaysky, an assistant professor of finance at the Yale School of Management. In the past, academics just didn't comprehend the chartists' argot, which is filled with terms like ''double top'' -- the pattern that is formed after two successive rallies end at more or less the same price, which is thought to signal weakness in a stock's share price.</p>
+        <p>If academics had only understood what the chartists were talking about, the study contends, they might have found much with which they could agree.</p>
+        <p>Consider the following sentence: ''The presence of clearly identified support and resistance levels, coupled with a one-third retracement parameter when prices lie between them, suggests the presence of strong buying and selling opportunities in the near term.'' That mouthful is crystal clear to a chartist but is inscrutable to an academic.</p>
+        <p>And how about this one, written in professor-speak: ''The magnitudes and decay pattern of the first 12 autocorrelations and the statistical significance of the Box-Pierce Q-statistic suggest the presence of a high-frequency predictable component in stock returns.''</p>
+        <p>According to the professors, the two sentences say essentially the same thing: that past prices contain information that may be useful in predicting future movements.</p>
+        <p>Why did it take so long to discover that chartists and finance professors may at times be basically in agreement? In part, it is because of the difficulties of translating chartists' visual pattern recognition into the  mathematics on which academics rely.</p>
+        <p>The professors believe, however, that recent mathematical advances and increases in computer power make the translation easier. Because charting patterns can now be expressed in terms that academics can understand and measure, they say, researchers can now focus on gauging which charting techniques actually work.</p>
+        <p>The authors have done so with five popular but previously elusive chart patterns, known as head and shoulders, broadening tops (and the related bottoms), triangles, rectangles and double tops (and the related bottoms). After defining them mathematically, the researchers back-tested the patterns' predictive prowess on price data for about 750 stocks over 35 years ending in 1996.</p>
+        <p>One of their findings is that the patterns predict the future direction of Nasdaq stocks better than they do exchange-listed issues. Indeed, some that seemed to work well as buy or sell signals for Nasdaq shares failed utterly when applied to exchange-listed stocks. More research is needed to determine why that should be so.</p>
+        <p>Of the five patterns studied, two worked particularly well with all stocks in forecasting price weakness: the double top and the head and shoulders -- a pattern in which a stock rallies and falls back again three successive times, with the second of the three rallies (the head) advancing further than either the first or the third (the shoulders).</p>
+        <p>Unfortunately, Professor Lo and his colleagues did not calculate the returns that would have been garnered had investors bought and sold stocks based on signals from the chart patterns. The results, they conclude, simply suggest that charting ''can add value to the investment process.''</p>
+        <p>Still, from a team of academics, that's a remarkable endorsement.</p>
+        <p>STRATEGIES Mark Hulbert is editor of The Hulbert Financial Digest, a newsletter based in Annandale, Va. His column on investment strategies appears every other week. E-mail: strategy@nytimes.com.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Mark Hulbert is editor of The Hulbert Financial Digest, a newsletter based in Annandale, Va. His column on investment strategies appears every other week. E-mail: strategy@nytimes.com.</tagline>
+    </body.end>
+  </body>
+</nitf>

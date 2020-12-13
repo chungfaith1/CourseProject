@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Ice Cream Sunday</title>
+    <meta content="18BWAY$01" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208535"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BY THE WAY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Ice Cream</classifier>
+        <classifier class="indexing_service" type="descriptor">Parks and Other Recreation Areas</classifier>
+        <location class="indexing_service">Muscoot Farm (Somers, Ny)</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ice Cream</classifier>
+        <classifier class="online_producer" type="general_descriptor">Leisure</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ice</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E7DB1431F93BA25755C0A9669C8B63" item-length="290" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Ice Cream Sunday</hl1>
+      </hedline>
+      <abstract>
+        <p>Muscoot Farm, park in Somers, NY, will offer free ice cream making to visitors on June 25; drawing (By the Way column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It's the time of year when Muscoot Farm, the county park in Somers, comes alive with babies. Right now, there are lambs, kids, calves and chicks.</p>
+        <p>But next Sunday,june 25 there will be something at least equally appeal ing: homemade ice cream. Visitors to a free program from noon to 3 p.m. can even help make the ice cream, using machines that turn out a quart at a time.</p>
+      </block>
+      <block class="full_text">
+        <p>It's the time of year when Muscoot Farm, the county park in Somers, comes alive with babies. Right now, there are lambs, kids, calves and chicks.</p>
+        <p>But next Sunday,june 25 there will be something at least equally appeal ing: homemade ice cream. Visitors to a free program from noon to 3 p.m. can even help make the ice cream, using machines that turn out a quart at a time.</p>
+        <p>''The flavors will be decided that morning,'' said Sue Moga, the farm manager, ''but there will definitely be vanilla, and maybe strawberry.''</p>
+        <p>Until 1967 when the county acquired it, Muscoot Farm was a working dairy farm. Its original owners, the Hopkins family, had used it as a summer estate from 1880 to 1924, when the family move in year round. Ms. Moga said the family patriarch, Ferdinand Hopkins, made his for tune with a product called Mother Sills Seasick Remedy.</p>
+        <p>Today, the 777 acres are maintained in the style of an early 1900's farm, with barns and other buildings dating from 1880 to 1950. The County Parks, Recreation and Conservation Department offers a variety of edu cational programs as well as hay rides and operates an art gallery in the Main House.</p>
+        <p>This afternoon, from noon to 3, the focus will be on horses and how they were used for farming and transportation.</p>
+        <p>BY THE WAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

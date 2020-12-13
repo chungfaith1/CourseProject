@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Harry Potter and the Magic of Imagining</title>
+    <meta content="L07POT" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212992"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Rowling, J K</person>
+        <person class="indexing_service">Landay, Jerry M</person>
+        <object.title class="indexing_service">Harry Potter and the Goblet of Fire (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000707T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E4D81F39F934A35754C0A9669C8B63" item-length="204" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Harry Potter and the Magic of Imagining</hl1>
+      </hedline>
+      <abstract>
+        <p>Jerry M Landay letter praises J K Rowling's Harry Potter books for stirring the imaginations of young readers (July 3 article); drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>You wonder ''why the Harry Potter books have stirred the imagination of so many young readers'' (front page, July 3). The answer is simple: It's the imagination of story. Homo sapiens is a species that must have story to learn, grow and share.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>You wonder ''why the Harry Potter books have stirred the imagination of so many young readers'' (front page, July 3). The answer is simple: It's the imagination of story. Homo sapiens is a species that must have story to learn, grow and share.</p>
+        <p>The young have been forcibly converted into legions of consumers by corporate storytellers -- with their stories that sell instead of tell, their video games that kill instead of inspire, their formulaic, dumbed-down texts that drum dry formulas into young minds. Children hunger for the nurture of adventure.</p>
+        <p>Along comes an author, J. K. Rowling, who engages and nourishes those templates of imagination within the brains and souls of the young. She invokes the excitement of magic that we so vividly recall from ghost stories at campfires. Harry Potter awakens children to the poetry in reality with the make-believe of a good, old-fashioned morality tale (without commercial messages or conditioning stimuli).</p>
+        <p>JERRY M. LANDAY  Urbana, Ill., July 3, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

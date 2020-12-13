@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>QUOTATION OF THE DAY</title>
+    <meta content="23QUOTE" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/23/pageoneplus/23QUOTE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1241230"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">QUOTATION OF THE DAY</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001023T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E2DD1631F930A15753C1A9669C8B63" item-length="96" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>QUOTATION OF THE DAY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''The notion that kindergarten is a place where kids come and play is an anachronism.''</p>
+        <p>KAREN LANG, deputy superintendent of schools in Greenwich, Conn.[B2]</p>
+      </block>
+      <block class="full_text">
+        <p>''The notion that kindergarten is a place where kids come and play is an anachronism.''</p>
+        <p>KAREN LANG, deputy superintendent of schools in Greenwich, Conn.[B2]</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Month That Couldn't End Fast Enough</title>
+    <meta content="DAT01" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1235268"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="DATABANK: SEPTEMBER 25-29"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Dow Jones Stock Average</classifier>
+        <classifier class="indexing_service" type="descriptor">Standard &amp; Poor's 500-Stock Index</classifier>
+        <classifier class="indexing_service" type="descriptor">Nasdaq Composite Index</classifier>
+        <person class="indexing_service">Cuff, Dan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dow Jones Stock Average</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nasdaq Composite Index</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001001T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E6DA143DF932A35753C1A9669C8B63" item-length="549" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Month That Couldn't End Fast Enough</hl1>
+      </hedline>
+      <byline class="print_byline">By DAN CUFF</byline>
+      <byline class="normalized_byline">Cuff, Dan</byline>
+      <abstract>
+        <p>Dow Jones industrial average falls 5 percent for September, Nasdaq composite index falls 12.7 percent and Standard &amp; Poor's 500-stock index drops 5.4 percent; graphs; charts (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Investors hope that it's over now -- the punishing string of earnings warnings that has relentlessly pushed down stocks, especially the high-wire technology stocks. Apple, Intel, Sprint, Eastman Kodak, UAL and a host of other big names announced that they would disappoint Wall Street as the third quarter closed.</p>
+        <p>Will the fourth quarter be any kinder? Many analysts look for a rebound by year's end, but others fear that the economy may not have such a soft landing after all, that computer sales growth will falter and that Wall Street's wall of worry may be harder to climb.</p>
+      </block>
+      <block class="full_text">
+        <p>Investors hope that it's over now -- the punishing string of earnings warnings that has relentlessly pushed down stocks, especially the high-wire technology stocks. Apple, Intel, Sprint, Eastman Kodak, UAL and a host of other big names announced that they would disappoint Wall Street as the third quarter closed.</p>
+        <p>Will the fourth quarter be any kinder? Many analysts look for a rebound by year's end, but others fear that the economy may not have such a soft landing after all, that computer sales growth will falter and that Wall Street's wall of worry may be harder to climb.</p>
+        <p>''It's just a continuation of what we've seen since Labor Day,'' said John Shaughnessy, chief investment strategist at Advest. ''This is a combination of the concerns about third-quarter earnings reports, the implications of rising oil prices for the economy and corporate profit, and the implications of the weak euro.''</p>
+        <p>The Dow Jones industrials fell 5 percent for the month, the Nasdaq composite lost 12.7 percent and the S. &amp; P. 500 slipped 5.4 percent in September.</p>
+        <p>There was relief that September had ended and hope for an upswing in October. But the pessimists pointed out that it can be a harsh month for stocks: Big market drops have a way of happening in October.</p>
+        <p>DAN CUFF</p>
+        <p>DATABANK: SEPTEMBER 25-29</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

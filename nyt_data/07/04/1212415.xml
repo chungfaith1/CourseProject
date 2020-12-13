@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Invisible Matthau</title>
+    <meta content="L04MAT" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212415"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <person class="indexing_service">Lynch, Paul Kunino</person>
+        <person class="indexing_service">Matthau, Walter</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000704T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E7DD1339F937A35754C0A9669C8B63" item-length="143" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Invisible Matthau</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Paul Kunino Lynch pays tribute to actor Walter Matthau, who recently died</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Walter Matthau, 79, Rumpled Star and Comic Icon, Dies'' (obituary, July 2):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Walter Matthau, 79, Rumpled Star and Comic Icon, Dies'' (obituary, July 2):</p>
+        <p>While still living in Manhattan at the end of the 1960's, Walter Matthau once asserted that he was such a good actor he could make himself invisible while taking his daily walks. I worked nearby, and often saw many people recognize him as he walked down Broadway, but he was held in such universal affection that nobody bothered him.</p>
+        <p>PAUL KUNINO LYNCH  Kings Cross, Australia, July 2, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

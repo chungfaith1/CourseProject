@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Speed Demon</title>
+    <meta content="LTR125010" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204497"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Olympic Games</classifier>
+        <classifier class="indexing_service" type="descriptor">Track and Field</classifier>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <person class="indexing_service">Jones, Marion</person>
+        <person class="indexing_service">Hackett, Tony</person>
+        <person class="indexing_service">Vachher, Ajoy</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Olympic Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Track and Field</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE3DB173CF937A35755C0A9669C8B63" item-length="132" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Speed Demon</hl1>
+      </hedline>
+      <abstract>
+        <p>Ajoy Vachher letter on Tony Hackett's May 14 profile of track star Marion Jones questions when people will stop ascribing success of African-American athletes to genetic makeup rather than talent, hard work and discipline</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Hackett explains Marion Jones's success (May 14) in terms of her ''genetic makeup'' and of being ''born strong, with fast-twitch muscles.'' Yet Hackett goes on to describe the 100-meter sprint, her ''signature event,'' as ''the most technical and intellectual of all track events.'' He also describes her mental strength, rigorous self-appraisal, willingness to change, incredible discipline, pragmatism and hard work.</p>
+      </block>
+      <block class="full_text">
+        <p>Hackett explains Marion Jones's success (May 14) in terms of her ''genetic makeup'' and of being ''born strong, with fast-twitch muscles.'' Yet Hackett goes on to describe the 100-meter sprint, her ''signature event,'' as ''the most technical and intellectual of all track events.'' He also describes her mental strength, rigorous self-appraisal, willingness to change, incredible discipline, pragmatism and hard work.</p>
+        <p>It makes me wonder, therefore, when people will stop ascribing the success of African-American athletes to genetic good fortune and instead ascribe it to the talent, hard work and discipline all highly successful athletes must possess to succeed.</p>
+        <p>Ajoy Vachher  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

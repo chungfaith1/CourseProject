@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>It Is Deadly Serious</title>
+    <meta content="LTR045025" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1217282"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <org class="indexing_service">New York Yankees</org>
+        <org class="indexing_service">New York Mets</org>
+        <person class="indexing_service">Gross, Herman</person>
+        <person class="indexing_service">Clemens, Roger</person>
+        <person class="indexing_service">Piazza, Mike</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000723T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1DE123AF930A15754C0A9669C8B63" item-length="98" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>It Is Deadly Serious</hl1>
+      </hedline>
+      <abstract>
+        <p>Herman Gross letter on Yankees pitcher Roger Clemons hitting Mets catcher Mike Piazza with pitch recalls fatal accident in 1920's when Carl Mays beaned and killed Ray Chapman$</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>I imagine there are very few fans alive who can remember (as I do) the fatal accident in the early 1920's when the sidewinder pitcher Carl Mays beaned and killed Ray Chapman. Without a helmet, that could have happened to Piazza. The sound of the crack on the helmet was as loud as the crack of a bat on a ball.</p>
+        <p>HERMAN GROSS  Great Neck, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>I imagine there are very few fans alive who can remember (as I do) the fatal accident in the early 1920's when the sidewinder pitcher Carl Mays beaned and killed Ray Chapman. Without a helmet, that could have happened to Piazza. The sound of the crack on the helmet was as loud as the crack of a bat on a ball.</p>
+        <p>HERMAN GROSS  Great Neck, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hold That Listing</title>
+    <meta content="LTR005839" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1242069"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001026T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E7D81031F935A15753C1A9669C8B63" item-length="159" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hold That Listing</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Verizon's decision to let people list personal e-mail addresses in the phone directory is ill conceived (''New Media Meets Old Media in the Phone Book,'' Oct. 26). Anyone who has unfortunately listed an e-mail address in a newsgroup or other public forum has been the victim of people who troll for e-mail addresses and sell the lists.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Verizon's decision to let people list personal e-mail addresses in the phone directory is ill conceived (''New Media Meets Old Media in the Phone Book,'' Oct. 26). Anyone who has unfortunately listed an e-mail address in a newsgroup or other public forum has been the victim of people who troll for e-mail addresses and sell the lists.</p>
+        <p>A day doesn't go by without my receiving multiple solicitations to invest in get-rich-quick schemes or to purchase these lists so I can spam others. Unlike regular junk mail, there is no cost to the sender. It would be foolhardy to invite junk e-mail by listing your address.</p>
+        <p>BRUCE HELLER  White Plains, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

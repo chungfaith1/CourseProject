@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="03QNA.$02" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/03/science/03QNA.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1235628"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Water</classifier>
+        <classifier class="indexing_service" type="descriptor">Temperature</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Temperature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001003T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E6D6123DF930A35753C1A9669C8B63" item-length="392" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Answer to reader's query about freezing temperature of water</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Freezing Water</p>
+        <p>Q.  Is the freezing point of water altered by pressure? Why does deep sea water not freeze?</p>
+      </block>
+      <block class="full_text">
+        <p>Freezing Water</p>
+        <p>Q.  Is the freezing point of water altered by pressure? Why does deep sea water not freeze?</p>
+        <p>A.  The freezing temperature of water drops about one degree for every 75 of the units of pressure called atmospheres, but the change is small compared with the difference even one atmosphere of pressure makes in raising the boiling point, said Dr. Alan J. Friedman, director of the New York Hall of Science in Queens. (One atmosphere is equal to 14.69 pounds per square inch.)</p>
+        <p>Why deep sea water does not freeze depends less on pressure than on two other factors, he said: ''The ocean is salt water, which interferes with the freezing process and lowers the freezing point, and at depths of a mile or so, there is considerable heating from inside the earth.''</p>
+        <p>At normal atmospheric pressure, water freezes at 32 degrees. But when water is compressed to about 20,000 atmospheres and cooled, other varieties of ice form, with different molecular arrangements and linkages among hydrogen and oxygen atoms.</p>
+        <p>The form called Ice II is 12 percent denser, and Ice III is 3 percent denser. The known types go up to Ice X, beyond the infamous ''Ice Nine'' in Kurt Vonnegut's 1963 novel ''Cat's Cradle.''</p>
+        <p>''Ice IX exists, but does not have the properties Vonnegut gave it, like forming at room temperature, and being contagious,'' Dr. Friedman said. ''It was found after the novel came out, so his version was based on good speculation.''</p>
+        <p>C. CLAIBORNE RAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

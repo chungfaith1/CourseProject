@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OFF THE MENU</title>
+    <meta content="05OFF.$02" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212565"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <org class="indexing_service">D'Artagnan (Co)</org>
+        <org class="indexing_service">Nick &amp; Stef's (NYC Restaurant)</org>
+        <org class="indexing_service">Madison Square Garden</org>
+        <org class="indexing_service">Montana Steak and Grill (NYC)</org>
+        <person class="indexing_service">Splichal, Joachim</person>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Off the Menu</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000705T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E4DC1039F936A35754C0A9669C8B63" item-length="367" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OFF THE MENU</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>D'Artagnan will open restaurant on East 46th Street; Joachim Splichal will open Nick &amp; Stef's steakhouse at Madison Square Garden; Montana Steak and Grill opens on Columbus Avenue and 93d Street (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Cafe D'Artagnan</p>
+        <p>It's not for lack of retail outlets that D'Artagnan, the foie gras and game company, will be opening a cafe and shop in the fall. As Ariane Daguin, one of the partners, said, ''Everybody does rotisserie chickens, but we can't convince them to do it with our good organic chickens, so we decided to do it ourselves.''</p>
+        <p>D'Artagnan, at 152 East 46th Street, will have tables on its mezzanine level and serve wine and aperitifs. Takeout food will include rotisserie-cooked foie gras, game and sausage, in addition to chicken, potatoes browned in drippings, soups, stews, sandwiches and salads.</p>
+      </block>
+      <block class="full_text">
+        <p>Cafe D'Artagnan</p>
+        <p>It's not for lack of retail outlets that D'Artagnan, the foie gras and game company, will be opening a cafe and shop in the fall. As Ariane Daguin, one of the partners, said, ''Everybody does rotisserie chickens, but we can't convince them to do it with our good organic chickens, so we decided to do it ourselves.''</p>
+        <p>D'Artagnan, at 152 East 46th Street, will have tables on its mezzanine level and serve wine and aperitifs. Takeout food will include rotisserie-cooked foie gras, game and sausage, in addition to chicken, potatoes browned in drippings, soups, stews, sandwiches and salads.</p>
+        <p>A Chef Comes East</p>
+        <p>Add Joachim Splichal of Los Angeles to the growing list of chefs from afar who are bringing their own restaurant style to New York. Last year, Mr. Splichal, who owns 13 restaurants in California and Las Vegas, formed a partnership with Restaurant Associates, which is based in New York. In September, they will open Nick &amp; Stef's, a steakhouse to be run by Mr. Splichal on 33rd Street at Madison Square Garden. It will replace a Charley O's. Nick and Stef are Mr. Splichal's twin sons, and he opened the first Nick &amp; Stef's in Los Angeles last year.</p>
+        <p>The format, becoming ever more typical in steakhouses today, is to offer a choice of cuts with a choice of sauces, potatoes and side dishes. In Mr. Splichal's case, that means a dozen of each.</p>
+        <p>Potato Masquerade</p>
+        <p>Montana Steak and Grill, a more typical steakhouse, has opened at 680 Columbus Avenue (93rd Street). The chef, Neal Myers, was at Ben Benson's. He offers a dessert made of vanilla ice cream that is dusted with cocoa and fashioned to look like a baked potato. At least none of his desserts look like creamed spinach.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

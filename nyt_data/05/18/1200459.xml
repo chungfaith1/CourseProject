@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Inkjet Pioneer</title>
+    <meta content="LTR233702" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200459"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computer Printers</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">funk, howard l</person>
+        <person class="indexing_service">hertz, carl hellmuth (prof)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Printers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000518T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE1D7173AF93BA25756C0A9669C8B63" item-length="161" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Inkjet Pioneer</hl1>
+      </hedline>
+      <abstract>
+        <p>Howard L Funk letter on May 4 article cites Prof Carl Hellmuth Hertz's pioneering work on inkjet printing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''The Inkjet Color Image, Born in a Rainbow of Tiny Drops'' (May 4) covered only the history of ''drop on demand'' technology and did not discuss the first inkjet work by Prof. Carl Hellmuth Hertz of the University of Lund in Sweden.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''The Inkjet Color Image, Born in a Rainbow of Tiny Drops'' (May 4) covered only the history of ''drop on demand'' technology and did not discuss the first inkjet work by Prof. Carl Hellmuth Hertz of the University of Lund in Sweden.</p>
+        <p>His work used a continuous stream of ink that was deflected electrostatically. Unused ink ended up in a gutter.</p>
+        <p>While the ''drop on demand'' technology that followed Dr. Herz's work was the approach that won commercial success, he should be given credit for being the first in the field.</p>
+        <p>HOWARD L. FUNK  Katonah, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

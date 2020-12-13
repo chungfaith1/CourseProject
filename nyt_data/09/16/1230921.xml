@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="16CMPBRFS" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1230921"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000916T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E7DC1E38F935A2575AC0A9669C8B63" item-length="145" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>VANADIUM INTERNATIONAL INC., Reno, Nev., a company that explores for precious metals, said it agreed to buy the closely held Reno-based Cleartron Corporation, which is building a wireless communications network that uses low bandwidth to monitor remote devices like gas meters. The price would be about $81.8 million in stock.</p>
+      </block>
+      <block class="full_text">
+        <p>VANADIUM INTERNATIONAL INC., Reno, Nev., a company that explores for precious metals, said it agreed to buy the closely held Reno-based Cleartron Corporation, which is building a wireless communications network that uses low bandwidth to monitor remote devices like gas meters. The price would be about $81.8 million in stock.</p>
+        <p>GENERAL DYNAMICS CORP., San Diego, the military contractor, said that its National Steel and Shipbuilding Co. unit received a $630 million order from the oil giant BP Amoco for three tankers.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OFF THE MENU</title>
+    <meta content="02OFF.$01" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1219418"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Interior Design</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Mortimer's (NYC Restaurant)</org>
+        <org class="indexing_service">Orsay (NYC Restaurant)</org>
+        <org class="indexing_service">Muse Hotel (NYC)</org>
+        <org class="indexing_service">Caffe Lurie (NYC Restaurant)</org>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <person class="indexing_service">Bon, Inez</person>
+        <person class="indexing_service">Rockwell, David (Architect)</person>
+        <person class="indexing_service">Diaferia, Gino</person>
+        <person class="indexing_service">DeMarco, Sam</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Off the Menu</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interior Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000802T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E3DD113DF931A3575BC0A9669C8B63" item-length="345" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OFF THE MENU</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>New French restaurant, Orsay, will open in space that was former home of Mortimer's on Manhattan's Upper East Side; Muse Hotel, opening on West 46th Street, will have restaurant with theater theme designed by David Rockwell; will be run by Gino Diaferia; Sam DeMarco will be chef and partner; Inez Bon takes over space in West Village that was former home of Caffe Lurie and is planning to open NL in fall as showcase for modern Dutch food and design (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In Place of Mortimer's</p>
+        <p>Whither Mortimer's? The question of what will happen to the space at 1057 Lexington Avenue (75th Street) has been debated since Glenn Bernbaum, the owner of the restaurant, which was favored by socialites, died in 1998.</p>
+      </block>
+      <block class="full_text">
+        <p>In Place of Mortimer's</p>
+        <p>Whither Mortimer's? The question of what will happen to the space at 1057 Lexington Avenue (75th Street) has been debated since Glenn Bernbaum, the owner of the restaurant, which was favored by socialites, died in 1998.</p>
+        <p>The ladies who lunch moved on, but Jean Denoyer and his partners in La Goulue, Francois Latapie and Regis Marnier, bought the building for $5.1 million and have spent at least that much to renovate and rebuild it. Their new restaurant, Orsay, is to open there on Friday.</p>
+        <p>Forget Mortimer's famous meatloaf. Orsay's chef, Philippe Schmit, also from La Goulue, plans updated French fare to go with the 140-seat room's Art Nouveau decor, much of it imported from France. A second-floor private party room and an outdoor cafe will open later.</p>
+        <p>Shakespeare Eats Here</p>
+        <p>The Muse Hotel, opening later this month at 130 West 46th Street, will have a restaurant with a theater theme that is being designed by David Rockwell. It will be run by Gino Diaferia, an owner of Veritas and Indigo. Sam DeMarco, the chef and owner of First in the East Village, whose style is eclectic American, is to be the chef and a partner.</p>
+        <p>Dutch-Designed Food</p>
+        <p>Inez Bon has taken over the space at 169 Sullivan Street (Houston Street), which was Caffe Lure, and is planning to open NL (for Netherlands) in the fall as a showcase for modern Dutch food and design.</p>
+        <p>Forget wooden shoes, windmills and spheres of Edam. Ms. Bon, who owns Morlang, a restaurant in Amsterdam, has hired Dutch designers to create a sleekly modern restaurant, and Dutch chefs to plan traditional dishes like smoked eel and pea soup, to vie for attention with Indonesian rijsttafel and nasi goreng, which reflect Dutch colonial history.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

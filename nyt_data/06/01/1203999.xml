@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Paperless Newspaper</title>
+    <meta content="LTR231626" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203999"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="INCOMING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Newspapers</classifier>
+        <person class="indexing_service">Ellmyer, Richard</person>
+        <person class="indexing_service">Wendland, Mike</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E7D7123CF932A35755C0A9669C8B63" item-length="284" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Paperless Newspaper</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by Richard Ellmyer responds to May 25 article on cyberspace newspapers; says he and his wife are very happy reading news online</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>My wife couldn't be happier now that I've canceled my decades-old subscription to The New York Times. The printer's ink on the kitchen table and my rocking chair by the window drove her nuts.</p>
+        <p>Since I got my new Macintosh PowerBook with AirPort connected to my D.S.L. line, our morning routine has changed from conflict to cordiality. No mess and no fighting over who gets which section first. Now I read not only The Times, but also The Washington Post and my local paper, The Oregonian, as well as Dave Barry and Molly Ivins. All of them join me at my breakfast table and then afterward for coffee on the couch. When the sun is shining, I go out to the garden and read. Apple's wireless technology has truly given new meaning to the term PowerBook. Take it anywhere, read anything.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>My wife couldn't be happier now that I've canceled my decades-old subscription to The New York Times. The printer's ink on the kitchen table and my rocking chair by the window drove her nuts.</p>
+        <p>Since I got my new Macintosh PowerBook with AirPort connected to my D.S.L. line, our morning routine has changed from conflict to cordiality. No mess and no fighting over who gets which section first. Now I read not only The Times, but also The Washington Post and my local paper, The Oregonian, as well as Dave Barry and Molly Ivins. All of them join me at my breakfast table and then afterward for coffee on the couch. When the sun is shining, I go out to the garden and read. Apple's wireless technology has truly given new meaning to the term PowerBook. Take it anywhere, read anything.</p>
+        <p>And do I miss going outside in the early morning for the where's-the-paper hunt? Or picking up a soaking wet plastic wrapper? No. Do I like to make the size of the print big enough so I can read it without my glasses? Yes. Do I like having access to four or five papers instead of one? Definitely. Do I prefer to read fresh news instead of stale news? Of course. Don't you?</p>
+        <p>My wife, Bonnie, was so excited about reading the paper on my PowerBook that she now owns one. She keeps hers in the living room near the television. The choice now becomes television or PowerBook. Even with 71 channels, the Internet is often the winner.</p>
+        <p>RICHARD ELLMYER  Portland, Ore.</p>
+        <p>INCOMING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

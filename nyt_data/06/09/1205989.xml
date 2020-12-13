@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="09CMPBRFS" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1205989"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E6DA113FF93AA35755C0A9669C8B63" item-length="287" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ADAPTEC, Milpitas, Calif., a designer of cards that speed computer communications, said it planned to make its software unit an independent company and make a public offering of shares for part of the unit.</p>
+      </block>
+      <block class="full_text">
+        <p>ADAPTEC, Milpitas, Calif., a designer of cards that speed computer communications, said it planned to make its software unit an independent company and make a public offering of shares for part of the unit.</p>
+        <p>WOODWARD GOVERNOR, Rockford, Ill., a maker of engine and turbine controls, said it won a contract valued at more than $500 million over five years from GE Power Systems, Schenectady, N.Y.</p>
+        <p>JACO ELECTRONICS, Hauppauge, N.Y., a distributor of electronic components, acquired a closely held competitor, Interface Electronics, Franklin, Mass., for $15.4 million in cash and assumed about $3.3 million in debt.</p>
+        <p>PRICELINE.COM INC., Norwalk, Conn., which lets customers bid online for plane tickets, groceries and other items, said that the Kroger Co., Cincinnati, would join its WebHouse Club online service.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

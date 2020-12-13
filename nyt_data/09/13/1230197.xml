@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ford Returns to Public Eye</title>
+    <meta content="13MICH0AA" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1230197"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <org class="indexing_service">University of Michigan</org>
+        <person class="indexing_service">Ford, Gerald Rudolph Jr</person>
+        <person class="indexing_service">Kissinger, Henry A (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000913T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E3DB1438F930A2575AC0A9669C8B63" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ford Returns to Public Eye</hl1>
+      </hedline>
+      <abstract>
+        <p>Photo of former Pres Gerald Ford with Henry Kissinger at University of Michigan, in his first public appearance since suffering minor stroke in August</p>
+      </abstract>
+    </body.head>
+    <body.content/>
+  </body>
+</nitf>

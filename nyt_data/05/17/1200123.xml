@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Behind the Rate Hike</title>
+    <meta content="17WED2" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200123"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <classifier class="indexing_service" type="descriptor">Credit</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <org class="indexing_service">Federal Reserve System</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000517T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE5DE1F3BF934A25756C0A9669C8B63" item-length="433" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Behind the Rate Hike</hl1>
+      </hedline>
+      <abstract>
+        <p>Editorial says Federal Reserve's half-point interest rate increase signals that it intends to clamp down on inflation; says rise in stock prices reflects Wall Street's belief that Federal Reserve will keep inflation under tight control</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Federal Reserve aggressively raised interest rates yesterday, and Wall Street cheered. The textbooks say that higher interest rates are supposed to draw investors out of the stock market and into the bond market. Yet the Dow Jones stock market index rose more than 125 points yesterday.</p>
+        <p>The reason appears straightforward. Investors were worried that inflation is beginning to creep up and that the Fed might be waiting too long to push it back down. They feared that if inflation keeps rising, the Fed might be forced to crack down hard in the future, a reaction that would knock the economy off its high-growth path. So Wall Street reacted warmly when the Fed raised short-term interest rates by half a percentage point, double the size of each of the five previous rate increases.</p>
+      </block>
+      <block class="full_text">
+        <p>The Federal Reserve aggressively raised interest rates yesterday, and Wall Street cheered. The textbooks say that higher interest rates are supposed to draw investors out of the stock market and into the bond market. Yet the Dow Jones stock market index rose more than 125 points yesterday.</p>
+        <p>The reason appears straightforward. Investors were worried that inflation is beginning to creep up and that the Fed might be waiting too long to push it back down. They feared that if inflation keeps rising, the Fed might be forced to crack down hard in the future, a reaction that would knock the economy off its high-growth path. So Wall Street reacted warmly when the Fed raised short-term interest rates by half a percentage point, double the size of each of the five previous rate increases.</p>
+        <p>Investor reaction is as much psychological as financial. A quarter-point rate increase carries about as much economic wallop as a half-point increase. What is really going on is a signaling game. By choosing the larger of two possible rate hikes, the Fed signaled to businesses, workers and investors that it intends to clamp down on inflation.</p>
+        <p>The economy remains strong. Unemployment has fallen below 4 percent. Spending rose by more than 8 percent at the beginning of the year, a pace few economists believe can continue without creating shortages and a burst of inflation.</p>
+        <p>What worries the Fed are the first signs that inflation is rising above 2 percent a year, a beneficial target. Consumer prices have risen by 3 percent over the past year. Even subtracting out energy and food, two volatile sectors, prices rose slightly more than 2 percent. There is nothing alarming about these numbers -- indeed, producer price inflation remains low -- but fears remain that rapid growth is beginning to drive up prices.</p>
+        <p>The shocking fact is how slowly wages are rising in the face of severe labor shortages. Indeed, only in the past few years have wages risen faster than prices. The best way to create room for wages to rise further is to keep the economy growing. For that to happen, the Fed believes it must convince everyone that inflation will remain under tight control. That is what the Fed said it would do yesterday. Wall Street believed what it heard.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

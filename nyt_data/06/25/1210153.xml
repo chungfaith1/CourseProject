@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>VALHALLA: OFFICERS CHARGED</title>
+    <meta content="MB003210" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1210153"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BRIEFING: LAW ENFORCEMENT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Prisons and Prisoners</classifier>
+        <classifier class="indexing_service" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="indexing_service" type="descriptor">Disability Insurance</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <location class="indexing_service">Valhalla (Ny)</location>
+        <person class="indexing_service">Brenner, Elsa</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prisons and Prisoners</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000625T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E5DC1630F936A15755C0A9669C8B63" item-length="80" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>VALHALLA: OFFICERS CHARGED</hl1>
+      </hedline>
+      <byline class="print_byline">By ELSA BRENNER</byline>
+      <byline class="normalized_byline">Brenner, Elsa</byline>
+      <abstract>
+        <p>Four corrections officers at County Jail in Valhalla, NY, are suspended and charged with making fraudulent disability claims (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Four correction officers have been charged with making fraudulent disability claims at the County Jail in Valhalla. Authorities said three officers made false representations to their doctors about their ability to work, obtaining $46,900 in disability benefits. A fourth is accused of submitting forged doctor's notes excusing him from his duties. All four officers have been suspended.</p>
+        <p>ELSA BRENNER</p>
+      </block>
+      <block class="full_text">
+        <p>Four correction officers have been charged with making fraudulent disability claims at the County Jail in Valhalla. Authorities said three officers made false representations to their doctors about their ability to work, obtaining $46,900 in disability benefits. A fourth is accused of submitting forged doctor's notes excusing him from his duties. All four officers have been suspended.</p>
+        <p>ELSA BRENNER</p>
+        <p>BRIEFING: LAW ENFORCEMENT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR004242" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1230505"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Banks and Banking</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Wasserstein Perella Group</org>
+        <org class="indexing_service">Dresdner Bank</org>
+        <person class="indexing_service">Biondi, Michael</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000914T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E1D91238F937A2575AC0A9669C8B63" item-length="92" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Sept 13 Market Place comun on talks of possible acquisition of Wasserstein Perella &amp; Company by Dresdner Bank of Germany, regarding name of Wasserstein's chief executive, Michael Biondi</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Market Place column in Business Day yesterday, about talks over the possible acquisition of Wasserstein Perella &amp; Company by Dresdner Bank of Germany, misstated the given name of Wasserstein's chief executive. He is Michael Biondi. (Frank Biondi Jr., his brother, is a senior managing director at WaterView Advisors in Santa Monica, Calif.)</p>
+      </block>
+      <block class="full_text">
+        <p>The Market Place column in Business Day yesterday, about talks over the possible acquisition of Wasserstein Perella &amp; Company by Dresdner Bank of Germany, misstated the given name of Wasserstein's chief executive. He is Michael Biondi. (Frank Biondi Jr., his brother, is a senior managing director at WaterView Advisors in Santa Monica, Calif.)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

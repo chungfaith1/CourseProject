@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE INNER LIFE</title>
+    <meta content="Y06PRO$02" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; Corrections; Editors' Notes; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1197151"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="COMING ON SUNDAY"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editors' Note</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Editors' Notes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000506T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E3DE1438F935A35756C0A9669C8B63" item-length="126" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE INNER LIFE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Americans are polled on almost everything, except what they hold closest -- concerns of the heart and mind. For a special issue, The Times Magazine commissioned a poll that asked how people understand their identities. The results reveal religious beliefs and sexual mores; where people find happiness; what causes anxiety.</p>
+        <p>Plus: An opportunity to respond to the poll online.</p>
+      </block>
+      <block class="full_text">
+        <p>Americans are polled on almost everything, except what they hold closest -- concerns of the heart and mind. For a special issue, The Times Magazine commissioned a poll that asked how people understand their identities. The results reveal religious beliefs and sexual mores; where people find happiness; what causes anxiety.</p>
+        <p>Plus: An opportunity to respond to the poll online.</p>
+        <p>COMING ON SUNDAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

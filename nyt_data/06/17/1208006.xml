@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DANONE BUYS NAYA</title>
+    <meta content="MB224034" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208006"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WORLD BUSINESS BRIEFING: AMERICAS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Water</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">Bankruptcies</classifier>
+        <org class="indexing_service">Naya Inc</org>
+        <org class="indexing_service">Groupe Danone</org>
+        <person class="indexing_service">Pritchard, Timothy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bankruptcies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902EEDF1731F934A25755C0A9669C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DANONE BUYS NAYA</hl1>
+      </hedline>
+      <byline class="print_byline">By Timothy Pritchard</byline>
+      <byline class="normalized_byline">Pritchard, Timothy</byline>
+      <abstract>
+        <p>Groupe Danone, leading seller of bottled water, buys assets of bankrupt Naya Inc (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A leading seller of bottled water, Groupe Danone of France, has doubled its North American capacity by buying the assets of Naya Inc. of Mirabel, Quebec, near Montreal. The purchase price was not disclosed. Established in 1986, Naya has been operating under bankruptcy protection for the last six months because it could not manage a $69 million debt. Groupe Danone plans to bring Naya's plant back to full production and add its brand name to those of Evian, Volvic and Crystal Springs.</p>
+        <p>Timothy Pritchard</p>
+      </block>
+      <block class="full_text">
+        <p>A leading seller of bottled water, Groupe Danone of France, has doubled its North American capacity by buying the assets of Naya Inc. of Mirabel, Quebec, near Montreal. The purchase price was not disclosed. Established in 1986, Naya has been operating under bankruptcy protection for the last six months because it could not manage a $69 million debt. Groupe Danone plans to bring Naya's plant back to full production and add its brand name to those of Evian, Volvic and Crystal Springs.</p>
+        <p>Timothy Pritchard</p>
+        <p>WORLD BUSINESS BRIEFING: AMERICAS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

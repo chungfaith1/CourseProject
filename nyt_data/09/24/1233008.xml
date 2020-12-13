@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Heavy Metal</title>
+    <meta content="LTR092817" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1233008"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Camp, Robert</person>
+        <person class="indexing_service">Cammuso, Frank</person>
+        <person class="indexing_service">Seely, Hart</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000924T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E0D81238F937A1575AC0A9669C8B63" item-length="78" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Heavy Metal</hl1>
+      </hedline>
+      <abstract>
+        <p>Robert Camp letter on Frank Cammuso and Hart Seely's August 27 Bookend essay notes warning label on new profssional cookstove (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Your Aug. 27 Bookend, Frank Cammuso and Hart Seely's ''Important: Read This First,'' was hands down the best ever. Recently my wife and I bought a professional cookstove from G.E. It took four brawny men to drag it into position. This stove will never move again. On the door handle of the oven was a bright orange sign saying warning -- do not tip over.</p>
+        <p>Robert Camp  Exeter, N.H.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Your Aug. 27 Bookend, Frank Cammuso and Hart Seely's ''Important: Read This First,'' was hands down the best ever. Recently my wife and I bought a professional cookstove from G.E. It took four brawny men to drag it into position. This stove will never move again. On the door handle of the oven was a bright orange sign saying warning -- do not tip over.</p>
+        <p>Robert Camp  Exeter, N.H.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

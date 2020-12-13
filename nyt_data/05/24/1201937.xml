@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Homage to Gielgud</title>
+    <meta content="L24GIE$01" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201937"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <person class="indexing_service">Gielgud, John (Sir)</person>
+        <person class="indexing_service">Prideaux, James</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000524T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE6DB163DF937A15756C0A9669C8B63" item-length="169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Homage to Gielgud</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from playwright James Prideaux pays tribute to late British actor Sir John Gielgud (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Sir John Gielgud, 96, Dies; Beacon of Classical Stage'' (front page, May 23):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Sir John Gielgud, 96, Dies; Beacon of Classical Stage'' (front page, May 23):</p>
+        <p>As a longtime friend of Sir John Gielgud and as the lucky playwright whose play ''Laughter in the Shadow of the Trees'' was presented on the BBC starring Sir John and Dame Wendy Hiller, I am deeply moved by his death.</p>
+        <p>He was not only a great actor. In going over the many thoughtful notes he sent me through the years, I salute him for his generosity and caring and, more, for being the last of the great gentlemen.</p>
+        <p>JAMES PRIDEAUX  Los Angeles, May 23, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

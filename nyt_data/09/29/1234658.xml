@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="29INSI$02" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234658"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000929T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE0DD163DF93AA1575AC0A9669C8B63" item-length="194" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Saudis to Pump More Oil  Saudi Arabia caused a sell-off in the petroleum market with a unilateral pledge to pump more crude oil to reduce prices.</p>
+        <p>PAGE C1</p>
+        <p>Court Drops Suharto Case  An Indonesian court dropped corruption and rights charges against the former leader, saying his poor health prevented a trial.</p>
+        <p>PAGE A3</p>
+      </block>
+      <block class="full_text">
+        <p>Saudis to Pump More Oil  Saudi Arabia caused a sell-off in the petroleum market with a unilateral pledge to pump more crude oil to reduce prices.</p>
+        <p>PAGE C1</p>
+        <p>Court Drops Suharto Case  An Indonesian court dropped corruption and rights charges against the former leader, saying his poor health prevented a trial.</p>
+        <p>PAGE A3</p>
+        <p>More Americans Insured  In a robust economy, the number of Americans without health insurance fell by 1.7 million in 1999 after rising relentlessly for 11 years.</p>
+        <p>PAGE A16</p>
+        <p>Two Accused in Fraud Case  Two former executives of a medical software company were accused of fraud that cost investors more than $9 billion.</p>
+        <p>PAGE C1</p>
+        <p>Agreement on Organs  Two years of dispute over how scarce organs are distributed may have reached an end with a new government contract.</p>
+        <p>PAGE A14</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

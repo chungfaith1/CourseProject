@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Howdy and Mangia From Montana</title>
+    <meta content="14BEEF$03" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1207224"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="FOOD STUFF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Food</classifier>
+        <classifier class="indexing_service" type="descriptor">Meat</classifier>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Meat</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E0D7153EF937A25755C0A9669C8B63" item-length="211" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Howdy and Mangia From Montana</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>Breed of cattle from Piedmont region of Italy is now grazing small ranches in Western states, producing Better Beef brand that is lean yet tender (Food Stuff column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>No, that herd of cattle isn't lost. A breed raised for years in the Piedmont region of northern Italy is now grazing small ranches in the Western states, mostly in Montana. No antibiotics or hormones are used, and the meat, called Better Beef, is extremely lean, yet very tender.</p>
+        <p>A 3.5-ounce portion has 137 to 197 calories before cooking, 3.9 to 12.8 percent fat and 50 to 65 milligrams cholesterol. A similar portion of traditional beef, depending on cut and grade, has about 290 calories, 23 to 56 percent fat and 70 milligrams cholesterol.</p>
+      </block>
+      <block class="full_text">
+        <p>No, that herd of cattle isn't lost. A breed raised for years in the Piedmont region of northern Italy is now grazing small ranches in the Western states, mostly in Montana. No antibiotics or hormones are used, and the meat, called Better Beef, is extremely lean, yet very tender.</p>
+        <p>A 3.5-ounce portion has 137 to 197 calories before cooking, 3.9 to 12.8 percent fat and 50 to 65 milligrams cholesterol. A similar portion of traditional beef, depending on cut and grade, has about 290 calories, 23 to 56 percent fat and 70 milligrams cholesterol.</p>
+        <p>This beef is not as delectable as well-aged prime beef, but it is very good. And unlike lean Argentine and American grass-fed varieties, which tend to dry out and become leathery if cooked beyond medium-rare, a strip loin of the Piedmontese beef remained tender and flavorful even when cooked medium-well.</p>
+        <p>The beef is sold in Manhattan at Grace's Marketplace, 1237 Third Avenue (71st Street), and on Long Island at Durso's Gourmet Market, 960 Willis Avenue, in Albertson. Both sell fillet for $20.99 a pound, boneless strip loin for $18.99 a pound, rib-eye for $16.99 a pound and round for London broil for $6.49 a pound.</p>
+        <p>FOOD STUFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

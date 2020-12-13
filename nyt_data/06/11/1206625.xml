@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Poor, Poor Luddites</title>
+    <meta content="LTR011312" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Style; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1206625"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOKS AND LITERATURE</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Robbins, Alan</person>
+        <person class="indexing_service">Bloom, Harold</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E1D81F3FF932A25755C0A9669C8B63" item-length="183" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Poor, Poor Luddites</hl1>
+      </hedline>
+      <abstract>
+        <p>Alan Robbins letter on Harold Bloom's June 4 article on paper books and computer-generated books holds some books were meant to be heard or read from handwritten manuscripts�</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Harold Bloom's dinosauring advance against computer screens derails when he switches from the tiny experience of reading Crichton on a Pocket PC to a grander rave against on-screen reading. It is one thing to wax poetic about books, another to presume that nothing beyond a book can deliver a personal literary experience. The contract between author and reader is never final but fluid, always renegotiated at every new round of technology. In fact, reading Shakespeare in book form is just such a negotiation, since the work was penned to be heard not seen. And encountering Austen on a screen is a mere sidestep from the book, compared with the loss of ''achieved otherness'' when her personal, handwritten manuscripts were turned into cold, hard, typeset books.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Harold Bloom's dinosauring advance against computer screens derails when he switches from the tiny experience of reading Crichton on a Pocket PC to a grander rave against on-screen reading. It is one thing to wax poetic about books, another to presume that nothing beyond a book can deliver a personal literary experience. The contract between author and reader is never final but fluid, always renegotiated at every new round of technology. In fact, reading Shakespeare in book form is just such a negotiation, since the work was penned to be heard not seen. And encountering Austen on a screen is a mere sidestep from the book, compared with the loss of ''achieved otherness'' when her personal, handwritten manuscripts were turned into cold, hard, typeset books.</p>
+        <p>Mr. Bloom does not lament those changes because they are not his. Like most Luddites, he is most interested in fixing the world at the moment of his own empowerment through his own generation's technology.</p>
+        <p>ALAN ROBBINS  Union, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

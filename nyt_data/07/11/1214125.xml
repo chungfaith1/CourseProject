@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Risky Innovation</title>
+    <meta content="LTR002706" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1214125"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Heart</classifier>
+        <classifier class="indexing_service" type="descriptor">Surgery and Surgeons</classifier>
+        <person class="indexing_service">mangano, christina mora (dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Surgery and Surgeons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000711T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE7D71338F932A25754C0A9669C8B63" item-length="178" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Risky Innovation</hl1>
+      </hedline>
+      <abstract>
+        <p>Dr Christina Mora Mangano letter comments on July 4 article on heart surgery, saying surgical innovation simply for the sake of change can increase patients' risk</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As a cardiac anesthesiologist, I dread the inevitable avalanche of patients demanding the ''less traumatic'' procedure described in ''Making Some Trauma of Heart Surgery Disappear'' (July 4). Because I have cared for thousands of heart surgery patients, I know that morbidity and sometimes death accompany ''new and improved'' surgical procedures.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As a cardiac anesthesiologist, I dread the inevitable avalanche of patients demanding the ''less traumatic'' procedure described in ''Making Some Trauma of Heart Surgery Disappear'' (July 4). Because I have cared for thousands of heart surgery patients, I know that morbidity and sometimes death accompany ''new and improved'' surgical procedures.</p>
+        <p>In contrast to new drugs, surgical innovation is adopted without peer or patient-advocate review. Market forces persuade hospital administrators and push surgeons to adopt the latest surgical fashion to appease ever more ''informed'' patients.</p>
+        <p>Innovation is critical for the evolution of medical science, but surgical innovation simply for the sake of change can increase patients' risk. Or as one comedian says, ''because you can steer a car with your feet doesn't make it a good idea.''</p>
+        <p>DR. CHRISTINA MORA MANGANO  Stanford, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

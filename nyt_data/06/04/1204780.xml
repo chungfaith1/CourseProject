@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRENTON HOTEL</title>
+    <meta content="MB230225" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204780"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BRIEFING: DEVELOPMENT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hotels and Motels</classifier>
+        <location class="indexing_service">Trenton (NJ)</location>
+        <org class="indexing_service">Marriott Corp</org>
+        <person class="indexing_service">Whitman, Christine Todd (Gov)</person>
+        <person class="indexing_service">Demasters, Karen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hotels and Motels</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E3DF1E3CF937A35755C0A9669C8B63" item-length="90" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRENTON HOTEL</hl1>
+      </hedline>
+      <byline class="print_byline">By KAREN DeMASTERS</byline>
+      <byline class="normalized_byline">Demasters, Karen</byline>
+      <abstract>
+        <p>Gov Christine Whitman attends ground-breaking ceremony for new Marriott Hotel in downtown Trenton, NJ (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Governor Whitman last week attended a ground-breaking for a new Marriott Hotel in downtown Trenton, which has not had a major hotel for the past 15 years. The hotel will be connected to the newly renovated War Memorial building near the State House complex. The $58 million project, to be built with the help of several state and local loans and grants, is to be completed by spring of 2002. The 200-room hotel also will include a 15,500-square-foot conference center and a 657-space parking garage.</p>
+        <p>KAREN DeMASTERS</p>
+      </block>
+      <block class="full_text">
+        <p>Governor Whitman last week attended a ground-breaking for a new Marriott Hotel in downtown Trenton, which has not had a major hotel for the past 15 years. The hotel will be connected to the newly renovated War Memorial building near the State House complex. The $58 million project, to be built with the help of several state and local loans and grants, is to be completed by spring of 2002. The 200-room hotel also will include a 15,500-square-foot conference center and a 657-space parking garage.</p>
+        <p>KAREN DeMASTERS</p>
+        <p>BRIEFING: DEVELOPMENT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

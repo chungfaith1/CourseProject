@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR235841" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Corrections; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1217159"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">Audiovox Corp</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000723T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E3DF153AF930A15754C0A9669C8B63" item-length="109" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of July 16 article about investing in mobile-phone handset provider Audiovox (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Because of an editing error, an article last Sunday about investing in Audiovox, the mobile telephone handset provider, misstated its closing stock price and price-to-earnings multiple for Friday, July 14. The stock closed at $20.625, not $31.375, and was trading at 10.9 times estimated 2001 earnings, not 17.</p>
+        <p>Also because of an editing error, the article misstated the 2000 performance of the Standard &amp; Poor's Communications Equipment index through July 14. It was down, not up, 10.7 percent.</p>
+      </block>
+      <block class="full_text">
+        <p>Because of an editing error, an article last Sunday about investing in Audiovox, the mobile telephone handset provider, misstated its closing stock price and price-to-earnings multiple for Friday, July 14. The stock closed at $20.625, not $31.375, and was trading at 10.9 times estimated 2001 earnings, not 17.</p>
+        <p>Also because of an editing error, the article misstated the 2000 performance of the Standard &amp; Poor's Communications Equipment index through July 14. It was down, not up, 10.7 percent.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Fiction</title>
+    <meta content="RV121239" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1218551"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Joyce, Cynthia</person>
+        <person class="indexing_service">Buten, Howard</person>
+        <object.title class="indexing_service">When I Was Five I Killed Myself (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000730T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E2D61F3BF933A05754C0A9669C8B63" item-length="354" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Fiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Cynthia Joyce</byline>
+      <byline class="normalized_byline">Joyce, Cynthia</byline>
+      <abstract>
+        <p>Cynthia Joyce reviews book When I Was Five I Killed Myself by Howard Buten (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHEN I WAS FIVE I KILLED MYSELF</p>
+        <p>By Howard Buten.</p>
+        <p>Overlook, $ 23.95.</p>
+      </block>
+      <block class="full_text">
+        <p>WHEN I WAS FIVE I KILLED MYSELF</p>
+        <p>By Howard Buten.</p>
+        <p>Overlook, $ 23.95.</p>
+        <p>Eight-year-old Burt Rembrandt doesn't want to be a kid anymore. But the way he sees it, being an adult doesn't hold much promise either. When he is caught expressing his feelings for a classmate in a manner that some adults find inappropriate, Burt is whisked away to an institution called the Children's Trust Residence Center, where he learns what motivates ''appropriate behavior'': self-consciousness, fear and shame. Howard Buten's gloomy tale of lost childhood met with little success when it was first published in the United States as a young adult novel, under the title ''Burt,'' almost 20 years ago. The book later became a best seller in France. It's hard to know what, exactly, the French found so compelling about this fairly one-dimensional story. Certainly Buten offers some insight into a troubled child's mind (he is a founder of a center that treats autism in young adults, and he performs as a character called Buffo the clown). And occasionally he captures the free-associative randomness of childlike thinking, in which thoughts large and small hold equal weight. (''At breakfast everything is very silence because it is early in the morning. I can hear the clock in the living room. It says tick tock. My mom always has a cup of coffee. She stares at the wall. She zups it.'') But there's a big difference between talking like an 8-year-old and thinking like one. The many grammatical errors, which serve as unsubtle reminders that this is, after all, a child we're dealing with here, are simply lazy shortcuts meant to compensate for the overall tone, which is ultimately too precociously self-aware to be believable.</p>
+        <p>Cynthia Joyce</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

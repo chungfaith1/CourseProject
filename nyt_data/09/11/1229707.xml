@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'60 Minutes' Given A Falsified Memo</title>
+    <meta content="11PLEA" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/11/business/11PLEA.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1229707"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="MEDIA TALK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Drug Abuse and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Forgery</classifier>
+        <org class="indexing_service">Customs Service</org>
+        <person class="indexing_service">Fass, Allison</person>
+        <person class="indexing_service">Horner, Michael</person>
+        <object.title class="indexing_service">Sixty Minutes (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drug Abuse and Traffic</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000911T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06EED91E39F932A2575AC0A9669C8B63" item-length="218" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'60 Minutes' Given A Falsified Memo</hl1>
+      </hedline>
+      <byline class="print_byline">By ALLISON FASS</byline>
+      <byline class="normalized_byline">Fass, Allison</byline>
+      <abstract>
+        <p>Michael Horner, former United States Customs officer, confesses to forging memo that he submitted and was used in 60 Minutes segment as proof of Customs Service corruption that allowed entry of large drug cargos along Southwest border; program was broadcast in 1997; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A former United States Customs officer has confessed to forging a memo that was submitted and used in a ''60 Minutes'' segment as proof of corruption along the Southwest border by the United States Customs Service in San Diego.</p>
+        <p>Michael L. Horner, 47, who left the Customs Service in 1992, pleaded guilty in Federal District Court in San Diego to conspiracy to commit an offense against the United States and to making false statements to F.B.I. agents who were investigating the source of the memo.</p>
+      </block>
+      <block class="full_text">
+        <p>A former United States Customs officer has confessed to forging a memo that was submitted and used in a ''60 Minutes'' segment as proof of corruption along the Southwest border by the United States Customs Service in San Diego.</p>
+        <p>Michael L. Horner, 47, who left the Customs Service in 1992, pleaded guilty in Federal District Court in San Diego to conspiracy to commit an offense against the United States and to making false statements to F.B.I. agents who were investigating the source of the memo.</p>
+        <p>The false memo, which was doctored to appear authentic and purported to be from Rudy M. Camacho, the director of the Customs Management Center in San Diego at the time, instructed customs personnel to give preferential inspection treatment to a certain trucking company that had been rumored to be affiliated with Mexican drug dealers.</p>
+        <p>Mr. Horner then sent a fax of the document to Lee Zeidman, a ''60 Minutes'' producer, and it was included in a Mike Wallace report that was broadcast on April 20, 1997, to support arguments that the Southwest border is easily bypassed by large drug cargos.</p>
+        <p>ALLISON FASS</p>
+        <p>MEDIA TALK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

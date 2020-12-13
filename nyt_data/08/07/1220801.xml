@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Beauty and the Concorde</title>
+    <meta content="L07CON$02" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1220801"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="indexing_service" type="descriptor">Concorde Airplane</classifier>
+        <classifier class="indexing_service" type="descriptor">Design</classifier>
+        <location class="indexing_service">France</location>
+        <org class="indexing_service">Air France</org>
+        <person class="indexing_service">Raab, Bernard</person>
+        <person class="indexing_service">Muschamp, Herbert</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000807T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E3DB153CF934A3575BC0A9669C8B63" item-length="205" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Beauty and the Concorde</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Bernard Raab, aerospace expert, says reverence for beauty may have driven Concorde's creators to select a design that jeopardizes safety (July 31 Herbert Muschamp Critic's Notebook)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Fusing Beauty and Terror, Reverence and Desecration,'' by Herbert Muschamp (Critic's Notebook, July 31):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Fusing Beauty and Terror, Reverence and Desecration,'' by Herbert Muschamp (Critic's Notebook, July 31):</p>
+        <p>Yes, the Concorde is beautiful. But it appears possible that a reverence for beauty might have driven the Concorde's creators to select a design that jeopardizes safety.</p>
+        <p>The sleek but fixed swept-back delta wing presupposes high takeoff and landing speeds, which put extra stress and heat on the tires. The alternative design, which was favored by Boeing, involves the use of a movable wing that extends at low altitudes, thus allowing lower takeoff and landing speeds, and sweeps back for supersonic cruise at high altitudes.</p>
+        <p>Admittedly, this aircraft would not be as pretty a sight at low altitudes, but might have avoided the recent tragedy.</p>
+        <p>BERNARD RAAB  Fort Lee, N.J., July 31, 2000</p>
+        <p>The writer is a retired aerospace consultant.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

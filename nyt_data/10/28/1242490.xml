@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="28INSI$01" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1242490"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001028T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E6DB1630F93BA15753C1A9669C8B63" item-length="236" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ivory Coast Foes Meet  An uneasy calm returned to Ivory Coast as the new president and his opponents held meetings that suggested a truce in a weeklong political crisis. PAGE A3</p>
+        <p>Sierra Leone's Diamonds  Sierra Leone resumed diamond sales under a labeling plan approved by the United Nations, which had set an embargo to keep gem revenues from fueling war. PAGE A7</p>
+      </block>
+      <block class="full_text">
+        <p>Ivory Coast Foes Meet  An uneasy calm returned to Ivory Coast as the new president and his opponents held meetings that suggested a truce in a weeklong political crisis. PAGE A3</p>
+        <p>Sierra Leone's Diamonds  Sierra Leone resumed diamond sales under a labeling plan approved by the United Nations, which had set an embargo to keep gem revenues from fueling war. PAGE A7</p>
+        <p>Arrests in '85 Jet Blast  Canada arrested and charged two Vancouver-area men in the deaths of 329 people aboard an Air-India Boeing 747 that blew up over the Irish Sea in 1985. PAGE A7</p>
+        <p>Harcourt Sold for $4 Billion  The publisher Harcourt General was sold to Reed Elsevier and Thomson for $4.4 billion, a lower price than expected because of consolidation in the industry. PAGE C1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

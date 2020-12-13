@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="11INSI$05" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1214132"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000711T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E4D71338F932A25754C0A9669C8B63" item-length="232" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Outcry Over Whitman Photo  A photo of Gov. Christine Todd Whitman frisking a black man while on patrol with the police in 1996 was subpoenaed by two New Jersey state troopers in a bias case. PAGE B1</p>
+        <p>Attack Victim Goes Home  After being released from a Manhattan hospital yesterday, a woman who was attacked with a concrete block expressed some understanding for her assailant. PAGE B1</p>
+      </block>
+      <block class="full_text">
+        <p>Outcry Over Whitman Photo  A photo of Gov. Christine Todd Whitman frisking a black man while on patrol with the police in 1996 was subpoenaed by two New Jersey state troopers in a bias case. PAGE B1</p>
+        <p>Attack Victim Goes Home  After being released from a Manhattan hospital yesterday, a woman who was attacked with a concrete block expressed some understanding for her assailant. PAGE B1</p>
+        <p>Military Cuts Inoculations  The Pentagon is sharply reducing inoculations of servicemen against anthrax because of concerns that the country may be about to exhaust supplies of the vaccine. PAGE A14</p>
+        <p>Armstrong Dominates  Lance Armstrong took a big step toward his second Tour de France victory as the race reached the mountains. SPORTSTUESDAY, PAGE D1</p>
+        <p>From the Bolshoi to Reggae  A summer festival is part of a broader effort by Lincoln Center to bring in new audiences with adventurous fare. THE ARTS, PAGE E1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

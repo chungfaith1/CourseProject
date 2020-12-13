@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>June 25-July 1; Scraping By in Japan</title>
+    <meta content="MB000803" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212022"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E0D61539F931A35754C0A9669C8B63" item-length="114" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>June 25-July 1; Scraping By in Japan</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Last Sunday's parliamentary elections delivered a stinging setback to Japan's governing Liberal Democratic Party. A surprisingly weak showing resulted in the party barely retaining control over the powerful lower house. Many already expect calls to replace the prime minister, Yoshiro Mori.</p>
+      </block>
+      <block class="full_text">
+        <p>Last Sunday's parliamentary elections delivered a stinging setback to Japan's governing Liberal Democratic Party. A surprisingly weak showing resulted in the party barely retaining control over the powerful lower house. Many already expect calls to replace the prime minister, Yoshiro Mori.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

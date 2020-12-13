@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV121314" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1218554"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Kenneally, Christine</person>
+        <person class="indexing_service">Robbins, Jim</person>
+        <object.title class="indexing_service">Symphony In the Brain, A (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000730T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E2D61F3BF933A05754C0A9669C8B63" item-length="295" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Christine Kenneally</byline>
+      <byline class="normalized_byline">Kenneally, Christine</byline>
+      <abstract>
+        <p>Christine Kenneally reviews book A Symphony in the Brain: The Evolution of the New Brain Wave Biofeedback by Jim Robbins (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A SYMPHONY IN THE BRAIN</p>
+        <p>The Evolution of the New</p>
+        <p>Brain Wave Biofeedback.</p>
+        <p>By Jim Robbins.</p>
+        <p>Atlantic Monthly, $24.</p>
+      </block>
+      <block class="full_text">
+        <p>A SYMPHONY IN THE BRAIN</p>
+        <p>The Evolution of the New</p>
+        <p>Brain Wave Biofeedback.</p>
+        <p>By Jim Robbins.</p>
+        <p>Atlantic Monthly, $24.</p>
+        <p>The electrical processes in the human brain are like a jazz band; in the case of illness, the musicians are confused and the music is discordant. Brain-wave biofeedback can reset the pace and help the players back into line, Jim Robbins writes in ''A Symphony in the Brain.'' In brain-wave biofeedback (or neurofeedback), an electroencephalograph measures brain waves, and patients are trained to control them consciously by watching an external cue (a flashing or colored light) that indicates when they are generating the right wave. Robbins, the author of ''The Last Refuge,'' recounts the evolution of neurofeedback and passionately champions its therapeutic value. He interviews many key researchers, including a psychologist, Maurice Sterman, who taught cats to generate specific brain waves at will. Sterman then applied his technique to humans, first teaching an epileptic woman to control her brain waves, drastically reducing the frequency of her seizures and the amount of medication she needed. Robbins describes several clinical cases (functional neurological diseases, head injuries, addiction, depression and stress disorders) with similarly remarkable responses to neurofeedback. He also notes that some outlandish claims made for neurofeedback in its early days, the ''substantial deficit of humility in the medical community'' and the backbiting of clinicians and academics have all slowed research.</p>
+        <p>Christine Kenneally</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

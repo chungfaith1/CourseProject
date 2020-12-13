@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Shampoo That Highlights Head Lice</title>
+    <meta content="20LICE$03" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health &amp; Fitness" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208804"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="VITAL SIGNS: IN THE LAB"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hair</classifier>
+        <classifier class="indexing_service" type="descriptor">Lice</classifier>
+        <classifier class="indexing_service" type="descriptor">Shampoo and Hair Preparations</classifier>
+        <classifier class="indexing_service" type="descriptor">Ultraviolet Light</classifier>
+        <person class="indexing_service">Spiesel, Sydney Z (Prof)</person>
+        <person class="indexing_service">Nagourney, Eric</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hair</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000620T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E5D81531F933A15755C0A9669C8B63" item-length="369" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Shampoo That Highlights Head Lice</hl1>
+      </hedline>
+      <byline class="print_byline">By Eric Nagourney</byline>
+      <byline class="normalized_byline">Nagourney, Eric</byline>
+      <abstract>
+        <p>Prof Sydney Z Spiesel has invented shampoo that stains head lice and their eggs, known as nits, so that they glow brightly when exposed to ultraviolet or black light sources and can be easily spotted and removed; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A pediatrician at Yale says he has developed an improved technique for detecting lice eggs, known as nits, raising hope for the day when parents will not have to spend long hours delousing their children -- only to find that a few missed eggs forces them to begin all over again.</p>
+        <p>Dr. Sydney Z. Spiesel, an assistant professor at the Yale School of Medicine, has invented a shampoo that, after a single application, stains the lice and their nits so that when exposed to commonly available ultraviolet or black light sources, they glow brightly. The nits, the size and color of a grain of sand, can then be easily spotted and removed.</p>
+      </block>
+      <block class="full_text">
+        <p>A pediatrician at Yale says he has developed an improved technique for detecting lice eggs, known as nits, raising hope for the day when parents will not have to spend long hours delousing their children -- only to find that a few missed eggs forces them to begin all over again.</p>
+        <p>Dr. Sydney Z. Spiesel, an assistant professor at the Yale School of Medicine, has invented a shampoo that, after a single application, stains the lice and their nits so that when exposed to commonly available ultraviolet or black light sources, they glow brightly. The nits, the size and color of a grain of sand, can then be easily spotted and removed.</p>
+        <p>Lice, which cause an estimated 12 million infestations a year in this country, do not pose a health risk by themselves. But they do cause itching, social stigma and much grief for parents.</p>
+        <p>New strains, moreover, have become resistant to traditional chemical treatments, leaving nit-by-nit removal as the only effective remedy.</p>
+        <p>Although the new shampoo is not yet available, Dr. Spiesel has obtained a patent for it and is meeting with potential manufacturers.</p>
+        <p>He even has a name in mind, courtesy of a girl who attended a day care center in New Haven where he worked as medical adviser and was required to certify that children were lice-free before they could return. The girl, now 13, suggested ''Headlights.''</p>
+        <p>Looking for a solution, Dr. Spiesel said he recalled his days as a biology student and the nature of the hard exterior of lice and their eggs, which are made of a substance called chitin. The chitin is often stained by researchers as part of their lab work, and Dr. Spiesel found that several stains, already widely used in products like laundry detergents, worked well on the nits, without affecting the hair or scalp.</p>
+        <p>VITAL SIGNS: IN THE LAB</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Deadly Statistics: A Survey Of Crime and Punishment</title>
+    <meta content="Y22STUD" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/22/national/22STUD.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1232643"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Capital Punishment</classifier>
+        <classifier class="indexing_service" type="descriptor">States (US)</classifier>
+        <person class="indexing_service">Fessenden, Ford</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">States (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Capital Punishment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000922T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06EEDA113BF931A1575AC0A9669C8B63" item-length="582" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Deadly Statistics: A Survey Of Crime and Punishment</hl1>
+      </hedline>
+      <byline class="print_byline">By FORD FESSENDEN</byline>
+      <byline class="normalized_byline">Fessenden, Ford</byline>
+      <abstract>
+        <p>Description of how New York Times conducted its analysis of how homicide rates in states are connected to different approaches to death penalty; graph (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In its analysis, The New York Times examined homicide rates in two groups of states: the 12 states without the death penalty and the 36 states that passed laws within 10 years of the Supreme Court's 1972 Furman v. Georgia decision, which  overturned all existing death penalty statutes. (New York and Kansas did not adopt the death penalty until the 1990's.)</p>
+        <p>The analysis found that homicide rates have not declined any more in the states that instituted the death penalty than in states that did not.</p>
+      </block>
+      <block class="full_text">
+        <p>In its analysis, The New York Times examined homicide rates in two groups of states: the 12 states without the death penalty and the 36 states that passed laws within 10 years of the Supreme Court's 1972 Furman v. Georgia decision, which  overturned all existing death penalty statutes. (New York and Kansas did not adopt the death penalty until the 1990's.)</p>
+        <p>The analysis found that homicide rates have not declined any more in the states that instituted the death penalty than in states that did not.</p>
+        <p>In fact, year after year, homicide rates in states with death penalties roughly mirrored the rates in states without capital punishment, with death penalty states 48 percent to 101 percent higher. That trend, criminologists say, provides evidence that something besides enactment of capital punishment laws drives homicides.</p>
+        <p>''It's clear that the states with the death penalty may want it more because they have more homicides,'' said Alfred Blumstein, director of the National Consortium on Violence Research at Carnegie Mellon University. ''But it's not clear that it does them any good in terms of reducing homicide.''</p>
+        <p>Even after executions resumed, homicide rates appeared unaffected, the analysis found. In the 21 states that carried out their first executions by 1993, homicide rates declined a collective 5 percent over the four years after the execution. But rates declined 12 percent in states that had not had executions in the same years.</p>
+        <p>The Times also looked at contiguous and demographically similar states, and found no pattern that differentiated death penalty states from those without capital punishment. Massachusetts and Rhode Island, with no death penalty, had homicide rates of 3.7 per 100,000 and 4.2 per 100,000, respectively, from 1977 to 1997, while Connecticut, a death penalty state, had a rate of 4.9 per 100,000.</p>
+        <p>The survey by The Times is similar to the type of analysis criminologists used in the years before the Supreme Court's Furman decision to conclude that state homicide rates were not affected by death penalty laws. The review by The Times confirms that those patterns appear to continue under the new era of capital punishment statutes.</p>
+        <p>Some researchers still contend that the death penalty has a measurable deterrent effect. ''The statistics involved in such comparisons have long been recognized as devoid of scientific merit,'' Prof. Isaac Ehrlich, of the State University of New York at Buffalo, said of the analysis by The Times. He said that if variations like unemployment, income inequality, likelihood of apprehension and willingness to use the death penalty are accounted for, the death penalty shows a significant deterring effect. Most criminologists, however, discount Professor Ehrlich's work.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

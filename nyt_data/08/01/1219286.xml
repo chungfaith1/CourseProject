@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="01INSI$07" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1219286"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000801T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE7D7103DF932A3575BC0A9669C8B63" item-length="190" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Renowned Editor Dies  William Maxwell, who, in 40 years as an editor with The New Yorker  worked with the likes of John Updike, John Cheever and Eudora Welty and wrote novels and short stories himself, was 91.</p>
+        <p>PAGE B9</p>
+      </block>
+      <block class="full_text">
+        <p>Renowned Editor Dies  William Maxwell, who, in 40 years as an editor with The New Yorker  worked with the likes of John Updike, John Cheever and Eudora Welty and wrote novels and short stories himself, was 91.</p>
+        <p>PAGE B9</p>
+        <p>Newspaper Deal in Canada  In a bet on the future braiding of television, newspapers and the Internet, Canada's second-largest private TV network is buying about half of that country's larger daily newspapers from the press baron Conrad Black, for $2.36 billion.</p>
+        <p>PAGE C1</p>
+        <p>A Colony of Interloping Ants  Argentine ants are overwhelming native California ants while forming what scientists call a supercolony, stretching hundreds of miles from San Diego to north of San Francisco.</p>
+        <p>SCIENCE TIMES, PAGE F1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

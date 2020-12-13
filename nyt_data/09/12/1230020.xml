@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>I.B.M. SOFTWARE MAY SPEED NETWORKS</title>
+    <meta content="MB001907" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1230020"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY BRIEFING: DIGITAL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">International Business Machines Corp</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000912T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E2DF1738F931A2575AC0A9669C8B63" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>I.B.M. SOFTWARE MAY SPEED NETWORKS</hl1>
+      </hedline>
+      <byline class="print_byline">By Barnaby Feder</byline>
+      <abstract>
+        <p>IBM introduces software, snippet of code under 100 lines long, that sharply increases performance of its PowerNP network management microprocessor; software gives processor more flexibility in allocating bandwidth priority on computer networks like the Internet (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I.B.M. has brought out software -- a snippet of code under 100 lines long -- that sharply increases the performance of its PowerNP network management microprocessor. The software gives the processor more flexibility in allocating bandwidth priority on computer networks like the Internet. If it works as planned, network operators could segregate and give priority to functions like live video or important business transactions in periods of peak demand. That could eventually allow Internet service providers to charge higher prices for speedier service, much like the Postal Service and Federal Express.</p>
+        <p>Barnaby Feder</p>
+      </block>
+      <block class="full_text">
+        <p>I.B.M. has brought out software -- a snippet of code under 100 lines long -- that sharply increases the performance of its PowerNP network management microprocessor. The software gives the processor more flexibility in allocating bandwidth priority on computer networks like the Internet. If it works as planned, network operators could segregate and give priority to functions like live video or important business transactions in periods of peak demand. That could eventually allow Internet service providers to charge higher prices for speedier service, much like the Postal Service and Federal Express.</p>
+        <p>Barnaby Feder</p>
+        <p>TECHNOLOGY BRIEFING: DIGITAL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

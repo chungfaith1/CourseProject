@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tech 2010</title>
+    <meta content="LTR131057" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212116"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SOCIAL CONDITIONS AND TRENDS</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronics</classifier>
+        <classifier class="indexing_service" type="descriptor">Two Thousand Ten (Year)</classifier>
+        <classifier class="indexing_service" type="descriptor">Twenty-First Century</classifier>
+        <person class="indexing_service">Fuchs, Michael</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Social Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">History</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronics</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE0D71330F931A35754C0A9669C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tech 2010</hl1>
+      </hedline>
+      <abstract>
+        <p>Michael Fuchs letter on June 11 special issue on millennium's social issues hopes bots will not be used to haggle over price of soft drinks at McDonald's0</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I'm hardly a Luddite (I've been a Web developer since 1994 and a technophile for much longer), but David Brooks's description, in his essay ''The Mall,'' of using a personal digital assistant to haggle at McDonald's over an 89-cent soft drink, sounds like my idea of hell. If the bot can negotiate a lower price, fine; but what I really want is not to have to worry about such things. I'm hopeful that the people designing these devices will be aware of this.</p>
+        <p>Michael Fuchs</p>
+        <p>Palo Alto, Calif.</p>
+      </block>
+      <block class="full_text">
+        <p>I'm hardly a Luddite (I've been a Web developer since 1994 and a technophile for much longer), but David Brooks's description, in his essay ''The Mall,'' of using a personal digital assistant to haggle at McDonald's over an 89-cent soft drink, sounds like my idea of hell. If the bot can negotiate a lower price, fine; but what I really want is not to have to worry about such things. I'm hopeful that the people designing these devices will be aware of this.</p>
+        <p>Michael Fuchs</p>
+        <p>Palo Alto, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

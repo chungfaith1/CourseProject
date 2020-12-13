@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TV RATINGS: ON FURTHER REVIEW</title>
+    <meta content="MB033458" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234205"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="SYDNEY 2000: ROUNDUP"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Olympic Games</classifier>
+        <classifier class="indexing_service" type="descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Olympic Games (2000)</classifier>
+        <classifier class="indexing_service" type="descriptor">Summer Games (Olympics)</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <location class="indexing_service">Sydney (Australia)</location>
+        <org class="indexing_service">National Broadcasting Co</org>
+        <org class="indexing_service">Nielsen Media Research</org>
+        <person class="indexing_service">Sandomir, Richard</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Australia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Olympics 2004</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Australia and Pacific/Australia/Sydney</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Australia and Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Australia and Pacific/Australia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Olympic Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000927T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E2DB103AF934A1575AC0A9669C8B63" item-length="274" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TV RATINGS: ON FURTHER REVIEW</hl1>
+      </hedline>
+      <byline class="print_byline">By Richard Sandomir</byline>
+      <byline class="normalized_byline">Sandomir, Richard</byline>
+      <abstract>
+        <p>Nielsen Media Research is reprocessing NBC's Olympic ratings since Friday night to reflect when broadcasts started compared to when first commercials ran (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nielsen Media Research is reprocessing NBC's Olympic ratings since Friday night to reflect when the broadcasts started compared to when the first commercials ran. On those four nights, NBC ran its first commercials between two and 15 minutes after 7:30 p.m. Eastern, meaning that Nielsen did not begin rating the program until that time. Nielsen is recalculating those ratings to reflect a 7:30 start time. ''The rating may not change,'' said a Nielsen spokeswoman.</p>
+        <p>Nielsen was alerted to the discrepancies by CBS officials.</p>
+      </block>
+      <block class="full_text">
+        <p>Nielsen Media Research is reprocessing NBC's Olympic ratings since Friday night to reflect when the broadcasts started compared to when the first commercials ran. On those four nights, NBC ran its first commercials between two and 15 minutes after 7:30 p.m. Eastern, meaning that Nielsen did not begin rating the program until that time. Nielsen is recalculating those ratings to reflect a 7:30 start time. ''The rating may not change,'' said a Nielsen spokeswoman.</p>
+        <p>Nielsen was alerted to the discrepancies by CBS officials.</p>
+        <p>Although NBC's broadcasts have begun at 7 p.m., the rating for the first half-hour has not been counted in the ratings six times because there were no national commercials, only local spots. That's a standard way to boost ratings because the 7-7:30 period is the lowest for viewership.</p>
+        <p>Potentially, NBC's Olympic telecasts could yield a slightly higher rating the later a national commercial is inserted in the 7:30 to 8 p.m. block.</p>
+        <p>The last thing NBC needs is for Nielsen to recalculate the Olympic ratings and find they're lower than they already were. The 11-night average of a 14.8 with a 26 share is down 35 percent from the rating in Atlanta four years ago, down 20 percent from Barcelona in 1992 and down 17 percent from Seoul in 1988. Each rating point equals 1.01 million television households.</p>
+        <p>Monday produced some positive ratings news: against ABC's ''Monday Night Football'' from 9 p.m. to midnight, the Olympics rated a 16.5 against ABC's 10.3.</p>
+        <p>Richard Sandomir</p>
+        <p>SYDNEY 2000: ROUNDUP</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

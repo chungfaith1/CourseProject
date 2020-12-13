@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>EVENING HOURS</title>
+    <meta content="07PART$06" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1197583"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Parties (Social)</classifier>
+        <org class="indexing_service">New York Philharmonic</org>
+        <org class="indexing_service">Chamber Music Society of Lincoln Center</org>
+        <org class="indexing_service">american ireland fund</org>
+        <org class="indexing_service">Literacy Partners (Orgn)</org>
+        <org class="indexing_service">East-West Institute</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parties (Social)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000507T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E6D61738F934A35756C0A9669C8B63" item-length="758" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>EVENING HOURS</hl1>
+      </hedline>
+      <byline class="print_byline">By Bill Cunningham</byline>
+      <abstract>
+        <p>Photos of some recent benefit parties, including events for East-West Institute, American Ireland Fund, Literacy Partners, Chamber Music Society of Lincoln Center and New York Philharmonic</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Aiding causes both globally and locally.</p>
+      </block>
+      <block class="full_text">
+        <p>Aiding causes both globally and locally.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

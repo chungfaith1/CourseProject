@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pixels and Pictures</title>
+    <meta content="LTR233730" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200461"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Photography</classifier>
+        <classifier class="indexing_service" type="descriptor">Cameras</classifier>
+        <person class="indexing_service">young, barry e</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cameras</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000518T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E0D7173AF93BA25756C0A9669C8B63" item-length="205" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pixels and Pictures</hl1>
+      </hedline>
+      <abstract>
+        <p>Barry E Young letter on May 4 question and answer column cites difference between way pixels are counted in digital cameras and digital displays</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As editor of The Flat Panel Video Analyst report at DisplaySearch, I'd like to comment on ''How Pixels Add Up to a Good Picture'' (Q &amp; A, May 4). A digital camera's resolution is typically described in terms of the capability of the charge coupled device (C.C.D.) or the complementary metal oxide semiconductor (C.M.O.S.) chip by the number of sensors (e.g., 2.3 million pixels). Displays are also described in terms of the number of pixels (a V.G.A. of 640 by 480). These terms are not equivalent. The numbers for digital cameras include all subpixels (for red, green and blue) so they are actually one-third the number of display pixels. Therefore, if a camera vendor says the capture resolution is 307,000 pixels, it is really only 102,000 in display terms.</p>
+        <p>BARRY E. YOUNG  Austin, Tex.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

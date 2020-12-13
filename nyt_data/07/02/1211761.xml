@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Personal Business; You Paid That Bill With a Single Click. Or Did You?</title>
+    <meta content="02BILL$04" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211761"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Banks and Banking</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Funds Transfer Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <person class="indexing_service">Lloyd, Nancy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Funds Transfer Systems (EFTS)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE3DD1639F931A35754C0A9669C8B63" item-length="1635" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Personal Business; You Paid That Bill With a Single Click. Or Did You?</hl1>
+      </hedline>
+      <byline class="print_byline">By NANCY LLOYD</byline>
+      <byline class="normalized_byline">Lloyd, Nancy</byline>
+      <abstract>
+        <p>Consumer groups warn electronic bill-paying services have been oversold to consumers and often result in more late payments, more late fees and more hard-to-spot and hard-to-correct credit problems; express concern also about security and privacy of electronic payment systems; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HE did not seem the problem-credit type when he sat down across the desk from Kathy Egan, a mortgage loan officer in Boston, to talk about refinancing a $200,000 mortgage on a $330,000 home. He was a financial services executive making more than $1 million a year; approval seemed certain, Ms. Egan recalled.</p>
+        <p>When a routine credit check turned up three late mortgage payments, Ms. Egan said, her client was floored. He had been using his bank's electronic payment service and had a stack of statements showing debits to his checking account a few days before each payment was due.</p>
+      </block>
+      <block class="full_text">
+        <p>HE did not seem the problem-credit type when he sat down across the desk from Kathy Egan, a mortgage loan officer in Boston, to talk about refinancing a $200,000 mortgage on a $330,000 home. He was a financial services executive making more than $1 million a year; approval seemed certain, Ms. Egan recalled.</p>
+        <p>When a routine credit check turned up three late mortgage payments, Ms. Egan said, her client was floored. He had been using his bank's electronic payment service and had a stack of statements showing debits to his checking account a few days before each payment was due.</p>
+        <p>What the statements did not show, and the executive did not realize, was that he had stumbled into a significant pitfall of electronic bill payment -- one of a several  attracting concern from consumer groups.</p>
+        <p>''Electronic bill-paying is being oversold to consumers,'' said Ken McEldowney, executive director of Consumer Action, an advocacy organization based in San Francisco. In some cases, Mr. McEldowney and others say, the systems may deliver the opposite of what they promise: more delayed payments, more late fees, and more hard-to-spot, hard-to-correct problems.</p>
+        <p>The Boston executive's stained credit is a case in point. He mistakenly thought that his mortgage lender received his payments as soon as the money left his account.</p>
+        <p>''The ads make it sound like all of your bills will be paid electronically,'' Mr. McEldowney said of electronic services in general. ''But only some creditors have such arrangements. If not, your bank has to write a check and mail it to your creditor.'' Because such checks are not accompanied by the original payment stub, posting can be delayed even further.</p>
+        <p>In the executive's case, Ms. Egan said, accumulating late fees meant that his payments never caught up with the problem.  ''He thought he was getting convenience with online payments,'' she said. ''Instead, his credit report got damaged.''</p>
+        <p>Electronic bill-paying is growing in popularity. According to Avivah Litan, a research director at Gartner, a research firm based in Stamford, Conn., 2.5 million households regularly paid bills last year using a personal computer; 4 million are expected to do so this year. And perhaps a million more households access systems by telephone or other means.</p>
+        <p>THERE are many ways to make payments electronically, with or without a personal computer and with or without bills arriving in the mail. Most fall into four categories:</p>
+        <p>* Pre-authorized direct debit. Creditors automatically obtain payment from your bank account on a schedule you authorize in advance. Creditors may offer discounts for paying this way. This method is suitable for fixed payments like those on a loan, but risky for bills that fluctuate and may contain errors or unauthorized charges.</p>
+        <p>* Consumer-initiated payments. You continue to receive bills in the mail and must instruct the bill-payment service by computer link or by phone to pay each one. The service mails checks to any creditors unequipped to receive payment electronically.</p>
+        <p>* Creditors' Web sites. Some utilities, phone companies, credit card issuers and others let you view bills online and then authorize the company to debit your bank account. This can be cumbersome for more than a few bills a month.</p>
+        <p>* Third-party consolidators. Instead of receiving bills at home, you arrange to have them sent, electronically or by mail, to the consolidator, which stores them in its computers. Typically, you then receive e-mail notification that they are ready to be viewed and paid online.</p>
+        <p>All four methods offer some measure of what a recent Gartner survey found to be the main attraction of electronic bill-paying: convenience. But for many people who use the services, there are also drawbacks.</p>
+        <p>George Barto, another research director at Gartner, said 37 percent of respondents who use online banking services said they disliked losing control and not knowing exactly when a bill would be paid, while 14 percent cited trouble coordinating deposits with payments and 11 percent worried that bills would not be paid on time.</p>
+        <p>For now, at least, electronic payment services can claim some cost savings over checking accounts -- no check printing or postage costs, for example. Most services charge a monthly fee, though banks may waive the fee for good customers, and other providers may waive the fee for a few months as an introductory offer.</p>
+        <p>When payments are not immediate, however, there can be a hidden cost to consumers: loss of the ''float.'' With traditional checks, the money remains in your account until they clear. With electronic payments, the money may leave your account immediately, though it may not reach your creditor for a week or more. Unable to know the exact payment date, many consumers try to avoid late-payment problems by authorizing electronic payments a few days earlier than they might have mailed paper checks.</p>
+        <p>Payments that are too early present another pitfall, as Holly Anderson, 29, a public relations executive in Washington, learned when she took the electronic route to paying off a credit-card balance. She chose to pay  $100 a month, much more than the minimum due. As is often the case, finance charges on Ms. Anderson's account are calculated on the average daily balance, so to save some interest she wanted to pay as early in each billing cycle as she could.</p>
+        <p>''Sometimes I'd pay before I got the next bill, something I would not have done if I were writing a check,'' she said. ''But instead of crediting the early payment for the next month, they would credit it as a second payment in the current month. Then I'd get hit with a $29 fee for not making my minimum'' for the next month. She now waits an extra week, undermining her strategy.</p>
+        <p>Security can be a big issue, especially with services not run by banks. ''Anyone can claim to be a bill-paying service,'' Mr. McEldowney said. ''We're already seeing some prepaid-phone-card companies becoming cash-strapped and leaving consumers with worthless prepaid cards. It could conceivably happen with bill-paying services that aren't F.D.I.C.-insured.''</p>
+        <p>Privacy is another concern. A consumer who uses a consolidator, especially, is trusting the company -- and the Internet at large -- with an extraordinary amount of sensitive personal information that could be misappropriated by a rogue employee, a hacker or a con artist. Cary Whaley, a spokesman for Nacha, an electronic payments trade association, said the industry takes the concerns seriously. ''Consolidators who do not hold information private will go out of business in a heartbeat,'' he said.</p>
+        <p>Still, Mr. McEldowney warned that ''small mistakes in keying in the Web address can send you to a 'spoofer' site that looks legitimate but is run by criminals to get you to reveal your account number and password.'' He advised bookmarking the genuine Web site.</p>
+        <p>Even a secure transmission to the correct Web address can contain small, unnoticed errors that later prove troublesome. Deborah Thornton, a fund-raiser in Wellesley, Mass., recalled her surprise when she received a cutoff notice from a utility. She checked her records, which showed timely electronic payments -- but to an account number that was one digit off. ''Someone else had been receiving my payments and never said a word,'' she said.</p>
+        <p>Payments that go astray or are accidentally duplicated can be difficult to retrieve. Noise on Ms. Thornton's phone line once broke her computer connection before she received a confirmation of her payments. When she dialed back, she unwittingly paid all 15 bills a second time. She spotted the error a few days later and rushed to the bank for help, but was rebuffed. ''They told me, 'This happens all the time,' '' she said, but getting refunds was up to her. Most payees cooperated, she said, ''but I was on the verge of firing the guy who was cutting my grass, so he never refunded the $100.''</p>
+        <p>Charlotte Birch, a spokeswoman for the American Bankers Association, said: ''If a bank makes a mistake, absolutely, they will be responsive and work to resolve it. But if the customer authorized it, the bank may not be in a position to retrieve the extra payment, any more than if the customer wrote a second check for the same bill.''</p>
+        <p>Ms. Thornton said she still appreciates the speed and convenience of the system when it works properly, and her bank has made improvements. She is now shown a summary of her latest payment session when she logs off, and she can print records of all transactions. ''Without a good paper trail, resolving an electronic bill-paying dispute would be a nightmare,'' she said.</p>
+        <p>Far from clear, though, is whether a consumer's home computer printouts can ever match the probative power of a canceled check in a court dispute or, worse, a tussle with the tax collector.</p>
+        <p>''The Internal Revenue Service has no official position on electronic transfers,'' a spokeswoman for the agency said, ''but the burden of proof is still on the taxpayer to keep records and show evidence that an invoice has been paid.''</p>
+        <p>Ms. Thornton is taking no chances. ''For charitable contributions or other things where I might need a canceled check as proof of payment,'' she said, ''I write the check myself, just in case.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

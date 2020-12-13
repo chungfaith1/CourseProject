@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="05CMPBRFS" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1236240"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001005T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E4D61F3DF936A35753C1A9669C8B63" item-length="311" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BOEING CO., Seattle, the jet maker, said it won an order from Air France worth about $2 billion for 10 long-range 777-300 passenger jets.</p>
+      </block>
+      <block class="full_text">
+        <p>BOEING CO., Seattle, the jet maker, said it won an order from Air France worth about $2 billion for 10 long-range 777-300 passenger jets.</p>
+        <p>VISTEON CORP., Dearborn, Mich., which makes automotive products, has formed a joint venture with Nichirin Co. to make air-conditioning hoses and also agreed to buy a 10 percent stake in Nichirin in the future.</p>
+        <p>TEREX CORP., Westport, Conn., a maker of cranes and dump trucks, said it had completed the sale of its truck-mounted forklift businesses to the Cargotec unit of Partek Oyj , Helsinki, Finland, which makes load-handling equipment, for about $144 million in cash.</p>
+        <p>SCHERING-PLOUGH CORP., Kenilworth, N.J., the maker of the allergy drug, Claritin, said it won a United States patent that could hold off generic competition for its Nasonex allergy spray until 2017.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Collecting Pensions Online</title>
+    <meta content="MB000523" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1237206"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PERSONAL BUSINESS: DIARY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Pensions and Retirement Plans</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Pension Benefit Guaranty Corp</org>
+        <person class="indexing_service">Johnston, David Cay</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pensions and Retirement Plans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pensions and Retirement Plans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retirement</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001008T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00EFDE123CF93BA35753C1A9669C8B63" item-length="126" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Collecting Pensions Online</hl1>
+      </hedline>
+      <byline class="print_byline">By David Cay Johnston</byline>
+      <byline class="normalized_byline">Johnston, David Cay</byline>
+      <abstract>
+        <p>Some 4,800 people have received pension checks this year becl</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Some 4,800 people have received pension checks this year because they looked for their names on a Web site created by the Pension Benefit Guaranty Corporation, the federal agency that insures traditional pensions.</p>
+        <p>They will collect about $10 million in benefits, the agency said.</p>
+      </block>
+      <block class="full_text">
+        <p>Some 4,800 people have received pension checks this year because they looked for their names on a Web site created by the Pension Benefit Guaranty Corporation, the federal agency that insures traditional pensions.</p>
+        <p>They will collect about $10 million in benefits, the agency said.</p>
+        <p>The agency has posted on its site, www.pbgc.gov, the names of 12,000 people who participated in plans that the agency has taken over but who have not applied for pension benefits. Some of those people, the agency said, may not have qualified for benefits, but by applying they can get a final determination.</p>
+        <p>David Cay Johnston</p>
+        <p>PERSONAL BUSINESS: DIARY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

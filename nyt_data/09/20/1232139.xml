@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Price Is Set For Electronic Book Reader</title>
+    <meta content="Y20BOO$01" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/20/technology/20BOOK.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1232139"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Book Trade</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Thomson Multimedia</org>
+        <person class="indexing_service">Kirkpatrick, David D</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Book Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000920T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E5DA153BF933A1575AC0A9669C8B63" item-length="464" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Price Is Set For Electronic Book Reader</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID D. KIRKPATRICK</byline>
+      <byline class="normalized_byline">Kirkpatrick, David D</byline>
+      <abstract>
+        <p>Thomson Multimedia's prices of its new hand-held devices for reading electronic books are higher than publishers hoped, at level unlikely to speed adoption of electronic books by mass market (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After months of speculation in the book publishing business, Thomson Multimedia has set the prices of its new hand-held devices for reading electronic books. Beginning at about $300, the prices are higher than publishers had hoped, at a level unlikely to speed the adoption of electronic books by the mass market.</p>
+        <p>Thomson's devices, which will be displayed on Sunday at the New York Is Book Country fair, are the only hand-held devices available for reading electronic books in a secure software format. The devices use software from Gemstar-TV Guide International to prevent piracy and to ease reading.</p>
+      </block>
+      <block class="full_text">
+        <p>After months of speculation in the book publishing business, Thomson Multimedia has set the prices of its new hand-held devices for reading electronic books. Beginning at about $300, the prices are higher than publishers had hoped, at a level unlikely to speed the adoption of electronic books by the mass market.</p>
+        <p>Thomson's devices, which will be displayed on Sunday at the New York Is Book Country fair, are the only hand-held devices available for reading electronic books in a secure software format. The devices use software from Gemstar-TV Guide International to prevent piracy and to ease reading.</p>
+        <p>The Gemstar format is one of three leading contenders to become the dominant platform for electronic publishing. The other two require a personal computer and are distributed free over the Internet, one by Adobe Systems and the other by Microsoft.</p>
+        <p>Publishers are hoping that Thomson will make the new devices affordable enough to become popular. ''We want to see how consumers are going to react,'' said Richard Sarnoff, president of Random House's new-media group. ''The second question is, will Thomson price it anywhere near where it could become a mass-market phenomenon, or will it stay within the early adopters, the upscale road-warrior types?''</p>
+        <p>At $300, the cheapest of the new appliances is slightly more expensive than previous versions, sold under the name Rocket eBook. To reach a mass market, the appliances will need to fall in price below $200, people in the industry say.</p>
+        <p>David Arland, a spokesman for Thomson, which is based in Paris, said the price would fall as the market grows. ''In 1977, a VCR cost $1,000. Today you can get one for less than $100.''</p>
+        <p>The ''big news,'' Mr. Arland said, is that for the first time devices for reading electronic books will be sold in electronics stores. Previous versions were available only over the Internet or through certain catalogs. Thomson, which makes appliances under the RCA brand, sells through 15,000 electronics stores, he said.</p>
+        <p>Mr. Arland said the cheaper version of its reading device displays text on a black-and-white screen about the size of a paperback book. A version with a suggested retail price about $700 includes a multicolor screen about the size of a magazine. Unlike previous versions, both devices include modems to download books. Both are far easier on the eyes than typical hand-held computers, Mr. Arland said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

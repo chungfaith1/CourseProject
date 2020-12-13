@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Lyme Battle Rages</title>
+    <meta content="LTR225127" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203552"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Lyme Disease</classifier>
+        <person class="indexing_service">blyskal, a j</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lyme Disease</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000530T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE0DE173CF933A05756C0A9669C8B63" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Lyme Battle Rages</hl1>
+      </hedline>
+      <abstract>
+        <p>A J Blyskal letter comments on May 23 article on controversy over treating Lyme disease</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I have had disabling health problems for many years and wasted thousands of dollars and years of my life on pointless medical and psychiatric testing and treatment.  Only recently did anyone bother to test me for Lyme disease (''Questioning Long-Term Lyme Cases,'' May 23). I tested positive.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I have had disabling health problems for many years and wasted thousands of dollars and years of my life on pointless medical and psychiatric testing and treatment.  Only recently did anyone bother to test me for Lyme disease (''Questioning Long-Term Lyme Cases,'' May 23). I tested positive.</p>
+        <p>I am profoundly disturbed by the predominant medical attitudes about Lyme disease. Suppose a man is exposed to tuberculosis. He contracts TB and it is diagnosed. After a course of treatment, his symptoms remain. Would any doctor then tell him that he no longer had tuberculosis simply because he had already been given antibiotics? Of course not! Only with Lyme infections does this sort of irrational thinking prevail. Why aren't more doctors lobbying for a completely accurate test and a truly effective cure?</p>
+        <p>A. J. BLYSKAL  Danbury, Conn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

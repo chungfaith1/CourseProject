@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ficciones</title>
+    <meta content="LTR074513" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1199164"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Tarnopolsky, Noga</person>
+        <person class="indexing_service">Borges, Jorge Luis (1899-1986)</person>
+        <person class="indexing_service">Kodama, Maria</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000514T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DEFDC1738F937A25756C0A9669C8B63" item-length="241" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ficciones</hl1>
+      </hedline>
+      <abstract>
+        <p>Jorge Luis Borges' widow Maria Kodama letter disputes rumors in Noga Tarnopolsky's August 22 article about poem about her late husband entitled The Web, which she notes was originally published in Spanish on March 20, 1980 in newspaper Clarin</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I am the widow of Jorge Luis Borges. In her article ''Borges in the Afterlife'' (Aug. 22), Noga Tarnopolsky repeated rumors that I wrote a poem by my late husband entitled ''The Web'' in order to ''justify having 'spirited' Borges away to die in distant Geneva.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I am the widow of Jorge Luis Borges. In her article ''Borges in the Afterlife'' (Aug. 22), Noga Tarnopolsky repeated rumors that I wrote a poem by my late husband entitled ''The Web'' in order to ''justify having 'spirited' Borges away to die in distant Geneva.''</p>
+        <p>The poem was originally published in Spanish on March 20, 1980, in the newspaper Clarin, but was not published in English until 1986, appearing in The New Yorker just two weeks before Borges's death. That coincidence no doubt provides fodder for the rumor mill.</p>
+        <p>The ''gossip'' (Tarnopolsky's word) mentioned in the article is simply untrue, and I am exhausted by having to constantly refute it. The article appears to have been inspired by a single conversation with Maria Esther Vsquez, a journalist who has no particular expertise in Borges's work. Had Tarnopolsky contacted any Borges scholar, she could easily have learned the source of the poem rather than repeating damaging speculation.</p>
+        <p>To have the accusations of my attackers reiterated in The Times Book Review lends their charges a credibility they do not deserve, and is personally quite harmful to me. Frankly, I am disappointed that one of the world's most respected newspapers would allow itself to be put in the position of repeating rumors.</p>
+        <p>Maria Kodama  Buenos Aires</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

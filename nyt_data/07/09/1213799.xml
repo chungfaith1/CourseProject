@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV131443" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213799"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Kenneally, Christine</person>
+        <person class="indexing_service">Lewontin, Richard</person>
+        <object.title class="indexing_service">I Ain't Necessarily So (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000709T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E0D91F30F93AA35754C0A9669C8B63" item-length="309" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Christine Kenneally</byline>
+      <byline class="normalized_byline">Kenneally, Christine</byline>
+      <abstract>
+        <p>Christine Kenneally reviews book It Ain't Necessarily So: The Dream of the Human Genome and Other Illusions by Richard Lewontin (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IT AIN'T NECESSARILY SO</p>
+        <p>The Dream of the Human Genome</p>
+        <p>and Other Illusions.</p>
+        <p>By Richard Lewontin.</p>
+        <p>New York Review Books, $24.95.</p>
+      </block>
+      <block class="full_text">
+        <p>IT AIN'T NECESSARILY SO</p>
+        <p>The Dream of the Human Genome</p>
+        <p>and Other Illusions.</p>
+        <p>By Richard Lewontin.</p>
+        <p>New York Review Books, $24.95.</p>
+        <p>''Scientists are infatuated with the idea of revolution,'' Richard Lewontin writes, and while he claims to be immune to the thrill of revolt, Lewontin displays a strong affection for the act of debunking in ''It Ain't Necessarily So,'' a collection of nine previously published essays. Lewontin, the Alexander Agassiz research professor at Harvard University, discusses biological determinism, the scientific status of sociology and the state of genetic research (which he calls ''genomania''). His take on the Human Genome Project, whose goal has been to record the makeup of all human genes, is especially contentious. He cuts a deep swath through the promise of an end to genetically caused human illness, describing just how tangential this goal is to the sequencing of the human genome. Deploring the evangelism of scientists and their ''journalistic acolytes,'' Lewontin accuses them of fetishizing DNA. He also attacks misconceptions about cloning, explaining how genetic programming and environmental interaction shape people. This is no philosophical pondering upon nature versus nurture, but a technical account that illustrates, among other things, why the popular notion of cloning individuals like Einstein is a biological absurdity. Lewontin does not only debunk but also clearly conveys complicated information. Though challenging for the layman, his book will reward persistent readers with a better understanding of the most controversial scientific issues of our day.</p>
+        <p>Christine Kenneally</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

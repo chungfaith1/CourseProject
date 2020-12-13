@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="11INSI$01" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1221712"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000811T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E0DC143FF932A2575BC0A9669C8B63" item-length="265" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Wait Begins in Tire Recall  The recall of millions of Firestone tires sent panicked customers rushing to service centers only to be told, in many cases, that they would have to wait more than a year for replacements.  PAGE C1</p>
+      </block>
+      <block class="full_text">
+        <p>Wait Begins in Tire Recall  The recall of millions of Firestone tires sent panicked customers rushing to service centers only to be told, in many cases, that they would have to wait more than a year for replacements.  PAGE C1</p>
+        <p>Division Over Police Leader  Mayor Rudolph W. Giuliani's top aides are deeply divided over the selection of his next police commissioner, a choice that will make clear the mayor's goals for his remaining 16 months in office.  PAGE B1</p>
+        <p>British Group's Chechen Ties  Responding to a Russian accusation that it had trained Chechen rebels, a British-based mine-clearing group, Halo Trust, admitted that some of the Chechens it trained might have ''joined the fighters.''  PAGE A9</p>
+        <p>Child Poverty Up Since '79  Child poverty has fallen in many states in the current economic boom, but nationwide the rate is still higher than it was 20 years ago, with more than 13 million children living in poverty.  PAGE A10</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

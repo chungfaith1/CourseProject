@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Marked Bullets</title>
+    <meta content="L21MIL$01" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201284"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Firearms</classifier>
+        <classifier class="indexing_service" type="descriptor">Gun Control</classifier>
+        <classifier class="indexing_service" type="descriptor">Demonstrations and Riots</classifier>
+        <classifier class="indexing_service" type="descriptor">Million Mom March</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Chips</classifier>
+        <person class="indexing_service">Leidner, Dorothy</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Firearms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Demonstrations and Riots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gun Control</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000521T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E5DD133AF932A15756C0A9669C8B63" item-length="133" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Marked Bullets</hl1>
+      </hedline>
+      <abstract>
+        <p>Dorothy Leidner letter on May 15 article on Million Mom March for gun control c</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I applaud the many women who took part in the Million Mom March (front page, May 15) to demonstrate their support of gun-control regulations. I suggest a simpler solution: regulating ammunition.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I applaud the many women who took part in the Million Mom March (front page, May 15) to demonstrate their support of gun-control regulations. I suggest a simpler solution: regulating ammunition.</p>
+        <p>Why not require that all bullets have a microchip with identification, so that any bullet could be traced to the individual who bought it? Perhaps if people who bought ammunition were held liable for its use, they would be less cavalier about gun use.</p>
+        <p>DOROTHY LEIDNER  Dallas, May 17, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

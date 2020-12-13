@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ever Tried Popping Ice Cream? It's Easier Now</title>
+    <meta content="14ICE.$02" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1207206"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="FOOD STUFF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Ice Cream</classifier>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ice Cream</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ice</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03EFDB153EF937A25755C0A9669C8B63" item-length="114" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ever Tried Popping Ice Cream? It's Easier Now</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>Oxo's new scoop for impatient ice cream lovers noted; photo (Food Stuff column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ice-cream lovers can be an impatient lot, in a hurry to get the sweet stuff into a dish or cone. Oxo's new scoop makes the job easier: when the lever on the handle is pressed, the ice cream pops right out of the brushed-stainless-steel bowl. As on all Oxo kitchen tools, the handle is cushioned. The scoop is $11.50 at Broadway Panhandler, 477 Broome Street (Greene Street), and other housewares stores.</p>
+      </block>
+      <block class="full_text">
+        <p>Ice-cream lovers can be an impatient lot, in a hurry to get the sweet stuff into a dish or cone. Oxo's new scoop makes the job easier: when the lever on the handle is pressed, the ice cream pops right out of the brushed-stainless-steel bowl. As on all Oxo kitchen tools, the handle is cushioned. The scoop is $11.50 at Broadway Panhandler, 477 Broome Street (Greene Street), and other housewares stores.</p>
+        <p>FOOD STUFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

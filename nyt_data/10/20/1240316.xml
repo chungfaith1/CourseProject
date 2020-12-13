@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="20CMPBRFS" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1240316"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001020T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E7DC103EF933A15753C1A9669C8B63" item-length="271" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DIGITAL BIOMETRICS, Minnetonka, Minn., the maker of fingerprinting and identification devices, agreed to buy the closely held Visionics, Jersey City, for $36.8 million in stock to develop new security products.</p>
+      </block>
+      <block class="full_text">
+        <p>DIGITAL BIOMETRICS, Minnetonka, Minn., the maker of fingerprinting and identification devices, agreed to buy the closely held Visionics, Jersey City, for $36.8 million in stock to develop new security products.</p>
+        <p>TEXACO, White Plains, the third-largest oil company in the United States, said it had bought 20 percent of the closely held UniPure, Houston, which makes chemicals that remove sulfur and other pollutants from crude oil and diesel fuel. Terms were not disclosed.</p>
+        <p>SHAW GROUP, Baton Rouge, La., a provider of construction services to the energy industry, agreed to sell its cold-storage business unit of Stone &amp; Webster, Boston, to an investor group led by Wareing, Athon &amp; Co., Houston, for $70 million.</p>
+        <p>99 CENTS ONLY STORES, City of Commerce, Calif., a discount retailer, said it planned to sell a unit, Universal International, for about $34 million to a company controlled by its chief executive, David Gold.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

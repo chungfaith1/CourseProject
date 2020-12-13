@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRAVEL ADVISORY</title>
+    <meta content="08SHOR$01" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1236867"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Golf</classifier>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Doral Park Avenue Hotel (Nyc)</org>
+        <org class="indexing_service">Chelsea Piers (NYC)</org>
+        <person class="indexing_service">Siano, Joseph</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Golf</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Luxury and Vacations/Golf</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Golf</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Golf</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001008T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07EFDE133DF93BA35753C1A9669C8B63" item-length="285" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRAVEL ADVISORY</hl1>
+      </hedline>
+      <byline class="print_byline">By JOSEPH SIANO</byline>
+      <byline class="normalized_byline">Siano, Joseph</byline>
+      <abstract>
+        <p>Doral Park Avenue Hotel in New York City, in partnership with Golf Club at Chelsea Piers, is offering golf packages (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HOTEL  Manhattan Tee Times</p>
+        <p>Plenty of hotels offer golf packages, but how many of them are in Manhattan? The Doral Park Avenue's golf package doesn't require clandestine drives in Central Park, thanks to a partnership with the Golf Club at Chelsea Piers. The hotel's plan, starting at $345 a night Sunday to Thursday and $305 weekends, includes accommodations, a one-hour private lesson with a PGA instructor, video swing analysis, reservations at a driving stall and up to 125 balls at the range. The hotel is at Park Avenue and 38th Street; Chelsea Piers is on the Hudson at 23rd Street. Information and reservations: (877) 993-6725.</p>
+      </block>
+      <block class="full_text">
+        <p>HOTEL  Manhattan Tee Times</p>
+        <p>Plenty of hotels offer golf packages, but how many of them are in Manhattan? The Doral Park Avenue's golf package doesn't require clandestine drives in Central Park, thanks to a partnership with the Golf Club at Chelsea Piers. The hotel's plan, starting at $345 a night Sunday to Thursday and $305 weekends, includes accommodations, a one-hour private lesson with a PGA instructor, video swing analysis, reservations at a driving stall and up to 125 balls at the range. The hotel is at Park Avenue and 38th Street; Chelsea Piers is on the Hudson at 23rd Street. Information and reservations: (877) 993-6725.</p>
+        <p>TOUR  Rolling With Rock</p>
+        <p>Adventures in Rock allows rock fans to be roadies without any of the hard work. The tour company, based in Brookline, Mass., organizes trips to rock concerts around the world. Upcoming trips include two to London: Nov. 2 to 6 to see Smashing Pumpkins at Wembley Arena, Nov. 10 to 14 for the Who Reunion Tour in London Arena. Each trip, $990 a person, double occupancy, includes three nights in a four-star hotel in London, premium seats to the concert, a night at a music club and the services of a BBC disc jockey as tour guide; air fare is extra. Call (877) 788-7625 or www.adventuresinrock .com.</p>
+        <p>JOSEPH SIANO</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

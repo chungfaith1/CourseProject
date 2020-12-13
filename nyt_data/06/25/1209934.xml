@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Fiction</title>
+    <meta content="RV092207" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209934"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Gambone, Philip</person>
+        <person class="indexing_service">Mo Yan</person>
+        <object.title class="indexing_service">Republic of Wine, The (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000625T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E7DA113EF936A15755C0A9669C8B63" item-length="268" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Fiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Philip Gambone</byline>
+      <byline class="normalized_byline">Gambone, Philip</byline>
+      <abstract>
+        <p>Philip Gambone reviews book The Republic of Wine by Mo Yan (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Republic of Wine</p>
+        <p>By Mo Yan.</p>
+        <p>Arcade, $26.95.</p>
+      </block>
+      <block class="full_text">
+        <p>The Republic of Wine</p>
+        <p>By Mo Yan.</p>
+        <p>Arcade, $26.95.</p>
+        <p>Ding Gou'er is a special investigator whose passions are alcohol, women and crime solving. When he is sent to look into reports of cannibalism in a city called Liquorland, Ding, ''who tries to be dashing and refined but cannot,'' finds that his toughest job is keeping a clear head while bizarre and sinister temptations abound. Mo Yan, whose novels include the acclaimed ''Red Sorghum,'' breaks up this story with letters sent by a doctoral candidate in ''liquor studies'' to a writer who also happens to be named Mo Yan. Over the course of their correspondence, the student's opinions about literature swing from the high-minded to the venal; he eventually persuades Mo to write promotional copy for a new liquor, ''so we can advertise it in prime time on CTV.'' Deftly translated from the Chinese by the indefatigable Howard Goldblatt, ''The Republic of Wine'' is a fantastical postmodernist hodgepodge that borrows elements from kung fu novels, detective thrillers, traditional Chinese tales of the supernatural, American westerns and magic realist fiction. Some readers may find, as Mo says of one of the student's stories, that this novel suffers from ''overly loose organization and relative lack of authorial restraint,'' but there's no denying that in his juxtapositions of the horrific and the comic, the lyric and the scatological, Mo is poking fun at China's post-Mao reformist era while letting out a wrenching cri de coeur for the lost soul of his country.</p>
+        <p>Philip Gambone</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

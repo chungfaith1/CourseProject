@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Modest Proposal</title>
+    <meta content="L28DOW$01" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203020"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Sex</classifier>
+        <person class="indexing_service">Dodson, David</person>
+        <person class="indexing_service">Dowd, Maureen</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000528T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DEFD8133DF93BA15756C0A9669C8B63" item-length="107" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Modest Proposal</hl1>
+      </hedline>
+      <abstract>
+        <p>David Dodson letter comments on Maureen Dowd's May 24 column on sex</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Maureen Dowd (column, May 24) is right to be skeptical of our culture's obsession with sex. Sometimes, like a joke explained, the effect is lost when too much analysis is applied.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Maureen Dowd (column, May 24) is right to be skeptical of our culture's obsession with sex. Sometimes, like a joke explained, the effect is lost when too much analysis is applied.</p>
+        <p>Perhaps a glimpse of stocking should once again be shocking. Maybe the pendulum should swing back toward some degree of sexual Victorianism to give us all another chance to play an exciting game of hide and seek. The suspense involved in looking is often as thrilling as the joy of finding.</p>
+        <p>DAVID DODSON  La Canada, Calif., May 24, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

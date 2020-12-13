@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stock Offerings Are Set</title>
+    <meta content="05EQUI$01" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204995"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01EFD61F3CF936A35755C0A9669C8B63" item-length="239" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stock Offerings Are Set</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The following equity and convertible debt offerings are expected this week:</p>
+        <p>Community Health Systems Inc., Brentwood, Tenn., an initial public offering of 18.8 million shares, 15.9 million in the United States and Canada. Merrill Lynch.</p>
+      </block>
+      <block class="full_text">
+        <p>The following equity and convertible debt offerings are expected this week:</p>
+        <p>Community Health Systems Inc., Brentwood, Tenn., an initial public offering of 18.8 million shares, 15.9 million in the United States and Canada. Merrill Lynch.</p>
+        <p>Intuitive Surgical Inc., Mountain View, Calif., an initial public offering of eight million shares. Lehman Brothers.</p>
+        <p>UbiquiTel Inc., Bala Cynwyd, Pa., an initial public offering of 14.5 million shares. Donaldson, Lufkin &amp; Jenrette.</p>
+        <p>Urban Cool Network Inc., Dallas, an initial public offering of two million shares. Kashner Davidson Securities.</p>
+        <p>(Source: MCM EquityWatch.)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

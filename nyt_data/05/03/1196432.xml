@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>And Chartreuse Dip?</title>
+    <meta content="03CHIP$02" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1196432"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="FOOD STUFF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Food</classifier>
+        <org class="indexing_service">Olive Oil Potato Chips</org>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000503T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902EED81339F930A35756C0A9669C8B63" item-length="196" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>And Chartreuse Dip?</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>Olive Oil Potato Chips offers blue chips made from blue potatoes; photo (Food Stuff column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>What's new in potato chips? The color blue, a deep purply blue rimmed with lavender, in fact. They are from Olive Oil Potato Chips, which makes delicious crisp chips from potatoes fried in olive oil and seasoned with sea salt and rosemary, black pepper or garlic. The blue chips, made from blue potatoes, have an earthy flavor with hints of celery. Try them with a dip made with a half cup each of mayonnaise and plain yogurt. Add a large stalk of celery grated fine in a food processor, a tablespoon of minced dill and two to three tablespoons of prepared horseradish. This yields one and a half cups of dip, which should be enough for a five-ounce bag of the chips. The chips are $4.95 in many food shops.</p>
+      </block>
+      <block class="full_text">
+        <p>What's new in potato chips? The color blue, a deep purply blue rimmed with lavender, in fact. They are from Olive Oil Potato Chips, which makes delicious crisp chips from potatoes fried in olive oil and seasoned with sea salt and rosemary, black pepper or garlic. The blue chips, made from blue potatoes, have an earthy flavor with hints of celery. Try them with a dip made with a half cup each of mayonnaise and plain yogurt. Add a large stalk of celery grated fine in a food processor, a tablespoon of minced dill and two to three tablespoons of prepared horseradish. This yields one and a half cups of dip, which should be enough for a five-ounce bag of the chips. The chips are $4.95 in many food shops.</p>
+        <p>FOOD STUFF The Food Stuff column now appears every other week, alternating with the Eating Well column.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">The Food Stuff column now appears every other week, alternating with the Eating Well column.</tagline>
+    </body.end>
+  </body>
+</nitf>

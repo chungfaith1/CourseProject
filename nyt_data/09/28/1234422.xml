@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>2 Agencies Make Acquisitions</title>
+    <meta content="MB001530" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234422"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Draft Worldwide</org>
+        <org class="indexing_service">Fuel Advertising</org>
+        <org class="indexing_service">True North Communications</org>
+        <org class="indexing_service">Opus Group</org>
+        <org class="indexing_service">Datamidia</org>
+        <person class="indexing_service">Elliott, Stuart</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000928T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E0DB1E3AF93BA1575AC0A9669C8B63" item-length="209" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>2 Agencies Make Acquisitions</hl1>
+      </hedline>
+      <byline class="print_byline">By Stuart Elliott</byline>
+      <byline class="normalized_byline">Elliott, Stuart</byline>
+      <abstract>
+        <p>Draft Worldwide acquires Fuel Advertising, Toronto; True North Communications acquires Britain's Opus Group and Brazil's Datamidia (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Two agencies are making acquisitions for undisclosed terms.</p>
+        <p>Draft Worldwide in Chicago, part of the Interpublic Group of Companies, acquired Fuel Advertising in Toronto, which has 90 employees and revenue estimated at $10.8 million from clients like the Hudson's Bay Company and the Ontario Ministry of Tourism. Fuel will operate as an autonomous unit of Draft; it is Draft's third acquisition in Canada in less than two years. Richard H. Fisher, 55, continues as president and chief executive at Fuel.</p>
+      </block>
+      <block class="full_text">
+        <p>Two agencies are making acquisitions for undisclosed terms.</p>
+        <p>Draft Worldwide in Chicago, part of the Interpublic Group of Companies, acquired Fuel Advertising in Toronto, which has 90 employees and revenue estimated at $10.8 million from clients like the Hudson's Bay Company and the Ontario Ministry of Tourism. Fuel will operate as an autonomous unit of Draft; it is Draft's third acquisition in Canada in less than two years. Richard H. Fisher, 55, continues as president and chief executive at Fuel.</p>
+        <p>And True North Communications in Chicago acquired the Opus Group in Basingstoke, England, a customer relationship marketing agency, and Datamidia in Sao Paulo, Brazil, an agency specializing in digital and database communications. Opus and Datamidia, with more than 100 employees working for clients like Compaq Computer and Royal Dutch/ Shell, become operating units of FCBi, the interactive marketing unit of the FCB Worldwide division of True North.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

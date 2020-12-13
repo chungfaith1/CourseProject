@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="21INSI$02" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1224374"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000821T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E3D9113EF932A1575BC0A9669C8B63" item-length="182" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Harry F. Oppenheimer Dies; Influential Foe of Apartheid  The gold and diamond magnate from South Africa, who used his great wealth and considerable economic and political influence in the fight against apartheid, was 91. PAGE B7</p>
+        <p>Judge David Edelstein Dies  The federal judge, who in his 48 years on the bench presided over the I.B.M. antitrust case and the ongoing effort to rid corruption from the Teamsters union, was 90. PAGE B7</p>
+      </block>
+      <block class="full_text">
+        <p>Harry F. Oppenheimer Dies; Influential Foe of Apartheid  The gold and diamond magnate from South Africa, who used his great wealth and considerable economic and political influence in the fight against apartheid, was 91. PAGE B7</p>
+        <p>Judge David Edelstein Dies  The federal judge, who in his 48 years on the bench presided over the I.B.M. antitrust case and the ongoing effort to rid corruption from the Teamsters union, was 90. PAGE B7</p>
+        <p>Moral Hurdle in Poland  Lech Walesa has been cleared of Communist collaboration, but accusations continue. The issue of who did and who did not has become a moral touchstone. PAGE A6</p>
+        <p>McCain Is Recovering  Senator John McCain, who is recovering from surgery for two melanomas, benefited from quick action, his doctors said. PAGE A20</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>WEB ENCRYPTION PATENT INTO PUBLIC DOMAIN</title>
+    <meta content="MB010531" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1228643"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY BRIEFING: INTERNET"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <classifier class="indexing_service" type="descriptor">Inventions and Patents</classifier>
+        <org class="indexing_service">Rsa Security Inc</org>
+        <person class="indexing_service">Rivest, Ronald L</person>
+        <person class="indexing_service">Shamir, Adi</person>
+        <person class="indexing_service">Adelman, Leonard</person>
+        <person class="indexing_service">Markoff, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Innovation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Inventions and Patents</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000907T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902EEDB1539F934A3575AC0A9669C8B63" item-length="189" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>WEB ENCRYPTION PATENT INTO PUBLIC DOMAIN</hl1>
+      </hedline>
+      <byline class="print_byline">By John Markoff</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <abstract>
+        <p>RSA Security places RSA public key encryption algorithm into public domain, permitting programmers to freely incorporate technology into their products; RSA algorithm, named after computer scientists Ronald Rivest, Adi Shamir and Leonard Adelman, has been privately used for more than decade to protect privacy of digital commerce and communications (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>RSA Security said it had placed the RSA public key encryption algorithm into the public domain, permitting programmers to freely incorporate the technology into their products. The RSA algorithm -- named after three computer scientists: Ronald Rivest, Adi Shamir and Leonard Adelman -- has been widely used for more than a decade to protect the privacy of digital commerce and communications. The technology was originally awarded a United States patent on Sept. 20, 1983, and the patent is due to expire this month. Known as public key cryptography, the technology, also pioneered independently by researchers at Stanford University, makes it possible for two people who have never met to exchange information securely.</p>
+        <p>John Markoff</p>
+      </block>
+      <block class="full_text">
+        <p>RSA Security said it had placed the RSA public key encryption algorithm into the public domain, permitting programmers to freely incorporate the technology into their products. The RSA algorithm -- named after three computer scientists: Ronald Rivest, Adi Shamir and Leonard Adelman -- has been widely used for more than a decade to protect the privacy of digital commerce and communications. The technology was originally awarded a United States patent on Sept. 20, 1983, and the patent is due to expire this month. Known as public key cryptography, the technology, also pioneered independently by researchers at Stanford University, makes it possible for two people who have never met to exchange information securely.</p>
+        <p>John Markoff</p>
+        <p>TECHNOLOGY BRIEFING: INTERNET</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

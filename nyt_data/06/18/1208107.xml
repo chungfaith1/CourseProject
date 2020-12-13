@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Inconvenient Woman</title>
+    <meta content="LTR105236" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208107"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MURDERS AND ATTEMPTED MURDERS</classifier>
+        <classifier class="indexing_service" type="descriptor">Transsexuals</classifier>
+        <classifier class="indexing_service" type="descriptor">Homosexuality</classifier>
+        <person class="indexing_service">Baranger, Michel</person>
+        <person class="indexing_service">France, David</person>
+        <person class="indexing_service">Addams, Calpernia Sarah</person>
+        <person class="indexing_service">Winchell, Barry (Pfc)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homosexuality</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E4DA153EF93BA25755C0A9669C8B63" item-length="100" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Inconvenient Woman</hl1>
+      </hedline>
+      <abstract>
+        <p>Michel Baranger letter praises David France's May 28 article on transsexual Calpernia Sarah Addams's courage in face of murder of Pfc Barry Winchell</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Many thanks to David France (May 28) for a deeply touching and unusual story. Congratulations to Calpernia Sarah Addams for her courage and for remaining faithful to her dream. May the horrible death of Pfc. Barry Winchell shock us all into realizing that the complexity of real life seldom reduces to absolute categories.</p>
+        <p>Michel Baranger</p>
+        <p>Cambridge, Mass</p>
+      </block>
+      <block class="full_text">
+        <p>Many thanks to David France (May 28) for a deeply touching and unusual story. Congratulations to Calpernia Sarah Addams for her courage and for remaining faithful to her dream. May the horrible death of Pfc. Barry Winchell shock us all into realizing that the complexity of real life seldom reduces to absolute categories.</p>
+        <p>Michel Baranger</p>
+        <p>Cambridge, Mass</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

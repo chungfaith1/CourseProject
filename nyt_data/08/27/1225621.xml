@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Polo Look</title>
+    <meta content="27STRE" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225621"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="ON THE STREET"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Apparel</classifier>
+        <org class="indexing_service">Bridgehampton Polo Club Inc</org>
+        <person class="indexing_service">Cunningham, Bill</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000827T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E3DE1531F934A1575BC0A9669C8B63" item-length="98" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Polo Look</hl1>
+      </hedline>
+      <byline class="print_byline">By Bill Cunningham</byline>
+      <byline class="normalized_byline">Cunningham, Bill</byline>
+      <abstract>
+        <p>Photos of fashions worn at Bridgehampton Polo Club (On the Street column)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The bucolic Bridgehampton Polo Club is a fashionable promenade on summer Saturdays at the Mercedes-Benz Polo Challenge, where high-goal polo teams compete for attention with higher-goal glamour. Sponsors give parties for 1,200 guests under a tent. This year's fashion statements are one-piece dresses and designer sportswear, accessorized with pedigreed dogs and Fendi bags. Polo fans have the other side of the field.</p>
+      </block>
+      <block class="full_text">
+        <p>The bucolic Bridgehampton Polo Club is a fashionable promenade on summer Saturdays at the Mercedes-Benz Polo Challenge, where high-goal polo teams compete for attention with higher-goal glamour. Sponsors give parties for 1,200 guests under a tent. This year's fashion statements are one-piece dresses and designer sportswear, accessorized with pedigreed dogs and Fendi bags. Polo fans have the other side of the field.</p>
+        <p>ON THE STREET</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

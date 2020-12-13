@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Honor and Beautify</title>
+    <meta content="L28MEM$01" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/28/opinion/L28MEM.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1234287"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">World War II (1939-45)</classifier>
+        <classifier class="indexing_service" type="descriptor">Monuments and Memorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <location class="indexing_service">Washington (DC)</location>
+        <person class="indexing_service">Golkin, Peter</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Washington, D.C.</classifier>
+        <classifier class="online_producer" type="general_descriptor">World War II (1939-45)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Monuments and Memorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">War and Revolution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000928T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E1DE113AF93BA1575AC0A9669C8B63" item-length="144" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Honor and Beautify</hl1>
+      </hedline>
+      <abstract>
+        <p>Peter Golkin letter concurs with September 24 editorial opposing construction of World War II Memorial on Mall in Washington, DC</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Don't Mar the Mall'' (editorial, Sept. 24):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Don't Mar the Mall'' (editorial, Sept. 24):</p>
+        <p>I agree that the proposed World War II Memorial deserves a location of prime importance in the Washington area, but not one that would disrupt the inspiring continuity of the Mall.</p>
+        <p>Perhaps the memorial planners should consider placing an arch of victory over New York Avenue in the Northeast section of Washington. That roadway is the primary means of entering the city from the north,  and visitors now riding along it -- many of whom will tour the Mall -- are welcomed only by a depressing string of fast-food restaurants, liquor stores and abandoned buildings.</p>
+        <p>PETER GOLKIN  Arlington, Va., Sept. 24, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

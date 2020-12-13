@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Calling an Ambulance</title>
+    <meta content="L28HEA" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/28/opinion/L28HEA.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1234266"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Health Insurance</classifier>
+        <person class="indexing_service">Brown, Steve A</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000928T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E6D6103AF93BA1575AC0A9669C8B63" item-length="169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Calling an Ambulance</hl1>
+      </hedline>
+      <abstract>
+        <p>Steve A Brown letter disputes September 24 editorial, which lamented fact that approximately 45 million Americans still lack health insurance</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>You lament the fact that ''some 45 million Americans still lack health insurance, and despite a decade of prosperity, the number is growing''  (editorial, Sept. 24). But there is a distinction between lacking insurance and having access to health care.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>You lament the fact that ''some 45 million Americans still lack health insurance, and despite a decade of prosperity, the number is growing''  (editorial, Sept. 24). But there is a distinction between lacking insurance and having access to health care.</p>
+        <p>Virtually all Americans without some form of insurance have access to some level of care in emergency rooms. Those who are too poor to pay have Medicaid, and those who are not poor enough can make arrangements to pay after treatment.</p>
+        <p>And there is a large number who prefer not to fill out the required forms to be enrolled in some state or federal program, simply because it is easier to call an ambulance when a crisis arises.</p>
+        <p>STEVE A. BROWN  Springfield, Va., Sept. 24, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

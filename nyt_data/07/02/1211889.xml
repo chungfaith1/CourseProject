@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Learning to Live With Background Radiation</title>
+    <meta content="LTR234453" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211889"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <classifier class="indexing_service" type="descriptor">Radiation</classifier>
+        <person class="indexing_service">Puttre, Peter G</person>
+        <person class="indexing_service">Goodman, Miriam</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E1D81439F931A35754C0A9669C8B63" item-length="131" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Learning to Live With Background Radiation</hl1>
+      </hedline>
+      <abstract>
+        <p>Peter G Puttre letter holds Miriam Goodman's June 25 letter missed significnce of concept of 'natural background radiation' (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Miriam Goodman seems to have missed the significance of the concept of ''natural background radiation.'' This radiation is present in nature without any contribution by man and we can do nothing about it. Any contamination that does not increase levels above ''natural background radiation'' is therefore not worthy of any further consideration.</p>
+        <p>PETER G. PUTTRE  Manhasset</p>
+      </block>
+      <block class="full_text">
+        <p>Miriam Goodman seems to have missed the significance of the concept of ''natural background radiation.'' This radiation is present in nature without any contribution by man and we can do nothing about it. Any contamination that does not increase levels above ''natural background radiation'' is therefore not worthy of any further consideration.</p>
+        <p>PETER G. PUTTRE  Manhasset</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>October 8-14; The Speed to Know</title>
+    <meta content="MB234123" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1239184"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001015T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E6DB113FF936A25753C1A9669C8B63" item-length="120" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>October 8-14; The Speed to Know</hl1>
+      </hedline>
+      <byline class="print_byline">By Alex Berenson</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The two services that distribute nearly all corporate press releases in the United States ended the decades-old practice of offering media organizations 15-minute advance copies. The reason: With thousands of Internet sites offering investors a chance to read the releases for themselves, financial newswires like the Dow Jones News Service are no longer the best way to ensure that all investors receive information at the same time.</p>
+        <p>Alex Berenson</p>
+      </block>
+      <block class="full_text">
+        <p>The two services that distribute nearly all corporate press releases in the United States ended the decades-old practice of offering media organizations 15-minute advance copies. The reason: With thousands of Internet sites offering investors a chance to read the releases for themselves, financial newswires like the Dow Jones News Service are no longer the best way to ensure that all investors receive information at the same time.</p>
+        <p>Alex Berenson</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

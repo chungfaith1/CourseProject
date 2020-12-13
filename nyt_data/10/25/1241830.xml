@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SERONO'S PROFIT JUMPS</title>
+    <meta content="MB010342" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="W" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1241830"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WORLD BUSINESS BRIEFING: EUROPE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <org class="indexing_service">Serono SA</org>
+        <person class="indexing_service">Olson, Elizabeth</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001025T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02EFDA1231F936A15753C1A9669C8B63" item-length="130" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SERONO'S PROFIT JUMPS</hl1>
+      </hedline>
+      <byline class="print_byline">By Elizabeth Olson</byline>
+      <byline class="normalized_byline">Olson, Elizabeth</byline>
+      <abstract>
+        <p>Serono SA, Europe's biggest biotechnology company, reports 62.3 percent rise in net profit, to $209.9 million for first nine months (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Serono S.A., Europe's biggest biotechnology company, reported a 62.3 percent rise in net profit, to $209.9 million, for the first nine months. Strong sales of Rebif, a drug for multiple sclerosis, helped the company exceed analysts' expectations of a 50 percent profit increase. Serono said sales of Rebif reached $68.1 million, a record level, in the third quarter, and nine-month sales of the drug doubled to $179.7 million.</p>
+        <p>Elizabeth Olson</p>
+      </block>
+      <block class="full_text">
+        <p>Serono S.A., Europe's biggest biotechnology company, reported a 62.3 percent rise in net profit, to $209.9 million, for the first nine months. Strong sales of Rebif, a drug for multiple sclerosis, helped the company exceed analysts' expectations of a 50 percent profit increase. Serono said sales of Rebif reached $68.1 million, a record level, in the third quarter, and nine-month sales of the drug doubled to $179.7 million.</p>
+        <p>Elizabeth Olson</p>
+        <p>WORLD BUSINESS BRIEFING: EUROPE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

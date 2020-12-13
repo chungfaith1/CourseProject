@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Primary Day Today</title>
+    <meta content="12POLL" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/12/nyregion/12POLL.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1229955"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000912T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E2D91638F931A2575AC0A9669C8B63" item-length="102" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Primary Day Today</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Today is primary day in New York and Connecticut.</p>
+        <p>Polls will be open from 6 a.m. to 9 p.m. in New York City and in Nassau, Suffolk, Rockland, Westchester, Orange and Erie Counties. Polls in all other counties of New York State will be open from noon to 9 p.m.</p>
+      </block>
+      <block class="full_text">
+        <p>Today is primary day in New York and Connecticut.</p>
+        <p>Polls will be open from 6 a.m. to 9 p.m. in New York City and in Nassau, Suffolk, Rockland, Westchester, Orange and Erie Counties. Polls in all other counties of New York State will be open from noon to 9 p.m.</p>
+        <p>In Connecticut, the polls will be open from 6 a.m. to 8 p.m.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

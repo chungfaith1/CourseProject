@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Political Briefing; Polls Say Bush Leads In Electoral Votes</title>
+    <meta content="MB230535" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204892"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2000</classifier>
+        <classifier class="indexing_service" type="descriptor">Public Opinion</classifier>
+        <person class="indexing_service">Bush, George W (Gov)</person>
+        <person class="indexing_service">Gore, Al (Vice Pres)</person>
+        <person class="indexing_service">Ayres, B Drummond Jr</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/George W Bush</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2000</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2000</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE4D81F3CF937A35755C0A9669C8B63" item-length="98" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Political Briefing; Polls Say Bush Leads In Electoral Votes</hl1>
+      </hedline>
+      <byline class="print_byline">By B. Drummond Ayres Jr.</byline>
+      <byline class="normalized_byline">Ayres, B Drummond Jr</byline>
+      <abstract>
+        <p>Hotline Internet poll reports George W Bush leadingin 26 states, Al Gore in 13 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Hotline, the popular Internet political tip sheet, keeps a running tab of presidential preference polls in various states as they become available. Here is how things stood overall at the end of last week:</p>
+      </block>
+      <block class="full_text">
+        <p>The Hotline, the popular Internet political tip sheet, keeps a running tab of presidential preference polls in various states as they become available. Here is how things stood overall at the end of last week:</p>
+        <p>Gov. George W. Bush led in 26 states, worth 282 electoral votes. Vice President Al Gore led in 13 states, worth 178 electoral votes.</p>
+        <p>Needed to win: 270 electoral votes.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

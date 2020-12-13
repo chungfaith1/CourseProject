@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR000805" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1226465"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <org class="indexing_service">Msnbc (Cable Channel)</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000830T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E6D81630F933A0575BC0A9669C8B63" item-length="104" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of August 28 Media Talk column; ratings for MSNBC show explained</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A report in the Media Talk column in Business Day on Monday about an MSNBC billboard promoting ''The News With Brian Williams'' misstated a comparison between the average audience for the program's 9 p.m. showing and what MSNBC says was its cumulative audience during April. The average nightly audience of 203,000 is one-206th of the cumulative audience of 42 million, which includes the number of different viewers tuned in to at least one minute of any of its showings, including four repeats a night. It is not one-20,500th.</p>
+      </block>
+      <block class="full_text">
+        <p>A report in the Media Talk column in Business Day on Monday about an MSNBC billboard promoting ''The News With Brian Williams'' misstated a comparison between the average audience for the program's 9 p.m. showing and what MSNBC says was its cumulative audience during April. The average nightly audience of 203,000 is one-206th of the cumulative audience of 42 million, which includes the number of different viewers tuned in to at least one minute of any of its showings, including four repeats a night. It is not one-20,500th.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

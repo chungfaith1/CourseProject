@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="01CORR$01" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Corrections; Washington; Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1235157"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">History</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <person class="indexing_service">Carter, Jimmy</person>
+        <person class="indexing_service">Monroe, James (1758-1831)</person>
+        <person class="indexing_service">Tyler, John (1747-1813)</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/History</classifier>
+        <classifier class="online_producer" type="general_descriptor">History</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001001T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E2D8163DF932A35753C1A9669C8B63" item-length="105" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Sept 24 article about military service of US presidents; James Monroe served under George Washington, John Tyler in Virginia militia and Jimmy Carter in Navy</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Because of an editing error, an article last week about the military service of United States presidents included an incomplete list of those who served as officers. James Monroe was a lieutenant colonel under George Washington, John Tyler a captain in the Virginia militia, and Jimmy Carter a lieutenant in the Navy. Millard Fillmore served as a major in the New York Home Guard during the Civil War, but only after he left the presidency.</p>
+        <p>The article also misstated the number of American presidents. Because Grover Cleveland's two terms were nonconsecutive, there have been 42 presidencies, but only 41 presidents.</p>
+      </block>
+      <block class="full_text">
+        <p>Because of an editing error, an article last week about the military service of United States presidents included an incomplete list of those who served as officers. James Monroe was a lieutenant colonel under George Washington, John Tyler a captain in the Virginia militia, and Jimmy Carter a lieutenant in the Navy. Millard Fillmore served as a major in the New York Home Guard during the Civil War, but only after he left the presidency.</p>
+        <p>The article also misstated the number of American presidents. Because Grover Cleveland's two terms were nonconsecutive, there have been 42 presidencies, but only 41 presidents.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

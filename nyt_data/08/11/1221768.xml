@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="NEWS11" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1221768"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000811T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E1DA143FF932A2575BC0A9669C8B63" item-length="260" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>REUNION INDUSTRIES, Pittsburgh, a machine parts and products manufacturing company, is selling its Irish plastics unit, Data Packaging, to an undisclosed Irish corporation for about $13.4 million.</p>
+      </block>
+      <block class="full_text">
+        <p>REUNION INDUSTRIES, Pittsburgh, a machine parts and products manufacturing company, is selling its Irish plastics unit, Data Packaging, to an undisclosed Irish corporation for about $13.4 million.</p>
+        <p>K-TEL INTERNATIONAL, Minneapolis, a recorded-music seller, said it was told by the Nasdaq market that the company's stock would be delisted because its market value was short of the market's requirements.</p>
+        <p>RSL COMMUNICATIONS, Hamilton, Bermuda, a telephone and data-communications company, said it would move its main office to London from New York this month.</p>
+        <p>NOVA CHEMICALS, Calgary, Alberta, said it planned to raise its stock buyback program, which began in February and ends next February, to eight million shares from five million.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

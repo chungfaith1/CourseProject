@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Print Only the Pages That Fit Your Needs</title>
+    <meta content="26ASKK$01" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/26/technology/26ASKK.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1241907"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001026T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4D61231F935A15753C1A9669C8B63" item-length="681" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Print Only the Pages That Fit Your Needs</hl1>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q.  Is there a way to get Internet Explorer not to print pages that are blank or have one line of fine print at the end?</p>
+        <p>A.  The current versions of Microsoft Internet Explorer for Windows and Macintosh (Versions 5.5 and 5.0, respectively) offer a Print Preview option. Print Preview, which is under the File menu at the top of the browser screen, can show you what your Web page will look like when it prints. (Both versions of Explorer are available if you follow links at www.microsoft.com.)</p>
+        <p>Once you see a preview of the printed pages that the Web page will generate, you can use the Print command box to instruct your computer to print only the ones you want, ignoring blank or unnecessary pages.</p>
+      </block>
+      <block class="full_text">
+        <p>Q.  Is there a way to get Internet Explorer not to print pages that are blank or have one line of fine print at the end?</p>
+        <p>A.  The current versions of Microsoft Internet Explorer for Windows and Macintosh (Versions 5.5 and 5.0, respectively) offer a Print Preview option. Print Preview, which is under the File menu at the top of the browser screen, can show you what your Web page will look like when it prints. (Both versions of Explorer are available if you follow links at www.microsoft.com.)</p>
+        <p>Once you see a preview of the printed pages that the Web page will generate, you can use the Print command box to instruct your computer to print only the ones you want, ignoring blank or unnecessary pages.</p>
+        <p>For example, if Internet Explorer shows you a Web page will print out on five pieces of paper but the last one contains only legal reminders or links you don't need, just tell it to print pages one to four.</p>
+        <p>For those who use Netscape Navigator for Windows, there is a Print Preview under the File menu in at least Version 4.5 or later of the browser. You can download a copy of the current version of Netscape's browser by following links at www.netscape.com.</p>
+        <p>Q.  What is ScanDisk scanning for when it scans my hard drive?</p>
+        <p>A.  ScanDisk is a built-in utility that Windows uses to find and fix problems with your computer's hardware. It can help spot errors on your hard drive, disk drives and memory components. If you have a system crash or your computer is turned off before the ''shut down'' function is invoked, you may get a message from ScanDisk expressing concern the next time you start up.</p>
+        <p>If your computer is interrupted by a crash or encounters a hardware problem while it is working with your files, file-allocation problems can crop up. Although it is not apparent to the user, one file can actually be spread out around the hard drive in different blocks, called clusters. The computer keeps track of where all the parts of files are with what is called a file-allocation table, or F.A.T. Problems can arise if the file allocation tables are not updated or clusters on your disk are lost. A problem called cross-linked files can also occur if the computer thinks that two files are stored in the same place on the hard drive. ScanDisk can fix these types of problems.</p>
+        <p>ScanDisk looks for a number of different things when it is examining your system. There are two kinds of tests it can perform. The Thorough option will search for cross-linked and lost parts of files and check the physical surface of your hard drive for bad sectors. The Standard option will just look for cross-linked and lost files.</p>
+        <p>If you don't want to know exactly what is wrong with your system, you can check the appropriate box at the bottom of the ScanDisk screen to have the program automatically fix any errors it finds. There is also an Advanced button to click if you would like to have the program display more information, like a log of errors that it finds.</p>
+        <p>Even if your computer does not crash a lot, running ScanDisk periodically is a good habit to get into for preventative maintenance. One way to get to ScanDisk is to go to the Start menu, then to Programs and Accessories. You will find ScanDisk under System Tools.</p>
+        <p>Q.  Since I upgraded to Windows Me,  my Programs list shows up in columns instead of a scrolling list. Can I fix that?</p>
+        <p>A.  Upgrading your system from Windows 98 to the Windows Millennium Edition usually returns this setting to its default state, which doesn't give you a scroll-down list. To change it back, go to the Start menu, then to Settings, Taskbar and Start Menu. Click on the Advanced tab and check the Scroll Programs box.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

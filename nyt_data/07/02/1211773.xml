@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Right Note</title>
+    <meta content="LTR033319" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211773"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="MUSIC AND PAINTING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <person class="indexing_service">Bowker, Celia</person>
+        <person class="indexing_service">Holland, Bernard</person>
+        <person class="indexing_service">Mozart, Wolfgang Amadeus (1756-91)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E5DD1739F931A35754C0A9669C8B63" item-length="111" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Right Note</hl1>
+      </hedline>
+      <abstract>
+        <p>Artist Celia Bowker letter on Bernard Holland's June 18 article describes how she was able, while listening to Mozart, to realize need to strike particular 'note' in painting (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I am a visual artist whose work shares with music qualities which music explores superbly: pattern, repetition with variation, linear development, rhythm. A couple of years ago I was bogged down with murky painted passages. Listening to Mozart one day in my studio, I thought, ''A composer doesn't direct a pianist to play a note 'something like middle C.' She requires middle C or some other specific note.'' This helped me gather the courage to strike a particular ''note'' in my painting, as opposed to a mushy implication which never quite arrives or leaves.</p>
+        <p>CELIA BOWKER  Seattle</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I am a visual artist whose work shares with music qualities which music explores superbly: pattern, repetition with variation, linear development, rhythm. A couple of years ago I was bogged down with murky painted passages. Listening to Mozart one day in my studio, I thought, ''A composer doesn't direct a pianist to play a note 'something like middle C.' She requires middle C or some other specific note.'' This helped me gather the courage to strike a particular ''note'' in my painting, as opposed to a mushy implication which never quite arrives or leaves.</p>
+        <p>CELIA BOWKER  Seattle</p>
+        <p>MUSIC AND PAINTING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

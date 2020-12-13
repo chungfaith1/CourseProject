@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Back Up To Beat The Bug</title>
+    <meta content="11PETE$04" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20000515T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1198530"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="STATE OF THE ART"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <person class="indexing_service">Lewis, Peter</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/State of the Art</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000511T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E6DB1F38F932A25756C0A9669C8B63" item-length="1380" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Back Up To Beat The Bug</hl1>
+      </hedline>
+      <byline class="print_byline">By Peter H. Lewis</byline>
+      <byline class="normalized_byline">Lewis, Peter</byline>
+      <abstract>
+        <p>Peter Lewis column offers advice for computer users on protecting computers from I Love You worm and other computer viruses; cites importance of backing up files regularly; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THIS column contains all the antivirus software necessary to protect your computer from the ''I Love You'' worm virus and its many mutant variations. All you have to do is double-click on the following paragraph by tapping the paper twice with your finger, and then press the finger as firmly as possible against your forehead while reciting aloud:</p>
+        <p>''I will not open any e-mail attachment, even if it comes from someone I know, unless I am absolutely certain it does not contain a virus.''</p>
+      </block>
+      <block class="full_text">
+        <p>THIS column contains all the antivirus software necessary to protect your computer from the ''I Love You'' worm virus and its many mutant variations. All you have to do is double-click on the following paragraph by tapping the paper twice with your finger, and then press the finger as firmly as possible against your forehead while reciting aloud:</p>
+        <p>''I will not open any e-mail attachment, even if it comes from someone I know, unless I am absolutely certain it does not contain a virus.''</p>
+        <p>There, that was easy. Sorry about the ink smudge on your forehead. Along with your backup files, you are now protected against the inevitable next wave of Love Bug copycat viruses.</p>
+        <p>You do have a current backup, don't you?</p>
+        <p>It is not a question of whether you will need a backup someday, but rather a question of when. A hard disk can fail. A thief can carry off your PC. You can absent-mindedly leave your laptop on the train. Fire. Flood. Termites. You never know.</p>
+        <p>''When'' is going to come sooner than you think it will because other computer viruses could soon be rampant on the Internet.</p>
+        <p>No computer connected to the Internet should be without an up-to-date antivirus program. But be careful. Some of the new viruses are script-based and are harder to catch. Even a recent antivirus program can be vulnerable to new forms of attack.</p>
+        <p>That is why the most important thing you can do is to get in the habit of backing up your important files. Then if the worst happens, the worst won't happen.</p>
+        <p>All Windows-based computers come with an integrated backup utility -- the sort of application Microsoft added to the operating system before the Justice Department started getting excited about such things -- but that has not stopped at least a dozen companies from offering backup utilities of their own.</p>
+        <p>In the old days, the main backup media were floppy disks and tapes. Today the home computer owner has many options, including floppies, Zips, CD-RW drives and even Internet-based remote storage systems.</p>
+        <p>The actual software and hardware tools for backing up a hard drive will be discussed here next week. But the general philosophy of backup deserves attention first because it does not matter what kind of backup software or hardware you have if you do not use it.</p>
+        <p>Vincent Weafer of the Symantec Antivirus Research Center spends most of his time thinking of ways to prevent viruses from getting into computers in the first place, but he also stresses that a reliable backup plan is essential to computer security. The important points to keep in mind, he said, are the following:</p>
+        <p>* The backup process has to be easy.</p>
+        <p>* It has to be regular.</p>
+        <p>* The backup files have to be stored away from the computer.</p>
+        <p>* Backup software must be tested periodically, before it is needed.</p>
+        <p>Many people avoid contemplating the horror of losing weeks', months' or even years' worth of data. As Samuel Johnson said, ''Nothing focuses the mind as sharply as the news that one will be executed in a few days.'' Pretend that a virus will execute your computer tomorrow at dawn. Are you focused?</p>
+        <p>The best backup strategy is the one that you will use the most. If the process is too complicated, the temptation will be to skip it.</p>
+        <p>Nurture the discipline to make a backup schedule and stick to it. Decide how much work you can afford to lose. A week's worth? Then schedule a backup session once a week, and make it a ritual.</p>
+        <p>Do not store the backup files on the same computer, or even in the same room, with the original files. The best strategy is to keep at least one full backup of your files in some other place, just in case. It is more work, and you will be lucky if it is wasted effort, but it is prudent to make at least two copies of each backup. Keep one near you, and entrust the other to someone somewhere else.</p>
+        <p>When a patient asks a dentist, ''Do I have to floss all my teeth?'' the dentist usually responds, ''No, only the ones you want to keep.'' The same holds true for backing up computer files. Back up only the ones you would hate to lose.</p>
+        <p>You do not need to back up the actual application programs, assuming you have a legal copy of the software and kept the original disks as you were supposed to do. If you were using a bootlegged copy of the application, viruses can be seen as cosmic retribution.</p>
+        <p>And do not neglect the final step: test your backup system. Try to reinstall the backup files.</p>
+        <p>Years ago I diligently made sets of backup disks using a popular backup program. When the day of reckoning finally came, the result of a failed hard disk, the backup program informed me that it could not decompress the files it had compressed. My backups were in vain.</p>
+        <p>In the case of a virus, do not try to reload your backup files on the infected computer until you are positive that it has been thoroughly disinfected and protected. If the virus is still lurking on the system, it will corrupt the backup disks immediately.</p>
+        <p>The ''I Love You'' virus, also known as the Love Bug or the Love Letter worm, infected tens of thousands of Windows-based computers around the world in the past week. If you have not received one of those love letters, please do not feel unloved. There is nothing affectionate about the virus.</p>
+        <p>Reading the poisoned E-mail is harmless, but opening the attached file leads to heartbreak, or at least heartburn. Once unleashed, the virus burrows into the roots of the PC, where it tries to steal passwords and return them to an e-mail address in the Philippines. Meanwhile, it rummages though the victim's Microsoft Outlook address book and sends a copy of itself to everyone listed there. That is why the virus files appeared to come from friends and acquaintances, and why they quickly clogged computer systems around the world.</p>
+        <p>The virus does some immediate damage, too. It hides the victim's MP3 music files, which is annoying, but it also trashes any JPEG graphics files it finds by overwriting them. While the music files can often be recovered, digital photos and graphics are usually lost.</p>
+        <p>On the bright side, however, it probably destroyed a significant portion of the world's reservoirs of digital pornography and bootlegged Metallica music files.</p>
+        <p>There is absolutely no evidence to suggest that these latest viruses were deliberately released into the wild by law enforcement agencies, the music industry or the makers of antivirus software, although a cynical paranoid might note that each benefited immensely from the rapid spread of the viruses over the Net.</p>
+        <p>MP3 music files are clogging computer systems on college campuses around the world. The record industry and some musicians, like the heavy-metal band Metallica, are upset that pirates are trading MP3 recordings of their music over the Net without paying royalties. The release of a global MP3-killer virus as a tactical weapon would have a much more immediate effect than lawsuits in destabilizing the file format.</p>
+        <p>Similarly, there are vast collections of innocent, perfectly legal JPEG graphics files on computers around the world, but the same file format is popular for distributing pornography over the Internet. A virus designed to attack specific file formats, or to search for and destroy files containing certain keywords, could be an interesting tool for law enforcement agencies.</p>
+        <p>As it happens, the Love Bug virus merely hides the MP3 files, making them invisible. Before you despair over losing all the MP3 files you have lovingly collected in the last year or two, go into Windows, click on My Computer, click View, click Folder Options, click View and check ''show hidden files.'' Chances are your Metallica files are still there.</p>
+        <p>Next week: Hardware and software for backing up files.</p>
+        <p>STATE OF THE ART  Correction:  May 15, 2000, Monday  The State of the Art column in Circuits on Thursday, about the need to back up computer files, invoked a 1777 aphorism from Samuel Johnson incorrectly. He said, ''Depend upon it, Sir, when a man knows he is to be hanged in a fortnight, it concentrates his mind wonderfully'' (not, ''Nothing focuses the mind as sharply as the news that one will be executed in a few days'').</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: May 15, 2000, Monday</p>
+        <p>The State of the Art column in Circuits on Thursday, about the need to back up computer files, invoked a 1777 aphorism from Samuel Johnson incorrectly. He said, ''Depend upon it, Sir, when a man knows he is to be hanged in a fortnight, it concentrates his mind wonderfully'' (not, ''Nothing focuses the mind as sharply as the news that one will be executed in a few days'').</p>
+        <p>&lt;br&gt;</p>
+        <p>&lt;br&gt;</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

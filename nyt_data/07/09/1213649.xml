@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Person</title>
+    <meta content="MB002113" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213649"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="IN BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Westchester Education Coalition</org>
+        <org class="indexing_service">Manhattanville College</org>
+        <org class="indexing_service">White Plains Hospital Center</org>
+        <org class="indexing_service">Westchester County Medical Society</org>
+        <person class="indexing_service">Berman, Richard a</person>
+        <person class="indexing_service">Liebert, Peter S (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000709T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800EFDC1438F93AA35754C0A9669C8B63" item-length="78" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Person</hl1>
+      </hedline>
+      <abstract>
+        <p>Manhattanville College president Richard A Berman is appointed Westchester Education Coalition board chairman; White Plains Hospital Center chief of pediatric surgery Peter S Liebert is appointed president of Westchester County (NY) Medical Society (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Richard A. Berman, president of Manhattanville College in Purchase, has been named chairman of the board of directors of the Westchester Education Coalition, a nonprofit partnership of schools, colleges, government and business. . . . Dr. Peter S. Liebert, chief of pediatric surgery at White Plains Hospital Center, is the new president of the Westchester County Medical Society.</p>
+      </block>
+      <block class="full_text">
+        <p>Richard A. Berman, president of Manhattanville College in Purchase, has been named chairman of the board of directors of the Westchester Education Coalition, a nonprofit partnership of schools, colleges, government and business. . . . Dr. Peter S. Liebert, chief of pediatric surgery at White Plains Hospital Center, is the new president of the Westchester County Medical Society.</p>
+        <p>IN BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

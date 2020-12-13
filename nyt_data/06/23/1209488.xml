@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DINER'S JOURNAL</title>
+    <meta content="23JOUR$01" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="41" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209488"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <location class="indexing_service">Chelsea (NYC)</location>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Porters New York (Restaurant)</org>
+        <person class="indexing_service">Grimes, William</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Diner's Journal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000623T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E2DC1131F930A15755C0A9669C8B63" item-length="444" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DINER'S JOURNAL</hl1>
+      </hedline>
+      <byline class="print_byline">By William Grimes</byline>
+      <byline class="normalized_byline">Grimes, William</byline>
+      <abstract>
+        <p>William Grimes Diner's Journal review of Porters New York in Chelsea; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The glamour index seems to be inching up in Chelsea, which has been strangely resistant to fine dining over the years. Neighborhood residents have preferred loose, casual spots and a sprinkling of scene restaurants, but Porters New York maintains the neighborhood feel while making a bid for stylishness in food and decor. At Porters, the owners of Il Valentino in the Sutton Hotel have come up with a look that might be called ocean liner Deco, with floor-to-ceiling wood paneling, narrow curtains and cylindrical light fixtures. The spell is broken by a loud soundtrack that includes rousers like ''The Wind Beneath My Wings.''</p>
+        <p>Mo Ousti, who cooked most recently at the MGM Grand in Las Vegas, adds a restrained internationalism to an essentially American menu. The very good, very hefty crab cakes, highlighted as a house specialty, come with a papaya and coriander salsa, warmed with a touch of chili oil. The obligatory seafood tartare takes a slightly unusual turn. Mr. Ousti wraps it in smoked salmon and surrounds it with a coulis of roasted beets. Other appetizers include warm oysters on spinach with truffle sabayon, and duck foie gras glazed with Calvados and served with an apple-cranberry compote.</p>
+      </block>
+      <block class="full_text">
+        <p>The glamour index seems to be inching up in Chelsea, which has been strangely resistant to fine dining over the years. Neighborhood residents have preferred loose, casual spots and a sprinkling of scene restaurants, but Porters New York maintains the neighborhood feel while making a bid for stylishness in food and decor. At Porters, the owners of Il Valentino in the Sutton Hotel have come up with a look that might be called ocean liner Deco, with floor-to-ceiling wood paneling, narrow curtains and cylindrical light fixtures. The spell is broken by a loud soundtrack that includes rousers like ''The Wind Beneath My Wings.''</p>
+        <p>Mo Ousti, who cooked most recently at the MGM Grand in Las Vegas, adds a restrained internationalism to an essentially American menu. The very good, very hefty crab cakes, highlighted as a house specialty, come with a papaya and coriander salsa, warmed with a touch of chili oil. The obligatory seafood tartare takes a slightly unusual turn. Mr. Ousti wraps it in smoked salmon and surrounds it with a coulis of roasted beets. Other appetizers include warm oysters on spinach with truffle sabayon, and duck foie gras glazed with Calvados and served with an apple-cranberry compote.</p>
+        <p>Porterhouse steak, also flagged on the menu as a house specialty (the echo of Porters was too good to pass up), made a weak showing. The meat seemed to have the flavor intensity of a hamburger patty distributed over a much larger area, and its pinot noir reduction had failed to reduce. But fish comes to the rescue, led by Chilean sea bass on basmati rice with wilted spinach and mango coulis, and miso salmon served with soba noodles and braised bok choy.</p>
+        <p>It's all or nothing on the dessert front -- either dainty sorbets or big-calorie items like a dark chocolate mousse cake with Jack Daniels syrup or Bavarian cream cake served with custard sauce. In this case, its worth giving in to one's weaknesses.</p>
+        <p>Porters New York, 216 Seventh Avenue, near 22nd Street, Chelsea; (212) 229-2878. Dinner entrees, $18 to $28.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

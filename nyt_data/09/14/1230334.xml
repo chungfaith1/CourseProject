@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Helping a Palm Pilot Get Itself in Sync</title>
+    <meta content="14ASKK$02" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/14/technology/14ASKK.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1230334"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000914T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03EFD61438F937A2575AC0A9669C8B63" item-length="670" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Helping a Palm Pilot Get Itself in Sync</hl1>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. I recently purchased a Palm V organizer and installed the appropriate software in my computer, but I was unable to synchronize the Palm functions with the PC. How do I remedy the situation?</p>
+        <p>A. There could be a number of  things that are causing the communications problem between the Palm organizer and the desktop computer. Many problems with getting Palm's HotSync software to work smoothly can be traced to the computer's COM ports, especially if you have other programs using them.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. I recently purchased a Palm V organizer and installed the appropriate software in my computer, but I was unable to synchronize the Palm functions with the PC. How do I remedy the situation?</p>
+        <p>A. There could be a number of  things that are causing the communications problem between the Palm organizer and the desktop computer. Many problems with getting Palm's HotSync software to work smoothly can be traced to the computer's COM ports, especially if you have other programs using them.</p>
+        <p>After you have made sure that the Palm's cradle is firmly connected to the back of the computer, check to see whether the HotSync Manager program is running. Look for a little red-and-blue HotSync icon on your system tray, then open it and check the Setup options in the menu to make sure that you have directed the HotSync program to use an available COM port. That port cannot be the same one that your internal modem uses and it cannot have the same IRQ (Interrupt Request) value as your computer's mouse or any other hardware device.</p>
+        <p>There are probably too many unknown factors to diagnose the precise reason for the HotSync problem here. Palm says that simply quitting and restarting the HotSync Manager program will sometimes fix the problem. Palm's Web site, however, has a very detailed section on how to troubleshoot HotSync problems on both the Windows and Macintosh platforms (www.palm.com/support /hotsync.html). The page also contains links to documents about COM port management for the Palm, problems with the U.S.B. version of the HotSync software and Mac OS 9.0.4., and a host of other platform-related issues.</p>
+        <p>Q. When I play CD-ROM programs on my computer, they seem to stutter. Is that a mechanical problem with the CD drive?</p>
+        <p>A. It could be a mechanical problem, but you might try cleaning the lens on the CD-ROM drive first to see whether that helps with the skipping. The CD player reads the disks with an optical lens, and things like dust, dirt and pet hair can get sucked inside the computer and wind up on the lens. If the lens is blocked by dirt, it cannot read the disk accurately, and that causes skipping or stuttering.</p>
+        <p>One of the easiest ways to clean the drive is to purchase a special lens-cleaner CD from a computer or electronics store. These cleaning disks, which cost around $10 apiece and can be used repeatedly, usually have tiny brushes embedded on the underside that can sweep accumulated debris off the lens.</p>
+        <p>Q. Some World Wide Web addresses have ''www'' in them, but I've seen some that have ''www2'' instead, and I land there even if I type ''www'' in the address. Why?</p>
+        <p>A. The ''www'' is a common Internet standard indicating that the computer you're trying to reach is a Web server. But it is not mandatory, and it is not part of the site's domain name, which is the main part of a Web address, like rockthevote.com.</p>
+        <p>Depending on how the site was set up, ''www'' may be a required part of the U.R.L., or you may not even have to type it. Some sites don't even have it in their addresses. Many just set set up electronic pointers that will direct you to the right page, no matter what variation of the domain name you type.</p>
+        <p>When you see ''www2'' or something similar in a Web address, odds are that the site had multiple servers with the same content, and you were just redirected to another server in the site's fleet.</p>
+        <p>Some Web browsers, like the current versions of Netscape Navigator and Microsoft Internet Explorer, will helpfully insert the ''http://www.'' and the ''.com'' for you. If you use one of these browsers, you can type ''nytimes,'' for example, in the address box and it will take you to www.nytimes.com.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

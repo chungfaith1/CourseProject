@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Support for the Psion</title>
+    <meta content="LTR231558" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1207576"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Personal Computers</classifier>
+        <org class="indexing_service">Psion Plc</org>
+        <person class="indexing_service">Miner, Ilene</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E7DC113EF936A25755C0A9669C8B63" item-length="175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Support for the Psion</hl1>
+      </hedline>
+      <abstract>
+        <p>Ilene Miner letter praises her Psion 7 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The column about the Psion 7 did not quite do it justice (State of the Art, ''Neither Notebook Nor Palm,'' June 8). I have been a Psion user for four years. I have a Psion 5mx, which has the same software as the 7 but is smaller. I call it my auxiliary brain. The beauty of Psion is the huge number of shareware and freeware programs available. My 5mx replaced my laptop years ago. It is sad that these products attract so little attention in the United States. Imagine a product that powers on in an instant and just doesn't crash.</p>
+        <p>ILENE MINER  New York City</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The column about the Psion 7 did not quite do it justice (State of the Art, ''Neither Notebook Nor Palm,'' June 8). I have been a Psion user for four years. I have a Psion 5mx, which has the same software as the 7 but is smaller. I call it my auxiliary brain. The beauty of Psion is the huge number of shareware and freeware programs available. My 5mx replaced my laptop years ago. It is sad that these products attract so little attention in the United States. Imagine a product that powers on in an instant and just doesn't crash.</p>
+        <p>ILENE MINER  New York City</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Police Commissioner Has Prostate Cancer</title>
+    <meta content="10X2SAFI" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1198363"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000510T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903EFDC1E38F933A25756C0A9669C8B63" item-length="130" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Police Commissioner Has Prostate Cancer</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Just a week and a half after his boss, the mayor, made the same announcement, Police Commissioner Howard Safir said yesterday that he had prostate cancer. That two high-profile officials were told within days of each other that they had the disease illustrates the prevalence of prostate cancer, the second most common type of cancer in men.</p>
+        <p>Article, Page B1.</p>
+      </block>
+      <block class="full_text">
+        <p>Just a week and a half after his boss, the mayor, made the same announcement, Police Commissioner Howard Safir said yesterday that he had prostate cancer. That two high-profile officials were told within days of each other that they had the disease illustrates the prevalence of prostate cancer, the second most common type of cancer in men.</p>
+        <p>Article, Page B1.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

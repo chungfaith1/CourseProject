@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR010439" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1236024"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Politics and Government</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Religion and Churches</classifier>
+        <person class="indexing_service">Finn, David</person>
+        <person class="indexing_service">Jain, Bawa</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001004T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E6DF1E3DF937A35753C1A9669C8B63" item-length="98" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Aug 26 profile of Bawa Jain, which referred incorrectly to David Finn, whose company helped organize Millennium World Peace Summit of Religious and Spiritual Leaders; he co-founded company</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Public Lives profile on Aug. 26 about Bawa Jain, general secretary of the Millennium World Peace Summit of Religious and Spiritual Leaders, held at the United Nations, referred incorrectly to David Finn, whose company helped organize it.  He is a co-founder of Ruder Finn public relations, with William Ruder -- not the sole founder. A reader's letter dated Sept. 13 pointed out the error; this correction was delayed by an editing lapse.</p>
+      </block>
+      <block class="full_text">
+        <p>A Public Lives profile on Aug. 26 about Bawa Jain, general secretary of the Millennium World Peace Summit of Religious and Spiritual Leaders, held at the United Nations, referred incorrectly to David Finn, whose company helped organize it.  He is a co-founder of Ruder Finn public relations, with William Ruder -- not the sole founder. A reader's letter dated Sept. 13 pointed out the error; this correction was delayed by an editing lapse.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

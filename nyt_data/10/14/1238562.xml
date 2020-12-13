@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hard Way, Easy Way, It's All The Same to the Computer</title>
+    <meta content="14CARD$01" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Arts &amp; Ideas/Cultural Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1238562"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BRIDGE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bridge (Card Game)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Truscott, Alan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Bridge</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridge (Card Game)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001014T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E0DB123FF937A25753C1A9669C8B63" item-length="617" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hard Way, Easy Way, It's All The Same to the Computer</hl1>
+      </hedline>
+      <byline class="print_byline">By Alan Truscott</byline>
+      <byline class="normalized_byline">Truscott, Alan</byline>
+      <abstract>
+        <p>Alan Truscott article on hand played by computers at recent World Computer Bridge Championship, Maastricht, Netherlands; diagram (M)�</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The closest finish in any of the world championships decided last month in Maastricht, the Netherlands, attracted no attention at all, perhaps because there were no emotional humans loudly proclaiming victory. It was the World Computer Bridge Championship, organized by Al Levy of Stony Brook, N.Y.</p>
+        <p>There were nine contestants, two each from the United States and Britain, and one each from Canada, France, Germany, Japan and the Netherlands. GIB, the American program that had won a similar event in Bermuda seven months earlier, did not compete.</p>
+      </block>
+      <block class="full_text">
+        <p>The closest finish in any of the world championships decided last month in Maastricht, the Netherlands, attracted no attention at all, perhaps because there were no emotional humans loudly proclaiming victory. It was the World Computer Bridge Championship, organized by Al Levy of Stony Brook, N.Y.</p>
+        <p>There were nine contestants, two each from the United States and Britain, and one each from Canada, France, Germany, Japan and the Netherlands. GIB, the American program that had won a similar event in Bermuda seven months earlier, did not compete.</p>
+        <p>The program from Germany, Hans Leber's Q-Plus Bridge, led by 3 imps in the 62-board final with one deal remaining. But Rodney Ludwig's Meadowlark Bridge gained 5 imps on the final deal to snatch the title. Those interested in the winning program can get it on the Internet at rrnet.com/meadowlark.</p>
+        <p>The diagramed deal was played in the qualifying stage between two of the programs that did not reach the final. The North-South cards were held by the Dutch program, Hans Kuijf's Jack, and another American program, Stephen Smith and George Yanakiev's Bridge Baron.</p>
+        <p>South had a bidding problem after responding one spade to one club and having a pre-emptive jump of three diamonds passed back to it. Most humans would double, leaving North to make a final decision. That might be a penalty pass, collecting 300, or three no-trump.</p>
+        <p>In the no-trump game, North would have much to think about after the diamond jack was led, but would survive whether or not it won the first trick. In practice South jumped to four spades, breaking the rule that requires six cards to rebid a suit without indication of support.</p>
+        <p>The diamond ace was led and the diamond queen followed. A low diamond would have carried the right suit preference message for clubs, but would have allowed South to play low and preserve the king as a winner. Dummy's king was duly played and ruffed, and East did not find the decisive move of cashing the club ace and giving its partner a ruff. Instead it led a safe-looking trump to dummy's king.</p>
+        <p>South could now have drawn trumps and led a club to the queen effectively, but it did not wish to stake everything on a heart finesse as well as a well-placed club jack.</p>
+        <p>Assuming apparently that if the defenders had not taken a club ruff there was not one to take, it led a club and finessed the ten successfully. East had missed another chance to give its partner a club ruff.</p>
+        <p>Now South pulled trump, throwing a heart from the dummy. South had won four tricks and the position was this:</p>
+        <p>ILL: Diagram</p>
+        <p>At this point a human player would certainly have led the club king. East is then endplayed whether he wins this trick or, after holding up, wins the next club.</p>
+        <p>The Jack in the South seat did something weird: It led a low club to the queen. It had found another road to success. East won and returned a club, after which two trump leads produced a double squeeze, with hearts as the pivot suit, to make the game.</p>
+        <p>It seems simple plays and complex plays are all the same to a computer. Perhaps, like some humans, it chooses complex ones in the hope of getting into a newspaper column. That is a scary thought.</p>
+        <p>BRIDGE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

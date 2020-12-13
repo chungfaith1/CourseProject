@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>America the Connected</title>
+    <meta content="23OPDMT" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209669"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000623T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E7DB1630F930A15755C0A9669C8B63" item-length="298" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>America the Connected</hl1>
+      </hedline>
+      <byline class="print_byline">By Andrew Kohut</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Wired In:  79% of Americans have cable or satellite television.  59% have home computers.  53% have cell phones.  29% log on to the Internet on a typical day.  16% have DVD players.  12% have personalized Web pages for their investment portfolios.  7% get financial news from wireless devices.</p>
+      </block>
+      <block class="full_text">
+        <p>Wired In:  79% of Americans have cable or satellite television.  59% have home computers.  53% have cell phones.  29% log on to the Internet on a typical day.  16% have DVD players.  12% have personalized Web pages for their investment portfolios.  7% get financial news from wireless devices.</p>
+        <p>Tuned Out:  84% are not paying a lot of attention to the Microsoft breakup.  71% are unaware of the federal budget surplus.  56% have no idea who Alan Greenspan is.  50% follow national news only when ''something'' is happening.  38% believe that Washington issues do not affect them personally.</p>
+        <p>All Antennae Up and Glowing:  33% of Americans both like the news a lot and like all the new ways they can get it.</p>
+        <p>Andrew Kohut is the director of the Pew Research Center for People and the Press.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Andrew Kohut is the director of the Pew Research Center for People and the Press.</tagline>
+    </body.end>
+  </body>
+</nitf>

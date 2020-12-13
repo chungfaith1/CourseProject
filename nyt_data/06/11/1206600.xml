@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Last Refuge</title>
+    <meta content="11KRUG$01" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1206600"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="RECKONINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Antitrust Actions and Laws</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Microsoft Corp</org>
+        <org class="indexing_service">Justice Department</org>
+        <person class="indexing_service">Krugman, Paul</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Paul Krugman</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Antitrust Actions and Laws</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE3DC1F3FF932A25755C0A9669C8B63" item-length="713" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Last Refuge</hl1>
+      </hedline>
+      <byline class="print_byline">By PAUL KRUGMAN</byline>
+      <byline class="normalized_byline">Krugman, Paul</byline>
+      <abstract>
+        <p>Paul Krugman Op-Ed column contends antitrust ruling ordering breakup of Microsoft Corp brushes aside conventional economic analysis of costs and benefits in favor of guesses about their effects of policy on technological innovation; predicts well-understood conventional costs of proposal may be compounded by unconventional costs, rather than offset by unconventional benefits, given that we do not know much about what promotes innovation</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>On Wednesday Judge Thomas Penfield Jackson ordered a breakup of Microsoft along the lines proposed by the Justice Department. In so doing he in effect dismissed concerns about the economic impact of such a breakup, and accepted the claim by Justice that splitting up Microsoft would accelerate innovation.</p>
+        <p>On the same day, technology guru Nicholas Negroponte, speaking in London, bitterly attacked Britain's recent auction of licenses for next-generation mobile telecommunications. Although selling the licenses to the highest bidders has enriched Her Majesty's Treasury by $35 billion, he argued that they should instead have been given to firms that would do best in ''stimulating innovation, stimulating the economy, stimulating the whole telecommunications process.'' And last week the French decided not to emulate Britain's auction, instead allocating licenses in a ''beauty contest'' (their phrase!) based on ''merit.''</p>
+      </block>
+      <block class="full_text">
+        <p>On Wednesday Judge Thomas Penfield Jackson ordered a breakup of Microsoft along the lines proposed by the Justice Department. In so doing he in effect dismissed concerns about the economic impact of such a breakup, and accepted the claim by Justice that splitting up Microsoft would accelerate innovation.</p>
+        <p>On the same day, technology guru Nicholas Negroponte, speaking in London, bitterly attacked Britain's recent auction of licenses for next-generation mobile telecommunications. Although selling the licenses to the highest bidders has enriched Her Majesty's Treasury by $35 billion, he argued that they should instead have been given to firms that would do best in ''stimulating innovation, stimulating the economy, stimulating the whole telecommunications process.'' And last week the French decided not to emulate Britain's auction, instead allocating licenses in a ''beauty contest'' (their phrase!) based on ''merit.''</p>
+        <p>What do these stories have in common? In each case conventional economic analysis of costs and benefits has been brushed aside, in favor of guesses about the effects of policy on technological innovation.</p>
+        <p>In the case of the Microsoft decision, textbook economics says that a breakup of the kind now ordered, aside from disrupting the firm itself, will actually exacerbate the problem of monopoly power, raising prices and increasing market distortions. But Justice has argued -- and convinced Judge Jackson -- that these conventional costs are outweighed by what it expects to be increased incentives to innovate.</p>
+        <p>In the case of telecom licenses, textbook economics says that the way to ensure efficient use of a scarce resource is to sell rights to that resource to the highest bidders. But Mr. Negroponte and the French government have argued instead that governments should try to judge on other criteria who will do the most good with those rights, even if this involves an implicit multibillion-dollar handout of taxpayer money.</p>
+        <p>Now in both cases the opponents of conventional economic reasoning might be right. But on the other hand they might be utterly wrong -- that is, instead of offsetting the well-understood conventional costs of their proposals with unconventional benefits, they may be compounding them with unconventional costs. The truth is that we don't know very much about what promotes innovation, and even some of what we think we know may not be true. For example, advocates of the breakup of Microsoft like to point to the breakup of AT&amp;T, which everyone thinks was purely positive in its effects on innovation. It's a bad parallel in many ways, but still it is interesting to notice that next-generation telecommunications is not yet a hot issue in the United States, because thanks to the fragmentation of our cellular system we are lagging well behind Europe and Japan in mobile phone technology. And that fragmentation is in part a legacy of the AT&amp;T breakup.</p>
+        <p>My point is not that it is wrong to consider the impact of policy on innovation; it is that because the determinants of innovation are not well understood, clever advocates can invoke technological progress as an all-purpose justification for whatever policy they favor. In times past the case against Microsoft might have been overtly populist, with Rooseveltian tirades against ''malefactors of great wealth.'' But these days we're supposed to approve of entrepreneurs who get rich. So even though much of the real animus against Microsoft involves fear of its power and wealth -- remember the T-shirts showing Bill Gates as a Borg, with the caption ''Resistance is futile. Prepare to be assimilated'' -- the official argument for breakup claims that splitting Microsoft will be good for technology.</p>
+        <p>And everyone knows that France's ''beauty contest'' will, not incidentally, give an advantage to French companies over other European firms that would have been able and willing to pay more. In times past the French would have openly admitted their preference for ''national champions,'' but in these days of European unity such language would be diplomatically incorrect. So officially this policy, too, is all about promoting technology.</p>
+        <p>In short, the promise of technological benefits has become the universal policy justification. Does a proposal seem to cost taxpayers billions or raise prices to consumers? Never mind -- it will promote innovation! And maybe it will; or maybe in the 21st century, technology, not patriotism, has become the last refuge of a scoundrel.</p>
+        <p>RECKONINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

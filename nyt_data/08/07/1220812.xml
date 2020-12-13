@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dividend Meetings</title>
+    <meta content="07DIVI" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1220812"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000807T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E0DC133CF934A3575BC0A9669C8B63" item-length="244" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dividend Meetings</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A partial list for this week.</p>
+        <p>MONDAY  Green Mountain Pwr Corp  HON Inds Inc  Jefferson Pilot Corp  New Plan Excel Rlty Tr Inc  OM Group Inc  Protective Life Corp  Source Cap Inc  Teleflex Inc</p>
+      </block>
+      <block class="full_text">
+        <p>A partial list for this week.</p>
+        <p>MONDAY  Green Mountain Pwr Corp  HON Inds Inc  Jefferson Pilot Corp  New Plan Excel Rlty Tr Inc  OM Group Inc  Protective Life Corp  Source Cap Inc  Teleflex Inc</p>
+        <p>TUESDAY  Airborne Fght Corp  Fair Isaac &amp; Co Inc  Insteel Inds Inc  Questar Corp  Republic Group Inc  Urban Shopping Ctrs Inc</p>
+        <p>WEDNESDAY  Bay View Cap Corp Del  Caterpillar Inc  Harman Intl Inds Inc  New Leggett &amp; Platt Inc  Liberty Finl Cos Inc  Meredith Corp  Newell Rubbermaid Inc  Penn-Amer Group Inc  USG Corp  Wynn's Intl Inc</p>
+        <p>THURSDAY  Allegheny Technologies Inc  Current Income Shs Inc  Finova Group Inc  Marshall &amp; Ilsley Corp  Maytag Corp  Petroleum &amp; Res Corp  Tupperware Corp  Universal Corp Va  Westpoint Stevens Inc</p>
+        <p>FRIDAY  Avista Corp  Dain Rauscher Corp  Illinois Tool Wks Inc</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nothing Lasts Forever</title>
+    <meta content="10CATS$01" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1229309"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEIGHBORHOOD REPORT: THEATER DISTRICT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <person class="indexing_service">Kelly, Sean</person>
+        <object.title class="indexing_service">Cats (Play)</object.title>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000910T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02EEDB1339F933A2575AC0A9669C8B63" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nothing Lasts Forever</hl1>
+      </hedline>
+      <byline class="print_byline">By Sean Kelly</byline>
+      <byline class="normalized_byline">Kelly, Sean</byline>
+      <abstract>
+        <p>Sean Kelly cartoon showing cat character refusing to leave Winter Garden Theater marquee as final show plays</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>NEIGHBORHOOD REPORT: THEATER DISTRICT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

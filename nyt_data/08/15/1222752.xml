@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="15INSI" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1222752"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000815T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E7D7113FF936A2575BC0A9669C8B63" item-length="214" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>U.N. Moves on Sierra Leone  The Security Council agreed to establish a war crimes tribunal for Sierra Leone, where rebel armies have tortured civilians, severed limbs and destroyed villages to intimidate the populace.</p>
+        <p>PAGE A6</p>
+      </block>
+      <block class="full_text">
+        <p>U.N. Moves on Sierra Leone  The Security Council agreed to establish a war crimes tribunal for Sierra Leone, where rebel armies have tortured civilians, severed limbs and destroyed villages to intimidate the populace.</p>
+        <p>PAGE A6</p>
+        <p>Last Czar Is Canonized  Responding to right-wing demands, the Russian Orthodox Church canonized Nicholas II for his forbearance when the Bolsheviks held and executed him 82 years ago.</p>
+        <p>PAGE A7</p>
+        <p>No I.R.S. Complaint Upheld  Not one of the first 830 complaints of taxpayer harassment filed under a new law has been upheld by the I.R.S. or its watchdog.</p>
+        <p>PAGE C1</p>
+        <p>Jewish Memorial Struggles  Eleven years after it was approved, the Jewish Museum in Berlin is still not open, plagued by conflicts within the institution and the city.</p>
+        <p>PAGE E1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Keeping Domain Names On Ice for Eventual Use</title>
+    <meta content="11ASKK" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1198496"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000511T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CEFD61E38F932A25756C0A9669C8B63" item-length="850" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Keeping Domain Names On Ice for Eventual Use</hl1>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q.  What is the difference between registering a domain name and reserving one?</p>
+      </block>
+      <block class="full_text">
+        <p>Q.  What is the difference between registering a domain name and reserving one?</p>
+        <p>A.  If you go to a registration company like Network Solutions to buy a name for your Web site but don't yet have the host servers set up for your site, you can reserve the domain name of your choice so it will be there when you are ready to set up the site. If you already have your Web host servers in place, you can register the domain name and provide the domain-name company with the technical information about your host server that it needs for registration. Some registration companies will let you register the name even if you don't have your host information and will hold it for you until you are ready.</p>
+        <p>Register.com, another company that sells domain names, recently announced a Domain Lock Down service for corporate customers. The service, which costs $99, provides security against those who might try to tamper with or hijack a registered name.</p>
+        <p>Q.  I have a Macintosh and use Netscape to browse the Web. When I have tried to start Netscape lately, it has begun to open, then crashed. I haven't installed any new software that might be conflicting with it, and nothing on my system is different.</p>
+        <p>A.  There are a number of factors that could be affecting your browser, but there is a quick fix to try before picking up the phone to call for tech support. The Preferences file for your Netscape software may have become corrupted, and that could cause it to shut down almost as soon as it starts up.</p>
+        <p>Double-click on your Mac's hard drive icon and find the System Folder. Inside that is a folder called Preferences; in there you will see a folder called Netscape. Inside that will be a file called Netscape Preferences. Drag that file to your desktop, and retart your Mac.</p>
+        <p>Try to start Netscape as you usually would and see if it opens properly. If it does, then your old Preferences file was probably corrupted, and you can throw out the one on your desktop. Netscape will create a new Preferences file if it doesn't find one in the System Folder. One side effect of discarding your Preferences file, though, is that your custom settings (including your choice of home page and font size) will return to the default settings, so you will have to reset them.</p>
+        <p>Q.  What is the minimum software I would need to make my own Web pages?</p>
+        <p>A.  If you want to take the time to learn HyperText Markup Language (HTML), the code used to create Web pages, you can get by with just a basic text editor like the Windows WordPad or the SimpleText program that comes with each Macintosh. You can view your Web pages with any Web browser, and you may want to get an image-editing program for use with graphics and pictures on your page. A file transfer program like WS-FTP for Windows (or Fetch for the Mac) will be needed to upload your finished pages to your Web server.</p>
+        <p>Most people would rather not have to learn HTML, and there are plenty of commercial programs available that will let you create your Web pages by dragging and dropping objects and type onto a page layout. These programs convert your creations into the HTML code, and some also include site-management tools that help you keep track of all the pages on your site. GoLive from Adobe Systems and HomeSite from Allaire are two options. Programs like Complete Web Studio by Sierra Home are aimed at home users and simplify the process even more.</p>
+        <p>The latest versions of Microsoft Word for both Mac and Windows will let you save Word documents as HTML files. Many Internet service providers like America Online will not only give you space on their servers to keep your Web pages but also offer you simple programs to help you create your own pages.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Circuits invites questions about computer-based technology, by mail to Questions, Circuits, The New York Times, 229 West 43rd Street, New York, N.Y. 10036-3959, or by e-mail to QandA@nytimes.com.</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

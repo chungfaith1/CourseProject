@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Critic Sees Flaws in Microsoft's Strategy</title>
+    <meta content="19GALE$01" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208668"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">Microsoft Corp</org>
+        <person class="indexing_service">Markoff, John</person>
+        <person class="indexing_service">Gelernter, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E4D81431F93AA25755C0A9669C8B63" item-length="961" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Critic Sees Flaws in Microsoft's Strategy</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <abstract>
+        <p>Computer scientist David Gelernter says Microsoft's new push to shift locus of computing off desktop to large server computers located on Internet in bid to maintain central role for Microsoft software may be defensive plan that misjudges computer industry's future direction, phone interview; says computing, rather than moving to increasingly Web-centric model, is becoming decentralized, with key data distributed among millions of desktop computers; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As Microsoft prepares to announce its Next Generation Windows Services initiative this week, an influential computer scientist is circulating a thesis that challenges William H. Gates's vision of the future.</p>
+        <p>On Thursday, Microsoft plans to describe its most radically new computing strategy since December 1995, when Mr. Gates, the Microsoft chairman, announced the ''embrace and extend'' strategy to expand the company's dominance of desktop computing to include the Internet.</p>
+      </block>
+      <block class="full_text">
+        <p>As Microsoft prepares to announce its Next Generation Windows Services initiative this week, an influential computer scientist is circulating a thesis that challenges William H. Gates's vision of the future.</p>
+        <p>On Thursday, Microsoft plans to describe its most radically new computing strategy since December 1995, when Mr. Gates, the Microsoft chairman, announced the ''embrace and extend'' strategy to expand the company's dominance of desktop computing to include the Internet.</p>
+        <p>Microsoft will now push to shift the locus of computing off the desktop altogether -- and out into a ''cloud'' of large server computers located on the Internet. But the goal is the same as the one laid out five years ago: maintaining a central role for Microsoft's software.</p>
+        <p>This time, though, an influential critic is arguing that Microsoft's new strategy may be a defensive plan that misjudges the computer industry's future direction -- that rather than moving to an increasingly Web-centric model, computing is instead becoming decentralized, with the key information distributed among millions of desktop computers.</p>
+        <p>''It sounds as if Microsoft is scared and defensive,'' the critic, David Gelernter, said in a telephone interview last week.</p>
+        <p>''Microsoft has based its reputation on refusing to lead and always following, and once again they're behind the wave here,'' said Mr. Gelernter, a respected Yale University computer scientist. ''More and more people are coming to understand that the power of desktop machines is enormous and is largely wasted when you spend your time browsing on the Web.''</p>
+        <p>Mr. Gelernter's argument is spelled out in ''The Second Coming -- a Manifesto,'' an essay published last week in the German newspaper Frankfurter Allgemeine Zeitung, and posted on the Edge, a technology forum on the Web (www.edge.org).</p>
+        <p>Mr. Gelernter's critique has some influential supporters, including  Danny Hillis, a computer scientist who recently left Walt Disney's Imagineering research group to form a new company, Applied Minds; David Ditzel, a computer designer who is the founder of Transmeta Inc., a Silicon Valley microprocessor company; and Rodney Brooks, director of the Massachusetts Institute of Technology's Artificial Intelligence Laboratory.</p>
+        <p>''David's criticisms of our current computing environments are eloquently stated, and I think widely shared,'' Mr. Brooks wrote in a recent comment posted on the Internet.</p>
+        <p>But Microsoft's head of research, Rick Rashid, countered that Mr. Gelernter was taking a long-term view of computing that might have little relevance for the current software market. ''It's fairly predictable that David would be saying this,'' said Mr. Rashid, a Microsoft senior vice president. ''This has been his mantra throughout his career.''</p>
+        <p>''Second Coming,'' a 10,000-word essay, contends that rather than remaining a world that Microsoft or any company might dominate, computing is actually shifting to a world in which data and computer processing will be increasingly spread across thousands, if not millions, of interconnected computers.</p>
+        <p>''Information travels through a sea of anonymous, interchangeable computers like a breeze through tall grass,'' Mr. Gelernter wrote.</p>
+        <p>But Mr. Rashid said Mr. Gelernter's criticism did not reflect the degree to which data was already being distributed across the Internet.</p>
+        <p>''That's already happening,'' Mr. Rashid said. ''There is already a sea of information.''</p>
+        <p>Microsoft has pointed to Passport, a current e-commerce service offered by the company, as the best example of what the Next Generation Windows Services architecture will be like. Passport, a program that verifies the identities of computer users when they surf to a new site, is a clear example of the way data is now flowing through the Internet between computers that are only loosely coupled, Mr. Rashid said.</p>
+        <p>''Passport actually encompasses a huge amount of distributed computing,'' he said.</p>
+        <p>At the same time, he acknowledged that Mr. Gelernter's vision of a distributed computing future is likely to be an accurate one over the long haul. He noted that there had been a long tug-of-war between the ideas of centralized and decentralized computing.</p>
+        <p>Mr. Gelernter, who was seriously injured in 1993 by a mail bomb from the so-called Unabomber, is a well-known computer scientist. His credentials include his 1991 book ''Mirror Worlds,'' which forecast the arrival of the World Wide Web and  described a future in which computing would make it possible to simulate virtually any aspect of the world.</p>
+        <p>As a software designer during the 1980's, Mr. Gelernter developed a programming language known as Linda that was designed to spread computations across hundreds of thousands of computers, harnessing them into one distributed machine. Similar systems are now common in the world of supercomputing.</p>
+        <p>But distributed computing has been slow to arrive in the mainstream computing world, and Mr. Gelernter places the blame for the lack of innovation to a great extent on the absence of a new computing vision from Microsoft.</p>
+        <p>He contends that Microsoft's Windows 98 and Windows 2000 software is derived from the Apple Macintosh and the Unix operating systems, which he derides as fragile, decades-old technologies that lock away much of the power of computing from nonexpert users.</p>
+        <p>''They have the bulliest pulpit in the world,'' Mr. Gelernter said of Microsoft, ''but what have they done with it?''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

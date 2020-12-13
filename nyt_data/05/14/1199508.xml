@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Message vs. the Machine</title>
+    <meta content="MB235221" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1199508"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PRIVATE SECTOR"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Zoos</classifier>
+        <org class="indexing_service">Ford Motor Co</org>
+        <org class="indexing_service">Atlanta Zoo</org>
+        <person class="indexing_service">Bradsher, Keith</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Zoos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000514T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E7DA123BF937A25756C0A9669C8B63" item-length="179" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Message vs. the Machine</hl1>
+      </hedline>
+      <byline class="print_byline">By KEITH BRADSHER</byline>
+      <byline class="normalized_byline">Bradsher, Keith</byline>
+      <abstract>
+        <p>Ford Motor Co holds annual meeting at Atlanta Zoo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Where does one of the nation's best-known smokestack companies hold its annual meeting when it wants to demonstrate a new commitment to the environment? Under Mr. Ford, an outspoken environmentalist, Ford Motor chose the Atlanta Zoo. Situated near Ford's Taurus assembly plant and heavily dependent on Ford  sponsorship for the last 15 years, the zoo had a large tent decorated like a jungle to show off prototype car models, while the platform for Mr. Ford and other company leaders was fringed with bamboo.</p>
+        <p>Mr. Ford announced his desire to make sport utilities safer and environmentally friendlier. But some of the futuristic models on display sent a different message. About 25 yards from the podium was a Ford Equator, an experimental vehicle with a short pickup bed, that is essentially an even wider version of the already substantial Ford Expedition. Ford officials say no decision has been made on whether to mass-produce the Equator.</p>
+        <p>KEITH BRADSHER</p>
+      </block>
+      <block class="full_text">
+        <p>Where does one of the nation's best-known smokestack companies hold its annual meeting when it wants to demonstrate a new commitment to the environment? Under Mr. Ford, an outspoken environmentalist, Ford Motor chose the Atlanta Zoo. Situated near Ford's Taurus assembly plant and heavily dependent on Ford  sponsorship for the last 15 years, the zoo had a large tent decorated like a jungle to show off prototype car models, while the platform for Mr. Ford and other company leaders was fringed with bamboo.</p>
+        <p>Mr. Ford announced his desire to make sport utilities safer and environmentally friendlier. But some of the futuristic models on display sent a different message. About 25 yards from the podium was a Ford Equator, an experimental vehicle with a short pickup bed, that is essentially an even wider version of the already substantial Ford Expedition. Ford officials say no decision has been made on whether to mass-produce the Equator.</p>
+        <p>KEITH BRADSHER</p>
+        <p>PRIVATE SECTOR</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

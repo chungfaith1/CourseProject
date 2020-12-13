@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Lego Webcam Turns a Toy Into a Robot That Stands Guard</title>
+    <meta content="25GLEG$02" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1202159"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Toys</classifier>
+        <classifier class="indexing_service" type="descriptor">Robots</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Photography</classifier>
+        <org class="indexing_service">Lego Group</org>
+        <person class="indexing_service">Headlam, Bruce</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Robots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Toys</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000525T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E2DB143DF936A15756C0A9669C8B63" item-length="270" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Lego Webcam Turns a Toy Into a Robot That Stands Guard</hl1>
+      </hedline>
+      <byline class="print_byline">By BRUCE HEADLAM</byline>
+      <byline class="normalized_byline">Headlam, Bruce</byline>
+      <abstract>
+        <p>Latest addition to Lego's popular Mindstorm line of programmable toy robots is Vision Command, $99 Web camera that is mounted on core unit of Lego's Robotics Invention System; using camera as pair of eyes, Mindstorm robot can detect color or movement, and react with any number of responses; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lego's popular Mindstorm line of programmable toy robots proved that it was fun to watch robots do your bidding. The latest addition to the Mindstorm line may prove that it's just as much fun to have a robot watch you.</p>
+        <p>Vision Command is a $99 Web camera that, when mounted on the core unit of Lego's Robotics Invention System, can turn the toy into something resembling Robby the Robot from ''Forbidden Planet.'' Using the camera as a pair of eyes, the Mindstorm robot can detect color or movement and, depending on its programming, can react with any number of responses.</p>
+      </block>
+      <block class="full_text">
+        <p>Lego's popular Mindstorm line of programmable toy robots proved that it was fun to watch robots do your bidding. The latest addition to the Mindstorm line may prove that it's just as much fun to have a robot watch you.</p>
+        <p>Vision Command is a $99 Web camera that, when mounted on the core unit of Lego's Robotics Invention System, can turn the toy into something resembling Robby the Robot from ''Forbidden Planet.'' Using the camera as a pair of eyes, the Mindstorm robot can detect color or movement and, depending on its programming, can react with any number of responses.</p>
+        <p>The camera is tethered to the PC through a 15-foot U.S.B. cable. Programmers can break the camera's field of vision down into eight separate regions and program a different response for each one. The robot might chase a ball if it detected color in one region, snap a still photograph if it detected motion in another or utter a threat if it saw a little brother enter the room. (Threats can be easily recorded with the built-in microphone.)</p>
+        <p>Simply mounted on a computer, the Vision Command can also act as a Webcam, with all the usual still and video Webcam capabilities. And, yes, it will still threaten that little brother.</p>
+        <p>BRUCE HEADLAM</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

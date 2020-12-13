@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Time Warner Editor</title>
+    <meta content="L18TIM" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200329"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Aol Time Warner</org>
+        <org class="indexing_service">Time Warner Inc</org>
+        <org class="indexing_service">Time Inc</org>
+        <person class="indexing_service">Levin, Gerald M</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000518T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6D8163AF93BA25756C0A9669C8B63" item-length="155" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Time Warner Editor</hl1>
+      </hedline>
+      <abstract>
+        <p>Time Warner Inc chairman Gerald M Levin letter on May 15 article denies merged AOL-Time Warner plans 'super-editor' post to supersede Time Inc's editor in chief</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re '' 'Super-Editor' Spot May Be Created at Post-Merger AOL-Time Warner'' (Business Day, May 15):</p>
+        <p>Steve Case, the chairman of America Online, and I never considered a ''super-editor'' position to supersede Time Inc.'s editor in chief. Like Time Inc., CNN has its own tradition of journalistic integrity that it actively safeguards.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re '' 'Super-Editor' Spot May Be Created at Post-Merger AOL-Time Warner'' (Business Day, May 15):</p>
+        <p>Steve Case, the chairman of America Online, and I never considered a ''super-editor'' position to supersede Time Inc.'s editor in chief. Like Time Inc., CNN has its own tradition of journalistic integrity that it actively safeguards.</p>
+        <p>Whether in print or programming, the editorial quality and independence of Time Warner's news operations have never been in question, and I have neither perceived nor discussed the need for a new level of supervision.</p>
+        <p>GERALD M. LEVIN  Chairman and Chief Executive  Time Warner Inc.  New York, May 17, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

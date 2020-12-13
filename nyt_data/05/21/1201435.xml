@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR225818" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; Books; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201435"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <person class="indexing_service">Fleming, Fergus</person>
+        <object.title class="indexing_service">Barrow's Boys (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000521T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05EEDC113AF932A15756C0A9669C8B63" item-length="40" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of review of Barrow's Boys in May 21 Times Book Review</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A review on Page 17 of The Times Book Review today about ''Barrow's Boys,'' by Fergus Fleming, misspells the surname of a notable explorer and missionary in 19th-century Africa. He was David Livingstone, not Livingston.</p>
+      </block>
+      <block class="full_text">
+        <p>A review on Page 17 of The Times Book Review today about ''Barrow's Boys,'' by Fergus Fleming, misspells the surname of a notable explorer and missionary in 19th-century Africa. He was David Livingstone, not Livingston.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

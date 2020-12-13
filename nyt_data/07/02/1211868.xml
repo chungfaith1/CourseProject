@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metrology Group at Veeco</title>
+    <meta content="MB230835" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211868"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="IN BRIEF"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1DA1439F931A35754C0A9669C8B63" item-length="75" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metrology Group at Veeco</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by Warren Strugatch</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Veeco Instruments of Plainview (Nasdaq: VECO) has set up an integrated Metrology Group and appointed Don Kania group president. Veeco makes 3-D metrology products for the data storage, semiconductor and optical telecommunications.</p>
+      </block>
+      <block class="full_text">
+        <p>Veeco Instruments of Plainview (Nasdaq: VECO) has set up an integrated Metrology Group and appointed Don Kania group president. Veeco makes 3-D metrology products for the data storage, semiconductor and optical telecommunications.</p>
+        <p>IN BRIEF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rebuilding With Stem Cells</title>
+    <meta content="30SSID" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203457"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Stem Cells</classifier>
+        <org class="indexing_service">Geron Corp</org>
+        <org class="indexing_service">Osiris Therapeutics</org>
+        <org class="indexing_service">Aastrom Biosciences</org>
+        <org class="indexing_service">Nexell Therapeutics Inc</org>
+        <org class="indexing_service">Ariad Pharmaceuticals Inc</org>
+        <org class="indexing_service">NeuralStem Biopharmaceuticals</org>
+        <org class="indexing_service">Gene Logic Inc</org>
+        <person class="indexing_service">Pollack, Andrew</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Stem Cells</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stem Cells</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000530T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E0DD163CF933A05756C0A9669C8B63" item-length="438" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rebuilding With Stem Cells</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREW POLLACK</byline>
+      <byline class="normalized_byline">Pollack, Andrew</byline>
+      <abstract>
+        <p>Among the companies trying to harness stem cells to rebuild hearts, bone, blood and other tissues are Geron Corp, Osiris Therapeutics, Aastrom Biosciences, Nexell Therapeutics, Ariad Pharmaceuticals, NeuralStem Biopharmaceuticals and Gene Logic; field is coming to be called regenerative medicine (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Stem cells, the master cells from which all other cells in the body develop, might be used to replenish many other tissues.</p>
+        <p>Companies are trying to harness the cells to rebuild hearts, bone, blood and other tissues, part of a field coming to be called regenerative medicine.</p>
+      </block>
+      <block class="full_text">
+        <p>Stem cells, the master cells from which all other cells in the body develop, might be used to replenish many other tissues.</p>
+        <p>Companies are trying to harness the cells to rebuild hearts, bone, blood and other tissues, part of a field coming to be called regenerative medicine.</p>
+        <p>At the Geron Corporation of Menlo Park, Calif., scientists have already turned embryonic stem cells into heart muscle cells that spontaneously beat in the test tube. Studies in mice have shown these cells integrate into the heart. Such stem cell therapy might be used to rebuild hearts after a heart attack, since heart muscles do not regenerate after being killed.</p>
+        <p>Osiris Therapeutics of Baltimore is starting clinical trials to see if stem cells can be used to regrow bone. It is using mesynchymal stem cells, which turn into the body's connective tissue, like bones, cartilage, tendons and bone marrow.</p>
+        <p>The biggest existing use of stem cells is for bone marrow transplants to replenish the body's immune system. This works because the marrow is rich in hematopoietic stem cells, which turn into blood cells.</p>
+        <p>Some companies are trying to make a business of technology that can be used in stem cell therapy. Aastrom Biosciences of Ann Arbor, Mich., has a device that can multiply cells, including stem cells.</p>
+        <p>Nexell Therapeutics of Irvine, Calif., also has techniques for separating and growing cells. Its device was used to multiply cells used recently in what is considered the world's first gene therapy success: French scientists' treatment of three girls with a rare immune disease.</p>
+        <p>Ariad Pharmaceuticals of Cambridge, Mass., recently published a scientific paper about technology it developed that could help control the growth and differentiation of stem cells.</p>
+        <p>Other uses of stem cells could provide income before cell transplants become feasible. Geron expects its first stem cell profits to come from making liver cells that pharmaceutical companies can use to test how well a drug is metabolized by the liver and whether the drug causes liver toxicity. NeuralStem Biopharmaceuticals has signed an agreement with Gene Logic, a genomics company, to use the stem cells to help define the functions of genes.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

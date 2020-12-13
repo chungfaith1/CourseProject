@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Henderson Out of Lineup</title>
+    <meta content="MB023247" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1238272"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BASEBALL: 2000 PLAYOFFS -- YANKEES NOTEBOOK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">Playoff Games</classifier>
+        <org class="indexing_service">New York Yankees</org>
+        <org class="indexing_service">Seattle Mariners</org>
+        <person class="indexing_service">Olney, Buster</person>
+        <person class="indexing_service">Henderson, Rickey</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Seattle Mariners</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Playoff Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001012T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE2D6173FF931A25753C1A9669C8B63" item-length="108" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Henderson Out of Lineup</hl1>
+      </hedline>
+      <byline class="print_byline">By Buster Olney</byline>
+      <byline class="normalized_byline">Olney, Buster</byline>
+      <abstract>
+        <p>Yankees notebook; Seattle Mariners outfielder Ricky Henderson is not in starting lineup for game 2 of ALCS against New York Yankees after bruising ankle in game 1 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Seattle left fielder Rickey Henderson was out of the lineup yesterday after bruising his ankle running the bases in Game 1. But Lou Piniella, the Seattle manager, said Henderson was available to play in yesterday's game, and he would be available in the games to come.</p>
+        <p>Buster Olney</p>
+      </block>
+      <block class="full_text">
+        <p>Seattle left fielder Rickey Henderson was out of the lineup yesterday after bruising his ankle running the bases in Game 1. But Lou Piniella, the Seattle manager, said Henderson was available to play in yesterday's game, and he would be available in the games to come.</p>
+        <p>Buster Olney</p>
+        <p>BASEBALL: 2000 PLAYOFFS -- YANKEES NOTEBOOK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Computer With Star Power</title>
+    <meta content="MB025237" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1227656"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="IN BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Chess</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Public Opinion</classifier>
+        <org class="indexing_service">International Business Machines Corp</org>
+        <org class="indexing_service">Marketing Evaluations/Tvq</org>
+        <person class="indexing_service">Kilgannon, Corey</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Chess</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chess</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000903T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E7DA1230F930A3575AC0A9669C8B63" item-length="178" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Computer With Star Power</hl1>
+      </hedline>
+      <byline class="print_byline">By Corey Kilgannon</byline>
+      <byline class="normalized_byline">Kilgannon, Corey</byline>
+      <abstract>
+        <p>Marketing Evaluations/TvQ study finds that 50 percent of 1,200 adults polled across US recognize Deep Blue, chess-playing computer created by IBM (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>What weighs 1.4 tons, lives in Yorktown Heights and is as popular as Larry King and Carmen Electra? Hint: It defeated Garry Kasparov at chess in 1997.</p>
+        <p>Deep Blue, the chess-playing computer created by I.B.M., has worked its way onto the celebrity radar screen, according to a study by Marketing Evaluations/ TvQ, a Long Island company that measures celebrity appeal. It showed that 50 percent of 1,200 adults polled across the country recognized Deep Blue.</p>
+      </block>
+      <block class="full_text">
+        <p>What weighs 1.4 tons, lives in Yorktown Heights and is as popular as Larry King and Carmen Electra? Hint: It defeated Garry Kasparov at chess in 1997.</p>
+        <p>Deep Blue, the chess-playing computer created by I.B.M., has worked its way onto the celebrity radar screen, according to a study by Marketing Evaluations/ TvQ, a Long Island company that measures celebrity appeal. It showed that 50 percent of 1,200 adults polled across the country recognized Deep Blue.</p>
+        <p>The company formulates Q scores to measure celebrity. Deep Blue got a 9 rating, the same as Carmen Electra. Larry King's is 7 and Donald Trump is 11. Mickey Mouse is a 44.</p>
+        <p>I.B.M. officials say that Deep Blue has received more than 5,000 mentions in the print media over the last three years. It is currently retired from chess, and now doing analyses in retail, Internet and stock prices.</p>
+        <p>Corey Kilgannon</p>
+        <p>IN BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

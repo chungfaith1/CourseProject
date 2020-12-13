@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Online Auctions of the Future, It'll Be Bot vs. Bot vs. Bot</title>
+    <meta content="17NEXT$01" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1223098"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WHAT'S NEXT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">At&amp;t Corp</org>
+        <person class="indexing_service">Eisenberg, Anne</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/What's Next</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000817T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E1DD163EF934A2575BC0A9669C8B63" item-length="1202" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Online Auctions of the Future, It'll Be Bot vs. Bot vs. Bot</hl1>
+      </hedline>
+      <byline class="print_byline">By ANNE EISENBERG</byline>
+      <byline class="normalized_byline">Eisenberg, Anne</byline>
+      <abstract>
+        <p>Computer programs known variously as shopbots, buybots, pricebots or just plain bots, all short for robots, are expected to be the workhorses of electronic commerce in the future, efficiently roaming the Web all by themselves to buy and sell goods and services for people and companies; team from AT&amp;T Labs in Florham Park, NJ, recently won a competition among shopbot designers whose object was getting the best deal on a trip to Boston, complete with air travel, hotel accommondations and entertainment; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THEY are called shopbots, buybots, pricebots or just plain bots -- the ''bot'' is short for robot. The name is playful, but the reality is all business because shopbots are meant to roam the Web all by themselves one day, efficiently buying and selling goods and services for people and companies.</p>
+        <p>An infinite number of shopbots, each a piece of software, are expected to show up as electronic commerce expands. One of the more conservative estimates is that there will be hundreds of millions of them.</p>
+      </block>
+      <block class="full_text">
+        <p>THEY are called shopbots, buybots, pricebots or just plain bots -- the ''bot'' is short for robot. The name is playful, but the reality is all business because shopbots are meant to roam the Web all by themselves one day, efficiently buying and selling goods and services for people and companies.</p>
+        <p>An infinite number of shopbots, each a piece of software, are expected to show up as electronic commerce expands. One of the more conservative estimates is that there will be hundreds of millions of them.</p>
+        <p>They will resemble today's relatively simple consumer shopbots, personalized computer programs that bid on buyers' behalf at auctions or go out on the Web to find the best prices on jeans, but they will be far smarter and faster.</p>
+        <p>These autonomous agents, as they are known among the people who create them, will be written to handle dozens of auctions rather than just one, bidding simultaneously and juggling results not just for the best buy for a single product, like paper, for instance, but for several related goods -- like a combination of paper, ink, binders and printing press time.</p>
+        <p>And the bots will do this in a way humans cannot, responding to slight changes in prices in a fraction of a second.</p>
+        <p>As a result, many in the field predict that  ordinary people and businesses will have the wherewithal to handle the complexities of automated trading in an infinite combination of market situations, like arranging vacations, assembling portfolios or setting manufacturing schedules.</p>
+        <p>Once unleashed, automated trading bots will probably cause many changes in the business-to-business and consumer marketplaces.</p>
+        <p>''We have a research program to ask how the world will look when hundreds of billions of agents are running around,'' said Dr. Steve R. White, a manager who directs research into such decentralized software systems at I.B.M.'s Thomas J. Watson Research Center in Yorktown Heights, N.Y. ''We want to help I.B.M. get there first with software -- economic agents that can make pricing and buying decisions for a business.''</p>
+        <p>People in both research and business are thinking about the economics of shopbots, writing software that will let the bots learn from their mistakes and successes and trying to anticipate what Web business will be like when shopbots are crawling all over the sites.</p>
+        <p>Among them is Dr. Michael Wellman, an automated-trading expert who is a professor of computer science and engineering at the University of Michigan. One of his approaches is more playful than most.</p>
+        <p>Dr. Wellman decided that a game was a good way to encourage researchers to focus on the problems of shopbots and to share what they have learned, an unusual step in the often proprietary world of autonomous agents.</p>
+        <p>So he and a colleague, Dr. Peter R. Wurman, a computer science professor at North Carolina State University, organized a competition for shopbots. The event was held last month at a conference in Boston.</p>
+        <p>''Other scientists have competitions,'' Dr. Wellman said. ''Why not us? This is the first competition of a complex trading scenario with autonomous agents that we know of.''</p>
+        <p>He and his colleagues set up trials involving that purgatory familiar to any summer traveler: a plane trip. Competing software programs would have to arrange round-trip airline tickets to Boston along with hotel accommodations and entertainment: a Red Sox game, a Boston Symphony concert or a performance of ''Phantom of the Opera.'' And the shopbots had to find all of that at the best rates for the entire package -- all deals were off, for example, if the airline tickets were a bargain but all the hotel rooms were already booked.</p>
+        <p>Twenty teams of researchers from six countries participated, trying to have their sophisticated programs outwit their competitors' bots to line up the best trip.</p>
+        <p>It was no simple matter because there were separate auctions for all of the hotel and airline reservations, complete with  tricky rules that affected prices. Pitfalls abounded. Only a limited number of hotel rooms were available, for example, so a program that could not handle the hotel auctions might leave its client without a place to sleep.</p>
+        <p>The winner was a team from AT&amp;T Labs in Florham Park, N.J. The team's leader, Dr. Peter Stone, a senior technical staff member, attributed the victory to a very flexible agent programmed to adapt itself to different circumstances. ''We both increased the sophistication of our agent and imbued it with the ability to adapt itself,''  Dr. Stone said.</p>
+        <p>It also turned out to be important to have the bots avoid a pitfall familiar to many  players of the stock market: irrational exuberance.</p>
+        <p>''The agents tended to get unruly,'' said Dr. Michael Kearns, head of the artificial intelligence department at AT&amp;T and a member of the winning AT&amp;T team. They tended to raise their offers for what they would pay based on what their competitors were doing rather than on the value of what was being sold -- just as humans often do, he added. ''We are all used to markets running amok not because of the commodity, but because of the participants,'' Dr. Kearns said. ''One of the dangers is that the same thing will happen in digital form.''</p>
+        <p>There are other problems predicted when shopbots are unleashed, and some involve privacy. It will be easy enough to waylay shopbots on the Internet to find out, for instance, exactly what a buyer was willing to spend.</p>
+        <p>''Certainly if a program is trading on my behalf,'' said Dr. Yoav Shoham, a professor at Stanford University and an expert in complex online auctions, ''and I send it on the network, someone can intercept the program and read my instructions, and that gives away a lot.'' Dr. Shoham said those instructions could be encoded to deal effectively with that security issue.</p>
+        <p>A number of companies sponsored the shopbot competition in Boston, among them International Business Machines and Andersen Consulting. Doug Bryan, a technology researcher at Andersen in Northbrook, Ill., said that bots would soon start appearing in numbers on the marketplace so the marketplace needed to get ready.</p>
+        <p>''The challenge to our customers -- we tend to represent big sellers -- is to know what the bots can do,'' he said. Right now, bots that simply go out and fetch price lists from the Web do not make intelligent decisions about matching a buyer's needs with a combination of offerings.</p>
+        <p>''That will change,'' Mr. Bryan said. ''And businesses need to be prepared.''</p>
+        <p>Dr. Stone, at AT&amp;T Labs, has already noticed one effect bots can have on price-conscious consumers. If people become angry at travel agents who buy seats at what turn out to be prices that are too high, consider their antagonism when a computer program makes that kind of mistake.</p>
+        <p>''Buyers tend to get more upset when it is software that makes the decision, rather than a person,''' Dr. Stone said. ''It's the usual Luddite instinct.''</p>
+        <p>WHAT'S NEXT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

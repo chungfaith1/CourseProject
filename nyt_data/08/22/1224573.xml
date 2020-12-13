@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR015757" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1224573"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Cancer</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Lungs</classifier>
+        <classifier class="indexing_service" type="descriptor">X-Rays</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">X-Rays</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lungs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cancer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000822T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E0DF1F3EF931A1575BC0A9669C8B63" item-length="152" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of August 21 article on medical study of an experimental X-ray screening test for diagnosing and treating early stages of lung cancer</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article yesterday about a medical study of an experimental X-ray screening test for diagnosing and treating early stages of lung cancer paraphrased one doctor's concerns about the test incorrectly. The doctor, Barnett Kramer of the National Institutes of Health, says that although the test, known as spiral CT screening, may help cancer detection, whether it will help patients live longer remains undetermined. He did not say that the test does nothing to help patients live longer.</p>
+        <p>The article also included erroneous names supplied by the study's publicists for two participating institutions. They are Our Lady of Mercy Medical Center (not the Sisters of Charity) and Mount Sinai School of Medicine (not Mount Sinai Medical Center).</p>
+      </block>
+      <block class="full_text">
+        <p>An article yesterday about a medical study of an experimental X-ray screening test for diagnosing and treating early stages of lung cancer paraphrased one doctor's concerns about the test incorrectly. The doctor, Barnett Kramer of the National Institutes of Health, says that although the test, known as spiral CT screening, may help cancer detection, whether it will help patients live longer remains undetermined. He did not say that the test does nothing to help patients live longer.</p>
+        <p>The article also included erroneous names supplied by the study's publicists for two participating institutions. They are Our Lady of Mercy Medical Center (not the Sisters of Charity) and Mount Sinai School of Medicine (not Mount Sinai Medical Center).</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

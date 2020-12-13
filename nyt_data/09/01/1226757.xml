@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DINER'S JOURNAL</title>
+    <meta content="01JOUR$01" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="35" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/01/living/01JOUR.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1226757"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Dining Room (NYC Restaurant)</org>
+        <person class="indexing_service">Grimes, William</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Diner's Journal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000901T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E7D61430F932A3575AC0A9669C8B63" item-length="375" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DINER'S JOURNAL</hl1>
+      </hedline>
+      <byline class="print_byline">By William Grimes</byline>
+      <byline class="normalized_byline">Grimes, William</byline>
+      <abstract>
+        <p>William Grimes Diner's Journal review of The Dining Room; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Trois Jean, one of Manhattan's handsomest bistros, has ended its long run. In its place an American restaurant has risen with a clean-cut American look (created by Larry Bogdanow), a New American menu (created by Mark Spangenthal, the chef at the Screening Room) and a no-frills American name, the Dining Room.</p>
+        <p>The bar and lounge on the ground floor has a raw bar menu that mixes thoroughly traditional selections like littleneck clams, oysters and shrimp cocktail with newfangled dishes like tuna tartare with yuzu, wasabi and mizuna; a mixed seafood ceviche; and cured yellowtail carpaccio with lemon, arugula, sea salt and basil.</p>
+      </block>
+      <block class="full_text">
+        <p>Trois Jean, one of Manhattan's handsomest bistros, has ended its long run. In its place an American restaurant has risen with a clean-cut American look (created by Larry Bogdanow), a New American menu (created by Mark Spangenthal, the chef at the Screening Room) and a no-frills American name, the Dining Room.</p>
+        <p>The bar and lounge on the ground floor has a raw bar menu that mixes thoroughly traditional selections like littleneck clams, oysters and shrimp cocktail with newfangled dishes like tuna tartare with yuzu, wasabi and mizuna; a mixed seafood ceviche; and cured yellowtail carpaccio with lemon, arugula, sea salt and basil.</p>
+        <p>In the upstairs dining room Mr. Spangenthal has come up with a short menu with a fresh, direct feel to it.</p>
+        <p>Appetizers can be as simple as an heirloom tomato salad with a basil-lemon vinaigrette, or grilled leeks with fingerling potatoes and summer truffles, ascending in complexity no further than roasted quail with cheddar grits, tasso ham and wild mushrooms.</p>
+        <p>Pan-fried artichokes, a signature at the Screening Room, find their way onto the menu here.</p>
+        <p>Main courses include braised striped bass with a pan roast of clams, bitter greens and tomatoes; rack of lamb with spinach and corn pudding in a red wine sauce; and an odd Asian-accented red snapper with bok choy, Chinese black rice and candied ginger.</p>
+        <p>The showstopper dessert is an icebox cake with seven layers of chocolate, caramel, shortbread and cream, but it should not be allowed to overshadow the bread pudding soaked in coconut milk.</p>
+        <p>The pudding rests on a layer of tiny pineapple bits surrounded by basil syrup.</p>
+        <p>On top is a glassy sheet of burnt sugar and a scoop of ginger ice cream.</p>
+        <p>This may be one for the ages.</p>
+        <p>The Dining Room, 154 East 79th Street, Manhattan; (212) 327-2500. Dinner entrees, $19 to $25.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

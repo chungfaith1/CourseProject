@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>They Stay Up Late So Your Site Does, Too</title>
+    <meta content="20SCHW$04" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="E-Commerce" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="H" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1232035"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BUSINESS TO BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Retail Stores and Trade</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Special Sections</classifier>
+        <person class="indexing_service">Schwadron, Terry H</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Retail</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000920T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE5DF1039F933A1575AC0A9669C8B63" item-length="1064" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>They Stay Up Late So Your Site Does, Too</hl1>
+      </hedline>
+      <byline class="print_byline">By TERRY SCHWADRON</byline>
+      <byline class="normalized_byline">Schwadron, Terry H</byline>
+      <abstract>
+        <p>Growing number of e-commerce start-up companies are turning to outside providers for 24-hour, seven-day-a-week technical support rather than building their own infrastructure; drawing (special section, E-Commerce) (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>YOU hear the phrase everywhere -- ''24/7.'' The term for full coverage for Internet commerce -- 24 hours a day, 7 days a week -- has become an early cliche of the digital era.</p>
+        <p>Random House Webster's College Dictionary included ''24/7'' in this year's edition, defining it as meaning ''continually or constantly.''</p>
+      </block>
+      <block class="full_text">
+        <p>YOU hear the phrase everywhere -- ''24/7.'' The term for full coverage for Internet commerce -- 24 hours a day, 7 days a week -- has become an early cliche of the digital era.</p>
+        <p>Random House Webster's College Dictionary included ''24/7'' in this year's edition, defining it as meaning ''continually or constantly.''</p>
+        <p>A cursory examination of start-up announcements, particularly those offering e-commerce, showed that the promise of 24-hour availability was common for e-tailers who hoped to reach the global market.</p>
+        <p>Those start-up companies are increasingly turning to outside providers to serve as hosts rather than building their own infrastructure. As they do so, questions arise.</p>
+        <p>Is the support really 24/7? Or is it a computer company's way of trying to oversell entrepreneurs on the kind of backup that will be needed? And do companies really need 24/7, or would 23/7 be better, giving the people who run these digital operations a window to maintain the machinery?</p>
+        <p>Whatever the answers, the concept has gone from the extreme to the routine. A random check of start-up announcements showed that 24-hour availability seemed a natural fit for many companies. One new site offered to record financial transactions instantly; another provided computer chip parts. A third start-up was a home-PC support business.</p>
+        <p>But for other start-ups, the need for the service seemed harder to understand. In July, AsiaWeek magazine highlighted Web sites that featured sexy cybermodels who playfully, and animatedly, played videos on demand or answered entertainment questions. All dutifully reflected the promise of 24-hour, seven-day-a-week backup and availability.</p>
+        <p>But there is just one problem, said Philip Tee, the president of RiverSoft, a technical support company with offices in San Francisco and London. ''Computers are just unable to operate 24/7.''</p>
+        <p>''The marketplace is driving total access to service,'' Mr. Tee said. ''Companies see competitive advantage in it.'' But computers fail, he said, and when they do, the ''network failures are very visible and embarrassing to explain.''</p>
+        <p>The perils of the promise of constant access are on many minds -- even if the e-tailer has only a local clientele.</p>
+        <p>''Last year, everyone was in a party mood about the wild success of the Internet,'' said a California consultant who advises Internet companies about start-up announcements. ''This year, it's more about the dark side, the reality that more and more business is dependent on being available everywhere all the time. And it all rides on overworked networks.''</p>
+        <p>Ambul Goyal, the vice president of I.B.M. Research, said that full availability is simply a requirement for doing business on the Internet.</p>
+        <p>''Some of the applications may seem a little ridiculous to have 24 hours a day,'' Mr. Goyal said, ''but for financial services, insurance, computer chip companies and many service providers, it has become necessary. Around the globe, it is business hours somewhere all the time.''</p>
+        <p>Experts suggested that businesses  do precise planning to ensure that computer load would match demand. Otherwise, there seemed to be two approaches to fulfilling the promise of total availability -- loading up on redundant equipment or developing more computers to monitor the current computers.</p>
+        <p>RiverSoft is one of several relatively new companies that are trying to automate the process by developing software to watch and warn of early problems in busy networks.</p>
+        <p>''The problem with humans is that they are not prepared to deal in this kind of detailed complexity,'' Mr. Tee said. So his company's business is ''interventionless'' computer software, designed to warn when other computer software might fail.</p>
+        <p>Companies have always faced the problem of keeping the equipment used in manufacturing or distribution processes in working order, but for many, building redundant processes seemed the right approach to assure readiness. The New York Times, for example, has more presses in its printing plants in the New York area than it needs, to allow for maintenance. In its publishing computer systems, there is redundant equipment to allow for scheduled maintenance.</p>
+        <p>''It really doesn't cost more to keep the computers turned on,'' said Rick Sturm, the president of Enterprise Management Associates of  Boulder, Colo., a research group that advises companies on the management of sophisticated networks. ''If there is market demand for the service, then operators of these Web sites are going to want to keep selling. In part, it is recognition that the rest of the world is coming in.''</p>
+        <p>Mr. Sturm said there was an emerging billion-dollar business for companies developing software to watch other software, a shift to increasingly intelligent tools to keep digital companies afloat. While Web sites have turned increasingly to larger computer hosts to run e-commerce applications, there is a budding business in managing technology infrastructures for companies.</p>
+        <p>Rich Vazzana, vice president for e-support and service for IBM.com, said that I.B.M. had created an organization to combine the company's global technical hot-line operations and the Web.</p>
+        <p>I.B.M. ''was doing 24/7 support for years without the Web,'' Mr. Vazzana said. Its experience showed that more than a third of Web shopping occurred during nonbusiness hours and that global access assured that demand was constant.</p>
+        <p>He suggested that e-tailers gauge the number of people who would use its services and when, and determine how the company would want to process those inquiries. Without good planning, Mr. Vazzana said, it is nearly impossible to assess what might be needed and also ensure that the site be fully operable.</p>
+        <p>Mr. Goyal, of I.B.M. Research, said that just as traditional businesses depended on mainframe computing to support financial record-keeping and disaster recovery, e-businesses were realizing they need more powerful underpinnings.</p>
+        <p>To provide it, companies are building huge computer capacities, treating Web hosting more like a utility, which must plan for peak capacities. These systems rely on offering management services, software for capacity planning and computer power, often at multiple locations, to ensure that the e-business is available all the time.</p>
+        <p>Still, the announcements of new e-commerce sites keep coming and continue to promise total availability.</p>
+        <p>A divorce Web site in Britain, www.Divorce-Online.co.uk, which provides information on divorce, legal explanations and tips, recently went online. In its start-up announcement, the company said that it would be an electronic meeting place for people to communicate and share experiences, adding that it would be available, well, 24/7.</p>
+        <p>BUSINESS TO BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

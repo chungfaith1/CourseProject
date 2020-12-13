@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Word's Not Perfect</title>
+    <meta content="LTR012736" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1236295"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001005T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE4DE163CF936A35753C1A9669C8B63" item-length="223" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Word's Not Perfect</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''It's a Word World, or Is It?'' (State of the Art, Sept. 21): WordPerfect's troubles did not begin when Novell bought it. Rather, it shot itself in the foot when it included, around 1994, an incompatible macro engine in Version 6. To upgrade, you had to convert and test your macros. A large portion of its user base agreed with me that the effort outweighed the benefits.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''It's a Word World, or Is It?'' (State of the Art, Sept. 21): WordPerfect's troubles did not begin when Novell bought it. Rather, it shot itself in the foot when it included, around 1994, an incompatible macro engine in Version 6. To upgrade, you had to convert and test your macros. A large portion of its user base agreed with me that the effort outweighed the benefits.</p>
+        <p>Previously, I had purchased every upgrade. Since then, I haven't sent WordPerfect 10 cents. My macros still work fine, and my decision not to change looks better every year.  Corel has done nothing to sell me an upgrade, like providing a 5.1 compatibility mode. Indeed, with contemporary hardware, with enough cache to hold the entire 1 meabyte DOS memeory space, DOS WordPerfect 5.1 works better than ever, even under Windows.</p>
+        <p>WordPerfect pioneered the concept of the ''clean screen,'' one status line at the bottom and nothing else, no menus, no tool bars, just what you had written. The clutter and distractions of contemporary Windows screens have proved the value of that concept. I may have on my tombstone: ''He never switched from 5.1.''</p>
+        <p>BOB CLARK JR.  Los Angeles</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

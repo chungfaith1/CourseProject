@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Exercise as Necessity</title>
+    <meta content="LTR234513" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1231885"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Exercise</classifier>
+        <person class="indexing_service">Poutanen, Susan M (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Exercise</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000919T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E3DC143BF93AA2575AC0A9669C8B63" item-length="231" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Exercise as Necessity</hl1>
+      </hedline>
+      <abstract>
+        <p>Dr Susan M Poutanen letter on ways to get more people to exercise</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>A study summarized in ''For Exercise, Every Minute Counts'' (Sept. 5) suggests that physical activity that lasts just 15 minutes, if done often enough, may be as beneficial as longer workouts for fighting heart disease.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>A study summarized in ''For Exercise, Every Minute Counts'' (Sept. 5) suggests that physical activity that lasts just 15 minutes, if done often enough, may be as beneficial as longer workouts for fighting heart disease.</p>
+        <p>These results will most likely be an impetus for those not now exercising to do so. But I suspect a significant number of people will remain sedentary.</p>
+        <p>One solution is to change environments so that physical activity is not an option but a necessity for completing one's day.</p>
+        <p>For example, accessible and open stairwells should be required in all buildings, and elevators should be restricted to those who have physical limitations or to those who are traveling beyond a defined set of flights.</p>
+        <p>Within city centers, pedestrian-only urban blocks should be mandated and more pedestrian-friendly walkways should be required.</p>
+        <p>It is only after these and similar interventions that the typical ''not enough time'' excuse will become irrelevant.</p>
+        <p>DR. SUSAN M. POUTANEN  Mountain View, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

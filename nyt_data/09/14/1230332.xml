@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Place to Go When There's a Whole Lotta Shakin' Goin' On</title>
+    <meta content="14QUAK" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1230332"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Earthquakes</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Geological Survey, US</org>
+        <person class="indexing_service">Wald, David (Dr)</person>
+        <person class="indexing_service">Hafner, Katie</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Earthquakes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000914T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E2D61438F937A2575AC0A9669C8B63" item-length="1071" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Place to Go When There's a Whole Lotta Shakin' Goin' On</hl1>
+      </hedline>
+      <byline class="print_byline">By KATIE HAFNER</byline>
+      <byline class="normalized_byline">Hafner, Katie</byline>
+      <abstract>
+        <p>Dr David Wald, seismologist at US Geological Survey, maintains Web site at which people answer a list of questions after an earthquake and give their ZIP code, thus providing a gauge of a quake's intensity and damage over its entire range; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHEN an earthquake roused tens of thousands of Northern California residents from their sleep early in the morning on Sept. 3, hundreds of those rattled souls went straight to their computers and logged onto the Internet.</p>
+        <p>First, many people checked the United States Geological Survey's Web site (quake .wr.usgs.gov/recenteqs) for the magnitude (5.2) and epicenter (near the town of Yountville, in Napa County), which were calculated within minutes by seismic instruments and posted automatically to the site.</p>
+      </block>
+      <block class="full_text">
+        <p>WHEN an earthquake roused tens of thousands of Northern California residents from their sleep early in the morning on Sept. 3, hundreds of those rattled souls went straight to their computers and logged onto the Internet.</p>
+        <p>First, many people checked the United States Geological Survey's Web site (quake .wr.usgs.gov/recenteqs) for the magnitude (5.2) and epicenter (near the town of Yountville, in Napa County), which were calculated within minutes by seismic instruments and posted automatically to the site.</p>
+        <p>From there, a lot of people went to a page called Did You Feel It? (pasadena.wr.usgs .gov/shake/ciim</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

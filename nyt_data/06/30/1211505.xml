@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DINER'S JOURNAL</title>
+    <meta content="30JOUR$01" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="49" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211505"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Wines</classifier>
+        <classifier class="indexing_service" type="descriptor">Alcoholic Beverages</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">Greenwich Village (NYC)</location>
+        <org class="indexing_service">Rhone (NYC Wine Bar)</org>
+        <person class="indexing_service">Grimes, William</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Diner's Journal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcoholic Beverages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000630T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE3DA1F30F933A05755C0A9669C8B63" item-length="424" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DINER'S JOURNAL</hl1>
+      </hedline>
+      <byline class="print_byline">By William Grimes</byline>
+      <byline class="normalized_byline">Grimes, William</byline>
+      <abstract>
+        <p>William Grimes Diner's Journal review of Rhone wine bar on Gansevoort Street in West Village; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In the French pecking order, the wines of Bordeaux and Burgundy are king and queen. The Rhone runs a distant third, but Rhone, the wine bar and restaurant in the meatpacking district, reverses the hierarchy. The region's big, spicy reds and succulent whites get top billing, from marquee names like Chateauneuf-du-Pape and Hermitage to lesser fry like Vacqueyras and Lirac.</p>
+        <p>An enormous black walnut bar framed in zinc is the center of gravity at Rhone, whose semi-industrial decor suits the neighborhood. The floor is uncompromising concrete. The walls are exposed brick. The soundtrack is bebop.</p>
+      </block>
+      <block class="full_text">
+        <p>In the French pecking order, the wines of Bordeaux and Burgundy are king and queen. The Rhone runs a distant third, but Rhone, the wine bar and restaurant in the meatpacking district, reverses the hierarchy. The region's big, spicy reds and succulent whites get top billing, from marquee names like Chateauneuf-du-Pape and Hermitage to lesser fry like Vacqueyras and Lirac.</p>
+        <p>An enormous black walnut bar framed in zinc is the center of gravity at Rhone, whose semi-industrial decor suits the neighborhood. The floor is uncompromising concrete. The walls are exposed brick. The soundtrack is bebop.</p>
+        <p>The wine list offers about 150 choices by the bottle and more than 30 by the glass. Rhone fans who have suffered through wine lists with a couple of grudging Cote Roties and Crozes-Hermitages can play the field here without breaking the bank. Of the eight Crozes-Hermitages, for example, five cost less than $40. The 33 Chateauneuf-du-Papes start at $38 for a 1997 Domaine Terres Blanches and top out at $140 for a 1996 Barbe Rac from Chapoutier. The whites include a dozen Condrieus but, sad to say, only a single muscat Beaumes de Venise, the region's floral dessert wine, rich with flavors of apricot and melon. Wines by the glass start at $6 or $7 for a sturdy Cotes-du-Rhone or Vacqueyras and ascend to $20 for an Hermitage La Sizeranne from Chapoutier.</p>
+        <p>The food sticks to very simple bistro basics, for the most part, although the lobster truffle salad with smoked bacon and Yukon gold potatoes puts on the dog, as does an out-of-place splurge appetizer of beluga caviar and quail eggs, priced at $90. Pork belly salad with artichokes and fava beans is more like it. The charcuterie plate is uninspiring, but braised lamb shank with vegetables is a plateful of flavor. Bass in a potato crust is oddly paired with oxtail ragout and caramelized salsify. Other entrees include fish stew in a saffron rouille and grilled Black Angus steak with ratatouille and a potato pie. The desserts stick to classics like lemon tart and clafoutis.</p>
+        <p>Rhone, 63 Gansevoort Street, West Village; (212) 367-8440. Dinner entrees, $24 to $26.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

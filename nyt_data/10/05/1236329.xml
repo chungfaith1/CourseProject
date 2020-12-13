@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>J.F.K. Restaurant Deal</title>
+    <meta content="MB024953" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1236329"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="METRO BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Food</classifier>
+        <classifier class="indexing_service" type="descriptor">Kennedy International Airport (NYC)</classifier>
+        <org class="indexing_service">Restaurant Associates Corp</org>
+        <person class="indexing_service">Bagli, Charles V</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001005T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01EFDE163CF936A35753C1A9669C8B63" item-length="130" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>J.F.K. Restaurant Deal</hl1>
+      </hedline>
+      <byline class="print_byline">By Charles V. Bagli</byline>
+      <byline class="normalized_byline">Bagli, Charles V</byline>
+      <abstract>
+        <p>Select Service division of Restaurant Associates wins contract to operate restaurants and food kiosks at $1.2 billion terminal now under construction at Kennedy International Airport (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A division of Restaurant Associates, which owns the Sea Grill at Rockefeller Center and the Brasserie at the Seagram Building, has won a contract to operate the restaurants and food kiosks at the $1.2 billion terminal now under construction at Kennedy International Airport.</p>
+        <p>The company's Select Service division will oversee 16 restaurants.</p>
+      </block>
+      <block class="full_text">
+        <p>A division of Restaurant Associates, which owns the Sea Grill at Rockefeller Center and the Brasserie at the Seagram Building, has won a contract to operate the restaurants and food kiosks at the $1.2 billion terminal now under construction at Kennedy International Airport.</p>
+        <p>The company's Select Service division will oversee 16 restaurants.</p>
+        <p>Helen Deknatel, the commercial director for the terminal's developer and operator, JFK IAT, said on Tuesday that the developer had chosen Select Service, a large food company based in Europe, from a half-dozen companies that had sought the food service contract.</p>
+        <p>Charles V. Bagli (NYT)</p>
+        <p>METRO BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="08QNA" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1220936"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Peppers</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vegetables</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000808T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E6D6123CF93BA3575BC0A9669C8B63" item-length="238" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Answer to reader's question on how heat of hot peppers is measured; drawing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Red Hot Chili Peppers</p>
+        <p>Q.: How is the heat of hot peppers measured?</p>
+        <p>A.: The best-known method relies on the amount of a pepper extract mixed with water that a panel of tasters need to sense the heat. Invented in 1912 by Wilbur L. Scoville, a pharmacologist, the rating is given in Scoville units.</p>
+      </block>
+      <block class="full_text">
+        <p>Red Hot Chili Peppers</p>
+        <p>Q.: How is the heat of hot peppers measured?</p>
+        <p>A.: The best-known method relies on the amount of a pepper extract mixed with water that a panel of tasters need to sense the heat. Invented in 1912 by Wilbur L. Scoville, a pharmacologist, the rating is given in Scoville units.</p>
+        <p>The sample is dried and mixed with alcohol; then sugar water is added. The tasters are given shot glasses holding increasingly higher dilutions of the concoction and are asked to determine the dilution at which the pepper no longer burns the mouth.</p>
+        <p>A mild salsa might rate a puny 400 units on the scale; a jalapeno pepper might be 1,500 to 4,500, while a much hotter habanero pepper could hit 150,000.</p>
+        <p>The method relies on the subjective human palate, and scientists have increasingly turned instead to measuring the amount of capsaicin in the pepper. Capsaicin, a substance that gives the sensation of heat when it hits nerve receptors, is analyzed in terms of parts per million using computerized devices.</p>
+        <p>Substances other than capsaicin may be involved in heating up the mouth, and both ratings can vary widely from crop to crop and even from sample to sample from the same crop.</p>
+        <p>If eating a highly rated pepper causes distress, drink milk or eat yogurt; casein will help neutralize the capsaicin, while water usually does not provide relief.</p>
+        <p>C. CLAIBORNE RAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

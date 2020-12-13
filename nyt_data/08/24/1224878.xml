@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Off to Be the Wizard</title>
+    <meta content="24POTT0AA" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1224878"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <org class="indexing_service">Warner Brothers</org>
+        <person class="indexing_service">Radcliffe, Daniel</person>
+        <person class="indexing_service">Watson, Emma</person>
+        <person class="indexing_service">Grint, Rupert</person>
+        <person class="indexing_service">Rowling, J K</person>
+        <object.title class="indexing_service">Harry Potter (Book Series)</object.title>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features/Studios</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features/Studios/Warner Brothers</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000824T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E2DD1731F937A1575BC0A9669C8B63" item-length="104" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Off to Be the Wizard</hl1>
+      </hedline>
+      <abstract>
+        <p>Photo of Daniel Radcliffe, who will star as schoolboy wizard in film version of Harry Potter book series by Warner Brothers, with Emma Watson and Rupert Grint, who will play Hermione and Ron</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Daniel Radcliffe, 11, center, who will star as the schoolboy wizard in a Harry Potter film from Warner Brothers, was introduced at a news conference yesterday in London with Emma Watson, 10, left, and Rupert Grint, 11, who will play Hermione and Ron. (Reuters)</p>
+      </block>
+      <block class="full_text">
+        <p>Daniel Radcliffe, 11, center, who will star as the schoolboy wizard in a Harry Potter film from Warner Brothers, was introduced at a news conference yesterday in London with Emma Watson, 10, left, and Rupert Grint, 11, who will play Hermione and Ron. (Reuters)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

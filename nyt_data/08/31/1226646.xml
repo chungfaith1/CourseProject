@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="31CMPBRFS" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1226646"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000831T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E4DA1430F932A0575BC0A9669C8B63" item-length="228" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THOMAS AKIN, an investor, and Talkot Crossover Fund L.P., Sausalito, Calif., which he manages, acquired an 8.64 percent stake in Dynex Capital Inc., Glen Allen, Va., a real estate investment trust.</p>
+      </block>
+      <block class="full_text">
+        <p>THOMAS AKIN, an investor, and Talkot Crossover Fund L.P., Sausalito, Calif., which he manages, acquired an 8.64 percent stake in Dynex Capital Inc., Glen Allen, Va., a real estate investment trust.</p>
+        <p>ANSYS INC., Canonsburg, Pa., a software maker, agreed to buy ICEM CFD Engineering, Berkeley, Calif., a software developer, for $12.4 million.</p>
+        <p>FREQUENCY ELECTRONICS INC., Mitchel Field, N.Y., a maker of electronic devices, agreed to buy Gillam S.A., Liege, Belgium, a manufacturer of telecommunications equipment, for $15.3 million in cash and stock.</p>
+        <p>PECO ENERGY CO., the owner of Philadelphia's electric utility, paid $7.5 million for a 10 percent stake in a project to build nuclear power plants run by Eskom, South Africa's national electric utility.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

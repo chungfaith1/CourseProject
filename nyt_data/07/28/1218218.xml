@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>French Account of Concorde Crash</title>
+    <meta content="Y28TEXT" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1218218"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="indexing_service" type="descriptor">Concorde Airplane</classifier>
+        <location class="indexing_service">Paris (France)</location>
+        <location class="indexing_service">France</location>
+        <org class="indexing_service">Air France</org>
+        <classifier class="online_producer" type="types_of_material">Text</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/France</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France/Paris</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000728T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00EFDF173DF93BA15754C0A9669C8B63" item-length="222" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>French Account of Concorde Crash</hl1>
+      </hedline>
+      <abstract>
+        <p>Excerpts from communique issued by French government about crash of Air France Concorde, translated by The New York Times (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Following is an excerpt from a communique issued yesterday by the French government's Bureau of Accident Investigations about the crash of the Air France Concorde on Tuesday, and translated by The New York Times:</p>
+        <p>During the takeoff, as the plane passed ''decision speed'' (the point at which the aircraft can no longer abort the takeoff), the tower signals the crew that there are flames at the rear of the aircraft.</p>
+      </block>
+      <block class="full_text">
+        <p>Following is an excerpt from a communique issued yesterday by the French government's Bureau of Accident Investigations about the crash of the Air France Concorde on Tuesday, and translated by The New York Times:</p>
+        <p>During the takeoff, as the plane passed ''decision speed'' (the point at which the aircraft can no longer abort the takeoff), the tower signals the crew that there are flames at the rear of the aircraft.</p>
+        <p>The cockpit voice recorder shows that after rotation (the point at which the pilot pulls back on the column to raise the nose and take off), the crew reports a failure of engine No. 2, and a little later that the landing gear is not retracting.</p>
+        <p>The flight data recorder shows a decrease in the parameters of engine No. 2 during rotation until it stops, and a temporary decrease in the parameters of engine No. 1. It also shows that the speed practically does not change and that the altitude varies only a little. The aircraft is in flight for less than one minute when the parameters of engine No. 1 decrease again, the plane banks sharply to the left and crashes.</p>
+        <p>Wreckage is scattered in a defined area. Debris was recovered along the entire length of the trajectory of the aircraft. In particular, tire debris was found on the runway.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

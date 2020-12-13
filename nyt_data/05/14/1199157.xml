@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Local Heroes</title>
+    <meta content="14SALVATT" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1199157"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Salvatore, Nick</person>
+        <person class="indexing_service">Freeman, Joshua B</person>
+        <object.title class="indexing_service">Working-Class New York (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000514T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E2D71F39F937A25756C0A9669C8B63" item-length="658" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Local Heroes</hl1>
+      </hedline>
+      <byline class="print_byline">By Nick Salvatore</byline>
+      <byline class="normalized_byline">Salvatore, Nick</byline>
+      <abstract>
+        <p>Nick Salvatore reviews book Working-Class New York: Life and Labor Since World War II by Joshua B Freeman (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WORKING-CLASS NEW YORK</p>
+        <p>Life and Labor</p>
+        <p>Since World War II.</p>
+        <p>By Joshua B. Freeman.</p>
+        <p>Illustrated. 409 pp. New York:</p>
+        <p>The New Press. $35.</p>
+      </block>
+      <block class="full_text">
+        <p>WORKING-CLASS NEW YORK</p>
+        <p>Life and Labor</p>
+        <p>Since World War II.</p>
+        <p>By Joshua B. Freeman.</p>
+        <p>Illustrated. 409 pp. New York:</p>
+        <p>The New Press. $35.</p>
+        <p>New Yorkers consider their city an exceptional place, unique in the nation as a center of commerce, culture, finance and entertainment. (Make it in New York and you can make it anywhere.) Rarely, however, has someone claimed that the city's working people are in fact the key to its exceptional stature. This is precisely what Joshua B. Freeman asserts. In ''Working-Class New York,'' Freeman, an associate professor of history at Queens College, argues that the strength of organized labor and its continued political influence in the three decades following World War II were largely responsible for the rise of a social democratic politics that made the city special. The presence of organized labor, Freeman says, even gave the city its ''cultural greatness.''</p>
+        <p>''Working-Class New York'' actually comprises two books. The most compelling story explores efforts on the part of organized working people, in close connection with liberal politicians of both parties, to provide affordable housing, health insurance and decent jobs as the city's economy underwent a formidable transformation in the postwar decades. While little that is dramatically new is revealed here, Freeman's account is an important reminder that social policy is not made simply by political elites.</p>
+        <p>Far more problematic, however, is the book's other story, Freeman's attempt to understand the meaning of these efforts. This story's villain is an elitist ''hegemonic liberalism'' that used means both fair but more often foul to crush the social democratic impulse. Two stand out particularly. The anti-Communism of the 1950's, he argues, deprived the labor movement of effective leaders, leaving the unions with little alternative but to gravitate toward ''the liberal center.'' Twenty years later, the city's fiscal crisis allowed financial leaders to implement ''a general corporatist approach'' that reduced city jobs and services.</p>
+        <p>The book's heroes, in turn (this really is a ''friends and enemies'' type of book), are the Communist and independent leftists who envisioned a labor movement ''winning and wielding social power.'' It's a heady tale, to be sure, but one that is fundamentally flawed.</p>
+        <p>It would have been valuable, given its importance to his central argument, for Freeman to distinguish between liberalism and social democratic politics. Similarly, one looks in vain for an explanation of Freeman's praise for Franklin Roosevelt while dismissing liberalism, the New Deal's reigning political philosophy.</p>
+        <p>In addition, Freeman is often unrealistic. To argue that the revival of the Labor Day parade in 1981 (following a 13-year hiatus), together with the unsuccessful mayoral candidacy of State Assemblyman Frank Barbaro, a son of the old left, ''testified to the continuing institutional strength of New York unionism'' suggests a fatal penchant for symbolism over political substance. But this is part of the book's pattern: the only unmitigated good noted in organized labor comes from those with ties to a left heritage. That may be comforting to some, but it is profoundly misleading.</p>
+        <p>Despite its title, actual working people are not the subject of this book. While Freeman explores in loving detail the positions of a few left-led unions with a combined membership of less than 40,000, he blithely dismisses Catholic anti-Communist demonstrations, some as large as 50,000, as simply a manipulative creation of New York's Roman Catholic archbishop, Cardinal Francis Spellman. In an analysis of a city that was 50 percent Catholic, with a large, multiethnic and organized Catholic working class, this strains credibility. A sustained examination of the political and social activities of working people in neighborhoods like Bensonhurst and South Brooklyn, Harlem, the Lower East Side and elsewhere would have revealed men and women whose own, often militant, commitments frequently diverged from the leaders and causes Freeman so romanticizes. That story still awaits its historian.</p>
+        <p>Nick Salvatore teaches American history at Cornell University and is writing a biography of the Rev. C. L. Franklin.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Nick Salvatore teaches American history at Cornell University and is writing a biography of the Rev. C. L. Franklin.</tagline>
+    </body.end>
+  </body>
+</nitf>

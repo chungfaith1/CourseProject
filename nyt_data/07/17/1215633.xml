@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dividend Meetings</title>
+    <meta content="17DIVI" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215633"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000717T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E3DE123BF934A25754C0A9669C8B63" item-length="330" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dividend Meetings</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A partial list for this week.</p>
+        <p>MONDAY  Central Vt Pub Svc Corp  Johnson &amp; Johnson  Total Sys Svcs Inc</p>
+      </block>
+      <block class="full_text">
+        <p>A partial list for this week.</p>
+        <p>MONDAY  Central Vt Pub Svc Corp  Johnson &amp; Johnson  Total Sys Svcs Inc</p>
+        <p>TUESDAY  Black Hills Corp  Cavalier Homes Inc  CCB Finl Corp  Charter One Finl Inc  Clorox Co  Eastman Kodak Co  FirstEnergy Corp  Fleming Cos Inc  Health Care REIT Inc  IMS Health Inc  M &amp; T Bk Corp  Manitowoc Inc  Public Svc  Enterprise Group  Thornburg Mtg Inc  (was Thornburg Asset Corp)  Washington Mut Inc</p>
+        <p>WEDNESDAY  Apartment Invt &amp; Mgmt Co  Ashland Inc  California Wtr Svc Group  Chittenden Corp  Cinergy Corp  Dana Corp  Detroit Diesel Corp  Equitable Res Inc  Federal Mogul Corp  Heller Finl Inc  Minnesota Pwr Inc  Omega Healthcare Invs Inc  PG&amp;E Corp  RPM Inc Ohio  TCW Conv Secs Fd  Teco Energy Inc  Vastar Res Inc  Western Res Inc</p>
+        <p>THURSDAY  Alltel Corp  AptarGroup Inc  Black &amp; Decker Corp  Burlington Northn Sante Fe  Cabot Oil &amp; Gas Corp  Capital One Finl Corp  Coca-Cola Co  Cooper Tire &amp; Rubr Co  Golden West Finl Corp Del  Hartford Finl Svcs Group Inc  Idacorp Inc  Keycorp New  Lakehead Pipe Line Partners  Pepsico Inc  PPG Inds Inc  Simon Ppty Group Inc New  Standard Register Co  Torchmark Corp  Union Planters Corp</p>
+        <p>FRIDAY  Borg Warner Inc (was Borg Warner Automotive Inc)  Cleco Corp New  Corning Inc  Ikon Office Solutions Inc  MassMutual Corporate Invs Inc</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

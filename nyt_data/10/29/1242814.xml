@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An E-ZPass Into The System</title>
+    <meta content="29EXPA$02" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1242814"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="N.J. LAW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Tolls</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <org class="indexing_service">E-Zpass (Co)</org>
+        <person class="indexing_service">Reagoso, Christopher</person>
+        <person class="indexing_service">Raghunathan, Abhi</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tolls</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001029T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE2DA1131F93AA15753C1A9669C8B63" item-length="759" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An E-ZPass Into The System</hl1>
+      </hedline>
+      <byline class="print_byline">By ABHI RAGHUNATHAN</byline>
+      <byline class="normalized_byline">Raghunathan, Abhi</byline>
+      <dateline>TRENTON</dateline>
+      <abstract>
+        <p>E-ZPass, after news reports that independent Web programmer Christopher Reagoso was able to easily access customer billing statements via Internet, scrambles data to make security modifications; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>All Christopher Reagoso needed to get access to a stranger's E-ZPass billing statement was a couple of clicks and key strokes. He didn't write code or hack or practice some other form of computer voodoo, he just added another digit to his account number in a Web page address and found himself looking at another person's account statement.</p>
+        <p>Mr. Reagoso, 28, an independent Web programmer from West Chester, Pa., discovered earlier this month that an E-ZPass service that e-mailed monthly billing statements to roughly 70,000 customers had a security problem: it had no security. No password, no PIN number, not even a sign asking Web surfers to wipe their feet before entering. It was the Internet equivalent of not just forgetting to lock the front door, but forgetting to shut it, too.</p>
+      </block>
+      <block class="full_text">
+        <p>All Christopher Reagoso needed to get access to a stranger's E-ZPass billing statement was a couple of clicks and key strokes. He didn't write code or hack or practice some other form of computer voodoo, he just added another digit to his account number in a Web page address and found himself looking at another person's account statement.</p>
+        <p>Mr. Reagoso, 28, an independent Web programmer from West Chester, Pa., discovered earlier this month that an E-ZPass service that e-mailed monthly billing statements to roughly 70,000 customers had a security problem: it had no security. No password, no PIN number, not even a sign asking Web surfers to wipe their feet before entering. It was the Internet equivalent of not just forgetting to lock the front door, but forgetting to shut it, too.</p>
+        <p>After hearing of news reports about Mr. Reagoso's discovery, E-ZPass slammed the door, shutting down the e-mail service, which had been in place since late May, until it is fixed. As programmers scramble to make security modifications, subscribers will get their billing statements through regular mail. Edward Gross, director of the New Jersey Turnpike Authority, which runs E-ZPAss estimates that a new, more secure service will be up by the end of this week.</p>
+        <p>The main E-ZPass Web page (www.ezpass.com), which customers can also use to check the status of  their accounts, is reached by password, and it is secure and active, Mr. Gross said.</p>
+        <p>The problem with the billing system site ''is no passwords,'' said Mr. Reagoso. ''No passwords means you don't even have to break in. A lot of folks think that it takes a hacker to do this but anyone in the public is capable of doing it.''</p>
+        <p>When Mr. Reagoso, an E-ZPass holder for about five months, received his first e-mail statement two weeks ago, he noticed that the Web page address had his account number in it. Mr. Reagoso said that he added a 1 to his account number in the address and encountered someone else's statement.</p>
+        <p>Mr. Reagoso could see the person's name, home address, a list of each toll booth the person had stopped at, and how much was paid at each. He could not see telephone numbers or credit card information.</p>
+        <p>''New Web programmers need to learn not to do this,'' said Mr. Reagoso. ''This is the kind of mistake there's no excuse for. I've seen other programmers make similar mistakes, but not in any public system.''</p>
+        <p>After repeating the process a few times, he said he contacted the Federal Bureau of Investigation and a Philadelphia NBC television news operation. Edward Gross, executive director of the New Jersey Turnpike Authority, said he asked Chase Manhattan, which runs the E-ZPass Web system, to check out Mr. Reagoso's claim as soon as he heard about news reports on it, and after getting confirmation, immediately shut it down.</p>
+        <p>Chase Manhattan runs the E-ZPass Web site but a subcontractor, PSI Technologies of Austin, Tex., designed the e-mail billing system. PSI directed all inquiries to Chase Manhattan.</p>
+        <p>''Only four accounts were penetrated by the individual before the e-mail service which is operated by a subcontractor to Chase was shut down,'' said Kristen Batteria, a spokeswoman for Chase Manhattan. ''Chase has indication that the breach is not within the capabilities of an average user. We are currently conducting a careful review of the system and taking steps to implement additional security features.''</p>
+        <p>Representatives for both Chase Manhattan and the New Jersey Turnpike Authority said they were waiting for the results of investigations before they decided if they would press any charges against Mr. Reagoso.</p>
+        <p>Mr. Reagoso said he didn't break into any system;  all the information he came across was publicly available. ''There was no breach of security because there was no security to breach,'' he said.</p>
+        <p>Mr. Reagoso said he had spoken with programmers at Chase Manhattan in charge of E-ZPass and was hopeful that they would be able to fix the problem. He plans to keep both E-ZPass and the E-ZPass e-mail billing service. ''I'm interested in seeing how their new server works,'' he said.</p>
+        <p>N.J. LAW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

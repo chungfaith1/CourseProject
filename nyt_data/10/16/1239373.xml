@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Times Square Tower For Accounting Firm</title>
+    <meta content="16X2SQUA" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1239373"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001016T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07EFDB1E3FF935A25753C1A9669C8B63" item-length="95" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Times Square Tower For Accounting Firm</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Arthur Andersen, the accounting firm, has signed a lease with Boston Properties that would enable the developer to build a 47-story, $600 million skyscraper at the south end of Times Square. The building would be the last of four office towers at the core of a plan to transform Times Square from a dowdy and foreboding crossroads into a vibrant entertainment and commercial district.</p>
+        <p>Article, Page B1.</p>
+      </block>
+      <block class="full_text">
+        <p>Arthur Andersen, the accounting firm, has signed a lease with Boston Properties that would enable the developer to build a 47-story, $600 million skyscraper at the south end of Times Square. The building would be the last of four office towers at the core of a plan to transform Times Square from a dowdy and foreboding crossroads into a vibrant entertainment and commercial district.</p>
+        <p>Article, Page B1.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

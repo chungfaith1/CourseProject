@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INTEL LOOKING INTO NEW AREA</title>
+    <meta content="MB234612" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225203"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY BRIEFING: HARDWARE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Intel Corp</org>
+        <person class="indexing_service">Fisher, Lawrence M</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000825T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E0DF1231F936A1575BC0A9669C8B63" item-length="159" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INTEL LOOKING INTO NEW AREA</hl1>
+      </hedline>
+      <byline class="print_byline">By Lawrence M. Fisher</byline>
+      <byline class="normalized_byline">Fisher, Lawrence M</byline>
+      <abstract>
+        <p>Intel Corp is forming industry working group to foster standards and protocols for so-called peer-to-peer computing, particularly in business environments; peer-to-peer computing is set of technologies that enable direct exchange of services or data between computers (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Intel is forming an industry working group to foster standards and protocols for so-called peer-to-peer computing, particularly in business environments. Popularized by music distribution services like Napster and Gnutella, peer-to-peer computing is a set of technologies that enable the direct exchange of services or data between computers. ''Peer-to-peer computing could be as important to the Internet's future as the Web browser was to its past,'' said Patrick Gelsinger, vice president and chief technology officer of the Intel Architecture Group. By using the collective processing power of the thousands of PC's at Intel in a peer-to-peer network, the company was able to mothball its mainframe computers, saving $500 million, he said.</p>
+        <p>Lawrence M. Fisher (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Intel is forming an industry working group to foster standards and protocols for so-called peer-to-peer computing, particularly in business environments. Popularized by music distribution services like Napster and Gnutella, peer-to-peer computing is a set of technologies that enable the direct exchange of services or data between computers. ''Peer-to-peer computing could be as important to the Internet's future as the Web browser was to its past,'' said Patrick Gelsinger, vice president and chief technology officer of the Intel Architecture Group. By using the collective processing power of the thousands of PC's at Intel in a peer-to-peer network, the company was able to mothball its mainframe computers, saving $500 million, he said.</p>
+        <p>Lawrence M. Fisher (NYT)</p>
+        <p>TECHNOLOGY BRIEFING: HARDWARE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

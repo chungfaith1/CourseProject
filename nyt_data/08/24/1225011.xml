@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Clear Vision</title>
+    <meta content="LTR000605" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225011"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">ripley-duggan, edward</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000824T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E7DA1431F937A1575BC0A9669C8B63" item-length="164" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Clear Vision</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Edward Ripley-Duggan on Aug 10 article on printed page versus PC screen</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Printed Page Beats PC Screen for Reading, Study Finds'' (Aug. 10), about how material is comprehended more readily on the printed page than on the computer screen, omits one significant consideration. Computer screens (PC -- the Mac standard is slightly different, but comparable) display text at 72 dots per inch. The eye must interpolate and smooth the jaggedness of the screen font, a task that decreases both reading speed and comprehension.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Printed Page Beats PC Screen for Reading, Study Finds'' (Aug. 10), about how material is comprehended more readily on the printed page than on the computer screen, omits one significant consideration. Computer screens (PC -- the Mac standard is slightly different, but comparable) display text at 72 dots per inch. The eye must interpolate and smooth the jaggedness of the screen font, a task that decreases both reading speed and comprehension.</p>
+        <p>Since the beginning of the 20th century, the problem of text legibility in printed books has been extensively investigated. Sadly, this research seems to have been largely ignored by the proponents of electronic research and the electronic book.</p>
+        <p>EDWARD RIPLEY-DUGGAN  Olivebridge, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

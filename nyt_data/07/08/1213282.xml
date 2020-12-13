@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR015824" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213282"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Slavery</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <classifier class="indexing_service" type="descriptor">Surveys and Series</classifier>
+        <location class="indexing_service">Cane River Creole National Historical Park (Natchitoches, La)</location>
+        <org class="indexing_service">National Park Service</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Surveys and Series</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Leisure</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Slavery</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000708T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E4DA1438F93BA35754C0A9669C8B63" item-length="138" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of June 22 article about the historical and racial implications of a plan for a national park on Magnolia Plantation in Louisiana</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article on June 22 about the historical and racial implications of a plan for a national park on Magnolia Plantation in Louisiana misstated the educational record of Viola Cowles, the mother of the park's historical interpreter. Mrs. Cowles graduated from high school and took some college courses. The article also misspelled the names of the park's superintendent, Laura Soulliere, and a member of the plantation's founding family, Mary Catallo. It also misstated Ms. Catallo's occupation. She is an executive of an engineering firm.</p>
+        <p>A front-page picture caption described one of the plantation's slave cabins incorrectly. It was not the boyhood home of Leslie Vercher, who is helping restore the cabins (though Mr. Vercher did live on the plantation as a child).</p>
+      </block>
+      <block class="full_text">
+        <p>An article on June 22 about the historical and racial implications of a plan for a national park on Magnolia Plantation in Louisiana misstated the educational record of Viola Cowles, the mother of the park's historical interpreter. Mrs. Cowles graduated from high school and took some college courses. The article also misspelled the names of the park's superintendent, Laura Soulliere, and a member of the plantation's founding family, Mary Catallo. It also misstated Ms. Catallo's occupation. She is an executive of an engineering firm.</p>
+        <p>A front-page picture caption described one of the plantation's slave cabins incorrectly. It was not the boyhood home of Leslie Vercher, who is helping restore the cabins (though Mr. Vercher did live on the plantation as a child).</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

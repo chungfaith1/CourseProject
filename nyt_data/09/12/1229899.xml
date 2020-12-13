@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New York's Uninsured</title>
+    <meta content="L12INS$01" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/12/opinion/L12INS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1229899"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Health Insurance</classifier>
+        <org class="indexing_service">United Hospital Fund</org>
+        <person class="indexing_service">Tallon, James R Jr</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000912T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E1DF1638F931A2575AC0A9669C8B63" item-length="165" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New York's Uninsured</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from United Hospital Fund president, James R Tallon Jr, on Sept 6 article calls for national effort to provide health insurance for workers</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Reports that rising health maintenance organization costs are forcing businesses to increase premiums or, worse, abandon health insurance plans altogether (front page, Sept. 6) are alarming. The implications are especially ominous here in New York.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Reports that rising health maintenance organization costs are forcing businesses to increase premiums or, worse, abandon health insurance plans altogether (front page, Sept. 6) are alarming. The implications are especially ominous here in New York.</p>
+        <p>A new study commissioned by the United Hospital Fund concluded that working New Yorkers are more likely to lack health insurance than workers nationally. Last year, 17 percent of New York State's work force -- 1.4 million people -- was without health insurance, as was a startling 50 percent of workers earning less than $20,000.</p>
+        <p>New York's Healthy New York program, scheduled to begin in January, will provide a new coverage option for companies. But with an unprecedented federal surplus, it is time to rethink this national problem with resources commensurate to the task.</p>
+        <p>JAMES R. TALLON JR.  President, United Hospital Fund  New York, Sept. 8, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

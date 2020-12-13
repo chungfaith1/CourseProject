@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Max and Marjorie'</title>
+    <meta content="LTR112845" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1218549"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">May, Philip S Jr</person>
+        <person class="indexing_service">Gottlieb, Robert</person>
+        <person class="indexing_service">Perkins, Maxwell E</person>
+        <person class="indexing_service">Rawlings, Marjorie Kinnan</person>
+        <person class="indexing_service">Tarr, Roger L</person>
+        <object.title class="indexing_service">Max and Marjorie (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000730T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07EED71F3BF933A05754C0A9669C8B63" item-length="143" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Max and Marjorie'</hl1>
+      </hedline>
+      <abstract>
+        <p>Philip S May Jr letter on Robert Gottlieb's July 2 essay about correspondence between Maxwell E Perkins and Marjorie Kinnan Rawlings; notes Roger L Tarr edited book, Max and Marjorie (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I greatly enjoyed Robert Gottlieb's essay ''Max and Marjorie: An Editorial Love Story'' (July 2), about the collected correspondence of Maxwell E. Perkins and Marjorie Kinnan Rawlings. But I am shocked and astounded that no mention was made of the editor, Rodger L. Tarr, distinguished professor of English at Illinois State University. Tarr spent years researching and gathering material for ''Max and Marjorie,'' a monumental book.</p>
+        <p>Philip S. May Jr.  Jacksonville, Fla.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I greatly enjoyed Robert Gottlieb's essay ''Max and Marjorie: An Editorial Love Story'' (July 2), about the collected correspondence of Maxwell E. Perkins and Marjorie Kinnan Rawlings. But I am shocked and astounded that no mention was made of the editor, Rodger L. Tarr, distinguished professor of English at Illinois State University. Tarr spent years researching and gathering material for ''Max and Marjorie,'' a monumental book.</p>
+        <p>Philip S. May Jr.  Jacksonville, Fla.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

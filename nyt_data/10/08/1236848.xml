@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Fiction</title>
+    <meta content="RV104140" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1236848"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Porter, Michael</person>
+        <person class="indexing_service">Cornwell, Bernard</person>
+        <object.title class="indexing_service">Stonehenge: 2000 Bc (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001008T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E6DB163DF93BA35753C1A9669C8B63" item-length="243" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Fiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Michael Porter</byline>
+      <byline class="normalized_byline">Porter, Michael</byline>
+      <abstract>
+        <p>Michael Porter reviews novel Stonehenge: 2000 BC by Bernard Cornwell (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>STONEHENGE</p>
+        <p>2000 B.C.</p>
+        <p>By Bernard Cornwell.</p>
+        <p>HarperCollins, $26.</p>
+      </block>
+      <block class="full_text">
+        <p>STONEHENGE</p>
+        <p>2000 B.C.</p>
+        <p>By Bernard Cornwell.</p>
+        <p>HarperCollins, $26.</p>
+        <p>Combining informed conjecture with the story of a savage family whose treachery makes the Sopranos look tame by comparison, Bernard Cornwell has written a diverting novel that imagines the history behind Stonehenge. At the story's center are three brothers: Lengar, a warrior who takes the leadership of his tribe through patricide; Camaban, a crippled outcast who transforms himself into a sorcerer and seizes power from Lengar; and Saban, a craftsman who longs for the peaceful days of his father's reign. To Saban falls the unenviable task of building the temple that Lengar believes will make him invincible in battle and that Camaban believes will unite the solar and lunar deities and thus eliminate winter along with other causes of suffering in the world. Cornwell's depictions of the herculean efforts needed to move, shape and raise the stones of Stonehenge sound plausible, and his portrayal of the vitality and brutality of a society slowly creeping toward civilization is deft. The historical note that closes the book attests to Cornwell's concern with getting the details right, but his chief interest seems to lie in borrowing these details for a fantastic story of intertribal rivalries, Machiavellian scheming by rival sect leaders and fierce battles over talismans. In the end, the book is more likely to appeal to fans of J. R. R. Tolkien than of David Macaulay.</p>
+        <p>Michael Porter</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

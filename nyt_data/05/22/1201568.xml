@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>David Bretherton, 76, Noted Film Editor</title>
+    <meta content="Y22BRET" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="The Arts" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201568"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <person class="indexing_service">Bretherton, David</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000522T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E2D7113AF931A15756C0A9669C8B63" item-length="126" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>David Bretherton, 76, Noted Film Editor</hl1>
+      </hedline>
+      <abstract>
+        <p>David Bretherton, Oscar-winning film editor, dies at age 76 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>David Bretherton, an Oscar-winning film editor, died on May 11 in Los Angeles. He was 76.</p>
+        <p>Mr. Bretherton, whose father was the director Howard Bretherton, edited some 50 films. He won an Academy Award for his work on the 1972 film adaptation of ''Cabaret,'' starring Liza Minnelli and Joel Grey.</p>
+      </block>
+      <block class="full_text">
+        <p>David Bretherton, an Oscar-winning film editor, died on May 11 in Los Angeles. He was 76.</p>
+        <p>Mr. Bretherton, whose father was the director Howard Bretherton, edited some 50 films. He won an Academy Award for his work on the 1972 film adaptation of ''Cabaret,'' starring Liza Minnelli and Joel Grey.</p>
+        <p>A Los Angeles native, Mr. Bretherton began his editing career with ''An Affair to Remember'' (1957) and went on to edit films like ''The Diary of Anne Frank'' (1959), ''The Sandpiper'' (1965), ''Cannery Row'' (1982), ''The Pickup Artist'' (1987) and ''Sea of Love'' (1989).</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

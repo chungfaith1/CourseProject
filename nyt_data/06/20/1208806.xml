@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fighting Fog</title>
+    <meta content="20QNA" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208806"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q&amp;A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Fog</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000620T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E3D81531F933A15755C0A9669C8B63" item-length="341" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fighting Fog</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Question and answer column on how antifogging agents for mirrors and eyeglasses work; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q.: How do antifogging treatments for mirrors and eyeglasses work?</p>
+        <p>A.: Antifogging agents force the tiny droplets of water that make up fog to merge into a transparent sheet, said Ken Duffie, chief engineer for H. L. Bouton Inc. of Wareham, Mass., which makes safety glasses and related products, including an antifogging agent.</p>
+        <p>''You spray a liquid on the lens, and when it dries it forms a clear film,'' he said. ''Normally, water beads up, but when you add the surfactant, the beads run together. The water is still there, but you can see through it.''</p>
+      </block>
+      <block class="full_text">
+        <p>Q.: How do antifogging treatments for mirrors and eyeglasses work?</p>
+        <p>A.: Antifogging agents force the tiny droplets of water that make up fog to merge into a transparent sheet, said Ken Duffie, chief engineer for H. L. Bouton Inc. of Wareham, Mass., which makes safety glasses and related products, including an antifogging agent.</p>
+        <p>''You spray a liquid on the lens, and when it dries it forms a clear film,'' he said. ''Normally, water beads up, but when you add the surfactant, the beads run together. The water is still there, but you can see through it.''</p>
+        <p>A surfactant is a chemical that lowers the surface tension of the liquid in which it is dissolved, in this case water. The exact chemistry of the product is proprietary, Mr. Duffie said, but it basically resembles soaps or detergents.</p>
+        <p>A low-cost emergency substitute for commercial antifogging agents is potato juice. In research on land mine removal at the University of Western Australia, potato juice was tested for use in poor countries to keep blast-protection visors from fogging up. It performed as well as some brand name products.</p>
+        <p>The researchers cut a slice from a raw potato, rubbed it generously and evenly onto the inside surface of the visor, then wiped away solids and excess juice with a soft cloth.</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Readers are invited to submit questions by mail to Question, Science Times, The New York Times, 229 West 43rd Street, New York, N.Y. 10036-3959, or by e-mail to question@nytimes.com.</p>
+        <p>Questions of general interest will be answered in this column, but unpublished letters cannot be answered individually.</p>
+        <p>Q&amp;A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

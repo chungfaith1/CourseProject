@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR231510" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Theater; Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1198415"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="indexing_service" type="descriptor">Tony Awards (Theater Awards)</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <person class="indexing_service">Mayer, Michael</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tony Awards (Theater Awards)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tony Awards (Theater Awards)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000510T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E2D91E38F933A25756C0A9669C8B63" item-length="105" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of May 9 article on Tony Award nominations; Michael Mayer was director with most recent multiple nominations in different categories</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article yesterday about the Tony Award nominations referred incorrectly to the previous occurrence of multiple nominations for a single director in different categories. Michael Blakemore, with two such nominations this year, was similarly nominated 10 years ago, but the most recent case was that of Michael Mayer, nominated last year for both the musical ''You're a Good Man, Charlie Brown'' and the play ''Side Man.''</p>
+      </block>
+      <block class="full_text">
+        <p>An article yesterday about the Tony Award nominations referred incorrectly to the previous occurrence of multiple nominations for a single director in different categories. Michael Blakemore, with two such nominations this year, was similarly nominated 10 years ago, but the most recent case was that of Michael Mayer, nominated last year for both the musical ''You're a Good Man, Charlie Brown'' and the play ''Side Man.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

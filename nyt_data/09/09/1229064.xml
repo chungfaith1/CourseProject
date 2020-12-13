@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DEVILS GO TO WORK</title>
+    <meta content="PL025654" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1229064"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PLUS: HOCKEY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hockey, Ice</classifier>
+        <org class="indexing_service">New Jersey Devils</org>
+        <person class="indexing_service">Yannis, Alex</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey/National Hockey League/New Jersey Devils</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hockey, Ice</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000909T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E1DA1139F93AA3575AC0A9669C8B63" item-length="113" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DEVILS GO TO WORK</hl1>
+      </hedline>
+      <byline class="print_byline">By Alex Yannis</byline>
+      <byline class="normalized_byline">Yannis, Alex</byline>
+      <abstract>
+        <p>Scene at New Jersey Devils training camp described (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Larry Robinson divided his team into three groups to open camp in West Orange, N.J. Two groups scrimmaged in the morning and the third practiced drills in the afternoon.</p>
+      </block>
+      <block class="full_text">
+        <p>Larry Robinson divided his team into three groups to open camp in West Orange, N.J. Two groups scrimmaged in the morning and the third practiced drills in the afternoon.</p>
+        <p>Missing were Jason Arnott and Scott Niedermayer, who are unsigned restricted free agents, and Petr Sykora, who had emergency surgery Thursday night to have his tonsils removed.</p>
+        <p>Sykora will miss at least a week of camp.</p>
+        <p>Alex Yannis</p>
+        <p>PLUS: HOCKEY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

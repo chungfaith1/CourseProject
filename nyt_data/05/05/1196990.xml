@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Disruptive Virus Invades Computers Around the World</title>
+    <meta content="05VIRU" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1196990"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000505T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E6DF1738F936A35756C0A9669C8B63" item-length="1444" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Disruptive Virus Invades Computers Around the World</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A rogue software program, borne by an e-mail message proclaiming ''I love you,'' propelled itself around the world yesterday, jamming and crashing e-mail systems and destroying data on hundreds of thousands of computers.</p>
+        <p>To defend themselves, thousands of corporations unhooked their computer systems from the Internet and began a laborious process of purging the program internally.</p>
+      </block>
+      <block class="full_text">
+        <p>A rogue software program, borne by an e-mail message proclaiming ''I love you,'' propelled itself around the world yesterday, jamming and crashing e-mail systems and destroying data on hundreds of thousands of computers.</p>
+        <p>To defend themselves, thousands of corporations unhooked their computer systems from the Internet and began a laborious process of purging the program internally.</p>
+        <p>Underscoring how interconnected the world's personal computers have become, the program also made its impact felt in government agencies including the White House, the Pentagon, Congress and the British House of Commons.</p>
+        <p>At Ford Motor, one of the corporations hit first and hardest, security administrators kept the e-mail system offline for much of the day.</p>
+        <p>Computer security experts said the program was first identified in Asia on Wednesday and might have been created in the Philippines. It moved to Europe and across the Atlantic during the workday yesterday.</p>
+        <p>Like a rapidly spread program last year known as Melissa, the current one is activated when a user clicks on an e-mail attachment and can be propagated automatically to e-mail addresses found on the user's computer.</p>
+        <p>But while Melissa was largely benign, the current program has the potential to destroy files and can spread in additional ways.</p>
+        <p>''This is Melissa on steroids,'' said Simon Perry, vice president for security at Computer Associates, a software publisher based in Islandia, N.Y. ''We're seeing major impacts affecting Fortune 100 companies.''</p>
+        <p>Experts also warned of copycats, and by late yesterday at least one variant of the malicious program, with ''Fwd: Joke'' in the e-mail subject line, was already circulating.</p>
+        <p>A Pentagon spokesman, Kenneth Bacon, said he received 40 copies of the ''I Love You'' program in his e-mail yesterday morning. ''I've never had so much attention,'' he said. But he said classified computer networks had not been affected.</p>
+        <p>Officials at the Computer Emergency Response Team at Carnegie Mellon University said at 2:15 p.m. Eastern time that they had received 238 reports of the program affecting more than 294,000 Internet host computers, suggesting that perhaps millions of individual PC's had received the malicious program.</p>
+        <p>The best way to avoid infection, experts advised, is not to open e-mail attachments from unknown sources and to keep antivirus software up to date. Once a computer is infected, special software may be needed to repair any damaged files.</p>
+        <p>The Federal Bureau of Investigation said it was looking into the case, which comes three months after a spate of attacks in which programs harnessing thousands of computers were used to block or impede access to several leading Web sites.</p>
+        <p>While programs like the one unleashed this week are frequently referred to as viruses, the current one has attributes of both a virus and what is known as a computer worm. Viruses spread parasitically by attaching themselves to other programs, while worms propel themselves through computer networks.</p>
+        <p>Written in Microsoft's Visual Basic scripting language, the current program preys particularly on users of the Microsoft Outlook e-mail program. Once executed, it tries to resend itself to the user's entire Outlook address book.</p>
+        <p>The program can also spread itself through a version of the Internet Relay Chat system. And it can replace a range of file types on a user's hard disk, including MP3 audio files, JPEG picture files and a variety of program files with extensions including .vbs, .vbe, .js, .jse, .css, .wsh, .sct, .hta and .mp2.</p>
+        <p>In addition, it may try to fetch another program from a Web site run by an Internet service provider in the Philippines that can steal passwords from the user's computer and send them to an e-mail address also based in the Philippines.</p>
+        <p>The Internet service provider, known as skyinet, based in the city of Quezon, said it discovered on Wednesday that its systems were being used by the program and had removed the files. A manager said the company had contacted the local authorities and was trying to help determine the culprit's identity.</p>
+        <p>Several clues left in the program's source listing may help determine who wrote it. Words including ''barok'' and ''spyder'' are found in the listing, as well as a statement, ''I hate go to school.'' Barok is a Tagalog slang word referring to a strange or crazy person.</p>
+        <p>''They're either trying to look like a teenager, or they are a teenager,'' said Richard M. Smith, an independent computer security researcher based in Cambridge, Mass.</p>
+        <p>The program also provided vivid evidence of the world's reliance on Microsoft's software. A number of computer security experts noted that the rapid spread of the program was made easier by the fact that most PC's run the same software.</p>
+        <p>For example, General Motors said that it had not had a problem with the computer worm. John Ahearne, a company spokesman, said G.M. did not use Outlook and believed that this had helped. ''We're a Lotus Notes shop and apparently the software does not propagate on Lotus Notes,'' Mr. Ahearne said.</p>
+        <p>But Scott Culp, a program manager for the Microsoft Security Response Center, said: ''This is a general issue, not a Microsoft issue. You can write a virus for any platform.''</p>
+        <p>H. J. Heinz said its e-mail system was shut from noon to 2 p.m. to disinfect it. ''It hasn't disrupted operations,'' said Jack Kennedy, a spokesman, ''but it was an annoyance.''</p>
+        <p>Brown &amp; Caldwell, an environmental engineering and consulting firm with 40 offices from the East Coast to Hawaii, was hit hard. ''It was everywhere within two or three hours this morning,'' said Daniel Mone, director of information services of the company, which is based in Pleasant Hill, Calif. He said 20,000 files of photo and video data had been destroyed, though backup copies existed. ''We are not restoring the files until we are sure the virus is eliminated,'' he said.</p>
+        <p>At the University of Texas at Austin, the nation's largest campus, with  more than 50,000 students, warnings went out by voice mail to every telephone and were posted on the university Web site. Thousands of users  received the infectious e-mail, according to Rick Botts, a university systems analyst, but calls to the help desk were no greater than normal, and only a few people seemed to have opened the file.</p>
+        <p>''I haven't heard from anyone who hasn't gotten it,'' he said. ''I've gotten it -- I haven't looked lately -- probably a dozen times. But by 9 o'clock, word was out all across campus that this was something not to touch.''</p>
+        <p>On Wall Street, the most noticeable effect was that workers spent more time than usual on the phone as some firms, and institutions shut down e-mail systems.</p>
+        <p>At Merrill Lynch &amp; Company, the e-mail system was out for much of the day as technicians worked to eradicate the virus. Brokers and other Merrill employees use e-mail to communicate with clients and co-workers but the firm's businesses are not dependent on e-mail, a Merrill spokesman said. ''It has had no impact on our business,'' he said.</p>
+        <p>The Goldman Sachs Group restricted its e-mail system to internal communication early yesterday as a precaution, a spokeswoman said. Some other big firms, including Morgan Stanley Dean Witter &amp; Company and J. P. Morgan &amp; Company, reported no problems.</p>
+        <p>AT&amp;T started shutting down its e-mail system yesterday morning, and by 3 p.m. the company's 145,000 employees had to use telephones to communicate. The shutdown severed the main artery of communication with headquarters for the 10 percent of AT&amp;T managers who work from home. AT&amp;T, based in Basking Ridge, N.J., said it hoped to restore the system by midnight.</p>
+        <p>Traffic on the company's communication network was about 2 percent higher than normal yesterday, said Burke Stinson, a company spokesman. The increase may have resulted from workers' switching to phone calls and using fax machines to send documents they would otherwise have sent by computer, he said.</p>
+        <p>''I have not heard of it having a dramatic impact on business,'' Mr. Stinson said. ''I suspect that some people discovered today that not receiving missives from headquarters could result in a pleasant day at the office.''</p>
+        <p>Some victims seemed amused or even faintly pleased.</p>
+        <p>''I found 64 messages saying 'I love you' on my computer this morning,'' said Dr. Matthew Naythons, a vice president of PlanetRx, an Internet drugstore based in South San Francisco, Calif. ''Given the state of of e-commerce these days, I was strangely moved.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

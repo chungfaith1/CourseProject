@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Churning Out the Proteins</title>
+    <meta content="15DNA.$03" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1222669"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Biology and Biochemistry</classifier>
+        <classifier class="indexing_service" type="descriptor">Proteins</classifier>
+        <classifier class="indexing_service" type="descriptor">Ribosomes</classifier>
+        <org class="indexing_service">Yale University</org>
+        <person class="indexing_service">Steitz, Thomas A (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Proteins</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000815T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01EFD8103FF936A2575BC0A9669C8B63" item-length="309" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Churning Out the Proteins</hl1>
+      </hedline>
+      <abstract>
+        <p>Yale scientists led by Dr Thomas A Steitz figure out three-dimensional structure of a ribosome, part in cells that constructs proteins; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>This is the machine that makes proteins.</p>
+        <p>Scientists at Yale, led by Dr. Thomas A. Steitz, a professor of molecular biophysics and biochemistry, have figured out the three-dimensional structure of a ribosome, a part in cells that constructs proteins.</p>
+      </block>
+      <block class="full_text">
+        <p>This is the machine that makes proteins.</p>
+        <p>Scientists at Yale, led by Dr. Thomas A. Steitz, a professor of molecular biophysics and biochemistry, have figured out the three-dimensional structure of a ribosome, a part in cells that constructs proteins.</p>
+        <p>The findings, reported in the current issue of Science, cast insight into the evolution of the very earliest life on earth and offer a new avenue of research for developing antibiotics.</p>
+        <p>A ribosome consists of two parts: one reads protein-building instructions transcribed from the cell's DNA and encoded in strands of ribonucleic acid, or RNA; the other builds the proteins. The Yale researchers looked at the protein-building part of the ribosome of a bacterium found in the Dead Sea. However, ribosomes work similarly in almost all creatures.</p>
+        <p>''If you understand how one ribosome works, you understand how all ribosomes in all cells work,'' Dr. Steitz said.</p>
+        <p>The detailed picture, showing the positions of 100,000 atoms, should aid drug researchers in designing antibiotics that latch onto and foul up the ribosomes of attacking bacteria.</p>
+        <p>The pictures also show that the active parts of the ribosome structure are made of RNA, seen in gray, and not proteins, seen in yellow. That supports the theory that the earliest life was based solely on RNA, without proteins.</p>
+        <p>In a modern-day cell, the main role of RNA is to transcribe protein-making instructions from DNA, located in the nucleus, to the ribosomes, located in the outer part of the cell.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

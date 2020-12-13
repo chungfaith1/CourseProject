@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="04INSI" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1235993"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001004T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07EFD8113DF937A35753C1A9669C8B63" item-length="129" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Taste of Marriage  Some Iranians form official ''temporary'' marriages as a way around anti-dating laws. Others think the ties resemble prostitution.</p>
+        <p>PAGE A3</p>
+      </block>
+      <block class="full_text">
+        <p>A Taste of Marriage  Some Iranians form official ''temporary'' marriages as a way around anti-dating laws. Others think the ties resemble prostitution.</p>
+        <p>PAGE A3</p>
+        <p>Housing Authority Ousted  The Federal Government seized control of the housing authority in Beaumont, Tex., citing racial discrimination dating to the 1960's.</p>
+        <p>PAGE A22</p>
+        <p>No Parole for Lennon's Killer  Mark David Chapman, who shot and killed ex-Beatle John Lennon 20 years ago, was denied release from prison.</p>
+        <p>PAGE B1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

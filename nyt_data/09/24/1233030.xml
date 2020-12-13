@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Alone at the Top</title>
+    <meta content="LTR085731" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1233030"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <org class="indexing_service">Citigroup</org>
+        <person class="indexing_service">Tung, Timothy</person>
+        <person class="indexing_service">Lowenstein, Roger</person>
+        <person class="indexing_service">Weill, Sanford I</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000924T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E4D6163BF937A1575AC0A9669C8B63" item-length="104" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Alone at the Top</hl1>
+      </hedline>
+      <abstract>
+        <p>Timothy Tung letter on Roger Lowenstein's August 27 article calls Sanford I Weill ruthless, manipulative and unsentimental (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sanford I. Weill is alone at the top because he is ruthless, manipulative and unsentimental (Roger Lowenstein, Aug. 27). He gets the prize because, like Richard in ''Survivor,'' he believes it is all a game of strategy and alliances.</p>
+        <p>Timothy Tung  New York</p>
+      </block>
+      <block class="full_text">
+        <p>Sanford I. Weill is alone at the top because he is ruthless, manipulative and unsentimental (Roger Lowenstein, Aug. 27). He gets the prize because, like Richard in ''Survivor,'' he believes it is all a game of strategy and alliances.</p>
+        <p>Timothy Tung  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

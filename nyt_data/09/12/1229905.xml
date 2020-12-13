@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>PSA Shares Drop in Mistaken-Identity Case</title>
+    <meta content="Y12PSA" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/12/business/12PSA.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1229905"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bankruptcies</classifier>
+        <org class="indexing_service">PSA Inc</org>
+        <org class="indexing_service">Dow Jones &amp; Co Inc</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bankruptcies</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000912T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE3DE1638F931A2575AC0A9669C8B63" item-length="247" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>PSA Shares Drop in Mistaken-Identity Case</hl1>
+      </hedline>
+      <abstract>
+        <p>Share price of PSA Inc plunges after it is confused with privately held firm with same name in report by Dow Jones New Service; new service reported that PSA filed for bankruptcy, but later stated that it was different PSA company; graph (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sometimes two companies can have the same name, and sometimes news services can make mistakes.</p>
+        <p>Shares in PSA Inc., an aspiring broadband services company based in Los Angeles, trade on the over-the-counter bulletin board under the ticker symbol PSAX, usually in low volume. By 12:10 p.m. yesterday, 2,500 shares had traded, and the price had risen 6 cents, to $4.94.</p>
+      </block>
+      <block class="full_text">
+        <p>Sometimes two companies can have the same name, and sometimes news services can make mistakes.</p>
+        <p>Shares in PSA Inc., an aspiring broadband services company based in Los Angeles, trade on the over-the-counter bulletin board under the ticker symbol PSAX, usually in low volume. By 12:10 p.m. yesterday, 2,500 shares had traded, and the price had risen 6 cents, to $4.94.</p>
+        <p>Then the Dow Jones News Service reported that PSA Inc. had filed for bankruptcy. The report listed its ticker symbol as PSAX.</p>
+        <p>The sell orders soon poured in, and by 12:35 the share price had fallen to $1.75, or 65 percent less than the price before the report. At 12:42, Dow Jones corrected the report, saying that the company that filed for bankruptcy was a different PSA Inc. That PSA is an unrelated, privately held company, Dow Jones said.</p>
+        <p>By the end of the day, the publicly traded PSA shares had recovered to $4.19, down 69 cents for the day. Volume came to 213,700 shares, or more than had traded in the last three weeks combined.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

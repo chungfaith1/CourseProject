@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dividend Meetings</title>
+    <meta content="25DIVI" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1233593"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000925T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E5D8173AF936A1575AC0A9669C8B63" item-length="112" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dividend Meetings</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A partial list for this week.</p>
+        <p>MONDAY  Delhaize Amer Inc  Emerging Mkts Income Fd Inc  General Mls Inc  Hormel Foods Corp  Marcus Corp Del</p>
+        <p>TUESDAY  Alpharma Inc  Conectiv Inc  Culp Inc  Dean Foods Co  Fortune Brands Inc  Harsco Corp  Montana Pwr Co  New Centy Energies Inc</p>
+      </block>
+      <block class="full_text">
+        <p>A partial list for this week.</p>
+        <p>MONDAY  Delhaize Amer Inc  Emerging Mkts Income Fd Inc  General Mls Inc  Hormel Foods Corp  Marcus Corp Del</p>
+        <p>TUESDAY  Alpharma Inc  Conectiv Inc  Culp Inc  Dean Foods Co  Fortune Brands Inc  Harsco Corp  Montana Pwr Co  New Centy Energies Inc</p>
+        <p>WEDNESDAY  Graco Inc  Johnson Ctls INc  Puerto Rican Cem Inc  Raytheon Co  Ryerson Tull Inc New  Toro Co  Unionbancal Corp  Washington Gas Lt Co</p>
+        <p>THURSDAY  Boise Cascade Corp  Conagra Inc  Keyspan Corp  Nstar  Olin Corp  Pope &amp; Talbot Inc  Russell Corp  Schweitzer-Mauduit Intl Inc</p>
+        <p>FRIDAY  Servicemaster Co</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

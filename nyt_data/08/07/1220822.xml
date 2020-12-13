@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Compressed Data; A News Service Caters To Nonprofit Groups</title>
+    <meta content="07SPAM$01" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1220822"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Nonprofit Organizations</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">AScribe (News Release Service)</org>
+        <person class="indexing_service">Richtel, Matt</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nonprofit Organizations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Organizations, Societies and Clubs</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000807T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E5DB133CF934A3575BC0A9669C8B63" item-length="437" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Compressed Data; A News Service Caters To Nonprofit Groups</hl1>
+      </hedline>
+      <byline class="print_byline">By MATT RICHTEL</byline>
+      <byline class="normalized_byline">Richtel, Matt</byline>
+      <abstract>
+        <p>AScribe will disseminate online news releases of universities, nonprofit organizations and foundations for $10 or $20, depending on subscription plan; news release services used by corporate America charge several hundred dollars to distribute a release (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When the University of California at Berkeley announced two weeks ago that physicists had peeled the tips off carbon nanotubes -- an advance that may assist in the development of micromachines -- major newspapers did not put the arcane news on their front pages. But at least they knew about the development.</p>
+        <p>The news went out to the media by way of AScribe (www.ascribe.org), an Internet-based distributor of news releases for universities, nonprofit organizations and foundations.</p>
+      </block>
+      <block class="full_text">
+        <p>When the University of California at Berkeley announced two weeks ago that physicists had peeled the tips off carbon nanotubes -- an advance that may assist in the development of micromachines -- major newspapers did not put the arcane news on their front pages. But at least they knew about the development.</p>
+        <p>The news went out to the media by way of AScribe (www.ascribe.org), an Internet-based distributor of news releases for universities, nonprofit organizations and foundations.</p>
+        <p>In recent days, it has carried other announcements, like the results of a Michigan State University study about the male children of alcoholics and a new theory from the Jet Propulsion Center about temperature cycles in the Pacific Ocean.</p>
+        <p>If these subjects are not what most people would consider newsworthy, that is partly the point. Because universities and nonprofit groups often know that their news releases may have only a narrow audience, they may be loath to spend several hundred dollars to distribute a release over PR Newswire or Business Wire -- the two main services that corporate America relies on to disseminate news releases.</p>
+        <p>But, using software automation and the Internet to create a low-cost way to distribute such releases, the founders of Ascribe -- Ron Wolf, a former business reporter, and David Irons, a former university spokesman for Harvard and Berkeley -- are offering a service that is meant to make ''public interest'' announcements more accessible and affordable.</p>
+        <p>Some 250 colleges, universities and other organizations have signed up for the service, paying $10 to $20 a release depending on the subscription plan. Releases are e-mailed to AScribe in Oakland, Calif., where they are copy edited and then sent to news organizations and Web sites through several means, including The Associated Press and Dow Jones Interactive.</p>
+        <p>Besides being paid to distribute the news releases, AScribe also receives payment each time someone downloads a release through Dow Jones. Most of the 150 Web sites that publish the releases also pay AScribe. The company is now trying to attract venture capital.</p>
+        <p>Mr. Wolf, a former reporter for The San Jose Mercury News, said the company hoped to develop relationships with thousands of organizations that would use AScribe to publicize themselves.</p>
+        <p>''There's a great constituency for lots of other content besides corporate financial news,'' he said.</p>
+        <p>MATT RICHTEL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

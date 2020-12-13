@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Reaching Back in Time</title>
+    <meta content="LTR223329" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1205255"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Time</classifier>
+        <classifier class="indexing_service" type="descriptor">Science and Technology</classifier>
+        <person class="indexing_service">Grunstra, Ken</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Time</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E5DE143FF935A35755C0A9669C8B63" item-length="80" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Reaching Back in Time</hl1>
+      </hedline>
+      <abstract>
+        <p>Ken Grunstra letter observes that if scientists in the future had found a way to signal back in time we would have heard from them by now (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>It seems obvious to me that scientists in the future will never find a way to signal back in time, described in ''Faster Than Light, Maybe, but Not Back to the Future'' (May 30). If they were to do so, wouldn't we have heard from them by now?</p>
+        <p>KEN GRUNSTRA  Santa Cruz, Calif.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>It seems obvious to me that scientists in the future will never find a way to signal back in time, described in ''Faster Than Light, Maybe, but Not Back to the Future'' (May 30). If they were to do so, wouldn't we have heard from them by now?</p>
+        <p>KEN GRUNSTRA  Santa Cruz, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

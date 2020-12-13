@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>LUNCH BREAK PROTEST DELAYED</title>
+    <meta content="MB223900" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201805"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WORLD BUSINESS BRIEFING: ASIA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Working Hours</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Strikes</classifier>
+        <org class="indexing_service">Korean Stock Exchange</org>
+        <person class="indexing_service">Len, Samuel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Strikes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Working Hours</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000523T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E5D81F3AF930A15756C0A9669C8B63" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>LUNCH BREAK PROTEST DELAYED</hl1>
+      </hedline>
+      <byline class="print_byline">By Samuel Len</byline>
+      <byline class="normalized_byline">Len, Samuel</byline>
+      <abstract>
+        <p>Workers at South Korean brokerage firms set May 31 strike to protest government's decision to scrap Korea Stock Exchange's lunch hour recess (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Workers at South Korean brokerage firms plan to go on a general strike May 31 to protest the government's decision to scrap the lunch hour recess at the Korea Stock Exchange, the Korea Securities Trade Union said. The union had planned to begin the strike yesterday but decided to delay it. The union contends that the end of the midday break means workers will effectively not be able to leave their posts for lunch.</p>
+        <p>Samuel Len</p>
+      </block>
+      <block class="full_text">
+        <p>Workers at South Korean brokerage firms plan to go on a general strike May 31 to protest the government's decision to scrap the lunch hour recess at the Korea Stock Exchange, the Korea Securities Trade Union said. The union had planned to begin the strike yesterday but decided to delay it. The union contends that the end of the midday break means workers will effectively not be able to leave their posts for lunch.</p>
+        <p>Samuel Len</p>
+        <p>WORLD BUSINESS BRIEFING: ASIA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

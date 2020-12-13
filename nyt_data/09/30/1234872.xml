@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TEXTILE COMPANY OFFERING</title>
+    <meta content="MB004244" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234872"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WORLD BUSINESS BRIEFING: ASIA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <org class="indexing_service">Chengde Dixian Textile Co</org>
+        <person class="indexing_service">Smith, Craig</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000930T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E2DB143DF933A0575AC0A9669C8B63" item-length="114" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TEXTILE COMPANY OFFERING</hl1>
+      </hedline>
+      <byline class="print_byline">By Craig Smith</byline>
+      <byline class="normalized_byline">Smith, Craig</byline>
+      <abstract>
+        <p>Chengde Dixian Textile Co, first privately owned Chinese company to sell shares to foreigners, gains 30 percent from its offering price on its first day of trading (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Chengde Dixian Textile Company, the first privately owned Chinese company to sell shares to foreigners, gained 30 percent from its offering price on its first day of trading. Few of China's privately owned companies have been allowed to go public, and most have little access to capital. Many people see Dixian's share sale as a symbolic step toward broader government support for the private sector. Dixian sold $25.6 million worth of Class B shares, which are designated for foreign investors and are officially off-limits to Chinese citizens.</p>
+        <p>Craig Smith</p>
+      </block>
+      <block class="full_text">
+        <p>The Chengde Dixian Textile Company, the first privately owned Chinese company to sell shares to foreigners, gained 30 percent from its offering price on its first day of trading. Few of China's privately owned companies have been allowed to go public, and most have little access to capital. Many people see Dixian's share sale as a symbolic step toward broader government support for the private sector. Dixian sold $25.6 million worth of Class B shares, which are designated for foreign investors and are officially off-limits to Chinese citizens.</p>
+        <p>Craig Smith</p>
+        <p>WORLD BUSINESS BRIEFING: ASIA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

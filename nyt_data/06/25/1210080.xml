@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Co-Production</title>
+    <meta content="LTR025202" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Theater; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1210080"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="CALIFORNIA THEATER"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <org class="indexing_service">Antaeus Theater Company</org>
+        <org class="indexing_service">Finesilver Shows (Co)</org>
+        <person class="indexing_service">Mermelstein, David</person>
+        <person class="indexing_service">Fields, Dan</person>
+        <person class="indexing_service">Miller, Arthur</person>
+        <object.title class="indexing_service">Man Who Had All the Luck (Play)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features/People</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features/People/Arthur Miller</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000625T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E6D91E31F936A15755C0A9669C8B63" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Co-Production</hl1>
+      </hedline>
+      <abstract>
+        <p>Dan Fields letter on David Mermelstein's June 11 article on his Los Angeles revival of Arthur Miller's Man Who Had All the Luck; note show was co-production of Antaeus Company and his New York-based company, Finesilver Shows (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In David Mermelstein's article about my Los Angeles revival of Arthur Miller's ''Man Who Had All the Luck'' [''Reviving a Forgotten Miller Play,'' June 11], the spotlight was rightly put on the Antaeus Company, a Los Angeles theater company of classically trained actors. However, this very successful show was in fact a co-production of Antaeus and my New York-based company, Finesilver Shows. Perhaps more bicoastal collaborations will fuel support for straight plays in both of these thriving theater cities.</p>
+        <p>DAN FIELDS  Manhattan</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In David Mermelstein's article about my Los Angeles revival of Arthur Miller's ''Man Who Had All the Luck'' [''Reviving a Forgotten Miller Play,'' June 11], the spotlight was rightly put on the Antaeus Company, a Los Angeles theater company of classically trained actors. However, this very successful show was in fact a co-production of Antaeus and my New York-based company, Finesilver Shows. Perhaps more bicoastal collaborations will fuel support for straight plays in both of these thriving theater cities.</p>
+        <p>DAN FIELDS  Manhattan</p>
+        <p>CALIFORNIA THEATER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

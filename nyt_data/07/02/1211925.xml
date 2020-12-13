@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR020121" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Corrections; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211925"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Names, Organizational</classifier>
+        <org class="indexing_service">New Era of Networks (Co)</org>
+        <org class="indexing_service">Neon Systems</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Names, Organizational</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E4D61439F931A35754C0A9669C8B63" item-length="155" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of June 28 article on companies that make enterprise application integration software, which confused Denver, Colo, company, New Era of Networks, commonly called NEON, with NEON Systems of Sugarland, Tex (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article last Sunday about companies that make enterprise application integration software -- programs that let different software applications work with one another -- misidentified a company on which an analyst, Rehan Syed of SG Cowen, has a buy recommendation. It is New Era of Networks of Denver, commonly called NEON, not NEON Systems of Sugarland, Tex., another company in the sector; Mr. Syed does not follow NEON Systems.</p>
+        <p>A chart accompanying the article, which showed the stock price of NEON Systems, was labeled correctly.</p>
+      </block>
+      <block class="full_text">
+        <p>An article last Sunday about companies that make enterprise application integration software -- programs that let different software applications work with one another -- misidentified a company on which an analyst, Rehan Syed of SG Cowen, has a buy recommendation. It is New Era of Networks of Denver, commonly called NEON, not NEON Systems of Sugarland, Tex., another company in the sector; Mr. Syed does not follow NEON Systems.</p>
+        <p>A chart accompanying the article, which showed the stock price of NEON Systems, was labeled correctly.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

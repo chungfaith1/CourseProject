@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bypassing College</title>
+    <meta content="LTR002006" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Education; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1230489"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <person class="indexing_service">raskin, jef</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000914T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E4D91238F937A2575AC0A9669C8B63" item-length="256" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bypassing College</hl1>
+      </hedline>
+      <abstract>
+        <p>Jef Raskin letter comments on Sept 7 article on young people opting for technology jobs over college</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Aside from the intangible benefits that a broader education can offer young people heading for technology jobs, college can also offer a better technical education. It's easy to feel on top when you can run your high school's computer system better than the system administrator and everybody comes to you for computer advice.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Aside from the intangible benefits that a broader education can offer young people heading for technology jobs, college can also offer a better technical education. It's easy to feel on top when you can run your high school's computer system better than the system administrator and everybody comes to you for computer advice.</p>
+        <p>With few exceptions, the positions high school graduates get are those that require a detailed but technically shallow knowledge of computing. Much bad code is written by the self-trained, who are unaware that the problems they are fumbling with were solved long ago by computer scientists. The solutions are published in journals they have never heard of and in books they are incapable of understanding. Typically, they lack the computer science and mathematical backgrounds needed to analyze algorithms, the physics needed to design simulations, and the cognitive psychology needed to get the human interface right.</p>
+        <p>I have hired exceptional workers directly from high school once or twice (and I've supported them in continuing their education), but more often I have had to cycle high school graduates hired by others into the technological equivalents of menial jobs.</p>
+        <p>JEF RASKIN  Pacifica, Calif.</p>
+        <p>The writer, who started the Macintosh project at Apple Computer, is the author of ''The Humane Interface'' (Addison-Wesley, 2000).</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

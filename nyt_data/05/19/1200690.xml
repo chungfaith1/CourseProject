@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TODAY'S SCHEDULES</title>
+    <meta content="SCH19" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200690"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="THE 2000 CAMPAIGN: CAMPAIGN BRIEFING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000519T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E6D7153AF93AA25756C0A9669C8B63" item-length="21" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TODAY'S SCHEDULES</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GEORGE W. BUSH -- Paducah, Hopkinsville and Bowling Green, Ky.  AL GORE -- Washington</p>
+      </block>
+      <block class="full_text">
+        <p>GEORGE W. BUSH -- Paducah, Hopkinsville and Bowling Green, Ky.  AL GORE -- Washington</p>
+        <p>THE 2000 CAMPAIGN: CAMPAIGN BRIEFING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

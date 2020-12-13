@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rusch Is in Control</title>
+    <meta content="MB012224" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213764"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BASEBALL: NOTEBOOK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <org class="indexing_service">New York Mets</org>
+        <org class="indexing_service">New York Yankees</org>
+        <person class="indexing_service">Kepner, Tyler</person>
+        <person class="indexing_service">Rusch, Glendon</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000709T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E7D91538F93AA35754C0A9669C8B63" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rusch Is in Control</hl1>
+      </hedline>
+      <byline class="print_byline">By TYLER KEPNER</byline>
+      <byline class="normalized_byline">Kepner, Tyler</byline>
+      <abstract>
+        <p>Glendon Rusch, New York Mets' starter, strikes out career high 10 batters in and issues no walks for third start in row in game against New York Yankees (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Glendon Rusch, the Mets' starter, struck out 10 Yankees last night, three more than his previous career high. He also issued no walks for the third start in a row. The last hitter Rusch walked was the Phillies' Doug Glanville on June 23, four starts ago.</p>
+      </block>
+      <block class="full_text">
+        <p>Glendon Rusch, the Mets' starter, struck out 10 Yankees last night, three more than his previous career high. He also issued no walks for the third start in a row. The last hitter Rusch walked was the Phillies' Doug Glanville on June 23, four starts ago.</p>
+        <p>Rusch has pitched 27 2/3 innings since that walk, and he is averaging one and a half walks per nine innings.</p>
+        <p>TYLER KEPNER</p>
+        <p>BASEBALL: NOTEBOOK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

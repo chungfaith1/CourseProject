@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>It's Only Checkers, but the Computer Taught Itself</title>
+    <meta content="25CHEC$01" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1217507"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Checkers</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <person class="indexing_service">Glanz, James</person>
+        <person class="indexing_service">Fogel, David B (Dr)</person>
+        <person class="indexing_service">Chellapilla, Kumar</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000725T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E0DD133AF936A15754C0A9669C8B63" item-length="1451" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>It's Only Checkers, but the Computer Taught Itself</hl1>
+      </hedline>
+      <byline class="print_byline">By JAMES GLANZ</byline>
+      <byline class="normalized_byline">Glanz, James</byline>
+      <abstract>
+        <p>Dr David B Fogel describes how computer program called neural network he created with Kumar Chellapilla used rules of checkers to teach itself to become expert, but not perfect, at game, Evolutionary Computation Congress, San Diego; program used electronic form of natural selection, with versions that chronically lost games killed off and those that survived allowed to reproduce slightly mutated versions; work shows computers can be designed to solve problems without intervention of human programmers; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ever since an I.B.M. computer defeated Garry Kasparov, the world chess champion, in 1997, much of the suspense has gone out of the old battle of man versus machine: the machine won. But the lessons of a much humbler game have again made that battle fascinating. The game is, of all things, checkers.</p>
+        <p>Two computer scientists have leveled the playing field by asking a computer program called a neural network to do something much more difficult than beat a defenseless human  at checkers. Knowing only the rules of checkers and a few basics, and otherwise starting from scratch, the program must teach itself how to play a good game without help from the outside world -- including from the programmers.</p>
+      </block>
+      <block class="full_text">
+        <p>Ever since an I.B.M. computer defeated Garry Kasparov, the world chess champion, in 1997, much of the suspense has gone out of the old battle of man versus machine: the machine won. But the lessons of a much humbler game have again made that battle fascinating. The game is, of all things, checkers.</p>
+        <p>Two computer scientists have leveled the playing field by asking a computer program called a neural network to do something much more difficult than beat a defenseless human  at checkers. Knowing only the rules of checkers and a few basics, and otherwise starting from scratch, the program must teach itself how to play a good game without help from the outside world -- including from the programmers.</p>
+        <p>The program did just that, using the electronic equivalent of natural selection. A sort of colony of the programs, each slightly different from all the others, played checkers against one another -- quite ineptly at first -- and chronic losers were killed off. Slightly mutated versions of the winners were allowed to reproduce. After hundreds of generations, blind evolution produced an expert checkers player, but not an infallible one.</p>
+        <p>The work was described last week in San Diego at the 2000 Congress on Evolutionary Computation by Dr. David B. Fogel, a computer scientist at Natural Selection Inc., a San Diego company.</p>
+        <p>The importance of the work, which Dr. Fogel did with Kumar Chellapilla, a doctoral student in electrical engineering at the University of California at San Diego, goes well beyond checkers to a question that has dogged computer science for decades: Can computers be designed to solve problems under circumstances that their human programmers never envisioned?</p>
+        <p>The question is relevant for circumstances as varied as an interstellar probe that loses contact with Earth and must adapt to unforeseen problems, or an automated factory scheduler attempting to deal with unexpected shortages or breakdowns.</p>
+        <p>All this from a good, but not perfect, game of checkers.</p>
+        <p>''The point here is that it learns to play by itself,'' said Dr. Christopher Welty, a professor of computer science at Vassar College.</p>
+        <p>Because any particular version of Deep Blue, the I.B.M. program that defeated Mr. Kasparov, was based on strict rules and specific strategies given to it by humans, Dr. Welty said, ''the way it played chess was very predictable --  given the exact same game, it would play the same way twice.'' But Dr. Fogel's program can adapt without intervention by humans, he said.</p>
+        <p>The program made short work of two dozen casual players at last week's conference, winning 25 timed ''challenge matches,'' losing none, and battling one player to a draw.</p>
+        <p>Whether Dr. Fogel's best checkers program can improve beyond its current skill level is uncertain; it can hold its own with expert-rated players in official rankings but is generally blown off the board by players in the higher echelons of master and grand master players. The question of just how far such an adaptive algorithm can progress is a matter of intense debate among computer scientists, Dr. Welty said.</p>
+        <p>But Dr. Ali Zalzala, a computer scientist at Heriot-Watt University in Edinburgh and the principal organizer of the conference, said that just by taking on such questions, Dr. Fogel's work may be shedding light on much deeper issues. Dr. Zalzala called the research ''a very serious attempt to understand the operation of biological evolution.''</p>
+        <p>The neural networks that Dr. Fogel has bred into checkers players exist as software programs on his personal computer. To understand them, however, it helps to visualize the physical structures that the software is modeling. Those structures consist of a rather crude representation of the interconnected networks of neurons in the brain.</p>
+        <p>Living neurons are sometimes called ''integrate-and-fire'' structures. A neuron somehow integrates, or adds up, all the electrical stimuli it receives from other neurons that are connected to its receptors. If the sum rises above a certain threshold, it fires off its own electrical pulse, stimulating yet another set of neurons that behave in the same way.</p>
+        <p>The threshold for firing can be different for each neuron; so can its own firing intensity compared to the amount of input stimuli it receives, an amplification factor sometimes called the connection strength. At one end of the network might be sensory input from a pair of ears, for example, and at the other a conclusion like, ''That is Bob's voice.''</p>
+        <p>Any small part of the network might have connection strengths and thresholds to recognize one particular feature, like average pitch or the way a single vowel is pronounced. Because all parts of the network are interconnected, it can put all of these clues together almost simultaneously to draw a conclusion about whose voice is being heard.</p>
+        <p>Humans learn; no one is born able to recognize Bob's voice. Likewise, the ''thresholds'' and connection strengths in Dr. Fogel's network, which are geared toward recognizing sequences of moves in checkers rather than voices, can change as the program learns.</p>
+        <p>''As a human being, you are a pattern-recognizing device,'' said Dr. Fogel, who added that his simple network could do the same thing.</p>
+        <p>But he did not give away the game by telling the network how. The network begins with 32 ''sensory'' inputs, one for each possible position on the board. Those inputs take on different values depending on whether a square is occupied by nothing, by an ordinary red or black piece, or by a king.</p>
+        <p>''Neurons'' carrying those signals cross in a complex pattern of nested connections, reminiscent of a switchboard. Each neuron has a variable connection strength and each connection has a threshold. For a given configuration of checkers, the output of the network is a single number.</p>
+        <p>That number is in some way the network's evaluation of the pattern on the board, a sort of output of pleasure or pain. At each point of the game, the computer evaluates it for the existing configuration and for possible ones it could create by making certain moves. Based on that information, it maximizes the number and makes moves, plays games.</p>
+        <p>Dr. Fogel began by creating several variants of his program, each with random connection strengths and thresholds. They played each other, and the regular losers -- those for whom ''pleasure'' was not a reliable guide to playing a good game -- were eliminated. The others, with random ''mutations'' that could allow better players to evolve, were given offspring. Eventually, he arrived at an expert player, a fact he verified by matching the program against ranked human players.</p>
+        <p>''The performance is remarkable,'' said Dr. Michael Conrad, a professor of computer science at Wayne State University. ''I'm still sort of surprised how good it is.''</p>
+        <p>Aside from getting beat by some humans, however, the program is not in the same league as Chinook, the computer checkers player devised in the early 1990's by Dr. Jonathan Schaeffer of the University of Alberta in Canada. Chinook does not have a human equal at any level, Dr. Schaeffer said. But he said his program, like Big Blue, was infused with human expertise from the beginning rather than learning on its own.</p>
+        <p>How good Dr. Fogel's program might someday become, and whether it could ever approach something like Chinook, is unknown. But Dr. Silvano Colombano, a computer scientist at the NASA Ames Research Center in California, said the same sort of evolutionary strategy could be built into computers aboard spacecraft that range too far from Earth to stay in contact.</p>
+        <p>''By analogy with the checkers game,'' Dr. Colombano said, ''the computer can play games with itself and become smarter.''</p>
+        <p>One thing such a spacecraft would have plenty of is time. In the long night of space, it might even decide to hone its checkers game.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

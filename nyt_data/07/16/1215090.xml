@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Letters From the Web</title>
+    <meta content="LTR090256" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215090"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E0D61338F935A25754C0A9669C8B63" item-length="156" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Letters From the Web</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When I was about 4 years old, my grandmother and I were walking past an apartment building in the South Bronx. A little girl on the stoop stuck her tongue out at me as we passed. My grandmother always advised me to turn the other cheek when insulted, but when she saw that she was a black girl, she told me angrily (in Spanish): ''Stick your tongue out at her! She's just a nigger!'' I was astounded by the level of hatred aimed at black people by Latinos.</p>
+        <p>Virginia Velez  Hispanic, 42  San Francisco</p>
+      </block>
+      <block class="full_text">
+        <p>When I was about 4 years old, my grandmother and I were walking past an apartment building in the South Bronx. A little girl on the stoop stuck her tongue out at me as we passed. My grandmother always advised me to turn the other cheek when insulted, but when she saw that she was a black girl, she told me angrily (in Spanish): ''Stick your tongue out at her! She's just a nigger!'' I was astounded by the level of hatred aimed at black people by Latinos.</p>
+        <p>Virginia Velez  Hispanic, 42  San Francisco</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

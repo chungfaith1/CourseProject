@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Third Travel P.D.A.</title>
+    <meta content="LTR233600" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200455"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Personal Organizers</classifier>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <person class="indexing_service">hasbrouck, edward</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000518T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E1D7173AF93BA25756C0A9669C8B63" item-length="184" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Third Travel P.D.A.</hl1>
+      </hedline>
+      <abstract>
+        <p>Travel writer Edward Hasbrouck letter on May 11 article cites third operating system available for handheld computers that can be useful for travelers</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Pack a Bag, Then Pack a Handheld P.D.A. With Travel Plans'' (May 11) says that ''there are basically two choices'' for operating systems, the Palm OS and Microsoft's Windows CE and Pocket PC. There is actually a third: the EPOC OS used by Psion handheld computers.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Pack a Bag, Then Pack a Handheld P.D.A. With Travel Plans'' (May 11) says that ''there are basically two choices'' for operating systems, the Palm OS and Microsoft's Windows CE and Pocket PC. There is actually a third: the EPOC OS used by Psion handheld computers.</p>
+        <p>The Psion, which has a full keyboard, is fully compatible with Microsoft document formats, but there is also more software available for the Psion's EPOC OS than for Microsoft handheld devices.</p>
+        <p>The travel information available for Psions includes maps, flight schedules, language translation tools and hotel, restaurant and city guides. And the Psion keyboard and superior wireless Internet access make wireless Web browsing far easier than with any other handheld devices.</p>
+        <p>EDWARD HASBROUCK  San Francisco</p>
+        <p>The writer is the author of ''The Practical Nomad: How to Travel Around the World'' (Moon Publications, 1997).</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

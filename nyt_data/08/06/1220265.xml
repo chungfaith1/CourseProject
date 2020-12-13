@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Introduction</title>
+    <meta content="LTR092323" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1220265"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000806T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E0D9133DF935A3575BC0A9669C8B63" item-length="89" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Introduction</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Does race matter? Judging by the volume and passion of letters about ''How Race Is Lived in America,'' it does by a wide margin. Most readers thought the series contributed to the public dialogue; some fumed at inattention to their own ethnicity; a few despaired that the series would never end.</p>
+      </block>
+      <block class="full_text">
+        <p>Does race matter? Judging by the volume and passion of letters about ''How Race Is Lived in America,'' it does by a wide margin. Most readers thought the series contributed to the public dialogue; some fumed at inattention to their own ethnicity; a few despaired that the series would never end.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>John Constable</title>
+    <meta content="RV013020" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="40" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1240351"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="ART IN REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Salamagundi Club (NYC)</org>
+        <person class="indexing_service">Constable, John (1776-1837)</person>
+        <person class="indexing_service">Johnson, Ken</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001020T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03EFDC103EF933A15753C1A9669C8B63" item-length="317" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>John Constable</hl1>
+      </hedline>
+      <byline class="print_byline">By KEN JOHNSON</byline>
+      <byline class="normalized_byline">Johnson, Ken</byline>
+      <abstract>
+        <p>Ken Johnson reviews show of small paintings by John Constable, at Salamagundi Club (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Salmagundi Club  47 Fifth Avenue, at 11th Street  Greenwich Village  Through Nov. 2</p>
+        <p>This exhibition of more than 60 small studies by the English landscape painter John Constable (1776-1837) is not uniformly great, but it has enough gems to warrant a visit. The collection belongs to Sir Edwin Manton, a member of the Salmagundi Club whose love of Constable derives from the fact that he hails from the East Anglia area in England, where the painter did most of his work.</p>
+      </block>
+      <block class="full_text">
+        <p>Salmagundi Club  47 Fifth Avenue, at 11th Street  Greenwich Village  Through Nov. 2</p>
+        <p>This exhibition of more than 60 small studies by the English landscape painter John Constable (1776-1837) is not uniformly great, but it has enough gems to warrant a visit. The collection belongs to Sir Edwin Manton, a member of the Salmagundi Club whose love of Constable derives from the fact that he hails from the East Anglia area in England, where the painter did most of his work.</p>
+        <p>Constable's was a passionately terrestrial vision. His feeling for nature is realized as a vivid optical intensity and his tactile responsiveness produced a generous painterly physicality. He is famous for his cloud studies, and there is an especially lovely one in the exhibition. Dated 1821 or 1822, this small oil-on-paper sketch of a dark gray, wind-whipped cloud under a blue white-streaked sky is a fine piece of meteorological observation, yet it verges in its painterly vivaciousness on a kind of Abstract Expressionism.</p>
+        <p>At the opposite end of the spectrum is a murky painting of burdock leaves low to the ground, a curiously saturnine image said to have been made during his wife's terminal illness. While there are a number of disappointingly faded and rather muddy watercolors, there are some wonderfully deft pencil-and-wash drawings of houses luxuriantly engulfed by trees or  fishing boats braving roiling surf.</p>
+        <p>The crown jewel of the show is a small but spectacularly rich and luminous watercolor copy of ''The Mill'' by Rembrandt, an artist whose robust, painterly embrace of earthly reality was clearly an inspiration to Constable.</p>
+        <p>KEN JOHNSON</p>
+        <p>ART IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

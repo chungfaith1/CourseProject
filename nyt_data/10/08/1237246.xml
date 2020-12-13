@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tests Detect Communications Problem in Craft Bound for Saturn</title>
+    <meta content="08CASS$01" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/08/science/08CASS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1237246"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Cassini (Spacecraft)</classifier>
+        <location class="indexing_service">Saturn (Planet)</location>
+        <person class="indexing_service">Wilford, John Noble</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001008T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E3D8123CF93BA35753C1A9669C8B63" item-length="617" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tests Detect Communications Problem in Craft Bound for Saturn</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN NOBLE WILFORD</byline>
+      <byline class="normalized_byline">Wilford, John Noble</byline>
+      <abstract>
+        <p>Cassini spacecraft is undergoing round of in-flight equipment and communications tests that have exposed one malfunction that could severely reduce amount of science data received from mission's probe of Saturn's moon Titan; craft is three years out from Earth and almost four years away from Saturn (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Three years out from Earth and almost four years away from Saturn, its destination, the Cassini spacecraft is undergoing a round of in-flight equipment and communications tests, and these have exposed one malfunction that could severely reduce the amount of science data received from the mission's probe of Saturn's moon Titan.</p>
+        <p>Project officials said that tests last month revealed that a radio receiver on the Cassini craft, now approaching the vicinity of Jupiter, was incapable of picking up all the signals from the still-attached Huygens probe. The receiver's bandwidth is not as wide as the design called for, and engineers said the equipment could not be corrected or bypassed.</p>
+      </block>
+      <block class="full_text">
+        <p>Three years out from Earth and almost four years away from Saturn, its destination, the Cassini spacecraft is undergoing a round of in-flight equipment and communications tests, and these have exposed one malfunction that could severely reduce the amount of science data received from the mission's probe of Saturn's moon Titan.</p>
+        <p>Project officials said that tests last month revealed that a radio receiver on the Cassini craft, now approaching the vicinity of Jupiter, was incapable of picking up all the signals from the still-attached Huygens probe. The receiver's bandwidth is not as wide as the design called for, and engineers said the equipment could not be corrected or bypassed.</p>
+        <p>So in November 2004, when the Huygens probe is detached from Cassini for a two-and-a-half-hour plunge through Titan's nitrogen-rich atmosphere, a substantial amount of what it learns about this largely unknown environment could be beyond the hearing of Cassini's receiver. But officials and engineers expressed confidence that they would figure out a way to avoid losing any data.</p>
+        <p>In a status report on the mission on Thursday, Dr. Jay Bergstralh, the Cassini program scientist at the National Aeronautics and Space Administration in Washington, said, ''We are, of course, concerned about communications with the Huygens probe, but the best minds in the business are working on solutions.''</p>
+        <p>Mary Beth Murrill, a spokeswoman at the Jet Propulsion Laboratory in Pasadena, Calif., where the mission is directed, said that possible solutions included changing the time and angle in deploying the probe for its atmospheric plunge. By altering the flight geometry between the probe and Cassini, the radio receiver may be able to pick up the entire data transmission.</p>
+        <p>Ms. Murrill said that engineers were expected to be ready by next summer to recommend a recovery plan for review and approval by officials of NASA and the European Space Agency. The European agency supplied the Huygens probe for the mission and also the radio receiver on Cassini. The trouble was uncovered in tests conducted by the European agency's operations center in Darmstadt, Germany.</p>
+        <p>The European agency said it had begun an investigation to determine why the radio problem did not show up in earlier tests. The Cassini mission was launched from the Kennedy Space Center in Florida in October 1997.</p>
+        <p>Bob Mitchell, the Cassini program manager at the Jet Propulsion Laboratory, said in a statement that the current tests had been ''our first opportunity to exercise the Cassini flight and ground systems in a mode very similar to how we expect to operate at Saturn.''</p>
+        <p>Except for the radio trouble, Mr. Mitchell said, ''I'm extremely pleased with how it is working.''</p>
+        <p>To show that the spacecraft's camera is working fine after the first three years of flight, project officials issued a crisp picture of Jupiter, as seen from 52 million miles away. Dr. Carolyn Porco of the University of Arizona, leader of the photo interpretation team, said, ''The images are unexpectedly sharp and clear, even in the longest exposures taken and most challenging spectral regions.''</p>
+        <p>The Cassini spacecraft, with the Huygens vehicle still attached, is supposed to swing into an orbit around Saturn on July 1, 2004. The probe deployment is scheduled for Nov. 30, but the orbiting Cassini is expected to continue studying Saturn, its many moons and spectacular rings of icy particles for at least four years.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

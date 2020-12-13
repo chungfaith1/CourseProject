@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>PHOTOGRAPHER'S JOURNAL</title>
+    <meta content="07JOUR$04" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20000521T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1197465"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000507T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E1D71F39F934A35756C0A9669C8B63" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>PHOTOGRAPHER'S JOURNAL</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>Correction:  May 21, 2000, Sunday  The caption on May 7 with the Photographer's Journal picture, showing a cat sitting in an opening in an apartment door, misstated the name of the street. It was Blake Avenue in Brooklyn; there is no Blake Street.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: May 21, 2000, Sunday</p>
+        <p>The caption on May 7 with the Photographer's Journal picture, showing a cat sitting in an opening in an apartment door, misstated the name of the street. It was Blake Avenue in Brooklyn; there is no Blake Street.</p>
+        <p>&lt;br&gt;</p>
+        <p>&lt;br&gt;</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

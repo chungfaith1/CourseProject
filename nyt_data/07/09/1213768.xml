@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Example of Curiosity Leading to Astonishment</title>
+    <meta content="LTR020443" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213768"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Revolutionary War, American (1775-83)</classifier>
+        <person class="indexing_service">Culane, John</person>
+        <person class="indexing_service">Honan, William H</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">War and Revolution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000709T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E6D91538F93AA35754C0A9669C8B63" item-length="268" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Example of Curiosity Leading to Astonishment</hl1>
+      </hedline>
+      <abstract>
+        <p>John Culhane letter on William H Honan's July 2 article on finding cannonball from Battle of White Plains lauds curiosity, wonder and astonishment of children (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>William H. Honan's piquant leather-stocking tale last Sunday about finding a cannonball from the Battle of White Plains and how a small boy (himself) learned to hear the river speak speaks eloquently to succeeding generations of small boys and girls who are learning for the first time how curiosity can lead to the unique emotion of astonishment.</p>
+        <p>Baruch Spinoza, the great philosopher of wonder, awe and astonishment, defined the latter in his seminal ''Ethics'' of 1677 as ''the imagination of an object in which the mind remains fixed because this particular imagination has no connection with others.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>William H. Honan's piquant leather-stocking tale last Sunday about finding a cannonball from the Battle of White Plains and how a small boy (himself) learned to hear the river speak speaks eloquently to succeeding generations of small boys and girls who are learning for the first time how curiosity can lead to the unique emotion of astonishment.</p>
+        <p>Baruch Spinoza, the great philosopher of wonder, awe and astonishment, defined the latter in his seminal ''Ethics'' of 1677 as ''the imagination of an object in which the mind remains fixed because this particular imagination has no connection with others.''</p>
+        <p>Mr. Honan writes eloquently of his astonishment at finding the cannonball in the muddy Bronx River. ''How could it have traveled so far?'' he wondered. And as he takes a lifetime to find his answer in the nature of survival, he reassures me and my children and my grand niece and grand nephew, 6 and 5 years old, that we are surely not face to face for the last time in history, as F. Scott Fitzgerald mourned in ''The Great Gatsby,'' with ''something commensurate to [our] capacity for wonder.''</p>
+        <p>JOHN CULHANE  Dobbs Ferry</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

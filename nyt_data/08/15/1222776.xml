@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>STATIC LINGERS ON EBAY</title>
+    <meta content="MB234729" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1222776"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY BRIEFING: E-COMMERCE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Auctions</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Ebay Inc</org>
+        <person class="indexing_service">Flynn, Laurie J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Auctions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000815T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E2D6113FF936A2575BC0A9669C8B63" item-length="70" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>STATIC LINGERS ON EBAY</hl1>
+      </hedline>
+      <byline class="print_byline">By Laurie J. Flynn</byline>
+      <byline class="normalized_byline">Flynn, Laurie J</byline>
+      <abstract>
+        <p>E</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>EBay, the largest Internet auction company, said the intermittent technical problems that have hampered its Web site for the last two weeks might continue for another 10 days. The company posted an apology for the problems on the site, explaining that they stemmed from a system upgrade that eBay began Aug. 2. The problems caused some features to be inaccessible and others to function slowly.</p>
+        <p>Laurie J. Flynn (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>EBay, the largest Internet auction company, said the intermittent technical problems that have hampered its Web site for the last two weeks might continue for another 10 days. The company posted an apology for the problems on the site, explaining that they stemmed from a system upgrade that eBay began Aug. 2. The problems caused some features to be inaccessible and others to function slowly.</p>
+        <p>Laurie J. Flynn (NYT)</p>
+        <p>TECHNOLOGY BRIEFING: E-COMMERCE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

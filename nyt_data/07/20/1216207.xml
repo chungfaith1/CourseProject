@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Bottleneck Between the Digital Player and the Ear: The PC</title>
+    <meta content="20MSOF$01" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1216207"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <person class="indexing_service">Marriott, Michel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000720T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00EFDC1E3BF933A15754C0A9669C8B63" item-length="1240" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Bottleneck Between the Digital Player and the Ear: The PC</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHEL MARRIOTT</byline>
+      <byline class="normalized_byline">Marriott, Michel</byline>
+      <abstract>
+        <p>New generation of music management software simplifies downloading and transfer of music to personal digital audio players; some products described (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MAKERS of personal digital audio players readily concede that despite almost two years of gradual improvements, using the palm-size and smaller devices is still not nearly as simple as slapping a CD in a conventional CD player and pressing the Play button.</p>
+        <p>The chief source of all the complication is the personal computer.</p>
+      </block>
+      <block class="full_text">
+        <p>MAKERS of personal digital audio players readily concede that despite almost two years of gradual improvements, using the palm-size and smaller devices is still not nearly as simple as slapping a CD in a conventional CD player and pressing the Play button.</p>
+        <p>The chief source of all the complication is the personal computer.</p>
+        <p>Practically all of the dozens of models of digital audio players on the market today, including most scheduled to be available in the near future, require a computer to load them with music.</p>
+        <p>The simplest method is to copy songs from CD's -- called ripping -- and then store them on the computer in highly compressed audio formats, or codecs, like MP3 and Windows Media Audio. The other approach is to use a computer with an Internet connection to hunt down some of countless songs available on various Web sites, at no charge and for sale. Music on the Web is already compressed in an audio format and can be downloaded to a computer. Portable players are not yet able to do this alone.</p>
+        <p>Once the digital music is in the computer, either stored on the hard drive or on a removable storage medium like a Zip disk, the computer needs special programs to best identify the music, organize it, play it and load it into a portable player. Those programs are integrated into something commonly called music management software. And there's the rub.</p>
+        <p>Much of the music management software that greeted early adopters of portable players was complex, temperamental and generally user-hostile. But in recent months, as portable player hardware has significantly improved, so has a new batch of music management software. Some of the programs are included with new portable players; others are sold separately, like Sonic Foundry's Siren Jukebox, a standout for its abundance of features and exuberance of design elements. And there are still others being posted on the Web as shareware.</p>
+        <p>Two of the most improved examples of music management software can be found in S3's Rio Audio Manager 3, which comes with the Rio 600 portable player, and Microsoft's Windows Media Player 7, which can be downloaded free at www.microsoft.com /windowsmedia.</p>
+        <p>Those two programs are simple to master. And they can be used both to convert music taken from CD's into music files and to download music from the Web. They also enable users to turn digital music collections into custom CD's (if the computer has a CD-R or CD-RW drive).</p>
+        <p>In fact, with so much digital media on the Internet these days, including streaming video and audio (live radio, concerts, music videos) in multiple formats, the new Rio and Windows programs are being marketed as all-in-one solutions. Each easily searches and categorizes content on the computer, even tracking down music files users may have squirreled away in some forgotten corner of their hard drives.</p>
+        <p>People can use the software to create play lists by artists, genres or theme, in much the same way they would name and organize documents using a word processor program. Once the play lists are made, the music management software can do one of the things it does best -- move digital music into portable players.</p>
+        <p>The Rio Audio Manager is especially well suited to work with Rio's line of portable players; either it automatically recognizes them when the devices are plugged into a computer's Universal Serial Bus port (or serial port on older models) or the user selects the player model from a pull-down menu.</p>
+        <p>Once the portable player is recognized, the program displays two adjoining windows; the one on the right lists what is on the player, and the one on the left displays what music is available for a listener to copy into the player. A play list can be placed in the left-side window by simply dragging and dropping in songs or double-clicking them into the window.</p>
+        <p>The Rio software plays MP3 and Windows Media Audio and other leading audio and video formats.</p>
+        <p>The Windows Media Player 7 also reads MP3's and, of course, Windows Media Audio (almost twice as compressed as MP3 with similar high fidelity), as well as a range of other audio and video formats. But the Windows player especially excels at ease of use. Its design is sleek and simple. All the buttons and windows are well placed, well labeled and intuitively arranged so that their function is clear.</p>
+        <p>The Windows player also has audio sweeteners, sound-enhancing programs by SRS Labs called WOW and TruBass. When music is played through the computer, the programs create the illusion that the speakers are farther apart than they are likely to be on a desktop, among other effects.</p>
+        <p>Both the Windows and Rio management software include visualization programs, windows that fill with a variety of computer-generated, three-dimensional animations that respond to whatever music the software is playing. Even at their best, the light shows hardly seem to justify the heavy demand they make on the computer's central processing unit, so much so that they can impede music playback on all but the most robust computers.</p>
+        <p>Both also have, like most audio management software, graphical equalizers to adjust the audio characteristics of the music. And there are alternative skins, fanciful versions of the interface.</p>
+        <p>But there are some notable exceptions. Sony's OpenMG Jukebox software that comes with the VAIO Music Clip has a strikingly unadorned appearance. It does not offer alternative skins. It also bears only a dash of 2-D animation seen on a thumbnail-size screen when music is being played back. The animation also can be turned off.</p>
+        <p>While the software will recognize music encoded in MP3, it will only play music once it is converted into Sony's own format, Atrac3. Unlike MP3, Atrac3 severely limits the number of times a music file may be copied. This is an attempt to prevent wide dissemination of MP3 files without payment to music companies or artists.</p>
+        <p>The Sony software is simple and straightforward. A five-minute song takes about a minute and a half to copy using the highest bit rate offered, 132 kilobytes per second. The higher the bit rate, the better the sound quality but the larger the file. Using Atrac3 at 132 kbps limits recording time to an hour. Copying the same music using a 66 kbps bit rate yields 120 minutes of playback.</p>
+        <p>With MP3, using a bit rate that will play back music at what is usually called near-CD quality, the rule of thumb is about one  megabyte per minute of music.</p>
+        <p>Transferring music to the portable player is a three-step process: highlight the song or album, indicate with a mouse click that the selection is to be transferred and then click a Start button. Three songs of average length can be transferred in about a minute.</p>
+        <p>Iomega, which is making and licensing portable players with Clik drives, takes a different approach. Once the music is recorded, the actual process of transferring it  to portable players is nothing more than dragging a desired song from column A to column B.</p>
+        <p>No, it is not as simple as plopping a CD into a CD player, but it is a step closer.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

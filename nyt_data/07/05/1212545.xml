@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Prescription Drugs</title>
+    <meta content="L05FDA" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212545"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="indexing_service" type="descriptor">Regulation and Deregulation of Industry</classifier>
+        <org class="indexing_service">Food and Drug Administration</org>
+        <person class="indexing_service">Thomas, Nigel</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000705T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E3DD1339F936A35754C0A9669C8B63" item-length="128" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Prescription Drugs</hl1>
+      </hedline>
+      <abstract>
+        <p>Nigel Thomas letter approves FDA decision to consider whether some prescription drugs should be change to over-the-counter status</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The decision by the Food and Drug Administration to consider whether some prescription drugs should be changed to over-the-counter status (news article, June 28) is overdue.</p>
+        <p>Internet pharmacies now account for a growing percentage of prescriptions filled annually in the United States. A significant proportion of these sales are completed without valid prescriptions.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The decision by the Food and Drug Administration to consider whether some prescription drugs should be changed to over-the-counter status (news article, June 28) is overdue.</p>
+        <p>Internet pharmacies now account for a growing percentage of prescriptions filled annually in the United States. A significant proportion of these sales are completed without valid prescriptions.</p>
+        <p>The White House proposals late last year to bolster the F.D.A.'s regulation of Internet pharmacies as a way of dealing with this problem does not address the root issue: we hate gatekeepers; we like self-care.</p>
+        <p>The new initiative recognizes this reality.</p>
+        <p>NIGEL THOMAS  New York, June 29, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

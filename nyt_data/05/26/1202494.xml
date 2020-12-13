@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>UNEXPECTEDLY STRONG EARNINGS AT UBS</title>
+    <meta content="MB223646" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1202494"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WORLD BUSINESS BRIEFING: EUROPE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <org class="indexing_service">Ubs Ag</org>
+        <person class="indexing_service">Olson, Elizabeth</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000526T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E3DB133DF935A15756C0A9669C8B63" item-length="131" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>UNEXPECTEDLY STRONG EARNINGS AT UBS</hl1>
+      </hedline>
+      <byline class="print_byline">By Elizabeth Olson</byline>
+      <byline class="normalized_byline">Olson, Elizabeth</byline>
+      <abstract>
+        <p>UBS AG, Switzerland, reports 41 percent gain in quarterly earnings, to 2.22 billion Swiss francs, or $1.29 billion, that are stronger than expected (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Europe's third-largest bank, UBS A.G. of Switzerland, reported a 41 percent gain in quarterly earnings, to 2.22 billion Swiss francs, or $1.29 billion, stronger than expected. The bank attributed the performance to a surge in the private banking business of its UBS Switzerland and UBS Warburg units. Earlier this month, UBS became the first Swiss bank to gain a listing on the New York Stock Exchange.</p>
+        <p>Elizabeth Olson (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Europe's third-largest bank, UBS A.G. of Switzerland, reported a 41 percent gain in quarterly earnings, to 2.22 billion Swiss francs, or $1.29 billion, stronger than expected. The bank attributed the performance to a surge in the private banking business of its UBS Switzerland and UBS Warburg units. Earlier this month, UBS became the first Swiss bank to gain a listing on the New York Stock Exchange.</p>
+        <p>Elizabeth Olson (NYT)</p>
+        <p>WORLD BUSINESS BRIEFING: EUROPE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

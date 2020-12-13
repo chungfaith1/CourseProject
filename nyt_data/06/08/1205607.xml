@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Speaking Volumes</title>
+    <meta content="08VASE$02" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20000615T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1205607"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="CURRENTS: PARIS -- CERAMICS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Ceramics and Pottery</classifier>
+        <person class="indexing_service">Fernandez, Marius</person>
+        <person class="indexing_service">lane, mallery</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ceramics and Pottery</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E0D7153FF93BA35755C0A9669C8B63" item-length="93" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Speaking Volumes</hl1>
+      </hedline>
+      <byline class="print_byline">By Mallery Lane</byline>
+      <byline class="normalized_byline">lane, mallery</byline>
+      <abstract>
+        <p>Marius Fernandez, Marseille artist, makes ceramic vases; photos (S) (Currents)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The architect Peter Merino is one New Yorker snapping up vases by Marius Fernandez, a Marseilles artist. A 20-inch one is about $2,200; yard-high vases, above, are about $4,800, at Galerie Aittouares, 2 rue des Beaux-Arts; 011-33-1-40-51-87-46.</p>
+      </block>
+      <block class="full_text">
+        <p>The architect Peter Merino is one New Yorker snapping up vases by Marius Fernandez, a Marseilles artist. A 20-inch one is about $2,200; yard-high vases, above, are about $4,800, at Galerie Aittouares, 2 rue des Beaux-Arts; 011-33-1-40-51-87-46.</p>
+        <p>CURRENTS: PARIS -- CERAMICS  Correction:  June 15, 2000, Thursday  A report in the Currents column last Thursday about a New York architect who buys vases by a Marseilles artist, Marius Fernandez, misspelled the buyer's surname. He is Peter Marino, not Merino.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: June 15, 2000, Thursday</p>
+        <p>A report in the Currents column last Thursday about a New York architect who buys vases by a Marseilles artist, Marius Fernandez, misspelled the buyer's surname. He is Peter Marino, not Merino.</p>
+        <p>&lt;br&gt;</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

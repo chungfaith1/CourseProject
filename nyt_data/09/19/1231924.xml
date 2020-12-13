@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR015309" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1231924"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000919T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E2DB143BF93AA2575AC0A9669C8B63" item-length="120" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Pages 40 and 42 of Arts &amp; Leisure, carrying arts listings, were omitted from some copies in the New York region on Sunday and replaced by pages from a special E-Commerce section scheduled for tomorrow. Readers wishing replacement pages may write to Production Quality Control, The New York Times, 229 West 43rd Street, New York, N.Y. 10036, or telephone (212) 556-1992. E-mail: quality@nytimes.com. (Include a postal return address.)</p>
+      </block>
+      <block class="full_text">
+        <p>Pages 40 and 42 of Arts &amp; Leisure, carrying arts listings, were omitted from some copies in the New York region on Sunday and replaced by pages from a special E-Commerce section scheduled for tomorrow. Readers wishing replacement pages may write to Production Quality Control, The New York Times, 229 West 43rd Street, New York, N.Y. 10036, or telephone (212) 556-1992. E-mail: quality@nytimes.com. (Include a postal return address.)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SPECIAL TODAY/E-Commerce</title>
+    <meta content="20PROM" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; Corrections; Editors' Notes; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1232135"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editors' Note</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Editors' Notes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000920T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06EEDB153BF933A1575AC0A9669C8B63" item-length="99" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SPECIAL TODAY/E-Commerce</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Interactive television has been a World's Fair technology for years, but this fall it is arriving in living rooms across the country. Just how interactive do viewers want to be? Plus: Articles on the rest of the entertainment industry in the ever-changing online landscape, business-to-business e-commerce, personal finance and shopping.</p>
+        <p>SECTION H</p>
+      </block>
+      <block class="full_text">
+        <p>Interactive television has been a World's Fair technology for years, but this fall it is arriving in living rooms across the country. Just how interactive do viewers want to be? Plus: Articles on the rest of the entertainment industry in the ever-changing online landscape, business-to-business e-commerce, personal finance and shopping.</p>
+        <p>SECTION H</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

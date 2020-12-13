@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The He Hormone</title>
+    <meta content="LTR114512" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201008"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Men</classifier>
+        <classifier class="indexing_service" type="descriptor">Testosterone</classifier>
+        <person class="indexing_service">Poock, Russell W</person>
+        <person class="indexing_service">Sullivan, Andrew</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Testosterone</classifier>
+        <classifier class="online_producer" type="general_descriptor">Men</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hormones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000521T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02EFDD1E3BF932A15756C0A9669C8B63" item-length="144" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The He Hormone</hl1>
+      </hedline>
+      <abstract>
+        <p>Russell W Poock letter opposes angry responses to Andrew Sullivan's April 2 article on testosterone0</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After reading the outraged responses (Letters, April 23) to Andrew Sullivan's article on testosterone (April 2), I finally got around to reading his article myself. Did I miss something? It was, in my opinion, a thoughtful, modulated treatise. It would seem that most of Sullivan's hypotheses were backed by clinical research or personal experience (or both), rather than racist or sexist supposition.</p>
+        <p>I was bewildered by the vehemence and personal nature of some of the responses in your letters column. I implore these readers to take another look; perhaps their hackles will be smoothed a bit by a second, more objective examination of the material presented.</p>
+        <p>Russell W. Poock</p>
+        <p>New York</p>
+      </block>
+      <block class="full_text">
+        <p>After reading the outraged responses (Letters, April 23) to Andrew Sullivan's article on testosterone (April 2), I finally got around to reading his article myself. Did I miss something? It was, in my opinion, a thoughtful, modulated treatise. It would seem that most of Sullivan's hypotheses were backed by clinical research or personal experience (or both), rather than racist or sexist supposition.</p>
+        <p>I was bewildered by the vehemence and personal nature of some of the responses in your letters column. I implore these readers to take another look; perhaps their hackles will be smoothed a bit by a second, more objective examination of the material presented.</p>
+        <p>Russell W. Poock</p>
+        <p>New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Guide to Life</title>
+    <meta content="LTR023421" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Movies; Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1231140"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="'THIS IS SPINAL TAP'"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <person class="indexing_service">Davis, Mary E</person>
+        <person class="indexing_service">Leland, John</person>
+        <object.title class="indexing_service">This Is Spinal Tap (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000917T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E6D81238F934A2575AC0A9669C8B63" item-length="104" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Guide to Life</hl1>
+      </hedline>
+      <abstract>
+        <p>Mary E Davis letter on John Leland's September 3 article holds movie This Is Spinal Tap presented well-honed philosophy for everyday living (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>More than a mere rockumentary or a postmodern exercise in self-reflexive irony, ''This Is Spinal Tap'' presents a well-honed philosophy for everyday living. ''The Godfather'' may have advised us to ''go to the mattresses,'' but ''Tap'' gave us practical advice and a handy lexicon of phrases for home and office use, from ''Mime is money'' and ''I'll rise above it, I'm a professional'' to ''It's a problem; it gets solved.'' The hard-working band's simplest and most important admonition, however, goes to 11 with fans: ''Have a good time, all the time.''</p>
+        <p>MARY E. DAVIS  Cleveland, Ohio</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>More than a mere rockumentary or a postmodern exercise in self-reflexive irony, ''This Is Spinal Tap'' presents a well-honed philosophy for everyday living. ''The Godfather'' may have advised us to ''go to the mattresses,'' but ''Tap'' gave us practical advice and a handy lexicon of phrases for home and office use, from ''Mime is money'' and ''I'll rise above it, I'm a professional'' to ''It's a problem; it gets solved.'' The hard-working band's simplest and most important admonition, however, goes to 11 with fans: ''Have a good time, all the time.''</p>
+        <p>MARY E. DAVIS  Cleveland, Ohio</p>
+        <p>'THIS IS SPINAL TAP'</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

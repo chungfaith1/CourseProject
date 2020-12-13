@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Crime Rates Fall Again, but Decline May Slow</title>
+    <meta content="15CRIM$03" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="36" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/15/national/15CRIM.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1239141"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Crime and Criminals</classifier>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Urban Areas</classifier>
+        <org class="indexing_service">Federal Bureau of Investigation</org>
+        <person class="indexing_service">Butterfield, Fox</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Urban Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001015T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07EED6103FF936A25753C1A9669C8B63" item-length="522" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Crime Rates Fall Again, but Decline May Slow</hl1>
+      </hedline>
+      <byline class="print_byline">By FOX BUTTERFIELD</byline>
+      <byline class="normalized_byline">Butterfield, Fox</byline>
+      <abstract>
+        <p>Federal Bureau of Investigation reports crime fell in United States in 1999 for eight consecutive year, with murder rate dropping to its lowest level since 1966; experts warn drop may be nearing end because murder rates in largest cities showed smallest decrease (M)g</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Crime in the United States fell again in 1999, the eighth consecutive decline, with the murder rate dropping to 5.7 per 100,000, its lowest level since 1966, according to an annual report by the Federal Bureau of Investigation being released today.</p>
+        <p>But experts cautioned that the decline may be nearing an end because murder rates in the nation's largest cities showed the smallest decrease in 1999, and it was these large cities, of more than one million in population, that had led the increase in murder in the late 1980's, during the crack cocaine epidemic, and then also led the drop during the 1990's.</p>
+      </block>
+      <block class="full_text">
+        <p>Crime in the United States fell again in 1999, the eighth consecutive decline, with the murder rate dropping to 5.7 per 100,000, its lowest level since 1966, according to an annual report by the Federal Bureau of Investigation being released today.</p>
+        <p>But experts cautioned that the decline may be nearing an end because murder rates in the nation's largest cities showed the smallest decrease in 1999, and it was these large cities, of more than one million in population, that had led the increase in murder in the late 1980's, during the crack cocaine epidemic, and then also led the drop during the 1990's.</p>
+        <p>While cities of more than one million people had a decline of only 1.8 percent in murder last year, cities of 500,000 to one million people had a decrease of 2.1 percent. Cities with 250,000 to 500,000 people had a decrease of 6.8 percent, and cities with 100,000 to 250,000 people saw a decrease of 9.4 percent: the smaller the cities, the larger the decline.</p>
+        <p>''Big cities have become victims of their own success,'' said James Alan Fox, a professor of criminal justice at Northeastern University. ''They led the drop, and therefore they are reaching bottom first.''</p>
+        <p>''They are harbingers of what we may see shortly, which is a national leveling off in crime trends,'' said Professor Fox. ''All good things must come to an end, and the great 90's crime drop may be just that, a 90's phenomenon. The millennium may be a new story.''</p>
+        <p>The report is the F.B.I.'s annual Uniform Crime Report, which is compiled from police arrest data forwarded to the agency. Over all, the report said, serious crime was down 7 percent in 1999, compared with 1998, with violent and property crime down by 7 percent.</p>
+        <p>The F.B.I. measures violent crimes of murder, robbery, assault and rape, and property crimes of burglary, auto theft, larceny and arson. The report does not include figures on drug crimes, because they are considered to be victimless and are hard to measure.</p>
+        <p>The largest drop was recorded for burglary, which fell 10 percent. Burglary has been declining since 1980, as criminals have turned to quicker crimes like robbery, and people have installed more burglar alarms. As a result, the burglary rate in the United States is now well below that of many Western European countries.</p>
+        <p>Crime rates continued a long-term pattern of large regional disparities, the report showed. The highest murder rate, for example, was in the South, with a rate of 6.9 per 100,000, compared with the West, with a rate of 5.5 per 100,000, the Midwest, with 5.3 per 100,000, and the Northeast with 4.1 per 100,000.</p>
+        <p>The state with the highest murder rate was Louisiana, at 10.7 per 100,000, while the states with the lowest were New Hampshire and Iowa, each with 1.5 per 100,000.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

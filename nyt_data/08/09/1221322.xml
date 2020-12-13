@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR011213" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1221322"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <person class="indexing_service">Clark, James H</person>
+        <person class="indexing_service">Doerr, John</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000809T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E1DE1F3CF93AA3575BC0A9669C8B63" item-length="108" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of July 24 article: John Doerr did not characterize James H Clark as Silicon Valley mercenary, but said Clark would probably consider himself mercenary</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A report in the Compressed Data column of Business Day on July 24 about an announcement by the technology entrepreneur James H. Clark that he had bought a million shares of Microsoft stock referred imprecisely to a comment made about him later, at the same industry conference, by the venture capitalist John Doerr. Mr. Doerr's speech described two categories of Silicon Valley entrepreneurs -- missionaries and mercenaries. It was in response to a question from the moderator that Mr. Doerr said Mr. Clark would probably consider himself a mercenary; Mr. Doerr did not characterize Mr. Clark that way unprompted.</p>
+      </block>
+      <block class="full_text">
+        <p>A report in the Compressed Data column of Business Day on July 24 about an announcement by the technology entrepreneur James H. Clark that he had bought a million shares of Microsoft stock referred imprecisely to a comment made about him later, at the same industry conference, by the venture capitalist John Doerr. Mr. Doerr's speech described two categories of Silicon Valley entrepreneurs -- missionaries and mercenaries. It was in response to a question from the moderator that Mr. Doerr said Mr. Clark would probably consider himself a mercenary; Mr. Doerr did not characterize Mr. Clark that way unprompted.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

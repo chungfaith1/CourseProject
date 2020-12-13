@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Arming a Computer Against Trojan Horses</title>
+    <meta content="05ASKK$01" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/05/technology/05ASKK.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1236129"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <person class="indexing_service">Biersdorfer, J D</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001005T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE5DB1E3DF936A35753C1A9669C8B63" item-length="709" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Arming a Computer Against Trojan Horses</hl1>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+      <byline class="normalized_byline">Biersdorfer, J D</byline>
+      <abstract>
+        <p>J D Biersdorfer column answers questions on how to protect a computer against malicious codes called Trojan horses and how to organize Internet Explorer 5.0 bookmarks into folders (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. What are Trojan horses and how can I keep from getting them on my computer? Is there any software that scans for Trojan horses and removes them?</p>
+        <p>A. A Trojan horse, which you might have seen mentioned in articles about computer security, is a potentially dangerous piece of software disguised as an innocent application, file or other bit of software downloaded from a Web site, or as an e-mail attachment.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. What are Trojan horses and how can I keep from getting them on my computer? Is there any software that scans for Trojan horses and removes them?</p>
+        <p>A. A Trojan horse, which you might have seen mentioned in articles about computer security, is a potentially dangerous piece of software disguised as an innocent application, file or other bit of software downloaded from a Web site, or as an e-mail attachment.</p>
+        <p>The name is taken from the story of the siege of Troy, when the Trojans were fooled into hauling inside their city walls a large wooden horse containing enemy Greek soldiers. Once inside, of course, the legendary Trojan horse caused a great deal of trouble.</p>
+        <p>Once an electronic Trojan horse is in place on your computer, it can do things like giving hackers access to your machine or dumping viruses all over your hard drive. (A Trojan horse is different from a computer virus in that a Trojan horse doesn't replicate by itself.)</p>
+        <p>A good antivirus program installed on your computer can help stop malicious code like Trojan horses from running loose around your personal data, but you should also be wary of file attachments and downloaded files from people or sites you don't know.</p>
+        <p>To check for information on the latest Trojans, viruses and other bits of evil code, you can go to the page for the Carnegie Mellon Software Engineering Institute's CERT Coordination Center (www.cert.org). It also has an excellent Tech Tips link that offers several Frequently Asked Questions pages about e-mail viruses and a section on how the F.B.I. deals with computer crime.</p>
+        <p>Also try the AntiViral ToolKit Pro Virus Encyclopedia page (www .avpve.com) and the home page of ICSA.net (www.icsa.net), an Internet security firm, for news about Trojan horses and other computer security threats.</p>
+        <p>Q. Is there a way I can arrange a somewhat top-heavy list of Internet Explorer 5.0 bookmarks into a system of folders?</p>
+        <p>A. Creating folders to help organize your Favorites by categories or other criteria can help you keep track of them, and it is a fairly easy thing to do in Internet Explorer 5.0 for Windows, as well as in the Macintosh edition.</p>
+        <p>Creating folders in your Favorites list allows you to make submenus, which can shorten the overall length of the list and help you find certain links more quickly.</p>
+        <p>One way to start is by going to the Favorites menu on the menu bar of the Explorer browser and selecting Organize Favorites from the list.</p>
+        <p>You can also type Control-I to call  the Favorites pane into the browser window and click on Organize.</p>
+        <p>The Organize Favorites option will call up a dialogue box that will let you create and name new folders that will show up on your Favorites list. For example, you can create a new folder named Sports and then move each sports-themed link into that folder with the Move to Folder button.</p>
+        <p>You can also drag and drop your Favorites into folders in the Favorites pane in the browser window.</p>
+        <p>Mac users of Internet Explorer 5.0 can make new folders from the New Folder option on the Favorites menu in the menu bar, or by clicking on the Favorites tab to slide out the list next to the browser window.</p>
+        <p>In the area next to the broswer window, Favorites can be dragged and dropped into new folders or to new positions on the list.</p>
+        <p>Those who use Version 4.0 or later of Netscape Navigator for the Macintosh can create new folders to organize their bookmarks by selecting Edit Bookmarks from the Bookmarks menu and then selecting New Folder from the File menu.</p>
+        <p>Windows users who prefer Netscape's browser can get to similar Bookmark organizing tools in the Edit Bookmarks option under the Communicator menu in the menu bar.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Circuits invites questions about computer-based technology, by e-mail to QandA@nytimes.com or mail to Questions, Circuits, The New York Times, 229 West 43rd Street, New York, N.Y. 10036-3959. This column will answer questions of general interest, but letters cannot be answered individually.</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

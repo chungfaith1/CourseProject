@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Another Kind of E-Book</title>
+    <meta content="MB234727" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1241081"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="OCTOBER 15-21"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001022T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE1D91F3EF931A15753C1A9669C8B63" item-length="105" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Another Kind of E-Book</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>No, the Internet isn't everywhere, but it will be by next year. That's when when Verizon Communications, the corporate successor to Bell Atlantic, sends out its new phone books, in which people will be able to list e-mail and personal Web page addresses, along with their phone numbers. The annual cost is $36 for each listing.</p>
+        <p>Verizon plans to make the service available throughout its territory -- New York, New England and the mid-Atlantic state.</p>
+      </block>
+      <block class="full_text">
+        <p>No, the Internet isn't everywhere, but it will be by next year. That's when when Verizon Communications, the corporate successor to Bell Atlantic, sends out its new phone books, in which people will be able to list e-mail and personal Web page addresses, along with their phone numbers. The annual cost is $36 for each listing.</p>
+        <p>Verizon plans to make the service available throughout its territory -- New York, New England and the mid-Atlantic state.</p>
+        <p>''E-mail is how people are communicating now,'' said MaryBeth Masterson, product manager of white pages for Verizon.</p>
+        <p>OCTOBER 15-21</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Yesterday, Model Housing; Today, Humidity and Mold</title>
+    <meta content="04MOLD" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204753"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEIGHBORHOOD REPORT: PELHAM PARKWAY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Public Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Mildew</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">New York City Housing Authority</org>
+        <person class="indexing_service">Critchell, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E3DB113CF937A35755C0A9669C8B63" item-length="419" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Yesterday, Model Housing; Today, Humidity and Mold</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID CRITCHELL</byline>
+      <byline class="normalized_byline">Critchell, David</byline>
+      <abstract>
+        <p>Tenants complain of faulty, leaking pipes in Pelham Parkway Houses, which are causing severe water damage, crumbling walls and mold that poses significant health threat; New York City Housing Authority says mold problems will be eliminated; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Angelica Perez, a 6-year-old with acute asthma, stepped out of the bathroom of her mother's cramped apartment in the Pelham Parkway Houses recently and wheezed.</p>
+        <p>The bathroom, even without the shower running, was like a steam room, and the smell of mold on its walls stung the eyes and nose.</p>
+      </block>
+      <block class="full_text">
+        <p>Angelica Perez, a 6-year-old with acute asthma, stepped out of the bathroom of her mother's cramped apartment in the Pelham Parkway Houses recently and wheezed.</p>
+        <p>The bathroom, even without the shower running, was like a steam room, and the smell of mold on its walls stung the eyes and nose.</p>
+        <p>The walls of the bathroom and the adjacent bedroom, severely water damaged, were crumbling. Like many of the 1,266 apartments in the complex, long considered the crown jewel of public housing in the city, Ms. Perez's apartment has been damaged by faulty pipes that have leaked, offering a foothold for a small fungus that can be a significant health threat.</p>
+        <p>According to Joseph Gabris, the tenants' association president, whose own apartment is moldy, a recent survey revealed that about half of the 2,580 residents had complained about mold.</p>
+        <p>''This complex has suffered from benign neglect for years,'' Mr. Gabris said. ''I can't conceive of anyone not getting sick living in an environment like this.'' He said that while the City Housing Authority, which owns and operates the complex, had cleaned up some apartments, the larger issue of faulty pipes had never been addressed.</p>
+        <p>For families that must contend with health problems like Angelica's, whose asthma predates living in her moldy apartment, the problem is all the more acute. ''She has already stopped breathing at night a few times because of this,'' said her uncle, Robert Salas, who shares the apartment with his sister and her two daughters. ''I don't notice it anymore, but people come over and say, 'Man, it stinks in here.' ''</p>
+        <p>Assemblyman Jeffrey Klein said that he had contacted the city agency and received an assurance that the mold would be cleaned up promptly.</p>
+        <p>But Mr. Gabris said little had been done.</p>
+        <p>Howard Marder, a spokesman for City Housing Authority, said that his agency had received only six complaints about moldy apartments and had addressed all of those as of late last month.</p>
+        <p>''We are responsible landlords,'' he said. ''We have acted rather quickly. We do everything we can. When we find out about the problem, we go in and remediate the problem.''</p>
+        <p>In Ms. Perez's apartment this week, the air was still thick and humid and the smell of mold.</p>
+        <p>''It's like a penicillin factory in here,'' Mr. Salas said.</p>
+        <p>NEIGHBORHOOD REPORT: PELHAM PARKWAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Diamonds, Sugar, Misery</title>
+    <meta content="L20DIA$02" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1224074"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Diamonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Slavery</classifier>
+        <classifier class="indexing_service" type="descriptor">Sugar</classifier>
+        <location class="indexing_service">Africa</location>
+        <location class="indexing_service">West Indies</location>
+        <person class="indexing_service">Arbour, Keith</person>
+        <person class="indexing_service">Franklin, Benjamin (1706-1790)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="general_descriptor">Slavery</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diamonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000820T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E4DE133EF933A1575BC0A9669C8B63" item-length="189" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Diamonds, Sugar, Misery</hl1>
+      </hedline>
+      <abstract>
+        <p>Keith Arbour letter on diamonds that finance violence in Africa; quotes Benjamin Franklin's 1772 objection to using sugar produced by slaves in West Indies (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As thoughtful Americans consider how the diamond trade has financed the murder of men and women in Africa (news article, Aug. 15) and decide whether to boycott the gems, they may wish to weigh what one of the country's Founding Fathers said when faced with a similar question.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As thoughtful Americans consider how the diamond trade has financed the murder of men and women in Africa (news article, Aug. 15) and decide whether to boycott the gems, they may wish to weigh what one of the country's Founding Fathers said when faced with a similar question.</p>
+        <p>In 1772, Benjamin Franklin inveighed against using sugar produced by people enslaved in the West Indies: ''Can sweetening our tea, &amp;c. with sugar, be a circumstance of such absolute necessity? Can the petty pleasure thence arising to the taste, compensate for so much misery produced among our fellow creatures, and such a constant butchery of the human species by this pestilential detestable traffic in the bodies and souls of men?''</p>
+        <p>KEITH ARBOUR  Cambridge, Mass. Aug. 15, 2000</p>
+        <p>The writer is a historian.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

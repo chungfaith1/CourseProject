@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dueling D.S.L.'s</title>
+    <meta content="LTR233610" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200456"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <org class="indexing_service">Bell Atlantic Corp</org>
+        <person class="indexing_service">dremeaux, george</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000518T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E1D7173AF93BA25756C0A9669C8B63" item-length="204" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dueling D.S.L.'s</hl1>
+      </hedline>
+      <abstract>
+        <p>George Dremeaux letter on May 4 article cites his positive experience with Bell Atlantic's DSL high-speed Internet access service</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Count me among the lucky ones who have installed all the D.S.L. hardware and software supplied by Bell Atlantic and experienced no problems whatsoever (''Night of the Living D.S.L.,'' May 4). Not only that, the service that was scheduled to start three weeks from the order date actually began 10 days early.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Count me among the lucky ones who have installed all the D.S.L. hardware and software supplied by Bell Atlantic and experienced no problems whatsoever (''Night of the Living D.S.L.,'' May 4). Not only that, the service that was scheduled to start three weeks from the order date actually began 10 days early.</p>
+        <p>And the $50 monthly expense is worth it. My dial-up I.S.P. account had been costing me $15 a month. The extra phone line was $7. Between my two teenagers, my wife and myself, we were connecting to the Internet about eight times a day at 11 cents a call. Add it all up, and you end up paying just under the same $50 a month for less than a tenth the speed of D.S.L.</p>
+        <p>GEORGE DREMEAUX  Mount Kisco, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

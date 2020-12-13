@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Summertime Dues</title>
+    <meta content="LTR103025" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1218572"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Temporary Employment</classifier>
+        <person class="indexing_service">Veitch, Angelica</person>
+        <person class="indexing_service">Kirn, Walter</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000730T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE1DE133AF933A05754C0A9669C8B63" item-length="96" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Summertime Dues</hl1>
+      </hedline>
+      <abstract>
+        <p>Angelica Veitch letter on Walter Kirn's July 9 Way We Life Now essay recalls being terrified by owner of fish-fry restaurant in Vermont where she worked as teen</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Walter Kirn's article reminded me of my first job, at age 14, at a fish-fry restaurant in Vermont. We were terrified of the owner, so rather than face his wrath when any food items dropped on the floor, we quickly returned them to their original places. I learned a valuable lesson from this experience: don't eat at fast-food places.</p>
+        <p>Angelica Veitch  Baton Rouge, La.</p>
+      </block>
+      <block class="full_text">
+        <p>Walter Kirn's article reminded me of my first job, at age 14, at a fish-fry restaurant in Vermont. We were terrified of the owner, so rather than face his wrath when any food items dropped on the floor, we quickly returned them to their original places. I learned a valuable lesson from this experience: don't eat at fast-food places.</p>
+        <p>Angelica Veitch  Baton Rouge, La.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

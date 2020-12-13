@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="19INSI$01" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1231865"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000919T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E4DD143BF93AA2575AC0A9669C8B63" item-length="204" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Not Ready for Peacekeeping  An Army inquiry into accusations of misconduct by members of the elite 82nd Airborne Division in Kosovo found they received little advance training in peacekeeping.</p>
+        <p>PAGE A10</p>
+        <p>Pinochet Aide Tied to C.I.A.  The former chief of Chile's secret police, convicted in a 1976 bombing in Washington, was a C.I.A. informer, documents show.</p>
+        <p>PAGE A6</p>
+      </block>
+      <block class="full_text">
+        <p>Not Ready for Peacekeeping  An Army inquiry into accusations of misconduct by members of the elite 82nd Airborne Division in Kosovo found they received little advance training in peacekeeping.</p>
+        <p>PAGE A10</p>
+        <p>Pinochet Aide Tied to C.I.A.  The former chief of Chile's secret police, convicted in a 1976 bombing in Washington, was a C.I.A. informer, documents show.</p>
+        <p>PAGE A6</p>
+        <p>Buchanan Campaigns Again  Patrick J. Buchanan roared back into the presidential race, denouncing homosexuality and vowing to expel the United Nations.</p>
+        <p>PAGE A21</p>
+        <p>Help for the Panda  The San Diego Zoo is trying to help the giant panda inch back from the brink of extinction.</p>
+        <p>SCIENCE TIMES,PAGE F1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

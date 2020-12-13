@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="01INSI$05" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1226851"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000901T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405EFDE1230F932A3575AC0A9669C8B63" item-length="206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Last Resort for Parents  When parents are at wits' end and their children -- often adolescents -- are out of control, some turn to government, relinquishing their children to foster care.</p>
+        <p>PAGE B1</p>
+        <p>Drought's Toll in Texas  This summer's record stretch of 62 days without rain in North Texas has dried up lakes, helped spark 650 fires and left thousands of acres of crops wasted.</p>
+        <p>PAGE A14</p>
+      </block>
+      <block class="full_text">
+        <p>Last Resort for Parents  When parents are at wits' end and their children -- often adolescents -- are out of control, some turn to government, relinquishing their children to foster care.</p>
+        <p>PAGE B1</p>
+        <p>Drought's Toll in Texas  This summer's record stretch of 62 days without rain in North Texas has dried up lakes, helped spark 650 fires and left thousands of acres of crops wasted.</p>
+        <p>PAGE A14</p>
+        <p>Type-A Mayor Slows Down  Fatigued by cancer treatments and sidelined by his party, Rudolph W. Giuliani, New York's round-the-clock mayor, has slowed to a less frenetic pace.</p>
+        <p>PAGE B1</p>
+        <p>Former Lucchese Boss Dies  Anthony Corallo, thought to have been the oldest surviving mobster to have risen from one of New York City's five organized crime families, died in prison at 87.</p>
+        <p>PAGE A25</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

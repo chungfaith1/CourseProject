@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="19CMPBRFS" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200654"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000519T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE0DA153AF93AA25756C0A9669C8B63" item-length="328" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>STREAMLINE.COM INC., Westwood, Mass., an Internet shopping service that first sold shares to the public 11 months ago, said it hired an investment bank to help get financing and explore alternatives.</p>
+      </block>
+      <block class="full_text">
+        <p>STREAMLINE.COM INC., Westwood, Mass., an Internet shopping service that first sold shares to the public 11 months ago, said it hired an investment bank to help get financing and explore alternatives.</p>
+        <p>CALPINE CORP., San Jose, Calif., a power-plant developer whose shares have more than quadrupled in a year, said it would split its stock two shares for one for the second time in eight months. The new shares will be issued June 8 to shareholders of record as of May 29.</p>
+        <p>BALLY TOTAL FITNESS CORP., Chicago, North America's largest commercial health club operator, said it bought 13 Gold's Gym fitness centers around Portland, Ore., from Nautilus Plus of Oregon Inc. for an undisclosed price.</p>
+        <p>TANDY CORP., Fort Worth, said its shareholders had voted to change the company's name to RadioShack Corp.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

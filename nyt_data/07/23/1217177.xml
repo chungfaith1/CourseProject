@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Nation; Learning to Live With Big Brother</title>
+    <meta content="23LABA$05" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1217177"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Wiretapping and Other Eavesdropping Devices and Methods</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">Federal Bureau of Investigation</org>
+        <person class="indexing_service">Labaton, Stephen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wiretapping and Other Eavesdropping Devices and Methods</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000723T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E2DE153AF930A15754C0A9669C8B63" item-length="1110" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Nation; Learning to Live With Big Brother</hl1>
+      </hedline>
+      <byline class="print_byline">By STEPHEN LABATON</byline>
+      <byline class="normalized_byline">Labaton, Stephen</byline>
+      <dateline>WASHINGTON</dateline>
+      <abstract>
+        <p>Civil liberties groups and privacy advocates worry that FBI's Carnivore e-mail surveillance program, which can sort through e-mail traffic for a suspect's correspondence, might also be used to monitor e-mail of people not suspected of a crime (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IN 1928, the Supreme Court took up the case of Roy (Big Boy) Olmstead, a bootlegger whose phones had been tapped by federal agents without a warrant. The court ruled that evidence obtained in that way was legal, prompting a remarkable dissent by Judge Louis D. Brandeis.</p>
+        <p>''The progress of science in furnishing the government with the means of espionage is not likely to stop with wiretapping,'' Justice Brandeis wrote in a dissent that the court adopted as the law nearly 40 years later. ''Ways may some day be developed by which the government, without removing papers from secret drawers, can reproduce them in court, and by which it will be enabled to expose to a jury the most intimate occurrences of the home.''</p>
+      </block>
+      <block class="full_text">
+        <p>IN 1928, the Supreme Court took up the case of Roy (Big Boy) Olmstead, a bootlegger whose phones had been tapped by federal agents without a warrant. The court ruled that evidence obtained in that way was legal, prompting a remarkable dissent by Judge Louis D. Brandeis.</p>
+        <p>''The progress of science in furnishing the government with the means of espionage is not likely to stop with wiretapping,'' Justice Brandeis wrote in a dissent that the court adopted as the law nearly 40 years later. ''Ways may some day be developed by which the government, without removing papers from secret drawers, can reproduce them in court, and by which it will be enabled to expose to a jury the most intimate occurrences of the home.''</p>
+        <p>Thanks to the ubiquity of e-mail and the ingenuity of the F.B.I., that day has arrived. Over the last couple of weeks it has been widely reported that the F.B.I. is now using a computer program called Carnivore, which, once installed on the network of an Internet service provider, can troll through millions of e-mail messages and hone in on the electronic correspondence of suspects.</p>
+        <p>SO far, the F.B.I. has reported using the program fewer than 25 times since it was developed 18 months ago, but that number is expected to grow quickly, since the bureau expects it to become an indispensable law enforcement tool, particularly in international espionage and terrorism cases.</p>
+        <p>That's fine, say critics, but Carnivore is also capable of simultaneously monitoring the communications of people not suspected of a crime. That has caused civil liberties groups and privacy advocates to worry that the technology might be used to monitor unpopular groups or political enemies, and not just suspected criminals.</p>
+        <p>Last week, as lawmakers on Capitol Hill began voicing their concerns, the White House moved to calm the growing storm. John Podesta, the president's chief of staff, outlined legislative proposals that would set legal requirements for surveillance in cyberspace.</p>
+        <p>Everyone agrees that some kind of legislation is needed to make sense of the existing patchwork of laws and court cases on electronic surveillance. At present, for example, e-mail sent via cable modem is more strictly protected than any other communication form -- even telephone conversations -- while law enforcement requests for lists of telephone calls to or from a particular line must be granted without question by a federal court.</p>
+        <p>The White House proposed replacing these illogical distinctions with a uniform, rational set of standards. Civil liberties and privacy groups support this idea in principle, but are highly critical of the administration for refusing to explain how broadly it intends to use Carnivore or to describe what safeguards are in place for preventing its abuse.</p>
+        <p>Law enforcement officials say that computer systems like Carnivore are necessary because e-mail is becoming more frequently used for communication among criminals. And the officials note that these cybermonitors can actually be set to record communications much more selectively than a phone tap.</p>
+        <p>Carnivore could, for instance, be programmed to pick up the e-mail from only one sender and a particular computer, while excluding such e-mail as messages to or from, say, the sender's lawyer or wife. Phone taps, on the other hand, pick up everything.</p>
+        <p>At a news briefing on Friday, top F.B.I. officials also announced plans to submit Carnivore to analysis by independent academics, and noted that the system kept a log of what it was asked to pick up, which could be used by a court to spot any violations.</p>
+        <p>In making their case, supporters of cybersurveillance say that the only way to track e-mail is by combing through all of the messages on a particular network, because e-mail consists of a series of digital packets that are broken apart at the sending end and transmitted along multiple electronic paths before being reconstituted by the recipient's computer.</p>
+        <p>Nonetheless, privacy groups and some Internet service providers, or I.S.P.'s, say there remains a less intrusive alternative. The providers, like AOL or the Microsoft Network, could be ordered by a court to turn over specific material, rather than give the F.B.I. unlimited access to a network. That is precisely how telephone companies are treated; they cooperate with warrants for wiretaps and lists of telephone numbers called from a particular phone.</p>
+        <p>''The real question is who should be in control,'' said James X. Dempsey, staff attorney for the Center for Democracy and Technology, a civil liberties group in Washington. ''It upsets the balance among competing interests and privacy for law enforcement to, in essence, kick the companies out of the way, hook up a black box, and say, don't touch it.''</p>
+        <p>Other experts said that it was time for a reappraisal of all the standards used by the government to eavesdrop, particularly as the world moves into an era of digital communications that can be more readily monitored by computers and more easily masked by encryption.</p>
+        <p>As even household appliances begin to be wired into the Internet and many of our most personal thoughts and associations are now shared with the computer, the issue has taken on a new imperative and is being debated on a global scale.</p>
+        <p>THE British government (whose house-to-house searches in the English colonies led to the Fourth Amendment prohibition against unreasonable searches) is near to adopting a law, the Regulation of Investigatory Powers Bill, or R.I.P., that would require Internet service companies to finance the permanent installation of a Carnivore-like system for government use.</p>
+        <p>A similar system is already in place in Russia, while in the Netherlands a debate is raging over whether the government should have the authority to tap into e-mail at all.</p>
+        <p>''This debate really cries out for a return to first principles,'' said Marc Rotenberg, director of the Electronic Privacy Information Center, a research organization that studies privacy issues and technology.</p>
+        <p>Among the most important of such principles, he said, is that the government should always use the least intrusive investigative techniques before taking the invasive step of trying to intercept telephone calls or e-mail messages.</p>
+        <p>''What is the solution?'' he asked. ''A lot of oversight, a lot of accountability, and a great deal of concern about the potential surveillance capabilities of the electronic police state.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

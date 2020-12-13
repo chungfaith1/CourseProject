@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR030802" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209661"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">Roman Catholic Church</org>
+        <person class="indexing_service">Egan, Edward M (Archbishop)</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000623T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06EFDC1630F930A15755C0A9669C8B63" item-length="103" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of June 20 article on Archbishop Edward M Egan's Mass of Installation at St Patrick's Cathedral in New York</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article on Tuesday about Archbishop Edward M. Egan's Mass of Installation and an article on Sunday about preparations for the ceremony both misstated the route of an outdoor procession in Manhattan. Before walking to St. Patrick's Cathedral for the Mass on Monday, more than 1,000 priests and bishops assembled at the Palace Hotel, behind the cathedral on Madison Avenue, not at the Catholic Center at 56th Street and First Avenue.</p>
+      </block>
+      <block class="full_text">
+        <p>An article on Tuesday about Archbishop Edward M. Egan's Mass of Installation and an article on Sunday about preparations for the ceremony both misstated the route of an outdoor procession in Manhattan. Before walking to St. Patrick's Cathedral for the Mass on Monday, more than 1,000 priests and bishops assembled at the Palace Hotel, behind the cathedral on Madison Avenue, not at the Catholic Center at 56th Street and First Avenue.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

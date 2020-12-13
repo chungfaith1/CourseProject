@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>International Paper Closing Tech Center</title>
+    <meta content="MB021451" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212053"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="IN BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Paper and Pulp</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Shutdowns (Institutional)</classifier>
+        <classifier class="indexing_service" type="descriptor">Layoffs and Job Reductions</classifier>
+        <org class="indexing_service">International Paper Co</org>
+        <org class="indexing_service">Champion International Corp</org>
+        <person class="indexing_service">Brenner, Elsa</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shutdowns (Institutional)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Paper and Pulp</classifier>
+        <classifier class="online_producer" type="general_descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E6DF1239F931A35754C0A9669C8B63" item-length="124" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>International Paper Closing Tech Center</hl1>
+      </hedline>
+      <byline class="print_byline">By ELSA BRENNER</byline>
+      <byline class="normalized_byline">Brenner, Elsa</byline>
+      <abstract>
+        <p>International Paper, following acquisition, plans to close former Champion International tech center in West Nyack, NY, and eliminate 109 jobs (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When the former Champion International shutters its 128,000-square-foot West Nyack technical center next fall, Rockland County will lose 109 jobs.</p>
+        <p>International Paper, which is based in Purchase and acquired the smaller rival Champion last month for $9.5 billion, already owns a research center in Tuxedo, which is 20 miles away in Orange County. International Paper is the world's largest paper and forest products company. Businesses include printing papers, packaging, building materials, chemical products and distribution.</p>
+      </block>
+      <block class="full_text">
+        <p>When the former Champion International shutters its 128,000-square-foot West Nyack technical center next fall, Rockland County will lose 109 jobs.</p>
+        <p>International Paper, which is based in Purchase and acquired the smaller rival Champion last month for $9.5 billion, already owns a research center in Tuxedo, which is 20 miles away in Orange County. International Paper is the world's largest paper and forest products company. Businesses include printing papers, packaging, building materials, chemical products and distribution.</p>
+        <p>The company is the largest private landowner in the United States.</p>
+        <p>ELSA BRENNER</p>
+        <p>IN BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

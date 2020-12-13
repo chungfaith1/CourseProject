@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CALENDAR</title>
+    <meta content="21FCAL$01" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209035"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000621T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02EEDD1331F932A15755C0A9669C8B63" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CALENDAR</hl1>
+      </hedline>
+      <byline class="print_byline">By FLORENCE FABRICANT</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Beer, No Skittles</p>
+        <p>A free tasting of European beers, with hors d'oeuvres, will be held tomorrow at 5:30 p.m. at Bayard's, 1 Hanover Square (Pearl Street).</p>
+        <p>Madhur Jaffrey, Accompanied</p>
+        <p>A four-course Indian dinner prepared by the author Madhur Jaffrey will follow chamber music performed by Clarion Concerts of Columbia County, Saturday evening at 7, at Hillsdale Grange, Route 22, Hillsdale, N.Y. Proceeds will benefit the performing group. Tickets, $100: (518) 325-3805.</p>
+      </block>
+      <block class="full_text">
+        <p>Beer, No Skittles</p>
+        <p>A free tasting of European beers, with hors d'oeuvres, will be held tomorrow at 5:30 p.m. at Bayard's, 1 Hanover Square (Pearl Street).</p>
+        <p>Madhur Jaffrey, Accompanied</p>
+        <p>A four-course Indian dinner prepared by the author Madhur Jaffrey will follow chamber music performed by Clarion Concerts of Columbia County, Saturday evening at 7, at Hillsdale Grange, Route 22, Hillsdale, N.Y. Proceeds will benefit the performing group. Tickets, $100: (518) 325-3805.</p>
+        <p>See a Little, Eat a Little</p>
+        <p>The Lower East Side Conservancy will offer three-hour tours and traditional food tastings at three historic synagogues on Sunday, at 11:30 a.m. and 12:15 and 1 p.m. Tours are $21 each; $18 for students: (212) 598-1200.</p>
+        <p>FLORENCE FABRICANT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

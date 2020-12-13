@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="12TRUS" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Corrections; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1198832"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Antitrust Actions and Laws</classifier>
+        <classifier class="indexing_service" type="descriptor">Compact Discs</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Discount Selling</classifier>
+        <classifier class="indexing_service" type="descriptor">Marketing and Merchandising</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Federal Trade Commission</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discount Selling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Antitrust Actions and Laws</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000512T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E3DE143BF931A25756C0A9669C8B63" item-length="248" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of May 11 front-page article about settlement of antitrust case involving pricing of compact discs, which omitted a passage at the continuation in some copies because of production error</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Because of a production error, a front-page article yesterday about the settlement of an antitrust case involving the pricing of compact discs omitted a passage at the continuation in some copies. The affected paragraphs should have read:</p>
+        <p>The marketing agreements, which the F.T.C. said violated federal antitrust law, were between many large and small retailers and the five music companies, which control 85 percent of the $15 billion CD market.</p>
+        <p>The companies that settled the case were Time Warner, which announced earlier this year that it had reached a deal with the F.T.C.; the Sony Corporation of America; the Bertelsmann Music Group; EMI Music Distribution; and Universal Music and Video Distribution. All the companies have denied that the marketing agreements violated the law, and many of them declined today to discuss the settlement.</p>
+        <p>Mr. Pitofsky said the agreements, known as ''minimum advertised price'' programs, or MAP, were carried out in an effort by the manufacturers to end a price war earlier in the 1990's by such discounters as Circuit City, Wal-Mart, Best Buy and Target.</p>
+      </block>
+      <block class="full_text">
+        <p>Because of a production error, a front-page article yesterday about the settlement of an antitrust case involving the pricing of compact discs omitted a passage at the continuation in some copies. The affected paragraphs should have read:</p>
+        <p>The marketing agreements, which the F.T.C. said violated federal antitrust law, were between many large and small retailers and the five music companies, which control 85 percent of the $15 billion CD market.</p>
+        <p>The companies that settled the case were Time Warner, which announced earlier this year that it had reached a deal with the F.T.C.; the Sony Corporation of America; the Bertelsmann Music Group; EMI Music Distribution; and Universal Music and Video Distribution. All the companies have denied that the marketing agreements violated the law, and many of them declined today to discuss the settlement.</p>
+        <p>Mr. Pitofsky said the agreements, known as ''minimum advertised price'' programs, or MAP, were carried out in an effort by the manufacturers to end a price war earlier in the 1990's by such discounters as Circuit City, Wal-Mart, Best Buy and Target.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

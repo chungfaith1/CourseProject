@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="02INSI" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1227245"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000902T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E7DC1330F931A3575AC0A9669C8B63" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Fewer Jobs Are Created  Only 17,000 jobs were created by the nation's private employers in August, indicating that the nation's economy is slowing.</p>
+        <p>PAGE C1</p>
+      </block>
+      <block class="full_text">
+        <p>Fewer Jobs Are Created  Only 17,000 jobs were created by the nation's private employers in August, indicating that the nation's economy is slowing.</p>
+        <p>PAGE C1</p>
+        <p>Sharp Words in Taiwan  In an interview, Taiwan's president took a hard line toward Beijing on when, or even if, the island would unite with China.</p>
+        <p>PAGE A3</p>
+        <p>Cheers vs. Prayers in Texas  Cheers for the Santa Fe High School football team were louder than prayers at a rally held to defy a Supreme Court ruling.</p>
+        <p>PAGE A12</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

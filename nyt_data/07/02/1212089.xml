@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Baseball Books in Brief</title>
+    <meta content="RV102010" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212089"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <person class="indexing_service">Stillman, Deanne</person>
+        <person class="indexing_service">Simon, Scott</person>
+        <object.title class="indexing_service">Home and Away: Memoir of a Fan (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04EED91E31F931A35754C0A9669C8B63" item-length="252" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Baseball Books in Brief</hl1>
+      </hedline>
+      <byline class="print_byline">By Deanne Stillman</byline>
+      <byline class="normalized_byline">Stillman, Deanne</byline>
+      <abstract>
+        <p>Deanne Stillman reviews book Home and Away: Memoir of a Fan by Scott Simon (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HOME AND AWAY</p>
+        <p>Memoir of a Fan.</p>
+        <p>By Scott Simon.</p>
+        <p>Hyperion, $23.95.</p>
+      </block>
+      <block class="full_text">
+        <p>HOME AND AWAY</p>
+        <p>Memoir of a Fan.</p>
+        <p>By Scott Simon.</p>
+        <p>Hyperion, $23.95.</p>
+        <p>Scott Simon's account of being a lifelong Chicago sports fan is more a compilation of personal anecdotes and reporting than a reflection of the state of being a perpetual booster. While this makes for an occasionally interesting and evocative journey through 50 years of Midwestern sports history, it all too rarely takes the reader into the heart and soul of the fan. Yet ''Home and Away'' is fun -- packed with accounts of milestone sports moments (the doomed white man Brian Piccolo rooming with the black running back Gale Sayers of the Chicago Bears); humorously dark episodes (the delay of ground action in the gulf war so troops could watch the Giants and the Buffalo Bills in the 1991 Super Bowl) and accounts of famous jinxes (the continuing saga of the Chicago Cubs) that will resonate with any true fan, especially a fan born in the 1950's like Simon, a broadcaster on National Public Radio. But one wonders why Simon did not trim the nearly 150-page kvell devoted to the Chicago Bulls to make way for more of his most powerful material. For instance, he movingly recalls the parallel between the Cleveland Indians' infamous trade of Rocky Colavito and his parents' divorce. Such passages of memory are stylish and classy, and it is disappointing that there are not more of them.</p>
+        <p>Deanne Stillman</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

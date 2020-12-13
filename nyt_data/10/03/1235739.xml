@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="03CMPBRFS" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1235739"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001003T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E7DF103DF930A35753C1A9669C8B63" item-length="316" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MILACRON INC., Cincinnati, an industrial products company, has sold its industrial magnets business, Widia Magnet Engineering, Essen, Germany, to Magnequench Inc., Anderson, Ind., for an undisclosed amount.</p>
+      </block>
+      <block class="full_text">
+        <p>MILACRON INC., Cincinnati, an industrial products company, has sold its industrial magnets business, Widia Magnet Engineering, Essen, Germany, to Magnequench Inc., Anderson, Ind., for an undisclosed amount.</p>
+        <p>CONCORD EFS INC., Memphis, a credit card transaction-processing company, said it was in talks to acquire the closely held Star Systems Inc., Maitland, Fla., which processes electronic payments at automated teller machines and retail locations.</p>
+        <p>ESENJAY EXPLORATION INC., Houston, an independent energy company that explores for natural gas, said it had retained Deutsche Bank Securities Inc. to advise it on maximizing shareholder value and had hired Randall &amp; Dewey to begin a possible merger or sale of the company.</p>
+        <p>JPS PACKAGING CO., Prairie Village, Kan., a maker of packages for the food industry, said it held discussions with a potential buyer but had not received an offer.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

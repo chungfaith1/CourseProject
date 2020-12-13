@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kasparov, in a Surprise, Salvages a Draw</title>
+    <meta content="15CHES$05" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="47" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1239153"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="CHESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Chess</classifier>
+        <person class="indexing_service">Byrne, Robert</person>
+        <person class="indexing_service">Krammik, Vladimir</person>
+        <person class="indexing_service">Kasparov, Garry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001015T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E5DE113FF936A25753C1A9669C8B63" item-length="585" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kasparov, in a Surprise, Salvages a Draw</hl1>
+      </hedline>
+      <byline class="print_byline">By Robert Byrne</byline>
+      <abstract>
+        <p>Robert Byrne chess column discusses draw in Game 4 of World Chess Championship between Vladimir Krammik and Garry Kasparov; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Garry Kasparov pulled a rabbit out of his wily grandmaster's hat yesterday to escape with a draw after a fantastically complex battle.</p>
+        <p>Game 4 of the world championship match in London ended after 69 grueling moves. The challenger, Vladimir Kramnik, still maintains a one-point lead, with the score now 2 1/2-1 1/2.</p>
+      </block>
+      <block class="full_text">
+        <p>Garry Kasparov pulled a rabbit out of his wily grandmaster's hat yesterday to escape with a draw after a fantastically complex battle.</p>
+        <p>Game 4 of the world championship match in London ended after 69 grueling moves. The challenger, Vladimir Kramnik, still maintains a one-point lead, with the score now 2 1/2-1 1/2.</p>
+        <p>The fifth game in the 16-game match is today. A score of 8 1/2 is required to win the $1.33 million prize.</p>
+        <p>Kasparov's accepting the Queen's Gambit with 2 . . . dc comes as a surprise, deviating from his three favorite defenses against 1 d4: the King's Indian Defense, the Gruenfeld Defense and the Nimzo-Indian Defense.</p>
+        <p>Of course, he got burned by Kramnik's play against his Gruenfeld in Game 2. And he has a lot of respect for the challenger's attacking skill in the Classical Variation of the King's Indian.</p>
+        <p>The capture with 7 dc is considered tame, inviting a drawish endgame after 7 . . . Qd1 8 Rd1 Bc5.</p>
+        <p>Nevertheless, Kramnik defeated Anatoly Karpov with it in the Siemens Giants Quick Play Tournament in Frankfurt last year.</p>
+        <p>Black plays 10 . . . b6 to fianchetto his queen bishop; he does not do it by 10 . . . b5 because that would expose him to attack by 11 a4.</p>
+        <p>After 14 e4, Kramnik took an advantage in central terrain, but Kasparov's position remains solid.</p>
+        <p>After a sleepy opening, Kramnik came to life with 20 g4!? h6 21 h4 Bc8 22 g5 hg 23 hg Nfd7 24 f4, seizing kingside space.</p>
+        <p>After 23 hg, Kasparov might have found a more harmonious arrangement of his pieces with the retreat 23  . . . Ne8.</p>
+        <p>Tired of being pushed around, Kasparov counterattacked with 25 . . . Rc2, letting Kramnik take a pawn with 26 Ba6! Ba6 27 Rd7. Kasparov got it back at once with 27 . . . Rb2, but after 28 Ra7!, the mate threat impeded his fighting back.</p>
+        <p>Afer 29 f5 ef, he had to fight back just to keep his knight from being consigned to h8, but after 30 . . . Re2 31 Nfd4! he could not capture with 31  . . . Re3? because 32 Nb5 Nh4 33 Ra8 Bd8 34 Rd8 loses a piece.</p>
+        <p>After 38 Kf3, Kasparov could have tried 38 . . . Nf4, but even so, following 39 Nb5 Nd5 40 Nd2 Rd1 41 Ne4 f6 42 Ke2 Ra1 43 g6, he would still be in a bad bind.</p>
+        <p>After 38 . . . Nh4 39 Ke2 Rh1 40 Nb5, the only way to get out from under the looming Nc7 was to drop a piece by 41 . . . Bg5 to give his king an escape route.</p>
+        <p>Afer 48 Kb5, Kramnik could have won with by 49 Nc7 Kc4 50 N7e6 Bh6 51 a6 Nd6 52 rc7 Rc7 53 Nc7 Nc8 54 Nd7 Bf4 55 Ne8 Kb5 56 a7 Na7 57 Ba7, when the three minor pieces routinely beat a bishop and two pawns.</p>
+        <p>CHESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

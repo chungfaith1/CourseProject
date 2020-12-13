@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Early Warnings on Diabetes Dangers</title>
+    <meta content="03DIAB" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health &amp; Fitness" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/03/science/03DIAB.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1235625"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="VITAL SIGNS: PROGNOSIS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Diabetes</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <person class="indexing_service">Nagourney, Eric</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Diabetes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diabetes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001003T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07EEDF123DF930A35753C1A9669C8B63" item-length="261" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Early Warnings on Diabetes Dangers</hl1>
+      </hedline>
+      <byline class="print_byline">By ERIC NAGOURNEY</byline>
+      <byline class="normalized_byline">Nagourney, Eric</byline>
+      <abstract>
+        <p>Researchers develop simple blood test to help determine which patients with diabetes are at highest risk for serious side effects (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Diabetes affects some 16 million Americans and for many, the consequences can include blindness, kidney disease and heart disease.</p>
+        <p>It may now be possible to learn which patients with diabetes are at the highest risk for serious side effects through the use of a simple blood test.</p>
+      </block>
+      <block class="full_text">
+        <p>Diabetes affects some 16 million Americans and for many, the consequences can include blindness, kidney disease and heart disease.</p>
+        <p>It may now be possible to learn which patients with diabetes are at the highest risk for serious side effects through the use of a simple blood test.</p>
+        <p>Researchers at the Technion-Israel Institute of Technology in Haifa say the test looks for a certain kind of protein in the blood that appears to signal problems ahead.</p>
+        <p>The new procedure was described in last week's issue of The New England Journal of Medicine and in an earlier issue of The Journal of the American Medical Association.</p>
+        <p>''The test is exceptionally simple,'' said Dr. Andrew P. Levy, a cardiologist at the Technion, who helped develop the procedure. ''It can be done now in any clinical laboratory, and can even be further simplified to be done in any doctor's office.''</p>
+        <p>Before this happens, its effectiveness will need to be verified by other researchers. The protein involved is haptoglobin, which plays a role in cleaning up free radicals caused by high blood sugar. Free radicals are destructive chemicals that are believed to affect organs and arteries.</p>
+        <p>Dr. Levy and his colleagues found that two forms of haptoglobin were too large to do a good job. Knowing that a patient had this form of the protein would allow a doctor to monitor the case more closely and, perhaps, prescribe some protective medications earlier.</p>
+        <p>VITAL SIGNS: PROGNOSIS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

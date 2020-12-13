@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Letters From the Web</title>
+    <meta content="LTR090009" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215081"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <classifier class="indexing_service" type="descriptor">Discrimination</classifier>
+        <person class="indexing_service">Mcghee, Kevin T</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E1D61338F935A25754C0A9669C8B63" item-length="118" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Letters From the Web</hl1>
+      </hedline>
+      <abstract>
+        <p>Kevin T McGhee, responding to Web site questionaire about race relations in America, says discrimination against blacks has become more subtle0</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>On the surface, race relations in the United States have gotten better. There are laws to protect minorities. Discrimination is more subtle than that. No one calls you a ''nigger'' to your face -- they only treat you like one. When blacks are hired into companies, it's difficult for them to climb. I get the impression that whites think we should be thankful for just having a job. Some time ago, before the end of apartheid, a white girl told me, ''Things could be worse -- look at South Africa.''</p>
+        <p>Kevin T. McGhee  Black, 38  San Antonio</p>
+      </block>
+      <block class="full_text">
+        <p>On the surface, race relations in the United States have gotten better. There are laws to protect minorities. Discrimination is more subtle than that. No one calls you a ''nigger'' to your face -- they only treat you like one. When blacks are hired into companies, it's difficult for them to climb. I get the impression that whites think we should be thankful for just having a job. Some time ago, before the end of apartheid, a white girl told me, ''Things could be worse -- look at South Africa.''</p>
+        <p>Kevin T. McGhee  Black, 38  San Antonio</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

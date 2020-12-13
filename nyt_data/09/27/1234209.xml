@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  ANSHIEN, ADELE</title>
+    <meta content="DN092700" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234209"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <person class="indexing_service">ANSHIEN, ADELE</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000927T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E6DA103AF934A1575AC0A9669C8B63" item-length="40" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  ANSHIEN, ADELE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ANSHIEN-Adele. Devoted wife of the late Harold, beloved mother of Carol, and the late Richard, beloved sister and aunt. Contributions to NAMI/NYC, or The Jewish Home, 106 ''F&amp;R''. Services 1 P.M. Wednesday, Plaza Memorial at 91st St. and Amsterdam Avenue.</p>
+      </block>
+      <block class="full_text">
+        <p>ANSHIEN-Adele. Devoted wife of the late Harold, beloved mother of Carol, and the late Richard, beloved sister and aunt. Contributions to NAMI/NYC, or The Jewish Home, 106 ''F&amp;R''. Services 1 P.M. Wednesday, Plaza Memorial at 91st St. and Amsterdam Avenue.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

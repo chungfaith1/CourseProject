@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tomato Vigil</title>
+    <meta content="27CBOX" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225681"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="CUTTINGS: THIS WEEK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Tomatoes</classifier>
+        <classifier class="indexing_service" type="descriptor">Worms</classifier>
+        <person class="indexing_service">Jonas, Patricia</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden/Columns/Cuttings</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flowers and Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000827T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E2DC1231F934A1575BC0A9669C8B63" item-length="87" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tomato Vigil</hl1>
+      </hedline>
+      <byline class="print_byline">By PATRICIA JONAS</byline>
+      <byline class="normalized_byline">Jonas, Patricia</byline>
+      <abstract>
+        <p>Now is time to inspect tomato plants for green tomato hornworms (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Inspect tomato plants closely for green tomato hornworms. These large caterpillars often go unnoticed until a plant is suddenly stripped of leaves. The best control is daily inspection and handpicking. Leave caterpillars that have puffy ricelike grains on their backs: these are the cocoons of beneficial wasps that parasitize hornworms.</p>
+        <p>Don't harvest onions and shallots until the tops have flopped over.</p>
+      </block>
+      <block class="full_text">
+        <p>Inspect tomato plants closely for green tomato hornworms. These large caterpillars often go unnoticed until a plant is suddenly stripped of leaves. The best control is daily inspection and handpicking. Leave caterpillars that have puffy ricelike grains on their backs: these are the cocoons of beneficial wasps that parasitize hornworms.</p>
+        <p>Don't harvest onions and shallots until the tops have flopped over.</p>
+        <p>Now through September is an ideal time to reseed lawns. Keep well watered until germination.</p>
+        <p>PATRICIA JONAS</p>
+        <p>CUTTINGS: THIS WEEK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

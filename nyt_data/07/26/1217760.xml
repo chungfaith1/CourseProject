@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>High-Tech Sleuth Joins Center Looking at New Privacy Issues</title>
+    <meta content="Y26CYB$01" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1217760"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Privacy Center</org>
+        <org class="indexing_service">University of Denver</org>
+        <person class="indexing_service">Smith, Richard M</person>
+        <person class="indexing_service">Richtel, Matt</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000726T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE7DC113AF935A15754C0A9669C8B63" item-length="496" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>High-Tech Sleuth Joins Center Looking at New Privacy Issues</hl1>
+      </hedline>
+      <byline class="print_byline">By MATT RICHTEL</byline>
+      <byline class="normalized_byline">Richtel, Matt</byline>
+      <abstract>
+        <p>Richard M Smith, software engineer turned high-tech sleuth who tracks how personal data is gather via Internet, says he will join forces with researchers at Privacy Center, new group based at University of Denver that investigates privacy concerns in information age; organizers of center say they will gather data on whether and how personal information is captured by software makers, operators of communications systems and Internet services; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Richard M. Smith, a software engineer turned high-tech sleuth who tracks how personal data is gathered via the Internet, said yesterday that he would join forces with researchers at the Privacy Center, a new group based at the University of Denver that investigates privacy concerns in the information age.</p>
+        <p>Organizers of the center, which is to be formally announced today, said they would gather data on whether and how personal information was captured by software makers, operators of communications systems and Internet services.</p>
+      </block>
+      <block class="full_text">
+        <p>Richard M. Smith, a software engineer turned high-tech sleuth who tracks how personal data is gathered via the Internet, said yesterday that he would join forces with researchers at the Privacy Center, a new group based at the University of Denver that investigates privacy concerns in the information age.</p>
+        <p>Organizers of the center, which is to be formally announced today, said they would gather data on whether and how personal information was captured by software makers, operators of communications systems and Internet services.</p>
+        <p>Mr. Smith said the center would focus initially on whether personal privacy was jeopardized by the use of wireless phones with Web access, digital television set-top boxes, software that can send user information back to its maker over the Internet and other such new technologies.</p>
+        <p>''We'll look at anything to do with a computer, and stuff that is networked together,'' said Mr. Smith, who helped track the possible origins of the malicious ''Melissa'' and ''I Love You'' computer programs. ''We'll focus on how we're being monitored in our daily lives.''</p>
+        <p>He added that he was looking forward to helping other people use some of the techniques he had developed. ''We're trying to train other people to do the work I do,'' said Mr. Smith, a co-founder of Phar Lap Software, Cambridge, Mass.</p>
+        <p>Mr. Smith technically is not affiliated with the University of Denver, but has signed on as the chief technology officer of the Privacy Foundation. The foundation is a Denver-based nonprofit agency -- also scheduled to be announced today -- that is financing the privacy center. The Privacy Foundation was started and is largely underwritten by Peter Barton, a Denver entrepreneur and former chief executive of the Liberty Media Corporation.</p>
+        <p>The financing will help support research at the university by David Martin, an assistant professor of math and computer science, and three associates. They will work with Mr. Smith, who will work largely from his Brookline, Mass., home.</p>
+        <p>''Rather than Richard being the lone ranger, he's going to have a posse to help him,'' said Stephen Keating, executive director of the Privacy Foundation. Mr. Keating said the foundation's first-year budget would be around $1 million.</p>
+        <p>Among Mr. Smith's efforts in recent years, he discovered that the Microsoft Word program embedded in users computers a unique identifier sent back to Microsoft when the software was registered. Microsoft subsequently stopped putting the identifier in the software.</p>
+        <p>Mr. Smith's efforts have also led him to explore the data-collection practices of Amazon.com and RealNetworks. He filed a complaint last year with the Federal Trade Commission asserting that Alexa software, a subsidiary of Amazon, could gather far more personal data about consumers than Amazon told customers it was collecting.</p>
+        <p>TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

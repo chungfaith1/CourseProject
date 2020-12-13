@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stocks Behaving Badly</title>
+    <meta content="MB001504" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1231360"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="INVESTING: FUND WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <org class="indexing_service">Dennis Publishing</org>
+        <org class="indexing_service">Maxim (Magazine)</org>
+        <person class="indexing_service">Hakim, Danny</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000917T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E0DC1E38F934A2575AC0A9669C8B63" item-length="169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stocks Behaving Badly</hl1>
+      </hedline>
+      <byline class="print_byline">By Danny Hakim</byline>
+      <byline class="normalized_byline">Hakim, Danny</byline>
+      <abstract>
+        <p>Dennis Publishing begins offering stock picks in Maxim men's magazine (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Yet another unlikely publication has jumped on the stock-picking bandwagon -- Maxim, Dennis Publishing's hot-selling journal of beer and babes.</p>
+        <p>The cover of the September issue has the obligatory photo of a scantily clad starlet (this time, the teenage actress Kirsten Dunst) and promises of ''More Sex!'' ''More Sports!'' ''More Girls!''</p>
+      </block>
+      <block class="full_text">
+        <p>Yet another unlikely publication has jumped on the stock-picking bandwagon -- Maxim, Dennis Publishing's hot-selling journal of beer and babes.</p>
+        <p>The cover of the September issue has the obligatory photo of a scantily clad starlet (this time, the teenage actress Kirsten Dunst) and promises of ''More Sex!'' ''More Sports!'' ''More Girls!''</p>
+        <p>But next to Ms. Dunst's elbow are the words ''the Maxim mutual fund.'' Hmmm. Inside, the editors have compiled a 16-stock model portfolio that aims to ''put the fun back in mutual fund.''</p>
+        <p>(Of course, no such fund actually exists for readers to invest in. Maxim is merely fantasizing about one -- it is, after all, a men's magazine.)</p>
+        <p>The Maxim picks include Daxor, which runs one of the nation's largest sperm banks; La-Z-Boy, the easy-chair maker; and, inevitably, Anheuser-Busch. ''When economy sinks lower than Vanilla Ice, consumers will still scrounge beer money,'' Maxim explained.</p>
+        <p>Memo to Smart Money, Kiplinger's, Forbes et al.: You might want to rethink next month's cover.</p>
+        <p>Danny Hakim</p>
+        <p>INVESTING: FUND WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

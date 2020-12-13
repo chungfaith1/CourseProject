@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="NEW09" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1229041"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000909T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E5DB1139F93AA3575AC0A9669C8B63" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PROBEX CORP., -- Dallas, a motor oil recycler, agreed to acquire for an undisclosed price almost all the assets of Specialty Environmental Services Inc., a unit of the Houston-based Pennzoil-Quaker State Co. The Specialty unit, based in Shreveport, La., collects used motor oil for Pennzoil-Quaker State, a maker of the two top motor oil brands.</p>
+        <p>CANON INC., -- Tokyo, the computer hardware company, said that it would list its American depository receipts on the New York Stock Exchange. To make the change, the company will delist its A.D.R.'s from the Nasdaq composite index on Sept. 13. The company said the New York Stock Exchange had already approved the listing.</p>
+      </block>
+      <block class="full_text">
+        <p>PROBEX CORP., -- Dallas, a motor oil recycler, agreed to acquire for an undisclosed price almost all the assets of Specialty Environmental Services Inc., a unit of the Houston-based Pennzoil-Quaker State Co. The Specialty unit, based in Shreveport, La., collects used motor oil for Pennzoil-Quaker State, a maker of the two top motor oil brands.</p>
+        <p>CANON INC., -- Tokyo, the computer hardware company, said that it would list its American depository receipts on the New York Stock Exchange. To make the change, the company will delist its A.D.R.'s from the Nasdaq composite index on Sept. 13. The company said the New York Stock Exchange had already approved the listing.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

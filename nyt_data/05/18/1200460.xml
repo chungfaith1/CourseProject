@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Microsoft Issue</title>
+    <meta content="LTR233715" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200460"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Antitrust Actions and Laws</classifier>
+        <classifier class="indexing_service" type="descriptor">States (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">Attorneys General</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <org class="indexing_service">Microsoft Corp</org>
+        <org class="indexing_service">Justice Department</org>
+        <person class="indexing_service">josephson, david</person>
+        <person class="indexing_service">Lewis, Peter H</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">States (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Attorneys General</classifier>
+        <classifier class="online_producer" type="general_descriptor">Antitrust Actions and Laws</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000518T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE1D7173AF93BA25756C0A9669C8B63" item-length="167" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Microsoft Issue</hl1>
+      </hedline>
+      <abstract>
+        <p>David Josephson letter on Peter H Lewis's Apr 4 article on Justice Department proposal to break up Microsoft holds department should focus on whether market or monopoly will control Internet experience</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As Peter H. Lewis clearly points out in ''Would a Breakup Matter'' (State of the Art, May 4), a browser can be written for any operating system, making the proposed breakup of Microsoft pointless. But that is not the issue.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As Peter H. Lewis clearly points out in ''Would a Breakup Matter'' (State of the Art, May 4), a browser can be written for any operating system, making the proposed breakup of Microsoft pointless. But that is not the issue.</p>
+        <p>Microsoft knows perfectly well that the Internet is the cornerstone of its business now. True, anyone can write a program for a server to handle generic HTML code and any browser can read it. But what about the next generation of secure transaction servers, or the next step in video or audio streaming? What's to prevent Microsoft from including in its servers new features that will require the user to purchase a browser from Microsoft?</p>
+        <p>This is where the Justice Department should be paying attention -- who controls the Internet experience, the market or a monopoly?</p>
+        <p>DAVID JOSEPHSON  San Jose, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

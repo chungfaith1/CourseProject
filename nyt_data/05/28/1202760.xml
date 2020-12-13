@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV064240" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1202760"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Rafter, Nicole</person>
+        <person class="indexing_service">Nash, Eric P</person>
+        <object.title class="indexing_service">Shots in the Mirror: Crime Films and Society (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000528T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E1DF123AF93BA15756C0A9669C8B63" item-length="232" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Eric P. Nash</byline>
+      <byline class="normalized_byline">Nash, Eric P</byline>
+      <abstract>
+        <p>Eric P Nash reviews book Shots in the Mirror: Crime Films and Society by Nicole Rafter (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SHOTS IN THE MIRROR</p>
+        <p>Crime Films and Society.</p>
+        <p>By Nicole Rafter.</p>
+        <p>Oxford University,</p>
+        <p>cloth, $35; paper, $14.95.</p>
+      </block>
+      <block class="full_text">
+        <p>SHOTS IN THE MIRROR</p>
+        <p>Crime Films and Society.</p>
+        <p>By Nicole Rafter.</p>
+        <p>Oxford University,</p>
+        <p>cloth, $35; paper, $14.95.</p>
+        <p>This discussion of crime films, from bullet-riddled black-and-white classics like ''Public Enemy'' to the lush neonoir of David Lynch, has a twist -- the author is a criminologist. Nicole Rafter argues that movies perpetuate particular myths: although most crimes are committed against property, filmmakers are fascinated with serial killers, one of the rarer forms, and Hollywood's portrayal of the court system is as full of holes as Bonnie and Clyde's roadster -- 90 percent of criminal cases are settled through plea bargains. Some of Rafter's observations are stunningly obvious -- we don't need a law professor to point out that prison movies have a homoerotic subtext. Film noir is still in the pink, Rafter concludes, because it provides ''routes into the enticing but forbidden underworlds of crime, access to the secrets of the prison, the joys of identifying with heroic rebels, the gratifications of vengeance and the satisfaction of moral certainty.''</p>
+        <p>Eric P. Nash</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

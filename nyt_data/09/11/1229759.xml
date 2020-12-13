@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SPECIAL TODAY -- SYDNEY 2000</title>
+    <meta content="11PROM" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Front Page; Corrections; Editors' Notes; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1229759"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editors' Note</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Editors' Notes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000911T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E2DF1F39F932A2575AC0A9669C8B63" item-length="98" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SPECIAL TODAY -- SYDNEY 2000</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>At the Summer Olympics in Australia, Marion Jones is trying to do what no other woman has done: win five gold medals in track and field. But when the Games start on Friday, the spotlight will not fall solely on Jones. Australian athletes will be carrying the expectations of a sports-crazy populace, and little-known competitors will be catapulted into Olympic stardom. Today's special report looks at each Olympic sport. SECTION F</p>
+      </block>
+      <block class="full_text">
+        <p>At the Summer Olympics in Australia, Marion Jones is trying to do what no other woman has done: win five gold medals in track and field. But when the Games start on Friday, the spotlight will not fall solely on Jones. Australian athletes will be carrying the expectations of a sports-crazy populace, and little-known competitors will be catapulted into Olympic stardom. Today's special report looks at each Olympic sport. SECTION F</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

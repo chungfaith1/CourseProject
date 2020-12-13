@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Fiction</title>
+    <meta content="RV134138" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215053"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Quick, Barbara</person>
+        <person class="indexing_service">Ray, Jeanne</person>
+        <object.title class="indexing_service">Julie and Romeo (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04EEDC1F39F935A25754C0A9669C8B63" item-length="248" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Fiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Barbara Quick</byline>
+      <byline class="normalized_byline">Quick, Barbara</byline>
+      <abstract>
+        <p>Barbara Quick reviews book Julie and Romeo by Jeanne Ray (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>JULIE AND ROMEO</p>
+        <p>By Jeanne Ray.</p>
+        <p>Harmony, $21.</p>
+      </block>
+      <block class="full_text">
+        <p>JULIE AND ROMEO</p>
+        <p>By Jeanne Ray.</p>
+        <p>Harmony, $21.</p>
+        <p>Jeanne Ray executes an original comic turn on the story of Romeo and Juliet in her first novel, replacing Shakspeare's Italian teenagers with two Americans in their 60's. Romeo Cacciamani and Julie Roseman are scions of rival florists in the same Massachusetts suburb. After years of instinctively hating each other, and after the death of Romeo's wife and the desertion of Julie's husband, they meet at a business seminar and fall in love. Consummating that love proves just as difficult for them as it was for the original Romeo and Juliet; their offspring, along with Romeo's vengeful 90-year-old mother, fight them every step of the way. The tomb that served as trysting place in Shakespeare's play becomes the refrigerated room where flowers are kept; Tybalt makes his appearance as Julie's truculent ex-husband, Mort; Julie's best friend, Gloria, and Romeo's confessor play hiply updated versions of the nurse and good friar who provide the cover and make the final clinch possible. In Ray's version, once the star-crossed lovers do get together, they go at it with an athleticism suggesting that while the vigor of flowers is always of limited duration, florists -- no matter their age -- keep going strong.</p>
+        <p>Barbara Quick</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Ingratiator</title>
+    <meta content="LTR093610" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1223781"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Elections</classifier>
+        <location class="indexing_service">New York State</location>
+        <org class="indexing_service">Senate (Us)</org>
+        <person class="indexing_service">Taglieri, Michael</person>
+        <person class="indexing_service">Traub, James</person>
+        <person class="indexing_service">Pataki, George E (Gov)</person>
+        <person class="indexing_service">Lazio, Richard (Repr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000820T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE2DE1E3FF933A1575BC0A9669C8B63" item-length="118" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Ingratiator</hl1>
+      </hedline>
+      <abstract>
+        <p>Michael Taglieri letter on James Traub's July 30 article holds Gov George Pataki wants Rick Lazio to win US Senate race because he could be easily controlled</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It's obvious why Gov. George Pataki wants Lazio to be the next senator from New York. With no strongly held beliefs, few opinions on any subject and no apparent intellectual gifts, Lazio would be easy for the governor to control. Why we, the voters, would want such a nonentity to represent us is a more difficult question, and I hope people will give it some thought before the election rather than afterward.</p>
+        <p>Michael Taglieri  New York</p>
+      </block>
+      <block class="full_text">
+        <p>It's obvious why Gov. George Pataki wants Lazio to be the next senator from New York. With no strongly held beliefs, few opinions on any subject and no apparent intellectual gifts, Lazio would be easy for the governor to control. Why we, the voters, would want such a nonentity to represent us is a more difficult question, and I hope people will give it some thought before the election rather than afterward.</p>
+        <p>Michael Taglieri  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

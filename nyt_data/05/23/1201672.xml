@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>When Magnets Make a Heart Go Bonkers</title>
+    <meta content="23MAGN" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health &amp; Fitness" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201672"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="VITAL SIGNS: HAZARDS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Heart</classifier>
+        <classifier class="indexing_service" type="descriptor">Pacemakers</classifier>
+        <classifier class="indexing_service" type="descriptor">Magnetism and Magnets</classifier>
+        <classifier class="indexing_service" type="descriptor">Arthritis and Rheumatism</classifier>
+        <classifier class="indexing_service" type="descriptor">Defibrillators</classifier>
+        <person class="indexing_service">Mattioni, Thomas A (Dr)</person>
+        <person class="indexing_service">Nagourney, Eric</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Heart Disease</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Defibrillators</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Arthritis and Rheumatism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Arthritis and Rheumatism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Physics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pacemakers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000523T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE5DD123AF930A15756C0A9669C8B63" item-length="348" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>When Magnets Make a Heart Go Bonkers</hl1>
+      </hedline>
+      <byline class="print_byline">By Eric Nagourney</byline>
+      <byline class="normalized_byline">Nagourney, Eric</byline>
+      <abstract>
+        <p>Dr Thomas A Mattioni warns that mattress pads fitted with magnets, such as those used by people with arthritis or other joint diseases, can interfere with an implantable pacemaker or cardioverter defibrillator; cartoon (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Thomas A. Mattioni treats patients for heart disease, so he takes no position on whether the alternative-medical practice of sleeping on magnets has any effect on arthritis or other joint diseases.</p>
+        <p>But Dr. Mattioni does have a warning for those using the magnets who also have implantable pacemakers or similar devices called cardioverter defibrillator: be careful. The magnets, usually placed in mattress pads, can change the settings on the pacemakers and turn off the defibrillators -- with potentially fatal results.</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Thomas A. Mattioni treats patients for heart disease, so he takes no position on whether the alternative-medical practice of sleeping on magnets has any effect on arthritis or other joint diseases.</p>
+        <p>But Dr. Mattioni does have a warning for those using the magnets who also have implantable pacemakers or similar devices called cardioverter defibrillator: be careful. The magnets, usually placed in mattress pads, can change the settings on the pacemakers and turn off the defibrillators -- with potentially fatal results.</p>
+        <p>Dr. Mattioni, director of electrophysiology at the Arizona Heart Institute in Phoenix, presented his findings at a conference this month of the North American Society of Pacing and Electrophysiology.</p>
+        <p>In an interview, he said he had known nothing about the use of the magnets until several patients asked him about them.  Dr. Mattioni and colleagues then began ordering the products on the Internet and trying to gauge their effect.</p>
+        <p>The magnets are placed not just in mattress pads but worn around the arms, legs and waist. The researchers found that as long as the magnets were kept six or more inches from the heart devices -- usually implanted in the upper arm -- there was no problem. So for people who use wearable forms of the magnets, there is generally no problem.</p>
+        <p>But people who sleep on mattress pads with magnets have a much higher risk of being affected, the researchers found. If someone using a defibrillator gets too close to a magnet in the pad, for example, the device may fail to deliver the needed jolt of electricity if the heart fails.</p>
+        <p>Dr. Mattioni said he had no way of knowing how many people used the magnets. About two million people in the United States use pacemakers, and 250,000 have the defibrillators.</p>
+        <p>VITAL SIGNS: HAZARDS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

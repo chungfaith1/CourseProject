@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Inkjet Color Image, Born in a Rainbow of Tiny Drops</title>
+    <meta content="4HOWW" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1196823"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000504T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E0DC1F39F937A35756C0A9669C8B63" item-length="1251" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Inkjet Color Image, Born in a Rainbow of Tiny Drops</hl1>
+      </hedline>
+      <byline class="print_byline">By Matt Lake</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TEN years ago, the computer industry gave desktop computer owners a choice of options when it came to printers. But it was pretty much a Henry Ford kind of choice: you could print in any color as long as it was black.</p>
+        <p>At the time, most people used typewriter-style daisy-wheel printers or clacking dot-matrix printers to put ink on paper. If you wanted a silent printer, your cheapest option was an inkjet machine -- and back then, that would cost you more than $1,000.</p>
+      </block>
+      <block class="full_text">
+        <p>TEN years ago, the computer industry gave desktop computer owners a choice of options when it came to printers. But it was pretty much a Henry Ford kind of choice: you could print in any color as long as it was black.</p>
+        <p>At the time, most people used typewriter-style daisy-wheel printers or clacking dot-matrix printers to put ink on paper. If you wanted a silent printer, your cheapest option was an inkjet machine -- and back then, that would cost you more than $1,000.</p>
+        <p>Like most computer hardware, inkjet printers have plummeted in price. New models start at less than $200 and are soon discounted below $100. Some computer dealers literally give inkjet printers away as bonuses with the purchase of new computers.</p>
+        <p>As the costs have gone down, the print quality has improved. Many inkjet printers can produce color pages that are almost indistinguishable from photographs. The quality is so high, in fact, that inkjet printers are widely cited as one of the reasons the United States Treasury has been redesigning its paper currency in the past few years -- it was becoming too easy to print passable counterfeit bills with a good inkjet machine.</p>
+        <p>It is strange that a technology that produces such sophisticated results began with an accident involving a soldering iron. The story goes that in 1977, an engineer at Canon put a hot soldering iron a little too close to an ink-filled syringe. The heat boiled a tiny amount of the ink in the needle, making it expand into a gas. That pushed some ink out of the tip of the needle.</p>
+        <p>The physics behind this accident became the foundation of what Canon called bubble jet technology, a printing technique in which electrical resistors heat up tiny bubbles of ink, pushing ink droplets through an array of hair-thin nozzles.</p>
+        <p>Other inkjet printer makers, including Hewlett-Packard, Lexmark and Xerox, have adapted Canon's thermal technology for their own printer lines, adding enhancements (and patents) along the way.</p>
+        <p>Another printer manufacturer, Epson America, developed its own variation on the theme. Epson printers use piezoelectric crystals to do the job of the bubbles in inkjet printers. Piezo elements change shape when subjected to an electric charge; they are used in loudspeakers to convert signals from a stereo tuner into sound waves. In Epson's line of inkjet printers, microscopic piezo elements subjected to tiny charges are distorted, pushing out tiny droplets of ink.</p>
+        <p>Of course, there is more to inkjet printing than the firings of microscopic squirt guns. It is a complicated dance of motors that move a print head with 300 to 600 nozzles across a sheet of paper, squirting 5,000 or more droplets of ink per second in a precise minute pattern.</p>
+        <p>Most color inkjet printers use four colors of ink: cyan (a pale blue), magenta, yellow and black. They are combined to create all the colors the eye sees in a finished printout. To orchestrate this technique, the computer that is attached to the printer uses driver software that determines the exact color for each dot that will appear on the page. It then figures out how many droplets of each ink color must fall on each dot on the page to make that color. Even when printing at 300 dots per inch (a fairly modest resolution), a letter-size page is more than 2,000 dots wide.</p>
+        <p>Since photographic prints contain the most complicated shades of color, it is a huge mathematical task for the software to figure out the combination of ink colors needed for each dot. And rendering that subtle color with only four inks can be a slow process. That is one reason manufacturers are producing desktop printers designed specifically for photographic printing. These printers use six ink colors, adding paler shades of cyan and magenta to help create realistic halftones.</p>
+        <p>Despite the precision of halftone software and modern inkjet controllers and print heads, inkjet printers have to contend with one great unknown that can radically affect how good a printout looks: the paper it is printed on.</p>
+        <p>With the quick-drying inks that Epson, Hewlett-Packard and others use and the tiny ink drops that current printers squirt out, it is possible to get decent text and spot colors even on cheap photocopier paper. But big blocks of color, as in photos, can soak and buckle thin paper stock. For tasks like that, the higher contrast and lower absorbency of brilliant white inkjet paper handles color better. And naturally, the best results of all come from glossy photographic paper (which is what you would hope for after paying the premium price of about a dollar a sheet for it).</p>
+        <p>You can ensure good results by tinkering with the software settings. Inkjet printing software is very sophisticated stuff -- if it can calculate how much yellow and magenta and cyan ink to spit onto a dot the thickness of a human hair, you can be sure that it can adjust that calculation for more or less absorbent paper. Most printer driver software provides a setting for different paper types, so when you put inkjet or photo paper into the tray, make sure that you adjust the software to compensate for it. Just don't do it to print facsimiles of currency.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

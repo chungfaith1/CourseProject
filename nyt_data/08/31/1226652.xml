@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Legal Tug of War</title>
+    <meta content="LTR233725" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1226652"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Dvd (Digital Versatile Disk)</classifier>
+        <classifier class="indexing_service" type="descriptor">Copyrights</classifier>
+        <person class="indexing_service">Mervis, Michael</person>
+        <person class="indexing_service">Wayner, Peter</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Copyrights</classifier>
+        <classifier class="online_producer" type="general_descriptor">DVD (Digital Versatile Disk)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000831T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE0DA1430F932A0575BC0A9669C8B63" item-length="203" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Legal Tug of War</hl1>
+      </hedline>
+      <abstract>
+        <p>Michael Mervis letter on Peter Wayner's August 24 essay about intellectual property disputes notes authorized DVD encryption technology can be licensed, royalty-free, by any business</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In his essay about intellectual property disputes, Peter Wayner suggests that the recent trial in New York to stop DeCSS, software that makes it possible to copy DVD movies, was an effort by the studios to ''stop new companies that want to play legitimately purchased DVD's.'' What Mr. Wayner ignores is that authorized DVD encryption technology can be licensed (royalty-free) by any business, including new companies that want to build DVD players.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In his essay about intellectual property disputes, Peter Wayner suggests that the recent trial in New York to stop DeCSS, software that makes it possible to copy DVD movies, was an effort by the studios to ''stop new companies that want to play legitimately purchased DVD's.'' What Mr. Wayner ignores is that authorized DVD encryption technology can be licensed (royalty-free) by any business, including new companies that want to build DVD players.</p>
+        <p>With the hacker-developed software, a would-be pirate can make a flawless copy of a DVD movie in less than an hour. Perhaps Mr. Wayner should consider the effect on the studios' incentive to release their films on DVD's if they could not invoke the laws against stealing intellectual property.</p>
+        <p>MICHAEL MERVIS  New York</p>
+        <p>The writer is an attorney at Proskauer Rose L.L.P., which represented the movie studios in the DVD case.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

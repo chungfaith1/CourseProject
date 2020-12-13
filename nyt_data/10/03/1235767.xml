@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Accounts</title>
+    <meta content="MB001957" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1235767"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Account Changes</classifier>
+        <person class="indexing_service">Elliott, Stuart</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001003T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE1DF103DF930A35753C1A9669C8B63" item-length="207" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Accounts</hl1>
+      </hedline>
+      <byline class="print_byline">By STUART ELLIOTT</byline>
+      <byline class="normalized_byline">Elliott, Stuart</byline>
+      <abstract>
+        <p>Roundup of recent advertising account changes (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Topp Telecom, Miami, a subsidiary of TelMex, to Bernstein-Rein Advertising, Kansas City, Mo., to handle the account of Tracfone, a prepaid cellular telephone service, which had been at Integer Dallas, part of the Integer Group unit of the Omnicom Group. Spending was estimated at more than $7 million.</p>
+      </block>
+      <block class="full_text">
+        <p>Topp Telecom, Miami, a subsidiary of TelMex, to Bernstein-Rein Advertising, Kansas City, Mo., to handle the account of Tracfone, a prepaid cellular telephone service, which had been at Integer Dallas, part of the Integer Group unit of the Omnicom Group. Spending was estimated at more than $7 million.</p>
+        <p>* Buca Inc.,, Minneapolis, which operates 50 Buca di Beppo restaurants in 18 states and Washington, to Kerker, Minneapolis, formerly Kerker Marketing Communications, as its first agency of record. Billings were estimated at $4 million.  * White Rain Company, Danbury, Conn., a subsidiary of the Diamond Products Company, to Marquardt &amp; Roche/Meditz &amp; Hackett, Stamford, Conn., to handle the account of the hair care products marketer, which previously had been owned by Gillette. Billings were estimated at $3 million.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

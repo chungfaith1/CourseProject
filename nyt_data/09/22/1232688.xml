@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="22INSI$02" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1232688"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000922T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E3D6113BF931A1575AC0A9669C8B63" item-length="206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Iran Cuts Jews' Jail Terms  An appeals court in Iran reduced the sentences of 10 Iranian Jews who had been convicted of cooperating with Israel in a trial that drew relentless international scrutiny and widespread criticism.</p>
+        <p>PAGE A11</p>
+      </block>
+      <block class="full_text">
+        <p>Iran Cuts Jews' Jail Terms  An appeals court in Iran reduced the sentences of 10 Iranian Jews who had been convicted of cooperating with Israel in a trial that drew relentless international scrutiny and widespread criticism.</p>
+        <p>PAGE A11</p>
+        <p>Support for Peru's Leader  Military leaders publicly backed President Alberto K. Fujimori on dismantling the intelligence service and calling new elections, muting fears that the armed forces might move to oust him.</p>
+        <p>PAGE A3</p>
+        <p>Jabs Traded in Tire Case  Firestone attacked the safety of Ford Explorers before a House panel as the companies criticized each other's products and tried to explain documents that lawmakers found incriminating.</p>
+        <p>PAGE C1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

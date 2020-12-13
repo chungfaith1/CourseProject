@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="15INSI$07" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1230700"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000915T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E6DD1038F936A2575AC0A9669C8B63" item-length="126" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Causes Cited in Tire Recall  Employees suggest that heavy production demands and lax quality control at a Firestone plant led to problems with tires.</p>
+        <p>PAGE C1</p>
+        <p>Kosovo Quandary  House and Senate negotiators are debating a deadline to pull G.I.'s from Kosovo, putting Gov. George W. Bush on the spot.</p>
+        <p>PAGE A12</p>
+        <p>Wait for the Games Is Over  The beleaguered Olympic movement tries to shift the world's focus to the competitors in Sydney, Australia.</p>
+        <p>SPORTSFRIDAY, PAGE D1</p>
+      </block>
+      <block class="full_text">
+        <p>Causes Cited in Tire Recall  Employees suggest that heavy production demands and lax quality control at a Firestone plant led to problems with tires.</p>
+        <p>PAGE C1</p>
+        <p>Kosovo Quandary  House and Senate negotiators are debating a deadline to pull G.I.'s from Kosovo, putting Gov. George W. Bush on the spot.</p>
+        <p>PAGE A12</p>
+        <p>Wait for the Games Is Over  The beleaguered Olympic movement tries to shift the world's focus to the competitors in Sydney, Australia.</p>
+        <p>SPORTSFRIDAY, PAGE D1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

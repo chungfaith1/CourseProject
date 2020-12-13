@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="21CMPBRFS" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1232443"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000921T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5DC103BF932A1575AC0A9669C8B63" item-length="279" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AETHER SYSTEMS INC., Owings Mills, Md., said it plans to buy the transportation unit of Motient Corp., Reston, Va., for $45 million.</p>
+      </block>
+      <block class="full_text">
+        <p>AETHER SYSTEMS INC., Owings Mills, Md., said it plans to buy the transportation unit of Motient Corp., Reston, Va., for $45 million.</p>
+        <p>SALOMON SMITH BARNEY, a unit of Citigroup Inc., New York, said it would acquire part of a portfolio of foreign currency loans and security worth about $156 million held by the Export-Import Bank of Korea.</p>
+        <p>PACCAR INC., Bellevue, Wash., said it plans to buy back as many as 2 million shares, or 2.6 percent of those outstanding.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

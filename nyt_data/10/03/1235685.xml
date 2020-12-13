@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MUSICMATCH UPGRADES ITS JUKEBOX</title>
+    <meta content="Y03TBR$02" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1235685"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY BRIEFING: INTERNET"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">MusicMatch (Co)</org>
+        <org class="indexing_service">Realnetworks</org>
+        <org class="indexing_service">Microsoft Corp</org>
+        <person class="indexing_service">Stellin, Susan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001003T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E4DA133DF930A35753C1A9669C8B63" item-length="181" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MUSICMATCH UPGRADES ITS JUKEBOX</hl1>
+      </hedline>
+      <byline class="print_byline">By Susan Stellin</byline>
+      <byline class="normalized_byline">Stellin, Susan</byline>
+      <abstract>
+        <p>MusicMatch, company that makes software for storing and playing music on home computers, is waging battle over market share; company is releasing new version of its jukebox software that gives users ability to customize their selections; MusicMatch is fighting to gain market share from RealNetworks as well as from Microsoft Corp (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>While the music file-sharing service Napster fights a battle over the legality of its software in a courtroom in San Francisco, MusicMatch, a San Diego company that makes software for storing and playing music on home computers, is waging a different kind of battle over market share. The company is releasing a new version of its jukebox software today that gives users the ability to customize their selections. MusicMatch, which claims 10 million users, is fighting to gain market share from RealNetworks, whose RealJukebox software has 45 million users, as well as from Microsoft, whose Windows Media Player comes installed on many new PC's.</p>
+        <p>Susan Stellin</p>
+      </block>
+      <block class="full_text">
+        <p>While the music file-sharing service Napster fights a battle over the legality of its software in a courtroom in San Francisco, MusicMatch, a San Diego company that makes software for storing and playing music on home computers, is waging a different kind of battle over market share. The company is releasing a new version of its jukebox software today that gives users the ability to customize their selections. MusicMatch, which claims 10 million users, is fighting to gain market share from RealNetworks, whose RealJukebox software has 45 million users, as well as from Microsoft, whose Windows Media Player comes installed on many new PC's.</p>
+        <p>Susan Stellin</p>
+        <p>TECHNOLOGY BRIEFING: INTERNET</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

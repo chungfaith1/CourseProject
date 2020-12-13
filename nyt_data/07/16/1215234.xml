@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Place to Be Heard</title>
+    <meta content="LTR030008" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215234"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="AMERICAN SINGERS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Opera</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <location class="indexing_service">Germany</location>
+        <person class="indexing_service">Midgette, Anne</person>
+        <person class="indexing_service">Presser, Michael</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany</classifier>
+        <classifier class="online_producer" type="general_descriptor">Opera</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E5D91F38F935A25754C0A9669C8B63" item-length="210" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Place to Be Heard</hl1>
+      </hedline>
+      <abstract>
+        <p>Michael Presser letter on Anne Midgette's July 2 article cites economics as reason why German opera companies hire American singers (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In regard to the July 2 article ''For Singers, a New American Way'' by Anne Midgette, there is no doubt that the situation in German theaters has changed from the 1960's -- but so has the economic situation around the world. In every industry today, American businesses have to compete with cheaper products produced in other parts of the world and changing market needs. The opera business in not unique.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In regard to the July 2 article ''For Singers, a New American Way'' by Anne Midgette, there is no doubt that the situation in German theaters has changed from the 1960's -- but so has the economic situation around the world. In every industry today, American businesses have to compete with cheaper products produced in other parts of the world and changing market needs. The opera business in not unique.</p>
+        <p>Having worked the last three years as a consultant for the Deutsche Oper am Rhein in Dusseldorf/Duisburg, I can attest to the great interest still shown for American talent in Germany. The training, discipline and motivation of American opera singers are still highly desired and greatly valued. The Deutsche Oper am Rhein intendent, Tobias Richter, and his new American music director, John Fiore, have successfully engaged many gifted American singers.</p>
+        <p>Singers still recognize the valuable experience to be obtained from a contract at a German theater. After all, who wouldn't want to sing 12 performances of ''Aida'' in Dusseldorf rather than be unemployed in New York?</p>
+        <p>MICHAEL PRESSER  Manhattan</p>
+        <p>AMERICAN SINGERS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

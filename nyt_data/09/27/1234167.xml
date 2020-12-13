@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SHIP COMPANY HAS STRONG RESULTS</title>
+    <meta content="MB002155" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234167"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WORLD BUSINESS BRIEFING: EUROPE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <org class="indexing_service">Peninsular and Oriental Steam Navigation Co</org>
+        <person class="indexing_service">Kapner, Suzanne</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000927T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE2DC103AF934A1575AC0A9669C8B63" item-length="129" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SHIP COMPANY HAS STRONG RESULTS</hl1>
+      </hedline>
+      <byline class="print_byline">By Suzanne Kapner</byline>
+      <byline class="normalized_byline">Kapner, Suzanne</byline>
+      <abstract>
+        <p>Peninsular and Oriental Steam Navigation Co says half-year net income jumped 17 percent, to 151 million pounds, or about $213 million; sales rose 19 percent, to 1.98 billion pounds, or $2.79 billion (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The British shipping and cruise line Peninsular and Oriental Steam Navigation Company said half-year net income jumped 17 percent, to $:151 million, or about $213 million, on strong gains in its ports unit and shipping joint venture. Sales rose 19 percent, to $:1.98 billion, or about $2.79 billion. Full-year profit for the shipping joint venture, P&amp;O Nedlloyd will exceed analysts' expectations, the company said.</p>
+        <p>Suzanne Kapner</p>
+      </block>
+      <block class="full_text">
+        <p>The British shipping and cruise line Peninsular and Oriental Steam Navigation Company said half-year net income jumped 17 percent, to $:151 million, or about $213 million, on strong gains in its ports unit and shipping joint venture. Sales rose 19 percent, to $:1.98 billion, or about $2.79 billion. Full-year profit for the shipping joint venture, P&amp;O Nedlloyd will exceed analysts' expectations, the company said.</p>
+        <p>Suzanne Kapner</p>
+        <p>WORLD BUSINESS BRIEFING: EUROPE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

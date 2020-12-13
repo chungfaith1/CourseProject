@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="30CMPBRFS" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1226427"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000830T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E3D91630F933A0575BC0A9669C8B63" item-length="345" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ALLSTATE CORP., Northbrook, Ill., the nation's largest publicly held, personal life insurance company, said that its subsidiary, Allstate Life Insurance Co., had agreed to acquire Provident National Assurance Co., a part of UnumProvident Corp., a disability and specialty risk insurance holding company based in Chattanooga, Tenn., for an undisclosed amount.</p>
+      </block>
+      <block class="full_text">
+        <p>ALLSTATE CORP., Northbrook, Ill., the nation's largest publicly held, personal life insurance company, said that its subsidiary, Allstate Life Insurance Co., had agreed to acquire Provident National Assurance Co., a part of UnumProvident Corp., a disability and specialty risk insurance holding company based in Chattanooga, Tenn., for an undisclosed amount.</p>
+        <p>INTERNET CAPITAL GROUP INC., Wayne, Pa., an investor in online industrial commerce companies, will invest up to $15.6 million in FuelSpot.com Inc. of North Chelmsford, Mass., an online crude and refined petroleum exchange, and may invest as much as $7.8 million more.</p>
+        <p>WOLVERINE TUBE INC., Huntsville, Ala., the No. 1 North American maker of copper tubing for the air-conditioning industry, agreed to buy the unit of Engelhard Corp., based in Iselin, N.J., that makes products that join metals together. Terms of the transaction, which is expected to close in the third quarter, were not disclosed.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

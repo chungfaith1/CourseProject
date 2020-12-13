@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="15CMPBRFS" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1214981"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000715T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE0D7143BF936A25754C0A9669C8B63" item-length="255" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WAL-MART STORES INC., Bentonville, Ark., said a unit, McLane Co., which provides distribution services, had entered a five-year wholesale supply agreement with the Chevron Corp., San Francisco, under which McLane will distribute food and nonfood products to Chevron's 700 company-operated stores. Financial terms were not disclosed.</p>
+      </block>
+      <block class="full_text">
+        <p>WAL-MART STORES INC., Bentonville, Ark., said a unit, McLane Co., which provides distribution services, had entered a five-year wholesale supply agreement with the Chevron Corp., San Francisco, under which McLane will distribute food and nonfood products to Chevron's 700 company-operated stores. Financial terms were not disclosed.</p>
+        <p>INNOVATIVE CLINICAL SOLUTIONS LTD., Providence, R.I., which helps biopharmaceutical companies bring their drugs to market, filed its plan of reorganization under Chapter 11 of the federal bankruptcy law.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

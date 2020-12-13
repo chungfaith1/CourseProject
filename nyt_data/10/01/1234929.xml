@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Not a Machiavellian</title>
+    <meta content="LTR132247" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234929"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Blackey, Robert</person>
+        <person class="indexing_service">Mahler, Jonathan</person>
+        <person class="indexing_service">Machiavelli, Niccolo (1469-1527)</person>
+        <object.title class="indexing_service">Prince, The (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001001T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804EED9103BF932A35753C1A9669C8B63" item-length="272" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Not a Machiavellian</hl1>
+      </hedline>
+      <abstract>
+        <p>Robert Blackey letter notes inaccuracies in Jonathan Mahler's September 3 essay on modern interest in Machiavelli and his book, The Prince (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Jonathan Mahler's essay ''Formerly Known as Prince'' (Sept. 3) contained some misinformation in its otherwise informative look at contemporary interest in Machiavelli that, if corrected, puts this guru of modern politics in a significantly different light. Looking at ''The Prince'' as ''a how-to book for leaders'' has been a point of contention among scholars for centuries, with some arguing that it was specifically written to alert the republican-minded citizens of Florence to those characteristics of leaders that might threaten their liberties. It is speculation that, as Mahler contends, '' 'The Prince' was, in effect, an unsolicited job application.'' That is, it was unsolicited, but hardly a job application to the reigning prince from a man who had recently been tortured by Medici leadership. Machiavelli lived his life not as a Machiavellian but in support of republican principles, and all his other writings reflect those same principles. Moreover, there is no evidence that a copy of ''The Prince'' was ever delivered to Lorenzo de' Medici.</p>
+        <p>Another fascinating point is that while the book is dedicated to Lorenzo the Magnificent, the Lorenzo in power in 1513 was the grandson of the famous Lorenzo, known as II Magnifico, who had died in 1492. Grandson Lorenzo was more insignificant than magnificent, suggesting that Machiavelli was being facetious.</p>
+        <p>There is more to this position than can be articulated here, but suffice it to say that a school of interpretation exists that sees ''The Prince'' not as a guidebook but as an ironic and satiric thrust at the dangers of tyranny.</p>
+        <p>Robert Blackey  San Bernardino, Calif.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Jonathan Mahler's essay ''Formerly Known as Prince'' (Sept. 3) contained some misinformation in its otherwise informative look at contemporary interest in Machiavelli that, if corrected, puts this guru of modern politics in a significantly different light. Looking at ''The Prince'' as ''a how-to book for leaders'' has been a point of contention among scholars for centuries, with some arguing that it was specifically written to alert the republican-minded citizens of Florence to those characteristics of leaders that might threaten their liberties. It is speculation that, as Mahler contends, '' 'The Prince' was, in effect, an unsolicited job application.'' That is, it was unsolicited, but hardly a job application to the reigning prince from a man who had recently been tortured by Medici leadership. Machiavelli lived his life not as a Machiavellian but in support of republican principles, and all his other writings reflect those same principles. Moreover, there is no evidence that a copy of ''The Prince'' was ever delivered to Lorenzo de' Medici.</p>
+        <p>Another fascinating point is that while the book is dedicated to Lorenzo the Magnificent, the Lorenzo in power in 1513 was the grandson of the famous Lorenzo, known as II Magnifico, who had died in 1492. Grandson Lorenzo was more insignificant than magnificent, suggesting that Machiavelli was being facetious.</p>
+        <p>There is more to this position than can be articulated here, but suffice it to say that a school of interpretation exists that sees ''The Prince'' not as a guidebook but as an ironic and satiric thrust at the dangers of tyranny.</p>
+        <p>Robert Blackey  San Bernardino, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

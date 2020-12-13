@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="18INSI$01" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1223423"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000818T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E0DD153EF93BA2575BC0A9669C8B63" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Skakel Faces Trial  A judge found ''reasonable cause'' to believe that Michael Skakel, a nephew of Ethel Kennedy, killed a neighbor in 1975. Whether he will be tried as an adult is undecided.</p>
+        <p>PAGE B1</p>
+      </block>
+      <block class="full_text">
+        <p>Skakel Faces Trial  A judge found ''reasonable cause'' to believe that Michael Skakel, a nephew of Ethel Kennedy, killed a neighbor in 1975. Whether he will be tried as an adult is undecided.</p>
+        <p>PAGE B1</p>
+        <p>A Secret of Skin Cells  Researchers believe that hair follicles are the source of new skin cells, a finding that could further the study of healing and of cancer.</p>
+        <p>PAGE A23</p>
+        <p>Mixed Verdict in Boxing Trial  The boxing figure Robert W. Lee Sr. was acquitted of racketeering but convicted on several counts.</p>
+        <p>SPORTSFRIDAY, PAGE D1</p>
+        <p>N.F.L. Fines Ravens' Lewis  Ray Lewis was fined $250,000 for lying to police about his involvement in an incident that resulted in two deaths.</p>
+        <p>SPORTSFRIDAY, PAGE D8</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

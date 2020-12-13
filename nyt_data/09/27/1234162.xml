@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="CN000508" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234162"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000927T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E3DC103AF934A1575AC0A9669C8B63" item-length="293" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HUFFY CORP., Miamisburg, Ohio, a sporting goods company, said it would sell a division, Washington Inventory Service, San Diego, which provides inventory and information-gathering services, to a group led by Sterling Investment Partners L.P., Westport, Conn., for $84.75 million.</p>
+        <p>DELPHI AUTOMOTIVE SYSTEMS CORP., Troy, Mich., the largest auto parts maker in the world, said it had agreed to supply electrical wiring for more than 40,000 trucks of Volvo A.B. of Sweden to be built in Europe. Financial terms were not disclosed.</p>
+      </block>
+      <block class="full_text">
+        <p>HUFFY CORP., Miamisburg, Ohio, a sporting goods company, said it would sell a division, Washington Inventory Service, San Diego, which provides inventory and information-gathering services, to a group led by Sterling Investment Partners L.P., Westport, Conn., for $84.75 million.</p>
+        <p>DELPHI AUTOMOTIVE SYSTEMS CORP., Troy, Mich., the largest auto parts maker in the world, said it had agreed to supply electrical wiring for more than 40,000 trucks of Volvo A.B. of Sweden to be built in Europe. Financial terms were not disclosed.</p>
+        <p>TRIBUNE CO., Chicago, the third-biggest newspaper publisher in the United States and owner of several television stations, agreed to sell its AchieveGlobal training unit to the closely held Institute for International Research, Monaco, for an undisclosed price.</p>
+        <p>ABC-NACO INC., Downers Grove, Ill., a manufacturer of railroad products, said it would close a factory in Melrose Park, Ill., and expedite a plan to cut 1,200 jobs to save money.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

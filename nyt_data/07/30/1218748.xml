@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OFF-YEAR TESTS</title>
+    <meta content="MB231432" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1218748"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BRIEFING: EDUCATION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <location class="indexing_service">Newark (NJ)</location>
+        <location class="indexing_service">Paterson (NJ)</location>
+        <location class="indexing_service">New Jersey</location>
+        <person class="indexing_service">Nussbaum, Debra</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000730T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E7D9173DF933A05754C0A9669C8B63" item-length="100" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OFF-YEAR TESTS</hl1>
+      </hedline>
+      <byline class="print_byline">By Debra Nussbaum</byline>
+      <byline class="normalized_byline">Nussbaum, Debra</byline>
+      <abstract>
+        <p>Public school districts in Newark and Paterson, NJ, are developing their own standardized tests to help students prepare for state proficiency assessment exams (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Newark and Paterson public school districts are formulating their own standardized tests for students -- which it will begin giving during the 2000-2001 school year -- to help prepare them for the New Jersey state proficiency assessment tests the following year. The tests, will be given to students in grades 3, 7 and 10 next spring. Students take the state tests in grades 4, 8 and 11.</p>
+        <p>Debra Nussbaum</p>
+      </block>
+      <block class="full_text">
+        <p>The Newark and Paterson public school districts are formulating their own standardized tests for students -- which it will begin giving during the 2000-2001 school year -- to help prepare them for the New Jersey state proficiency assessment tests the following year. The tests, will be given to students in grades 3, 7 and 10 next spring. Students take the state tests in grades 4, 8 and 11.</p>
+        <p>Debra Nussbaum</p>
+        <p>BRIEFING: EDUCATION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

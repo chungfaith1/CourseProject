@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Programs Remove Unwanted Internet Files</title>
+    <meta content="24GEE2" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1224877"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <org class="indexing_service">Aladdin Systems</org>
+        <person class="indexing_service">Biersdorfer, J D</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000824T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E3DD1731F937A1575BC0A9669C8B63" item-length="386" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Programs Remove Unwanted Internet Files</hl1>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+      <byline class="normalized_byline">Biersdorfer, J D</byline>
+      <abstract>
+        <p>New category of software is emerging to help clean up hard drives; iClean by Aladdin Systems promises to seek out and delete unnecessary browser cache files safely and to wipe out Internet history and cookie files for privacy-conscious Web surfers (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Hard-disk space may not be as expensive as Manhattan real estate, but it can be equally precious to computer users who like to squirrel away as many files on their machines as they can. Web browser programs are notorious for hoarding disk space with saved graphics files and other data from previously visited Web sites.</p>
+        <p>But a new category of software is emerging to help clean up hard drives. One such program, iClean by Aladdin Systems, has just been released. The software, which runs on Power Macintosh computers with Version 7.5.3 of the Mac operating system or later, promises to seek out and delete unnecessary browser cache files safely and to wipe out Internet history and cookie files for privacy-conscious Web surfers. The iClean program will scan the Mac, inform the user of how much space can be saved and will even empty the Trash if so instructed. The software will also fix broken alias files (the Mac equivalent of shortcuts) that are scattered around the hard drive.</p>
+      </block>
+      <block class="full_text">
+        <p>Hard-disk space may not be as expensive as Manhattan real estate, but it can be equally precious to computer users who like to squirrel away as many files on their machines as they can. Web browser programs are notorious for hoarding disk space with saved graphics files and other data from previously visited Web sites.</p>
+        <p>But a new category of software is emerging to help clean up hard drives. One such program, iClean by Aladdin Systems, has just been released. The software, which runs on Power Macintosh computers with Version 7.5.3 of the Mac operating system or later, promises to seek out and delete unnecessary browser cache files safely and to wipe out Internet history and cookie files for privacy-conscious Web surfers. The iClean program will scan the Mac, inform the user of how much space can be saved and will even empty the Trash if so instructed. The software will also fix broken alias files (the Mac equivalent of shortcuts) that are scattered around the hard drive.</p>
+        <p>The iClean program by itself is available for $29.95, and it also comes with Aladdin's Spring Cleaning 3.5, a suite of Mac maintenance and uninstaller tools thats sells for $49.95. Curious Mac users who would like to try iClean before buying can download a free 15-day demo version at www.aladdinsys.com/iclean/index.html.</p>
+        <p>Windows 95, 98 and NT users who have the same urge to tidy up may want to pick up a copy of Norton CleanSweep 2000 by the Symantec Corporation. The program usually sells for about $40 in stores, but it can be purchased online and downloaded from www.symantecstore.com for $26. Norton CleanSweep 2000, which features an application that will thoroughly uninstall unwanted and outdated programs, will also remove old cookies, plug-ins, ActiveX controls and other debris that can wash up on the hard drive after serious surfing sessions.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

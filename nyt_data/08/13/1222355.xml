@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Using Bricks and Mortar To Defang the Computer</title>
+    <meta content="13CHES$08" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="36" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1222355"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="CHESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Chess</classifier>
+        <person class="indexing_service">Byrne, Robert</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Chess</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chess</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000813T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05EED9123FF930A2575BC0A9669C8B63" item-length="588" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Using Bricks and Mortar To Defang the Computer</hl1>
+      </hedline>
+      <byline class="print_byline">By Robert Byrne</byline>
+      <byline class="normalized_byline">Byrne, Robert</byline>
+      <abstract>
+        <p>Using Brick and Mortar To Def</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Dortmund Supertournament this year had an unusual touch: one of the participants was a computer, Deep Junior 6, created in Israel. It performed creditably in such a distinguished company of grandmasters, scoring 4 1/2-4 1/2.</p>
+        <p>The co-winners of the competition, Vladimir Kramnik of Russia and Viswanathan Anand of India, ranked second and third in the world behind Garry Kasparov, tallied 6-3. Kasparov did not participate, lending some credence to the rumor that he is readying himself for a match with a computer.</p>
+      </block>
+      <block class="full_text">
+        <p>The Dortmund Supertournament this year had an unusual touch: one of the participants was a computer, Deep Junior 6, created in Israel. It performed creditably in such a distinguished company of grandmasters, scoring 4 1/2-4 1/2.</p>
+        <p>The co-winners of the competition, Vladimir Kramnik of Russia and Viswanathan Anand of India, ranked second and third in the world behind Garry Kasparov, tallied 6-3. Kasparov did not participate, lending some credence to the rumor that he is readying himself for a match with a computer.</p>
+        <p>Of the luminaries, some played too conservatively to escape the embarrassment of a loss to a machine, while others overstrove and came to grief. Thus, Deep Junior 6 suffered only two losses as against two victories.</p>
+        <p>The cleverest of the computer's opponents was Kramnik, who chose an old method of play in Round 5 to confound Deep Junior 6.</p>
+        <p>After 3 Bd3, Black can take the sting out of the impending Stonewall formation by 3 . . . Nc6 4 f4 Nb4 5 Be2 Bf5 6 Na3 e6. White has had his best bishop sidetracked, while the black queen bishop occupies the h7-b1 diagonal. But this opening is not often played, and it probably was not in Deep Junior 6's opening book.</p>
+        <p>White's objective in advancing 4 f4 is to provide solid protection for his king knight to hop into e5 as a springboard for a kingside attack.</p>
+        <p>Deep Junior's maneuver with 7 . . . Ng4 8 Qe2 c4 9 Bc2 f5 was to control equal space in the center. The problem was that it cost too much time to set up.</p>
+        <p>Since the center is closed, wing play will be the only play, and Kramnik was first with 12 g4.</p>
+        <p>After 13 Qg2, Deep Junior 6 should have defended by 13 . . . Rf7. Its alternative, 13 . . . g6, weakened the black kingside pawn structure and opened the way for an h-file attack by Kramnik with 14 Qh2 Kh8 15 h4.</p>
+        <p>After 15 h4, Deep Junior 6 erred with 15 . . . Nd2 16 Bd2, trading off his best defender for his opponent's backward knight.</p>
+        <p>But even after 15 . . . Nf6, he would have been in serious trouble. Thus, 16 h5! g5 or (16 . . . Ng4 17 Rg4 fg 18 hg Kg7 19 Qh7 Kf6 20 e4! e5 21 fe Ke6 22 ed Kd5 23 g7 Rg8 24 Be4 Ke6 25 Qf5mate) 17 gf g4 18 Nh4 Nh5 19 Rg4 ef 20 Nhf3! creates a powerful attack for Kramnik.</p>
+        <p>After 16 . . . fg, Deep Junior 6 was probably looking forward to 17 Rg4 e5!, but Kramnik's 17 Ng5! spoiled that chance.</p>
+        <p>If 17 . . . h6, then 18 h5 Bg5 19 fg Qg5 20 hg h5 21 e4 Qf6 22 Bh6 and Black is destroyed.</p>
+        <p>But 17 . . . Qe8 could not fight off the attack either.</p>
+        <p>The remainder of the game featured a white juggernaut that simply could not be resisted.</p>
+        <p>After 33 Rf7, there was no point in going on with 33 . . . Bg5 34 Rc7 Bd2 35 Kd2, which will win a piece for Kramnik. Deep Junior gave up.</p>
+        <p>CHESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

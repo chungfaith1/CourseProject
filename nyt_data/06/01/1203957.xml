@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="01CBRIE" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203957"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE0D9123CF932A35755C0A9669C8B63" item-length="265" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SUNTERRA CORP.,  Orlando, Fla., an operator of 90 time-share resorts in North America, Europe and Asia, said it had filed for Chapter 11 bankruptcy protection from its creditors.</p>
+        <p>TANDYCRAFTS INC.,  Fort Worth, the No. 2 maker of picture frames in the United States, has closed its frame plant in Van Nuys, Calif., and will shift those operations to Durango, Mexico, to cut costs.</p>
+      </block>
+      <block class="full_text">
+        <p>SUNTERRA CORP.,  Orlando, Fla., an operator of 90 time-share resorts in North America, Europe and Asia, said it had filed for Chapter 11 bankruptcy protection from its creditors.</p>
+        <p>TANDYCRAFTS INC.,  Fort Worth, the No. 2 maker of picture frames in the United States, has closed its frame plant in Van Nuys, Calif., and will shift those operations to Durango, Mexico, to cut costs.</p>
+        <p>METRO INFORMATION SERVICES INC.,  Virginia Beach, Va., a software and information technology consulting company, plans to close 8 of its 44 offices and dismiss 25 workers to focus better on its more profitable sites.</p>
+        <p>ENRON ENERGY SERVICES,  Houston, the largest wholesaler of natural gas and power sources in the United States, said it had received a 10-year $1 billion contract from Quebecor World Inc., Canada, a commercial printer, to supply and manage electricity and natural gas at more than 60 Quebecor plants in the United States.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

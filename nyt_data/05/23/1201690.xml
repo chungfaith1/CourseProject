@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Microscopes May Soon Shine A Beacon Into Molecular World</title>
+    <meta content="23MICR$02" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201690"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Microscopes</classifier>
+        <org class="indexing_service">University of Konstanz</org>
+        <person class="indexing_service">Chang, Kenneth</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Microscopes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Laboratories and Scientific Equipment</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000523T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE1D91E3AF930A15756C0A9669C8B63" item-length="697" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Microscopes May Soon Shine A Beacon Into Molecular World</hl1>
+      </hedline>
+      <byline class="print_byline">By KENNETH CHANG</byline>
+      <byline class="normalized_byline">Chang, Kenneth</byline>
+      <abstract>
+        <p>Researchers at University of Konstanz in Germany create a microscope that uses a single fluorescent molecule as its light source; microscope, a variation on an earlier device known as a near-field scanning optical microscope, may one day allow scientists to observe the receptors and channels at the surface of a cell or how particles of light interact with molecules; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A glowing point at the tip of an optical fiber could someday be the torch that lights the world of DNA, proteins and other molecules.</p>
+        <p>Writing in the current issue of the journal Nature, researchers at the University of Konstanz in Germany report that they have created a microscope that uses a single fluorescent molecule as its light source.</p>
+      </block>
+      <block class="full_text">
+        <p>A glowing point at the tip of an optical fiber could someday be the torch that lights the world of DNA, proteins and other molecules.</p>
+        <p>Writing in the current issue of the journal Nature, researchers at the University of Konstanz in Germany report that they have created a microscope that uses a single fluorescent molecule as its light source.</p>
+        <p>''The bottom line of this idea,'' said Dr. Vahid Sandoghdar, a physicist at the University of Konstanz and the paper's senior author, ''is if you can bring our molecule to an arbitrarily close distance, then we should get molecular resolution.''</p>
+        <p>As microscopes using this light source are refined, they may allow scientists to observe the receptors and channels at the surface of a cell or how particles of light interact with molecules.</p>
+        <p>''It's fabulous,'' said Dr. Shimon Weiss, a staff scientist at Lawrence Berkeley National Laboratory in California. ''I definitely think this is a breakthrough in optical imaging.''</p>
+        <p>The new microscope is a variation of an earlier device known as a near-field scanning optical microscope, where laser light passed through a tiny metal pinhole at the end of an optical fiber.</p>
+        <p>Usually, optical microscopes cannot make out details smaller than half the wavelength of light, or about one-100,000th of an inch, a constraint known as the diffraction limit. One way to get around the diffraction limit is to stick a tiny light source very close to the sample. In that case the light beam does not have a chance to spread, or diffract, and the resolution is limited by the width of the light source instead of the wavelength of the light.</p>
+        <p>This allows near-field scanning optical microscopes to make out details as small as 1-500,000th of inch in width, but light leakages through the edges of the pinhole prevented finer resolution.</p>
+        <p>Dr. Sandoghdar and his collaborators have replaced the pinhole with a crystal embedded with fluorescent molecules known as terrylene. By adjusting the frequency of the laser beam shining down the optical fiber, they can light up a single terrylene molecule. ''We demonstrate it is possible to manipulate a single molecule and use it as a light source,'' Dr. Sandoghdar said.</p>
+        <p>The objects examined so far with the microscope are relative behemoths -- triangular aluminum pyramids one-50,000th of an inch on a side -- and the images are fuzzy compared with those taken by an atomic force microscope, which measures the topology of a surface.</p>
+        <p>''What we have done is a first demonstration,'' Dr. Sandoghdar said. ''We still have a lot of work to do to do this at molecule resolution.''</p>
+        <p>Dr. Sandoghdar's group still needs to figure out how to place the fluorescent terrylene exactly at the tip of the crystal so that they can place it right next to the object they are looking at.</p>
+        <p>At present, the microscope also operates at minus 457 degrees Fahrenheit, or 2.5 degrees above absolute zero. Most fluorescent molecules stop working within a few minutes at room temperatures.</p>
+        <p>These constraints will for now limit potential applications and the number of scientists who will be able to use it. ''It's a tour de force to get this,'' said Dr. Calvin F. Quate, a research professor in electrical engineering at Stanford University, ''and I don't think it will be as widespread as other probes are.''</p>
+        <p>For this microscope to be of use to biologists, more stable fluorescent molecules need to be found. ''If you don't have that, you don't have your microscopy,'' Dr. Weiss said. ''You want this flashlight to be on. The question is how far it can be pushed. Can this or something like this be pushed to room temperature?''</p>
+        <p>Even at the ultracold temperatures, the new microscope could be used to see how photons scatter off molecules or shuffle between two fluorescent molecules. ''You would be doing nano-photochemistry,'' Dr. Sandoghdar said, ''how one molecule reacts with another.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Stiff Guy vs. The Dumb Guy</title>
+    <meta content="LTR131432" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1240639"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001022T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE5D61E3FF931A15753C1A9669C8B63" item-length="64" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Stiff Guy vs. The Dumb Guy</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>What is sad is the smugness of the comedy writers. In the midst of congratulating themselves on their political acuity, they fail to recognize that the left has become the establishment and that the bold role they have assumed is less that of irreverent jester than toady.</p>
+        <p>Michael S. Wade  Phoenix</p>
+      </block>
+      <block class="full_text">
+        <p>What is sad is the smugness of the comedy writers. In the midst of congratulating themselves on their political acuity, they fail to recognize that the left has become the establishment and that the bold role they have assumed is less that of irreverent jester than toady.</p>
+        <p>Michael S. Wade  Phoenix</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

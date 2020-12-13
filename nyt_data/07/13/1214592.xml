@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tidying Your Hard Drive</title>
+    <meta content="LTR234848" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1214592"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">fleischer, martha</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000713T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E5DA1F38F930A25754C0A9669C8B63" item-length="145" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tidying Your Hard Drive</hl1>
+      </hedline>
+      <abstract>
+        <p>Martha Fleischer letter on defragging a hard drive (July 6 Q &amp; A)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>To avoid problems when you defrag your hard disk, which was mentioned in the Q &amp; A column on July 6, you need to close some windows first. If you have Windows 95 or 98, at the desktop close all your windows by hitting the Alt, Ctrl and Delete keys simultaneously for two seconds or so. When a Close Window comes up with a bunch of program names and buttons that say End Task and Shut Down, highlight each name and hit End Task until it disappears. You may get a second window; if so, hit End Task again. You should be left with only two names, Explorer and Systray. When that is what you have, close the window, then defrag your hard drive and restart the PC.</p>
+        <p>MARTHA FLEISCHER  New Canaan, Conn.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>To avoid problems when you defrag your hard disk, which was mentioned in the Q &amp; A column on July 6, you need to close some windows first. If you have Windows 95 or 98, at the desktop close all your windows by hitting the Alt, Ctrl and Delete keys simultaneously for two seconds or so. When a Close Window comes up with a bunch of program names and buttons that say End Task and Shut Down, highlight each name and hit End Task until it disappears. You may get a second window; if so, hit End Task again. You should be left with only two names, Explorer and Systray. When that is what you have, close the window, then defrag your hard drive and restart the PC.</p>
+        <p>MARTHA FLEISCHER  New Canaan, Conn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

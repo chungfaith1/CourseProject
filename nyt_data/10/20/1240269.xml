@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nasdaq in a Big Rally</title>
+    <meta content="20X1STOX" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Front Page; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1240269"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001020T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E3DF103EF933A15753C1A9669C8B63" item-length="93" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nasdaq in a Big Rally</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Stocks rose sharply on a rebound in technology shares, with the Nasdaq posting its third-biggest one-day gain ever, at 7.79 percent. The S.&amp; P. 500 increased 3.5 percent, and the Dow was up 1.7 percent.</p>
+        <p>Business Day, Page C1.</p>
+      </block>
+      <block class="full_text">
+        <p>Stocks rose sharply on a rebound in technology shares, with the Nasdaq posting its third-biggest one-day gain ever, at 7.79 percent. The S.&amp; P. 500 increased 3.5 percent, and the Dow was up 1.7 percent.</p>
+        <p>Business Day, Page C1.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Her First Feature</title>
+    <meta content="LTR032402" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1240775"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="SALLY FIELD"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001022T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE2DA123EF931A15753C1A9669C8B63" item-length="211" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Her First Feature</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To The Editor:</p>
+        <p>I feel obligated to point out an omission in the description of Sally Field's professional life in 1967 following the success on television of ''The Flying Nun'' [''Sticking to It, One Way or Another'' by Dana Kennedy, Sept. 24]. Ms. Field says: ''No one wanted to see me at that point, no one. That was one of the biggest walls I ever faced. Back then, there was a real stigma attached to television actors. Hardly anybody crossed over.'' But the producer Harold Hecht, who had blazed new trails in the field of independent production when he started Hecht-Lancaster with the actor Burt Lancaster, was one person who would see her, and she was cast that year in ''The Way West'' (her first feature) with Kirk Douglas, Robert Mitchum and Richard Widmark. Nine years later, Bob Rafelson auditioned her for ''Stay Hungry.''</p>
+        <p>SHELDON ROSKIN  Scotch Plains, N.J.</p>
+      </block>
+      <block class="full_text">
+        <p>To The Editor:</p>
+        <p>I feel obligated to point out an omission in the description of Sally Field's professional life in 1967 following the success on television of ''The Flying Nun'' [''Sticking to It, One Way or Another'' by Dana Kennedy, Sept. 24]. Ms. Field says: ''No one wanted to see me at that point, no one. That was one of the biggest walls I ever faced. Back then, there was a real stigma attached to television actors. Hardly anybody crossed over.'' But the producer Harold Hecht, who had blazed new trails in the field of independent production when he started Hecht-Lancaster with the actor Burt Lancaster, was one person who would see her, and she was cast that year in ''The Way West'' (her first feature) with Kirk Douglas, Robert Mitchum and Richard Widmark. Nine years later, Bob Rafelson auditioned her for ''Stay Hungry.''</p>
+        <p>SHELDON ROSKIN  Scotch Plains, N.J.</p>
+        <p>SALLY FIELD</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

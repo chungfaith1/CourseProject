@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Desperate Passage</title>
+    <meta content="LTR082956" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213377"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Immigration and Refugees</classifier>
+        <classifier class="indexing_service" type="descriptor">Illegal Aliens</classifier>
+        <location class="indexing_service">Haiti</location>
+        <person class="indexing_service">Curley, Thomas</person>
+        <person class="indexing_service">Finkel, Michael</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Haiti</classifier>
+        <classifier class="online_producer" type="general_descriptor">Illegal Aliens</classifier>
+        <classifier class="online_producer" type="general_descriptor">Immigration and Refugees</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000709T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07EEDC1139F93AA35754C0A9669C8B63" item-length="81" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Desperate Passage</hl1>
+      </hedline>
+      <abstract>
+        <p>Thomas Curley letter on Michael Finkel's June 18 article holds village elders in Ile de la Tortue had little regard for welfare of Haitian boat refugees</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Your article makes clear the basic human inclination to migrate from bad to better circumstances. Sadly, it is also a basic human instinct to profit from migration. The village elders in le de la Tortue, Haiti, had little concern for the welfare of the passengers.</p>
+        <p>Thomas Curley  Montreal</p>
+      </block>
+      <block class="full_text">
+        <p>Your article makes clear the basic human inclination to migrate from bad to better circumstances. Sadly, it is also a basic human instinct to profit from migration. The village elders in le de la Tortue, Haiti, had little concern for the welfare of the passengers.</p>
+        <p>Thomas Curley  Montreal</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

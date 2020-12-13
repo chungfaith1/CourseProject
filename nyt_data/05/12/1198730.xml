@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DINER'S JOURNAL</title>
+    <meta content="12JOUR" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="46" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1198730"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Revel (NYC Restaurant)</org>
+        <person class="indexing_service">Grimes, William</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Diner's Journal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000512T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE5DF1F38F931A25756C0A9669C8B63" item-length="384" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DINER'S JOURNAL</hl1>
+      </hedline>
+      <byline class="print_byline">By William Grimes</byline>
+      <byline class="normalized_byline">Grimes, William</byline>
+      <abstract>
+        <p>William Grimes Diner's Journal review of Revel, restaurant on East 81st Street; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>On a very polite block near the Metropolitan Museum of Art, Revel strikes an antic pose. The name suggests wild doings. The flaming red banquettes seem designed for mad, mad evenings. It's all a tease. Beneath the flashy trappings, the town house, once the home of Parioli Romanissimo restaurant, maintains a dignified, even aristocratic bearing supported by exquisite plasterwork on the ceiling and Corinthian details on the woodwork.</p>
+        <p>The cuisine is mostly Italian, with unexpected flourishes and modern touches. An osso buco appetizer salad, for example, comes with blue Peruvian potatoes and salsa verde. I steered clear of shrimp skewered on licorice sticks in favor of crab cakes, which the waiter promised were ''the best in New York.'' In my experience, ''the best'' usually means passable, with a little luck. But the Revel crab cakes, served on a spicy red-lentil salad, are indeed first rate: flavorful, meaty and lightly held together. The long list of pastas includes pappardelle with oven-dried tomatoes and shredded caciotta cheese, tagliolini with crab and sauteed artichokes, and ravioli filled with smoked guinea hen and covered in sage sauce.</p>
+      </block>
+      <block class="full_text">
+        <p>On a very polite block near the Metropolitan Museum of Art, Revel strikes an antic pose. The name suggests wild doings. The flaming red banquettes seem designed for mad, mad evenings. It's all a tease. Beneath the flashy trappings, the town house, once the home of Parioli Romanissimo restaurant, maintains a dignified, even aristocratic bearing supported by exquisite plasterwork on the ceiling and Corinthian details on the woodwork.</p>
+        <p>The cuisine is mostly Italian, with unexpected flourishes and modern touches. An osso buco appetizer salad, for example, comes with blue Peruvian potatoes and salsa verde. I steered clear of shrimp skewered on licorice sticks in favor of crab cakes, which the waiter promised were ''the best in New York.'' In my experience, ''the best'' usually means passable, with a little luck. But the Revel crab cakes, served on a spicy red-lentil salad, are indeed first rate: flavorful, meaty and lightly held together. The long list of pastas includes pappardelle with oven-dried tomatoes and shredded caciotta cheese, tagliolini with crab and sauteed artichokes, and ravioli filled with smoked guinea hen and covered in sage sauce.</p>
+        <p>There's a playful, even goofy approach to many ingredients. Parmesan cheese appears as a mousse, accompanying baby vegetables baked in parchment paper, and rhubarb shows up alongside a fillet of sea bream with artichokes and lemon zest. Duck is served two ways in the same dish. The breast is sauteed with spiced pears, and the leg is braised with salsify.</p>
+        <p>Campari Jell-O looks very good against the banquettes, a bitter partner to the sharp, acid-sweet citrus terrine. Diners who need real entertainment with dessert should go straight to the tiramisu, a do-it-yourself kit involving lady fingers, a big cup of espresso and a second cup filled with mascarpone. Dip once, dip again and eat.</p>
+        <p>Revel, 24 East 81st Street, Manhattan; (212) 249-5720. Dinner entrees, $16 to $28.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

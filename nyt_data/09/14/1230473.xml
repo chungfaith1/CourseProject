@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="14INSI$08" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1230473"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000914T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03EEDA1238F937A2575AC0A9669C8B63" item-length="183" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bomb Blast in Indonesia  A car bomb exploded in the garage under Jakarta's stock exchange, killing 15 people and wounding dozens. It was the latest in a series of recent unexplained bombings.</p>
+        <p>PAGE A3</p>
+      </block>
+      <block class="full_text">
+        <p>Bomb Blast in Indonesia  A car bomb exploded in the garage under Jakarta's stock exchange, killing 15 people and wounding dozens. It was the latest in a series of recent unexplained bombings.</p>
+        <p>PAGE A3</p>
+        <p>McDonald's Foe Sentenced  A French farmer who became something of a national hero for an attack on a McDonald's restaurant last year was sentenced to three months in prison for vandalism.</p>
+        <p>PAGE A13</p>
+        <p>Action on Boeing 737's  The government plans to require replacement of the rudder controls on Boeing 737's because a malfunction in the system caused a crash near Pittsburgh six years ago that killed 132 people.</p>
+        <p>PAGE A16</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

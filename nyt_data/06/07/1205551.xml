@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Open Sesame!</title>
+    <meta content="MB004939" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1205551"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TV NOTES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Names, Organizational</classifier>
+        <org class="indexing_service">Sesame Workshop</org>
+        <org class="indexing_service">Children's Television Workshop</org>
+        <person class="indexing_service">Rutenberg, Jim</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Names, Organizational</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E6D7153FF934A35755C0A9669C8B63" item-length="190" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Open Sesame!</hl1>
+      </hedline>
+      <byline class="print_byline">By JIM RUTENBERG</byline>
+      <byline class="normalized_byline">Rutenberg, Jim</byline>
+      <abstract>
+        <p>Children's Television Workshop is changing its name to Sesame Workshop (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Children's Television Workshop, which produces ''Sesame Street'' and ''Dragon Tales'' for PBS, is changing its name. From now on, it will be known as Sesame Workshop.</p>
+        <p>Executives at the organization said that they decided upon a name change because few parents recognized it as the production house of Sesame Street, a program that they have known for decades. With the new name, the executives said, they hope they can spread the good will built by ''Sesame Street'' to their other programs.</p>
+      </block>
+      <block class="full_text">
+        <p>The Children's Television Workshop, which produces ''Sesame Street'' and ''Dragon Tales'' for PBS, is changing its name. From now on, it will be known as Sesame Workshop.</p>
+        <p>Executives at the organization said that they decided upon a name change because few parents recognized it as the production house of Sesame Street, a program that they have known for decades. With the new name, the executives said, they hope they can spread the good will built by ''Sesame Street'' to their other programs.</p>
+        <p>''When we're launching shows like 'Dragon Tales,' people don't realize it's brought to you by the same people who brought you 'Sesame Street,' '' said Sherrie Rollins Westin, executive vice president for marketing at the workshop. ''What we found was people don't know what C.T.W. is.''</p>
+        <p>TV NOTES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

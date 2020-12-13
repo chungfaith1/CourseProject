@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Style; Art Decor</title>
+    <meta content="04STYLET" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="73" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204491"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Interior Design</classifier>
+        <person class="indexing_service">Viladas, Pilar</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine/Columns/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interior Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E5DC173CF937A35755C0A9669C8B63" item-length="390" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Style; Art Decor</hl1>
+      </hedline>
+      <byline class="print_byline">By Pilar Viladas</byline>
+      <byline class="normalized_byline">Viladas, Pilar</byline>
+      <abstract>
+        <p>Pilar Viladas article on portraits of rooms, which have been depicted in drawings, paintings and prints for centuries; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>There's something about a portrait of a room that's as compelling as a portrait of a person. Its details -- from the style of architecture to the fringe on a pillow -- are like the clothing and jewelry on a human subject. They give us clues to the occupant's social or economic status, culture and personality. Moreover, in a really good portrait of a room, the room itself becomes a personality, with a story of its own to tell. Anna Goth Werner's painting of the interior of the Abigail Adams Smith Museum in New York, shown here, needs no one to populate it; the human presence that shaped these rooms is evident in line and shade, in the placement of a mirror or the swag of a curtain.</p>
+        <p>Rooms have been depicted in drawings, paintings and prints for centuries. Many were done as records of contemporary styles in architecture and decorating. Mario Praz, a renowned scholar and collector, who wrote ''An Illustrated History of Interior Decoration,'' created a passionate following for these images.</p>
+      </block>
+      <block class="full_text">
+        <p>There's something about a portrait of a room that's as compelling as a portrait of a person. Its details -- from the style of architecture to the fringe on a pillow -- are like the clothing and jewelry on a human subject. They give us clues to the occupant's social or economic status, culture and personality. Moreover, in a really good portrait of a room, the room itself becomes a personality, with a story of its own to tell. Anna Goth Werner's painting of the interior of the Abigail Adams Smith Museum in New York, shown here, needs no one to populate it; the human presence that shaped these rooms is evident in line and shade, in the placement of a mirror or the swag of a curtain.</p>
+        <p>Rooms have been depicted in drawings, paintings and prints for centuries. Many were done as records of contemporary styles in architecture and decorating. Mario Praz, a renowned scholar and collector, who wrote ''An Illustrated History of Interior Decoration,'' created a passionate following for these images.</p>
+        <p>Some room portraits are more evocative than descriptive. While it is fascinating to pore over engravings of 19th-century Russian palaces, I'm mesmerized by the way J.M.W. Turner turned the grand interiors of Petworth, the stately English house, into moody depictions of light and mist or edouard Vuillard's rendering of his family's domestic milieu as a controlled riot of tone and pattern.</p>
+        <p>In the 20th century, room portraiture became an adjunct to the burgeoning interior design profession; major firms like McMillen have extensive archives of room portraits, and decorators like Albert Hadley and Mark Hampton are almost as well known for the interiors they painted as for those they designed. Despite our mania for technically sophisticated shelter-magazine photography, illustrated rooms prove that the brush is as powerful as the lens.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Security Certificates And Printer Hiccups</title>
+    <meta content="15ASKK$01" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1207432"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Biersdorfer, J D</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E5DA133EF936A25755C0A9669C8B63" item-length="669" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Security Certificates And Printer Hiccups</hl1>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+      <byline class="normalized_byline">Biersdorfer, J D</byline>
+      <abstract>
+        <p>Circuits Q&amp;A column; on Netscape security 'certificate,' printing Web pages from Internet Explorer, and upgrading Windows</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. What does it mean when I'm on the Web with Netscape and I get an alert box on the screen saying a security certificate has expired?</p>
+        <p>A. Many sites that handle business transactions through a secure connection have a security certificate. It is an electronic message from a Web security company, like VeriSign, to your Web browser that states that the site is the genuine site for the address and that it is secure for e-commerce transactions.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. What does it mean when I'm on the Web with Netscape and I get an alert box on the screen saying a security certificate has expired?</p>
+        <p>A. Many sites that handle business transactions through a secure connection have a security certificate. It is an electronic message from a Web security company, like VeriSign, to your Web browser that states that the site is the genuine site for the address and that it is secure for e-commerce transactions.</p>
+        <p>These certificates ensure that no counterfeit version of the Web site is able to pass itself off as the secure site.</p>
+        <p>When you get the alert message, it  means that the dated certificate has expired, much as a driver's license does.</p>
+        <p>You may have noticed the warnings right after the first of the year, but it is not a Year 2000 problem. The certificates used by many older versions of the Netscape browser and Internet Explorer were set to expire on Dec. 31, 1999.</p>
+        <p>Versions of Netscape browsers that are older than Netscape Communicator version 4.06 and many of the 3.0 versions of Internet Explorer for Windows are affected, along with Internet Explorer 4.5 for Macintosh computers. The message does not affect the security of your online transactions.</p>
+        <p>If you are constantly seeing alert boxes as you browse the Web, the best solution is to download and install a newer version of Netscape Communicator. Netscape also has a detailed information page on the topic and links to upgrades at home .netscape.com/cms/certinfo.html.</p>
+        <p>Q. The last two or three characters at the end of each line are cut off when I try to print Web pages from Internet Explorer 5.0 for Windows. How can I fix this so all of the page is printed?</p>
+        <p>A. You might try adjusting the margins for the browser. To do that, open Internet Explorer and go to the File menu. Select Page Setup, which will call up a dialog box.</p>
+        <p>The default measurement for all the margins (top, bottom, left and right) is 0.75 inches, but you can adjust each margin for better results. Try a setting of 0.5 inches and  click on O.K. to close the Page Setup box.</p>
+        <p>In some cases, the failure of a Web page to print completely may be caused by the way it is coded. If the page code specifies a measurement that is too wide for your printer, letters on the edge will be clipped off.</p>
+        <p>You might try changing your paper direction from Portrait mode to Landscape, which will give you 11 inches of width instead of the normal 8.5 inches when you are printing on 8.5-by-11-inch paper.</p>
+        <p>Also look for a link on the site to a ''printer friendly'' version of the page. Printer-friendly versions usually have the right width measurements for 8.5-by-11-inch paper and will also get rid of background colors  and patterns that may look great on screen but make printed text hard to read.</p>
+        <p>Q. Can I upgrade my computer that came with Windows 95 to Windows 98? Can my hardware cope?</p>
+        <p>A. It is possible to upgrade your computer from the Windows 95 operating system that came with it to Windows 98, but you must make sure that your computer can meet the hardware needs of the newer version.</p>
+        <p>The computer must have at least a 486 processor running at a speed of at least 66 megahertz; computers with Pentium-level processors are recommended for better performance.</p>
+        <p>You will also need at least 16 megabytes of RAM, although 32 megabytes would handle the operating system much better.</p>
+        <p>Windows 98 needs at least 110 megabytes of free hard-disk space, but you will need more room if you want to add option utilties that are included on the Windows CD-ROM.</p>
+        <p>If you are already running Windows 95, you probably already have the required V.G.A. monitor, which can display at least 16 colors at a resolution of 640 by 480.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

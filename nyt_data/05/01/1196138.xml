@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Knicks Complete Sweep</title>
+    <meta content="01FNBA$01" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1196138"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Basketball</classifier>
+        <classifier class="indexing_service" type="descriptor">Playoff Games</classifier>
+        <org class="indexing_service">New York Knickerbockers</org>
+        <org class="indexing_service">Toronto Raptors</org>
+        <org class="indexing_service">National Basketball Assn</org>
+        <person class="indexing_service">Sprewell, Latrell</person>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Playoff Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E3DE1239F932A35756C0A9669C8B63" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Knicks Complete Sweep</hl1>
+      </hedline>
+      <abstract>
+        <p>Photo of Latrell Sprewell punctuating shot as New York Knockerbockers defeated Toronto Raptors, 87-80, to sweep first-round NBA championship series three games to none</p>
+      </abstract>
+    </body.head>
+    <body.content/>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR234809" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1229409"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Pesticides and Pests</classifier>
+        <classifier class="indexing_service" type="descriptor">Beetles</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Trees and Shrubs</classifier>
+        <classifier class="indexing_service" type="descriptor">Maple Trees</classifier>
+        <classifier class="indexing_service" type="descriptor">Chestnut Trees</classifier>
+        <org class="indexing_service">St Mark's In-The-Bowery Church (Nyc)</org>
+        <person class="indexing_service">Crow, Kelly</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trees and Shrubs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pesticides</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000910T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804EFDC1139F933A2575AC0A9669C8B63" item-length="52" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of December 3 article about infestation of beetles in trees at St Marks Church in-the-Bowery, which was written by Kelly Crow, not Sherri (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article in the Neighborhood Report pages last Sunday about an infestation of beetles in trees at St. Mark's Church in-the-Bowery misstated the writer's given name. She was Kelly Crow, not Sherri.</p>
+      </block>
+      <block class="full_text">
+        <p>An article in the Neighborhood Report pages last Sunday about an infestation of beetles in trees at St. Mark's Church in-the-Bowery misstated the writer's given name. She was Kelly Crow, not Sherri.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

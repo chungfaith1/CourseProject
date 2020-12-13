@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Roadside Recollections</title>
+    <meta content="MB030319" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1240700"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TRAVEL ADVISORY: MUSEUM"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hotels and Motels</classifier>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <location class="indexing_service">Las Vegas (Nev)</location>
+        <org class="indexing_service">Clark County Museum (Las Vegas, Nev)</org>
+        <person class="indexing_service">Siano, Joseph</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Nevada/Las Vegas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Nevada</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hotels and Motels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001022T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E0DB143EF931A15753C1A9669C8B63" item-length="138" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Roadside Recollections</hl1>
+      </hedline>
+      <byline class="print_byline">By JOSEPH SIANO</byline>
+      <byline class="normalized_byline">Siano, Joseph</byline>
+      <abstract>
+        <p>Clark County Museum in Las Vegas opens exhibit on prewar motor courts which includes relocated motor court cabin (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Before Las Vegas hotels began belching flame and impersonating Venice and Paris, there were motor courts, tiny roadside collections of cabins where tired motorists would pull in at the end of a long drive. They often had no air-conditioning, and the closest thing to a data port was a newspaper box.</p>
+      </block>
+      <block class="full_text">
+        <p>Before Las Vegas hotels began belching flame and impersonating Venice and Paris, there were motor courts, tiny roadside collections of cabins where tired motorists would pull in at the end of a long drive. They often had no air-conditioning, and the closest thing to a data port was a newspaper box.</p>
+        <p>Now the Clark County Museum in Las Vegas is honoring that era with a new exhibit: a prewar motor court cabin that was moved from downtown Las Vegas. Visitors can walk inside the cabin, which is furnished in the style of the era. The Clark County Museum is at 1830 South Boulder Highway, (702) 455-7955; general admission is $1.50.</p>
+        <p>JOSEPH SIANO</p>
+        <p>TRAVEL ADVISORY: MUSEUM</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

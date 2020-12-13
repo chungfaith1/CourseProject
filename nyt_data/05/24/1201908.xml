@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>So Who Needs Cheese? Just Add a Spicy Sauce</title>
+    <meta content="24TEMP$07" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201908"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TEMPTATION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Pizza Pies</classifier>
+        <classifier class="indexing_service" type="descriptor">Grand Central Terminal (NYC)</classifier>
+        <org class="indexing_service">Two Boots (Pizzeria)</org>
+        <person class="indexing_service">Burros, Marian</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bakeries and Baked Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pizza Pies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Grand Central Terminal (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stations and Terminals (Passenger)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000524T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E1D61F3AF937A15756C0A9669C8B63" item-length="322" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>So Who Needs Cheese? Just Add a Spicy Sauce</hl1>
+      </hedline>
+      <byline class="print_byline">By MARIAN BURROS</byline>
+      <byline class="normalized_byline">Burros, Marian</byline>
+      <abstract>
+        <p>Marian Burros article recommends the pizza at Two Boots in Grand Central Terminal; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PIZZA is back in my life, thanks to the opening of Two Boots in Grand Central Terminal.</p>
+        <p>The pizzeria, which has several branches in the East Village and Greenwich Village, is famous for a vegetarian pie, the Earth Mother, which delivers so much flavor you can actually ignore the fact that there is no mozzarella.</p>
+      </block>
+      <block class="full_text">
+        <p>PIZZA is back in my life, thanks to the opening of Two Boots in Grand Central Terminal.</p>
+        <p>The pizzeria, which has several branches in the East Village and Greenwich Village, is famous for a vegetarian pie, the Earth Mother, which delivers so much flavor you can actually ignore the fact that there is no mozzarella.</p>
+        <p>My love of pizza goes back to the night before my 10th birthday, when my mother took me to the North End, an Italian enclave in Waterbury, Conn., for my first ''abeetz,'' which is what the locals called it. It had a very thin crisp crust, tomato sauce and cheese. It was love at first sight.</p>
+        <p>Unfortunately, pizza is no longer a regular part of my diet, since the luscious melted cheeses look better on the pizza than they do on me. But the Earth Mother at Two Boots gets away without cheese because the dough is generously coated with a tomato sauce seasoned with Cajun spices, hot sauce and red pepper flakes. The intense flavors permeate the yeasty, crusty base.</p>
+        <p>The sauce mingles with the toppings of cooked vegetables -- spinach, roasted red and yellow peppers, mushrooms, artichokes and red onion -- all well cooked. The flavors explode in your mouth.</p>
+        <p>MARIAN BURROS</p>
+        <p>A slice of Earth Mother pizza is $3.50; a small pie is $9.50; a medium, $16.25; a large, $20.95. Two Boots has several locations, and the prices may vary. The one in Grand Central is located on the lower level and is open daily from 11 a.m. to 11 p.m.</p>
+        <p>TEMPTATION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

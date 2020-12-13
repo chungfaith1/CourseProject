@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Boom Box</title>
+    <meta content="LTR081040" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1227455"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <person class="indexing_service">Burke, Daniel B</person>
+        <person class="indexing_service">Lewis, Michael</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000903T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE4DD1F31F930A3575AC0A9669C8B63" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Boom Box</hl1>
+      </hedline>
+      <abstract>
+        <p>David Burke letter on Michael Lewis's August 13 article on Michael Lewis's August 13 article holds TiVo and Replay televisions are designed to spy on and manipulate people (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Far from ''empowering'' viewers, or ''putting them in control,'' these machines are designed to spy on and manipulate people. Your set will be able to show you something and monitor how you respond, working on you over time, in a cycle of stimulus, measurement and response, until it has you behaving the way it wants. Artificial-intelligence software can do this in the box. Whether any data leave your home or not is unimportant. We should stop the cheerleading and reject this assault on our civil liberties.</p>
+        <p>David Burke  New York</p>
+      </block>
+      <block class="full_text">
+        <p>Far from ''empowering'' viewers, or ''putting them in control,'' these machines are designed to spy on and manipulate people. Your set will be able to show you something and monitor how you respond, working on you over time, in a cycle of stimulus, measurement and response, until it has you behaving the way it wants. Artificial-intelligence software can do this in the box. Whether any data leave your home or not is unimportant. We should stop the cheerleading and reject this assault on our civil liberties.</p>
+        <p>David Burke  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

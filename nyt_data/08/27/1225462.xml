@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>My Name Is Not Robert</title>
+    <meta content="LTR091326" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225462"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <person class="indexing_service">Bruner, Sean</person>
+        <person class="indexing_service">Weiser, Benjamin</person>
+        <person class="indexing_service">Sanders, Kerry</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000827T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E6D8113EF934A1575BC0A9669C8B63" item-length="120" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>My Name Is Not Robert</hl1>
+      </hedline>
+      <abstract>
+        <p>Sean Bruner letter on Benjamin Weiser's August 6 article views as disturbing New York authorities' response to discovery that Kerry Sanders was wrongfully imprisoned (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>That an overburdened and cynical prison system could make a mistake is understandable, although I would hope that the magnitude of the error in the case of Kerry Sanders is a gross aberration. What is disturbing, also, is that New York authorities responded with denial and defiance rather than with contrition.</p>
+        <p>Sean Bruner  Tucson</p>
+      </block>
+      <block class="full_text">
+        <p>That an overburdened and cynical prison system could make a mistake is understandable, although I would hope that the magnitude of the error in the case of Kerry Sanders is a gross aberration. What is disturbing, also, is that New York authorities responded with denial and defiance rather than with contrition.</p>
+        <p>Sean Bruner  Tucson</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

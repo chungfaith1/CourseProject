@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Children's Books</title>
+    <meta content="RV075346" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="31" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1238782"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Pinder, Jeanne B</person>
+        <person class="indexing_service">Curtis, Jamie Lee</person>
+        <person class="indexing_service">Cornell, Laura</person>
+        <object.title class="indexing_service">Where Do Balloons Go? An Uplifting Mystery (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Columns/Children's Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001015T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE4DC143CF936A25753C1A9669C8B63" item-length="308" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Children's Books</hl1>
+      </hedline>
+      <byline class="print_byline">By Jeanne B. Pinder</byline>
+      <byline class="normalized_byline">Pinder, Jeanne B</byline>
+      <abstract>
+        <p>Jeanne B Pinder reviews children's book Where Do Balloons Go? An Uplifting Mystery by Jamie Lee Curtis, illustrated by Laura Cornell (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Where Do Balloons Go?</p>
+        <p>An Uplifting Mystery.</p>
+        <p>By Jamie Lee Curtis.</p>
+        <p>Illustrated by Laura Cornell.</p>
+        <p>Joanna Cotler Books/HarperCollins,</p>
+        <p>$16.95. (Ages 4 to 8)</p>
+      </block>
+      <block class="full_text">
+        <p>Where Do Balloons Go?</p>
+        <p>An Uplifting Mystery.</p>
+        <p>By Jamie Lee Curtis.</p>
+        <p>Illustrated by Laura Cornell.</p>
+        <p>Joanna Cotler Books/HarperCollins,</p>
+        <p>$16.95. (Ages 4 to 8)</p>
+        <p>Inquiring minds do indeed want to know: what happens when a tiny fist lets go of a string and that beloved balloon sails off into the sky? Now we know: the balloons go to a spa (''helium treaments, puff therapy, stretching sessions'') or to restaurants that have highchairs for their baby balloons, or up to cha-cha with birds. This book is lighter than air, a confection rendered not too sweet by Laura Cornell's witty illustrations. The runaway balloon that escapes on the first page floats through a series of scenes that will bring giggles from both adult and child: balloons poring over Arthur Murray-type dance diagrams, for instance, or small children at a restaurant with black olives up their noses and breadsticks in their ears glancing merrily over at the next table, where baby balloons are horrifying their very own staid parents with olives and breadsticks as well.</p>
+        <p>While the premise is charming, and Jamie Lee Curtis's text is inventive, it is the combined interplay of the text and the illustrations, with their multileveled jokes, that earns the book a spot in the memory -- just as the same author-illustrator team did with ''Today I Feel Silly &amp; Other Moods That Make My Day.'' Look for the recurring jokes -- the orange beehive, the French balloon in its beret and the smooch-shaped pink balloon advertising Dr. Cha's collagen at 1-800-LIPS. It's a small and giggly anthropomorphism: the ill balloon at the doctor's office and the balloon relaxing in the recliner are actually familiar enough as people that a double take is in order. Balloons really are like people, after all.</p>
+        <p>Jeanne B. Pinder</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

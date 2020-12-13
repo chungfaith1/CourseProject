@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ethernet Finds a New Level; Souped-Up Versions of Familiar Networking Format Promise Swift Improvements in Communications</title>
+    <meta content="05NET.$05" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204979"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Agilent Technologies</org>
+        <person class="indexing_service">Markoff, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E7D61F3CF936A35755C0A9669C8B63" item-length="2099" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ethernet Finds a New Level; Souped-Up Versions of Familiar Networking Format Promise Swift Improvements in Communications</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <dateline>PALO ALTO, Calif., June 4</dateline>
+      <abstract>
+        <p>Agilent Technologies researchers develop palm-sized device that could lead to sweeping improvements in speed and efficiency of nation's communications networks; device, known as transceiver, uses greatly souped-up version of Ethernet format, simple, reliable mainstay of office computer networks; analysts say technology could give desktop computers access to data networks with speed and power formerly available only in best research laboratories at prices no higher than standard business-office Internet links; dozens of start-ups and established giants are racing to put 27-year-old Ethernet networking standard on ever faster price-performance improvement curve; graphs; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Several years ago, with tongue only partially planted in cheek, Intel's chairman, Andrew Grove, made an observation: unlike the chip industry, where processing speeds double every 18 months or so, the moribund telecommunications world seemed to double its speed only about once a century.</p>
+        <p>But here on a test bench at Agilent Technologies is clear evidence that may give lie to Grove's Law -- evidence that the nation's communications networks could be poised for sweeping improvements in speed and efficiency that could rival the breakneck pace of breakthroughs in the chip industry.</p>
+      </block>
+      <block class="full_text">
+        <p>Several years ago, with tongue only partially planted in cheek, Intel's chairman, Andrew Grove, made an observation: unlike the chip industry, where processing speeds double every 18 months or so, the moribund telecommunications world seemed to double its speed only about once a century.</p>
+        <p>But here on a test bench at Agilent Technologies is clear evidence that may give lie to Grove's Law -- evidence that the nation's communications networks could be poised for sweeping improvements in speed and efficiency that could rival the breakneck pace of breakthroughs in the chip industry.</p>
+        <p>Using inexpensive high-speed semiconductor components, lasers and mirrors, a small group of Agilent researchers have fashioned a palm-size device capable of shuttling data at 10 billion bits -- or 10 gigabits -- a second.</p>
+        <p>And the Agilent device, known as a transceiver, does not rely on the costly, complex optical-network formats that telephone companies and Internet backbone carriers typically require to achieve such transmission speeds. Instead, the device uses a new souped-up version of the homely Ethernet format that has been the simple, reliable mainstay of office computer networks for nearly three decades.</p>
+        <p>But this is not your father's Ethernet; it is Ethernet 3,000 thousand times as fast as the original versions. At the rate the technology is evolving, some analysts expect office desktop computers to soon have access to data networks with speed and power formerly available only in the nation's best research laboratories -- but at prices no higher than today's standard business-office Internet connections.</p>
+        <p>''This has caught the world by surprise,'' said Waguih Ishak, director of Agilent's communications and optical research laboratory. ''Three years ago, very few people were talking about one-gigabit Ethernet. And people were laughing at us when we talked about 10-gigabit optical networking.''</p>
+        <p>No one is laughing at Agilent now, or at the other companies developing new Ethernet technologies. A mad dash is under way as dozens of start-ups and established giants race to put the 27-year-old Ethernet networking standard on an ever faster price-performance improvement curve.</p>
+        <p>While 10-gigabit Ethernet transceivers remain mainly at the testing stage, one-gigabit transceivers are already becoming the preferred way to link the new optical switches that are becoming the standard way to route information over the Internet. (Optical components use flashes of laser light, rather than electronic pulses, to convey the on-off semaphore of digital information.)</p>
+        <p>''The cost of our one-gigabit transceivers will fall below $5 by 2004,'' said Brian E. Lemoff, an Agilent designer. That number is significant because $5 is roughly the current price of a 100-megabit Ethernet transceiver -- one capable of moving data at only 100 million bits a second.</p>
+        <p>Industry analysts and executives say the rapid improvements in Ethernet -- and the resulting increase in bandwidth, or transmission speeds, of fiber optic networks -- could bring a frenzied pace of change to the telecommunications world similar to the microprocessor chip's revolutionary impact on the computer industry in the 1980's.</p>
+        <p>''The beauty of all of this is the cost of optical components is now following the same declining cost curve that drove the semiconductor industry,'' said Geoff Baehr, chief network officer of Sun Microsystems.</p>
+        <p>As prices plunge for the new high-speed Ethernet, it could become what economists call a disruptive technology -- one that forces established data communications companies to alter their business models, while creating lucrative new opportunities for fast-moving start-up companies. And the victims of the disruptive technology, according to the data-networking upstarts, will be the nation's giant telephone companies, which have large investments to protect in more costly and complex telecommunications and voice technologies.</p>
+        <p>Ethernet engineers now routinely cite Clayton M. Christensen's thesis about the power of so-called disruptive technologies in his book ''The Innovator's Dilemma'' (Harvard Business School Press, 1997).</p>
+        <p>''Gigabit Ethernet is a totally disruptive technology that until recently looked like a toy'' to the telephone companies, said David Isenberg, an industry consultant and a former AT&amp;T engineer. ''Now it's going to eat their lunch before they have time to turn around.''</p>
+        <p>That role reversal has not escaped Robert Metcalfe, a co-inventor of the original three-megabit Ethernet standard at Xerox's Palo Alto Research Center in 1973.</p>
+        <p>''The guys at the telephone companies have all read Christensen's book by now,'' Mr. Metcalfe said, ''but they're like deer caught in the headlights.''</p>
+        <p>Telecommunications executives, of course, take a dim view of such hyperbole. They note that established network companies have ready access to Ethernet technology, and will not hesitate to use it. They also contend that many of the keys to better networks have less to do with pushing technical boundaries in the laboratory than with mundane issues like obtaining rights of way for fiber optic cables and cellular towers.</p>
+        <p>And the big companies may not be as beholden to their installed network equipment as the upstarts may assume, according to David C. Nagle, AT&amp;T's chief technology officer and president of AT&amp;T Labs.</p>
+        <p>''New players do have an advantage,'' Mr. Nagle said. ''But increasingly, we and everyone else are learning how to respond quickly to these disruptive technologies.''</p>
+        <p>The new players include aggressive start-ups like Yipes Communications of San Francisco, which is building a nationwide data-networking service based on a gigabit Ethernet optical network. Customerss, primarily businesses, could use it for any number of current and future high-speed applications, possibly including combined voice and data communications and TV-quality video.</p>
+        <p>Yipes has raised almost $91 million from venture capitalists and partners and plans to sell Internet connection services in more than 20 metropolitan regions in the United States by the end of the year. The company has moved quickly by leasing unused fibers from other companies and assembling networks in the nation's largest metropolitan areas. Early customers include the Silicon Valley law firm of Fenwick &amp; West, the Palo Alto Medical Foundation and Front Range Internet, a Colorado Internet service provider.</p>
+        <p>The company says it can give customers connections over optical fiber networks at data speeds from one megabit to one gigabit using Ethernet -- and can do so while significantly underpricing its traditional telecommunications industry competitors.</p>
+        <p>''To compete, they are going to have to cannibalize their existing customer base,'' said Jerry Parrick, chief executive of Yipes and a former telecommunications industry executive who has run data networking businesses at the regional telephone companies Pacific Bell and U S West.</p>
+        <p>According to an estimate by the Del'Orro Group, a telecommunications market research firm in Portola Valley, Calif., the hardware cost for conventional networking equipment at the OC-192 standard -- the optical network format used by phone companies -- was $6,783 for each gigabit. That compares with $350 for a 10-gigabit optical Ethernet connection.</p>
+        <p>''This makes so much sense because we are able to avoid the multiple layers of what is in effect scar tissue'' in telephone companies' networks, said Eric Benamou, chairman and chief executive of the 3Com Corporation. 3Com was the company Mr. Metcalfe founded to commercialize the Ethernet standard in in the 1970's; he left in 1990.</p>
+        <p>In the beginning, Ethernet was a simple data standard for letting groups of computers communicate within a single office building, or at most an office-park campus, at a top speed of 10 million bits a second. But improvements in the technology now allow for Ethernet networks of speeds of 10 billion bits a second, reaching some 30 miles. As a result, Ethernet has become competitive with the main network techniques now used by the big telecommunications companies.</p>
+        <p>Those techniques include asynchronous transfer mode, which supports speeds from 1.5 megabits to the gigabit range. Another is a format known as synchronous optical network, or Sonet (pronounced like the short-verse form), which supports data rates ranging from from 51 megabits up to nearly 2.5 gigabits.</p>
+        <p>The main advantage that asynchronous transfer and Sonet hold over Ethernet is that they offer rich network management -- software that enables engineers to carefully control and monitor communications traffic, be it voice or data. Ethernet provides for only skimpy network management, although many companies are working on more robust management software packages for use with Ethernet.</p>
+        <p>But in other ways, Ethernet is much more flexible than asynchronous transfer or Sonet. Executives at Yipes, for example, say they will have a significant advantage over the data services offered by traditional telecommunications companies because the Yipes network administrators will be able to dial the amount of bandwidth a customer receives, up or down, quickly on demand.</p>
+        <p>This flexibility might permit a small Web site, for example, to add capacity quickly and temporarily for a special event, or make it possible for an individual in an office to set up a high-quality teleconferencing connection for a short period.</p>
+        <p>But in terms of flexibility, the biggest advantage of the new gigabit Ethernet services like Yipes could be the ability to add each new customer to the network with an industry-standard Ethernet connector -- similar to the small circuit boards or plug-in devices that already enable a new PC to be quickly added to an office network or allow a consumer's home computer to be attached to the local cable television system. Telephone companies typically have a much more complicated task in determining how best to connect each new data customer to the local network.</p>
+        <p>''This makes it a seamless interconnection,'' said Michael Kleeman, chief technology officer of Aerie Networks, a broadband network start-up in Denver, which plans to use Ethernet technology. ''There are no additional boxes.''</p>
+        <p>The most bitter struggle between the new Ethernet data networking upstarts and the traditional data networks may involve voice traffic, currently the revenue backbone of the telephone industry.</p>
+        <p>Telephone industry technologies have been designed to ensure that data packets carrying voice telephone calls have priority passage through the network, even during peak traffic periods. That capability adds to the complexity and cost of conventional telecommunications data networks, but it also gives voice conversations a reliable sound quality that Ethernet or standard Internet formats cannot yet match.</p>
+        <p>But service providers like Yipes intend to plunge in to the lucrative voice market by guaranteeing customers a minimum quality of service -- whether for voice or data -- that the companies say they will be able to meet by designing their networks to handle bursts of high-data traffic.</p>
+        <p>For Mr. Metcalfe, the Ethernet inventor, the venerable technology's new ascent offers a lesson that transcends cost savings. In the current era, where approaches to technical standards in computing range from Microsoft's proprietary control to the free-software approach represented by the Linux operating system, Mr. Metcalfe says that Ethernet illustrates a third way.</p>
+        <p>Ethernet became a universal standard, he said, because of the licensing practices Xerox adopted in the 1970's. Xerox licensed its Ethernet patents at modest terms, ensuring that it won the standards battle with competing technologies at the time, promoted by companies like I.B.M.</p>
+        <p>With licenses easily obtained, companies were free to devise the best ways to develop commercial Ethernet-based products.</p>
+        <p>''What Ethernet is today is a business model based on open standards and individually owned implementations,'' he said. ''It has created a world where there is rapid innovation and fierce competition.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

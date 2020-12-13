@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Schumacher Wins 41st Race</title>
+    <meta content="11PRIX" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/11/sports/11PRIX.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1229765"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobile Racing</classifier>
+        <classifier class="indexing_service" type="descriptor">Italian Grand Prix</classifier>
+        <person class="indexing_service">Schumacher, Michael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Wheel Spin</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobile Racing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000911T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE2DE1F39F932A2575AC0A9669C8B63" item-length="116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Schumacher Wins 41st Race</hl1>
+      </hedline>
+      <dateline>MONZA, Italy, Sept. 10</dateline>
+      <abstract>
+        <p>Michael Schumacher wins Italian Grand Prix auto race (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nothing in the Italian Grand Prix today, not even the elimination of a third of the cars in accidents before the end of the first lap, could stop Michael Schumacher from registering his 41st triumph and joining Ayrton Senna in second place on the career victory list. Only Alain Prost has more, 51.</p>
+        <p>Schumacher, who drives a Ferrari, is now 2 points behind Mika Hakkinen of Finland, who finished second here, in the championship point race, trailing by 80-78.</p>
+      </block>
+      <block class="full_text">
+        <p>Nothing in the Italian Grand Prix today, not even the elimination of a third of the cars in accidents before the end of the first lap, could stop Michael Schumacher from registering his 41st triumph and joining Ayrton Senna in second place on the career victory list. Only Alain Prost has more, 51.</p>
+        <p>Schumacher, who drives a Ferrari, is now 2 points behind Mika Hakkinen of Finland, who finished second here, in the championship point race, trailing by 80-78.</p>
+        <p>The race was marred by the death of a track official who was hit by a flying wheel during one of the early crashes.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ONLINE AUCTION DEAL IN DOUBT</title>
+    <meta content="MB000933" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1221738"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WORLD BUSINESS BRIEFING: EUROPE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Ricardo.de Ag</org>
+        <org class="indexing_service">QXL PLC</org>
+        <person class="indexing_service">Sorkin, Andrew Ross</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000811T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DEEDB143FF932A2575BC0A9669C8B63" item-length="134" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ONLINE AUCTION DEAL IN DOUBT</hl1>
+      </hedline>
+      <byline class="print_byline">By Andrew Ross Sorkin</byline>
+      <byline class="normalized_byline">Sorkin, Andrew Ross</byline>
+      <abstract>
+        <p>QXL PLC, Europe's largest online auctioneer, reconsiders acquisition of Ricardo.de AG, German rival, citing new information it has received about company (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Europe's largest online auctioneer, QXL P.L.C., said it might have to reconsider its acquisition of Ricardo.de A.G., a German rival, because of new information it had received about Ricardo.de. QXL declined to disclose the information. While both QXL and Ricardo.de said they hoped the deal would be completed, shares of Ricardo.de fell.</p>
+        <p>Andrew Ross Sorkin (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Europe's largest online auctioneer, QXL P.L.C., said it might have to reconsider its acquisition of Ricardo.de A.G., a German rival, because of new information it had received about Ricardo.de. QXL declined to disclose the information. While both QXL and Ricardo.de said they hoped the deal would be completed, shares of Ricardo.de fell.</p>
+        <p>Andrew Ross Sorkin (NYT)</p>
+        <p>WORLD BUSINESS BRIEFING: EUROPE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

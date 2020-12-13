@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>POINT, CLICK, WIN (MAYBE)</title>
+    <meta content="MB235159" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1233921"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY BRIEFING: DIGITAL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Contests and Prizes</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <org class="indexing_service">At&amp;t Corp</org>
+        <org class="indexing_service">Ericsson Ab</org>
+        <person class="indexing_service">Elliott, Stuart</person>
+        <object.title class="indexing_service">Who Wants to Be A Millionaire (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Contests and Prizes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000926T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E5DB123AF935A1575AC0A9669C8B63" item-length="130" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>POINT, CLICK, WIN (MAYBE)</hl1>
+      </hedline>
+      <byline class="print_byline">By Stuart Elliott</byline>
+      <byline class="normalized_byline">Elliott, Stuart</byline>
+      <abstract>
+        <p>AT&amp;T Corp and Ericsson are co-sponsoring interactive wireless promotion tied to ABC program Who Wants to Be a Millionaire; two companies will mail out 100,000 electronic devices shaped like Ericsson cellular telephones to consumers, who will be asked to watch show in late October for special encoded commercials; when pointed at TV screen, devices can read light patterns, telling viewers whether they have won prizes (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In another experiment by advertisers using new technology to deliver sales pitches, AT&amp;T and Ericsson are co-sponsoring an interactive wireless promotion tied to the ABC quiz show ''Who Wants to Be a Millionaire.'' AT&amp;T and Ericsson will mail out 100,000 electronic devices shaped like Ericsson cellular phones to consumers, who will be asked to watch the show in late October for special encoded commercials. When pointed at a TV screen, the devices can read light patterns, telling viewers whether they have won prizes.</p>
+        <p>Stuart Elliott</p>
+      </block>
+      <block class="full_text">
+        <p>In another experiment by advertisers using new technology to deliver sales pitches, AT&amp;T and Ericsson are co-sponsoring an interactive wireless promotion tied to the ABC quiz show ''Who Wants to Be a Millionaire.'' AT&amp;T and Ericsson will mail out 100,000 electronic devices shaped like Ericsson cellular phones to consumers, who will be asked to watch the show in late October for special encoded commercials. When pointed at a TV screen, the devices can read light patterns, telling viewers whether they have won prizes.</p>
+        <p>Stuart Elliott</p>
+        <p>TECHNOLOGY BRIEFING: DIGITAL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

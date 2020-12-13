@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Pork Chop, Levitated</title>
+    <meta content="21TOGO$02" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209044"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TO GO"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Tocqueville (NYC Restaurant)</org>
+        <person class="indexing_service">Asimov, Eric</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000621T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6DB1331F932A15755C0A9669C8B63" item-length="279" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Pork Chop, Levitated</hl1>
+      </hedline>
+      <byline class="print_byline">By Eric Asimov</byline>
+      <byline class="normalized_byline">Asimov, Eric</byline>
+      <abstract>
+        <p>Eric Asimov To Go column on takeout food offered by Manhattan restaurant Tocqueville; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>EVERY once in a while, I find a dish with an internal logic so clear that it seems simple, no matter how long the list of ingredients. The thick, pan-roasted pork chop at Tocqueville, a restaurant off  Union Square that now offers takeout, is one of those rare finds.</p>
+        <p>Marco Moreira, the chef, is from Brazil and was inspired by the traditional Portuguese pairing of pork with clams. He builds up the combination by adding sharp chorizo sausage and tiny pungent cockles. Then he augments that harmony with fingerling potatoes, which offer earthy bass notes, and sweetly acidic tomatoes, which fill in the high end. Braised greens add a touch of bitterness, while the snap of the fava beans enhances the texture. All are placed in a small amount of a piquant broth that seems to contain the essence of each component. Surprisingly, this artful dish travels well in a single sleek plastic takeout container.</p>
+      </block>
+      <block class="full_text">
+        <p>EVERY once in a while, I find a dish with an internal logic so clear that it seems simple, no matter how long the list of ingredients. The thick, pan-roasted pork chop at Tocqueville, a restaurant off  Union Square that now offers takeout, is one of those rare finds.</p>
+        <p>Marco Moreira, the chef, is from Brazil and was inspired by the traditional Portuguese pairing of pork with clams. He builds up the combination by adding sharp chorizo sausage and tiny pungent cockles. Then he augments that harmony with fingerling potatoes, which offer earthy bass notes, and sweetly acidic tomatoes, which fill in the high end. Braised greens add a touch of bitterness, while the snap of the fava beans enhances the texture. All are placed in a small amount of a piquant broth that seems to contain the essence of each component. Surprisingly, this artful dish travels well in a single sleek plastic takeout container.</p>
+        <p>You can order anything from the restaurant menu to go, and the staff is diligent in helping select dishes that will stand up to the trip home.</p>
+        <p>Mr. Moreira regularly shows his flair for winning combinations, like placing exceedingly tender lamb chops ($32) in a bright, summery sunchoke puree, or adding spring peas and woodsy morels to creamy risotto ($16). All dishes that stretch the taste buds without taxing the senses.</p>
+        <p>Tocqueville, 15 East 15th Street, (212) 647-1515. Delivery: none.</p>
+        <p>TO GO</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

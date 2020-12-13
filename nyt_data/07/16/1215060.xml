@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Children's Books</title>
+    <meta content="RV083434" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215060"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Ward, Doug</person>
+        <person class="indexing_service">Mahy, Margaret</person>
+        <object.title class="indexing_service">Down the Dragon's Tongue (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Columns/Children's Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E0D81638F935A25754C0A9669C8B63" item-length="276" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Children's Books</hl1>
+      </hedline>
+      <byline class="print_byline">By Doug Ward</byline>
+      <byline class="normalized_byline">Ward, Doug</byline>
+      <abstract>
+        <p>Doug Ward reviews book Down the Dragon's Tongue by Margaret Mahy (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DOWN THE DRAGON'S TONGUE</p>
+        <p>By Margaret Mahy.</p>
+        <p>Illustrated by Patricia MacCarthy.</p>
+        <p>Orchard, $15.95. (Ages 4 to 7)</p>
+      </block>
+      <block class="full_text">
+        <p>DOWN THE DRAGON'S TONGUE</p>
+        <p>By Margaret Mahy.</p>
+        <p>Illustrated by Patricia MacCarthy.</p>
+        <p>Orchard, $15.95. (Ages 4 to 7)</p>
+        <p>Something happens to Mr. Prospero, a can-do company man, when he gets dragged to the park by Harry and Miranda, twins who want to go down the big hillside slide -- the dragon's tongue of the title -- but insist that they are too scared to go alone. No more scared than their father, still dressed in suit and tie. Whoosh! Down the slide everyone goes, with Mr. Prospero thinking about little but the destructive capability of gravity. Swish! Another trip down, and Mr. Prospero's reluctance is slipping away. Whee! Down again. The buttons on Mr. Prospero's shirt pop, his shirttail flies out, and his hair gets tousled. He sheds his shoes, and -- wow! -- slides down on one leg. Finally, ruffled and exhilarated, he is dragged reluctantly back home by his children.</p>
+        <p>This is the fourth collaboration for Margaret Mahy and Patricia MacCarthy, whose other books include the delightful read-aloud ''Boom, Baby, Boom, Boom!'' A distinguished New Zealand writer, Mahy has written extensively for children and young adults. ''Down the Dragon's Tongue'' has a humorous charm, the story builds nicely, and young children will appreciate its use of repetition and its portrayal of family camaraderie. But it sputters disappointingly at the end, as if the finale were being interrupted. MacCarthy's acrylic illustrations are bright and occasionally humorous, but, like the story, they never quite live up to expectations.</p>
+        <p>Doug Ward</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

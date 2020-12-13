@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New G.P.S. Attachment Can Keep You on Track</title>
+    <meta content="17GEE1" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1223106"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Positioning System</classifier>
+        <classifier class="indexing_service" type="descriptor">Maps</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Pharos Science and Applications</org>
+        <person class="indexing_service">Furchgott, Roy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Maps</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Positioning System</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Navigation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000817T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E7DB163EF934A2575BC0A9669C8B63" item-length="257" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New G.P.S. Attachment Can Keep You on Track</hl1>
+      </hedline>
+      <byline class="print_byline">By ROY FURCHGOTT</byline>
+      <byline class="normalized_byline">Furchgott, Roy</byline>
+      <abstract>
+        <p>Pharos Science and Applications' new Global Position System receiver attaches to a wide variety of handhelds or laptops, enabling them to provide road directions and a moving map that monitors every turn; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lost while driving in a unfamiliar city? A new Global Positioning System receiver slightly larger than a matchbox attaches to a wide variety of handhelds or laptops, enabling them to provide directions like a native and a moving map that monitors every turn.</p>
+        <p>Pharos Science and Applications, based in Torrance, Calif., designed the $199 iGPS-180 receiver with road warriors in mind. Business people need a G.P.S. device that is portable, said James Oyahg, the company's chairman. The iGPS-180 connects to any laptop with a standard nine-pin serial port; there are custom cables to connect the Palm and Visor handhelds, as well as the Pocket PC's (like the latest Cassiopeia models from Casio). The small receiver has a cable that plugs into a car's cigarette lighter; when used with a Cassiopeia, the lighter connection will power both the receiver and the handheld.</p>
+      </block>
+      <block class="full_text">
+        <p>Lost while driving in a unfamiliar city? A new Global Positioning System receiver slightly larger than a matchbox attaches to a wide variety of handhelds or laptops, enabling them to provide directions like a native and a moving map that monitors every turn.</p>
+        <p>Pharos Science and Applications, based in Torrance, Calif., designed the $199 iGPS-180 receiver with road warriors in mind. Business people need a G.P.S. device that is portable, said James Oyahg, the company's chairman. The iGPS-180 connects to any laptop with a standard nine-pin serial port; there are custom cables to connect the Palm and Visor handhelds, as well as the Pocket PC's (like the latest Cassiopeia models from Casio). The small receiver has a cable that plugs into a car's cigarette lighter; when used with a Cassiopeia, the lighter connection will power both the receiver and the handheld.</p>
+        <p>Palm and Visor handhelds and laptops can use any mapping software that conforms to National Marine Electronics Association Standard 2.0 or higher. For Pocket PC's, Pharos has an $89 mapping program that lets the handheld issue voice prompts like ''there is a left turn ahead.'' In a test run, the Cassiopeia voice alerts were somewhat unreliable, coming too early, too late or not at all for some turns. And sometimes the device did not plot the best route. But the map, which shows to its best advantage on color screens, was always right on the mark.</p>
+        <p>ROY FURCHGOTT</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Gap in Analysts' Coverage</title>
+    <meta content="MB044030" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1227759"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="DIARY: INVESTING"/>
+      <identified-content>
+        <org class="indexing_service">Gap Inc</org>
+        <org class="indexing_service">Painewebber Inc</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000903T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E4DA1030F930A3575AC0A9669C8B63" item-length="159" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Gap in Analysts' Coverage</hl1>
+      </hedline>
+      <abstract>
+        <p>Paine Webber removes Gap Inc from its highlighted stocks list after shares fall $3.19, to $22.38 and end week at $23.50 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Shareholders of Gap Inc. may well wish that their brokers had advised selling months ago -- the stock is down 56.3 percent from a 52-week high of $53.75 on Feb. 4.</p>
+      </block>
+      <block class="full_text">
+        <p>Shareholders of Gap Inc. may well wish that their brokers had advised selling months ago -- the stock is down 56.3 percent from a 52-week high of $53.75 on Feb. 4.</p>
+        <p>Well, better to warn late than never. On Thursday, a day after Gap reported a 14 percent decline in August sales at its Gap, Old Navy and Banana Republic stores open at least a year, PaineWebber announced that Edward M. Kerschner, chairman of its investment policy committee, had removed Gap Inc. from the firm's ''highlighted stocks'' list. That day, the shares fell $3.19, to $22.38; they ended the week at $23.50. Other analysts also lowered their ratings on Gap.</p>
+        <p>DIARY: INVESTING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

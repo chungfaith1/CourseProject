@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="BRI23" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209834"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000624T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E3DD1430F937A15755C0A9669C8B63" item-length="190" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>YELLOW CORP., Overland Park, Kan., the largest trucker in the United States, said it would buy back as much as $25 million in common stock, or 6.7 percent of its shares outstanding, after the stock reached a 52-week low.</p>
+      </block>
+      <block class="full_text">
+        <p>YELLOW CORP., Overland Park, Kan., the largest trucker in the United States, said it would buy back as much as $25 million in common stock, or 6.7 percent of its shares outstanding, after the stock reached a 52-week low.</p>
+        <p>COOPER TIRE AND RUBBER CO., -- Findlay, Ohio, said it agreed to sell its Holm Industries Inc. subsidiary, a maker of plastic sealing products, to Madison Capital Partners, Chicago, an investment firm with stakes in plastics and capital equipment companies. The price was not disclosed.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

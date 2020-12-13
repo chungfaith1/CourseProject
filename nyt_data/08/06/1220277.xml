@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Consumed By Race</title>
+    <meta content="LTR092448" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1220277"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <classifier class="indexing_service" type="descriptor">Discrimination</classifier>
+        <person class="indexing_service">Malone, Pamela</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000806T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901EFD9133DF935A3575BC0A9669C8B63" item-length="75" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Consumed By Race</hl1>
+      </hedline>
+      <abstract>
+        <p>Pamela Malone letter on July 16 issue on race in America describes herself as an individual rather than member of ethnic group</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>You have neatly sorted out consumer habits by race (July 16). Question: What am I? I bought both grits and cottage cheese when I lived in California; now I consume neither. I subscribed to Ebony in the 60's and read People now. Of the 43 grocery products mentioned, I don't even buy 23 of them. As for the other 20, I don't buy any of the brands listed. Answer: An individual.</p>
+        <p>Pamela Malone  Leonia, N.J.</p>
+      </block>
+      <block class="full_text">
+        <p>You have neatly sorted out consumer habits by race (July 16). Question: What am I? I bought both grits and cottage cheese when I lived in California; now I consume neither. I subscribed to Ebony in the 60's and read People now. Of the 43 grocery products mentioned, I don't even buy 23 of them. As for the other 20, I don't buy any of the brands listed. Answer: An individual.</p>
+        <p>Pamela Malone  Leonia, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

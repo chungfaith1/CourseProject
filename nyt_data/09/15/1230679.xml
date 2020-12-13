@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>San Gennaro Time Again</title>
+    <meta content="15FEAS0AA" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1230679"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Street Fairs and Festivals</classifier>
+        <classifier class="indexing_service" type="descriptor">Feast of San Gennaro</classifier>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+        <classifier class="online_producer" type="general_descriptor">Festivals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000915T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E3DF1038F936A2575AC0A9669C8B63" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>San Gennaro Time Again</hl1>
+      </hedline>
+      <abstract>
+        <p>Photo of opening of Feast of San Gennaro in Little Italy</p>
+      </abstract>
+    </body.head>
+    <body.content/>
+  </body>
+</nitf>

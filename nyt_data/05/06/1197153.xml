@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cisco Systems Agrees to Buy ArrowPoint for $5.7 Billion</title>
+    <meta content="Y06CIS$01" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1197153"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Arrowpoint Communications</org>
+        <org class="indexing_service">Cisco Systems Inc</org>
+        <person class="indexing_service">Fisher, Lawrence M</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000506T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902EEDE1438F935A35756C0A9669C8B63" item-length="612" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cisco Systems Agrees to Buy ArrowPoint for $5.7 Billion</hl1>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE M. FISHER</byline>
+      <byline class="normalized_byline">Fisher, Lawrence M</byline>
+      <dateline>SAN FRANCISCO, May 5</dateline>
+      <abstract>
+        <p>Cisco Systems to buy ArrowPoint Communications in stock swap valued at $5.7 billion; ArrowPoint makes switches, specialized computers that optimize content delivery over Internet (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Cisco Systems said today that it had agreed to buy ArrowPoint Communications in a stock swap valued at $5.7 billion.</p>
+        <p>ArrowPoint, based in Acton, Mass., makes switches -- specialized computers that optimize the delivery of content over the Internet. Acquiring ArrowPoint gives Cisco, the leading maker of network equipment, the technology it needs to compete against companies like Alteon Web Systems in the fast-growing portion of the market devoted to what is known as content switching, or load balancing.</p>
+      </block>
+      <block class="full_text">
+        <p>Cisco Systems said today that it had agreed to buy ArrowPoint Communications in a stock swap valued at $5.7 billion.</p>
+        <p>ArrowPoint, based in Acton, Mass., makes switches -- specialized computers that optimize the delivery of content over the Internet. Acquiring ArrowPoint gives Cisco, the leading maker of network equipment, the technology it needs to compete against companies like Alteon Web Systems in the fast-growing portion of the market devoted to what is known as content switching, or load balancing.</p>
+        <p>Wall Street rewarded Cisco with a rise in its valuation that eclipsed the cost of the deal. Cisco shares rose $4.125, or about 6 percent, to close at $67.75 in Nasdaq trading.</p>
+        <p>Shares in ArrowPoint, which went public in March, had gained 27 percent on Thursday after a report by Greg Geiling, an analyst with J. P. Morgan, forecast that the company's sales would quintuple in the next 12 months. Its shares closed today at $140.1875, up $5.375.</p>
+        <p>Cisco dominates the market for routers, computers that manage data traffic on a network using the Internet Protocol, known as I.P. More than 80 percent of the routers connected to the Internet are Cisco machines, which move traffic around the Internet based on the I.P. address assigned each packet of data. But in the last year, a market has developed for switches that can rapidly identify the type of data in the packet, and give preferential routing to voice, for example, over plain text.</p>
+        <p>''This was a very big market opportunity, and ArrowPoint had come in with the most intelligent switch,'' Mr. Geiling of J. P. Morgan said. ''It was just a great opportunity for Cisco to seize once again the No. 1 product in an emerging market. I think it's a good transaction for all involved.''</p>
+        <p>Under the terms of the agreement, Cisco will exchange 2.1218 shares of its common stock for every outstanding share and stock option of ArrowPoint Communications.</p>
+        <p>''Content distribution is increasingly important for our customers,'' Ammar Hanafi, Cisco's vice president for business development, said in a telephone interview. ArrowPoint ''has taken a very innovative software-based approach and is a real leader.''</p>
+        <p>''We think over time, content networking is going to be as important a technology as I.P.,'' he said.</p>
+        <p>Lou Volpe, ArrowPoint's president and chief operating officer, said that a merger with some large company at some time seemed likely, but that Cisco was the most compelling candidate. ''When the most highly regarded technology company comes calling, they're probably only going to come once,'' he said. The deal ''ensures our technology will be the dominant technology in this space.''</p>
+        <p>As corporations move to an Internet-based computing model, where not only software applications but telecommunications and transaction-processing occurs over the Web, ArrowPoint's load-balancing software is just one of several technologies they will need, said Paul Johnson, a Robertson Stephens analyst.</p>
+        <p>Cisco already dominates routing, and is now buying a leading player in load balancing, but still lacks strong positions in other areas like gigabit ethernet, for fast transmission of data, and cache technology, which smooths and speeds Web traffic by storing frequently used data closer to the user, he said.</p>
+        <p>''If you believe in this, it's highly likely Cisco will have to do more acquisitions to fill in their product line,'' Mr. Johnson said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

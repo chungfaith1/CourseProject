@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="04CORR$02" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Corrections; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204635"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <classifier class="indexing_service" type="descriptor">Credit</classifier>
+        <classifier class="indexing_service" type="descriptor">Recession and Depression</classifier>
+        <org class="indexing_service">Donaldson Lufkin &amp; Jenrette Inc</org>
+        <org class="indexing_service">Federal Reserve System</org>
+        <person class="indexing_service">Galvin, Thomas M</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recession and Depression</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DEFDA133CF937A35755C0A9669C8B63" item-length="53" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of May 28 Portfolios, Etc column about concern that Federal Reserve's campaign of interest-rate hike could bring on recession, Thomas M Galvin is chief executive of Donaldson, Lufkin &amp; Jenrette (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Portfolios, Etc. column last Sunday, about investors' concern that rate increases by the Federal Reserve could lead to a recession, misstated part of the name of the company for which Thomas M. Galvin is chief investment officer. It is Donaldson, Lufkin &amp; Jenrette, not Donald.</p>
+      </block>
+      <block class="full_text">
+        <p>The Portfolios, Etc. column last Sunday, about investors' concern that rate increases by the Federal Reserve could lead to a recession, misstated part of the name of the company for which Thomas M. Galvin is chief investment officer. It is Donaldson, Lufkin &amp; Jenrette, not Donald.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

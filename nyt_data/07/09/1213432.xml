@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Posting Art</title>
+    <meta content="LTR014022" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213432"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PAINTING AND MUSIC"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Lake, Eva</person>
+        <person class="indexing_service">Dunbar, George</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000709T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E4DF1F39F93AA35754C0A9669C8B63" item-length="121" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Posting Art</hl1>
+      </hedline>
+      <abstract>
+        <p>George Dunbar letter on artist Eva Lake's July 2 letter on mass marketing art holds Internet could give artists wider audiences (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Eva Lake asks, ''How easy is it to collect or experience, on the mass market, contemporary visual art?'' [''Of Being Owned,'' letter, July 2]. The Internet is the source of thousands, if not millions, of visual images ranging from the ''great masters'' to contemporary photography and can be experienced by millions worldwide. There's nothing to prevent visual artists such as Ms. Lake from posting their works on a Web page for all of us to view and admire.</p>
+        <p>GEORGE DUNBAR  Toronto</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Eva Lake asks, ''How easy is it to collect or experience, on the mass market, contemporary visual art?'' [''Of Being Owned,'' letter, July 2]. The Internet is the source of thousands, if not millions, of visual images ranging from the ''great masters'' to contemporary photography and can be experienced by millions worldwide. There's nothing to prevent visual artists such as Ms. Lake from posting their works on a Web page for all of us to view and admire.</p>
+        <p>GEORGE DUNBAR  Toronto</p>
+        <p>PAINTING AND MUSIC</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

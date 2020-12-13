@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>105,000 Genes Identified in Public Data</title>
+    <meta content="09BIOT" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Health; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1198127"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="indexing_service" type="descriptor">Human Genome Project</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="indexing_service" type="descriptor">Deoxyribonucleic Acid</classifier>
+        <org class="indexing_service">DoubleTwist Inc</org>
+        <org class="indexing_service">Celera Genomics Group</org>
+        <org class="indexing_service">Incyte Pharmaceuticals</org>
+        <person class="indexing_service">Pollack, Andrew</person>
+        <person class="indexing_service">Venter, J Craig (Dr)</person>
+        <person class="indexing_service">Whitfield, Roy A</person>
+        <person class="indexing_service">Tsinoremas, Nick</person>
+        <person class="indexing_service">Couch, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000509T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900EFD91038F93AA35756C0A9669C8B63" item-length="674" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>105,000 Genes Identified in Public Data</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREW POLLACK</byline>
+      <byline class="normalized_byline">Pollack, Andrew</byline>
+      <abstract>
+        <p>DoubleTwist Inc says it has identified as many as 105,000 human genes by performing first comprehensive computer analysis of publicly available data from Human Genome Project; by relying on public data, DoubleTwist, which will sell subscriptions to its database, appears to have made end run around competitors, including Celera Genomics and Incyte Pharmaceuticals, which have spent heavily to do their own sequencing in effort to sell gene data to drug companies; Celera, Incyte and other competitors attempt to minimize DoubleTwist's announcement; Celera president J Craig Venter, Incyte chief executive Roy A Whitfield, and DoubleTwist director Nick Tsinoremas and president John Couch comment; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DoubleTwist Inc., a small biotechnology company in Oakland, Calif., said yesterday that it had identified as many as 105,000 human genes by performing the first comprehensive computer analysis of the publicly available data from the Human Genome Project.</p>
+        <p>By relying on the public data, DoubleTwist, which will sell subscriptions to its database, appears to have made an end run around competitors, including Celera Genomics and Incyte Pharmaceuticals, which have spent heavily to do their own sequencing in an effort to sell gene data to drug companies.</p>
+      </block>
+      <block class="full_text">
+        <p>DoubleTwist Inc., a small biotechnology company in Oakland, Calif., said yesterday that it had identified as many as 105,000 human genes by performing the first comprehensive computer analysis of the publicly available data from the Human Genome Project.</p>
+        <p>By relying on the public data, DoubleTwist, which will sell subscriptions to its database, appears to have made an end run around competitors, including Celera Genomics and Incyte Pharmaceuticals, which have spent heavily to do their own sequencing in an effort to sell gene data to drug companies.</p>
+        <p>Celera in particular has spent several hundred million dollars to develop a complete human genome sequence on its own. That investment could be called into question, however, if companies like DoubleTwist can generate their own databases using the public data, without doing their own sequencing.</p>
+        <p>Even so, Celera, Incyte and other competitors sought to minimize DoubleTwist's announcement, saying that the company had not published any data allowing the quality of its work to be judged. J. Craig Venter, president of Celera, said his company's data would be superior to anything derived from the publicly financed genome project because it is incomplete.</p>
+        <p>''There's no way it could be comprehensive,'' he said of DoubleTwist's database.</p>
+        <p>But DoubleTwist's announcement was hailed by some scientists associated with the publicly financed genome project as a demonstration of the value of their raw sequence, which is now about 80 percent complete. ''This is exactly why the public genome project has been producing the sequence,'' said Eric Lander, director of the Whitehead Center for Genome Research in Cambridge, Mass. He said companies were being encouraged to build upon the raw sequence.</p>
+        <p>The genome comprises three billion base pairs. Much of the sequence has no known function but a small percentage of it takes the form of genes, which encode the instructions for making the proteins that carry out bodily functions.</p>
+        <p>The raw sequence, a mind-numbing string of the letters A,T, C and G, does not provide much valuable information. It must first be annotated, meaning that the genes and their locations, and if possible their functions, are identified. It is this annotation that DoubleTwist said it had performed.</p>
+        <p>''The real key is knowing where the human genes lie on this immense string of base pairs,'' said John Couch, the president of DoubleTwist, which is a privately held company. That annotated information, in turn, could be useful to scientists in diagnosing disease and developing treatments.</p>
+        <p>DoubleTwist used powerful supercomputers provided by Sun Microsystems to search the raw genome sequence looking for telltale patterns representing the genes and comparing unknown sequences with those of known genes.</p>
+        <p>Nick Tsinoremas, director of research at DoubleTwist, said the company was confident in its identification of 65,000 genes but less certain about the 40,000 others. The company's findings, he said, are consistent with the general wisdom that the human genome contains about 100,000 genes. Estimates have ranged from 40,000 to 140,000.</p>
+        <p>Roy A. Whitfield, chief executive of Incyte, said his company, while not sequencing the entire genome, had sequenced individual genes, so that it could offer its customers accurate sequences as well as physical copies of the genes. ''That's real content that you can't get anywhere else,'' he said. ''What theirs is all about is content that anyone else has.''</p>
+        <p>Cyrus Harmon, president and chief executive of Neomorphic Inc., a Berkeley, Calif., company that helped annotate the recently published fruit fly genome, criticized DoubleTwist for ''science by press release'' because it did not publish anything about its methods. He said that computer algorithms alone were not always accurate in identifying genes and needed to be combined with laboratory analysis.</p>
+        <p>DoubleTwist, which was once known as Pangea Systems, is a bio-informatics company, meaning it provides computer tools for researchers to use in searching genetic databases.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

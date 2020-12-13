@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Summertime Dues</title>
+    <meta content="LTR103018" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1218571"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Temporary Employment</classifier>
+        <person class="indexing_service">Hafeli, Mary</person>
+        <person class="indexing_service">Kirn, Walter</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000730T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E1DE133AF933A05754C0A9669C8B63" item-length="115" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Summertime Dues</hl1>
+      </hedline>
+      <abstract>
+        <p>Mary Hafeli letter scores teen Walter Kirn, in July 9 Way We Live Now essay, for not quitting summer job that called for him to cheat and steal3</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Walter Kirn wonders what sort of character teenagers are supposed to develop from working at summer jobs. To start, how about the sense to leave jobs that call for cheating and stealing? Entering the working world forces kids to make ethical judgments in situations such as Kirn describes. This is a bad thing?</p>
+        <p>Mary Hafeli  Cold Spring, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>Walter Kirn wonders what sort of character teenagers are supposed to develop from working at summer jobs. To start, how about the sense to leave jobs that call for cheating and stealing? Entering the working world forces kids to make ethical judgments in situations such as Kirn describes. This is a bad thing?</p>
+        <p>Mary Hafeli  Cold Spring, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

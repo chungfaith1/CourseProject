@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fire Is Out at Hanford Reservation</title>
+    <meta content="Y01HAN0AA" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1211560"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Atomic Weapons</classifier>
+        <classifier class="indexing_service" type="descriptor">Fires and Firemen</classifier>
+        <classifier class="indexing_service" type="descriptor">Forest and Brush Fires</classifier>
+        <classifier class="indexing_service" type="descriptor">Hanford Nuclear Reservation (Wash)</classifier>
+        <classifier class="indexing_service" type="descriptor">Nuclear Wastes</classifier>
+        <location class="indexing_service">Washington (State)</location>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Washington</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forest and Brush Fires</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nuclear Wastes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fires and Firefighters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Weapons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forests and Forestry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000701T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E1D61739F932A35754C0A9669C8B63" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fire Is Out at Hanford Reservation</hl1>
+      </hedline>
+      <abstract>
+        <p>Photo of Hanford Nuclear Reservation in Washington State after wildfire is extinguished; blaze caused by car accident burned across three old radioactive waste disposal sites; initial tests show no elevated radiation levels</p>
+      </abstract>
+    </body.head>
+    <body.content/>
+  </body>
+</nitf>

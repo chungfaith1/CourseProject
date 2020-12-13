@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR231414" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213633"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Ralston, Joseph W (Gen)</classifier>
+        <org class="indexing_service">Stephens Group</org>
+        <person class="indexing_service">Clark, Wesley K (Gen)</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000709T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE6DC1438F93AA35754C0A9669C8B63" item-length="61" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of picture accompanying July 2 article about Gen Wesley K Clark; photo showed Gen Joseph W Raltson, not Clark (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A picture last Sunday with a brief report in the Private Sector column about Gen. Wesley K. Clark and his new role as a corporate consultant was published in error. It showed Gen. Joseph W. Ralston, who succeeded General Clark as NATO's supreme commander, not General Clark.</p>
+      </block>
+      <block class="full_text">
+        <p>A picture last Sunday with a brief report in the Private Sector column about Gen. Wesley K. Clark and his new role as a corporate consultant was published in error. It showed Gen. Joseph W. Ralston, who succeeded General Clark as NATO's supreme commander, not General Clark.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

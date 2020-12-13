@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Editors' Note</title>
+    <meta content="25EDNO" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; Editors' Notes; Books; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1210318"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <person class="indexing_service">Friedan, Betty</person>
+        <person class="indexing_service">Friedan, Carl</person>
+        <object.title class="indexing_service">Life So Far (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Editors' Note</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Editors' Notes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000625T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02EFDA1430F936A15755C0A9669C8B63" item-length="126" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Editors' Note</hl1>
+      </hedline>
+      <abstract>
+        <p>Editors' Note on review of Betty Friedan's book, Life So Far, in June 25 Book Review; review cited author's assertion that her former husband, Carl Friedan, beat her, but failed to note that he has denied that claim</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A review of ''Life So Far,'' by Betty Friedan, on Page 10 of The Times Book Review today cites the author's assertion that ''throughout her years of activism'' she ''allowed her husband to get away with beating her.''</p>
+        <p>The review should have taken note of Carl Friedan's response, in a letter in The Times on May 18 and in an editors' note in this space on May 26, that the accusation is ''blatantly untrue.''</p>
+      </block>
+      <block class="full_text">
+        <p>A review of ''Life So Far,'' by Betty Friedan, on Page 10 of The Times Book Review today cites the author's assertion that ''throughout her years of activism'' she ''allowed her husband to get away with beating her.''</p>
+        <p>The review should have taken note of Carl Friedan's response, in a letter in The Times on May 18 and in an editors' note in this space on May 26, that the accusation is ''blatantly untrue.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

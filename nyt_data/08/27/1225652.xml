@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Online Publisher Features Author</title>
+    <meta content="MB014627" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Books; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225652"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="JERSEY FOOTLIGHTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Xlibris (Co)</org>
+        <person class="indexing_service">Dipietro, Suze</person>
+        <person class="indexing_service">Demasters, Karen</person>
+        <object.title class="indexing_service">Angel Knocks On Hell's Door, An (Book)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000827T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E2DE1231F934A1575BC0A9669C8B63" item-length="298" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Online Publisher Features Author</hl1>
+      </hedline>
+      <byline class="print_byline">By Karen DeMasters</byline>
+      <byline class="normalized_byline">Demasters, Karen</byline>
+      <abstract>
+        <p>Suze DiPietro's An Angel Knocks on Hell's Door is one of first books being published through Xlibris, online book store (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Is revealing a father's affair to the rest of the family an obligation or a betrayal, especially if the father leaves and the family is plunged into poverty in a gritty neighborhood riddled with problems?</p>
+        <p>That is one of the questions explored in ''An Angel Knocks on Hell's Door,'' a 260-page work of fiction by Suze DiPietro that is among the first books being published through an online book store that creates the book and mails it to the consumer. In the near future, Xlibris, the electronic publisher, wants to also make the books available for reading online, said Roland LaPlante, chief marketing officer for Xlibris.</p>
+      </block>
+      <block class="full_text">
+        <p>Is revealing a father's affair to the rest of the family an obligation or a betrayal, especially if the father leaves and the family is plunged into poverty in a gritty neighborhood riddled with problems?</p>
+        <p>That is one of the questions explored in ''An Angel Knocks on Hell's Door,'' a 260-page work of fiction by Suze DiPietro that is among the first books being published through an online book store that creates the book and mails it to the consumer. In the near future, Xlibris, the electronic publisher, wants to also make the books available for reading online, said Roland LaPlante, chief marketing officer for Xlibris.</p>
+        <p>The book, the second work of fiction by Ms. DiPietro, who is public relations director for Trump Taj Mahal and Trump Marina in Atlantic City and lives in Petersburg, tells the story of a 16-year-old girl forced to grow up among drugs and gangs after her father deserts the family. Once a consumer orders this or any other book at www.xlibris.com, it is printed , bound and shipped. The Xlibris books also are sold through other online bookstores.</p>
+        <p>Ms. DiPietro will be signing copies of her book at Borders Books in the Hamilton Mall, Atlantic City, on Thursday and at Atlantic Books, Ocean One Mall, Atlantic City, on Sept. 16, 2 to 4 p.m.</p>
+        <p>Karen DeMasters</p>
+        <p>JERSEY FOOTLIGHTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

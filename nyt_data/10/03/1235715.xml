@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.S. Selects a New Encryption Technique</title>
+    <meta content="Y03COD$01" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/03/technology/03CODE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1235715"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <org class="indexing_service">Commerce Department</org>
+        <person class="indexing_service">Rijmen, Vincent</person>
+        <person class="indexing_service">Daemen, Joan</person>
+        <person class="indexing_service">Schwartz, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001003T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CEED7133DF930A35753C1A9669C8B63" item-length="933" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.S. Selects a New Encryption Technique</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN SCHWARTZ</byline>
+      <byline class="normalized_byline">Schwartz, John</byline>
+      <abstract>
+        <p>Commerce Department endorses new encryption technique called Rijndael; name is play on names of its creators, Belgian computer scientists Vincent Rijmen and Joan Daemen (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After a three-year worldwide search for a new encryption technique powerful enough to earn the official endorsement of the United States government, the Commerce Department yesterday named a winner: Rijndael.</p>
+        <p>The name itself is not encrypted. It is a play on the names of its creators, two Belgian computer scientists, Vincent Rijmen and Joan Daemen. The fact that the standard emerged from a country known more for its chocolate than for its software shows the international nature of the cryptographic field.</p>
+      </block>
+      <block class="full_text">
+        <p>After a three-year worldwide search for a new encryption technique powerful enough to earn the official endorsement of the United States government, the Commerce Department yesterday named a winner: Rijndael.</p>
+        <p>The name itself is not encrypted. It is a play on the names of its creators, two Belgian computer scientists, Vincent Rijmen and Joan Daemen. The fact that the standard emerged from a country known more for its chocolate than for its software shows the international nature of the cryptographic field.</p>
+        <p>Once an arcane science employed chiefly by wartime code makers, cryptography has emerged as a key tool for ensuring security and privacy in the information age. The equations, known as algorithms, scramble and unscramble messages and data for computer users.</p>
+        <p>The federal government has for years relied on an encryption standard known as DES, but the decades-old code has been showing signs of age. Cryptographers have constructed computer systems that could quickly crack DES messages.</p>
+        <p>The search for a new Advanced Encryption Standard officially began in January 1997. The intervening years have been spent in a flurry of proposals, counterproposals and analysis by the National Institute of Standards and Technology and outside kibitzers in a process widely lauded for its openness. The full record of the process and all submissions and discussion can be found at http://www.nist.gov/aes.</p>
+        <p>The institute ''did a phenomenal job,'' said Bruce Schneier, chief executive of California-based Counterpane Internet Security and head of a team that proposed one of the five encryption finalists, an algorithm dubbed Twofish.</p>
+        <p>Mr. Rijmen and Mr. Daemen said in a telephone interview that they were proud to see their work chosen. There is no cash award, and the creators, who met as university students, have agreed to make the algorithm freely available.</p>
+        <p>''We both make enough to have a decent life,'' Mr. Rijmen said. ''We can buy the things we want to buy.'' Mr. Daemen, however, added that their work was not without rewards: ''This makes us known. The fact that people know you as an expert, you can gain money if you play it in the right way -- I hope, I hope.''</p>
+        <p>The director of the standards institute, Ray Kammer, said Rijndael provided ''the best balance of robustness and versatility'' of all the finalists, since it can be used on puny personal computers and even microchip-enabled smart cards.</p>
+        <p>''It was easy to use,'' he said, and it ''will be easy to implement.''</p>
+        <p>Rijndael (whose creators suggest pronunciations approximating ''Rhine doll'') does not become a new standard overnight. Officials said that in the coming weeks the institute would publish a notice in the Federal Register recommending the software as the new Federal Information Processing Standard. After 90 days for comment and revision, the secretary of commerce will most likely accept the proposal.</p>
+        <p>Once approved as a standard, the algorithm can be used for sensitive, but not classified, information, and will be adopted by many government agencies and by organizations doing business with the government.</p>
+        <p>The algorithm, which has been publicly available for more than a year, can be plugged into many kinds of software for sending e-mail or managing computer files. Institute officials said yesterday that they expected to see the first commercial products incorporating Rijndael to appear within days.</p>
+        <p>The strength of encryption is generally expressed in the length of the numeric ''key'' used to scramble and unscramble messages. The DES system used a key 56 bits long -- enough to require any code-cracking computer to try so many combinations that the number expressing it is 7,200 followed by 14 zeroes.</p>
+        <p>Modern computers have rendered such protection weak, so the strongest flavor of Rijndael will require any brute-force decryption attempt to use as many combinations as 1,100 followed by 75 zeroes.</p>
+        <p>The standards institute estimates that today's computers would take approximately 149 trillion years to decrypt such a message. (The Big Bang, by comparison, is estimated to have occurred less than 20 billion years ago.) Mr. Kammer said that barring advances in so-called quantum computing that would render all notions of current computer power obsolete, the new standard should be effective for 30 years.</p>
+        <p>In choosing a product from overseas, the government raised eyebrows. ''It is, I guess, encouraging that the U.S. government is willing to use foreign technology -- and at the same time disappointing that a number of American solutions were not chosen,'' said Bruce Heiman, executive director of Americans for Consumer Privacy, an advocacy organization whose members include many high-technology companies.</p>
+        <p>Mr. Heiman said the choice showed that efforts by the Clinton administration to control the export of cryptographic tools -- policies largely abandoned in the last year -- were wrongheaded. ''It certainly is further proof, if one ever needed,'' he said, ''that encryption technology is international, and unilateral export controls are counterproductive.''</p>
+        <p>The institute director, Mr. Kammer, defended the administration's former policies of restriction. ''I think there was a time when it was reasonable to hope that by controlling U.S. technology we could control use of encryption worldwide,'' he said. ''But that day is past, and I think the U.S. accepts that.''</p>
+        <p>TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

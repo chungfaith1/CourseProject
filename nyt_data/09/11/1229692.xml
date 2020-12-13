@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Online and Accessible</title>
+    <meta content="L11DIS$04" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/11/opinion/L11DIS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1229692"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Handicapped</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Delivery Services</classifier>
+        <person class="indexing_service">Scheer, Susan</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Handicapped</classifier>
+        <classifier class="online_producer" type="general_descriptor">Service Industries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000911T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E6DB1039F932A2575AC0A9669C8B63" item-length="188" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Online and Accessible</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Susan Scheer says it is encouraging to see companies recognize benefits of their delivery services for people with disabilities (Sept 5 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>It is encouraging to see companies like YourGrocer.com and Kozmo.com recognize the benefits of their delivery services for people with disabilities (''Online Deliveries Lighten Burden for the Disabled,'' news article, Sept. 5).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>It is encouraging to see companies like YourGrocer.com and Kozmo.com recognize the benefits of their delivery services for people with disabilities (''Online Deliveries Lighten Burden for the Disabled,'' news article, Sept. 5).</p>
+        <p>The Internet is fast becoming a means of ensuring that people with disabilities have the opportunity to live independently and take part in the mainstream of American life.</p>
+        <p>Increasingly, people are using the Internet to handle their financial transactions, conduct job searches, plan vacations and take part in civic activities, yet many of the Web sites that offer these services are not designed to be accessible to users of voice output, speech recognition and other new technology.</p>
+        <p>The Internet should operate like any other place of business: A company's Web site must be as accessible as its stores.</p>
+        <p>SUSAN SCHEER  New York, Sept. 5, 2000</p>
+        <p>The writer is executive director of the Center for Independence of the Disabled in New York.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

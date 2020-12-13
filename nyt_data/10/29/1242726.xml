@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>IN BRIEF</title>
+    <meta content="29BBIZ$02" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1242726"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <org class="indexing_service">Computer Associates International Inc</org>
+        <person class="indexing_service">Strugatch, Warren</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001029T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E5D91331F93AA15753C1A9669C8B63" item-length="366" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>IN BRIEF</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by Warren Strugatch</byline>
+      <byline class="normalized_byline">Strugatch, Warren</byline>
+      <abstract>
+        <p>Computer Associates International Inc reports sharp drop in quarterly earnings, to $138 million (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lower Quarterly Income For Computer Associates</p>
+        <p>Computer Associates International Inc.  (NYSE: CA) of Islandia has reported that its quarterly  net income dropped to $138 million, down sharply from last year's same-quarter earnings of $334 million. The company said that income was affected by reduced global demand for mainframe software and a softer market in Europe.</p>
+        <p>Earnings were 54 cents a share, compared with 75 cents in the previous year's quarter.</p>
+      </block>
+      <block class="full_text">
+        <p>Lower Quarterly Income For Computer Associates</p>
+        <p>Computer Associates International Inc.  (NYSE: CA) of Islandia has reported that its quarterly  net income dropped to $138 million, down sharply from last year's same-quarter earnings of $334 million. The company said that income was affected by reduced global demand for mainframe software and a softer market in Europe.</p>
+        <p>Earnings were 54 cents a share, compared with 75 cents in the previous year's quarter.</p>
+        <p>Record Quarterly Results For Symbol Technologies</p>
+        <p>Symbol Technologies of Holtsville  credited record third-quarter results to the success of a series of new products introduced since June 1998. Revenue for the third quarter ended Sept. 30 was $373.2 million, up 27.4 percent from the prior year. Net income for the quarter was $40.5 million, or 28 cents a share, a 31.5 percent jump.</p>
+        <p>L.I. Commercial Bank Net Income Rises 25%</p>
+        <p>The Long Island Commercial Bank's holding company, the Long Island Financial Corporation (Nasdaq: LICB) has reported a 25 percent increase in net income, to $475,000 or 30 cents per share, for the quarter ended Sept. 30. Last year, the company reported a net income of $381,000, or 22 cents per common share, for the quarter. A spokesman attributed the increase to improved net interest income, additional fee revenues and new electronic banking services.</p>
+        <p>Around the Island</p>
+        <p>Two East End real estate companies, Zorn &amp; Sons of Ronkonkoma and Wine Services Inc. of Riverhead, plan to develop an 80-acre industrial park in Yaphank. The park could contain a maximum of 600,000 square feet. . . . The First Priority Group Inc. (Nasdaq: FPGP) of Plainview reported earnings of about  $100,000 for the third quarter on sales of $3.9 million, bettering its original profit estimate. By contrast, the company lost $215,000 in the same period last year on sales of $2.7 million. First Priority offers fleet management services and wholesale insurance products.</p>
+        <p>E-mail: libiz@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: libiz@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

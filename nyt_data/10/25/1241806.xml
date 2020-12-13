@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SECURE MUSIC MAY NOT BE, YET</title>
+    <meta content="MB003204" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1241806"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY BRIEFING: SOFTWARE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Codes (Ciphers)</classifier>
+        <classifier class="indexing_service" type="descriptor">Contests and Prizes</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings (Audio)</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <org class="indexing_service">Princeton University</org>
+        <org class="indexing_service">Rice University</org>
+        <org class="indexing_service">Xerox Corp</org>
+        <org class="indexing_service">Secure Digital Music Initiative</org>
+        <person class="indexing_service">Richtel, Matt</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Codes (Ciphers)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Contests and Prizes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001025T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE3DA1231F936A15753C1A9669C8B63" item-length="149" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SECURE MUSIC MAY NOT BE, YET</hl1>
+      </hedline>
+      <byline class="print_byline">By Matt Richtel</byline>
+      <byline class="normalized_byline">Richtel, Matt</byline>
+      <abstract>
+        <p>Researchers at Princeton and Rice universities and Xerox Parc say they hacked into several Secure Digital Music Initiative's proposed technologies, designed to encode music so it cannot be pirated over Internet; hackers' efforts come as part of contest sponsored by Secure Digital Music Initiative, which is made up of 200 record, consumer electronics and technology companies, to test security of proposed technologies (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Researchers this week said they had hacked into several of the Secure Digital Music Initiative's proposed technologies, which are designed to encode music so it cannot be pirated over the Internet. Researchers at Princeton and Rice universities and Xerox Parc claimed to have defeated four of the six technologies. But initiative officials said they had yet to verify the researchers' claims. The hackers' efforts came as part of a contest sponsored by the Secure Digital Music Initiative, which is made up of 200 record, consumer electronics and technology companies, to test the security of the proposed technologies. The contest, which offers an award of $10,000, has drawn 447 entries.</p>
+        <p>Matt Richtel</p>
+      </block>
+      <block class="full_text">
+        <p>Researchers this week said they had hacked into several of the Secure Digital Music Initiative's proposed technologies, which are designed to encode music so it cannot be pirated over the Internet. Researchers at Princeton and Rice universities and Xerox Parc claimed to have defeated four of the six technologies. But initiative officials said they had yet to verify the researchers' claims. The hackers' efforts came as part of a contest sponsored by the Secure Digital Music Initiative, which is made up of 200 record, consumer electronics and technology companies, to test the security of the proposed technologies. The contest, which offers an award of $10,000, has drawn 447 entries.</p>
+        <p>Matt Richtel</p>
+        <p>TECHNOLOGY BRIEFING: SOFTWARE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

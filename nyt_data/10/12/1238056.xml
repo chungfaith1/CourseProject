@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fighting Back Against Spam</title>
+    <meta content="12ASKK" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/12/technology/12ASKK.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1238056"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001012T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E0DE1E3CF931A25753C1A9669C8B63" item-length="403" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fighting Back Against Spam</hl1>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. Is there anything I can do to stop getting so much junk e-mail?</p>
+        <p>A. Avoiding all spam might be difficult, but there are a number of things you can do to fight back. Although it can be a bit technical for the new user, the Stop Spam FAQ page on the Web (www.mall-net.com /spamfaq.html) provides a thorough background on spam and ways to find out its source. The page also has links to many other spam-fighting information sites. The Network Abuse Clearinghouse page (www.abuse.net) also has a section devoted to spam-fighting tools. The Coalition Against Unsolicited Commercial Email (www.cauce.org) has links to spam-fighting groups and a page devoted to legislative measures past and present.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. Is there anything I can do to stop getting so much junk e-mail?</p>
+        <p>A. Avoiding all spam might be difficult, but there are a number of things you can do to fight back. Although it can be a bit technical for the new user, the Stop Spam FAQ page on the Web (www.mall-net.com /spamfaq.html) provides a thorough background on spam and ways to find out its source. The page also has links to many other spam-fighting information sites. The Network Abuse Clearinghouse page (www.abuse.net) also has a section devoted to spam-fighting tools. The Coalition Against Unsolicited Commercial Email (www.cauce.org) has links to spam-fighting groups and a page devoted to legislative measures past and present.</p>
+        <p>Many e-mail programs will let users filter incoming messages, and America Online will allow its customers to block as much e-mail as they like.</p>
+        <p>Once you use your e-mail address publicly on the Internet, your chances of getting spam greatly increase. The people who send junk mail often use programs that search the Net for e-mail addresses to compile a bulk-mailing list. Some junk-mail messages have a legitimate address in the message text for you to request the removal of your name from the list, but simply hitting the Reply button usually doesn't work and often just confirms your address for the spammer.</p>
+        <p>Many users swamped by spam have resorted to getting free Web-based e-mail accounts or extra screen names just to use for filling out forms and for posting in Usenet newsgroups or other places where spammers collect addresses. That way, at least some of the spam ends up someplace other than the recipient's home or office In box.</p>
+        <p>If you want to fight back directly, you can report spam messages to the Spam Cop site (spamcop.net). If you paste a spam message into a form on the SpamCop page, the site will trace the message back to its mailer and send a complaint letter in your name to the spammer's I.S.P. SpamCop also offers other services for a spam-free life.</p>
+        <p>Commercial antispam software like SpamKiller (www.spamkiller.com) and Spam Buster (www.contactplus.com) might also help reduce the spam in your In box. Some antispam software can even let you screen out junk mail that was routed through mail servers in other countries on its way to you.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

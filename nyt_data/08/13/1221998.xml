@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Children's Books</title>
+    <meta content="RV102120" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1221998"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Frederick, Heather Vogel</person>
+        <person class="indexing_service">Fox, Mem</person>
+        <person class="indexing_service">Frazee, Marla</person>
+        <object.title class="indexing_service">Harriet, You'll Drive Me Wild! (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Columns/Children's Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000813T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E5D9143CF930A2575BC0A9669C8B63" item-length="344" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Children's Books</hl1>
+      </hedline>
+      <byline class="print_byline">By Heather Vogel Frederick</byline>
+      <byline class="normalized_byline">Frederick, Heather Vogel</byline>
+      <abstract>
+        <p>Heather Vogel Frederick reviews book Harriet, You'll Drive Me Wild! by Mem Fox, illustrated by Marla Frazee (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HARRIET, YOU'LL DRIVE ME WILD!</p>
+        <p>By Mem Fox.</p>
+        <p>Illustrated by Marla Frazee.</p>
+        <p>Harcourt, $16.</p>
+        <p>(Ages 3 to 7)</p>
+      </block>
+      <block class="full_text">
+        <p>HARRIET, YOU'LL DRIVE ME WILD!</p>
+        <p>By Mem Fox.</p>
+        <p>Illustrated by Marla Frazee.</p>
+        <p>Harcourt, $16.</p>
+        <p>(Ages 3 to 7)</p>
+        <p>Mem Fox, the Australian author of ''Time for Bed,'' applies her considerable skills to the small-scale domestic canvas of parental frustration in this tale of a pesky child and her stretched- to-the-limits mother. Harriet Harris isn't intentionally naughty, but as she careers from one disaster to another -- knocking over her juice, dribbling paint on the carpet, pulling the tablecloth and all that's on it to the floor -- her mother's exasperation escalates.</p>
+        <p>Harriet's apologies are sincere and her mother is averse to yelling, but it's clear by her responses to the child (which Fox charts in a poetically cumulative ''House That Jack Built'' manner) that a storm is brewing. From a measured ''Harriet, my darling child'' after the first episode, she builds to ''Harriet, my darling child. Harriet, you'll drive me wild. Harriet, sweetheart, what are we to do? Harriet Harris, I'm talking to you.''</p>
+        <p>The ultimate detonation finally occurs after a particularly messy episode with the contents of a feather pillow. ''Then Harriet's mother began to yell. She yelled and yelled and yelled.'' It's a familiar scenario that should resonate with chagrined parents as well as toddlers, who will find the sweet conclusion (hugs and apologies on both sides as mother and child tidy up together) particularly reassuring.</p>
+        <p>As always, Fox writes with a light touch, going straight to the heart of preschool concerns with affection and wit, while her impeccable timing and repetitive phrases ensure a prime read-aloud experience. Marla Frazee's delicate illustrations broaden the inherent humor in the tale as she depicts the impish Harriet's innocent misrule in a series of color-washed vignettes. Whether seated bottom-up at the breakfast table, feeding jam to her dog with a spoon or standing guilt-stricken amid a blizzard of pillow feathers, the Harriet she envisions is a thoroughly engaging character, one whose acquaintance readers will be delighted to make.</p>
+        <p>Heather Vogel Frederick</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

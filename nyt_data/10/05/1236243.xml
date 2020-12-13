@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="05INSI$04" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20001006T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1236243"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001005T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E1D61F3DF936A35753C1A9669C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mexico Deports Cuban  A consul at the Cuban Embassy in Mexico City -- a longtime intelligence official who sought political refuge in Mexico -- has been arrested and sent home.</p>
+        <p>PAGE A15</p>
+        <p>Legal Debate on Drug Tests  The Supreme Court heard arguments about the arrest on drug charges of 10 South Carolina women after a hospital tested the urine of maternity patients.</p>
+        <p>PAGE A26</p>
+      </block>
+      <block class="full_text">
+        <p>Mexico Deports Cuban  A consul at the Cuban Embassy in Mexico City -- a longtime intelligence official who sought political refuge in Mexico -- has been arrested and sent home.</p>
+        <p>PAGE A15</p>
+        <p>Legal Debate on Drug Tests  The Supreme Court heard arguments about the arrest on drug charges of 10 South Carolina women after a hospital tested the urine of maternity patients.</p>
+        <p>PAGE A26</p>
+        <p>$60 Million for U.S. Library  The Library of Congress plans to use its largest single donation to bring together scholars and decision-makers on Capitol Hill.</p>
+        <p>PAGE A20</p>
+        <p>Correction:  October 6, 2000, Friday  A front-page contents entry yesterday about a Cuban intelligence official who was seeking refuge in Mexico misstated his relationship to the Cuban Embassy in Mexico City. He was a consul there from 1986 until 1991, not recently.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: October 6, 2000, Friday</p>
+        <p>A front-page contents entry yesterday about a Cuban intelligence official who was seeking refuge in Mexico misstated his relationship to the Cuban Embassy in Mexico City. He was a consul there from 1986 until 1991, not recently.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

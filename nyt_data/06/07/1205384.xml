@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Onsite Dam Built For a Paper Flood</title>
+    <meta content="07FEEM$07" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="E-Commerce" name="dsk"/>
+    <meta content="36" name="print_page_number"/>
+    <meta content="H" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1205384"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <org class="indexing_service">Food and Drug Administration</org>
+        <org class="indexing_service">enmed inc</org>
+        <person class="indexing_service">feemster, ron</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE2DB1E3DF934A35755C0A9669C8B63" item-length="950" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Onsite Dam Built For a Paper Flood</hl1>
+      </hedline>
+      <byline class="print_byline">By RON FEEMSTER</byline>
+      <byline class="normalized_byline">feemster, ron</byline>
+      <abstract>
+        <p>Drug companies, spurred by Food and Drug Administration plan to accept applications for new drug approvals online by 2002, seek to begin converting paper documentation of clinical trials into electronic archives; shift creates opportunities for application service providers like EnMed Inc, which manage flow of data and documents; financial industries are also turning to application service providers as state and federal regulations increase pressure to keep track of e-mail messages and electronic data (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHEN Mallinckrodt Inc., a St. Louis health care company, sought Food and Drug Administration approval for a diagnostic medical dye in 1998, it had to submit 198 volumes documenting its clinical tests -- in duplicate. Each book was two to three inches thick, and the company needed a truck to haul them to Washington.</p>
+        <p>The F.D.A. wants to dispense with all that paper by 2002. The agency plans to accept applications for new drug approvals online. Because the clinical-testing phase of new treatments can last for years, companies like Mallinckrodt are eager to convert paper documentation trails into electronic archives.</p>
+      </block>
+      <block class="full_text">
+        <p>WHEN Mallinckrodt Inc., a St. Louis health care company, sought Food and Drug Administration approval for a diagnostic medical dye in 1998, it had to submit 198 volumes documenting its clinical tests -- in duplicate. Each book was two to three inches thick, and the company needed a truck to haul them to Washington.</p>
+        <p>The F.D.A. wants to dispense with all that paper by 2002. The agency plans to accept applications for new drug approvals online. Because the clinical-testing phase of new treatments can last for years, companies like Mallinckrodt are eager to convert paper documentation trails into electronic archives.</p>
+        <p>''I'm really enthusiastic about this,'' said Dr. Ray Schmelter, the company's senior director of medical affairs. ''As we do more and more tests on more and more patients, we can get buried in our own paper.''</p>
+        <p>But digging out involves some hard decisions. Mallinckrodt can buy software and ask consultants to help customize it to handle a particular set of drug trials. Or the company can rent a Web-based software solution like those offered by EnMed Inc., a Burlington, Mass., company that manages the flow of information and documents from data entry by medical technicians to the transmission of a finished report to the F.D.A.</p>
+        <p>EnMed did not create its software from scratch. It customized the document-management programs of Documentum, a company in Pleasanton, Calif., that also sells software directly to end users.</p>
+        <p>F.D.A. regulations require that every entry in a patient's file, even the correction of a typographical error, be dated. The person who changed the entry must be identified in the file. EnMed assigns each user a password and keeps track of such changes. When the reporting phase begins, it creates links to databases and raw-data entries to help F.D.A. readers move more quickly through the document.</p>
+        <p>''That information is there on paper,'' Dr. Schmelter said. ''But you might have to go from volume to volume to track it.''</p>
+        <p>If Mallinckrodt does enlist EnMed's services, the manufacturer will pay a monthly fee for each individual user. EnMed, whose business model is sometimes referred to as an application service provider, or A.S.P., varies its fees based on user access.</p>
+        <p>''In addition to cutting costs, we want to reduce the clinical cycle time as much as possible,'' Dr. Schmelter said. He sees a future in which clinical report forms will be replaced by online entries, a great advantage when patients are scattered across a large geographical area. ''The Net data can be retrieved in real time instead of sending people to audit the results,'' he said. ''We can clean data as we go.''</p>
+        <p>Financial industries from Wall Street to Main Street face similar issues, particularly as state and federal regulations increase the pressures to keep track of e-mail messages and electronic documents.</p>
+        <p>S.E.C. Regulation 17a-4, for example, requires that brokerage firms keep every communication with each client in an easily accessible, tamper-proof archive for at least three years -- or much longer if a broker leaves the firm. Such communications, which must also be filed with a third party, are increasingly likely to be in the form of e-mail messages.</p>
+        <p>Zantaz.com, of Pleasanton, Calif., has become a third-party archiver for the online trading industry. Capturing, archiving and retrieving the data, however, are only parts of the service.</p>
+        <p>''Zantaz helps us satisfy our compliance requirements,'' said Tom Bevilacqua, a spokesman for E*Trade. ''But maybe as important from a customer-service requirement, being able to quickly recall customer e-mails is a huge value-added feature that we rely upon.''</p>
+        <p>Steve Schank, a Zantaz spokesman, added: ''Some of the cyber documents never really exist. It's just data sent through an HTML page. So we not only archive things you think of as documents -- e-mail, attachments and so on -- but also transactions.''</p>
+        <p>ZANTAZ uses optical storage media known as WORM disks (for Write Once Read Many), which are mentioned in the S.E.C. rules. The company says it ''e-staples'' related documents together and stores everything in a ''digital safe.'' In the near future, Mr. Schank contended, individual consumers might rent space in a digital safe in addition to keeping a safe-deposit box.</p>
+        <p>Banks and credit unions have been scanning and digitizing documents for years to reduce their paper archives. Unlike the securities and pharmaceutical industries, however, they can't quite do without paper yet.</p>
+        <p>''For binding legal documents, signatures still need to be made on paper,'' said Diane Latine, the director of optical services at United Datatronics Inc., based in Tallahassee, Fla. United Datatronics uses software by OTG, in Bethesda, Md., to provide records-management services to five local credit unions.</p>
+        <p>But when the binding digital signature arrives, Ms. Latine says, paper may be history. Once a loan document has been created, it is digitized and stored in a ''jukebox'' of CD's. The loan officers who deal with customers after the initial paperwork is completed can call up the digital copy without leaving their desks.</p>
+        <p>Regulations allow records of paid-off loans to be destroyed after five or six years. The real backlog of paper is in mortgages, which stay active for 30 years or more. ''We've scanned one million documents for our clients since 1996,'' Ms. Latine said. ''And one of our credit unions has barely touched its loan portfolio.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

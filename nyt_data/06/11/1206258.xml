@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>On Guard</title>
+    <meta content="LTR080412" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1206258"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOKS AND LITERATURE</classifier>
+        <person class="indexing_service">Bell, Malcolm</person>
+        <person class="indexing_service">Bergner, Daniel</person>
+        <person class="indexing_service">Conover, Ted</person>
+        <object.title class="indexing_service">Newjack (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E3D6123CF932A25755C0A9669C8B63" item-length="182" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>On Guard</hl1>
+      </hedline>
+      <abstract>
+        <p>Malcolm Bell letter disputes contention in Daniel Bergner's May 14 review of Ted Conover's book Newjack that Conover should have probed characters of Sing Sing prisoners and other guards$</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In his review of ''Newjack'' (May 14), Ted Conover's account of his year as a guard inside Sing Sing prison, Daniel Bergner says that ''it is hard to imagine any journalist doing this more daringly or effectively.'' Yet he complains that Conover ''fails to take us inside the characters'' of prisoners and other guards. But doing that would have meant asking questions. Questions might well have got him hurt and wrecked his enterprise. Let an author who isn't working there ask the questions.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In his review of ''Newjack'' (May 14), Ted Conover's account of his year as a guard inside Sing Sing prison, Daniel Bergner says that ''it is hard to imagine any journalist doing this more daringly or effectively.'' Yet he complains that Conover ''fails to take us inside the characters'' of prisoners and other guards. But doing that would have meant asking questions. Questions might well have got him hurt and wrecked his enterprise. Let an author who isn't working there ask the questions.</p>
+        <p>Thanks largely to public indifference and parsimony, Sing Sing and many other prisons disgrace our nation. Demagogues persuade us to be both mindlessly ''tough on crime'' and too shortsighted to see that brutalizing prisoners (instead of, say, educating them) increases the likelihood that they will brutalize us when they get out. Conover has performed a needed service by bringing these matters so vividly to public attention. Whether the public responds is, as usual, up to us.</p>
+        <p>Malcolm Bell  Weston, Vt.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

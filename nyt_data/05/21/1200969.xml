@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BOOKS IN BRIEF: NONFICTION</title>
+    <meta content="RV071120" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200969"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Brown, Janelle</person>
+        <person class="indexing_service">Tarbox, Katherine</person>
+        <object.title class="indexing_service">Katie.Com: My Story (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000521T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06EEDA143BF932A15756C0A9669C8B63" item-length="251" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BOOKS IN BRIEF: NONFICTION</hl1>
+      </hedline>
+      <byline class="print_byline">By Janelle Brown</byline>
+      <byline class="normalized_byline">Brown, Janelle</byline>
+      <abstract>
+        <p>Janelle Brown reviews book Katie.Com: My Story by Katherine Tarbox (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Katie.com</p>
+        <p>My Story.</p>
+        <p>By Katherine Tarbox.</p>
+        <p>Dutton, $19.95.</p>
+      </block>
+      <block class="full_text">
+        <p>Katie.com</p>
+        <p>My Story.</p>
+        <p>By Katherine Tarbox.</p>
+        <p>Dutton, $19.95.</p>
+        <p>Seventeen is a rather precocious age to write your memoir, but in this era of dime-a-dozen confessionals it's not surprising that Katherine Tarbox went ahead and wrote hers anyway. At 13, a lonely Tarbox got involved with a 41-year-old pedophile she met in a chat room on American Online; the resulting mess is now documented for posterity in 200 pages of teenage angst. In fact, Tarbox was lucky. Her long-distance correspondence with Francis John Kufrovich didn't have a particularly gruesome end. Although she did finally meet him in a hotel in Dallas, where she had gone for a swim meet, concerned adults intervened. Tarbox, at her family's insistence, pressed charges and sent Kufrovich to jail. If you're looking for an expose of online sex crimes, this is not that book. ''Katie.com'' concerns itself primarily with the emotional fallout of Tarbox's experiences: the daily trials and tribulations of teenagers -- busy parents, catty friends, body issues. Her youthful self-examination leads to page after page of ruminations like ''I wasn't Katie Tarbox, good girl. I was Katie Tarbox, slut, or idiot, or both.'' Consider the book a testament to the wonders of the modern adolescent.</p>
+        <p>Janelle Brown</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Winning Belgrade</title>
+    <meta content="09X1KOST" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World; Front Page" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1237484"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001009T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E4DD103CF93AA35753C1A9669C8B63" item-length="73" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Winning Belgrade</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Vojislav Kostunica, a constitutional lawyer born into a legal family that had a tradition of opposing the Communists, had always kept his distance from Slobodan Milosevic. It was his unpretentious and somehow normal air that made him a perfect candidate for the presidential election, which became a referendum on Mr. Milosevic himself.</p>
+        <p>Man in the News, Page A6.</p>
+      </block>
+      <block class="full_text">
+        <p>Vojislav Kostunica, a constitutional lawyer born into a legal family that had a tradition of opposing the Communists, had always kept his distance from Slobodan Milosevic. It was his unpretentious and somehow normal air that made him a perfect candidate for the presidential election, which became a referendum on Mr. Milosevic himself.</p>
+        <p>Man in the News, Page A6.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>How Country Fields Offer Inspiration</title>
+    <meta content="24GBOX" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1233095"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="CLIPPINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Gardens and Gardening</classifier>
+        <person class="indexing_service">Ginsburg, Elisabeth</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Gardens</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gardens and Gardening</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000924T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E6DB123BF937A1575AC0A9669C8B63" item-length="208" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>How Country Fields Offer Inspiration</hl1>
+      </hedline>
+      <byline class="print_byline">By ELISABETH GINSBURG</byline>
+      <byline class="normalized_byline">Ginsburg, Elisabeth</byline>
+      <abstract>
+        <p>Article suggests using wildflowers in fall gardens (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If your fall garden seemed uninspiring this year, think about organizing its colors the way Mother Nature does. In the fall, country fields are full of Queen Anne's lace, wild asters and blue chicory, all sprouting cheek by jowl with brilliant yellow goldenrod. Waves of gold make a wondrous backdrop for the starry clumps of blue and white.</p>
+      </block>
+      <block class="full_text">
+        <p>If your fall garden seemed uninspiring this year, think about organizing its colors the way Mother Nature does. In the fall, country fields are full of Queen Anne's lace, wild asters and blue chicory, all sprouting cheek by jowl with brilliant yellow goldenrod. Waves of gold make a wondrous backdrop for the starry clumps of blue and white.</p>
+        <p>Chicory and Queen Anne's lace are too weedy for most gardens, but asters, especially the New England type, are readily available. Plant some white-flowering boltonia (Boltonia asteroides) for contrast. Add goldenrod (Solidago). Contrary to popular belief, it won't make you sneeze. If you have the space, plant the asters, boltonia and goldenrod in swathes. Next year at this time your garden will look like a little piece of the autumn countryside.</p>
+        <p>ELISABETH GINSBURG</p>
+        <p>CLIPPINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fascinatin' Rhythms</title>
+    <meta content="LTR234816" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1214590"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Typewriters and Typewriting</classifier>
+        <person class="indexing_service">steinberg, seth</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Typewriters and Typewriting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Secretaries, Stenographers and Typists</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000713T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E5DA1F38F930A25754C0A9669C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fascinatin' Rhythms</hl1>
+      </hedline>
+      <abstract>
+        <p>Seth Steinberg letter, commenting on June 29 article on use of typing rhythms to validate passwords, notes precedent in World War II</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Now that typing rhythms are being used as a way to validate passwords (''New Encryption Strategy: Typing Rhythm,'' June 29), we should remember that the idea of identifiable typing rhythms is even older than modern computing. According to ''The Codebreakers,'' by David Kahn (Scribner, 1996), the identities of members of the underground working behind Axis lines during World War II were validated by handlers who were familiar with each agent's ''fist,'' the subtle variations in the way each person sent Morse code.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Now that typing rhythms are being used as a way to validate passwords (''New Encryption Strategy: Typing Rhythm,'' June 29), we should remember that the idea of identifiable typing rhythms is even older than modern computing. According to ''The Codebreakers,'' by David Kahn (Scribner, 1996), the identities of members of the underground working behind Axis lines during World War II were validated by handlers who were familiar with each agent's ''fist,'' the subtle variations in the way each person sent Morse code.</p>
+        <p>Of course, this was back before automatic code keys let people using Morse code send a regular pace of dots and dashes as the appropriate key was depressed. That device fought code fatigue but gave one's Morse code a mechanical sound. I suppose a similar device will be developed for those who become tired of repeatedly entering their digital signatures for validation.</p>
+        <p>SETH STEINBERG  Port Angeles, Wash.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

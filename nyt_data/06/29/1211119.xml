@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Search Engine as Cyborg</title>
+    <meta content="29SEAR$03" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211119"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">Google (Internet Search Engine)</org>
+        <org class="indexing_service">Northern Light Technology Llc</org>
+        <person class="indexing_service">Guernsey, Lisa</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000629T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01EFDF1E30F93AA15755C0A9669C8B63" item-length="1922" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Search Engine as Cyborg</hl1>
+      </hedline>
+      <byline class="print_byline">By LISA GUERNSEY</byline>
+      <byline class="normalized_byline">Guernsey, Lisa</byline>
+      <abstract>
+        <p>Web search engines are becoming more dependent on human judgment because computers and software cannot find and index all the new sites in the ever-expanding Web and because they are not yet at the point where they can analyze a Web document and, without any human interference, instantly understand what that document is about; librarians at Northern Light constantly fine-tune their directory structure and come up with names of categories for sorting Web sites; Google and other system may evaluate sites according to how frequently they are visited or the paths by which they are visited; information scientists see danger of human bias and 'tyranny of the majority' in such approaches; photo; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FIVE years ago, search engines seemed like the Web's salvation. Today, they need some saviors of their own.</p>
+        <p>When search engines first appeared, they were hailed for accomplishing two things that could not be done by people on any large scale: Search engines use software agents to find and index sites almost as soon as they appeared. And they could almost instantaneously match a far-flung Web page with a single keyword typed into a beckoning search box.</p>
+      </block>
+      <block class="full_text">
+        <p>FIVE years ago, search engines seemed like the Web's salvation. Today, they need some saviors of their own.</p>
+        <p>When search engines first appeared, they were hailed for accomplishing two things that could not be done by people on any large scale: Search engines use software agents to find and index sites almost as soon as they appeared. And they could almost instantaneously match a far-flung Web page with a single keyword typed into a beckoning search box.</p>
+        <p>But the promise of automation has been tempered by the Web's success. There are now more than one billion Web pages, and according to some experts' calculations, that number has been doubling once every eight months. Keeping up with that growth has been nearly impossible. Last summer a report from the NEC Research Institute, the research division of NEC, a computer company based in Princeton, N.J., chastised search engines for missing thousands of new Web sites and delivering search results littered with outdated links. And at that point, the Web was only half its current size.</p>
+        <p>It is not just the vastness of the Web that is causing problems. Consider the way people search: Typical users enter single keywords, cross their fingers and hit the search buttons. And when they are faced with lists of 1,000 results, they usually click on the first few options instead of refining their searches by adding keywords or trying new terms.</p>
+        <p>The confluence of technological limitations and simple searching methods means that only two kinds of online searchers are well served: those looking for very popular terms and those who are using uncommon words to hunt for specific things. But the majority of searchers, whose requests fall somewhere between, are finding searching as frustrating as ever.</p>
+        <p>To cope, many search engines have concluded that simply indexing more pages is not the answer. Instead, they have decided to rely on the one resource that was once considered a cop-out: human judgment. Search engines have become more like cyborgs, part human, part machine.</p>
+        <p>For information scientists who have spent decades refining computer-based search techniques, that is bad news. Introducing the human touch into search engines also means introducing human biases. What the scientists want is a form of artificial intelligence.</p>
+        <p>But just as robots are not yet cleaning houses, search engines still have far to go before they start reading people's minds. Current computer code is not sophisticated enough to do the job alone, most search-engine founders say.</p>
+        <p>''Nearly everyone is doing a little of both these days,'' said Bill Bliss, general manager of MSN Search.</p>
+        <p>The most popular Web-based search services employ people to do at least some of that mind reading. Rankings from Nielsen/ NetRatings, an Internet research firm, show that Yahoo, a directory created by its employees, is the most popular search service, with nearly 40 million visitors in May.</p>
+        <p>The latest figures from the Internet measurement company Media Metrix also put Yahoo first, with about 63 million visitors.</p>
+        <p>About.com, an online service that does not even attempt to use automated crawlers to seek out new Web sites, has made its way into Media Metrix's top 10 in the past year.</p>
+        <p>Another highly ranked search service is AskJeeves, which prods people to narrow their queries by picking from a list of questions and answers written by the company's employees.</p>
+        <p>Two other search engines that have been gaining a following are Google and Northern Light. A year ago, neither was listed in NetRatings' top 25 rankings. Now they are listed among more established search engines like Alta Vista, Excite and Lycos, which have been tweaking their own systems to include more people power.</p>
+        <p>Both Google and Northern Light rely on computers and software to scan and index the Web, but human judgment is part of the mix. At Google, Web pages that are linked from authoritative Web sites are deemed most relevant. At Northern Light, librarians constantly fine-tune their directory structure and come up with names of categories used for sorting Web sites.</p>
+        <p>Some of what scientists consider the possible pitfalls of human interference were on display at a recent meeting at Northern Light's headquarters in Cambridge, Mass.</p>
+        <p>Eight information specialists sipped coffee around an oblong table, wrestling with the definition of a single two-word phrase: alternative lifestyles.</p>
+        <p>This was not a gossip session about the background of a Northern Light employee, nor was it a digression about the pro-marijuana protesters who were picketing on Boston Common a few days before. Northern Light uses categories displayed online in  folders, categories with titles that are decided upon by people and that are continually being revised.</p>
+        <p>One of those categories was ''alternative lifestyles,'' which, on its face, looked relatively harmless. But the people sitting around the table knew that the category had problems. The category included sites on subjects as divergent as anarchism, college fraternities and baby boomers.</p>
+        <p>As Joyce Ward, the company's vice president for editorial services and the leader of the meeting, pointed out, ''We've got sites on country clubs in that category.''</p>
+        <p>Everyone laughed at the mismatch, but there was little question that ''alternative lifestyles'' was not inclusive enough. If people saw a folder with that title, would they know that links to such a broad array of sites might lie inside?</p>
+        <p>Another title was proposed -- ''cultures and lifestyles'' -- and the conversation moved on to the next debate: Was ''extremist groups'' a fair label for a category? Or would ''fringe groups'' be less loaded? (In the end, ''extremist groups'' won.</p>
+        <p>Now when people conduct a search that retrieves documents about terrorism, for example, they will be likely to see a folder that is labeled ''extremist groups'' appearing on the left side of their screens.)</p>
+        <p>The refinements are Northern Light's way of bringing a touch of human judgment into a machine-driven process. The company uses huge 64-bit computers and text-reading programs to analyze the content of Web pages, figure out their meanings and put them in appropriate categories. Meanwhile, people make editorial decisions about what those categories should be.</p>
+        <p>But Everett H. Brenner, an expert in information retrieval systems, is not convinced that such a system is the best answer.</p>
+        <p>Even with automation, he said, classifications systems are unreliable for serious searchers -- precisely because they rely on human judgments on labeling information.</p>
+        <p>''The fact is that those systems break down,'' he said. ''Your best paper in psychology might be based in a category called religion.'' The further you categorize something, he continued, ''the more information you lose.''</p>
+        <p>David Evans, chief executive of Claritech, an information-management company, dislikes categories for another reason: ''When people do classification,'' he said, ''they are typically biased by what they know and understand.''</p>
+        <p>In the early 1990's, many scientists thought they were close to solving such information retrieval problems. Sophisticated computational techniques, including programs that looked at the structure and semantics of sentences, had been applied to closed databases, like CD-ROM's with abstracts of science articles. And they seemed to work.</p>
+        <p>But they were blessed with one quality that did not seem so crucial at the time: the information within the databases was controlled and uniform.</p>
+        <p>Just a few years later, the Web arrived. Suddenly information management became a very messy proposition. If a database can be compared to a cookbook, the Web includes a never-ending shelf of cookbooks (half of which are missing pages), personal commentary by the cooks, snapshots of the meals in progress and homemade movies of the kitchen sink.</p>
+        <p>''The Web is a completely different environment,'' said Danny Sullivan, editor of SearchEngineWatch.com, ''and so the technology has to change in response to it.''</p>
+        <p>In addition to Northern Light's semi-automatic system, two other techniques are being employed to handle the complexity. One is the approach taken by DirectHit, a search engine that analyzes what people have clicked on during previous searches and gives searchers the most popular results. Search engines like those used for AOL's ICQ software, Lycos and HotBot integrate DirectHit's technology into their own.</p>
+        <p>Google offers a similar approach. Using a patent-pending process of link analysis, Google's technology gives a numerical rank to Web pages based on the number of times those pages are linked from an authoritative Web site. (An authority is a Web site that ranks especially high in Google's rankings.)</p>
+        <p>But most information scientists do not like these techniques either.</p>
+        <p>The problem, they say, is the ''tyranny of the majority.''</p>
+        <p>What if searchers are not interested in finding the most popular document? What if they are trying to find obscure information that is not likely to have been linked from other Web sites?</p>
+        <p>Rich Greenfield, an information specialist at the Library of Congress, put it this way: Search engines that rely on analysis of links and clicks may be making a fatal mistake, especially if people are linking and clicking to Web sites that are not useful after all. They are assuming, he said, ''that the people who know what they are doing outnumber the people who don't.''</p>
+        <p>So scientists continue to strive for the day when a computer will analyze a Web document and, without any human interference, instantly understand what that document is about. Some have been trying to build systems that try to understand the searcher as well, by either analyzing the context in which a query is posed or by offering a few simple prompts, help that person to refine the results.</p>
+        <p>One company, LexiQuest, has created Web-based software that analyzes texts and queries to extract their meaning. Developed by experts in computational linguistics and designed to be integrated into search engines, the program examines the definitions of words and the structure of sentences. It also reads requests that people have asked in natural language.</p>
+        <p>In a recent demonstration, the query ''I want to book a room'' was understood as a search for lodging, while the query ''I want to buy a book'' returned results for online bookstores.</p>
+        <p>But even with the advent of such programs, Greg R. Notess, the editor ofSearch Engine Showdown, an online newsletter, still expects to see cyborg versions of search engines for some time to come.</p>
+        <p>Mr. Notess, a reference librarian at Montana State University, has seen people helping people too many times to imagine that computers can do it better. ''I don't expect, in our lifetimes,'' he said, ''to see machines do it all.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

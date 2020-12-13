@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Response</title>
+    <meta content="LTR022103" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225568"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="SHOSTAKOVICH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Shostakovich, Dmitri (1906-75)</person>
+        <person class="indexing_service">Shostakovich, Irina</person>
+        <person class="indexing_service">Volkov, Solomon</person>
+        <object.title class="indexing_service">Testimony: The Memoris of Dmitri Shostakovich (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000827T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06EFDA1431F934A1575BC0A9669C8B63" item-length="201" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Response</hl1>
+      </hedline>
+      <abstract>
+        <p>Solomon Volkov letter responds to August 20 article by widow Irina Shostakovich, in which she challenges veracity of his book Testimony: The Memoirs of Dmitri Shostakovich (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The New York Times has offered to print a ''brief response'' to the article by Shostakovich's widow, Irina Shostakovich [''An Answer to Those Who Still Abuse Shostakovich,'' Aug. 20], in which she challenges the veracity of the book ''Testimony: The Memoirs of Dmitri Shostakovich,'' which I wrote with the composer. So I will be brief.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The New York Times has offered to print a ''brief response'' to the article by Shostakovich's widow, Irina Shostakovich [''An Answer to Those Who Still Abuse Shostakovich,'' Aug. 20], in which she challenges the veracity of the book ''Testimony: The Memoirs of Dmitri Shostakovich,'' which I wrote with the composer. So I will be brief.</p>
+        <p>Ms. Shostakovich's allegations about my supposedly short relationship with the composer, the limited number of meetings while working on his memoirs, the matter of his signatures and the like are all old hat. They were first aired in 1979 by the K.G.B. general in charge of disinformation, Vasily Sitnikov, in an attempt to discredit the Shostakovich memoirs, then just published.</p>
+        <p>Two photographs of me with the composer visually refute Ms. Shostakovich's claim that Shostakovich ''knew little about'' me, since they cover a nine-year span. In fact, none of the published pictures of me with the composer were made by my wife, as Ms. Shostakovich claims.</p>
+        <p>The purpose of her current attack, which first appeared in the English-language edition of The Moscow News, apparently remains the same. This, sadly, tells a lot about the situation in contemporary Russia.</p>
+        <p>SOLOMON VOLKOV  New York</p>
+        <p>SHOSTAKOVICH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

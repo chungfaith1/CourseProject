@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR020553" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1217881"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Courts</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Women</classifier>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <classifier class="indexing_service" type="descriptor">Judges</classifier>
+        <person class="indexing_service">Clinton, Bill (Pres)</person>
+        <person class="indexing_service">Rawlinson, Johnnie (Judge)</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Courts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Judges</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000726T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE5DD1E3AF935A15754C0A9669C8B63" item-length="85" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of July 22 appointment article: Judge Johnnie Rawlinson is first black woman named to Ninth Circuit United States Appeals Court, not first in any appellate circuit</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Because of an editing error, an article on Saturday about Senate confirmation of appointments made by President Clinton referred incorrectly in some copies to the distinction achieved by Judge Johnnie Rawlinson. She is the first black woman appointed to the United States Court of Appeals for the Ninth Circuit, not the first in any appellate circuit.</p>
+      </block>
+      <block class="full_text">
+        <p>Because of an editing error, an article on Saturday about Senate confirmation of appointments made by President Clinton referred incorrectly in some copies to the distinction achieved by Judge Johnnie Rawlinson. She is the first black woman appointed to the United States Court of Appeals for the Ninth Circuit, not the first in any appellate circuit.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

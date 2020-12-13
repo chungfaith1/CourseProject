@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Problems at Hotmail Service Leave Some Without E-Mail</title>
+    <meta content="15GHOT" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1207461"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <org class="indexing_service">Hotmail.com</org>
+        <org class="indexing_service">Microsoft Corp</org>
+        <person class="indexing_service">Greenman, Catherine</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E0DF103EF936A25755C0A9669C8B63" item-length="300" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Problems at Hotmail Service Leave Some Without E-Mail</hl1>
+      </hedline>
+      <byline class="print_byline">By CATHERINE GREENMAN</byline>
+      <byline class="normalized_byline">Greenman, Catherine</byline>
+      <abstract>
+        <p>Microsoft reports problems with Hotmail site have hindered some subscribers from getting E-mail (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Some users of Hotmail, the free Web-based e-mail service from Microsoft, have been unable to get access to their accounts since last week. A Microsoft spokeswoman, Jessica Dobberstein, said the problem had occurred during  routine maintenance on a server.</p>
+        <p>Ms. Dobberstein did not specify the exact number of people affected but said that fewer than 1 percent of the 67 million Hotmail subscribers had lost service. She said users seemed to have been affected randomly, regardless of where they live or the status of their accounts.</p>
+      </block>
+      <block class="full_text">
+        <p>Some users of Hotmail, the free Web-based e-mail service from Microsoft, have been unable to get access to their accounts since last week. A Microsoft spokeswoman, Jessica Dobberstein, said the problem had occurred during  routine maintenance on a server.</p>
+        <p>Ms. Dobberstein did not specify the exact number of people affected but said that fewer than 1 percent of the 67 million Hotmail subscribers had lost service. She said users seemed to have been affected randomly, regardless of where they live or the status of their accounts.</p>
+        <p>Although the lack of e-mail is not as catastrophic as a virus or a computer crash, it was a nuisance to some people, like George Musser, a magazine editor in New York. Mr. Musser sent invitations for a party via e-mail last Friday and was puzzled when he did not receive any responses. The recipients had not received the invitations, and he ended up having to send them again from work. ''When there were server problems in the past, you'd see an announcement at the Hotmail site,'' Mr. Musser said. ''This time there was no information.''</p>
+        <p>Ms. Dobberstein said Microsoft would be posting an announcement on the Hotmail home page and was working to correct the problem.</p>
+        <p>Greg Tally, associate editor at Boardwatch magazine, a trade magazine for Internet service providers, said problems with Web-based e-mail systems were not unexpected. ''It's a terribly complex industry with many features, so a company is bound to have problems from time to time, either through human or mechanical error,'' Mr. Tally said.</p>
+        <p>CATHERINE GREENMAN</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

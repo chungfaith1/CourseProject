@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV104226" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1236849"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Hansen, Suzy</person>
+        <person class="indexing_service">Unger, Nancy C</person>
+        <person class="indexing_service">La Follette, Bob (1855-1925)</person>
+        <object.title class="indexing_service">Fighting Bob La Follette: The Righteous Reformer (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001008T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E5DB163DF93BA35753C1A9669C8B63" item-length="281" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Suzy Hansen</byline>
+      <byline class="normalized_byline">Hansen, Suzy</byline>
+      <abstract>
+        <p>Suzy Hansen reviews book Fighting Bob La Follette: The Righteous Reformer by Nancy C Unger (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Fighting Bob La Follette</p>
+        <p>The Righteous Reformer.</p>
+        <p>By Nancy C. Unger.</p>
+        <p>University of North Carolina, $39.95.</p>
+      </block>
+      <block class="full_text">
+        <p>Fighting Bob La Follette</p>
+        <p>The Righteous Reformer.</p>
+        <p>By Nancy C. Unger.</p>
+        <p>University of North Carolina, $39.95.</p>
+        <p>''La Follette without oratory is like Beethoven without music,'' Nancy C. Unger writes in ''Fighting Bob La Follette: The Righteous Reformer,'' her biography of the fiery Wisconsin progressive who, at various times, served as district attorney, congressman, governor, and senator. Born in 1855, young La Follette grew up idealizing his virtuous father, who had died before his birth, and resenting his abusive, unjust stepfather. Unger, who teaches history at Santa Clara University, plausibly suggests that La Follette's impressions of both men inspired his personal life and political career with a strict sense of right and wrong. He ignited the Progressive movement and fought tirelessly against corrupt corporations and machine politics to secure the ''rights of the many over those of the powerful few.'' His lifelong efforts were notable: he supported the eight-hour day for railroad workers, lobbied for popular election of senators and introduced the La Follette seaman's bill, which, after its enactment in 1913, ''ended the virtual enslavement of sailors.'' He and his dynamic wife, Belle, were also outspoken advocates for women, blacks and American Indians. Yet La Follette's exhausting and often self-righteous efforts left him mysteriously ill, mentally exhausted and, at times, angry and bitter. He died the year after receiving an impressive 17 percent of the vote as the Progressive Party candidate in the 1924 presidential election. Unger's voice remains subdued and objective throughout the book, but La Follette manages to leap from its pages.</p>
+        <p>Suzy Hansen</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Suffolk Chardonnays</title>
+    <meta content="13VINE$20" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1222146"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WINE UNDER $20"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Alcoholic Beverages</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Wines</classifier>
+        <location class="indexing_service">Suffolk County (NY)</location>
+        <person class="indexing_service">Goldberg, Howard G</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Wine Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcoholic Beverages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000813T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E2DD173FF930A2575BC0A9669C8B63" item-length="326" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Suffolk Chardonnays</hl1>
+      </hedline>
+      <byline class="print_byline">By HOWARD G. GOLDBERG</byline>
+      <byline class="normalized_byline">Goldberg, Howard G</byline>
+      <abstract>
+        <p>Howard Goldberg reviews chardonnay wines from Suffolk County, Long Island; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A truly metropolitan appreciation of the panorama of American wines requires experience in Long Island's reds and whites.</p>
+        <p>The East End, home to 25 producers, is, in the view of many experts, the most exciting and innovative wine region east of the Mississippi. (The Finger Lakes of New York is the closest contender, with Virginia next.)</p>
+      </block>
+      <block class="full_text">
+        <p>A truly metropolitan appreciation of the panorama of American wines requires experience in Long Island's reds and whites.</p>
+        <p>The East End, home to 25 producers, is, in the view of many experts, the most exciting and innovative wine region east of the Mississippi. (The Finger Lakes of New York is the closest contender, with Virginia next.)</p>
+        <p>In her wisdom, Mother Nature designed the North and South Forks, which jut into the Atlantic, as a stylized lobster claw so that this landfall could ultimately symbolize a metier of the East End wine industry: whites that go sensibly with fish and seafood.</p>
+        <p>Many Suffolk County chardonnays, unlike ripe, dense, oaky California counterparts, are made in a textbook Northeastern -- some say Burgundian -- style: lean, crisp, lightly fruity.</p>
+        <p>These chardonnays, which tend to be partly or wholly reared in stainless steel, are fairly simple and are versatile with surf cuisine. The fully barrel-fermented ones, less so, though when buttery from secondary (malolactic) fermentation they can match lobsters with drawn butter and fish in butter sauce nicely.</p>
+        <p>In addition, spiffy sauvignon blanc, pinot blanc and, recently, viognier have been making headway.</p>
+        <p>Most Long Island wines are sold at home, but they have been gradually expanding into New York City's Darwinian market and into Westchester.</p>
+        <p>Among superior producers to look for are Pellegrini, Paumanok, Lenz, Wolffer (Sagpond Vineyards), Gristina, Corey Creek, Schneider, Bedell, Macari and Palmer. Pindar's bottlings have enormous populist appeal.</p>
+        <p>Westchester stores that carry Long Island wines include Aries, 128 West Post Road, White Plains, and Rockwood &amp; Perry, 541 Warburton Avenue, Hastings-on-Hudson.</p>
+        <p>Warm weather excursions to the wineries can be rewarding. The wineries accept credit cards and ship inside New York State.</p>
+        <p>HOWARD G. GOLDBERG</p>
+        <p>WINE UNDER $20</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

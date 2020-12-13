@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Smart Set</title>
+    <meta content="LTR072919" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Science; Education; Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212155"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">EDUCATION AND SCHOOLS</classifier>
+        <classifier class="indexing_service" type="descriptor">SCIENCE AND TECHNOLOGY</classifier>
+        <person class="indexing_service">Levy, Mark</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E7DA1130F931A35754C0A9669C8B63" item-length="93" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Smart Set</hl1>
+      </hedline>
+      <abstract>
+        <p>Patent attorney Mark Levy letter holds photo of Rube Goldberg cereal-preparation apparatus should have been included in June 4 article on young scientists at Midwood High /// 55 NYT 07 02 00 0006 00008 4 38 I LR 975044 THE SMART SET***Patent attorney Mark Levy holds photo of Rube Goldberg cereal-preparation apparatus should have been included in June 4 article on young scientists at Midwood High0</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After reading your provocative description of the Rube Goldberg cereal-preparation apparatus, ''Breakfast for One,'' my fellow patent attorneys and I shall never forgive you for neglecting to include a photograph of the inventors' prototype.</p>
+        <p>Mark Levy  Binghamton, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>After reading your provocative description of the Rube Goldberg cereal-preparation apparatus, ''Breakfast for One,'' my fellow patent attorneys and I shall never forgive you for neglecting to include a photograph of the inventors' prototype.</p>
+        <p>Mark Levy  Binghamton, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

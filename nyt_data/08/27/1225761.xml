@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Buy Low, Sell High, in Decimals</title>
+    <meta content="27SUN2$01" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/08/27/opinion/27SUN2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1225761"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <org class="indexing_service">New York Stock Exchange</org>
+        <org class="indexing_service">Securities and Exchange Commission</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000827T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E3D81331F934A1575BC0A9669C8B63" item-length="448" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Buy Low, Sell High, in Decimals</hl1>
+      </hedline>
+      <abstract>
+        <p>Editorial says New York Stock Exchange's decision to begin listing share values as decimals should prove beneficial to consumers and will help American markets remain globally competitive (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ever since 24 brokers signed an agreement to trade with one another beneath a buttonwood tree outside 68 Wall Street in 1792, the New York Stock Exchange has quoted all stock prices in fractions. Tomorrow, that will change.</p>
+        <p>In a move that should prove beneficial to consumers, the NYSE is going decimal. This week, seven of its listed companies will be quoted in actual dollars and cents, the same way groceries are priced. A second wave of 52 companies will be switched over in late September. The American Stock Exchange is starting its own trial with six issues. The Securities and Exchange Commission has required that all United States stocks be traded in decimals by next April. No longer will investors have to scratch their heads while figuring out how much they have made when their stocks rise in value from, say, 173 16  to 17 5/8.</p>
+      </block>
+      <block class="full_text">
+        <p>Ever since 24 brokers signed an agreement to trade with one another beneath a buttonwood tree outside 68 Wall Street in 1792, the New York Stock Exchange has quoted all stock prices in fractions. Tomorrow, that will change.</p>
+        <p>In a move that should prove beneficial to consumers, the NYSE is going decimal. This week, seven of its listed companies will be quoted in actual dollars and cents, the same way groceries are priced. A second wave of 52 companies will be switched over in late September. The American Stock Exchange is starting its own trial with six issues. The Securities and Exchange Commission has required that all United States stocks be traded in decimals by next April. No longer will investors have to scratch their heads while figuring out how much they have made when their stocks rise in value from, say, 173 16  to 17 5/8.</p>
+        <p>The move to dollars-and-cents pricing should help further demystify the stock market in  the public eye. This newspaper's business section, as of last week, provides stock quotes in decimals. Many brokerage firms have also made the decimal transition in the statements sent to customers.</p>
+        <p>Most commodities were once priced in fractions, reflecting the influence of the Spanish empire on global trade in the 17th century. Spanish coins were hammered into eighths, and ''pieces of eight'' were a form of global currency. The convention stuck in financial markets, long after the sun had set on the Spanish empire. But it stuck longest in the United States. All other major financial markets have gone decimal.</p>
+        <p>Wall Street has not been eager to give up its cherished fractions. The market's middlemen make their living on the spread, the difference between a stock's best bid and ask price. Because NYSE stocks move in sixteenths, the narrowest possible spread on a NYSE stock is 6.25 cents, or one-sixteenth of a dollar. With prices in dollars and cents, buyers and sellers can presumably set spreads lower than that.</p>
+        <p>The S.E.C.-mandated shift to decimals poses a challenge to the industry's computing power, explaining the need for a gradual transition. But in this era of peripatetic capital, the shift will help American markets remain globally competitive.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

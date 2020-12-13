@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Business Principles</title>
+    <meta content="L25COR$01" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/25/opinion/L25COR.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1241683"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Executives and Management</classifier>
+        <classifier class="indexing_service" type="descriptor">Ethics</classifier>
+        <org class="indexing_service">General Motors Corp</org>
+        <person class="indexing_service">Pearce, Harry J</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ethics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001025T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E0DC1531F936A15753C1A9669C8B63" item-length="173" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Business Principles</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Harry J Pearce (General Motors) on importance of corporate ethics to his company (Oct 18 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Getting Religion on Corporate Ethics'' (Business Day, Oct. 18):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Getting Religion on Corporate Ethics'' (Business Day, Oct. 18):</p>
+        <p>Many corporations have applied the ethical principles you mention for many years. General Motors considers corporate ethics integral to its operations worldwide -- from community involvement to employee relations.</p>
+        <p>G.M.'s current code of conduct has its roots in the original code established in the 1970's; G.M.'s environmental principles were formally adopted in 1991. G.M. endorsed the Coalition for Environmentally Responsible Economies Principles in 1994 and the Global Sullivan Principles in 1999.</p>
+        <p>G.M.'s report on economic, environmental and social performance for 1999-2000 represents G.M.'s seventh consecutive public accounting.</p>
+        <p>HARRY J. PEARCE  Vice Chairman, General Motors  Detroit, Oct. 23, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

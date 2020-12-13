@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Spessi</title>
+    <meta content="RV010329" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="38" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1242330"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="ART IN REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Photography</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Spessi (Sigutor Hallbjornsson)</person>
+        <person class="indexing_service">Cotter, Holland</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001027T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E1DA1E31F934A15753C1A9669C8B63" item-length="279" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Spessi</hl1>
+      </hedline>
+      <byline class="print_byline">By HOLLAND COTTER</byline>
+      <byline class="normalized_byline">Cotter, Holland</byline>
+      <abstract>
+        <p>Holland Cotter reviews work of Icelandic photographer Spessi (Sigutor Hallbjornsson), at Roebling Hall (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>'Bensin'  Roebling Hall  390 Wythe Avenue  Williamsburg, Brooklyn  Through Nov. 6</p>
+        <p>Spessi is the professional name of the Icelandic photographer Sigutor Hallbjornsson, who is making his first United States appearance with this exhibition. A small catalog prepared by the gallery indicates that he has done extensive work in portraiture, and this is a portrait show, of sorts, though the subjects are buildings: specifically, gas stations in Iceland. (Bensin is the Icelandic word for gasoline.)</p>
+      </block>
+      <block class="full_text">
+        <p>'Bensin'  Roebling Hall  390 Wythe Avenue  Williamsburg, Brooklyn  Through Nov. 6</p>
+        <p>Spessi is the professional name of the Icelandic photographer Sigutor Hallbjornsson, who is making his first United States appearance with this exhibition. A small catalog prepared by the gallery indicates that he has done extensive work in portraiture, and this is a portrait show, of sorts, though the subjects are buildings: specifically, gas stations in Iceland. (Bensin is the Icelandic word for gasoline.)</p>
+        <p>Those in the cities and towns tend to be anonymous-looking neon-lighted quick-stop variety stores, pretty much like their counterparts everywhere. Others in remote areas are often little more than boxlike sheds with a couple of pumps set against icy-looking stretches of sea and volcanic mountains, the country's characteristic terrain.</p>
+        <p>The American artist Ed Ruscha famously used a similar theme in his black-and-white ''26 Gasoline Stations'' series in 1963 to convey a sense of iconic emptiness. Mr. Hallbjornsson's pictures, with their rich colors, have other things going on. Although no people are shown, the distinctive, sociable air of these workaday places, which resemble shelters and shrines, comes across. So does a sense of the relentless reach of global commerce: the one bright feature in even the humblest rural station is the illuminated Shell or Esso logo.</p>
+        <p>HOLLAND COTTER</p>
+        <p>ART IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

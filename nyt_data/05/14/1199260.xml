@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Vieques Island</title>
+    <meta content="LTR013746" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1199260"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <location class="indexing_service">Puerto Rico</location>
+        <location class="indexing_service">Vieques Island (Puerto Rico)</location>
+        <org class="indexing_service">Cafe Blu (Viesques Island, Puerto Rico)</org>
+        <person class="indexing_service">Horn, William B</person>
+        <person class="indexing_service">Dreifus, Claudia</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Puerto Rico</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Puerto Rico/Vieques</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000514T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E4D81E38F937A25756C0A9669C8B63" item-length="68" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Vieques Island</hl1>
+      </hedline>
+      <abstract>
+        <p>William B Horn letter on Claudia Dreifus' April 9 travel article disputes her take on fare and service at Cafe Blu</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: Claudia Dreifus writes that at Cafe Blu she encountered snootery. My experiences on four evenings in January and February were just the opposite.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: Claudia Dreifus writes that at Cafe Blu she encountered snootery. My experiences on four evenings in January and February were just the opposite.</p>
+        <p>As for the pacing of seating times to accommodate the ability of  the small kitchen to deliver excellent food, that is common enough  and certainly better than people waiting unhappily at their tables.</p>
+        <p>WILLIAM B. HORN  Minneapolis</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

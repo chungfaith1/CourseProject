@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR020154" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1214624"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Ships and Shipping</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Smoke Detectors</classifier>
+        <classifier class="indexing_service" type="descriptor">Fires and Firemen</classifier>
+        <classifier class="indexing_service" type="descriptor">Cruises</classifier>
+        <org class="indexing_service">National Transportation Safety Board</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Cruises</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cruises</classifier>
+        <classifier class="online_producer" type="general_descriptor">Smoke Detectors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fires and Firefighters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ships and Shipping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000713T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E7D91F38F930A25754C0A9669C8B63" item-length="112" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>July 12 article about National Transportation Safety Board report on smoke detectors aboard cruise ships misstated industry's position on placement of detectors</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A brief report by The Associated Press yesterday about a National Transportation Safety Board report on smoke detectors aboard cruise ships misstated the industry's position on the placement of detectors. The industry favors the use of smoke detectors in crew and passenger quarters, but wants them to sound an alarm only in a central monitoring location. It is not opposed to detectors in crew and passenger areas.</p>
+      </block>
+      <block class="full_text">
+        <p>A brief report by The Associated Press yesterday about a National Transportation Safety Board report on smoke detectors aboard cruise ships misstated the industry's position on the placement of detectors. The industry favors the use of smoke detectors in crew and passenger quarters, but wants them to sound an alarm only in a central monitoring location. It is not opposed to detectors in crew and passenger areas.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

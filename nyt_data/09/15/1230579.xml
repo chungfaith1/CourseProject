@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DINER'S JOURNAL</title>
+    <meta content="15JOUR" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="38" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/15/living/15JOUR.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1230579"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">Williamsburg (NYC)</location>
+        <org class="indexing_service">Fernicola Osteria (NYC Restaurant)</org>
+        <person class="indexing_service">Grimes, William</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Diner's Journal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000915T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E3DF1538F936A2575AC0A9669C8B63" item-length="350" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DINER'S JOURNAL</hl1>
+      </hedline>
+      <byline class="print_byline">By William Grimes</byline>
+      <byline class="normalized_byline">Grimes, William</byline>
+      <abstract>
+        <p>William Grimes Diner's Journal review of Fernicola Osteria, new-wave Italian restaurant on the East River in Williamsburg, Brooklyn; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Strange things happen on Williamsburg's northern fringes. For a brief, shining moment last year, the Southside neighborhood brought forth Crisci, a wildly ambitious, very promising restaurant that reverted to its Italian red-sauce roots within a matter of weeks. Now, hard by the East River, Fernicola Osteria is giving new wave Italian cuisine a showcase.</p>
+        <p>The surroundings feel old wave. The building, a former warehouse, has exposed brick walls and brick archways. A bar and a television set in the front room suggest a neighborhood joint, as does the old wooden sideboard laden with grilled vegetables, frittatas and assorted antipasti.</p>
+      </block>
+      <block class="full_text">
+        <p>Strange things happen on Williamsburg's northern fringes. For a brief, shining moment last year, the Southside neighborhood brought forth Crisci, a wildly ambitious, very promising restaurant that reverted to its Italian red-sauce roots within a matter of weeks. Now, hard by the East River, Fernicola Osteria is giving new wave Italian cuisine a showcase.</p>
+        <p>The surroundings feel old wave. The building, a former warehouse, has exposed brick walls and brick archways. A bar and a television set in the front room suggest a neighborhood joint, as does the old wooden sideboard laden with grilled vegetables, frittatas and assorted antipasti.</p>
+        <p>The menu offers quite a few surprises, however, like vermouth-steamed halibut with Anaheim peppers and sopressata, whitebait fried with citrus aioli, and squid seared with chilies and served with prosciutto and figs. Grilled octopus, with a good, smoky crust, comes in a sharp, vinegary Tuscan bread salad. Tomato and mozzarella salad with basil, an old warhorse, looks new here, stacked in neat alternating rounds. Lamb osso bucco is served with barley risotto flavored with saffron, and striped bass, flavored with lemon thyme, takes a peculiar turn with an accompaniment of fennel, olives and dates. Barbara Bogart, formerly at Mesa Grill and TriBeCa Grill, walks an edge.</p>
+        <p>Even the pastas veer off the beaten path. Squid-ink pasta does not normally find itself sitting under amatriciana sauce, but here it does. Carbonara sauce gets a spicier interpretation with the substitution of sopressata for pancetta. Shrimp risotto is paired with tomato fondue and enormous cerignola olives.</p>
+        <p>The dessert menu avoids tiramisu in favor of dishes like grappa-infused panna cotta with raspberries, and peach bruschetta served with peach lavender gelato. The restaurant also offers something no Manhattan restaurant can: an unobstructed view of the Manhattan skyline.</p>
+        <p>Fernicola Osteria, 119 Kent Avenue, at North Seventh Street, Williamsburg, Brooklyn; (718) 388-9000. Dinner entrees, $14 to $26.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

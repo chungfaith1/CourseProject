@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Flowering Of Summer</title>
+    <meta content="06PART0AE" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1220439"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="EVENING HOURS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Polo</classifier>
+        <classifier class="indexing_service" type="descriptor">Apparel</classifier>
+        <classifier class="indexing_service" type="descriptor">Homeless Persons</classifier>
+        <classifier class="indexing_service" type="descriptor">Philanthropy</classifier>
+        <org class="indexing_service">Dolce &amp; Gabbana</org>
+        <org class="indexing_service">Bridgehampton Polo Club Inc</org>
+        <org class="indexing_service">Soho Partnership</org>
+        <org class="indexing_service">Tribeca Partnership</org>
+        <org class="indexing_service">Assn of Community Emloyment Programs For the Homeless</org>
+        <person class="indexing_service">Cunningham, Bill</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homeless Persons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Philanthropy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000806T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E4DE173CF935A3575BC0A9669C8B63" item-length="443" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Flowering Of Summer</hl1>
+      </hedline>
+      <byline class="print_byline">By Bill Cunningham</byline>
+      <byline class="normalized_byline">Cunningham, Bill</byline>
+      <abstract>
+        <p>Photos of polo match, Dolce &amp; Gabbana fashion show and party at Bridgehampton Polo Club and Sunflower Festival to benefit Assn of Community Employment Programs for Homeless and SoHo and TriBeCa Partnerships (Evening Hours column)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Helping the homeless and thanking music lovers.</p>
+      </block>
+      <block class="full_text">
+        <p>Helping the homeless and thanking music lovers.  EVENING HOURS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Warm and Fuzzy I.S.P.'s</title>
+    <meta content="LTR000205" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1224999"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">hunka, george</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000824T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505EEDB1431F937A1575BC0A9669C8B63" item-length="202" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Warm and Fuzzy I.S.P.'s</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from George Hunka on Aug 17 article on Internet Service Providers</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>One of the pleasures of belonging to a small, tech-minded Internet Service Provider is that the user usually has access to a much wider variety of services than the larger I.S.P.'s offer, like Unix shell access (''In Praise of the Mom-and-Pop I.S.P.,'' Aug. 17). The recent decision by Mindspring to take shell access away from its (formerly Netcom) customers has led to a stampede to the small I.S.P.'s that still offer Telnet access via a command-line interface.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>One of the pleasures of belonging to a small, tech-minded Internet Service Provider is that the user usually has access to a much wider variety of services than the larger I.S.P.'s offer, like Unix shell access (''In Praise of the Mom-and-Pop I.S.P.,'' Aug. 17). The recent decision by Mindspring to take shell access away from its (formerly Netcom) customers has led to a stampede to the small I.S.P.'s that still offer Telnet access via a command-line interface.</p>
+        <p>It would have been nice, in a New York paper, to see some references to local mom-and-pop I.S.P.'s, and New York is a good town for it. One of them, Panix.com, was one of the first companies to offer Internet services to the public. And Bway.net offers a variety of services, including shell access, to its customers. They may be a little more expensive than the ''six months free'' sales campaigns of AOL and MSN -- but then, you get what you pay for, don't you?</p>
+        <p>GEORGE HUNKA  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

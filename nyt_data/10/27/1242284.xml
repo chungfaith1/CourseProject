@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ANDERSEN CONSULTING TO CHANGE NAME</title>
+    <meta content="CN231711" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1242284"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="COMPANY NEWS"/>
+      <identified-content>
+        <org class="indexing_service">Andersen Consulting</org>
+        <org class="indexing_service">Andersen, Arthur, Worldwide</org>
+        <org class="indexing_service">Accenture (Co)</org>
+        <person class="indexing_service">Glater, Jonathan D</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001027T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E6DB1E31F934A15753C1A9669C8B63" item-length="155" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ANDERSEN CONSULTING TO CHANGE NAME</hl1>
+      </hedline>
+      <byline class="print_byline">By Jonathan D. Glater</byline>
+      <byline class="normalized_byline">Glater, Jonathan D</byline>
+      <abstract>
+        <p>Andersen Consulting says it will be known as Accenture beginning in January; new corporate name is required by arbitrator's decision, announced in August, separating consulting company from its parent, tax and auditing firm Arthur Andersen (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Andersen Consulting said yesterday that it would be known as Accenture beginning in January. The new corporate name was required by an arbitrator's decision, announced in August, separating the consulting company from its parent, the tax and auditing firm Arthur Andersen. According to Joe W. Forehand, the chief executive of Andersen Consulting, the company plans to consider a partial public offering of its shares. The new name is part of Andersen's effort to present itself as a professional services company that can carry out the business proposals it presents to clients.</p>
+        <p>Jonathan D. Glater (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Andersen Consulting said yesterday that it would be known as Accenture beginning in January. The new corporate name was required by an arbitrator's decision, announced in August, separating the consulting company from its parent, the tax and auditing firm Arthur Andersen. According to Joe W. Forehand, the chief executive of Andersen Consulting, the company plans to consider a partial public offering of its shares. The new name is part of Andersen's effort to present itself as a professional services company that can carry out the business proposals it presents to clients.</p>
+        <p>Jonathan D. Glater (NYT)</p>
+        <p>COMPANY NEWS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

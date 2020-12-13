@@ -1,0 +1,608 @@
+************** Strength of Prior Test **************
+u = 10
+iteration: 0
+Average Causality Confidence: 0.7620146206354905
+Average Purity: 69.89700043360189
+Top words: 
+s, republican, one, will, new, w, gov, democratic, party, national, 
+s, w, gov, tax, today, t, one, will, debate, republican, 
+s, w, will, t, one, m, gov, texas, even, today, 
+s, w, will, gov, republican, texas, people, one, new, t, 
+s, today, w, debate, gov, one, will, also, republican, debates, 
+s, will, one, new, w, state, people, m, gov, republican, 
+s, texas, w, debate, new, today, gov, t, m, people, 
+
+-----------------------------------------------------
+iteration: 1
+Average Causality Confidence: 0.8082756237415565
+Average Purity: 69.91960032086311
+Top words: 
+s, will, new, w, tax, gov, republican, lieberman, texas, one, 
+s, w, gov, republican, tax, today, one, new, t, republicans, 
+s, will, t, one, security, w, gov, new, social, government, 
+s, w, tax, gov, will, texas, one, republican, plan, state, 
+s, w, debate, gov, republican, one, voters, m, new, policy, 
+s, will, w, one, new, administration, gov, like, republican, policy, 
+s, republican, cheney, one, will, party, w, first, also, national, 
+s, w, gov, will, new, t, voters, percent, debate, can, 
+
+-----------------------------------------------------
+iteration: 2
+Average Causality Confidence: 0.7665039368266126
+Average Purity: 69.9247036768128
+Top words: 
+s, w, percent, gov, plan, tax, speech, voters, will, lieberman, 
+s, w, republican, texas, will, t, gov, m, today, cheney, 
+s, w, texas, people, gov, one, debate, can, today, will, 
+s, w, will, tax, one, new, security, first, social, t, 
+s, w, gov, party, republican, cheney, democratic, will, one, new, 
+s, w, will, one, republican, gov, convention, new, like, m, 
+
+-----------------------------------------------------
+iteration: 3
+Average Causality Confidence: 0.7369197249128656
+Average Purity: 69.95717982552722
+Top words: 
+s, one, w, debate, gov, democratic, new, t, will, people, 
+s, w, gov, republican, texas, debate, percent, one, state, today, 
+s, w, gov, texas, state, one, will, tax, t, debate, 
+s, will, one, texas, w, new, people, t, nader, gov, 
+s, w, republican, one, percent, voters, will, oil, gov, states, 
+s, w, gov, republican, will, m, one, texas, years, like, 
+s, w, one, t, will, people, like, gov, cheney, m, 
+
+-----------------------------------------------------
+iteration: 4
+Average Causality Confidence: 0.7830641206239849
+Average Purity: 69.93175326303775
+Top words: 
+s, w, party, gov, one, new, republican, lieberman, national, will, 
+s, debate, w, new, one, will, people, first, lieberman, gov, 
+s, w, lieberman, gov, texas, democratic, political, m, voters, national, 
+s, w, gov, will, nader, one, time, republicans, party, also, 
+s, gov, will, w, convention, republican, texas, democratic, national, party, 
+s, w, one, debate, gov, people, republican, m, cheney, first, 
+
+-----------------------------------------------------
+u = 50
+iteration: 0
+Average Causality Confidence: 0.7680336725607496
+Average Purity: 69.93471052328623
+Top words: 
+s, w, voters, party, abortion, republican, new, will, texas, percent, 
+s, w, one, republican, gov, m, will, texas, percent, people, 
+s, w, debate, debates, gov, voters, party, will, house, commission, 
+s, w, gov, texas, one, democratic, republican, will, t, time, 
+
+-----------------------------------------------------
+iteration: 1
+Average Causality Confidence: 0.801488374459762
+Average Purity: 69.90247174527588
+Top words: 
+s, w, gov, percent, democratic, texas, nader, new, republican, voters, 
+s, w, gov, cheney, texas, will, republican, new, today, m, 
+s, w, gov, people, texas, republican, also, cheney, new, tax, 
+s, w, nader, will, democratic, gov, voters, t, people, texas, 
+s, new, w, one, m, gov, also, people, republican, democratic, 
+s, w, gov, republican, one, will, party, convention, m, national, 
+s, w, republican, gov, one, political, m, t, can, party, 
+s, w, republican, gov, will, new, lieberman, one, like, voters, 
+s, w, republican, cheney, one, gov, democratic, today, plan, will, 
+s, will, democratic, w, gov, new, republican, tax, time, one, 
+s, will, w, speech, one, gov, lieberman, republican, first, national, 
+
+-----------------------------------------------------
+iteration: 2
+Average Causality Confidence: 0.8075852071129815
+Average Purity: 69.90368428652606
+Top words: 
+s, w, republican, gov, cheney, will, plan, new, one, drug, 
+s, w, tax, one, new, plan, will, t, voters, year, 
+s, w, will, republican, gov, one, new, percent, voters, cheney, 
+s, w, gov, one, texas, tax, new, cheney, also, plan, 
+s, w, gov, republican, percent, party, debate, one, will, texas, 
+s, w, gov, republican, one, convention, national, party, democratic, lieberman, 
+s, will, w, t, tax, people, new, gov, republican, state, 
+s, w, republican, one, gov, new, years, tax, security, plan, 
+
+-----------------------------------------------------
+iteration: 3
+Average Causality Confidence: 0.7030190154707499
+Average Purity: 70.23718214099328
+Top words: 
+s, w, gov, one, new, today, like, republican, people, t, 
+s, w, gov, will, one, cheney, democratic, running, debate, national, 
+
+-----------------------------------------------------
+iteration: 4
+Average Causality Confidence: 0.7737674590205874
+Average Purity: 69.96163829841379
+Top words: 
+s, w, gov, republican, lieberman, democratic, will, people, tax, one, 
+s, w, debate, gov, will, one, republican, percent, voters, people, 
+s, w, gov, will, voters, new, percent, republican, one, also, 
+s, w, republican, gov, one, texas, t, new, will, drug, 
+s, w, one, tax, will, democratic, gov, t, national, state, 
+s, w, gov, will, one, new, texas, tax, can, today, 
+s, w, gov, new, running, voters, one, like, two, will, 
+
+-----------------------------------------------------
+u = 100
+iteration: 0
+Average Causality Confidence: 0.7736558861276985
+Average Purity: 69.90417925034797
+Top words: 
+s, w, will, lieberman, one, democratic, national, republican, gov, today, 
+s, w, one, debate, gov, t, like, also, people, national, 
+s, w, republican, democratic, one, gov, party, will, people, lieberman, 
+s, will, w, gov, republican, social, security, tax, one, new, 
+s, w, one, new, gov, t, republican, like, texas, two, 
+s, will, tax, w, one, gov, t, people, voters, republican, 
+s, debate, gov, will, w, texas, one, republican, democrats, voters, 
+
+-----------------------------------------------------
+iteration: 1
+Average Causality Confidence: 0.6901478205520405
+Average Purity: 70.01625763968588
+Top words: 
+s, w, gov, one, t, people, tax, republican, texas, democratic, 
+s, w, one, gov, debate, republican, new, t, will, tax, 
+s, w, gov, one, percent, debate, will, people, tax, like, 
+s, w, gov, democratic, one, percent, million, republican, new, will, 
+s, w, gov, debate, cheney, t, today, will, party, one, 
+s, w, republican, tax, gov, will, convention, t, one, people, 
+
+-----------------------------------------------------
+iteration: 2
+Average Causality Confidence: 0.7300828779784996
+Average Purity: 70.09054839869142
+Top words: 
+s, w, one, gov, voters, people, plan, national, t, policy, 
+s, w, will, gov, one, also, republican, running, time, national, 
+s, w, tax, new, gov, party, republican, one, plan, last, 
+s, today, one, plan, w, tax, people, will, gov, republican, 
+s, w, tax, gov, will, social, plan, t, state, republican, 
+s, w, will, debate, one, gov, texas, t, first, years, 
+s, w, gov, plan, social, republican, party, will, one, today, 
+
+-----------------------------------------------------
+iteration: 3
+Average Causality Confidence: 0.7716994176227818
+Average Purity: 70.20338707851704
+Top words: 
+s, w, will, gov, bill, republican, debate, political, texas, tax, 
+s, w, gov, republicans, new, debate, plan, one, m, t, 
+s, w, cheney, people, today, tax, new, democratic, national, one, 
+s, gov, republican, w, new, one, party, will, years, t, 
+s, w, gov, one, t, democratic, debate, republican, texas, state, 
+s, w, gov, republican, debate, will, voters, m, one, party, 
+s, tax, will, gov, w, one, people, debate, plan, texas, 
+
+-----------------------------------------------------
+iteration: 4
+Average Causality Confidence: 0.7391854309768856
+Average Purity: 69.92282567676148
+Top words: 
+s, gov, w, republican, one, party, plan, convention, new, texas, 
+s, w, republican, one, people, political, gov, will, convention, voters, 
+s, w, one, gov, democratic, plan, tax, today, party, national, 
+s, w, will, gov, people, republican, one, tax, today, voters, 
+s, years, w, republican, today, cheney, gov, people, government, will, 
+s, w, will, debate, percent, people, new, republican, party, voters, 
+s, w, new, percent, gov, lieberman, will, tax, speech, one, 
+
+-----------------------------------------------------
+u = 500
+iteration: 0
+Average Causality Confidence: 0.7622138403829003
+Average Purity: 70.00788424372128
+Top words: 
+s, w, gov, percent, one, debates, two, will, like, people, 
+s, w, gov, will, republican, tax, m, convention, one, texas, 
+s, tax, w, new, gov, one, m, will, voters, debate, 
+s, w, republican, gov, will, new, t, people, one, debates, 
+s, will, w, gov, one, t, texas, tax, new, national, 
+s, new, w, will, gov, party, voters, republican, national, one, 
+s, w, gov, plan, tax, republican, today, t, new, nader, 
+
+-----------------------------------------------------
+iteration: 1
+Average Causality Confidence: 0.7871680055035435
+Average Purity: 69.92282567676148
+Top words: 
+s, w, voters, m, new, will, republican, party, gov, among, 
+s, today, w, new, gov, voters, one, tax, m, t, 
+s, w, will, republican, one, gov, texas, democrats, party, t, 
+s, one, w, gov, will, party, new, republican, tax, years, 
+s, texas, party, w, gov, will, democratic, today, state, new, 
+s, w, debate, will, gov, t, one, percent, people, policy, 
+s, w, gov, republican, texas, one, new, will, state, debate, 
+s, one, w, percent, voters, new, will, gov, t, party, 
+
+-----------------------------------------------------
+iteration: 2
+Average Causality Confidence: 0.7540954066853696
+Average Purity: 69.90323880300524
+Top words: 
+s, one, last, will, m, w, also, today, years, two, 
+s, w, one, will, tax, new, democratic, gov, like, also, 
+s, w, party, republican, national, people, will, new, texas, convention, 
+s, republican, w, one, new, t, gov, oil, will, cheney, 
+s, w, gov, republican, will, cheney, debate, one, democratic, party, 
+s, will, w, gov, new, one, republican, debate, lieberman, debates, 
+
+-----------------------------------------------------
+iteration: 3
+Average Causality Confidence: 0.7670452893937754
+Average Purity: 69.98744710669077
+Top words: 
+s, will, w, republican, one, gov, cheney, convention, party, like, 
+s, w, will, gov, republican, new, one, tax, texas, years, 
+s, w, gov, one, republican, m, debate, last, time, will, 
+s, w, gov, people, texas, republican, plan, one, debate, democratic, 
+s, w, texas, party, lieberman, tax, gov, health, one, will, 
+s, w, voters, today, gov, debate, will, texas, new, plan, 
+s, will, w, republican, democratic, party, political, republicans, gov, t, 
+s, w, gov, will, plan, debate, texas, one, new, m, 
+s, w, will, gov, one, texas, people, tax, t, years, 
+s, w, gov, republican, will, convention, today, texas, one, national, 
+
+-----------------------------------------------------
+iteration: 4
+Average Causality Confidence: 0.719775912767947
+Average Purity: 70.3416778481577
+Top words: 
+s, w, will, tax, one, last, gov, debate, republican, social, 
+s, w, lieberman, voters, gov, party, will, republican, convention, time, 
+s, w, gov, democratic, health, debate, will, first, m, one, 
+s, w, gov, one, like, texas, new, security, debate, m, 
+s, w, gov, one, will, republican, new, time, party, running, 
+
+-----------------------------------------------------
+u = 1000
+iteration: 0
+Average Causality Confidence: 0.8098510558078276
+Average Purity: 70.11451104207387
+Top words: 
+s, w, cheney, gov, one, oil, will, republican, t, m, 
+s, w, gov, texas, tax, will, one, new, plan, republican, 
+s, will, w, republican, nader, gov, new, convention, party, democratic, 
+s, national, today, convention, w, new, republican, speech, gov, democratic, 
+s, w, republican, gov, percent, lieberman, one, senator, democratic, will, 
+s, w, tax, gov, cheney, will, texas, party, voters, also, 
+s, republican, one, w, texas, gov, lieberman, cheney, running, will, 
+s, w, one, people, gov, today, debate, voters, new, plan, 
+
+-----------------------------------------------------
+iteration: 1
+Average Causality Confidence: 0.7743656689223573
+Average Purity: 69.90368428652606
+Top words: 
+s, gov, w, will, democratic, one, also, party, lieberman, republican, 
+s, w, debate, gov, one, debates, republican, will, bill, policy, 
+s, will, one, w, gov, plan, republican, new, security, debate, 
+s, w, one, cheney, debate, new, republican, tax, years, lieberman, 
+s, will, national, lieberman, t, one, w, new, convention, like, 
+s, w, will, gov, democratic, voters, today, people, one, speech, 
+s, one, republican, w, party, new, state, also, gov, t, 
+s, w, texas, gov, republican, new, policy, one, convention, democratic, 
+
+-----------------------------------------------------
+iteration: 2
+Average Causality Confidence: 0.7819363605592946
+Average Purity: 69.90323880300524
+Top words: 
+s, w, gov, administration, debate, nader, also, will, party, new, 
+s, w, gov, tax, texas, republican, will, plan, new, today, 
+s, w, gov, percent, will, party, new, plan, democrats, texas, 
+s, w, one, gov, like, today, people, tax, security, national, 
+s, w, debate, will, gov, tax, m, t, republican, today, 
+s, w, one, republican, t, gov, new, like, last, will, 
+s, democratic, tax, lieberman, one, new, voters, w, gov, say, 
+s, w, plan, republican, gov, one, lieberman, running, cheney, people, 
+s, w, texas, gov, republican, one, debate, will, state, policy, 
+
+-----------------------------------------------------
+iteration: 3
+Average Causality Confidence: 0.7915243060674556
+Average Purity: 69.91820967166245
+Top words: 
+s, w, lieberman, democratic, gov, today, one, convention, also, will, 
+s, w, gov, people, texas, one, state, policy, will, debate, 
+s, w, lieberman, texas, gov, m, running, republican, cheney, one, 
+s, tax, one, plan, new, w, social, years, security, will, 
+s, will, w, one, gov, also, new, republican, republicans, today, 
+s, w, gov, republican, policy, today, one, cheney, will, convention, 
+s, w, gov, people, republican, m, convention, one, t, national, 
+s, w, republican, gov, will, one, texas, debate, democratic, new, 
+
+-----------------------------------------------------
+iteration: 4
+Average Causality Confidence: 0.7131965331791966
+Average Purity: 69.93806200394495
+Top words: 
+s, w, will, gov, one, republican, debate, even, debates, voters, 
+s, new, w, one, security, tax, gov, social, republican, will, 
+s, w, gov, one, like, new, t, debate, texas, can, 
+
+-----------------------------------------------------
+************** Number of Topics Test **************
+tn = 10
+iteration: 0
+Average Causality Confidence: 0.7449562561985322
+Average Purity: 70.01112439977564
+Top words: 
+s, w, gov, will, texas, people, security, new, time, party, 
+s, will, one, w, two, voters, tax, percent, new, democratic, 
+s, w, gov, new, will, one, also, voters, today, percent, 
+s, w, new, tax, gov, texas, people, can, plan, t, 
+s, w, one, party, gov, t, people, new, debate, today, 
+s, w, gov, new, will, one, plan, state, social, debate, 
+s, w, gov, will, abortion, republican, new, debate, today, texas, 
+s, w, republican, party, national, gov, one, t, will, texas, 
+s, w, gov, one, t, will, new, republican, m, convention, 
+s, w, gov, republican, texas, one, years, democratic, t, cheney, 
+s, will, w, texas, republican, gov, state, one, lieberman, democratic, 
+
+-----------------------------------------------------
+iteration: 1
+Average Causality Confidence: 0.787704626918322
+Average Purity: 69.89700043360189
+Top words: 
+s, w, gov, republican, debate, voters, one, percent, new, democratic, 
+s, w, gov, people, tax, will, today, republican, like, even, 
+s, w, will, gov, republican, democratic, plan, t, one, debate, 
+s, one, republican, w, new, people, t, party, state, percent, 
+s, w, will, republican, one, gov, texas, party, democratic, today, 
+s, w, gov, nader, state, one, t, states, will, party, 
+s, cheney, republican, w, will, gov, t, can, today, one, 
+s, w, will, gov, debate, republican, m, party, new, one, 
+s, w, gov, texas, m, party, republican, one, today, also, 
+s, w, new, one, will, gov, t, cheney, debate, today, 
+
+-----------------------------------------------------
+iteration: 2
+Average Causality Confidence: 0.7562111181660198
+Average Purity: 69.98553164236331
+Top words: 
+s, w, democratic, voters, gov, people, state, republican, party, today, 
+s, lieberman, tax, w, new, will, gov, plan, social, running, 
+s, w, new, tax, convention, republicans, republican, democrats, one, today, 
+s, gov, w, texas, one, state, republican, will, party, new, 
+s, w, will, gov, percent, republican, voters, new, today, texas, 
+
+-----------------------------------------------------
+iteration: 3
+Average Causality Confidence: 0.8070560533194778
+Average Purity: 69.90368428652606
+Top words: 
+s, w, democratic, new, will, party, m, democrats, lieberman, gov, 
+s, w, cheney, party, gov, running, tax, percent, one, republican, 
+s, w, people, texas, gov, one, will, state, m, policy, 
+s, w, one, will, republican, t, new, gov, party, national, 
+s, w, one, gov, will, republican, two, like, people, also, 
+s, w, republican, gov, texas, new, national, one, democratic, will, 
+s, w, gov, republican, new, political, will, one, percent, texas, 
+
+-----------------------------------------------------
+iteration: 4
+Average Causality Confidence: 0.7723233822622751
+Average Purity: 69.95717982552722
+Top words: 
+s, w, one, lieberman, texas, gov, will, national, m, voters, 
+s, one, w, gov, texas, new, people, like, republican, states, 
+s, w, gov, republican, debate, t, social, will, security, new, 
+s, w, gov, texas, percent, one, republican, will, debate, new, 
+s, will, w, tax, republican, plan, one, new, t, gov, 
+s, w, gov, people, one, republican, convention, texas, year, like, 
+s, w, republican, gov, will, state, policy, one, republicans, today, 
+
+-----------------------------------------------------
+tn = 20
+iteration: 0
+Average Causality Confidence: 0.8469858126168129
+Average Purity: 69.90417925034797
+Top words: 
+s, w, republican, will, one, gov, t, today, lieberman, also, 
+s, w, gov, texas, state, will, republican, new, last, one, 
+s, republican, w, gov, one, national, also, convention, will, today, 
+s, w, one, gov, voters, republican, today, party, democratic, texas, 
+s, one, w, t, like, voters, political, debate, can, gov, 
+s, w, will, one, gov, republican, republicans, convention, democratic, lieberman, 
+s, will, w, gov, republican, new, one, democratic, texas, voters, 
+s, w, one, people, gov, debate, m, will, plan, republican, 
+s, w, republican, new, gov, voters, party, percent, state, republicans, 
+
+-----------------------------------------------------
+iteration: 1
+Average Causality Confidence: 0.7347062235983512
+Average Purity: 70.03392143322341
+Top words: 
+s, w, cheney, today, republican, lieberman, like, security, last, t, 
+s, w, texas, new, republican, political, gov, nader, time, will, 
+s, w, gov, republican, one, will, years, today, democratic, also, 
+s, gov, one, state, debate, lieberman, texas, people, w, new, 
+s, w, republican, party, convention, speech, will, texas, one, gov, 
+s, w, one, like, t, voters, will, plan, percent, people, 
+s, one, lieberman, w, will, today, plan, cheney, people, tax, 
+s, w, gov, texas, debate, one, republican, t, people, will, 
+s, w, new, will, one, tax, gov, today, people, republican, 
+
+-----------------------------------------------------
+iteration: 2
+Average Causality Confidence: 0.7367592183779981
+Average Purity: 69.92913073093085
+Top words: 
+s, w, republican, will, new, democratic, voters, tax, also, one, 
+s, w, will, new, gov, one, republican, plan, state, democratic, 
+s, w, will, one, gov, time, debates, national, debate, party, 
+s, w, gov, cheney, republican, convention, democratic, time, texas, lieberman, 
+s, w, first, will, debate, convention, cheney, gov, one, new, 
+s, w, gov, t, texas, debate, will, people, new, one, 
+s, w, republican, will, texas, one, gov, today, new, years, 
+
+-----------------------------------------------------
+iteration: 3
+Average Causality Confidence: 0.686467106459723
+Average Purity: 70.02561694163678
+Top words: 
+s, will, w, m, people, national, republican, republicans, million, convention, 
+s, w, one, t, texas, republican, new, gov, also, man, 
+s, t, tax, new, gov, w, one, democrats, state, party, 
+s, w, gov, will, party, new, one, democratic, convention, republican, 
+s, w, gov, republican, one, texas, tax, democratic, will, m, 
+s, w, new, will, people, t, policy, debate, first, gov, 
+
+-----------------------------------------------------
+iteration: 4
+Average Causality Confidence: 0.7881836456442546
+Average Purity: 69.95717982552722
+Top words: 
+s, w, new, cheney, people, two, texas, gov, one, t, 
+s, w, gov, one, texas, will, republican, state, new, party, 
+s, w, will, gov, republican, one, party, time, m, running, 
+s, w, new, gov, republican, will, tax, m, t, security, 
+s, w, new, will, also, republican, gov, national, one, texas, 
+s, w, gov, debate, tax, one, people, will, voters, t, 
+s, debate, tax, w, one, will, today, republican, people, plan, 
+s, will, republican, w, gov, one, party, today, national, cheney, 
+s, w, will, republican, one, gov, republicans, cheney, also, party, 
+
+-----------------------------------------------------
+tn = 30
+iteration: 0
+Average Causality Confidence: 0.735680484636584
+Average Purity: 69.9267942488576
+Top words: 
+s, state, texas, will, one, w, people, gov, political, t, 
+s, w, gov, will, people, convention, tax, today, voters, one, 
+s, percent, texas, one, w, last, republican, voters, gov, tax, 
+s, w, republican, one, gov, new, party, tax, convention, will, 
+s, w, gov, party, debate, republican, democratic, today, texas, m, 
+s, w, one, gov, tax, republican, will, today, national, new, 
+
+-----------------------------------------------------
+iteration: 1
+Average Causality Confidence: 0.8454951955675815
+Average Purity: 69.9157875061851
+Top words: 
+s, w, will, gov, republican, new, people, one, voters, can, 
+s, percent, will, w, debate, gov, one, debates, t, tax, 
+s, w, gov, one, security, cheney, tax, voters, social, like, 
+s, w, will, texas, debate, republican, gov, convention, one, two, 
+s, w, cheney, gov, tax, plan, one, health, people, today, 
+s, will, one, w, republican, speech, gov, years, convention, administration, 
+s, w, gov, debate, last, will, texas, one, people, today, 
+s, w, lieberman, gov, cheney, texas, republican, one, new, t, 
+s, w, will, new, gov, republican, today, lieberman, time, party, 
+s, one, tax, percent, people, debate, will, republican, many, national, 
+s, cheney, debate, debates, w, gov, one, also, will, voters, 
+s, w, republican, gov, convention, lieberman, one, will, national, political, 
+s, w, one, t, voters, gov, even, will, like, democratic, 
+
+-----------------------------------------------------
+iteration: 2
+Average Causality Confidence: 0.746902016510435
+Average Purity: 69.90604509486187
+Top words: 
+s, w, new, party, last, texas, republican, today, gov, one, 
+s, w, gov, will, republican, new, one, party, convention, cheney, 
+s, democratic, w, one, will, tax, party, republican, say, debate, 
+s, w, gov, texas, one, will, state, democrats, today, republican, 
+s, w, one, gov, people, t, will, like, time, new, 
+s, w, gov, tax, one, voters, party, t, like, republican, 
+
+-----------------------------------------------------
+iteration: 3
+Average Causality Confidence: 0.7385358305825312
+Average Purity: 70.07670897492255
+Top words: 
+s, w, new, one, debate, will, today, cheney, gov, week, 
+s, w, gov, texas, one, voters, republican, debate, democratic, new, 
+s, w, will, one, today, two, national, party, gov, t, 
+s, percent, two, w, money, democratic, people, one, nader, gov, 
+s, one, w, gov, lieberman, today, will, voters, new, democratic, 
+s, w, gov, lieberman, new, one, republican, will, plan, tax, 
+
+-----------------------------------------------------
+iteration: 4
+Average Causality Confidence: 0.8404207417315691
+Average Purity: 69.91820967166245
+Top words: 
+s, w, republican, gov, one, people, will, today, democratic, plan, 
+s, w, new, republican, democratic, gov, texas, t, percent, like, 
+s, gov, w, today, lieberman, one, texas, republican, percent, plan, 
+s, w, will, t, gov, new, m, debate, republican, one, 
+s, w, cheney, republican, gov, new, democratic, party, lieberman, running, 
+s, w, new, tax, one, will, gov, republican, percent, people, 
+s, w, one, gov, nader, will, security, republican, voters, new, 
+s, cheney, w, texas, republican, gov, new, party, years, one, 
+s, w, gov, will, democratic, republican, party, one, texas, may, 
+
+-----------------------------------------------------
+tn = 40
+iteration: 0
+Average Causality Confidence: 0.7901776192493447
+Average Purity: 69.90247174527588
+Top words: 
+s, w, one, will, gov, percent, voters, new, drug, state, 
+s, texas, w, gov, state, republican, democratic, cheney, time, people, 
+s, plan, w, gov, tax, texas, will, debate, republican, years, 
+s, debate, one, w, time, gov, first, t, people, will, 
+s, gov, w, one, new, texas, today, party, state, debate, 
+s, w, will, gov, republican, one, new, also, years, today, 
+s, w, republican, gov, will, debate, state, one, voters, t, 
+s, new, gov, one, w, today, people, texas, house, republican, 
+s, w, one, lieberman, democratic, will, cheney, gov, t, first, 
+s, w, democratic, will, one, new, convention, national, republican, party, 
+s, w, party, republican, gov, voters, will, one, first, texas, 
+
+-----------------------------------------------------
+iteration: 1
+Average Causality Confidence: 0.792839644489791
+Average Purity: 69.95717982552722
+Top words: 
+s, new, will, one, w, republican, today, nader, party, gov, 
+s, w, new, republican, will, today, one, tax, like, t, 
+s, w, cheney, gov, will, m, debate, new, public, one, 
+s, w, republican, texas, gov, new, one, party, will, democratic, 
+s, w, gov, republican, american, will, one, state, new, lieberman, 
+s, tax, w, gov, republican, state, one, new, will, voters, 
+s, w, one, convention, democratic, will, republican, debate, gov, people, 
+
+-----------------------------------------------------
+iteration: 2
+Average Causality Confidence: 0.7986771751654977
+Average Purity: 69.91960032086311
+Top words: 
+s, w, gov, social, security, one, political, t, m, policy, 
+s, w, gov, republican, texas, democratic, party, one, t, will, 
+s, one, w, gov, will, cheney, new, party, t, people, 
+s, w, one, gov, tax, will, percent, new, last, policy, 
+s, tax, w, new, one, gov, will, republican, today, texas, 
+s, w, one, gov, texas, will, debate, republican, voters, new, 
+s, w, cheney, gov, one, voters, nader, m, new, republican, 
+
+-----------------------------------------------------
+iteration: 3
+Average Causality Confidence: 0.7667614182930146
+Average Purity: 69.89700043360189
+Top words: 
+s, one, will, democratic, w, texas, gov, state, republican, convention, 
+s, w, one, gov, new, will, today, democratic, government, tax, 
+s, one, w, debate, party, republican, will, like, first, gov, 
+s, w, republican, party, gov, one, voters, new, t, will, 
+s, w, will, new, republican, gov, state, one, voters, today, 
+s, w, republican, gov, m, state, many, new, will, today, 
+
+-----------------------------------------------------
+iteration: 4
+Average Causality Confidence: 0.7537552972991789
+Average Purity: 70.3416778481577
+Top words: 
+s, percent, w, one, democratic, gov, democrats, republican, nader, will, 
+s, w, gov, republican, texas, one, state, voters, like, m, 
+s, w, will, gov, cheney, lieberman, years, republican, today, one, 
+s, one, w, new, gov, tax, will, also, texas, two, 
+
+-----------------------------------------------------

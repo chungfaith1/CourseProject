@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Superior Savings Goes National</title>
+    <meta content="MB010756" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208560"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="IN BRIEF"/>
+      <identified-content>
+        <org class="indexing_service">North Fork Bancorp Inc</org>
+        <org class="indexing_service">Superior Savings of New England</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E7DA1431F93BA25755C0A9669C8B63" item-length="71" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Superior Savings Goes National</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by Warren Strugatch</byline>
+      <abstract>
+        <p>North Fork Bancorp of Melville, Long Island, receives Treasury approval to convert subsidiary, Superior Savings of New England, to national bank (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>North Fork Bancorp of Melville (NYSE: NFB) has received Treasury approval to convert a subsidiary, Superior Savings of New England, to a national bank. Superior conducts a telebanking business. The conversion is to be completed by July 3, 2000.</p>
+        <p>Compiled by Warren Strugatch</p>
+      </block>
+      <block class="full_text">
+        <p>North Fork Bancorp of Melville (NYSE: NFB) has received Treasury approval to convert a subsidiary, Superior Savings of New England, to a national bank. Superior conducts a telebanking business. The conversion is to be completed by July 3, 2000.</p>
+        <p>Compiled by Warren Strugatch</p>
+        <p>IN BRIEF E-mail address: libiz@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail address: libiz@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

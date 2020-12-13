@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kodak Camera Lets User Point, Shoot and Pick</title>
+    <meta content="26GEE3" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/26/technology/26GEE3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1241933"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Photography</classifier>
+        <org class="indexing_service">Eastman Kodak Co</org>
+        <person class="indexing_service">Marriott, Michel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001026T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E7DB1331F935A15753C1A9669C8B63" item-length="288" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kodak Camera Lets User Point, Shoot and Pick</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHEL MARRIOTT</byline>
+      <byline class="normalized_byline">Marriott, Michel</byline>
+      <abstract>
+        <p>Article describes new Kodak Advantix Preview camera; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With its smart, ergonomic styling and color L.C.D. screen in a button-studded back panel, the new Kodak Advantix Preview camera looks like another point-and-shoot that has gone thoroughly digital.</p>
+        <p>But don't be fooled.</p>
+        <p>Despite its advanced circuitry and chip sets inside, this $300 Kodak camera has not embraced megapixels. Instead it is still wedded to film. So why all the electronics?</p>
+      </block>
+      <block class="full_text">
+        <p>With its smart, ergonomic styling and color L.C.D. screen in a button-studded back panel, the new Kodak Advantix Preview camera looks like another point-and-shoot that has gone thoroughly digital.</p>
+        <p>But don't be fooled.</p>
+        <p>Despite its advanced circuitry and chip sets inside, this $300 Kodak camera has not embraced megapixels. Instead it is still wedded to film. So why all the electronics?</p>
+        <p>Kodak designers said they listened to consumers and learned that many of them still preferred film but would like greater control over which pictures are actually printed.</p>
+        <p>Using a CCD image sensor, the same device that is at the heart of most digital cameras, the Preview camera takes two pictures: one that is exposed on Advantix film and another electronic one that is displayed on a preview window on the back of the camera. If a photographer doesn't like the picture, which is rendered to closely match what is captured on film, he or she can easily set a selector to tell the photo finisher to skip that shot.</p>
+        <p>The same selector can also adjust the setting on any picture to have as many as nine copies of it made when the film is developed.</p>
+        <p>The camera, which has a 2.6x zoom lens and a six-function built-in flash, also has other controls to change the format of the picture.</p>
+        <p>MICHEL MARRIOTT</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

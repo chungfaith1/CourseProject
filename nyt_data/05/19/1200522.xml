@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DINER'S JOURNAL</title>
+    <meta content="19JOUR" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="43" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200522"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <location class="indexing_service">Italy</location>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Esca (NYC Restaurant)</org>
+        <person class="indexing_service">Grimes, William</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Diner's Journal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Italy</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000519T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E4DD163AF93AA25756C0A9669C8B63" item-length="309" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DINER'S JOURNAL</hl1>
+      </hedline>
+      <byline class="print_byline">By William Grimes</byline>
+      <byline class="normalized_byline">Grimes, William</byline>
+      <abstract>
+        <p>William Grimes Diner's Journal review of Esca, Italiian fish restaurant on West 43d Street; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a city that has seen seafood in every possible form, it takes a little ingenuity to make the idea of fish seem fresh. Esca, the latest production from Mario Batali and Joe Bastianich, the team behind Babbo, Becco, Lupa and Po, pulls off the trick by giving the food a regional Italian focus. Esca, which is Italian for ''bait,'' draws on the rich maritime cuisine of Naples and the Amalfi coast. It also borrows a little from Istria on the northern Adriatic, where Mr. Bastianich's family comes from, in a menu-within-a-menu of raw fish served with fragrant olive oil, herbs and vegetables. Firm slices of gope, a sardine-like fish, are paired with tiny bitter greens and slivers of preserved lemon from Sorrento; weakfish with pea shoots and mint; and fluke with radishes and sea beans. David Pasternack, formerly at Picholine, runs the kitchen.</p>
+        <p>The pastas, simple and rustic, also take their flavors from the sea, like the flat pasta known as scilatielli, covered in a sauce of rock shrimp and zucchini, or bucatini tossed with spicy baby octopus and crunchy toasted bread crumbs.</p>
+      </block>
+      <block class="full_text">
+        <p>In a city that has seen seafood in every possible form, it takes a little ingenuity to make the idea of fish seem fresh. Esca, the latest production from Mario Batali and Joe Bastianich, the team behind Babbo, Becco, Lupa and Po, pulls off the trick by giving the food a regional Italian focus. Esca, which is Italian for ''bait,'' draws on the rich maritime cuisine of Naples and the Amalfi coast. It also borrows a little from Istria on the northern Adriatic, where Mr. Bastianich's family comes from, in a menu-within-a-menu of raw fish served with fragrant olive oil, herbs and vegetables. Firm slices of gope, a sardine-like fish, are paired with tiny bitter greens and slivers of preserved lemon from Sorrento; weakfish with pea shoots and mint; and fluke with radishes and sea beans. David Pasternack, formerly at Picholine, runs the kitchen.</p>
+        <p>The pastas, simple and rustic, also take their flavors from the sea, like the flat pasta known as scilatielli, covered in a sauce of rock shrimp and zucchini, or bucatini tossed with spicy baby octopus and crunchy toasted bread crumbs.</p>
+        <p>After fish and fish, there's more fish. Fritto misto Amalfi-style and zuppa de pesce lead the list of highly traditional main courses, which include shrimp with arugula and artichoke salad, and a simple branzino, or Mediterranean sea bass, baked with pungently winey olives and drizzled with Mr. Bastianich's own Italian olive oil. Lamb and chicken are on the menu. But would anyone skip over Dover sole in almond pesto to get to them?</p>
+        <p>Esca, 402 West 43rd Street, Manhattan; (212) 564-7272. Dinner entrees, $18 to $24.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

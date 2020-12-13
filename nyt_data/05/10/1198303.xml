@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>To Secure C.I.A. Files</title>
+    <meta content="L10CIA$02" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1198303"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">National Security</classifier>
+        <org class="indexing_service">Central Intelligence Agency</org>
+        <person class="indexing_service">Mortman, Irwin</person>
+        <person class="indexing_service">Deutch, John M</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000510T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E6D91138F933A25756C0A9669C8B63" item-length="175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>To Secure C.I.A. Files</hl1>
+      </hedline>
+      <abstract>
+        <p>Irwin Mortman letter says John M Deutch, former CIA director, should never have been allowed to retain classified documents in his home</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Although the Justice Department and F.B.I. investigation to determine if John M. Deutch, the former C.I.A. director, mishandled classified material by placing it on unsecured computers in his home may be in the right direction, those agencies may be missing some aspects of security (front page, May 6).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Although the Justice Department and F.B.I. investigation to determine if John M. Deutch, the former C.I.A. director, mishandled classified material by placing it on unsecured computers in his home may be in the right direction, those agencies may be missing some aspects of security (front page, May 6).</p>
+        <p>For example, the same energies that are being used in the investigation should also be used in evaluating the C.I.A. security systems. A prudent security system would never allow the storage of classified material to be retained in someone's home either as hard copy, computer files or on a removable disk. From my past experience working for a government contractor, I know that our government would never allow a contractor doing classified work to do what Mr. Deutch did: retain classified information in one's home. Why are there different standards?</p>
+        <p>IRWIN MORTMAN  Cincinnati, May 6, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

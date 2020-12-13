@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Muscle Power</title>
+    <meta content="LTR000055" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1221524"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Watches and Clocks</classifier>
+        <classifier class="indexing_service" type="descriptor">Energy Efficiency</classifier>
+        <person class="indexing_service">Lowenstein, Richard A</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Watches and Clocks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy Efficiency</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000810T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E0D7163FF933A2575BC0A9669C8B63" item-length="130" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Muscle Power</hl1>
+      </hedline>
+      <abstract>
+        <p>Richard A Lowenstein letter on Aug 3 article on human-generated power says article missed one of early human-power-to-stored-energy devices: the self-winding watch (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The article on human-generated power made a useful distinction between the direct transfer of action to energy (as in pedal-powered bike lights) and stored-energy applications. But it missed one of the early (and still used) human-power-to-stored-energy devices: the self-winding watch. Eight hours of wearing one generated enough power to run the watch 24 hours a day.</p>
+        <p>RICHARD A. LOWENSTEIN  Westport, Conn.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The article on human-generated power made a useful distinction between the direct transfer of action to energy (as in pedal-powered bike lights) and stored-energy applications. But it missed one of the early (and still used) human-power-to-stored-energy devices: the self-winding watch. Eight hours of wearing one generated enough power to run the watch 24 hours a day.</p>
+        <p>RICHARD A. LOWENSTEIN  Westport, Conn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

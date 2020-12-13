@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR010641" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1233488"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Apparel</classifier>
+        <classifier class="indexing_service" type="descriptor">Special Sections</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000924T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804EFD9173AF937A1575AC0A9669C8B63" item-length="106" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of table of contents in Sept 24 Men's Fashions of The Times, Part 2 of Times Magazine, which omits credit for clothes worn on cover</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The table of contents today in Men's Fashions of The Times, Part 2 of The Times Magazine, omits a credit for the clothes worn by the actor Tobey Maguire on the cover. They are a single-breasted peak-lapel wool suit, $2,000, with cotton dress shirt, $270, and silk tie, $130, by Yves Saint Laurent Rive Gauche Homme. At Yves Saint Laurent Boutique Homme, 88 Wooster Street, New York. Photograph by Brigitte Lacombe. Grooming by Giannandrea for Garren New York.</p>
+      </block>
+      <block class="full_text">
+        <p>The table of contents today in Men's Fashions of The Times, Part 2 of The Times Magazine, omits a credit for the clothes worn by the actor Tobey Maguire on the cover. They are a single-breasted peak-lapel wool suit, $2,000, with cotton dress shirt, $270, and silk tie, $130, by Yves Saint Laurent Rive Gauche Homme. At Yves Saint Laurent Boutique Homme, 88 Wooster Street, New York. Photograph by Brigitte Lacombe. Grooming by Giannandrea for Garren New York.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

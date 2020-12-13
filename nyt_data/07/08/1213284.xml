@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>China Moves To Cut Power Of Microsoft</title>
+    <meta content="08SOFT$03" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; World; Front Page; Washington" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213284"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">Espionage</classifier>
+        <location class="indexing_service">China</location>
+        <location class="indexing_service">United States</location>
+        <org class="indexing_service">Microsoft Corp</org>
+        <person class="indexing_service">Smith, Craig S</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/China</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/China</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Espionage</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000708T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E4DA1438F93BA35754C0A9669C8B63" item-length="1535" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>China Moves To Cut Power Of Microsoft</hl1>
+      </hedline>
+      <byline class="print_byline">By CRAIG S. SMITH</byline>
+      <byline class="normalized_byline">Smith, Craig S</byline>
+      <dateline>SHANGHAI, July 6</dateline>
+      <abstract>
+        <p>Chinese government backs Linux operating system in effort to prevent country from becoming overly dependent on Microsoft Corp's Windows operating system; some Chinese warn that secret holes in Microsoft's computer code might allow US government access to Chinese networks or even enable it, in time of war, to shut those networks down; Microsoft says such fears are nonsense; Linux source code, unlike Microsoft's, is open for all to see and is freely distributed, and this touch of communist ideal appeals to China's Marxist leaders (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Janet Reno is not the only one worried about Bill Gates's software monopoly. China's leaders are, too.</p>
+        <p>They are concerned that the country is growing overly dependent on the Windows operating system, which controls computers running everything from banks to President Jiang Zemin's e-mail box. But the Chinese government, itself a master at monopoly, is taking its case against Microsoft not to the courtroom but to the marketplace, albeit with a bit of administrative fiat. It is backing the Linux operating system, which was created by a Finnish university student in 1991 and is distributed free to anyone.</p>
+      </block>
+      <block class="full_text">
+        <p>Janet Reno is not the only one worried about Bill Gates's software monopoly. China's leaders are, too.</p>
+        <p>They are concerned that the country is growing overly dependent on the Windows operating system, which controls computers running everything from banks to President Jiang Zemin's e-mail box. But the Chinese government, itself a master at monopoly, is taking its case against Microsoft not to the courtroom but to the marketplace, albeit with a bit of administrative fiat. It is backing the Linux operating system, which was created by a Finnish university student in 1991 and is distributed free to anyone.</p>
+        <p>''We don't want one company to monopolize the software market,'' said Chen Chong, a deputy minister of information industries who oversees the computer industry in China. With Linux, ''we can control the security,'' he added, so ''we can control our own destiny.''</p>
+        <p>A growing number of Chinese have likened dependence on Microsoft to leaving the keys to the country's increasingly computerized economy in the hands of a potential enemy. Some warn that secret holes in Microsoft's computer code might allow the United States access to Chinese networks or even enable it, in time of war, to shut those networks down.</p>
+        <p>Such concerns were only heightened last year when a cryptographer for a Canadian software firm working in the United States said he had found a feature in Windows called an NSAKey -- as in National Security Agency, the United States government agency that gathers electronic signal intelligence worldwide. Though Microsoft said the key was innocuous and no support has been found for any sinister explanation, ''no one can guarantee that Windows does not have back doors,'' said Liu Bo, a former Microsoft executive who is now chief executive of Red Flag, a government-backed company set up to create software based on Linux and to encourage a homegrown software industry.</p>
+        <p>In addition, various arms of the government have been warning of the security risk posed by the country's reliance on Microsoft. ''Without information security, there is no national security in politics, economics and military affairs,'' declared an editorial in People's Liberation Army Daily earlier this year.</p>
+        <p>Microsoft calls such fears nonsense and says it continues to enjoy a strong working relationship with the government. ''We have shared product information with them,'' said Michael Rawding, Microsoft's regional director in China, ''and I believe that their comfort with our product information led them to allow the launch'' of Windows 2000, Microsoft's new business-oriented operating system, in China last spring.</p>
+        <p>Unlike the Windows source code, which Microsoft keeps secret, the Linux code is open for all to see and is freely distributed with the stipulation that anybody can improve it as long as any modifications are shared with the rest of the world. The almost communistic ''from each according to his ability, to each according to his need'' approach appeals to China's Marxist leaders.</p>
+        <p>Despite the government's stand, no one is suggesting that Microsoft is finished in China. Though it will not provide specific sales figures, the company says its software sales in China surged 80 percent last year and continue to grow. But the government's move to diversify reflects a broader dissatisfaction with the company and its founder, Mr. Gates, who just a few years ago was hailed as a hero by China's young technology enthusiasts.</p>
+        <p>The turning point in Microsoft's image was the introduction of its Chinese-language Windows 95 operating system, which was programmed to display references to ''Communist bandits'' and to exhort users to ''take back the mainland.'' Beijing, infuriated to learn that Microsoft had used computer programmers in Taiwan to write the software, demanded that the company hire mainland programmers to fix it.</p>
+        <p>Chief among the company's critics is its former general manager for China, Juliet Wu, who has become a national celebrity with her withering, best-selling expose, ''Up Against the Wind: Microsoft, I.B.M. and Me.'' The picture she paints of Microsoft as an arrogant Goliath feeds into the irritation many Chinese computer users feel toward the company.</p>
+        <p>Ms. Wu and other critics say Microsoft's pricing -- a software program can cost as much as an average office worker's monthly salary -- forces users to buy pirated copies of the company's software. (The Business Software Alliance, a nonprofit trade group, estimates that as much as 95 percent of all software in China is pirated, though the industry hopes China's expected admission to the World Trade Organization will change that.)</p>
+        <p>Liu Dongli, an Internet entrepreneur in the southern province of Fujian, was so enraged by having to pay $241 for Windows 98 that he sued the company for unfair pricing. The suit was withdrawn when Mr. Liu realized that Microsoft charges no more for its products in China than it does elsewhere. ''But that doesn't mean we lost the case,'' he fumed, vowing to bring suit again when he has more evidence. ''Monopoly is not a good thing.''</p>
+        <p>The news media, meanwhile, have criticized Microsoft for suing a company last year over the sale of pirated software. Microsoft, which was asking for $200,000 in damages, lost the case because the Chinese court ruled that it had sued the wrong company. The defeat only darkened Microsoft's ominous silhouette in the eyes of many Chinese.</p>
+        <p>''Microsoft is a bully,'' said Hua Yuqing, a young Internet entrepreneur, who complains that Microsoft's high prices and proprietary computer code squelch creativity. He is building a business creating software programs that run on Linux. ''I don't want to feel that I'm subconsciously controlled,'' Mr. Hua said, referring to the dependence on Microsoft that comes with using its products.</p>
+        <p>Mr. Hua and a half-dozen computer programmers peck away at their keyboards here in a drab office empty except for computers, desks, chairs and a shelf stocked with bottles of orange soda and boxes of chocolate milk. He and his colleagues are using Linux to start a company that provides services to subscribers over the Internet -- in this case, the use of accounting software and sales-tracking software. The software stays on Mr. Hua's server computer, and customers rent it rather than buy their own.</p>
+        <p>Microsoft's public relations disaster has been a boon for Linux. So far, several companies -- including Red Flag, which is backed by President Jiang's son, Jiang Mianhang, and TurboLinux, based in San Francisco -- have introduced Chinese-language versions of the Linux operating system in China. Many other companies have started to provide software and services for China's Linux users.</p>
+        <p>The Chinese government tried for more than a decade to develop an operating system of its own, but was unable to keep up with the fast-changing industry. Linux gives the country the tools to build that system now -- and, in the Chinese view, the fact that the Linux code is not privately held assures that any security it wants to build into its computer systems will not have undetectable vulnerabilities.</p>
+        <p>But even Linux enthusiasts profess ambivalence about the government's interest. Linux developers in China say some overseas colleagues worry that China may not play by the rules for collaborating and sharing and may adapt Linux to create a proprietary system instead.</p>
+        <p>In any case, China represents a market potential of such size, and government influence over the market is still so strong, that Beijing's support can turn almost any product into an industry standard domestically. By the end of next year, the country may well be the third-largest PC market in the world, and software sales are expected to grow more than 30 percent a year for the foreseeable future.</p>
+        <p>As China's economy becomes increasingly integrated with that of the region and the world, much of Asia is likely to follow its lead.</p>
+        <p>Mr. Liu, the chief executive of Red Flag, says a third of the country's Internet servers -- the computers that power Web sites -- are already using Linux operating systems. He estimates that by the end of next year Linux will run half of all servers in China and as much as a third of the country's desktop computers.</p>
+        <p>Those estimates may be overblown; the technology research firm IDC Asia-Pacific says its data shows less than 3 percent of all servers shipped to China last year were loaded with Linux. But IDC expects the number to more than double this year, and Linux's real market share is most certainly higher because the operating system can be downloaded free from the Internet.</p>
+        <p>''Linux, without doubt, has gained some headway among software developers in China,'' Mr. Rawding said. ''However, I have yet to see any mission-critical organization deploy Linux because the truth of the matter is that in businesses, you want the support and service to be available to you instantly when something does go wrong.''</p>
+        <p>Nonetheless, Great Wall Computer, one of China's biggest PC makers, has already shipped 200,000 desktop computers loaded with the Linux operating system, which looks much like Windows though it cannot yet match all of Microsoft's features.</p>
+        <p>Ma Li, marketing chief at Great Wall, says his company shifted toward Linux at Beijing's urging. ''As a leading enterprise,'' he said, ''we should respond to the call of the government.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

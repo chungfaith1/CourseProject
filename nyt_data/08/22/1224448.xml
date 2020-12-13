@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>About the Tables</title>
+    <meta content="Y22TAB$03" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Corrections; Editors' Notes; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1224448"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <org class="indexing_service">New York Times</org>
+        <classifier class="online_producer" type="types_of_material">Editors' Note</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Editors' Notes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000822T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E4DE1E3EF931A1575BC0A9669C8B63" item-length="309" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>About the Tables</hl1>
+      </hedline>
+      <abstract>
+        <p>New York Times is revising its stock market tables, listing prices in dollar and cents rather than in fractions; change is being made as stock markets move toward quoting prices of stocks and options in decimals (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Times is revising its stock market tables today, listing prices in dollars and cents rather than in fractions.</p>
+        <p>The change is being made as the stock markets move toward quoting prices of stocks and options in decimals. The Securities and Exchange Commission has set a deadline of April 9, 2001, for the main stock exchanges to convert.</p>
+        <p>Starting next Tuesday, markets will test decimal pricing for seven issues on the New York Stock Exchange and some on the American Stock Exchange. The test will add 57 Big Board issues on Sept. 25. Nasdaq stocks are scheduled to begin trading in decimals in March, with all United States stocks and options trading in decimals by the April deadline.</p>
+        <p>Until the stocks trade in decimals, the tables will round their fraction prices to two decimal places. For example, 12 5/8, which translates into $12.625, will be expressed as $12.63. Articles that mention a stock price will also round it to two places.</p>
+        <p>In some cases, rounding in the tables will create slight discrepancies in changes from the previous day. For example, if a stock closes at $12.125 one day -- and is thus listed as $12.13 -- and it rises $1.125 the next, the increase will be shown as $1.13, but the price will be $13.25, not $13.26.</p>
+        <p>Comments about the changes may be e-mailed to tables@nytimes.com or telephoned to (212) 556-3123.</p>
+      </block>
+      <block class="full_text">
+        <p>The Times is revising its stock market tables today, listing prices in dollars and cents rather than in fractions.</p>
+        <p>The change is being made as the stock markets move toward quoting prices of stocks and options in decimals. The Securities and Exchange Commission has set a deadline of April 9, 2001, for the main stock exchanges to convert.</p>
+        <p>Starting next Tuesday, markets will test decimal pricing for seven issues on the New York Stock Exchange and some on the American Stock Exchange. The test will add 57 Big Board issues on Sept. 25. Nasdaq stocks are scheduled to begin trading in decimals in March, with all United States stocks and options trading in decimals by the April deadline.</p>
+        <p>Until the stocks trade in decimals, the tables will round their fraction prices to two decimal places. For example, 12 5/8, which translates into $12.625, will be expressed as $12.63. Articles that mention a stock price will also round it to two places.</p>
+        <p>In some cases, rounding in the tables will create slight discrepancies in changes from the previous day. For example, if a stock closes at $12.125 one day -- and is thus listed as $12.13 -- and it rises $1.125 the next, the increase will be shown as $1.13, but the price will be $13.25, not $13.26.</p>
+        <p>Comments about the changes may be e-mailed to tables@nytimes.com or telephoned to (212) 556-3123.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

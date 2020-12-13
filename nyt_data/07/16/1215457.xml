@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Trying Other Ways To Calculate Cab Fares</title>
+    <meta content="LTR033639" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215457"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Taxicabs and Taxicab Drivers</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <person class="indexing_service">Penn, Steve</person>
+        <person class="indexing_service">Noveck, Ira</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxicabs and Taxicab Drivers</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE3D6143BF935A25754C0A9669C8B63" item-length="185" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Trying Other Ways To Calculate Cab Fares</hl1>
+      </hedline>
+      <abstract>
+        <p>Steve Penn letter on Ira Noveck's June 25 letter suggests easier method to split cab fares; drawing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Here is a method that would solve the problem if any number of riders shared the cab, when no simple formula might be evident.</p>
+        <p>To do this, consider that the ''true value'' of the trip is the same as if each person took a separate cab, and then prorate the actual cost of the single trip in accord with each rider's proportion of the ''true value.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Here is a method that would solve the problem if any number of riders shared the cab, when no simple formula might be evident.</p>
+        <p>To do this, consider that the ''true value'' of the trip is the same as if each person took a separate cab, and then prorate the actual cost of the single trip in accord with each rider's proportion of the ''true value.''</p>
+        <p>Following Mr. Noveck's example, if the meter reads $10 when the first rider leaves, and $15 when the second leaves, then the true value of the trip is $25 (the sum, as if two cabs had been taken).</p>
+        <p>The first rider's portion of this is his meter reading divided by the total, 10/25 or 40 percent. So he pays 40 percent of the actual cost of $15, which comes to $6. The second rider's fraction is 15/25 or 60 percent, so his cost is 60 percent of $15, which is $9.</p>
+        <p>STEVE PENN  Jackson Heights, Queens</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

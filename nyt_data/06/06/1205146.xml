@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Granting Work-Release</title>
+    <meta content="L06WOR" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1205146"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Crime and Criminals</classifier>
+        <classifier class="indexing_service" type="descriptor">Domestic Violence</classifier>
+        <classifier class="indexing_service" type="descriptor">Probation and Parole</classifier>
+        <classifier class="indexing_service" type="descriptor">Prisons and Prisoners</classifier>
+        <classifier class="indexing_service" type="descriptor">Women</classifier>
+        <person class="indexing_service">Steyskal, Neil</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Violence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Domestic Violence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Probation and Parole</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prisons and Prisoners</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E4DE173FF935A35755C0A9669C8B63" item-length="131" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Granting Work-Release</hl1>
+      </hedline>
+      <abstract>
+        <p>Neil Steyskal letter sees no sense in proposal to grant work-release to violent prisoners who claim to have been victims of family violence, since this would base treatment on defense strategy at trial (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Work-Release for Battered Women'' (editorial, May 31):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Work-Release for Battered Women'' (editorial, May 31):</p>
+        <p>You advocate granting work-release to violent prisoners who claim to have been victims of family violence. But it makes no sense to base the treatment of prisoners on their defense strategy at trial. By that logic we should give work-release to murderers who claimed self-defense.</p>
+        <p>NEIL STEYSKAL  Washington, May 31, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

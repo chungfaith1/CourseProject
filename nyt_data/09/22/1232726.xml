@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MARCONI IN DEAL FOR MARIPOSA</title>
+    <meta content="MB235622" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1232726"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY BRIEFING: DEALS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Marconi Plc</org>
+        <org class="indexing_service">Mariposa (Co)</org>
+        <person class="indexing_service">Richtel, Matt</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000922T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E2DE1E3BF931A1575AC0A9669C8B63" item-length="101" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MARCONI IN DEAL FOR MARIPOSA</hl1>
+      </hedline>
+      <byline class="print_byline">By Matt Richtel</byline>
+      <byline class="normalized_byline">Richtel, Matt</byline>
+      <abstract>
+        <p>Marconi PLC acquires Mariposa Technology Inc for $268 million (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Marconi P.L.C. agreed yesterday to acquire Mariposa Technology Inc., a maker of tools used to integrate voice, data and video signals on communications networks for $268 million.</p>
+        <p>Matt Richtel</p>
+      </block>
+      <block class="full_text">
+        <p>Marconi P.L.C. agreed yesterday to acquire Mariposa Technology Inc., a maker of tools used to integrate voice, data and video signals on communications networks for $268 million.</p>
+        <p>Matt Richtel</p>
+        <p>TECHNOLOGY BRIEFING: DEALS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

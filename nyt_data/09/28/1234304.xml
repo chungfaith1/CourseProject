@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Study of the Wired World Finds Dropouts and No-Shows</title>
+    <meta content="28GEE3" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/28/technology/28GEE3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1234304"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Public Opinion</classifier>
+        <org class="indexing_service">Pew Charitable Trusts</org>
+        <person class="indexing_service">Guernsey, Lisa</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000928T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E3DC113AF93BA1575AC0A9669C8B63" item-length="243" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Study of the Wired World Finds Dropouts and No-Shows</hl1>
+      </hedline>
+      <byline class="print_byline">By LISA GUERNSEY</byline>
+      <byline class="normalized_byline">Guernsey, Lisa</byline>
+      <abstract>
+        <p>Survey for Pew Charitable Trusts finds that half of American adults do not have Internet access and that 57 percent of those people have no interest in going online; lack of interest is greatest among people over 50 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If the Internet is the information superhighway, a substantial number of American adults are avoiding the on-ramp, according to a recent survey sponsored by the Pew Charitable Trusts.</p>
+        <p>The survey, which is based on random telephone interviews with about 2,000 adults, shows that half of American adults do not have Internet access and that 57 percent of those people have no interest in going online.</p>
+      </block>
+      <block class="full_text">
+        <p>If the Internet is the information superhighway, a substantial number of American adults are avoiding the on-ramp, according to a recent survey sponsored by the Pew Charitable Trusts.</p>
+        <p>The survey, which is based on random telephone interviews with about 2,000 adults, shows that half of American adults do not have Internet access and that 57 percent of those people have no interest in going online.</p>
+        <p>Among the people over 50 with no Internet access, 74 percent say they have no plans to get access. Cost is not the major stumbling block, according to the survey. Instead, many older Americans say they simply do not see the value in logging on. By contrast, 65 percent of those under 50 say they plan to go online someday but that they worry about the costs of computers and access.</p>
+        <p>About 13 percent of all non-users are what the researchers call Internet dropouts. They were once online, but no longer have access. ''It's a mystery in some cases because they don't want to say why they dropped out,'' said Lee Raine, director of the research. But some respondents said that a significant event, like losing a job, had caused them to give up Web access.</p>
+        <p>The survey results are part of the Pew Internet and American Life Project, an effort to collect, analyze and publish data on Internet use. The results are available at www.pewinternet.org.</p>
+        <p>LISA GUERNSEY</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

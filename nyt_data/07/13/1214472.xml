@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DELL PULLS WEB-BASED PC</title>
+    <meta content="13GEE4$01" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1214472"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Compaq Computer Corp</org>
+        <org class="indexing_service">Dell Computer Corp</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000713T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E1DC1E38F930A25754C0A9669C8B63" item-length="133" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DELL PULLS WEB-BASED PC</hl1>
+      </hedline>
+      <abstract>
+        <p>Dell Computer discontinues its Web-based PC for computer novices and introduces a midrange Dimension 4100 computer; Compaq discontinues Presario 3500 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dell Computer of Round Rock, Tex., has pulled the plug on its Web-based PC for computer novices. The WebPC, introduced in November at $999, was neither simple nor inexpensive enough to catch on, and it has disappeared from Dell's Web site. Rather than chasing the market for inexpensive Net appliances, Dell introduced a midrange line, the Dimension 4100, this week. A Dimension 4100 computer with a 733-megahertz processor, 128 megabytes of memory, a 10-gigabyte hard drive and a 17-inch monitor costs $1,299.</p>
+      </block>
+      <block class="full_text">
+        <p>Dell Computer of Round Rock, Tex., has pulled the plug on its Web-based PC for computer novices. The WebPC, introduced in November at $999, was neither simple nor inexpensive enough to catch on, and it has disappeared from Dell's Web site. Rather than chasing the market for inexpensive Net appliances, Dell introduced a midrange line, the Dimension 4100, this week. A Dimension 4100 computer with a 733-megahertz processor, 128 megabytes of memory, a 10-gigabyte hard drive and a 17-inch monitor costs $1,299.</p>
+        <p>Compaq, meanwhile, discontinued the sleek Presario 3500. It will be sold only in Japan.</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

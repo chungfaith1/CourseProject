@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>HAVERSTRAW: FERRY SERVICE TO BEGIN</title>
+    <meta content="MB235336" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213640"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="IN BRIEF: TRANSPORTATION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Ferries</classifier>
+        <classifier class="indexing_service" type="descriptor">Commuting</classifier>
+        <classifier class="indexing_service" type="descriptor">Tappan Zee Bridge</classifier>
+        <location class="indexing_service">Haverstraw (Ny)</location>
+        <location class="indexing_service">Ossining (NY)</location>
+        <org class="indexing_service">Metropolitan Transportation Authority</org>
+        <person class="indexing_service">Brenner, Elsa</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ferries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Commuting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bridges and Tunnels</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000709T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E1DC1438F93AA35754C0A9669C8B63" item-length="116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>HAVERSTRAW: FERRY SERVICE TO BEGIN</hl1>
+      </hedline>
+      <byline class="print_byline">By ELSA BRENNER</byline>
+      <byline class="normalized_byline">Brenner, Elsa</byline>
+      <abstract>
+        <p>Metropolitan Transportation Authority approves demonstration project to provide rush-hour ferry service between Haverstraw and Ossining, NY, in order to relieve congestion on Tappan Zee Bridge (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Metropolitan Transportation Authority has approved a demonstration project to provide rush-hour ferry service between Haverstraw and Ossining beginning next month. The goal is to relieve congestion on the Tappan Zee Bridge. Commuters can park in Haverstraw in Rockland County and take a NY Waterway ferry to Ossining. Service is to begin at 6:30 a.m. to meet a Metro-North express from Ossining due at Grand Central before 7:30 a.m. The combined ferry-train monthly commuting pass will be $198. A single ferry ticket will be $3.</p>
+        <p>ELSA BRENNER</p>
+      </block>
+      <block class="full_text">
+        <p>The Metropolitan Transportation Authority has approved a demonstration project to provide rush-hour ferry service between Haverstraw and Ossining beginning next month. The goal is to relieve congestion on the Tappan Zee Bridge. Commuters can park in Haverstraw in Rockland County and take a NY Waterway ferry to Ossining. Service is to begin at 6:30 a.m. to meet a Metro-North express from Ossining due at Grand Central before 7:30 a.m. The combined ferry-train monthly commuting pass will be $198. A single ferry ticket will be $3.</p>
+        <p>ELSA BRENNER</p>
+        <p>IN BRIEF: TRANSPORTATION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

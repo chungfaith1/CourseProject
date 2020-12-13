@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR015711" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1218490"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">Young Men's Christian Assn</org>
+        <org class="indexing_service">Mcburney Ymca</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000729T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00EFDB153DF93AA15754C0A9669C8B63" item-length="129" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of July 28 report on new home for McBurney YMCA, regarding information on space being purchased</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Because of an editing error, a report in the Metro Briefing column yesterday about a new home for the McBurney Y.M.C.A. on the site of the old 14th Street Armory in Manhattan referred incorrectly to the space being purchased. The Y.M.C.A. will buy 67,000 square feet on two floors of a two-building complex totaling 350,000 square feet; it is not purchasing the armory site.</p>
+        <p>Also because of an editing error, the report misidentified the signer of a letter of intent for the space. It was the parent Y.M.C.A. of Greater New York, not McBurney itself.</p>
+        <p>The report also included an erroneous figure from the developer for the number of rental apartments in the complex. It is to be 225, not 180.</p>
+      </block>
+      <block class="full_text">
+        <p>Because of an editing error, a report in the Metro Briefing column yesterday about a new home for the McBurney Y.M.C.A. on the site of the old 14th Street Armory in Manhattan referred incorrectly to the space being purchased. The Y.M.C.A. will buy 67,000 square feet on two floors of a two-building complex totaling 350,000 square feet; it is not purchasing the armory site.</p>
+        <p>Also because of an editing error, the report misidentified the signer of a letter of intent for the space. It was the parent Y.M.C.A. of Greater New York, not McBurney itself.</p>
+        <p>The report also included an erroneous figure from the developer for the number of rental apartments in the complex. It is to be 225, not 180.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

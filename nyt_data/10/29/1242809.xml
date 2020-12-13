@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Candy Bars of Soap</title>
+    <meta content="29SOAP$16" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1242809"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PULSE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Cleansers, Detergents and Soaps</classifier>
+        <classifier class="indexing_service" type="descriptor">Halloween</classifier>
+        <org class="indexing_service">Bath and Body Works</org>
+        <person class="indexing_service">Decaro, Frank</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cleansers, Detergents and Soaps</classifier>
+        <classifier class="online_producer" type="general_descriptor">Halloween</classifier>
+        <classifier class="online_producer" type="general_descriptor">Holidays and Special Occasions</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001029T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E7DA1131F93AA15753C1A9669C8B63" item-length="77" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Candy Bars of Soap</hl1>
+      </hedline>
+      <byline class="print_byline">By Frank DeCaro</byline>
+      <byline class="normalized_byline">Decaro, Frank</byline>
+      <abstract>
+        <p>Bath &amp; Body Works is featuring clear glycerin with candy corn-colored soap kernels floating inside; photo (Pulse column: Halloween Special) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Having your mouth washed out was never this much fun. Bath &amp; Body Works, the cosmetics chain, features clear glycerin bars with candy corn-colored soap kernels floating inside. They're $5 each from a selection of Halloween-theme soaps.</p>
+        <p>For adults, there's body lotion in a pumpkin-shaped pump, $11.50.</p>
+      </block>
+      <block class="full_text">
+        <p>Having your mouth washed out was never this much fun. Bath &amp; Body Works, the cosmetics chain, features clear glycerin bars with candy corn-colored soap kernels floating inside. They're $5 each from a selection of Halloween-theme soaps.</p>
+        <p>For adults, there's body lotion in a pumpkin-shaped pump, $11.50.</p>
+        <p>PULSE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

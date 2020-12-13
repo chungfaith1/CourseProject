@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Fiction</title>
+    <meta content="RV135607" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234936"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Yaffe, David</person>
+        <person class="indexing_service">Malarkey, Tucker</person>
+        <object.title class="indexing_service">Obvious Enchantment, An (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001001T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CEED8103BF932A35753C1A9669C8B63" item-length="409" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Fiction</hl1>
+      </hedline>
+      <byline class="print_byline">By David Yaffe</byline>
+      <byline class="normalized_byline">Yaffe, David</byline>
+      <abstract>
+        <p>David Yaffe reviews book An Obvious Enchantment by Tucker Malarkey (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An Obvious Enchantment</p>
+        <p>By Tucker Malarkey.</p>
+        <p>Random House, $23.95.</p>
+      </block>
+      <block class="full_text">
+        <p>An Obvious Enchantment</p>
+        <p>By Tucker Malarkey.</p>
+        <p>Random House, $23.95.</p>
+        <p>Many graduate students have difficulty tracking down their dissertation advisers, but few risk death and damnation to find them. Yet Ingrid Holz, the heroine of Tucker Malarkey's ''Obvious Enchantment,'' makes such a journey in search of Nick Templeton, the maverick adviser of her anthropology dissertation, who has disappeared on an African island while researching the origins of Islam. ''An Obvious Enchantment'' is a first novel, and it shows. The prose is somewhat breathless, and we are given tantalizing, often improbable details from Holz's life (her father, a physics professor, was quite literally struck by lightning). Yet whatever intrigue is suggested by, say, the discovery of a letter written by her now-dead mother or her sexual banter with a seductive fisherman named Finn is drowned out by a convoluted mystery about which Ingrid must find clues in the Koran. Malarkey, who works as an editor for the literary magazine Tin House, is not an unintelligent writer, but for the most part she is content to skim the surface of this novel's themes. The dialogue she gives her characters can be wince-inducing. Templeton, who seems to be modeled on one of Sean Connery's more recent film roles, is prone to deliver donnish, quasi-sexist blather like ''You're not sure you want to be a girl, is that it? Well, if you're not sure of that, how can you be sure of things less fundamental. Me, for instance.'' (And we're supposed to spend an entire novel slogging through Africa looking for this guy?) The combination of bodice ripping, mystery and academic politics surely makes for a good marketing pitch -- The Secret History'' goes native. Beneath such enticements, though, what we really learn is that an impromptu tour through Africa can leave a young, nubile scholar ill, parched and spiritually unsatisfied. Some readers may feel the same way. ''An Obvious Enchantment'' lives up to its title -- it's the more subtle enchantments that are missing.</p>
+        <p>David Yaffe</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

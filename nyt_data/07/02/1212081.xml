@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Baseball Books in Brief</title>
+    <meta content="RV101822" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212081"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <person class="indexing_service">Schwarz, Alan</person>
+        <person class="indexing_service">Costas, Bob</person>
+        <object.title class="indexing_service">Fair Ball: A Fan's Case for Baseball (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07EFD91E31F931A35754C0A9669C8B63" item-length="212" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Baseball Books in Brief</hl1>
+      </hedline>
+      <byline class="print_byline">By Alan Schwarz</byline>
+      <byline class="normalized_byline">Schwarz, Alan</byline>
+      <abstract>
+        <p>Alan Schwarz reviews book Fair Ball: A Fan's Case for Baseball by Bob Costas (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FAIR BALL</p>
+        <p>A Fan's Case for Baseball.</p>
+        <p>By Bob Costas.</p>
+        <p>Broadway, $21.95.</p>
+      </block>
+      <block class="full_text">
+        <p>FAIR BALL</p>
+        <p>A Fan's Case for Baseball.</p>
+        <p>By Bob Costas.</p>
+        <p>Broadway, $21.95.</p>
+        <p>The root of baseball's ills, the sports broadcaster Bob Costas argues, lies in how teams like the Yankees and Atlanta Braves, by virtue of vastly higher revenues than franchises like the Montreal Expos or Kansas City Royals, threaten the game's legitimacy by having ''a monopoly on sustained success.'' Costas's solution is for team owners to start meaningful revenue sharing and force a salary cap on the intransigent players union, even if it takes another strike or lockout to do it. (This would require ownership's first-ever victory over the union.) Costas's plea for junking the wild-card playoff system is impassioned. He also argues for minimal restructuring of the leagues rather than the ''radical realignment'' team owners have discussed, a cutback in stadium advertising and the reinstitution of afternoon World Series games. Such opinions have previously cast Costas as an incurable romantic, sucked under by baseball's undertow of tradition; he is so self-conscious about such labels in ''Fair Ball'' that he uses the word ''paradigm'' three times. This thoughtful plan to ''see the game prove worthy of our devotion'' is offered with the implicit and sanguine hope that it could actually effect some change.</p>
+        <p>Alan Schwarz</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

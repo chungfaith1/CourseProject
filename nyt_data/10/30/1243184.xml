@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Compressed Data; Lessons in Spam: A Nordstrom E-Mail Goes Astray</title>
+    <meta content="30SPAM$02" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/30/technology/30SPAM.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1243184"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Retail Stores and Trade</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <classifier class="indexing_service" type="descriptor">Marketing and Merchandising</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <org class="indexing_service">Nordstrom Inc</org>
+        <org class="indexing_service">Acxiom Corp</org>
+        <person class="indexing_service">Stellin, Susan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Retail</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001030T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01EED61730F933A05753C1A9669C8B63" item-length="581" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Compressed Data; Lessons in Spam: A Nordstrom E-Mail Goes Astray</hl1>
+      </hedline>
+      <byline class="print_byline">By SUSAN STELLIN</byline>
+      <byline class="normalized_byline">Stellin, Susan</byline>
+      <abstract>
+        <p>Nordstrom's e-mail marketing campaign for its Web site raises questions about accuracy and privacy when inaccurate e-mail address it got for one customer from Acxiom Corp resulted in message being sent to business e-mail server computer that forwarded it to list of company's business contacts; retailer says it weighs whether to continue gathering e-mail addresses from paid data supplier; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nordstrom is a prestigious retailer that prides itself on customer service. But an e-mail marketing campaign last week for its Web site, Nordstrom.com, illustrates the pitfalls of relaxing standards on protecting customer information.</p>
+        <p>The mailing list was compiled by the Acxiom Corporation, a data supplier in Little Rock, Ark.</p>
+      </block>
+      <block class="full_text">
+        <p>Nordstrom is a prestigious retailer that prides itself on customer service. But an e-mail marketing campaign last week for its Web site, Nordstrom.com, illustrates the pitfalls of relaxing standards on protecting customer information.</p>
+        <p>The mailing list was compiled by the Acxiom Corporation, a data supplier in Little Rock, Ark.</p>
+        <p>For a fee, the company takes a client's customer data and matches it with names and e-mail addresses in Acxiom's own database.</p>
+        <p>Using customer names provided by Nordstrom, Acxiom generated a list of e-mail addresses to which a subcontractor then sent a promotional message from the store's Web site.</p>
+        <p>''Dear CUSTOMER NAME,'' the message began, ''We'd like to thank you for being a Nordstrom customer, and let you know about all that we have to offer online 24 hours a day.''</p>
+        <p>In at least one case, the Acxiom list was inaccurate. One of the Nordstrom.com e-mails, addressed to a woman named Diana, was instead sent to a business e-mail address based on the name of one of Diana's co-workers, a man named Mike.</p>
+        <p>It was not Mike's actual e-mail address. But because the address contained the Internet domain name of Diana and Mike's employer, an investor relations firm in Manhattan, the message made its way to their employer's e-mail server computer.</p>
+        <p>Confused? So was the e-mail server, which also forwarded the message to a list of the employer's business contacts.</p>
+        <p>In an interview, Mike, who asked that his full name not be published, said he had never entered a Nordstrom store.</p>
+        <p>Diana, who also requested anonymity, said she had purchased something in a Nordstrom catalog in the past. But both said they had never given Nordstrom an e-mail address.</p>
+        <p>What does Nordstrom have to say about an e-mail marketing campaign that raises questions about accuracy and privacy?</p>
+        <p>Shasha Richardson, a spokeswoman for Nordstrom.com, said it was the first time the company had tried to gather e-mail addresses in this manner, and would not necessarily do so again. She did not comment on the misdirected e-mail. ''Right now, we're evaluating feedback from our customers,'' she said. ''Based on that we'll determine if we continue doing this.''</p>
+        <p>She also noted that the promotional e-mail gave recipients the option of asking to be dropped from Nordstrom's e-mail list.</p>
+        <p>While Acxiom would not comment on the Nordstrom mailing, Allison Marr, an Acxiom product manager, acknowledged that the company does not verify the e-mail addresses in its database, most of which are bought from other companies that have collected the information from customers.</p>
+        <p>Dan McLean, vice president for sales and marketing at Boomerang.com, the subcontractor that transmitted the Nordstrom mailing, said matching e-mail addresses with customer data from other sources was a challenge.</p>
+        <p>''There are a couple things in the process that may cause odd things to happen,'' Mr. McLean said. ''It's not an exact science by any stretch of the imagination.''</p>
+        <p>SUSAN STELLIN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rooting for WordPerfect</title>
+    <meta content="LTR010803" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234450"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <person class="indexing_service">wolfson, anne</person>
+        <person class="indexing_service">Brinkley, Joel</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000928T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E5DA1E3AF93BA1575AC0A9669C8B63" item-length="189" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rooting for WordPerfect</hl1>
+      </hedline>
+      <abstract>
+        <p>Anne Wolfson letter on Joel Brinkley's Sept 21 article cites difficulties she has exchanging documents between European version of Word and Wordperfect software she prefers</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I am an in-house attorney in the United States for a global software company with headquarters in Europe. While English is the official language of the company, we are not using the United States version of Word. While we can exchange documents easily internally, exchanging documents with outside counsel has become a chore. One of the law firms we work with uses WordPerfect, and recently these exchanges have lead to extensive, wild and unanticipated changes in fonts, font sizes and margins. The documents sometimes arrive looking like existentialist poetry or digital cubism. My preference would be to use WordPerfect, which I miss after five years of in-house Word use, but that would require persuading the entire company to change along with me, very likely an impossible task.</p>
+        <p>ANNE WOLFSON  New York</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I am an in-house attorney in the United States for a global software company with headquarters in Europe. While English is the official language of the company, we are not using the United States version of Word. While we can exchange documents easily internally, exchanging documents with outside counsel has become a chore. One of the law firms we work with uses WordPerfect, and recently these exchanges have lead to extensive, wild and unanticipated changes in fonts, font sizes and margins. The documents sometimes arrive looking like existentialist poetry or digital cubism. My preference would be to use WordPerfect, which I miss after five years of in-house Word use, but that would require persuading the entire company to change along with me, very likely an impossible task.</p>
+        <p>ANNE WOLFSON  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

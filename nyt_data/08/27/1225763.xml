@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR233557" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Corrections; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225763"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Brokers and Brokerage Firms</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Brokers and Brokerage Firms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000827T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E3D71331F934A1575BC0A9669C8B63" item-length="134" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Aug 20 article on online home sales</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article last Sunday about online home sales misstated the given name of a business professor at the University of California at Berkeley who said the National Association of Realtors had used its Internet presence to protect its profit structure. He is Peter Sealey, not Paul.</p>
+        <p>The article also misstated Professor Sealey's former title. He was chief marketing officer at the Coca-Cola Company, not chief technology officer.</p>
+        <p>The article also referred incorrectly to the arrangements that the association and its affiliated Web sites have with real estate brokerage firms for online listings. The firms are required to list their properties exclusively on the sites in order to receive payments for their listings. They can also list properties with other Web sites, but receive no payments from the association's sites if they do so.</p>
+      </block>
+      <block class="full_text">
+        <p>An article last Sunday about online home sales misstated the given name of a business professor at the University of California at Berkeley who said the National Association of Realtors had used its Internet presence to protect its profit structure. He is Peter Sealey, not Paul.</p>
+        <p>The article also misstated Professor Sealey's former title. He was chief marketing officer at the Coca-Cola Company, not chief technology officer.</p>
+        <p>The article also referred incorrectly to the arrangements that the association and its affiliated Web sites have with real estate brokerage firms for online listings. The firms are required to list their properties exclusively on the sites in order to receive payments for their listings. They can also list properties with other Web sites, but receive no payments from the association's sites if they do so.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

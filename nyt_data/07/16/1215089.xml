@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Letters From the Web</title>
+    <meta content="LTR090239" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215089"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <classifier class="indexing_service" type="descriptor">Discrimination</classifier>
+        <classifier class="indexing_service" type="descriptor">Asian-Americans</classifier>
+        <person class="indexing_service">Saw, Jonathan</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Asian-Americans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E0D61338F935A25754C0A9669C8B63" item-length="112" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Letters From the Web</hl1>
+      </hedline>
+      <abstract>
+        <p>Jonathan Saw, responding to Web site questionnaire about race relations in America describes discrimination he feels at college as Asian-American4</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I was sitting in an Asian-American studies class in college and the professor had just said, ''Not everyone has equal access to the ladder of success in America.'' I overheard one black student say to another, ''Yeah, but you guys'' -- meaning Asians -- had elevators.'' It really brought home the unique place that Asians have in American race relations. We are considered not ''really'' American, but at the same time the ''model minority'' paradigm makes other minorities look at us with deep suspicion.</p>
+        <p>Jonathan Saw  Asian, 31  New York</p>
+      </block>
+      <block class="full_text">
+        <p>I was sitting in an Asian-American studies class in college and the professor had just said, ''Not everyone has equal access to the ladder of success in America.'' I overheard one black student say to another, ''Yeah, but you guys'' -- meaning Asians -- had elevators.'' It really brought home the unique place that Asians have in American race relations. We are considered not ''really'' American, but at the same time the ''model minority'' paradigm makes other minorities look at us with deep suspicion.</p>
+        <p>Jonathan Saw  Asian, 31  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

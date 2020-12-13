@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Sunny Day in May, 93 Degrees</title>
+    <meta content="08RHEA$03" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20000509T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1197963"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Records and Achievements</classifier>
+        <classifier class="indexing_service" type="descriptor">Bicycles and Bicycling</classifier>
+        <location class="indexing_service">New York City</location>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Biking</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="general_descriptor">Records and Achievements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bicycles and Bicycling</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000508T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E0DC1338F93BA35756C0A9669C8B63" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Sunny Day in May, 93 Degrees</hl1>
+      </hedline>
+      <abstract>
+        <p>Photo of cyclists cooling off at Empire-Fulton Ferry State Park as temperatures reaches record 93 degrees in New York City</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>Correction:  May 9, 2000, Tuesday  A picture caption yesterday with a front-page picture of two bicyclists lying in the shade in a Brooklyn park gave an incorrect surname in some copies for the woman shown. She was Charisse Tyus, not Tyson.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: May 9, 2000, Tuesday</p>
+        <p>A picture caption yesterday with a front-page picture of two bicyclists lying in the shade in a Brooklyn park gave an incorrect surname in some copies for the woman shown. She was Charisse Tyus, not Tyson.</p>
+        <p>&lt;br&gt;</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

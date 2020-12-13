@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="14CMPBRFS" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1238662"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="indexing_service" type="descriptor">Shipbuilding, Conversion and Repair</classifier>
+        <classifier class="indexing_service" type="descriptor">Tankers</classifier>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <org class="indexing_service">Litton Industries</org>
+        <org class="indexing_service">Phillips Petroleum Co</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001014T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE4D7133FF937A25753C1A9669C8B63" item-length="281" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+      <abstract>
+        <p>Litton Industries will build oil tanker for Phillips Petroleum Co in contract valued at $197 million (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LITTON INDUSTRIES INC., Woodland Hills, Calif., the third-largest shipbuilder for the United States Navy, said it would build an oil tanker for the Phillips Petroleum Co., Bartlesville, Okla., the sixth-largest oil company, valued at $197 million.</p>
+      </block>
+      <block class="full_text">
+        <p>LITTON INDUSTRIES INC., Woodland Hills, Calif., the third-largest shipbuilder for the United States Navy, said it would build an oil tanker for the Phillips Petroleum Co., Bartlesville, Okla., the sixth-largest oil company, valued at $197 million.</p>
+        <p>LEVEL 3 COMMUNICATIONS INC., Broomfield, Colo., said it won a 20-year contract valued at more than $100 million to supply networking services to France Telecom S.A., Paris, the No. 2 telephone company in Europe.</p>
+        <p>SHOP AT HOME INC., Nashville, the third-largest home-shopping retailer in the United States, agreed to sell its television station, KZJL, Channel 61, in Houston to Liberman Broadcasting Inc., Burbank, Calif., for $57 million.</p>
+        <p>DAIMLERCHRYSLER A.G., Stuttgart, Germany, the No. 1 maker of commercial trucks in the world, said it completed a $583 million purchase of the Detroit Diesel Corp., Detroit, a former division of the General Motors Corp.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

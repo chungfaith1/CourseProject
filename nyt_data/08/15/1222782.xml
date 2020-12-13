@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Peanut Butter Is Reintroduced</title>
+    <meta content="MB235251" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1222782"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Candy</classifier>
+        <org class="indexing_service">Mars Inc</org>
+        <person class="indexing_service">Pfanner, Eric</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Candy</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000815T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE0D6113FF936A2575BC0A9669C8B63" item-length="177" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Peanut Butter Is Reintroduced</hl1>
+      </hedline>
+      <byline class="print_byline">By Eric Pfanner</byline>
+      <byline class="normalized_byline">Pfanner, Eric</byline>
+      <abstract>
+        <p>M&amp;M/Mars, part of Mars Inc, is reintroducing TWIX Peanut Butter brand, bringing it back after three years; shipments to retailers will begin this month (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>M&amp; M/Mars, part of Mars Inc., said yesterday that it was reintroducing the TWIX Peanut Butter brand, bringing it back after three years. Shipments to retailers will begin this month.</p>
+        <p>''We've had so many consumer calls saying they want peanut butter back,'' said Michelle Weese, a spokeswoman for M&amp; M/Mars in Hackettstown, N.J.</p>
+      </block>
+      <block class="full_text">
+        <p>M&amp; M/Mars, part of Mars Inc., said yesterday that it was reintroducing the TWIX Peanut Butter brand, bringing it back after three years. Shipments to retailers will begin this month.</p>
+        <p>''We've had so many consumer calls saying they want peanut butter back,'' said Michelle Weese, a spokeswoman for M&amp; M/Mars in Hackettstown, N.J.</p>
+        <p>Three years ago, ''we realized we had too many varieties out and it diluted the line,'' Ms. Weese added, ''so what we wanted to do was regain focus, so we pared it down back to the original which was caramel.''</p>
+        <p>Ms. Weese said the reintroduction would be accompanied by a television and radio campaign created by Grey Worldwide in New York, part of the Grey Global Group, starting in November.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

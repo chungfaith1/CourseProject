@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>PayPal Praise and Problems</title>
+    <meta content="LTR234942" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212881"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">x.com corp</org>
+        <person class="indexing_service">rand, richard</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000706T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404EFD61E39F935A35754C0A9669C8B63" item-length="103" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>PayPal Praise and Problems</hl1>
+      </hedline>
+      <abstract>
+        <p>Richard Rand letter praises PayPal online payment system (June 29 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I have been an eBayer for about a year, primarily for clothing, and I have been rarely burned. I also signed on to PayPal (''Easy Payments Put Hole in the Pocketbook,'' Online Shopper, June 29).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I have been an eBayer for about a year, primarily for clothing, and I have been rarely burned. I also signed on to PayPal (''Easy Payments Put Hole in the Pocketbook,'' Online Shopper, June 29).</p>
+        <p>I agree that it makes it easy to spend more, but it also expedites the transaction. Sending a check from Hawaii to most of the continental United States takes up to five days, so most of my transactions had taken about two weeks. With PayPal, that time has been reduced to as little as five days.</p>
+        <p>RICHARD RAND  Honolulu</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

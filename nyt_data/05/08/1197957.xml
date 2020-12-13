@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="08INSI$04" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1197957"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000508T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E4DC1338F93BA35756C0A9669C8B63" item-length="188" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Farewell to the Cardinal  Thousands are to gather today for an intricately choreographed funeral service for Cardinal John O'Connor, as dignitaries and parishioners recall his life and work.</p>
+        <p>PAGE B1</p>
+      </block>
+      <block class="full_text">
+        <p>Farewell to the Cardinal  Thousands are to gather today for an intricately choreographed funeral service for Cardinal John O'Connor, as dignitaries and parishioners recall his life and work.</p>
+        <p>PAGE B1</p>
+        <p>Missing at Spring Auctions  On the eve of the multimillion-dollar spring auctions at Sotheby's in New York, Diana D. Brooks, the former president and chief executive, finds her life in limbo.</p>
+        <p>THE ARTS, PAGE E1</p>
+        <p>Douglas Fairbanks Jr. Dies  The dashing star of scores of films, who also produced television shows, socialized with British royalty and did volunteer work on behalf of war victims, was 90.</p>
+        <p>PAGE B7</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

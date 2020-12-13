@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Who Pays?</title>
+    <meta content="LTR014722" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1206403"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NAPSTER"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings (Audio)</classifier>
+        <classifier class="indexing_service" type="descriptor">Industrial Espionage</classifier>
+        <org class="indexing_service">Napster</org>
+        <person class="indexing_service">Pettersen, Ed</person>
+        <person class="indexing_service">Powers, Ann</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Espionage</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE4D7133FF932A25755C0A9669C8B63" item-length="161" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Who Pays?</hl1>
+      </hedline>
+      <abstract>
+        <p>Ed Pettersen letter disputes Ann Powers' statement in May 21 article that Napster fans matter more than rights of rock musicians (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In reference to Ann Powers's article on Napster, Metallica et al. [''Rock Star Vs. Rock Fan: Who Matters?'' May 21]: she's kidding, right? It must have slipped her mind that 99.9 percent of artists not only barely eke out a living but get ripped off fairly often as well. So now we're supposed to let anyone with a computer and a hard drive bear the fruits of our years of hard work and frustration for free? And they in turn can offer it to their friends, family, associates, anyone, also for free? Don't you think this may have a long-term effect on artists' ability to survive, not to mention art as a whole? How will it grow? Who will fund it? So if Metallica, Dr. Dre and any other musical millionaires want to fight our battles for us, more power to them. We practically give everything else away anyhow.</p>
+        <p>ED PETTERSEN  Upper Black Eddy, Penn.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In reference to Ann Powers's article on Napster, Metallica et al. [''Rock Star Vs. Rock Fan: Who Matters?'' May 21]: she's kidding, right? It must have slipped her mind that 99.9 percent of artists not only barely eke out a living but get ripped off fairly often as well. So now we're supposed to let anyone with a computer and a hard drive bear the fruits of our years of hard work and frustration for free? And they in turn can offer it to their friends, family, associates, anyone, also for free? Don't you think this may have a long-term effect on artists' ability to survive, not to mention art as a whole? How will it grow? Who will fund it? So if Metallica, Dr. Dre and any other musical millionaires want to fight our battles for us, more power to them. We practically give everything else away anyhow.</p>
+        <p>ED PETTERSEN  Upper Black Eddy, Penn.</p>
+        <p>NAPSTER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

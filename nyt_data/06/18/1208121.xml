@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'You Don't Have To Take the Bait'</title>
+    <meta content="LTR105541" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208121"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Detectives (Private)</classifier>
+        <person class="indexing_service">Mackey, Robert</person>
+        <person class="indexing_service">Laucello, Victoria</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Detectives (Private)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E2DA153EF93BA25755C0A9669C8B63" item-length="134" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'You Don't Have To Take the Bait'</hl1>
+      </hedline>
+      <abstract>
+        <p>Victoria Laucello letter on Robert Mackey's May 21 Lives essay scores search-and-destroy tactics used by female undercover investigators</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Your Lives essay was interesting, but I was a little put off by the search-and-destroy tactics employed by these women. Certainly philandering men need to be held accountable for the pain they cause. But face it, the average guy is going to salivate, in response to an overtly seductive woman, regardless of the level of commitment in his personal relationships.</p>
+        <p>Victoria Laucello</p>
+        <p>Clinton, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>Your Lives essay was interesting, but I was a little put off by the search-and-destroy tactics employed by these women. Certainly philandering men need to be held accountable for the pain they cause. But face it, the average guy is going to salivate, in response to an overtly seductive woman, regardless of the level of commitment in his personal relationships.</p>
+        <p>Victoria Laucello</p>
+        <p>Clinton, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

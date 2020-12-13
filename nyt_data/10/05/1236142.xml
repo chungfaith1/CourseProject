@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Visor Goes Wireless With New Modules</title>
+    <meta content="05GEE1$06" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/05/technology/05GEE1.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1236142"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Handspring Inc</org>
+        <org class="indexing_service">Glenayre Technologies</org>
+        <person class="indexing_service">Miller, Stephen C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001005T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E5D91E3DF936A35753C1A9669C8B63" item-length="319" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Visor Goes Wireless With New Modules</hl1>
+      </hedline>
+      <byline class="print_byline">By STEPHEN C. MILLER</byline>
+      <byline class="normalized_byline">Miller, Stephen C</byline>
+      <abstract>
+        <p>Glenayre introduces ActiveLink Springboard module for Handspring's Visor handheld computer; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It's an unwritten law in the computer industry that when any new gadget is available, it takes about a year before the developers start releasing useful add-ons. The year is up for Handspring's Visor, and the floodgates have opened with the availability of interesting -- and not so interesting -- Springboard modules. (The Springboard is the  name for a Handspring expansion slot.)</p>
+        <p>Glenayre and Novatel have both announced modules that allow a user to be connected with e-mail and information from the Web all the time. Glenayre's ActiveLink is available now, and the Novatel Minstrel S will be out by the end of the month.</p>
+        <p>The ActiveLink module is a two-way pager that uses the same technology as the popular Motorola Pagewriter units. It offers two services, BeamLink, for e-mail, and Infobeam, for retrieving information from the Web. Both load automatically when the modules are inserted in the Springboard slot.</p>
+      </block>
+      <block class="full_text">
+        <p>It's an unwritten law in the computer industry that when any new gadget is available, it takes about a year before the developers start releasing useful add-ons. The year is up for Handspring's Visor, and the floodgates have opened with the availability of interesting -- and not so interesting -- Springboard modules. (The Springboard is the  name for a Handspring expansion slot.)</p>
+        <p>Glenayre and Novatel have both announced modules that allow a user to be connected with e-mail and information from the Web all the time. Glenayre's ActiveLink is available now, and the Novatel Minstrel S will be out by the end of the month.</p>
+        <p>The ActiveLink module is a two-way pager that uses the same technology as the popular Motorola Pagewriter units. It offers two services, BeamLink, for e-mail, and Infobeam, for retrieving information from the Web. Both load automatically when the modules are inserted in the Springboard slot.</p>
+        <p>The e-mail software makes use of the address book that is already in the Visor, or after syncing, with the contact manager on a PC or a Mac.</p>
+        <p>The Infobeam service provides access to news, sports, weather, stock quotations and other useful information. After the user selects the appropriate icon and fills out a form, the information is sent to the ActiveLink. For example, you can enter the ZIP code and quickly find out the temperature in Maplewood, N.J.</p>
+        <p>Currently, the ActiveLink is part of a special package that includes a Visor Deluxe. The bundle retails for $428 and is available online at PalmGear.com and at Amazon.com. (The wireless services require additional activation and monthly fees.) Those who already own Visors will be able to purchase the ActiveLink unit early next year.</p>
+        <p>STEPHEN C. MILLER</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

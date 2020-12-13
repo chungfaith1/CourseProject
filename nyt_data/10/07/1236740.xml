@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="07INSI$02" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1236740"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001007T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E0DF123CF934A35753C1A9669C8B63" item-length="130" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Yankees Lead Series; Seattle Sweeps Chicago  The Yankees beat the Oakland Athletics, 4-2, and now lead their playoff series two games to one. And the Seattle Mariners won, 2-1, eliminating the Chicago White Sox in three straight games.</p>
+        <p>SPORTSSATURDAY, PAGE D1</p>
+      </block>
+      <block class="full_text">
+        <p>Yankees Lead Series; Seattle Sweeps Chicago  The Yankees beat the Oakland Athletics, 4-2, and now lead their playoff series two games to one. And the Seattle Mariners won, 2-1, eliminating the Chicago White Sox in three straight games.</p>
+        <p>SPORTSSATURDAY, PAGE D1</p>
+        <p>Battle on Judicial Races  Efforts by states to rein in aggressive politicking by judicial candidates are being blocked by judges as unconstitutional.</p>
+        <p>PAGE A9</p>
+        <p>Hockey Player Sentenced  A Canadian judge gave Marty McSorley probation for hitting another player in the head with a stick in an N.H.L. game.</p>
+        <p>PAGE D7</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Advanced Micro to Describe a Chip That Will Take On Intel</title>
+    <meta content="Y10CHIP" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/08/10/technology/10CHIP.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1221417"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Chips</classifier>
+        <classifier class="indexing_service" type="descriptor">Design</classifier>
+        <org class="indexing_service">Advanced Micro Devices Inc</org>
+        <org class="indexing_service">Intel Corp</org>
+        <person class="indexing_service">Fisher, Lawrence M</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000810T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804EFDF163FF933A2575BC0A9669C8B63" item-length="592" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Advanced Micro to Describe a Chip That Will Take On Intel</hl1>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE M. FISHER</byline>
+      <byline class="normalized_byline">Fisher, Lawrence M</byline>
+      <dateline>SAN FRANCISCO, Aug. 9</dateline>
+      <abstract>
+        <p>Advanced Micro Devices Inc plans to release design details of its new 64-bit processor, chip intended to compete head on with Intel Corporation's forthcoming Itanium; expects new chip to help it gain sales in workstation and server market (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Advanced Micro Devices Inc. plans to release design details of its new 64-bit processor on Thursday, a chip that is intended to compete head on with the Intel Corporation's forthcoming Itanium. Advanced Micro said it expected the new chip to help it gain sales in the workstation and server market.</p>
+        <p>With the formal public distribution of an overview by Advanced Micro's programmers, software developers can now begin modifying existing applications or creating new programs to run on the chip, which the company expects to ship next year.</p>
+      </block>
+      <block class="full_text">
+        <p>Advanced Micro Devices Inc. plans to release design details of its new 64-bit processor on Thursday, a chip that is intended to compete head on with the Intel Corporation's forthcoming Itanium. Advanced Micro said it expected the new chip to help it gain sales in the workstation and server market.</p>
+        <p>With the formal public distribution of an overview by Advanced Micro's programmers, software developers can now begin modifying existing applications or creating new programs to run on the chip, which the company expects to ship next year.</p>
+        <p>Software applications that are expected to benefit from the increased power of 64-bit computing include large databases; digital content creation, computer-aided design; security and encryption; Internet content delivery; simulations; weather prediction, and oil exploration.</p>
+        <p>In a move that is critical to the company's strategy, the new chip is an extension of the so-called x86 architecture that is used in Intel's Pentium family and in Advanced Micro's own Athlon; unlike the Itanium, it is not an entirely new design. Advanced Micro says this means that existing 32-bit applications will run on the chip without modification and that writing 64-bit versions of those applications will be a more straightforward process than it is on the Intel product.</p>
+        <p>''That's a very different approach from our main competitor, who is essentially defining an entirely new architecture that is not compatible with existing programs,'' said Martin Booth, Advanced Micro's product marketing manager for computer products. ''Our approach makes the job a lot simpler. You get 64-bit performance while remaining compatible with the existing 32-bit installed base.''</p>
+        <p>Michael Sullivan, an Intel spokesman, said the Itanium chip would be compatible, even though it was not an extension of the x86 design. ''While the Itanium processor is designed from the ground up for advanced 64-bit server and workstation environments, 32-bit software runs on the processor in silicon with no emulation required,'' he said. Intel published the details of the Itanium on May 26, 1999.</p>
+        <p>But analysts said that there was some merit to Advanced Micro's assertions of higher performance on existing applications, if no way to prove them at this time, and that the company's strategy made sense in light of Intel's market dominance. Although Advanced Micro has made considerable gains in market share in the low and middle end of the desktop PC market, it has only a tiny share in workstations and servers.</p>
+        <p>''There will be a segment of the market that will find their proposition appealing,'' said Drew Peck, an analyst with SG Cowen. ''On the other hand, A.M.D. doesn't have much experience marketing to the high end of the market,'' he said, noting that those customers willing to use a non-Intel processor can already turn to Sparc, made by Sun Microsystems Inc. ''My view is this market will be highly fragmented, so the total opportunity is not huge,'' he said.</p>
+        <p>Steve Leibson, editor in chief of the Microprocessor Report, said that Advanced Micro was taking a practical approach, albeit one more likely to gain sales in the PC market than in servers. ''This backward compatibility stuff really only makes sense in the desktop market, and I don't think it will affect price that much,'' he said. ''I think what they're doing is very intelligently spotting an opportunity within Intel's strategy that they can exploit.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

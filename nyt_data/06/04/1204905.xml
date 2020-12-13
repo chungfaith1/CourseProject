@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Testing Can't Measure the Person</title>
+    <meta content="LTR234803" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204905"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <person class="indexing_service">Lewton, Batya</person>
+        <person class="indexing_service">Botstein, Leon</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E0D81F3CF937A35755C0A9669C8B63" item-length="182" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Testing Can't Measure the Person</hl1>
+      </hedline>
+      <abstract>
+        <p>Batya Lewton letter responds to Leon Botstein's May 28 Op-Ed commentary on standardized tests; contends timed tests do not accurately measure students' competence (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Leon Botstein (Op-Ed, May 28) writes, ''We still confuse speed with competence.'' That statement pinpoints a key problem with all standardized testing. Timed tests do not truly determine a student's competence. I taught many students (1956-71) in the New York City school system whose test scores belied their true abilities.</p>
+        <p>Diagnostic tests in math used to be given in New York City schools during the first week of school. In 1956, elementary school students were given a simple six-page diagnostic math test by their classroom teachers to determine which skills they had learned in their previous grade and which skills had to be retaught or reinforced. The teacher marked the tests and grouped the students according to their needs in math.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Leon Botstein (Op-Ed, May 28) writes, ''We still confuse speed with competence.'' That statement pinpoints a key problem with all standardized testing. Timed tests do not truly determine a student's competence. I taught many students (1956-71) in the New York City school system whose test scores belied their true abilities.</p>
+        <p>Diagnostic tests in math used to be given in New York City schools during the first week of school. In 1956, elementary school students were given a simple six-page diagnostic math test by their classroom teachers to determine which skills they had learned in their previous grade and which skills had to be retaught or reinforced. The teacher marked the tests and grouped the students according to their needs in math.</p>
+        <p>It is time to return to simple diagnostic tests, untimed and marked by the classroom teacher.</p>
+        <p>BATYA LEWTON  New York, May 28, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

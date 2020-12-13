@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Boom Box</title>
+    <meta content="LTR080947" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1227449"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <person class="indexing_service">Power, Stephen S</person>
+        <person class="indexing_service">Lewis, Michael</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000903T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E4DD1F31F930A3575AC0A9669C8B63" item-length="89" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Boom Box</hl1>
+      </hedline>
+      <abstract>
+        <p>Stephen S Power says he has decided to wait before buying Replay or TiVo television after reading Michael Lewis's August 13 article (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I've been thinking about buying a Replay or a TiVo. But after reading Michael Lewis's article (Aug. 13), I've decided to wait until someone invents a complementary and equally subversive device -- one that prevents Replay and TiVo from packaging my viewing habits for resale. Why pay to be spied on? I'd sooner let some network suit go through my trash.</p>
+        <p>Stephen S. Power  Maplewood, N.J.</p>
+      </block>
+      <block class="full_text">
+        <p>I've been thinking about buying a Replay or a TiVo. But after reading Michael Lewis's article (Aug. 13), I've decided to wait until someone invents a complementary and equally subversive device -- one that prevents Replay and TiVo from packaging my viewing habits for resale. Why pay to be spied on? I'd sooner let some network suit go through my trash.</p>
+        <p>Stephen S. Power  Maplewood, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

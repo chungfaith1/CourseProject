@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Transportation Bill Approved in Committee</title>
+    <meta content="MN004959" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1197061"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="METRO NEWS BRIEFS: NEW JERSEY"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000505T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E4DC1738F936A35756C0A9669C8B63" item-length="75" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Transportation Bill Approved in Committee</hl1>
+      </hedline>
+      <dateline>NEWARK</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Senate Transportation Committee approved a bill yesterday to allocate $4 billion over four years for road, bridge and tunnel projects without raising the state gasoline tax.</p>
+      </block>
+      <block class="full_text">
+        <p>The Senate Transportation Committee approved a bill yesterday to allocate $4 billion over four years for road, bridge and tunnel projects without raising the state gasoline tax.</p>
+        <p>The bill reauthorizes the state Transportation Trust Fund at a rate of $1 billion a year from 2001 though 2004, with money from the general fund. It must be approved by the full Assembly and Senate and Gov. Christine Todd Whitman.</p>
+        <p>METRO NEWS BRIEFS: NEW JERSEY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

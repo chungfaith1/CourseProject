@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Premiere, of Sorts</title>
+    <meta content="MB233256" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1237949"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TV NOTES"/>
+      <identified-content>
+        <person class="indexing_service">Shapiro, Neal</person>
+        <person class="indexing_service">Chang, JuJu</person>
+        <person class="indexing_service">Rutenberg, Jim</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001011T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403EFD91F3CF932A25753C1A9669C8B63" item-length="75" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Premiere, of Sorts</hl1>
+      </hedline>
+      <byline class="print_byline">By JIM RUTENBERG</byline>
+      <byline class="normalized_byline">Rutenberg, Jim</byline>
+      <abstract>
+        <p>Neal Shapiro, Dateline NBC's exec producer, and his wife, Juju Chang, announce birth of baby boy (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Speaking of children's programming . . . ''Dateline NBC's'' executive producer, Neal Shapiro, and his wife, Juju Chang, the ABC News correspondent, yesterday announced a new joint production: Jared Reese Shapiro, a 7-pound, 12-ounce boy.</p>
+        <p>JIM RUTENBERG</p>
+      </block>
+      <block class="full_text">
+        <p>Speaking of children's programming . . . ''Dateline NBC's'' executive producer, Neal Shapiro, and his wife, Juju Chang, the ABC News correspondent, yesterday announced a new joint production: Jared Reese Shapiro, a 7-pound, 12-ounce boy.</p>
+        <p>JIM RUTENBERG</p>
+        <p>TV NOTES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

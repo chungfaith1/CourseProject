@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Navratilova Shifts Roles</title>
+    <meta content="PL011626" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1198690"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PLUS: TENNIS -- WIMBLEDON COVERAGE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Tennis</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Wimbledon Tennis Tournament</classifier>
+        <org class="indexing_service">Turner Network Television</org>
+        <org class="indexing_service">Cable News Network</org>
+        <person class="indexing_service">Navratilova, Martina</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Tennis</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wimbledon Tennis Tournament</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tennis</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000511T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E4D8163BF932A25756C0A9669C8B63" item-length="105" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Navratilova Shifts Roles</hl1>
+      </hedline>
+      <abstract>
+        <p>Martina Navratilova is added to TNT and CNN/SI's coverage of Wimbledon (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Martina Navratilova has been added to TNT and CNN/SI's coverage of Wimbledon, after working as an HBO analyst of the tournament in recent years.</p>
+      </block>
+      <block class="full_text">
+        <p>Martina Navratilova has been added to TNT and CNN/SI's coverage of Wimbledon, after working as an HBO analyst of the tournament in recent years.</p>
+        <p>HBO chose not to continue carrying Wimbledon after its contract ended last year, but TNT and CNN/SI, which are also owned by Time Warner, bought the rights. Also joining Navratilova will be Jim Courier, the newly retired player; Barry MacKay; and Mary Carillo.</p>
+        <p>PLUS: TENNIS -- WIMBLEDON COVERAGE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>LONDON STOCK EXCHANGE BID</title>
+    <meta content="MB234434" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1238669"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WORLD BUSINESS BRIEFING: EUROPE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Om Gruppen</org>
+        <org class="indexing_service">London Stock Exchange</org>
+        <person class="indexing_service">Kapner, Suzanne</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001014T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DEFD7133FF937A25753C1A9669C8B63" item-length="103" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>LONDON STOCK EXCHANGE BID</hl1>
+      </hedline>
+      <byline class="print_byline">By Suzanne Kapner</byline>
+      <byline class="normalized_byline">Kapner, Suzanne</byline>
+      <abstract>
+        <p>OM Gruppen increases its bid for London Stock Exchange by as much as 53 percent, to $1.54 billion (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>OM Gruppen, the parent of the Stockholm stock exchange, increased its bid for the London Stock Exchange by as much as 53 percent, to $:1.06 billion, or $1.54 billion, in an effort to woo shareholders who had dismissed its original offer as too low. Under the new terms, OM Gruppen is offering the holders a choice between an all-stock deal valued at $:35.83 a share and a mixture of stock and cash valued at $:32.79 a share. The London exchange, which has been resisting the takeover effort since it was announced Aug. 29, called the sweetened offer inadequate.</p>
+        <p>Suzanne Kapner</p>
+      </block>
+      <block class="full_text">
+        <p>OM Gruppen, the parent of the Stockholm stock exchange, increased its bid for the London Stock Exchange by as much as 53 percent, to $:1.06 billion, or $1.54 billion, in an effort to woo shareholders who had dismissed its original offer as too low. Under the new terms, OM Gruppen is offering the holders a choice between an all-stock deal valued at $:35.83 a share and a mixture of stock and cash valued at $:32.79 a share. The London exchange, which has been resisting the takeover effort since it was announced Aug. 29, called the sweetened offer inadequate.</p>
+        <p>Suzanne Kapner</p>
+        <p>WORLD BUSINESS BRIEFING: EUROPE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

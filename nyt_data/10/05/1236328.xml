@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pseudo.com Bankruptcy</title>
+    <meta content="MB024944" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1236328"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="METRO BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bankruptcies</classifier>
+        <classifier class="indexing_service" type="descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <org class="indexing_service">Pseudo.com</org>
+        <person class="indexing_service">Blair, Jayson</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bankruptcies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001005T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06EFDE163CF936A35753C1A9669C8B63" item-length="110" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pseudo.com Bankruptcy</hl1>
+      </hedline>
+      <byline class="print_byline">By Jayson Blair</byline>
+      <byline class="normalized_byline">Blair, Jayson</byline>
+      <abstract>
+        <p>Pseudo.com, Silicon Alley content company, files for bankruptcy in Federal District Court in Manhattan, two weeks after it laid off its 175 employees (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Pseudo.com, a Silicon Alley content company, filed for bankruptcy in Federal District Court in Manhattan on Tuesday, two weeks after it laid off its 175 employees.</p>
+        <p>The Pseudo's assets include computer network servers, more than 100 desktop computers, video editing equipment, the leases at two buildings in SoHo and the software used to manage its chat rooms.</p>
+      </block>
+      <block class="full_text">
+        <p>Pseudo.com, a Silicon Alley content company, filed for bankruptcy in Federal District Court in Manhattan on Tuesday, two weeks after it laid off its 175 employees.</p>
+        <p>The Pseudo's assets include computer network servers, more than 100 desktop computers, video editing equipment, the leases at two buildings in SoHo and the software used to manage its chat rooms.</p>
+        <p>Josh Harris, who helped found Pseudo in 1994, bought the company's video archive for $1 million.</p>
+        <p>Jayson Blair (NYT)</p>
+        <p>METRO BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

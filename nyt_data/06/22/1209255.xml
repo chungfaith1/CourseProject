@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Trying to Give Bomb Squad Robots Brains to Match Their Brawn</title>
+    <meta content="22NEXT$01" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209255"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WHAT'S NEXT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bombs and Explosives</classifier>
+        <classifier class="indexing_service" type="descriptor">Robots</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Police</classifier>
+        <org class="indexing_service">Sandia National Laboratory</org>
+        <person class="indexing_service">Bennett, Phil</person>
+        <person class="indexing_service">Sorid, Daniel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/What's Next</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Robots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bombs and Explosives</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000622T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE2D61531F931A15755C0A9669C8B63" item-length="1037" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Trying to Give Bomb Squad Robots Brains to Match Their Brawn</hl1>
+      </hedline>
+      <byline class="print_byline">By DANIEL SORID</byline>
+      <byline class="normalized_byline">Sorid, Daniel</byline>
+      <abstract>
+        <p>Daniel Sorid (What's Next) article discusses efforts by Phil Bennett, mechanical engineer at Sandia national laboratory, to use lab's technology to make bomb squad robots better; says Bennett found that major flaw in such robots is that controls are unwieldy and, as result, they are underused by police and security officers; plans to adapt for bomb robots a software called Smart, developed at Sandia, that allows robots to use components made by different vendors (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SOMETIMES confusion is the mother of invention. A researcher at Sandia National Laboratories in Albuquerque is trying to devise software that will make bomb squad robots easier to use. That will help law enforcement agencies put machines, rather than people, in harm's way when a bomb is suspected.</p>
+        <p>The robots are already sophisticated and capable in many ways. The problem is that they can be difficult to use.</p>
+      </block>
+      <block class="full_text">
+        <p>SOMETIMES confusion is the mother of invention. A researcher at Sandia National Laboratories in Albuquerque is trying to devise software that will make bomb squad robots easier to use. That will help law enforcement agencies put machines, rather than people, in harm's way when a bomb is suspected.</p>
+        <p>The robots are already sophisticated and capable in many ways. The problem is that they can be difficult to use.</p>
+        <p>The Albuquerque Police Department is a case in point. After several years of seeking money for a robot to help disarm explosives, the department spent $160,000 in 1998 for a remote-controlled robot called Andros, built by Remotec, a subsidiary of Northrop Grumman. The Albuquerque department, which responds to bomb threats statewide, had one of only two such robots in New Mexico.</p>
+        <p>Andros came with an impressive resume. It was designed to pick up a suspicious device and put it in a safe container or use one of its tools to disarm or otherwise disrupt a bomb.</p>
+        <p>But soon after the robot was delivered, the department realized that there was a problem. Even though Remotec had given some basic training to department personnel, the officers were having trouble manipulating the robot.</p>
+        <p>Andros is a capable machine. It can climb stairs and maneuver through difficult terrain, even crossing ditches. It is sealed to withstand extreme environments and can work on almost any kind of surface. Most important, it has tools to counteract bombs. Remotec will not describe those tools, it says, because it does not want to make that information available to terrorists.</p>
+        <p>Andros and other bomb squad robots are generally slow, traveling no faster than five miles per hour, but their every motion must be controlled by a human operator. And since the Albuquerque bomb squad officers train with the robot only about two hours a month, they have found it hard to master its remote controls.</p>
+        <p>So while the department says that it has put Andros in service about a dozen times, the robot has only inspected suspicious packages, not disarmed them. Someone from the bomb squad still needs to suit up in 110 pounds of gear to do the real work of keeping the bomb from injuring anyone. ''There have been several other situations where we could have used it,'' said Capt. Ray Schultz, ''but we just weren't comfortable with our proficiency.''</p>
+        <p>That problem attracted the attention of Phil Bennett, a mechanical engineer at Sandia, a Department of Energy laboratory operated by a subsidiary of Lockheed Martin. Mr. Bennett is using the laboratory's technology to make bomb squad robots better.</p>
+        <p>In March, Mr. Bennett asked to observe the Albuquerque police officers in practice situations. He wanted to learn about the difficulties they were having in controlling  Andros and to use that information to design a robot that would be easier to run. The department agreed to his request.</p>
+        <p>What Mr. Bennett found was that while bomb squad robots had been designed to be sturdy and accurate, the controls were unwieldy. As a result, the robots were being underused by security officers. ''The option of a robot sounds attractive until you look at what comes off the shelf,'' Mr. Bennett said. ''What we're trying to do is speed up the process of getting the job done.''</p>
+        <p>Shawn Farrow, vice president for marketing at Remotec, the world's largest manufacturer of hazardous-duty robots, said that its robots were effective and that it had sold 700 of them. Mr. Barrow said that while automation could make the robots complete their tasks faster, speed was less important than accuracy in bomb situations.</p>
+        <p>Mr. Bennett's plan is to adapt for bomb robots a piece of software developed at Sandia for robots that help clean up after environmental disasters. That software, called Smart, for Sandia Modular Architecture for Robotics and Teleoperation, allows a robot to use components, like sensors, made by different vendors.</p>
+        <p>Instead of being completely manually controlled, a robot equipped with Smart could be given sensors that would allow it to make some decisions on its own. The robot could figure out the best path to a point in a room, center itself in a doorway or grip a bomb on its own. That would free security personnel to focus on what steps to take when there was a bomb threat, Mr. Bennett said, rather than focusing on controlling the robot's every move.</p>
+        <p>It could take up to three years of development, testing and evaluation before bomb squad robots controlled by Smart software could be manufactured and sold by the private sector, Mr. Bennett said. If all goes well, he said, the robots will be able to complete their tasks in half the time they do now. And as terrorists develop new types of bombs, a robot using Smart could adapt to the new threats.</p>
+        <p>''Handling bomb threats is one of law enforcement's most treacherous tasks,'' Mr. Bennett said. Smarter robots ''will take some of the burden off the operator's mind while he's figuring out what to do next.''</p>
+        <p>And while it will be difficult to switch the current generation of robots to the Smart system, upgrades will be easy for robots built with Smart controls. That will help law enforcement agencies save money, Mr. Bennett said.</p>
+        <p>''Police agencies have a very limited budget,'' he said, ''and those who can afford to have a robot, or who have gone through the pain of getting funds allocating to buy a robot, want to use them for as many situations as they can.'' While many major cities, like New York, have bomb-disrupting robots, the technology may be picked up by  smaller cities when it becomes more adaptable and easily upgradable.</p>
+        <p>Fortunately, the Albuquerque Police Department has never suffered an injury or death from a bomb, Captain Schultz said. But now that the squad has had a taste of using robots to handle bomb threats, he wants robots to play a greater role in their policing -- once they become easier to use.</p>
+        <p>''We got this great robot,'' he said. ''We want to be able to use it to our full potential.''</p>
+        <p>WHAT'S NEXT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

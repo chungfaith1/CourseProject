@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR014655" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1199098"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">Florida East Coast Industries</org>
+        <org class="indexing_service">St Joe Co</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000513T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1DA123BF930A25756C0A9669C8B63" item-length="89" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of May 6 report on Florida East Coast Industries move into telecommunications; St Joe Company has not yet spun off stake (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Because of an editing error, an article in Business Day on May 6 about the move of Florida East Coast Industries into the telecommunications business misstated the company's ownership. While the St. Joe Company, which holds nearly 54 percent of the company's shares, plans to spin off its stake to shareholders later this year, it has not yet done so.</p>
+      </block>
+      <block class="full_text">
+        <p>Because of an editing error, an article in Business Day on May 6 about the move of Florida East Coast Industries into the telecommunications business misstated the company's ownership. While the St. Joe Company, which holds nearly 54 percent of the company's shares, plans to spin off its stake to shareholders later this year, it has not yet done so.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

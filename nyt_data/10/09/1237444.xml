@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Venture Aims to Guard Genetic Data</title>
+    <meta content="09GENE$01" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/09/business/09GENE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1237444"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <org class="indexing_service">First Genetic Trust Inc</org>
+        <person class="indexing_service">Pollack, Andrew</person>
+        <person class="indexing_service">Holden, Arthur L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001009T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E7D7133CF93AA35753C1A9669C8B63" item-length="587" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Venture Aims to Guard Genetic Data</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREW POLLACK</byline>
+      <byline class="normalized_byline">Pollack, Andrew</byline>
+      <abstract>
+        <p>First Genetic Trust Inc, new venture founded by Arthur L Holden, will hold samples of people's DNA in secure accounts; genetic information will be released for medical research and diagnosis, but only with the person's permission (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For two years, Arthur L. Holden has led an unusual consortium of pharmaceutical companies aimed at finding genetic differences among individuals. Now, with that effort winding down, Mr. Holden is starting a new company aimed at helping people keep such genetic information private.</p>
+        <p>The new company, First Genetic Trust Inc., bills itself as the first ''genetic bank.'' It will hold samples of people's DNA in secure accounts and give out the genetic information for medical research and diagnosis, but only with the person's permission.</p>
+      </block>
+      <block class="full_text">
+        <p>For two years, Arthur L. Holden has led an unusual consortium of pharmaceutical companies aimed at finding genetic differences among individuals. Now, with that effort winding down, Mr. Holden is starting a new company aimed at helping people keep such genetic information private.</p>
+        <p>The new company, First Genetic Trust Inc., bills itself as the first ''genetic bank.'' It will hold samples of people's DNA in secure accounts and give out the genetic information for medical research and diagnosis, but only with the person's permission.</p>
+        <p>Mr. Holden, 47, has been the chairman and chief executive of the SNP Consortium, which has been searching for differences in the genetic code among individuals that determine traits such as eye color or susceptibility to certain diseases. SNP, pronounced ''snip,'' stands for single nucleotide polymorphism, a difference of one letter out of the 3.1 billion letters in the genetic code.</p>
+        <p>Drug companies and research institutions are now trying to recruit thousands of people to donate DNA samples in efforts to determine which SNP's contribute to which diseases. But Mr. Holden said that people are reluctant to provide their DNA for research or diagnosis for fear that  information about their susceptibility to a particular disease would not be kept private and could be used to deny them employment or insurance.</p>
+        <p>''Individuals are not participating in a way we would like them to participate in this research,'' he said. ''Without a doubt the top issue on individuals' minds is how these data are going to be handled.''</p>
+        <p>First Genetic Trust, he said, will act as an intermediary between researchers and patients. It will keep samples of individuals' DNA and provide the results of the analysis to the researchers, but not the individual genetic data. And patients in the future will not have to get their genes tested each time they need a drug prescription. The doctor, with the patient's permission, would be able to get the answers needed from the patient's DNA account.</p>
+        <p>Whether this will allay patients' fears is unknown. It is also unclear yet whether companies, research institutions or health insurers will pay for such services, since First Genetic does not expect individuals to pay for their own accounts.</p>
+        <p>First Genetic Trust, based in Chicago, is being co-founded by David Wang, previously head of genomics and bioinformatics at Motorola, and Andrea Califano, formerly director of the computational biology center at I.B.M., which will design First Genetic's computer system.</p>
+        <p>The SNP consortium, made up of 13 drug and technology companies and Britain's Wellcome Trust, was set up in early 1999 to discover SNP's and put them into the public domain for use by all researchers, to prevent any single company from patenting them.</p>
+        <p>By the end of the year, Mr. Holden said, the consortium will have found 1 million SNP's, far exceeding its goal of 300,000. But Celera Genomics, the company that privately sequenced the human genome, said last month that it had found 2.4 million.</p>
+        <p>Mr. Holden, who has previously held executive positions at biotechnology and healthcare companies, said it is unclear whether the SNP Consortium will disband or find some new tasks. But the idea of drug industry collaboration seems to be catching on. Last week, two drug companies and a DNA chip company joined the National Institutes of Health in a new effort to map the mouse genome, again in competition with Celera. Mr. Holden is also the chairman of that effort.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

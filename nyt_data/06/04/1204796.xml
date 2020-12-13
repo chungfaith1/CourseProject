@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Donald W. Davies, 75, Dies; Helped Refine Data Networks</title>
+    <meta content="Y04DAV$01" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="46" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business; Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204796"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Science and Technology</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="names">Donald W. Davies</classifier>
+        <person class="indexing_service">Davies, Donald W</person>
+        <person class="indexing_service">Feder, Barnaby J</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE7DA1E3CF937A35755C0A9669C8B63" item-length="726" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Donald W. Davies, 75, Dies; Helped Refine Data Networks</hl1>
+      </hedline>
+      <byline class="print_byline">By BARNABY J. FEDER</byline>
+      <byline class="normalized_byline">Feder, Barnaby J</byline>
+      <abstract>
+        <p>Donald W Davies, computer security expert8</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Donald W. Davies, who proposed a method for transmitting data that made the Internet possible, died Sunday at a hospice in Esher, England. He was 75 and had been suffering from cancer, according to a spokesman for the British National Physical Laboratory.</p>
+        <p>Mr. Davies was a computer security expert and team leader of a group that created one of the first computer programs to translate Russian scientific papers to English, but the work for which he was most noted grew out of concerns that conventional telephone networks were poorly suited for carrying huge amounts of data in short bursts, the ideal for computers.</p>
+      </block>
+      <block class="full_text">
+        <p>Donald W. Davies, who proposed a method for transmitting data that made the Internet possible, died Sunday at a hospice in Esher, England. He was 75 and had been suffering from cancer, according to a spokesman for the British National Physical Laboratory.</p>
+        <p>Mr. Davies was a computer security expert and team leader of a group that created one of the first computer programs to translate Russian scientific papers to English, but the work for which he was most noted grew out of concerns that conventional telephone networks were poorly suited for carrying huge amounts of data in short bursts, the ideal for computers.</p>
+        <p>Mr. Davies suggested in 1965 that Britain develop a network that would allow data to follow a variety of pathways. To make the network efficient, the data would be broken into small packets, each carrying a code indicating where it came from and where it was supposed to end up so that a complete document could be compiled at the receiving computer.</p>
+        <p>Packets would wend through the network on the fastest available route. If any packets were lost because of breaks in the network, only those packets would have to be sent again. He called the concept packet switching.</p>
+        <p>The concept was similar to an approach advocated by Paul Baran of the RAND Corporation, a research concern in Santa Monica, Calif. Mr. Baran's goal was to devise a system for the United States government that would be less vulnerable to a nuclear attack.</p>
+        <p>But Mr. Baran's concepts went nowhere until Roger Scantlebury, a member of Mr. Davies's development team, described the British packet switching in a talk in 1967 in Gatlinburg, Tenn., to American computer experts. Mr. Davies's ideas caught the attention of Lawrence Roberts, program director for the Advanced Research Projects Agency. Mr. Roberts had been looking for a way to improve communications among the many laboratories and universities working on research financed by the agency.</p>
+        <p>Mr. Davies was able to build a demonstration packet-switching network within the National Physical Laboratory by 1969, but the power of his ideas was more fully displayed in the United States where Mr. Roberts melded them with work by Mr. Baran and others to create Arpanet, the forerunner of today's Internet.</p>
+        <p>Donald Watts Davies was born June 7, 1924, in Treorchy, Wales, just months before the death of his father, John, a coal mine clerk. His mother, Hilda, returned to her native Portsmouth, England, to work in the post office and raise her son and his twin sister. As a teenager, he experimented with radios and read technical books on telephony.</p>
+        <p>Mr. Davies was an honors student in physics and mathematics, gaining Bachelor of Science degrees in both subjects from Imperial College in London by 1947. His academic years included a break to work for Imperial Chemical Industries and as an atomic energy researcher at Birmingham University.</p>
+        <p>His career path was set, though, shortly before graduation when he attended a lecture about the National Physical Laboratory's effort to develop a British computer. Entranced by the new technology, he joined the small development team headed by Alan Turing, the cryptography expert who had become a computing pioneer while breaking German codes during World War II.</p>
+        <p>The device the team created, the Pilot ACE, ran its first program in 1950. Mr. Davies went on to become interested in a wide variety of applications, including traffic simulators and language translation programs. Displaying a rare combination of management skills and equanimity as well as technical expertise, he rose through a series of positions at the laboratory.</p>
+        <p>''His heart was with the technical side, but he was very skillful at dealing with people,'' said David Yates, a longtime colleague at the laboratory.</p>
+        <p>Mr. Davies quit his administrative work in 1979 to concentrate on data security research. The group he built ended up consulting on encryption and related issues for the largest British banks and other major computer users. He continued his consulting work after retiring from the laboratory in 1984. He became a visiting professor at Royal Holloway and Bedford New College in 1987.</p>
+        <p>Mr. Davies is survived by his wife of 45 years, the former Diane Burton of Sunbury-on-Thames; two sons, Paul, of Godalming, and Michael, of Bridgeport, and a daughter, Sarah, of Kingston-on-Thames.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

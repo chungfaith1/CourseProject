@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Aiming Lower on Priceline</title>
+    <meta content="MB000145" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1235253"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="INVESTING: DIARY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <org class="indexing_service">Priceline.com</org>
+        <org class="indexing_service">Paine Webber Group Inc</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001001T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CEEDC143DF932A35753C1A9669C8B63" item-length="72" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Aiming Lower on Priceline</hl1>
+      </hedline>
+      <abstract>
+        <p>PaineWebber maintains buy recommendation on Priceline.com stock; its 12-month target price is $15, down from $125 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PaineWebber has named its own price for Priceline.com, and it is a mere fraction of the previous target.</p>
+        <p>Priceline, which asks users to bid on products and services, warned last week that its third-quarter revenue would fall below market expectations because of weak airline ticket sales. But PaineWebber has maintained its ''buy'' recommendation on the stock. Only now, its 12-month target price is $15, down from $125. It closed on Friday at $11.88.</p>
+      </block>
+      <block class="full_text">
+        <p>PaineWebber has named its own price for Priceline.com, and it is a mere fraction of the previous target.</p>
+        <p>Priceline, which asks users to bid on products and services, warned last week that its third-quarter revenue would fall below market expectations because of weak airline ticket sales. But PaineWebber has maintained its ''buy'' recommendation on the stock. Only now, its 12-month target price is $15, down from $125. It closed on Friday at $11.88.  INVESTING: DIARY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

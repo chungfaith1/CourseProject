@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Accounts</title>
+    <meta content="MB002900" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1239408"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001016T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E2D91E3FF935A25753C1A9669C8B63" item-length="187" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Accounts</hl1>
+      </hedline>
+      <byline class="print_byline">By Stuart Elliott</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Horizon Organic, Boulder, Colo., which produces and markets certified organic dairy products, to Hoffman/Lewis, San Francisco, to handle its account, which had most recently been at Citron Haligman Bedecarre, San Francisco. Spending was estimated at $5 million.</p>
+        <p>* Emplanet, Westborough, Mass., a retirement services company, to Decker, Glastonbury, Conn., as the first agency to handle its account. Spending was estimated at $5 million.</p>
+      </block>
+      <block class="full_text">
+        <p>Horizon Organic, Boulder, Colo., which produces and markets certified organic dairy products, to Hoffman/Lewis, San Francisco, to handle its account, which had most recently been at Citron Haligman Bedecarre, San Francisco. Spending was estimated at $5 million.</p>
+        <p>* Emplanet, Westborough, Mass., a retirement services company, to Decker, Glastonbury, Conn., as the first agency to handle its account. Spending was estimated at $5 million.</p>
+        <p>* Babygear.com, New York, a Web site offering baby products, to Pink Elephant, New York, to handle its United States account, which had been at Margeotes/Fertitta &amp; Partners, New York, majority-owned by the Maxxcom unit of the MDC Corporation. Billings were estimated at $3 million to $5 million.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

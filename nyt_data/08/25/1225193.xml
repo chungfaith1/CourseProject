@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="CN233714" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225193"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000825T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E2DF1231F936A1575BC0A9669C8B63" item-length="242" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>POTLATCH CORP., Spokane, Wash., a producer of paper and lumber, said it would shut a plywood plant in Jaype, Idaho, and dismiss 215 workers because of falling plywood prices.</p>
+        <p>CONAGRA INC., Omaha, completed its acquisition of International Home Foods, the maker of Chef Boyardee pasta and other products.</p>
+      </block>
+      <block class="full_text">
+        <p>POTLATCH CORP., Spokane, Wash., a producer of paper and lumber, said it would shut a plywood plant in Jaype, Idaho, and dismiss 215 workers because of falling plywood prices.</p>
+        <p>CONAGRA INC., Omaha, completed its acquisition of International Home Foods, the maker of Chef Boyardee pasta and other products.</p>
+        <p>FASTSHIP INC., Philadelphia, an operator of shipping networks, said it would acquire a portion of a railyard and dormant shipping terminal from ConRail so it could build a new terminal in Philadelphia.</p>
+        <p>REYNOLDS &amp; REYNOLDS CO., Dayton, Ohio, said it had expanded its stock repurchase program by four million shares, worth about $66 million.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

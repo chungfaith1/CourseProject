@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Children's Books</title>
+    <meta content="RV075358" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="31" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1238783"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Villarosa, Linda</person>
+        <person class="indexing_service">Scruggs, Afi</person>
+        <person class="indexing_service">Diaz, David</person>
+        <object.title class="indexing_service">Jump Rope Magic (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Columns/Children's Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001015T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E3DC143CF936A25753C1A9669C8B63" item-length="301" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Children's Books</hl1>
+      </hedline>
+      <byline class="print_byline">By Linda Villarosa</byline>
+      <byline class="normalized_byline">Villarosa, Linda</byline>
+      <abstract>
+        <p>Linda Villarosa reviews children's book Jump Rope Magic by Afi Scruggs, illustrated by David Diaz (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>JUMP ROPE MAGIC</p>
+        <p>By Afi Scruggs.</p>
+        <p>Illustrated by David Diaz.</p>
+        <p>Blue Sky/Scholastic, $16.95.</p>
+        <p>(Ages 2 to 5)</p>
+      </block>
+      <block class="full_text">
+        <p>JUMP ROPE MAGIC</p>
+        <p>By Afi Scruggs.</p>
+        <p>Illustrated by David Diaz.</p>
+        <p>Blue Sky/Scholastic, $16.95.</p>
+        <p>(Ages 2 to 5)</p>
+        <p>Shameka, the main character of the delightful new book ''Jump Rope Magic,'' is a girl on the move. ''I'm the girl with the motion, / wave my hands like the ocean. / I can jump so high, / till I reach the sky,'' she says as she flies out of her jump rope into the air over a pastel cityscape.</p>
+        <p>In her first book using bouncy rhyme sprinkled with jazzy call-and-response (''Hey crew!'' / ''What?'' / ''Are you ready?'' / ''For what?'' / ''To jig!'' / ''Jig what?'' / Jig-a-low!'' / ''Let's go!''), Afi Scruggs tells the story of Shameka, a lively jump-roper, and her crew. She and her merry friends make a little too much joyful noise with their familiar jump-rope rhymes, disturbing Miss Minnie, their worrywart neighbor. Eventually, though, even grouchy Miss Minnie is swept up in the joyful rhythms and ends up getting her own jump-rope groove on. The verse is complemented by the loose-limbed illustrations of David Diaz, whose ''Smoky Night'' won the Caldecott Medal for 1994. Against cotton-candy-colored backdrops, his playful figures resemble apple-cheeked marionettes, his style falling somewhere between realism and whimsy. They add to the energy of this magical, spunky book.</p>
+        <p>Linda Villarosa</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

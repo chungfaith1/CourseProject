@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Conde Nast Bundles Magazines in Ad Sale</title>
+    <meta content="MB001015" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1210602"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Magazines</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Conde Nast Publications Inc</org>
+        <org class="indexing_service">Advance Publications</org>
+        <org class="indexing_service">Details (Magazine)</org>
+        <org class="indexing_service">Jane (Magazine)</org>
+        <org class="indexing_service">W (Magazine)</org>
+        <org class="indexing_service">Fairchild Publications</org>
+        <person class="indexing_service">Elliott, Stuart</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Magazines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000626T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407EEDD1230F935A15755C0A9669C8B63" item-length="142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Conde Nast Bundles Magazines in Ad Sale</hl1>
+      </hedline>
+      <byline class="print_byline">By Stuart Elliot</byline>
+      <abstract>
+        <p>Conde Nast Publications, a unit of Advance Publications, will include Details, Jane and W, consumer magazines of sibling Fairchild Publications, in its 'super buy' package, which enables advertisers to buy large numbers of ad pages in 17 Conde Nast magazines at more attractive prices (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The corporate sales division of Conde Nast Publications in New York, part of Advance Publications, will include the three consumer magazines of a sibling, Fairchild Publications, in its ''super buy'' package, which enables advertisers to buy large numbers of ad pages in the 17 Conde Nast magazines at more attractive prices. The Fairchild magazines to be included, effective on Jan. 1, are Details, Jane and W. Other operations of Conde Nast and Fairchild will remain separate.</p>
+      </block>
+      <block class="full_text">
+        <p>The corporate sales division of Conde Nast Publications in New York, part of Advance Publications, will include the three consumer magazines of a sibling, Fairchild Publications, in its ''super buy'' package, which enables advertisers to buy large numbers of ad pages in the 17 Conde Nast magazines at more attractive prices. The Fairchild magazines to be included, effective on Jan. 1, are Details, Jane and W. Other operations of Conde Nast and Fairchild will remain separate.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Economy; Airborne and grass roots. By popular acclaim, a wireless format with a name only a geek could love is taking hold.</title>
+    <meta content="30NECO$02" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/30/technology/30NECO.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1243183"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Apple Computer Inc</org>
+        <person class="indexing_service">Markoff, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/New Economy</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001030T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEFD61730F933A05753C1A9669C8B63" item-length="1058" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Economy; Airborne and grass roots. By popular acclaim, a wireless format with a name only a geek could love is taking hold.</hl1>
+      </hedline>
+      <byline class="print_byline">By John Markoff</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <abstract>
+        <p>Wireless Ethernet technical standard for linking computers to Internet is catching on so quickly that it is displacing alternative wireless competitors; cost of technology continues to plummet; standard, available for many companies to adopt and improve, was first popularized by Apple Computer and is attracting rush of start-up companies and telecommunications vendors vying to lock up valuable sites at airports, hotels, other hot spots; such companies operate Internet server computers by which wireless users actually connect to Web; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AT the recent Agenda 2001 computer conference in Phoenix earlier this month, there was validation and a touch of irony for the conference organizer, Robert Metcalfe, co-inventor of the Ethernet office networking standard.</p>
+        <p>Hundreds of those attending the conference sat in a huge auditorium with their portable computers wirelessly linked to the Internet via tiny PC cards plugged in to their machines.</p>
+      </block>
+      <block class="full_text">
+        <p>AT the recent Agenda 2001 computer conference in Phoenix earlier this month, there was validation and a touch of irony for the conference organizer, Robert Metcalfe, co-inventor of the Ethernet office networking standard.</p>
+        <p>Hundreds of those attending the conference sat in a huge auditorium with their portable computers wirelessly linked to the Internet via tiny PC cards plugged in to their machines.</p>
+        <p>It was tacit validation of a theorem Mr. Metcalfe set forth years ago, now widely known as Metcalfe's Law, which states that ''the usefulness, or utility, of a network equals the square of the number of users.''</p>
+        <p>The irony, of course, was that while many of the conference participants were using a technology that essentially provides wireless connections at Ethernet speeds, they were using it to read their e-mail and surf the Web rather than pay much attention to Mr. Metcalfe's conference.</p>
+        <p>There is no doubt, however, that ''wireless Ethernet''-- formally known as the 802.11b wireless technical standard as specified by the Institute of Electrical and Electronics Engineers -- is finally taking off.</p>
+        <p>The Ethernet standard for wiring computers into local networks caught on two decades ago because it was ''open'' -- owned by no single company and available for many to adopt and improve. Those same characteristics could propel wireless Ethernet as embodied in the 802.11b standard, which allows data to be transmitted at 11 megabits -- 11 million bits a second.</p>
+        <p>The 802.11b format is catching on so quickly that it is displacing alternative wireless competitors that include Bluetooth and HomeRF. The cost of 802.11b technology continues to plummet; chip sets that cost as little as $10 or less may arrive in the next two years. So it should become cheaper and easier to set up an office network wirelessly than with traditional Ethernet wires.</p>
+        <p>To be sure, there are some clouds ahead. The 802.11b wireless transmitters operate on the 2.4 gigahertz radio band, which does not require a license to use. Some technical experts worry that this band may soon grow so congested that it will create the world's first wireless data gridlock.</p>
+        <p>The standard, first popularized by Apple Computer in its Airport line of wireless products last year, is now being embraced  so quickly that it is touching off a wireless ''air rush'' as start-up companies and telecommunication vendors vie to lock up valuable sites at airports, hotels and other public hot spots. Such companies operate the Internet server computers by which wireless users actually connect to the global network.</p>
+        <p>The appearance of the wireless standard in public spaces is following on the heels of installations on university campuses and corporate office parks. And some community 802.11b wireless networks have been set up, including SFlan in San Francisco.</p>
+        <p>As part of SFlan, some Internet hobbyists  have set up inexpensive 802.11b networks on their rooftops and are distributing Internet service throughout their neighborhoods. One user, Tim Pozar, said his local network reached a half-mile radius around his home.</p>
+        <p>Brewster Kahle, a computer network expert who has led the SFlan project, said, ''It's possible that a grass-roots broadband network could be built organically.''</p>
+        <p>But for now, commercial efforts seem to be gathering steam most quickly. There have been a series of announcements in recent weeks by wireless companies including  Aerzone , Mobilstar and Wayport, that have struck deals with airports and hotels to install 802.11b.</p>
+        <p>Just last Friday, United Airlines said it was teaming with Aerzone, a San Francisco-based subsidiary of Softnet Systems, to deploy 802.11b in Red Carpet Club airport lounges, gate areas and terminals in as many as 50 airports served by the airline.</p>
+        <p>''This is potentially a huge business because we offer the two things people want most: relatively unlimited bandwidth and mobility,'' said Lawrence B. Brilliant, chief executive of Aerzone.</p>
+        <p>Just two days earlier Wayport, based in Austin, Tex., announced it was installing 802.11b in the lobbies of 15 hotels in the Los Angeles area. Wayport has already started its service at the Dallas-Fort Worth International Airport and the Austin Bergstrom airport.</p>
+        <p>And while so far Apple and I.B.M. are the only two computer makers to offer portable systems with built-in 802.11b capability, by early next year the standard is expected to become a common built-in feature on all makes of portable computers.</p>
+        <p>Meanwhile, a number of sports stadium deals have been announced and several of the wireless start-up companies say they have been in talks with Starbucks to offer wireless Internet service in the company's nationwide chain of coffee shops.</p>
+        <p>Indeed the possibility of Starbucks's encouraging customers to spend time sipping coffee in its stores while they read their e-mail has created a new technology buzz-phrase: the ''high-loiter retail'' marketplace, in the words of Brett Stewart, Wayport's president and founder.</p>
+        <p>The wireless networks based on 802.11b are also becoming popular as a convenient and low-cost way to create a network within homes already connected to the Internet through D.S.L. or cable modems.</p>
+        <p>All this activity raises the possibility that 802.11b might upset the plans of some of the big telecommunications giants that are planning to spend millions of dollars building third-generation data and voice cellular networks. If millions of computer users and companies effectively build their own high-speed data network from the ground up, the telecommunications carriers might think twice about putting money into third-generation systems.</p>
+        <p>The 802.11b standards offer far greater speed than the proposed third-generation network standards, which generally offer two megabits that must be shared by all the users of a single cell. And the industry is finishing a standard called 802.11a, which will allow even higher speed -- 54 megabits a second -- on the 5 gigahertz radio band.</p>
+        <p>In fact, a top Microsoft executive, Craig Mundie, said his company was trying to rally the computer and telecommunications industries to agree upon that standard for the future of wireless data networking.</p>
+        <p>If the largely spontaneous 802.11 wave does swamp the various other wireless data networking standards, it might be fitting.  After all, it was as an anarchic self-assembling world of isolated networks that the Internet originally came into being.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

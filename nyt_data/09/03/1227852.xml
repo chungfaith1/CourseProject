@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Juice Bar For That Natural High</title>
+    <meta content="MB001559" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1227852"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEW YORKERS &amp; CO."/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <org class="indexing_service">Elixer (Nyc Juice Bar)</org>
+        <person class="indexing_service">Lubell, Sam</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000903T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02EFDA1130F930A3575AC0A9669C8B63" item-length="168" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Juice Bar For That Natural High</hl1>
+      </hedline>
+      <byline class="print_byline">By SAM LUBELL</byline>
+      <byline class="normalized_byline">Lubell, Sam</byline>
+      <abstract>
+        <p>Elixer, popular juice bar in West Village, opens new outlet in TriBeCa; drawing (New Yorkers &amp; Co column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With herbal remedies growing in  popularity, Elixir, a West Village juice bar, opened a new store in TriBeCa last month. The ultramodern store at 95 West Broadway near Chambers Street serves smoothies and juices made from basic fruits to complex herbal combinations.</p>
+        <p>Hanging on the walls are large glass tubes containing ingredients of many of the drinks, like gingko and cinnamon root. A Remedy Board suggests various juices and herbs you might consume to bolster health or cure ailments like colds, flu or high blood pressure.</p>
+      </block>
+      <block class="full_text">
+        <p>With herbal remedies growing in  popularity, Elixir, a West Village juice bar, opened a new store in TriBeCa last month. The ultramodern store at 95 West Broadway near Chambers Street serves smoothies and juices made from basic fruits to complex herbal combinations.</p>
+        <p>Hanging on the walls are large glass tubes containing ingredients of many of the drinks, like gingko and cinnamon root. A Remedy Board suggests various juices and herbs you might consume to bolster health or cure ailments like colds, flu or high blood pressure.</p>
+        <p>''We're like a modern apothecary,'' says the owner, Liz Ilgenfritz, whose store also offers one-ounce shots of wheat-grass extract to cleanse the body.</p>
+        <p>NEW YORKERS &amp; CO.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

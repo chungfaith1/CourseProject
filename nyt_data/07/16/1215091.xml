@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Letters From the Web</title>
+    <meta content="LTR090315" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215091"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <classifier class="indexing_service" type="descriptor">Discrimination</classifier>
+        <classifier class="indexing_service" type="descriptor">Hispanic-Americans</classifier>
+        <person class="indexing_service">Velez, Virginia</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hispanic-Americans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E0D61338F935A25754C0A9669C8B63" item-length="111" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Letters From the Web</hl1>
+      </hedline>
+      <abstract>
+        <p>Virginia Velez, responding to Web site questionnaire about race relations in America, recalls her grandmother's hatred toward blacks2</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In high school, I was a member of our yearbook staff, along with one of my closest friends at the time, who was white. We were working on the yearbook, and she started talking about other students at the school. She called one of them a ''nigger.''</p>
+        <p>''What did you say?'' I asked. She said, ''I wasn't talking about you -- you're different.''</p>
+      </block>
+      <block class="full_text">
+        <p>In high school, I was a member of our yearbook staff, along with one of my closest friends at the time, who was white. We were working on the yearbook, and she started talking about other students at the school. She called one of them a ''nigger.''</p>
+        <p>''What did you say?'' I asked. She said, ''I wasn't talking about you -- you're different.''</p>
+        <p>I was so mad and hurt that I punched her. Later, she apologized, but the damage had been done. She ruined a 12-year friendship with one word.</p>
+        <p>Regina R. Nicholson  Black, 36  Marietta, Ga.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

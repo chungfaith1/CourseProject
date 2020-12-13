@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="NEW29" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234673"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000929T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E7DC163DF93AA1575AC0A9669C8B63" item-length="208" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MARRIOTT INTERNATIONAL, -- Bethesda, Md., which manages and franchises hotel properties, said it would sell four hotels to Capital Hotel Investments, a new joint venture between Marriott and affiliates of Blackacre Capital Management, for about $274 million.</p>
+        <p>WORLD WRESTLING FEDERATION ENTERTAINMENT, -- Stamford, Conn., the professional wrestling troupe, said that its board had authorized the purchase of up to $10 million of its shares of Class A common stock.</p>
+        <p>CORNING, -- Corning, N.Y., the leading supplier of optical fiber and cable, is spending $50 million over the next two years to expand its optical fiber manufacturing plant in Deeside in northern Wales.</p>
+        <p>GOLF TRUST OF AMERICA, -- Charleston, S.C., a real estate investment trust and the fourth-largest golf-course owner in the United States, said it would sell the company or liquidate its assets.</p>
+      </block>
+      <block class="full_text">
+        <p>MARRIOTT INTERNATIONAL, -- Bethesda, Md., which manages and franchises hotel properties, said it would sell four hotels to Capital Hotel Investments, a new joint venture between Marriott and affiliates of Blackacre Capital Management, for about $274 million.</p>
+        <p>WORLD WRESTLING FEDERATION ENTERTAINMENT, -- Stamford, Conn., the professional wrestling troupe, said that its board had authorized the purchase of up to $10 million of its shares of Class A common stock.</p>
+        <p>CORNING, -- Corning, N.Y., the leading supplier of optical fiber and cable, is spending $50 million over the next two years to expand its optical fiber manufacturing plant in Deeside in northern Wales.</p>
+        <p>GOLF TRUST OF AMERICA, -- Charleston, S.C., a real estate investment trust and the fourth-largest golf-course owner in the United States, said it would sell the company or liquidate its assets.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

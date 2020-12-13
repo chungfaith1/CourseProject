@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Cardinal's Last Journey</title>
+    <meta content="06RCAR0AA" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Front Page" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1197219"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="DEATH OF A CARDINAL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">St Patrick's Cathedral (NYC)</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <org class="indexing_service">Roman Catholic Church</org>
+        <person class="indexing_service">O'Connor, John (Cardinal)</person>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Christians and Christianity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000506T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07EFD71438F935A35756C0A9669C8B63" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Cardinal's Last Journey</hl1>
+      </hedline>
+      <abstract>
+        <p>Photo of pallbearers carrying Cardinal John O'Connor's coffin into St Patrick's Cathedral</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>DEATH OF A CARDINAL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

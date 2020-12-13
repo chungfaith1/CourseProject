@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>As Subway Doors Close, A Last Glance Backward</title>
+    <meta content="30SUB2" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1243165"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BASEBALL: SUBWAY SERIES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Basketball</classifier>
+        <classifier class="indexing_service" type="descriptor">World Series</classifier>
+        <org class="indexing_service">New York Yankees</org>
+        <org class="indexing_service">New York Mets</org>
+        <person class="indexing_service">Lapointe, Joe</person>
+        <person class="indexing_service">Olney, Buster</person>
+        <person class="indexing_service">Vecsey, George</person>
+        <person class="indexing_service">Chass, Murray</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Series</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001030T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DEEDE1730F933A05753C1A9669C8B63" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>As Subway Doors Close, A Last Glance Backward</hl1>
+      </hedline>
+      <byline class="print_byline">By BUSTER OLNEY</byline>
+      <byline class="normalized_byline">Olney, Buster</byline>
+      <abstract>
+        <p>Review of highlights of 2000 World Series; photo (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GAME 2</p>
+        <p>Roger Clemens threw fastballs that reached 99 miles an hour, but drew even more attention for firing a broken bat in the direction of the Mets' Mike Piazza, pitching eight shutout innings and heightening the emotions of the Subway Series that is being controlled by the Yankees.</p>
+        <p>BUSTER OLNEY</p>
+      </block>
+      <block class="full_text">
+        <p>GAME 2</p>
+        <p>Roger Clemens threw fastballs that reached 99 miles an hour, but drew even more attention for firing a broken bat in the direction of the Mets' Mike Piazza, pitching eight shutout innings and heightening the emotions of the Subway Series that is being controlled by the Yankees.</p>
+        <p>BUSTER OLNEY</p>
+        <p>BASEBALL: SUBWAY SERIES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

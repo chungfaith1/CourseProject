@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nasdaq Amends Proposal For a New Trading System</title>
+    <meta content="Y29MARK" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/29/business/29MARK.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1234559"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Nasdaq Stock Market</org>
+        <org class="indexing_service">Securities and Exchange Commission</org>
+        <person class="indexing_service">Morgenson, Gretchen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000929T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04EEDC1F3AF93AA1575AC0A9669C8B63" item-length="512" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nasdaq Amends Proposal For a New Trading System</hl1>
+      </hedline>
+      <byline class="print_byline">By GRETCHEN MORGENSON</byline>
+      <byline class="normalized_byline">Morgenson, Gretchen</byline>
+      <abstract>
+        <p>Nasdaq Stock Market officials revise plan for more centralized system for executing stock trades in response to criticism that original plan would treat some investors' orders unfairly; under new plan, an attempt to mollify operators of electronic communication networks, known as ECN's, Nasdaq will no longer post prices on its system based on inclusion of ECN access fees; new plan will allow users to choose which market participants want to deal with (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Responding to criticism that their plan for a more centralized system for executing stock trades treated some investors' orders unfairly, Nasdaq Stock Market officials revised the proposal yesterday.</p>
+        <p>The new plan, which is subject to approval by the Securities and Exchange Commission, is an attempt to mollify the operators of electronic communication networks, known as ECN's.</p>
+      </block>
+      <block class="full_text">
+        <p>Responding to criticism that their plan for a more centralized system for executing stock trades treated some investors' orders unfairly, Nasdaq Stock Market officials revised the proposal yesterday.</p>
+        <p>The new plan, which is subject to approval by the Securities and Exchange Commission, is an attempt to mollify the operators of electronic communication networks, known as ECN's.</p>
+        <p>Representatives of these networks, which allow investors to meet without a middleman, had complained that the previous Nasdaq plan put them at a disadvantage because prices posted by an ECN on the system would have included the trading fees they charge. Adding such fees to prices posted by ECN's would have made them less attractive to other investors looking for the best price on a Nasdaq stock.</p>
+        <p>Under the latest plan, Nasdaq will no longer post prices on its system based on the inclusion of ECN access fees. Nasdaq officials say the new plan will allow its users to choose which market participants they want to deal with. ''This is a fair resolution to this issue,'' Richard G. Ketchum,  president of Nasdaq, said. ''It is hard to argue with letting the market decide.''</p>
+        <p>The change led one ECN that had been critical of Nasdaq's new system to support the plan. Kevin Foley, chief executive of Bloomberg Tradebook, said: ''If implemented along the lines envisioned, it will be a dramatic enhancement for investors and all market participants.''</p>
+        <p>But officials at other networks, including Archipelago ECN, remain opposed to the Nasdaq plan. Douglas M. Atkin, president of Instinet, the largest ECN, said that if Nasdaq allowed market participants to choose whom they do business with in the system, some investors' orders that should have priority might never be executed.</p>
+        <p>''Instead of fixing the problem and saying investors' orders are not going to be discriminated against, they dismantled price/time priority by adding something they call choice,'' Mr. Atkin said. ''Every other market in the world lets the first person there get the trade.''</p>
+        <p>The revised proposal did not address the issue of how the Nasdaq system would display prices offered by competing exchanges, like the Pacific Stock Exchange. Under the original plan, prices from these exchanges were set to appear well below the quotations of other market participants and would thus presumably attract fewer investors. In announcing its revised plan, Nasdaq acknowledged that additional work would have to be done to make sure prices posted by exchanges were treated equally.</p>
+        <p>Some institutional investors who had criticized Nasdaq's earlier plan declined to comment on the revision until they could read the amendment, which Nasdaq officials said would be filed with the S.E.C.</p>
+        <p>''You can't tell anything from what a press release says,'' said Harold Bradley, senior vice president at American Century Investments. ''It's in the details where you get stuck.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

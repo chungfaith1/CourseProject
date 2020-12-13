@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Ear of the Beholder</title>
+    <meta content="LTR235917" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1219788"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Organs (Musical)</classifier>
+        <classifier class="indexing_service" type="descriptor">Bells</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Dodge, Pryor</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Musical Instruments</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000803T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E4D8163CF930A3575BC0A9669C8B63" item-length="50" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Ear of the Beholder</hl1>
+      </hedline>
+      <abstract>
+        <p>Pryor Dodge letter says adoption of digital technology for organs could results in pipe organs going way of the carillon, where a tower of bells has regrettably given way to a tower of loudspeakers (July 27 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>With the adoption of digital technology for some organs, can we now expect organs to go the way of the carillon, where a tower of bells has regrettably given way to a tower of loudspeakers?</p>
+        <p>PRYOR DODGE  New York</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>With the adoption of digital technology for some organs, can we now expect organs to go the way of the carillon, where a tower of bells has regrettably given way to a tower of loudspeakers?</p>
+        <p>PRYOR DODGE  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

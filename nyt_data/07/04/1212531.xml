@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR011026" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212531"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Ships and Shipping</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Opsail 2000</classifier>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sailboats and Sailing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ships and Shipping</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000704T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407EFDF1039F937A35754C0A9669C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of June 30 listing of viewing locations for OpSail 2000 parade of tall ships</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A list of viewing locations in Weekend on Friday in a section on the Op Sail 2000 parade of tall ships on the Hudson River today misidentified some usable stretches of shoreline. Construction from 56th Street to 72nd Street makes that area unsuitable. The best viewing sites in Riverside Park are from 72nd Street to 82nd Street and from 101st to 110th Streets.</p>
+        <p>In addition, the listing omitted a requirement for viewing the ships from the Battery Park City Esplanade. Only people with tickets distributed in a lottery last month will be admitted.</p>
+      </block>
+      <block class="full_text">
+        <p>A list of viewing locations in Weekend on Friday in a section on the Op Sail 2000 parade of tall ships on the Hudson River today misidentified some usable stretches of shoreline. Construction from 56th Street to 72nd Street makes that area unsuitable. The best viewing sites in Riverside Park are from 72nd Street to 82nd Street and from 101st to 110th Streets.</p>
+        <p>In addition, the listing omitted a requirement for viewing the ships from the Battery Park City Esplanade. Only people with tickets distributed in a lottery last month will be admitted.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

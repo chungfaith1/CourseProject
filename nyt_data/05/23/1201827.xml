@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Left-Handed Bias</title>
+    <meta content="LTR230851" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health &amp; Fitness" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201827"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Left-Handedness</classifier>
+        <person class="indexing_service">flynn, brendan r (dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000523T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE2D81F3AF930A15756C0A9669C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Left-Handed Bias</hl1>
+      </hedline>
+      <abstract>
+        <p>Dr Brendan R Flynn letter comments on May 16 article on left-handedness</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I teach organic chemistry, in which the concept of the handedness of molecules, or chirality, is of fundamental importance. I am also one of those adults whose manual preference was changed as a child, with some of the typical effects like poor coordination. Hence, I follow this subject with great interest.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I teach organic chemistry, in which the concept of the handedness of molecules, or chirality, is of fundamental importance. I am also one of those adults whose manual preference was changed as a child, with some of the typical effects like poor coordination. Hence, I follow this subject with great interest.</p>
+        <p>When I introduce chirality in my classes, I always poll students from other countries as to what words are used in their languages to describe left versus right hands. In all the cases to date, the words associated with left-handedness are rather unflattering and uncomplimentary.</p>
+        <p>DR . BRENDAN  R. FLYNN  Binghamton, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

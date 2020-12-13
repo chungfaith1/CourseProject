@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR033748" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1227323"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Tennis</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Open (Tennis)</classifier>
+        <person class="indexing_service">Dokic, Damir</person>
+        <person class="indexing_service">Dokic, Jelena</person>
+        <person class="indexing_service">Perry, Brenda</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Open (Tennis)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tennis</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000902T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E7DA1030F931A3575AC0A9669C8B63" item-length="61" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Aug 31 arti</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Because of an editing error, a sports article on Thursday about Damir Dokic, father and coach of the Australian tennis player Jelena Dokic, misstated the given name of a women's tour official he shoved before being banned from the United States Open grounds. She is Brenda Perry, not Barbara.</p>
+      </block>
+      <block class="full_text">
+        <p>Because of an editing error, a sports article on Thursday about Damir Dokic, father and coach of the Australian tennis player Jelena Dokic, misstated the given name of a women's tour official he shoved before being banned from the United States Open grounds. She is Brenda Perry, not Barbara.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

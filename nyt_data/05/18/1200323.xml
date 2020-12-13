@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A New Service on the Net That Will Take Dictation</title>
+    <meta content="18GTYP$03" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20000519T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1200323"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Typewriters and Typewriting</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">iDictate.com</org>
+        <person class="indexing_service">Sorid, Daniel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Typewriters and Typewriting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Secretaries, Stenographers and Typists</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000518T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CEFD9163AF93BA25756C0A9669C8B63" item-length="230" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A New Service on the Net That Will Take Dictation</hl1>
+      </hedline>
+      <byline class="print_byline">By DANIEL SORID</byline>
+      <byline class="normalized_byline">Sorid, Daniel</byline>
+      <abstract>
+        <p>New Internet dictation service, iDictate.com, promises to turn spoken words into polished document in about hour, 24 hours a day; service uses typists based around world (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Slow typists of the world may find relief in a new Internet dictation service that promises to turn spoken words into a polished document in about an hour, 24 hours a day.</p>
+        <p>Users of the service first call the company, iDictate.com, at (877) DICTATE or (800) 342-8283 and speak their message. The service, based in San Francisco, records your voice, turns it into an audio computer file and sends the file over the Internet to one of hundreds of typists based around the world, as far away as India.</p>
+      </block>
+      <block class="full_text">
+        <p>Slow typists of the world may find relief in a new Internet dictation service that promises to turn spoken words into a polished document in about an hour, 24 hours a day.</p>
+        <p>Users of the service first call the company, iDictate.com, at (877) DICTATE or (800) 342-8283 and speak their message. The service, based in San Francisco, records your voice, turns it into an audio computer file and sends the file over the Internet to one of hundreds of typists based around the world, as far away as India.</p>
+        <p>Once the message is transcribed, the company checks for errors and returns it to the caller via e-mail.</p>
+        <p>The service is available only in English, but the company's founder, Lee Dorfman, said that other languages were on the way. Callers can also fax a handwritten note for typing and can have the company send a message.</p>
+        <p>First-time users can try the service free for up to 100 words. After that, the service charges one cent per word, or about $3 to $4 per page of double-spaced text.</p>
+        <p>DANIEL SORID</p>
+        <p>NEWS WATCH  Correction:  May 19, 2000, Friday  A report in the News Watch column of Circuits yesterday about an Internet dictation service, iDictate .com, misstated the telephone number. It is (877) 342-8283.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: May 19, 2000, Friday</p>
+        <p>A report in the News Watch column of Circuits yesterday about an Internet dictation service, iDictate .com, misstated the telephone number. It is (877) 342-8283.</p>
+        <p>&lt;br&gt;</p>
+        <p>&lt;br&gt;</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Technology Is Aimed At Increasing Web Privacy</title>
+    <meta content="Y22PRI$01" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209330"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Protection</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <org class="indexing_service">World Wide Web Consortium</org>
+        <person class="indexing_service">Clausing, Jeri</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Protection</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000622T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CEED81131F931A15755C0A9669C8B63" item-length="666" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Technology Is Aimed At Increasing Web Privacy</hl1>
+      </hedline>
+      <byline class="print_byline">By JERI CLAUSING</byline>
+      <byline class="normalized_byline">Clausing, Jeri</byline>
+      <abstract>
+        <p>Major Internet companies and World Wide Web's standard-setting body, World Wide Web Consortium, unveil some long-awaited technology that would alert computer users before they visited Web sites that collect more personal information than they are willing to share; although new standard, called Platform for Privacy Preferences, or P3P, is billed as just one step in improving state of privacy on Internet, it is immediately denounced by some privacy advocates as way for companies to avoid new laws and tool that would give consumers false sense of security; if technology proves to be widely accepted by Internet companies and Web sites, it would give consumers a way to more easily control whether and how companies track their Web movements and gather information about them (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Major Internet companies and the World Wide Web's standard-setting body unveiled yesterday some long-awaited technology that would alert computer users before they visited Web sites that collect more personal information than they are willing to share.</p>
+        <p>Although the new standard, called Platform for Privacy Preferences, or P3P, was billed as just one step in improving the state of privacy on the Internet, it was immediately denounced by some privacy advocates as a way for companies to avoid new laws and a tool that would give consumers a false sense of security.</p>
+      </block>
+      <block class="full_text">
+        <p>Major Internet companies and the World Wide Web's standard-setting body unveiled yesterday some long-awaited technology that would alert computer users before they visited Web sites that collect more personal information than they are willing to share.</p>
+        <p>Although the new standard, called Platform for Privacy Preferences, or P3P, was billed as just one step in improving the state of privacy on the Internet, it was immediately denounced by some privacy advocates as a way for companies to avoid new laws and a tool that would give consumers a false sense of security.</p>
+        <p>Still, if the technology proves to be widely accepted by Internet companies and Web sites, it would give consumers a way to more easily control whether and how companies track their Web movements and gather information about them.</p>
+        <p>''The goal is to give users on the Web more control,'' said Daniel J. Weitzner, an official with the World Wide Web Consortium, or W3C, which develops open standards to promote universal Web access and interoperability between Web sites and different technologies. ''We hope that it will make privacy policies easier to find, easier to understand.''</p>
+        <p>The standard has been under development for about three years by the consortium, AT&amp;T labs and major companies like I.B.M., Microsoft and America Online. An online civil liberties group, the Center for Democracy and Technology, has also been involved in the project. The standards were introduced in New York yesterday.</p>
+        <p>Basically, P3P sets standards to allow Internet browsers to automatically read privacy policies that have been posted on Web sites using the new standard. The browsers then will go only to sites that follow the preferences pre-selected by the computer users. It will alert them before going to any Web sites that collect more information than they are willing to give.</p>
+        <p>For the technology to work, however, it will be have to be put into effect by the millions of Web sites on the Internet. As of yesterday, the White House and 13 other Web sites -- mostly the companies and groups involved in the project -- had created privacy policies that could be read by P3P enabled software.</p>
+        <p>Deidre Mulligan, a lawyer with the Center for Democracy and Technology who has been involved in the project since its inception, said the focus now was to work with industry groups to promote the new standard aggressively and persuade Web sites to start using it.</p>
+        <p>Several companies have already developed software that converts written privacy policies to the code needed for P3P-enabled browsers to read them.</p>
+        <p>And the first software that will let computer users begin using P3P in their browsers will be introduced next week by a company called YouPowered. That new software, called Orby Privacy Plus, has four settings users can choose: private, cautious, trusting and open.</p>
+        <p>Microsoft and AOL-Netscape said they hoped to have software plug-ins for their browsers later this year. The standard will also be part of the next version of the Windows operating system.</p>
+        <p>But not everyone is falling in line behind the project.</p>
+        <p>Webwasher.com, a German privacy software company affiliated with Siemens, called P3P ''too little, too late.'' P3P will damage privacy by aggregating personal information and releasing it to any Web site with a compliant privacy policy, said Dr. Horst Joepen, chief executive.</p>
+        <p>A group of privacy advocates also criticized the standard as a ''complex and confusing protocol.''</p>
+        <p>''We do not view P3P as technology that will promote privacy,'' said Marc Rotenberg, executive director of the Electronic Privacy Information Center, which released a report on P3P with a company called Junkbusters; Computer Professionals for Social Responsibility; and Chris Hunter, a doctoral candidate at the Annenberg School for Communications at the University of Pennsylvania.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

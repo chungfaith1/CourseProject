@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NASA Tests System to Warn Of Runway Collision Dangers</title>
+    <meta content="Y20AIRP" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/20/science/20AIRP.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1240243"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <org class="indexing_service">National Aeronautics and Space Administration</org>
+        <person class="indexing_service">Wald, Matthew L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001020T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E4D8133EF933A15753C1A9669C8B63" item-length="891" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NASA Tests System to Warn Of Runway Collision Dangers</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">Wald, Matthew L</byline>
+      <dateline>GRAPEVINE, Tex., Oct. 18</dateline>
+      <abstract>
+        <p>National Aeronautics and Space Administration is testing system that gives pilots better view of plane's surroundings, developed to help prevent runway collisions between commercial airliners; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Everything the captain could see through the clear night air indicated a perfect landing: gear down, engines rumbling at idle, and the autopilot receiving signals from the ground that would bring his lumbering Boeing 757 right over the middle of three parallel runways, touching down amid the thousand skid marks of the landing zone. It looked like another one of the 20,000 unremarkable jet landings a day.</p>
+        <p>But then a pair of headlights, barely visible, appeared in the inky blackness on the right side of the runway and began to cross. In a situation like this, flying at four miles a minute and with about a mile to go till the end of the runway, at less than 300 feet above the ground, the pilot would have seconds to react, if he was lucky enough to see the threat.</p>
+      </block>
+      <block class="full_text">
+        <p>Everything the captain could see through the clear night air indicated a perfect landing: gear down, engines rumbling at idle, and the autopilot receiving signals from the ground that would bring his lumbering Boeing 757 right over the middle of three parallel runways, touching down amid the thousand skid marks of the landing zone. It looked like another one of the 20,000 unremarkable jet landings a day.</p>
+        <p>But then a pair of headlights, barely visible, appeared in the inky blackness on the right side of the runway and began to cross. In a situation like this, flying at four miles a minute and with about a mile to go till the end of the runway, at less than 300 feet above the ground, the pilot would have seconds to react, if he was lucky enough to see the threat.</p>
+        <p>But this plane had an experimental computer from NASA with a voice and a flashing message that warned ''Runway Conflict! Runway Conflict! Runway Conflict!'' The pilot, Capt. Richard Grue, on loan from American Airlines, wasted no time in opening the throttles and roaring back into the sky.</p>
+        <p>The effort was designed to tackle one of the most worrisome and fastest growing problems in commercial aviation, runway collisions. Runway collisions have killed 63 people in the last 10 years, and the number of cases in which a plane or a vehicle enters a runway on which another plane has the right of way is rapidly rising.</p>
+        <p>The Federal Aviation Administration has been working on a system to predict conflicts and issue a warning, but it is 10 years behind schedule, and the agency has so simplified its technology, in an effort to finish up, that the National Transportation Safety Board says it will not do the full job.</p>
+        <p>For the last three weeks, a NASA crew of about 70 people has been using the 757, crammed with computers, and a Dodge van electronically equipped to mimic a plane. The experiments take up half of Dallas/ Fort Worth Airport, between midnight and 5 a.m., the only hours when the airport is not busy.</p>
+        <p>The plane, which NASA bought in a bankruptcy sale from Eastern Airlines, is testing several related technologies, which researchers hope will reduce accident rates and allow airplanes to fly and land closer to each other, a capability that would reduce chronic delays and would encourage airlines to spend money to install the new equipment, some of which has the look of a video game.</p>
+        <p>The F.A.A. system, which started limited use in San Francisco on Aug. 30, is supposed to be installed at 34 airports by 2002. It uses radar to sense planes' positions and movement on the ground or near it, and to predict conflicts and then alert the tower controller. But it does not monitor all taxiways, and the warning may be delayed because a controller must look at the screen, figure out who is at fault and radio new instructions, all in a few seconds.</p>
+        <p>The NASA system is a cockpit warning, with a map showing the plane's position and that of the intruder.</p>
+        <p>In tests this morning, some software programs never issued a warning, forcing a human pilot in the co-pilot's seat, who was privy to the script, to tell the test pilot to abort. One trick is writing the software to give alarms only when appropriate.</p>
+        <p>''You do it a little too early, and you get a lot of false alarms; too late and you get collisions,'' said R. Michael Norman, a researcher on loan to NASA from Boeing. Even a few unnecessary go-arounds would destroy the economic benefits of the system, he said, and pilots tend to disregard systems that give false alarms too often.</p>
+        <p>The NASA system has other capabilities. One feature is a ''moving map,'' to allow the crew to see the plane's position on a map in darkness and fog.</p>
+        <p>Airplanes sometimes taxi into the path of others because they have taken a wrong turn in the forests of pathways and lights, among the most featureless terrain that anyone has to navigate. But the NASA system shows a screen with a map and virtual traffic cones, stop signs and turn signs.</p>
+        <p>A related system, ''synthetic vision,'' generates a map of the terrain in flight and the intended path of the plane as what looks a little like a monorail track.</p>
+        <p>Captain Grue said the system needed work but, he said, ''it's cool and it works.'' Captain Grue, who has had special training for landing at mountain airports in South America, said the feature for navigating once on the ground would be a major improvement, because it was so easy to get lost there.</p>
+        <p>NASA researchers and outsiders who have visited them are most excited about the system to prevent runway incursions. ''The data show that runway incursions are on the rise, and traffic is going up 3 percent a year,'' said John C. Penney, a captain at United Airlines, who also flew the system this morning. ''You're going to have more incursions on limited pieces of concrete,'' he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

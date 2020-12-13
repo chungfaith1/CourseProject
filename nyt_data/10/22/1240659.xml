@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Best Wishes, George Allen's Daughter'</title>
+    <meta content="LTR131714" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1240659"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001022T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E2D61E3FF931A15753C1A9669C8B63" item-length="38" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Best Wishes, George Allen's Daughter'</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As an impressionable 12-year-old in 1972, I still remember how George Allen turned around a flailing Redskins team. I hope he receives that Hall of Fame nomination he deserves.</p>
+        <p>Elizabeth Adams Lasser  Cambridge, Mass.</p>
+      </block>
+      <block class="full_text">
+        <p>As an impressionable 12-year-old in 1972, I still remember how George Allen turned around a flailing Redskins team. I hope he receives that Hall of Fame nomination he deserves.</p>
+        <p>Elizabeth Adams Lasser  Cambridge, Mass.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Watching the Paint Dry</title>
+    <meta content="LTR005802" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211258"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Grain</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Teich, Al</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Grain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000629T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E7DC1F30F93AA15755C0A9669C8B63" item-length="142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Watching the Paint Dry</hl1>
+      </hedline>
+      <abstract>
+        <p>Al Teich letter comments on June 22 article on Web site for watching corn grow; notes two similar sites</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Here's a site on which you can watch paint peel: the Peeling Paint WebCam at www.mich.com/rrreibel/paintcam.htm. If that doesn't satisfy your need for boredom, you could try the United States Naval Observatory's Master Clock Voice Announcer (tycho.usno.navy.mil/ what.html), which provides the time every 10 seconds in a stirring monotone in RealAudio. Unfortunately, because RealAudio operates with a built-in delay, it's off by several seconds.</p>
+        <p>AL TEICH  Garrett Park, Md.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Here's a site on which you can watch paint peel: the Peeling Paint WebCam at www.mich.com/rrreibel/paintcam.htm. If that doesn't satisfy your need for boredom, you could try the United States Naval Observatory's Master Clock Voice Announcer (tycho.usno.navy.mil/ what.html), which provides the time every 10 seconds in a stirring monotone in RealAudio. Unfortunately, because RealAudio operates with a built-in delay, it's off by several seconds.</p>
+        <p>AL TEICH  Garrett Park, Md.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

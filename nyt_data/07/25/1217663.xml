@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR012017" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Corrections; Books; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1217663"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">General Electric Co</org>
+        <person class="indexing_service">Welch, John F Jr</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000725T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E4DA103AF936A15754C0A9669C8B63" item-length="135" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of July 13 Making Books column and July 14 Business Day article about $7.1 million book advance reportedly being paid to John F Welch Jr, chairman of General Electric Company</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Making Books column on July 13 and an article in Business Day on July 14 about the $7.1 million book advance reportedly being paid to John F. Welch Jr., the chairman of the General Electric Company, referred to the precedents incompletely. (Similar references appeared in an Op-Ed page column on July 16, in the Media Talk column of Business Day on July 17 and in an editorial on July 20.) While the advance is apparently a single-book record for North American nonfiction rights, higher amounts have been paid for worldwide English rights. Pope John Paul II reportedly received an $8.5 million advance in 1994 for his book about Roman Catholicism in the modern era. The sale of Mr. Welch's worldwide English rights is expected to add millions to his North American advance.</p>
+      </block>
+      <block class="full_text">
+        <p>The Making Books column on July 13 and an article in Business Day on July 14 about the $7.1 million book advance reportedly being paid to John F. Welch Jr., the chairman of the General Electric Company, referred to the precedents incompletely. (Similar references appeared in an Op-Ed page column on July 16, in the Media Talk column of Business Day on July 17 and in an editorial on July 20.) While the advance is apparently a single-book record for North American nonfiction rights, higher amounts have been paid for worldwide English rights. Pope John Paul II reportedly received an $8.5 million advance in 1994 for his book about Roman Catholicism in the modern era. The sale of Mr. Welch's worldwide English rights is expected to add millions to his North American advance.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Logging On and Staying On</title>
+    <meta content="LTR005909" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211266"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <person class="indexing_service">Spielman, Michael</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000629T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E6DC1F30F93AA15755C0A9669C8B63" item-length="120" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Logging On and Staying On</hl1>
+      </hedline>
+      <abstract>
+        <p>Michael Spielman letter says June 22 Q&amp;A column gave incomplete answer to the reader who was often disconnected while trying to download Web files; suggests disabling the antivirus program</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The answer to the reader who was often disconnected while trying to download Web files (''When Modems Fail to Stay Connected,'' Q &amp; A, June 22) is incomplete. I had that problem, and despite tinkering by I.S.P. tech support people, the culprit turned out to be Norton AntiVirus 2000. The moment I disabled it, I could download perfectly. So now I have to be careful what sites I download from.</p>
+        <p>MICHAEL SPIELMAN  Bronx</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The answer to the reader who was often disconnected while trying to download Web files (''When Modems Fail to Stay Connected,'' Q &amp; A, June 22) is incomplete. I had that problem, and despite tinkering by I.S.P. tech support people, the culprit turned out to be Norton AntiVirus 2000. The moment I disabled it, I could download perfectly. So now I have to be careful what sites I download from.</p>
+        <p>MICHAEL SPIELMAN  Bronx</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

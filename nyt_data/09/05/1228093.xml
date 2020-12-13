@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Ultimate, Apocalyptic Laptop</title>
+    <meta content="05LAPT" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health &amp; Fitness" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/05/science/05LAPT.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1228093"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Nature (Journal)</org>
+        <person class="indexing_service">Lloyd, Seth (Dr)</person>
+        <person class="indexing_service">Johnson, George</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000905T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E4D91E30F936A3575AC0A9669C8B63" item-length="1951" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Ultimate, Apocalyptic Laptop</hl1>
+      </hedline>
+      <byline class="print_byline">By GEORGE JOHNSON</byline>
+      <byline class="normalized_byline">Johnson, George</byline>
+      <abstract>
+        <p>Dr Seth Lloyd, in article in journal Nature, describes ultimate laptop commuter, plumbing limits nature sets on computation; effort, part of relatively new discipline called physics of information, gives computer engineers ideal to aim for and may help deepen understanding between physics and information and explore idea that natural processes can be thought of as computations; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For all the corporate enthusiasm over the unveiling of each new generation of computer chip (last month Intel announced that its Pentium 4 would be packed with 42 million transistors performing as many as 8.4 billion operations per second), consumers may be more apt to feel a sense of dread. Once again the expensive desktop computers and laptops they were so proud of have become outmoded, destined to join the scrap piles of unsalable equipment accumulating in closets everywhere.</p>
+        <p>Moore's law, which holds that computing power doubles approximately every 18 months, sometimes seems less a blessing than a curse. But the law cannot hold forever, and Dr. Seth Lloyd, an associate professor of mechanical engineering at the Massachusetts Institute of Technology, offers hope that the end is in sight.</p>
+      </block>
+      <block class="full_text">
+        <p>For all the corporate enthusiasm over the unveiling of each new generation of computer chip (last month Intel announced that its Pentium 4 would be packed with 42 million transistors performing as many as 8.4 billion operations per second), consumers may be more apt to feel a sense of dread. Once again the expensive desktop computers and laptops they were so proud of have become outmoded, destined to join the scrap piles of unsalable equipment accumulating in closets everywhere.</p>
+        <p>Moore's law, which holds that computing power doubles approximately every 18 months, sometimes seems less a blessing than a curse. But the law cannot hold forever, and Dr. Seth Lloyd, an associate professor of mechanical engineering at the Massachusetts Institute of Technology, offers hope that the end is in sight.</p>
+        <p>In a paper in the current issue of Nature, Dr. Lloyd describes the ultimate laptop -- a computer as powerful as the laws of physics will allow. So energetic is this imaginary machine that using it would be like harnessing a thermonuclear reaction. In the most extreme version of this computer supreme, so much computational circuitry would be packed into so small a space that the whole thing would collapse and form a tiny black hole, an object so dense that not even light can escape its gravity.</p>
+        <p>If that sounds like a rather dangerous device to hold on one's lap -- ''Opening the lid,'' Dr. Lloyd warns, ''voids the warranty'' -- there is a serious purpose to his theoretical tour de force: to plumb the absolute limits nature sets on computation.</p>
+        <p>Nothing like Lloyd's Ultimate Laptop is likely to roll off the assembly line at some future Apple or I.B.M. But his effort, part of a relatively new discipline called the physics of information, gives computer engineers an ideal to aim for. More importantly, this exercise in extreme computer science may help deepen the understanding of the connections between physics and information, and explore the notion, popular among some theorists, that the very processes of nature can be thought of as computations.</p>
+        <p>''Work like this exemplifies a fruitful new convergence of theoretical physics, computer science and mathematics,'' said Gregory Chaitin, a researcher at the I.B.M. Thomas J. Watson Research Center in Yorktown Heights, N.Y., whose specialties include the mathematics of information. ''Interdisciplinary research of this kind would have been unthinkable a few years ago.''</p>
+        <p>Named for its inventor, Gordon Moore, a founder of Intel, Moore's law has continued to hold true because of the dexterity with which engineers have been able to inscribe smaller and smaller circuitry onto silicon computer chips. As the components of the circuits are squeezed closer together, they can exchange information at faster speeds.</p>
+        <p>''People have been predicting the demise of Moore's law pretty much since it was posited in the early 60's because some manufacturing technology was about to run out,'' Dr. Lloyd said. ''But Moore's law is a law of human ingenuity rather than of nature. Predictions of its demise have been wrong because people are ingenious.''</p>
+        <p>The vanishingly tiny components on a chip are like switches that can be in two positions, either on or off -- representing a bit of information, 1 or 0. Minuscule as they seem, each of these devices is typically made of about a billion atoms. But laboratories are already experimenting with computers in which a bit is stored by a single atom that can spin clockwise for 1 or counterclockwise for 0. And who is to say that the grain could not someday be even finer with subatomic particles like quarks or gluons or even the hypothetical superstrings harnessed to encode and manipulate information?</p>
+        <p>But ultimately the limits of nature must prevail. ''If we believe the laws of physics,'' Dr. Lloyd said, ''then the fundamental constants of nature should tell us where Moore's law absolutely has to end, where we can't miniaturize any further.''</p>
+        <p>Dr. Lloyd approached the problem like a consumer in the market for a new laptop. ''If you're going out to buy a computer,'' he said, ''you have two basic questions: how fast is it and how much memory space does it have?'' Those are the ingredients of computing power. He assumed that his laptop would have about the same dimensions as a contemporary one, weighing a kilogram, 2.2 pounds, and occupying one liter of space.</p>
+        <p>First he set out to determine how fast his ultimate laptop could compute. The limiting factor is energy: the faster a computer runs, the more voracious its appetite. So what would be the maximum possible energy available to a portable machine?</p>
+        <p>One could speculate endlessly on the future of battery technology. Seeking a more fundamental answer, Dr. Lloyd looked to Einstein's special theory of relativity. If every particle of the laptop's kilogram of mass is converted into energy according to the equation E=mc2, the answer is 8.9874 x 1016 joules -- or in more familiar terms, 25 million megawatt-hours, the amount of energy produced by all the world's nuclear power plants in 72 hours.</p>
+        <p>''The machine would be cannibalizing its own mass to perform its operations,'' Dr. Lloyd mused. No engineer from Eveready or Duracell could ever squeeze more juice from a chunk of matter.</p>
+        <p>There would be obvious practical considerations to controlling (and computing with) what would amount to thermonuclear fusion. (Dr. Lloyd speculated that the computer's ''circuitry'' might consist of electrons and antimatter positrons, signaling each other with gamma rays.) But the details are unimportant. Ultimate computer science is not about what is probable but what is possible. The rest can be left to the engineers.</p>
+        <p>The next step was to determine the maximum speed one can get from all that energy -- how rapidly the little switches can be flipped between 1 and 0, carrying out their calculations. Here Dr. Lloyd turned to quantum mechanics. One of the quirky rules governing the behavior of subatomic particles is Heisenberg's uncertainty principle, which, among other things, specifies a simple relationship between time and energy.  To compute switching speed, one multiplies pi by a number called Planck's constant and divides by twice the available energy. Applied to the ultimate laptop, the answer is 5.4258 x 1050 operations per second -- about 10,000 trillion trillion trillion times speedier than the Pentium 4. A computer that fast could never be obsolete -- not in this universe.</p>
+        <p>These limits would hold true no matter what kind of technological breakthroughs lie ahead. ''It doesn't matter whether you're computing with vacuum tubes or transistors or using quarks and gluons or something even more exotic like superstrings,'' Dr. Lloyd said. Relativity and quantum mechanics promise that is as fast as the ultimate laptop can be.</p>
+        <p>Nor does it matter how the computer is designed. The energy can be used to power one extremely fast processor or many slower ones. Either way, the maximum possible number of operations per second is the same.</p>
+        <p>Now that he had put an upper limit on speed, Dr. Lloyd wanted to see how big he could make the machine's memory -- how many bits of information could be stored and manipulated at those blazing speeds. Every atom or even every electron could be used to register a 1 or a 0, depending on which way it was spinning. But to store the maximum amount of information, the little processors would have to be free to assume as many different states as possible. At intense energies, information might be encoded not just by the spin of a particle but also by the speed and direction in which it was moving inside the machine.</p>
+        <p>''In order to take full advantage of the memory space available, the ultimate laptop must turn all its matter into energy,'' Dr. Lloyd said. ''A typical state of the ultimate laptop's memory looks like a thermonuclear explosion or a little piece of the Big Bang! Clearly, packaging issues alone make it unlikely that this limit can be obtained, even setting aside the difficulties of stability and control.''</p>
+        <p>An object like this, so packed with energy that its particles are as free as they can possibly be, is said to be in a state of maximum entropy. Though more commonly thought of as a measure of disorder -- a vaporized laptop being less orderly than one at room temperature -- entropy is also intimately related to information. The higher an object's entropy, the greater the number of different states its particles can assume, and the greater the amount of information it can store.</p>
+        <p>For the ultimate laptop, the maximum entropy corresponds to an information capacity of about 2.13 x 1031 bits -- a billion trillion times more than today's laptops.</p>
+        <p>Achieving so vast a memory might not be as unrealistic as it sounds. In a kilogram of matter there are approximately 1025 atomic nuclei, each of which could store a bit without vaporizing the entire mass. ''One can get quite close to the ultimate physical limit of memory without having to resort to thermonuclear explosions,'' Dr. Lloyd said.</p>
+        <p>Until this point, Dr. Lloyd had been constraining himself to a laptop with a volume of one liter. If he could make it even smaller, he knew, he could pack the kilogram of particle-size components even tighter, speeding up the information flow and shortening the time it takes to do long, step-by-step calculations. He would be sacrificing memory (there would be less room to store information) for speed.</p>
+        <p>So in the final act of his thought experiment, he programmed the ultimate laptop to solve a formidable problem (cracking a secret code or something like that) and imagined it shrinking and shrinking -- to the size of a wallet, then a credit card, then a postage stamp. Smaller and smaller until its radius is a mere centimeter (10-2 meters), then a millionth of a meter (10-6), then a billionth (10-9).</p>
+        <p>When the laptop has shrunk to 10-27 meters (a billionth the size of a proton), it crosses what is called the Schwarzschild radius: So much mass is packed into so little space that the whole thing collapses, sucking itself into a tiny black hole.</p>
+        <p>Some people may be convinced that they already have a black hole laptop, imploding at the worst possible moments and irretrievably swallowing data. Owning the real thing would surely be even worse.</p>
+        <p>According to some theories, however, information thrown down a black hole does not disappear, but is displayed on the hole's surface. Each pixel of this screen would occupy one square Planck length, 10-35 by 10-35 square meters, the smallest area conceivable by the laws of physics.</p>
+        <p>Some theorists, in fact, believe that the information about everything that falls into any black hole is projected in this manner -- that each one of these sinkholes is, in a sense, processing information. Viewed this way, exercises like Dr. Lloyd's could have implications for physics and cosmology.</p>
+        <p>''I would hope that the long-term consequence of this work is not building a black hole computer, which would be a dangerous thing to do,'' Dr. Lloyd said, ''but seeing whether we can understand how nature itself processes information.''</p>
+        <p>If particles trade bits of data as readily as they trade energy, then the universe itself is the ultimate computer. And physics is a matter of deciphering its program.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Power of the Press</title>
+    <meta content="MB033358" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1238708"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="2000 PLAYOFFS: METS NOTEBOOK"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001014T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804EEDF103FF937A25753C1A9669C8B63" item-length="86" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Power of the Press</hl1>
+      </hedline>
+      <byline class="print_byline">By Tyler Kepner</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Yesterday's workout was optional, and many of the Mets who showed up at Shea did not participate. The players had to show up to be available for interviews, a league rule, but Manager Bobby Valentine was not thrilled with that idea.</p>
+        <p>''I'm trying to figure out who has that supreme power,'' Valentine said on Thursday.</p>
+        <p>Tyler Kepner</p>
+      </block>
+      <block class="full_text">
+        <p>Yesterday's workout was optional, and many of the Mets who showed up at Shea did not participate. The players had to show up to be available for interviews, a league rule, but Manager Bobby Valentine was not thrilled with that idea.</p>
+        <p>''I'm trying to figure out who has that supreme power,'' Valentine said on Thursday.</p>
+        <p>Tyler Kepner</p>
+        <p>2000 PLAYOFFS: METS NOTEBOOK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

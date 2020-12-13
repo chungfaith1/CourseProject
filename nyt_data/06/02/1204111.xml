@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bargains on the Web</title>
+    <meta content="L02DVD$01" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204111"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Retail Stores and Trade</classifier>
+        <person class="indexing_service">Light, Alan L</person>
+        <person class="indexing_service">Friedman, Thomas L</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E1DA133CF931A35755C0A9669C8B63" item-length="132" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bargains on the Web</hl1>
+      </hedline>
+      <abstract>
+        <p>Alan L Light letter says Thomas L Friedman may be right about Internet backlash (May 30 Op-Ed column), but there is a big advantage in online shopping</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Thomas L. Friedman may be right about Internet backlash (column, May 30), but there is a big advantage to online shopping: price.</p>
+        <p>I recently visited a discount electronics store at my local mall to buy a high-end DVD player with a list price of $799. The store's price was $699. Not bad, but just a few clicks on my computer found a price of $469 with free shipping, and no sales tax.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Thomas L. Friedman may be right about Internet backlash (column, May 30), but there is a big advantage to online shopping: price.</p>
+        <p>I recently visited a discount electronics store at my local mall to buy a high-end DVD player with a list price of $799. The store's price was $699. Not bad, but just a few clicks on my computer found a price of $469 with free shipping, and no sales tax.</p>
+        <p>How can stores, with their high overhead costs, ever compete?</p>
+        <p>ALAN L. LIGHT  Iowa City, May 30, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

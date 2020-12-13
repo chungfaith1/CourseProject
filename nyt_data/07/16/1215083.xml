@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Letters From the Web</title>
+    <meta content="LTR090047" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215083"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <classifier class="indexing_service" type="descriptor">Discrimination</classifier>
+        <person class="indexing_service">Thomas, Erica</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE1D61338F935A25754C0A9669C8B63" item-length="126" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Letters From the Web</hl1>
+      </hedline>
+      <abstract>
+        <p>Erica Thomas, responding to Web site questionnaire about race relations in America, describes her parents' experiences growing up black in Birmingham, Ala</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>My parents grew up in Birmingham, Ala., in the 1950's. They would tell me about the colored water fountains, about having to walk to school while the white children rode in buses (often spitting at my parents and their friends as they passed) and about how you had to act around police officers and other authority figures. They learned to ask for a bag for any store purchase, even if it was just gum, because otherwise it would be assumed that you'd stolen it. In fact, I still insist on bags.</p>
+        <p>Erica Thomas  Black, 27  Washington</p>
+      </block>
+      <block class="full_text">
+        <p>My parents grew up in Birmingham, Ala., in the 1950's. They would tell me about the colored water fountains, about having to walk to school while the white children rode in buses (often spitting at my parents and their friends as they passed) and about how you had to act around police officers and other authority figures. They learned to ask for a bag for any store purchase, even if it was just gum, because otherwise it would be assumed that you'd stolen it. In fact, I still insist on bags.</p>
+        <p>Erica Thomas  Black, 27  Washington</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR231758" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Home and Garden; Style; Corrections" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1236237"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Engineering and Engineers</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">Public Broadcasting Service</org>
+        <object.title class="indexing_service">Building Big (TV Program)</object.title>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Engineering and Engineers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001005T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE6D61F3DF936A35753C1A9669C8B63" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Sept 30 article on new book and PBS television series Building Big, on large-scale engineering projects</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article last Thursday about ''Building Big,'' a new book and television series that explains large-scale engineering projects, incorrectly dated the hurricane that led Red Cross officials to plan an evacuation of Midtown and, by implication, misstated the year an engineering flaw was discovered in the construction of the Citicorp Building. The hurricane was Ella in 1978, not the one in 1962.</p>
+      </block>
+      <block class="full_text">
+        <p>An article last Thursday about ''Building Big,'' a new book and television series that explains large-scale engineering projects, incorrectly dated the hurricane that led Red Cross officials to plan an evacuation of Midtown and, by implication, misstated the year an engineering flaw was discovered in the construction of the Citicorp Building. The hurricane was Ella in 1978, not the one in 1962.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

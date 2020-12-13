@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="CN223143" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1199063"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000513T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E1DC123BF930A25756C0A9669C8B63" item-length="85" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CARORDER.COM INC., Austin, Tex., a car seller on the Internet, has laid off 100 workers, or nearly one-third of its work force, as it struggles with competition in the online auto sales industry.</p>
+        <p>GENERAL DYNAMICS CORP., Falls Church, Va., the fourth-largest military contractor in the United States, agreed to buy a unit of New Colt Holding Corp., West Hartford, Conn., that makes machine guns and grenade launchers. The price was not disclosed.</p>
+      </block>
+      <block class="full_text">
+        <p>CARORDER.COM INC., Austin, Tex., a car seller on the Internet, has laid off 100 workers, or nearly one-third of its work force, as it struggles with competition in the online auto sales industry.</p>
+        <p>GENERAL DYNAMICS CORP., Falls Church, Va., the fourth-largest military contractor in the United States, agreed to buy a unit of New Colt Holding Corp., West Hartford, Conn., that makes machine guns and grenade launchers. The price was not disclosed.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

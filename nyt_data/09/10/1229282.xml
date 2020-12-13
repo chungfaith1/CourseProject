@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Peekskill Newspaper Folds In Face of Competition</title>
+    <meta content="MB000311" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1229282"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="IN BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Newspapers</classifier>
+        <classifier class="indexing_service" type="descriptor">Shutdowns (Institutional)</classifier>
+        <org class="indexing_service">Peekskill-Cortlandt Herald (Newspaper)</org>
+        <org class="indexing_service">Journal News (Newspaper)</org>
+        <org class="indexing_service">Gannett Co Inc</org>
+        <person class="indexing_service">Brenner, Elsa</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shutdowns (Institutional)</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000910T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E4DC1339F933A2575AC0A9669C8B63" item-length="158" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Peekskill Newspaper Folds In Face of Competition</hl1>
+      </hedline>
+      <byline class="print_byline">By Elsa Brenner</byline>
+      <byline class="normalized_byline">Brenner, Elsa</byline>
+      <abstract>
+        <p>Peekskill-Cortlandt Herald, unable to compete with Star, Gannett's weekly supplement to Journal News, ceases operations (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Unable to compete with a Gannett newspaper in northern Westchester, the 14-year-old Peekskill-Cortlandt Herald folded late last month.</p>
+        <p>''We found it very expensive to put out the kind of newspaper we wanted -- a stand-alone,'' said Cecil J. North Jr., president of Guide Communications in Brewster. ''We don't have the resources that a chain has.''</p>
+      </block>
+      <block class="full_text">
+        <p>Unable to compete with a Gannett newspaper in northern Westchester, the 14-year-old Peekskill-Cortlandt Herald folded late last month.</p>
+        <p>''We found it very expensive to put out the kind of newspaper we wanted -- a stand-alone,'' said Cecil J. North Jr., president of Guide Communications in Brewster. ''We don't have the resources that a chain has.''</p>
+        <p>He said The Herald, a 30-something- page tabloid-format paper, which was published weekly, was unable to compete for advertisers and readers with Gannett's weekly supplement to The Journal News, The Star.</p>
+        <p>Elsa Brenner</p>
+        <p>IN BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Inadequate Gun Data</title>
+    <meta content="L09GUN" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1221173"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000809T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E4D8113CF93AA3575BC0A9669C8B63" item-length="217" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Inadequate Gun Data</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Study Disputes Success of the Brady Law'' (news article, Aug. 2):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Study Disputes Success of the Brady Law'' (news article, Aug. 2):</p>
+        <p>We know that we need comprehensive data to make intelligent policy decisions. But we do not have a system in place to collect those data, or make those decisions, in the area of gun violence.</p>
+        <p>While the Centers for Disease Control and Prevention reports the number of deaths caused by firearms, it cannot provide other information we need to respond more effectively to this problem. For example, we have no data on the types of firearms used; on the relationship between offender and victim; nor on the number of people who sustain nonfatal injury from firearms.</p>
+        <p>The Brady law and other policies directed at reducing firearm injury require continuing evaluation. The best first step we can take is for Congress to support a comprehensive system for reporting on firearm injuries.</p>
+        <p>JEREMIAH A. BARONDESS, M.D.  President  New York Academy of Medicine  New York, Aug. 3, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

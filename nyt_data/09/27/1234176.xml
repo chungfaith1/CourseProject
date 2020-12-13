@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Wong Doody Chosen For Clif Bar Account</title>
+    <meta content="MB002852" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234176"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <org class="indexing_service">Clif Bar Inc</org>
+        <org class="indexing_service">Wong Doody (Ad Agency)</org>
+        <person class="indexing_service">Lauro, Patricia Winters</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000927T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805EFDC103AF934A1575AC0A9669C8B63" item-length="133" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Wong Doody Chosen For Clif Bar Account</hl1>
+      </hedline>
+      <byline class="print_byline">By Patricia Winters Lauro</byline>
+      <byline class="normalized_byline">Lauro, Patricia Winters</byline>
+      <abstract>
+        <p>Clif Bar Inc, which sells energy bars and other food products, names Los Angeles office of Wong Doody to handle its advertising account; billings estimated at $8 million (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Clif Bar Inc., which sells energy bars and other food products, yesterday named the Los Angeles office of Wong Doody to handle its account, which had been run in-house for the last year. Billings were estimated at $8 million. Dean Mayer, a spokesman for Clif Bar in Berkeley, Calif., confirmed a report of the decision on the Advertising Age World Wide Web site. The decision came, he said, after a review of 25 agencies was narrowed to Wong Doody and two other finalists: Black Rocket in San Francisco and Team One Advertising in El Segundo, Calif., owned by the Publicis Groupe S.A.</p>
+      </block>
+      <block class="full_text">
+        <p>Clif Bar Inc., which sells energy bars and other food products, yesterday named the Los Angeles office of Wong Doody to handle its account, which had been run in-house for the last year. Billings were estimated at $8 million. Dean Mayer, a spokesman for Clif Bar in Berkeley, Calif., confirmed a report of the decision on the Advertising Age World Wide Web site. The decision came, he said, after a review of 25 agencies was narrowed to Wong Doody and two other finalists: Black Rocket in San Francisco and Team One Advertising in El Segundo, Calif., owned by the Publicis Groupe S.A.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

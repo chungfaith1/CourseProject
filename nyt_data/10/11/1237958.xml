@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR235625" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Education; Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1237958"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Sexual Harassment</classifier>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <org class="indexing_service">Columbia University</org>
+        <person class="indexing_service">silverglate, harvey a</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sexual Harassment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001011T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E4D81F3CF932A25753C1A9669C8B63" item-length="106" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Oct 5 article about new sexual misconduct policy at Columbia University; reference was made to student who is son of Harvey A Silverglate</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Because of an editing error, an article on Thursday about a new sexual misconduct policy at Columbia University referred incorrectly to a senior there whose father is Harvey A. Silverglate, a co-founder of a group critical of the policy. The student is his son, not his daughter. Because of an editing error, the article also misstated Mr. Silverglate's title and affiliation. He is a board member and a former president of the American Civil Liberties Union of Massachusetts, not a past board member of the national A.C.L.U.</p>
+      </block>
+      <block class="full_text">
+        <p>Because of an editing error, an article on Thursday about a new sexual misconduct policy at Columbia University referred incorrectly to a senior there whose father is Harvey A. Silverglate, a co-founder of a group critical of the policy. The student is his son, not his daughter. Because of an editing error, the article also misstated Mr. Silverglate's title and affiliation. He is a board member and a former president of the American Civil Liberties Union of Massachusetts, not a past board member of the national A.C.L.U.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

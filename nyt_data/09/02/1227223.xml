@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Online Commute</title>
+    <meta content="02RICE$07" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1227223"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Office Buildings and Commercial Properties</classifier>
+        <org class="indexing_service">Cisco Systems</org>
+        <person class="indexing_service">Rice, Scott (Prof)</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000902T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E4DF1330F931A3575AC0A9669C8B63" item-length="382" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Online Commute</hl1>
+      </hedline>
+      <byline class="print_byline">By Scott Rice</byline>
+      <byline class="normalized_byline">Rice, Scott (Prof)</byline>
+      <dateline>SAN JOSE, Calif.</dateline>
+      <abstract>
+        <p>San Jose State University Prof Scot</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Six miles south of where I live, in a lovely pastoral setting known as Coyote Valley, Cisco Systems is busy transforming almost 700 acres of fields, orchards and streams into a huge office complex that will eventually house 20,000 of its employees. Such a facility makes obvious sense. When you concentrate bright, skilled people in the same proximate space, they energize one another. And given the intellectual nature of the work, and the brain pool that it will house, it deserves to be called, in familiar Silicon Valley language, a ''campus.''</p>
+        <p>If I worked at Cisco, I would probably have endorsed the idea, but then I would have crossed my fingers and hoped that no outsider asked the obvious question: After all the talk about the sufficiency of virtual experience, what has happened to the wired utopia we were promised? The on-site office was supposed to be the first to succumb to the ease of Internet communication. When a high-tech giant sets this sort of example, it's difficult to believe in the promise of satisfactory virtual substitutes like telecommuting, online shopping, online entertainment, and -- something that concerns me greatly as a teacher -- online education.</p>
+      </block>
+      <block class="full_text">
+        <p>Six miles south of where I live, in a lovely pastoral setting known as Coyote Valley, Cisco Systems is busy transforming almost 700 acres of fields, orchards and streams into a huge office complex that will eventually house 20,000 of its employees. Such a facility makes obvious sense. When you concentrate bright, skilled people in the same proximate space, they energize one another. And given the intellectual nature of the work, and the brain pool that it will house, it deserves to be called, in familiar Silicon Valley language, a ''campus.''</p>
+        <p>If I worked at Cisco, I would probably have endorsed the idea, but then I would have crossed my fingers and hoped that no outsider asked the obvious question: After all the talk about the sufficiency of virtual experience, what has happened to the wired utopia we were promised? The on-site office was supposed to be the first to succumb to the ease of Internet communication. When a high-tech giant sets this sort of example, it's difficult to believe in the promise of satisfactory virtual substitutes like telecommuting, online shopping, online entertainment, and -- something that concerns me greatly as a teacher -- online education.</p>
+        <p>And it's not just Cisco. One of its top rivals, Juniper Networks, recently announced its own 80-acre Silicon Valley expansion. Juniper's and Cisco's workers are the computer whizzes trailblazing our digital future. If they don't function better in the virtual workplace, then how can they sell it to the rest of us?</p>
+        <p>Several decades into the Information Age, Silicon Valley freeways are as clogged as ever. Only moguls get to telecommute, dialing in occasionally from their yachts. The worker bees continue to slog to work every morning, as their ancestors did.</p>
+        <p>Technology companies will continue to build campuses because they know that the intellectually demanding work they do is best tackled in groups. If it seems hypocritical for them to promote something different for the rest of us, just remember who is selling the gear and tackle to construct that wired virtual campus.</p>
+        <p>Scott Rice is a professor of English at San Jose State University.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Scott Rice is a professor of English at San Jose State University.</tagline>
+    </body.end>
+  </body>
+</nitf>

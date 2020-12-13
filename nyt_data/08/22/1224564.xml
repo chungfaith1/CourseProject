@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Business; Daily News to Start Free Evening Paper</title>
+    <meta content="MB004731" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1224564"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Newspapers</classifier>
+        <org class="indexing_service">New York Daily News</org>
+        <org class="indexing_service">Daily News Express</org>
+        <person class="indexing_service">Rutenberg, Jim</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000822T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E4DF1F3EF931A1575BC0A9669C8B63" item-length="220" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Business; Daily News to Start Free Evening Paper</hl1>
+      </hedline>
+      <byline class="print_byline">By Jim Rutenberg</byline>
+      <byline class="normalized_byline">Rutenberg, Jim</byline>
+      <abstract>
+        <p>Daily News will begin distributing free evening newspaper aimed at commuters starting Sept 12; executives say new paper will be called Daily News Express (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Daily News will begin distributing a free evening newspaper aimed at commuters starting Sept. 12, executives said yesterday.</p>
+        <p>The new paper, to be called The Daily News Express, will have a staff of about 12 reporters and will generally feature 20 pages of news and 20 pages of advertisements.</p>
+      </block>
+      <block class="full_text">
+        <p>The Daily News will begin distributing a free evening newspaper aimed at commuters starting Sept. 12, executives said yesterday.</p>
+        <p>The new paper, to be called The Daily News Express, will have a staff of about 12 reporters and will generally feature 20 pages of news and 20 pages of advertisements.</p>
+        <p>Street hawkers will hand out the paper at 75 transportation points in Manhattan and downtown Brooklyn Mondays through Fridays, between 4  and 7 p.m. It will not publish on weekends. The Express will have an initial press run of 75,000.</p>
+        <p>Les Goodstein, The Daily News's president, said the new paper would  focus on business coverage and late-breaking general news. ''This is an abbreviated, quick read,'' he said.</p>
+        <p>This is not the newspaper's first foray into an evening publication. In 1980 it started a paper called Tonight, but shut it down after about a year because of lagging sales.</p>
+        <p>Jim Rutenberg</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Olympic Moment</title>
+    <meta content="L29OLY" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/29/opinion/L29OLY.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1234547"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Olympic Games</classifier>
+        <classifier class="indexing_service" type="descriptor">Wrestling</classifier>
+        <classifier class="indexing_service" type="descriptor">Olympic Games (2000)</classifier>
+        <person class="indexing_service">Dwyer, Matthew B</person>
+        <person class="indexing_service">Gardner, Rulon</person>
+        <person class="indexing_service">Karelin, Aleksandr</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Olympic Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wrestling</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000929T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE3DD1F3AF93AA1575AC0A9669C8B63" item-length="122" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Olympic Moment</hl1>
+      </hedline>
+      <abstract>
+        <p>Matthew B Dwyer letter says Rulon Gardner's win in Greco-Roman wrestling at Sydney Olympics was one of greatest upsets in history of any sport</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Rulon Gardner's defeat of Aleksandr Karelin in Greco-Roman wrestling was not only ''one of the most  startling upsets in Olympic wrestling history,'' but also one of the greatest upsets in the history of any sport (''Even 286-Pound Legends Lose Eventually,'' Sports pages, Sept. 28).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Rulon Gardner's defeat of Aleksandr Karelin in Greco-Roman wrestling was not only ''one of the most  startling upsets in Olympic wrestling history,'' but also one of the greatest upsets in the history of any sport (''Even 286-Pound Legends Lose Eventually,'' Sports pages, Sept. 28).</p>
+        <p>Gardner's overtime defeat of Karelin is the Olympic moment we have been waiting for. Watching this unknown underdog defy every expectation is far more exciting than watching a hundred Michael Johnsons or Marion Joneses simply meeting everyone's expectations.</p>
+        <p>MATTHEW B. DWYER  New York, Sept. 28, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

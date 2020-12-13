@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Text of Fed's Statement</title>
+    <meta content="Y23TEXT" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1224679"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <classifier class="indexing_service" type="descriptor">Credit</classifier>
+        <classifier class="indexing_service" type="descriptor">Interest Rates</classifier>
+        <classifier class="indexing_service" type="descriptor">Discount Rate</classifier>
+        <org class="indexing_service">Federal Reserve System</org>
+        <classifier class="online_producer" type="types_of_material">Text</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000823T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E7D71F3EF930A1575BC0A9669C8B63" item-length="274" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Text of Fed's Statement</hl1>
+      </hedline>
+      <abstract>
+        <p>Text of statement by Federal Reserve after its decision to leave short-term interest rates unchanged</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Following is the text of the statement by the Federal Open Market Committee, the Federal Reserve's monetary policy panel, after its decision yesterday to leave short-term interest rates unchanged:</p>
+        <p>The Federal Open Market Committee at its meeting today decided to maintain the existing stance of monetary policy, keeping its target for the federal funds  rate at 6 1/2 percent.</p>
+      </block>
+      <block class="full_text">
+        <p>Following is the text of the statement by the Federal Open Market Committee, the Federal Reserve's monetary policy panel, after its decision yesterday to leave short-term interest rates unchanged:</p>
+        <p>The Federal Open Market Committee at its meeting today decided to maintain the existing stance of monetary policy, keeping its target for the federal funds  rate at 6 1/2 percent.</p>
+        <p>Recent data have indicated that the expansion of aggregate demand is moderating toward a pace closer to the rate of growth of the economy's potential to produce. The data also have indicated that more rapid advances in productivity have been raising that potential growth rate as well as containing costs and holding down underlying price pressures.</p>
+        <p>Nonetheless, the committee remains concerned about the risk of a continuing gap between the growth of demand and potential supply at a time when the utilization of the pool of available workers remains at an unusually high level.</p>
+        <p>Against the background of its long-term goals of price stability and sustainable economic growth and of the information currently available, the committee believes the risks continue to be weighted mainly toward conditions that may generate heightened inflation pressures in the foreseeable future.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

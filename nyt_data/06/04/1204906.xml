@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Testing Can't Measure the Person</title>
+    <meta content="LTR234812" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204906"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <classifier class="indexing_service" type="descriptor">Teachers and School Employees</classifier>
+        <classifier class="indexing_service" type="descriptor">Wages and Salaries</classifier>
+        <person class="indexing_service">Wilson, Sidney</person>
+        <person class="indexing_service">Botstein, Leon</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Teachers and School Employees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E0D81F3CF937A35755C0A9669C8B63" item-length="189" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Testing Can't Measure the Person</hl1>
+      </hedline>
+      <abstract>
+        <p>Sidney Wilson letter responds to Leon Botstein's May 28 Op-Ed commentary on standardized tests; suggests raising teacher salaries is best way to improve educational system (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>While Leon Botstein's suggestion about improving the quality of testing through modern technology is valid (Op-Ed, May 28), it tends to reinforce the idea that this avenue is what educational progress requires.</p>
+        <p>What is more important is the environment in which education occurs. A teaching philosophy that fires a student with the objective of the social good and a passion for the truth is what drives the educational engine.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>While Leon Botstein's suggestion about improving the quality of testing through modern technology is valid (Op-Ed, May 28), it tends to reinforce the idea that this avenue is what educational progress requires.</p>
+        <p>What is more important is the environment in which education occurs. A teaching philosophy that fires a student with the objective of the social good and a passion for the truth is what drives the educational engine.</p>
+        <p>The most constructive direction, therefore, is to attract those who are most capable of directing the classroom activity. Experience at times when better pay made teaching more attractive compared with other occupations suggests that raising teacher salaries is the best way to accomplish this.</p>
+        <p>SIDNEY WILSON  New City, N.Y., May 30, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

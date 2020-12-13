@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR012247" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1237729"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Parties (Social)</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">Carnegie Hall (NYC)</org>
+        <person class="indexing_service">Debs, Richard A</person>
+        <person class="indexing_service">Astor, Brooke</person>
+        <person class="indexing_service">Guzelimian, Ara</person>
+        <person class="indexing_service">Pollini, Maurizio</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parties (Social)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001010T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6D6113CF933A25753C1A9669C8B63" item-length="99" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Picture caption in Evening Hours column on Oct 8 misidentified a man seated with Richard A Debs and Brooke Astor at Carnegie Hall's opening night gala on Oct. 3; He is Ara Guzelimian, not Maurizio Pollini</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A picture caption in the Evening Hours column on Sunday misidentified a man seated with Richard A. Debs and Brooke Astor at Carnegie Hall's opening night gala on Oct. 3.  He was Ara Guzelimian, artistic adviser to Carnegie Hall, not Maurizio Pollini.</p>
+      </block>
+      <block class="full_text">
+        <p>A picture caption in the Evening Hours column on Sunday misidentified a man seated with Richard A. Debs and Brooke Astor at Carnegie Hall's opening night gala on Oct. 3.  He was Ara Guzelimian, artistic adviser to Carnegie Hall, not Maurizio Pollini.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

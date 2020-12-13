@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>I Was Right</title>
+    <meta content="LTR012927" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Theater; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1199305"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="OPERA OR MUSICAL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Opera</classifier>
+        <person class="indexing_service">Hendrick, Verne</person>
+        <person class="indexing_service">Sondheim, Stephen</person>
+        <person class="indexing_service">Rorem, Ned</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features/People</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features/People/Stephen Sondheim</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Opera</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000514T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E3D8163BF937A25756C0A9669C8B63" item-length="79" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>I Was Right</hl1>
+      </hedline>
+      <abstract>
+        <p>Verne Hendrick letter agrees with Stephen Sondheim and Ned Rorem's declarations, in April 30 article on difference between opera and musicals, that they are not interested in human voice, per se</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>At last, confirmation of what my minority of one's ears have told me all along. Rorem: ''Actually, I was never that interested in the human voice, per se.'' Sondheim: ''Neither am I.'' Out of the mouths of horses!</p>
+        <p>VERNE HENDRICK  Columbus, Ohio</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>At last, confirmation of what my minority of one's ears have told me all along. Rorem: ''Actually, I was never that interested in the human voice, per se.'' Sondheim: ''Neither am I.'' Out of the mouths of horses!</p>
+        <p>VERNE HENDRICK  Columbus, Ohio</p>
+        <p>OPERA OR MUSICAL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

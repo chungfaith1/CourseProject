@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Shopping and Shipping</title>
+    <meta content="LTR231901" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204005"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="INCOMING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Containers and Packaging</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <person class="indexing_service">Slatalla, Michelle</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Containers and Packaging</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7D7123CF932A35755C0A9669C8B63" item-length="161" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Shopping and Shipping</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by Patrick Shaw responds to Michelle Slatalla's May 25 article on free shipping from Internet merchants; says there is now a need to question size of boxes used to ship such items</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Thank you for the Online Shopper column about free shipping from Internet merchants. Now you should address the issue of the size of the boxes that things come in. For example, a book arrives surrounded by bubble wrap on all four sides. A bar of soap comes in a big box stuffed the same way.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Thank you for the Online Shopper column about free shipping from Internet merchants. Now you should address the issue of the size of the boxes that things come in. For example, a book arrives surrounded by bubble wrap on all four sides. A bar of soap comes in a big box stuffed the same way.</p>
+        <p>What is the relationship of cost to size, or is it only weight that counts? Think of all the space that could be saved if the boxes were smaller. Not to mention the waste of paper or cardboard and all the stuffing and tape.</p>
+        <p>PATRICK SHAW  Chicago</p>
+        <p>INCOMING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

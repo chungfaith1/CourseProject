@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV135441" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234930"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Boyer, Allen</person>
+        <person class="indexing_service">Dorman, Joseph</person>
+        <object.title class="indexing_service">Arguing the World (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001001T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05EED8103BF932A35753C1A9669C8B63" item-length="331" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Allen D. Boyer</byline>
+      <byline class="normalized_byline">Boyer, Allen</byline>
+      <abstract>
+        <p>Allen Boyer reviews book Arguing the World: The New York Intellectuals in Their Own Words by Joseph Dorman (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ARGUING THE WORLD</p>
+        <p>The New York Intellectuals</p>
+        <p>in Their Own Words.</p>
+        <p>By Joseph Dorman.</p>
+        <p>Free Press, $25.</p>
+      </block>
+      <block class="full_text">
+        <p>ARGUING THE WORLD</p>
+        <p>The New York Intellectuals</p>
+        <p>in Their Own Words.</p>
+        <p>By Joseph Dorman.</p>
+        <p>Free Press, $25.</p>
+        <p>An expanded version of Joseph Dorman's 1996 film documentary of the same name, this oral history follows the parallel careers of four notable New York intellectuals -- Irving Howe, Irving Kristol, Daniel Bell and Nathan Glazer -- through City College, the West Village, the Upper West Side and into the long-running three-cornered snipers' war waged by The Nation, Partisan Review and Commentary. ''Arguing the World'' fairly crackles with these writers' intelligence, engagement and perennial contentiousness. After 60 years, the debates that raged across the City College cafeteria remain vivid. ''Stalinists were middlebrow, the Trotskyists were highbrow,'' Irving Howe remarks. ''We prided ourselves on reading Joyce and Thomas Mann and Proust . . . whereas they were reading palookas like Howard Fast.'' Irving Kristol recalls Army basic training: ''About half of my original group seems to have come from Cicero, Illinois, which was Al Capone's hometown, or at least his criminal base. . . . I looked at them and thought, 'You know, I don't think we can create socialism with these people.' ''Maddeningly, the group long continued to judge broader issues by the reverberations within their tiny circle. The break between the Kristols and the Trillings in 1972, when Irving and Gertrude supported Richard Nixon but Lionel and Diana refused, has overtones of a back-fence feud. Glazer took a more generous approach: ''We were all becoming professors, so I couldn't see why one group of professors should attack another group as 'sellouts.' ''It may seem ironic that former Trotskyists have made such eloquent neo-conservatives, but, from another angle, the group's rightward tack is unsurprising. The intensity of their debates betrays the independence, energy and obstinacy of self-made men.</p>
+        <p>Allen D. Boyer</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

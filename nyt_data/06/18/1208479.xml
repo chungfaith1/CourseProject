@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>QUOTATION OF THE DAY</title>
+    <meta content="18QUOTE" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208479"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">QUOTATION OF THE DAY</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <person class="indexing_service">Goldberg, Myla</person>
+        <object.title class="indexing_service">Bee Season (Book)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02EED81731F93BA25755C0A9669C8B63" item-length="101" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>QUOTATION OF THE DAY</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of review in June 18 Book Review of book Bee Season, which misstates surname of author at two points; she is Myla Goldberg</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''If somebody asked me, 'What did you learn?' I'd probably say, 'Well, I learned to put up scaffolding.' But in fact, I was learning other lessons. There are some life experiences that go unlearned if you take the professional track all your life.''</p>
+        <p>JEFFREY A. JOERRES, of Manpower Inc., on his summer job as a house painter when he was a student. [22]</p>
+      </block>
+      <block class="full_text">
+        <p>''If somebody asked me, 'What did you learn?' I'd probably say, 'Well, I learned to put up scaffolding.' But in fact, I was learning other lessons. There are some life experiences that go unlearned if you take the professional track all your life.''</p>
+        <p>JEFFREY A. JOERRES, of Manpower Inc., on his summer job as a house painter when he was a student. [22]</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

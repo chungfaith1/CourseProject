@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="19BRIEF" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1240073"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001019T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E0DB123EF93AA25753C1A9669C8B63" item-length="310" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DIAL CORP.,  Scottsdale, Ariz., said it cut its quarterly dividend 50 percent as part of its strategy to repay debt associated with acquisitions.</p>
+        <p>LOCKHEED MARTIN CORP.,  Los Angeles, had its $5 million offer to settle claims accepted by about 350 residents of Burbank, Calif., who say chemicals from the company's plants made them sick.</p>
+      </block>
+      <block class="full_text">
+        <p>DIAL CORP.,  Scottsdale, Ariz., said it cut its quarterly dividend 50 percent as part of its strategy to repay debt associated with acquisitions.</p>
+        <p>LOCKHEED MARTIN CORP.,  Los Angeles, had its $5 million offer to settle claims accepted by about 350 residents of Burbank, Calif., who say chemicals from the company's plants made them sick.</p>
+        <p>WELLS FARGO &amp; CO.  San Francisco, the bank holding company, received antitrust clearance to buy Brenton Banks Inc., after agreeing to sell three branches in Des Moines, the Justice Department said.</p>
+        <p>ESTEE LAUDER COS.,  New York, said it would form a company with Sarantis Group's EKAS unit to distribute and market Estee Lauder brands in Bulgaria, Greece and Romania.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

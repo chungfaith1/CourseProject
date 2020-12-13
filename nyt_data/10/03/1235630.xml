@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Rule of Thumb That Unscrambles the Brain</title>
+    <meta content="03CHAL$03" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/03/science/03CHALL.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1235630"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Brain</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <person class="indexing_service">Blakeslee, Sandra</person>
+        <person class="indexing_service">Hopfield, John  J (Dr)</person>
+        <person class="indexing_service">Brody, Carlos (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Mental Health and Behavior</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Brain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001003T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE1D6123DF930A35753C1A9669C8B63" item-length="1227" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Rule of Thumb That Unscrambles the Brain</hl1>
+      </hedline>
+      <byline class="print_byline">By SANDRA BLAKESLEE</byline>
+      <byline class="normalized_byline">Blakeslee, Sandra</byline>
+      <abstract>
+        <p>Dr John J Hopfield, Princeton professor known for his seminal discoveries in computer science, biology and physics, challenges his fellow scientists to discover simple, new computational principle--a general rule of thumb--for how the brain works, using only the power of deductive reasoning and a set of facts about new breed of animal dubbed the 'sand mouse'; Hopfield and a former student, Dr Carlos Brody, say they have have posted enough information about this animal on Web site for any scientist willing to 'think really deeply about the system' to discover principle independently; photos (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A new breed of animal, dubbed the ''sand mouse,'' has been added to the annals of biological science, and it has become the subject of a scientific challenge.</p>
+        <p>Last week Dr. John J. Hopfield, a Princeton professor known for seminal discoveries in computer science, biology and physics, posed an unusual test to his fellow scientists.</p>
+      </block>
+      <block class="full_text">
+        <p>A new breed of animal, dubbed the ''sand mouse,'' has been added to the annals of biological science, and it has become the subject of a scientific challenge.</p>
+        <p>Last week Dr. John J. Hopfield, a Princeton professor known for seminal discoveries in computer science, biology and physics, posed an unusual test to his fellow scientists.</p>
+        <p>Dr. Hopfield challenged them to discover a simple, new computational principle -- a general rule of thumb -- for how the brain of this creature works, using only the power of deductive reasoning and a set of facts about the animal that Dr. Hopfield and a former student, Dr. Carlos Brody, have posted on a Web site (shadrach.cns.nyu.edu/carlos /Organism).</p>
+        <p>Dr. Hopfield said enough information was given about the animal so that any scientist who was willing to ''think really deeply about the system'' could discover the principle independently.</p>
+        <p>While the exercise describes the animal in realistic terms, including experiments to anesthetize it and take electrical recordings from its brain, the creature is actually a simulation composed of 660 artificial cells that behave exactly like real brain cells. That is, in computer calculations the cells fire signals at certain rates, connect in conventional ways, squirt out familiar chemicals and behave just like real brain cells do.</p>
+        <p>Moreover, the simulations show that these ordinary cells have acquired the ability to recognize the word ''one'' spoken by many different voices under noisy conditions -- something that the human brain can do with ease but machines still cannot.</p>
+        <p>The new computational principle, says Dr. Hopfield, explains how the animal, called mus silicium or sand mouse, accomplishes this task. Dr. Hopfield boldly claims that the new principle may shed light on how the human brain works.</p>
+        <p>Using the Web site, scientists can even do their own experiments with the sand mouse, according to the authors.</p>
+        <p>Those who take up the challenge have until Dec. 1 either to explain how the sand mouse recognizes the word ''one'' or to take the same number of neurons and use the new principle to make the mouse acquire a novel behavior, Dr. Hopfield said.</p>
+        <p>Cash prizes will be awarded.</p>
+        <p>A paper revealing the new principle will be published on Dec. 14. Thus far, only Dr. Hopfield and Dr. Brody, a postdoctoral fellow at the Center for Neural Science at New York University, have figured out the answer.</p>
+        <p>In telephone interviews, each coyly said that scientists would not be disappointed by the discovery.</p>
+        <p>Asked why he did not just publish his findings in a scientific journal now, Dr. Hopfield said, ''I could have, but I think it's time to open a discussion on the role of deductive reasoning in neurobiology.''</p>
+        <p>The challenge in any complex problem is to figure out what is or is not relevant, he said. Because that is hard to do, neuroscientists tend to keep on collecting data or to hypothesize that there are as yet undiscovered cell properties that, once found, will solve the problem, rather than thinking hard about what they already know.</p>
+        <p>''Data gathering is getting out of hand,'' Dr. Hopfield said. The challenge is to get scientists to start thinking deductively based on what is already known, he said.</p>
+        <p>''Very few scientists could pull this off,'' said Dr. Christof Koch, a neuroscientist at the California Institute of Technology. ''But John Hopfield is a leader in neural computation. His playful challenge is wonderful. Scientists love to compete. I think he'll get a big response.''</p>
+        <p>Dr. Zachary Mainen, an assistant professor at Cold Spring Harbor Laboratory, in New York, who has seen the challenge, said: ''Whether it's a stunt or a lesson is going to depend on how the answer plays out. It has certainly sparked a bit of discussion.''</p>
+        <p>Because Dr. Hopfield has not published a paper in the normal way, it is not possible to judge the significance of his discovery, said Dr. Terrence J. Sejnowski, a neuroscientist at the Salk Institute in San Diego, Calif.</p>
+        <p>''But he has another goal in mind, namely an advertising gimmick,'' Dr. Sejnowski said. ''How can you get someone to read your paper? You offer a prize. A lot more people will pay attention to it this way. But it's also a good object lesson to ask experimentalists to go beneath their data and develop a theoretical understanding of what they're doing.''</p>
+        <p>While the brain is nothing like a digital computer, much of what it does can be described as computation, Dr. Brody said.</p>
+        <p>Associating two memories, commanding muscles to move or identifying odors are all computations in which nerve cells play the role of the on-off switches in computers.</p>
+        <p>To mimic, and perhaps understand, these behaviors, scientists build computer models of networks of brain cells, known as neural networks, using computational principles inspired by real brains.</p>
+        <p>For example, real cells add up arriving signals until they reach some threshold and then fire -- a principle that can be described mathematically.</p>
+        <p>Dr. Hopfield said that he was particularly interested in the kinds of computations that occurred over time. The brain deals with a world that is constantly in motion, he said. ''You see a friend walking toward you from 50 yards away,'' Dr. Hopfield said. ''If he's standing still you might not recognize him but if he's moving, you know who it is from the way he walks. Or touch a piece of velvet. You may not know what it is until you run your fingers across it.''</p>
+        <p>Such percepts require a few tenths of a second for the brain to recognize them, Dr. Hopfield said.</p>
+        <p>The brain is constantly integrating information over time, but science does not know how that feat is done.</p>
+        <p>To study the problem, Dr. Hopfield taught his neural network (the sand mouse) a spoken word, ''one.''</p>
+        <p>Language also unfolds over time, he said. Words can be broken down into small units that have no inherent meaning, but when these units are held and combined over fractions of a second or more they become comprehensible.</p>
+        <p>It was in thinking deeply about how the brain did this that ''the penny dropped,'' as Dr. Hopfield put it.</p>
+        <p>Suddenly, Dr. Hopfield realized that the brain -- or at least the sand mouse brain -- uses a ''novel, simple, powerful, plausible'' computational principle for dealing with time delays.</p>
+        <p>He said the finding was not immediately applicable to speech recognition devices, which now surpass what the sand mouse can do. Rather, it sheds light on how a nervous system manipulates information over time, speech being one such problem.</p>
+        <p>Last spring, Dr. Hopfield dared Dr. Brody to discover the principle using the same challenge that is now on the Web site.</p>
+        <p>''I had to use a way of thinking that felt very different from what I normally use,'' Dr. Brody said. ''I never would have thought I had been given enough information, but it turned out that the data were enough to guide me ineluctably to the right answer.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

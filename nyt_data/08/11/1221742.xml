@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>STRONG RESULTS AT THOMSON</title>
+    <meta content="MB000959" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1221742"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WORLD BUSINESS BRIEFING: AMERICAS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <org class="indexing_service">Thomson Corp</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000811T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E7DA143FF932A2575BC0A9669C8B63" item-length="152" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>STRONG RESULTS AT THOMSON</hl1>
+      </hedline>
+      <byline class="print_byline">By Timothy Pritchard</byline>
+      <abstract>
+        <p>Thomson Corp reports second-quarter net from databse units rose 33 percent, to $74 million; profits from discontinued division was flat, at $30 million (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Canadian publisher, the Thomson Corporation, which has almost completed the sale of its newspapers, reported strong sales and profit growth for the second quarter from its continuing businesses -- selling electronic information to professionals.  Profit from the database units rose 33 percent to $74 million, or 12 cents a share, on an 18 percent gain in revenue, to $1.46 billion. Profit from the discontinued newspaper division was flat at $30 million, or 5 cents a share.</p>
+        <p>Timothy Pritchard (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>A Canadian publisher, the Thomson Corporation, which has almost completed the sale of its newspapers, reported strong sales and profit growth for the second quarter from its continuing businesses -- selling electronic information to professionals.  Profit from the database units rose 33 percent to $74 million, or 12 cents a share, on an 18 percent gain in revenue, to $1.46 billion. Profit from the discontinued newspaper division was flat at $30 million, or 5 cents a share.</p>
+        <p>Timothy Pritchard (NYT)</p>
+        <p>WORLD BUSINESS BRIEFING: AMERICAS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

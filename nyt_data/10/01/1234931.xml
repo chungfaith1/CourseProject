@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV135452" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234931"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Ivry, Sara</person>
+        <person class="indexing_service">Berenbaum, May R</person>
+        <object.title class="indexing_service">Buzzwords (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001001T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EED8103BF932A35753C1A9669C8B63" item-length="335" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Sara Ivry</byline>
+      <byline class="normalized_byline">Ivry, Sara</byline>
+      <abstract>
+        <p>Sara Ivry reviews book Buzzwords: A Scientist Muses on Sex, Bugs and Rock 'n' Roll by May R Berenbaum (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Buzzwords</p>
+        <p>A Scientist Muses on Sex, Bugs</p>
+        <p>and Rock 'n' Roll.</p>
+        <p>By May R. Berenbaum.</p>
+        <p>Joseph Henry Press, cloth, $24.95;</p>
+        <p>paper, $14.95.</p>
+      </block>
+      <block class="full_text">
+        <p>Buzzwords</p>
+        <p>A Scientist Muses on Sex, Bugs</p>
+        <p>and Rock 'n' Roll.</p>
+        <p>By May R. Berenbaum.</p>
+        <p>Joseph Henry Press, cloth, $24.95;</p>
+        <p>paper, $14.95.</p>
+        <p>''Entomologists have had an image problem ever since the discipline came into its own,'' May R. Berenbaum gripes good-naturedly in ''Buzzwords,'' a collection of short essays on insects, scientists and herself. However, despite Berenbaum's objections to the nerd stereotype, which she finds first used in an 1895 H. G. Wells story, her 42 pieces do nothing to dispel it. It is hard to imagine anyone but a science geek would ponder, as Berenbaum does, insect flatulence, or earnestly defend the praying mantis against allegations of sexual cannibalism, even if her pieces are frequently amusing. She provides an inventory of pop-music references to bugs, from performers ranging from Patty Duke to the Dead Kennedys. She discusses the prevalence of insectlike characteristics among comic book heroes and grudgingly includes Spiderman -- after all, as Berenbaum points out more than once, spiders are arachnids, not insects. Her prose is often burdened by minute detail and a highly specialized terminology. Many of the pieces meander. A description of her own chronic battle with motion sickness, for example, and her hunt for the largest number of co-authors on a single entomology paper, are simply dull. (Berenbaum, ever self-deprecating, makes note of a peer reviewer who called these essays ''trite'' and ''juvenile.'') Unfortunately, such criticisms are justified all too often. Periodically, however, ''Buzzwords'' is also engaging and whimsical. Berenbaum, the head of the entomology department at the University of Illinois, Urbana-Champaign, acknowledges that she has ''never been what you could call 'cool,' ''but some of her pieces, sprinkled with erudition and lightheartedness, argue for calling her an adequate, if slightly sophomoric, entertainer.</p>
+        <p>Sara Ivry</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

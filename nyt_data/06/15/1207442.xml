@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Team Links Brain Cells With a Robot</title>
+    <meta content="15FISH" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1207442"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Robots</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Sea Lamprey</classifier>
+        <org class="indexing_service">Northwestern University</org>
+        <person class="indexing_service">Mussa-Ivaldi, Sandro (Dr)</person>
+        <person class="indexing_service">Sorid, Daniel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Robots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEEDA133EF936A25755C0A9669C8B63" item-length="469" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Team Links Brain Cells With a Robot</hl1>
+      </hedline>
+      <byline class="print_byline">By DANIEL SORID</byline>
+      <byline class="normalized_byline">Sorid, Daniel</byline>
+      <abstract>
+        <p>Dr Sandro Mussa-Ivaldi of Northwestern and researchers from other universities report they have controlled motion of two-wheeled robot by connecting it to brain stem of sea lamprey (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IN another triumph of the scientific imagination, researchers have created a fish on wheels. Actually, they took part of the brain of a lamprey, an aquatic parasite, and connected it to a mobile robot, producing what they call an ''artificial animal.''</p>
+        <p>It was the first time, researchers said, that animal brain cells and a robot had communicated in two directions.</p>
+      </block>
+      <block class="full_text">
+        <p>IN another triumph of the scientific imagination, researchers have created a fish on wheels. Actually, they took part of the brain of a lamprey, an aquatic parasite, and connected it to a mobile robot, producing what they call an ''artificial animal.''</p>
+        <p>It was the first time, researchers said, that animal brain cells and a robot had communicated in two directions.</p>
+        <p>In findings that will be presented at an artificial-life conference this summer, Dr. Sandro Mussa-Ivaldi, an associate professor at the Northwestern University Medical School, and a team of researchers from universities in the United States and Italy say that they were able to control the motion of a two-wheeled robot by connecting it to the brain stem of the sea lamprey.</p>
+        <p>The scientists removed the lamprey's brain stem and part of its spinal cord and placed them in a salt solution. Electrodes were then attached to the brain stem and connected to the robot. The lamprey's brain cells received a signal from light sensors in the robot, and the cells sent signals back to the robot. Depending on the placement of the electrode on the brain tissue, the robot moved toward or away from the light, or in a circle.</p>
+        <p>The aim of the research is to untangle the mysteries of brain signals and to see how the brain's circuits change and adapt to different stimuli. The method, however, is unquestionably eerie. ''It has echoes of a literary kind,'' Dr. Mussa-Ivaldi admitted.</p>
+        <p>Linking a life form and a machine may make some people squirm, but Dr. Mussa-Ivaldi insists that the system may have practical benefits, like better prosthetic devices for humans. ''Our goal is not to construct a cyborg,'' he said. ''Our goal is to create a tool that will hopefully help us understand how the brain works.''</p>
+        <p>Steve Grand, the chief executive of Cyberlife Research, a British research and development company that is trying to create forms of synthetic life, agreed. Mr. Grand said work by Dr. Mussa-Ivaldi and others who study the interactions between living creatures and machines could be justified by its potential benefits.</p>
+        <p>''People are sometimes fearful that artificial life research will reduce us all to machines and explain away our souls,'' he said. ''On the contrary, I believe it will give us a new understanding and a new respect for ourselves, as the most sublime machines in the known universe.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

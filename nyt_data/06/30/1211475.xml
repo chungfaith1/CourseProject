@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR005157" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211475"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dancing</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">New York City Ballet</org>
+        <person class="indexing_service">Balanchine, George (1904-83)</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000630T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE3DE1739F933A05755C0A9669C8B63" item-length="115" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of June 28 article on problems at New York City Ballet orchestra, concerning dates of creation and first performance of George Balanchine ballet Concerto Barocco</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article on Wednesday about problems at the New York City Ballet orchestra misstated the year that George Balanchine created his ballet ''Concerto Barocco.'' It was 1941, not 1948; it was first performed by the City Ballet in 1948.</p>
+        <p>The article also misstated how long Gordon Boelzner has been music director. He has held this position only since 1990, although he has been on the ballet's musical staff for 41 years.</p>
+      </block>
+      <block class="full_text">
+        <p>An article on Wednesday about problems at the New York City Ballet orchestra misstated the year that George Balanchine created his ballet ''Concerto Barocco.'' It was 1941, not 1948; it was first performed by the City Ballet in 1948.</p>
+        <p>The article also misstated how long Gordon Boelzner has been music director. He has held this position only since 1990, although he has been on the ballet's musical staff for 41 years.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

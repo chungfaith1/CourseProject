@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Marathon Game</title>
+    <meta content="MB023238" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1238271"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BASEBALL: 2000 PLAYOFFS -- YANKEES NOTEBOOK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">Playoff Games</classifier>
+        <org class="indexing_service">New York Yankees</org>
+        <org class="indexing_service">Seattle Mariners</org>
+        <person class="indexing_service">Olney, Buster</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Seattle Mariners</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Playoff Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001012T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE2D6173FF931A25753C1A9669C8B63" item-length="160" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Marathon Game</hl1>
+      </hedline>
+      <byline class="print_byline">By Buster Olney</byline>
+      <byline class="normalized_byline">Olney, Buster</byline>
+      <abstract>
+        <p>Yankees notebook; game 1 of ALCS between New York Yankees and Seattle Mariners lasted 3 hours and 45 minutes despite fact that teams combined for only 2 runs and 11 hits (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Seattle and the Yankees combined for only 11 hits and two runs in Game 1 of this series, and somehow the game lasted 3 hours 45 minutes, ending at 11:59 p.m. ''I never thought I'd reach the point where I'd say, 'God, we played a three-hour game, wasn't that great?' '' said Joe Torre, the Yankee manager.</p>
+        <p>There are two and a half minutes between each half inning because of additional television commercials, a gap so long that Yankees pitcher Denny Neagle would wait a minute or so before going to the mound and beginning his warm-ups. But Torre also mentioned how often pitchers work deep into ball-strike counts.</p>
+        <p>''Very rarely do you see strike one, strike two, strike three,'' Torre said.</p>
+        <p>Buster Olney</p>
+      </block>
+      <block class="full_text">
+        <p>Seattle and the Yankees combined for only 11 hits and two runs in Game 1 of this series, and somehow the game lasted 3 hours 45 minutes, ending at 11:59 p.m. ''I never thought I'd reach the point where I'd say, 'God, we played a three-hour game, wasn't that great?' '' said Joe Torre, the Yankee manager.</p>
+        <p>There are two and a half minutes between each half inning because of additional television commercials, a gap so long that Yankees pitcher Denny Neagle would wait a minute or so before going to the mound and beginning his warm-ups. But Torre also mentioned how often pitchers work deep into ball-strike counts.</p>
+        <p>''Very rarely do you see strike one, strike two, strike three,'' Torre said.</p>
+        <p>Buster Olney</p>
+        <p>BASEBALL: 2000 PLAYOFFS -- YANKEES NOTEBOOK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

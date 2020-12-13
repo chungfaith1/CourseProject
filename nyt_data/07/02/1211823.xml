@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fast Company</title>
+    <meta content="02BDIG" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211823"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BUSINESS: DIARY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Speed Limits and Speeding</classifier>
+        <classifier class="indexing_service" type="descriptor">Radar</classifier>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Waxes and Polishes</classifier>
+        <org class="indexing_service">Radiant Labs (Co)</org>
+        <person class="indexing_service">Almer, Ellen</person>
+        <person class="indexing_service">Sparks, Michael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Speed Limits and Speeding</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radar</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cleansers, Detergents and Soaps</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E0DB1739F931A35754C0A9669C8B63" item-length="322" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fast Company</hl1>
+      </hedline>
+      <byline class="print_byline">By ELLEN ALMER</byline>
+      <byline class="normalized_byline">Almer, Ellen</byline>
+      <abstract>
+        <p>Michael Spark's Radiant Labs markets Stealth Guard auto wax that claims to shorten range at which typical police radar can pick up a car by 13 percent, giving speeders a chance to brake to legal speed (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sometimes you see a product on the shelf and you ask yourself, ''Can this possibly be for real?''</p>
+        <p>Michael Sparks, 29, a marketing man and amateur physicist, started a small company, Radiant Labs, in the Chicago suburb of Schaumburg, Ill., in 1997. He and his dozen employees supply the aviation industry with specialty fluids.</p>
+      </block>
+      <block class="full_text">
+        <p>Sometimes you see a product on the shelf and you ask yourself, ''Can this possibly be for real?''</p>
+        <p>Michael Sparks, 29, a marketing man and amateur physicist, started a small company, Radiant Labs, in the Chicago suburb of Schaumburg, Ill., in 1997. He and his dozen employees supply the aviation industry with specialty fluids.</p>
+        <p>It's not a bad business, but growth is slow, and Mr. Sparks was itching for something bigger, a home-run consumer product to pump up profits. Inspiration struck in traffic one day, he said, when two thoughts crossed his mind in quick succession. He ought to get a radar detector for his new car, ''which tends to be on the speedy side,'' he thought -- and, besides, it needed a shine.</p>
+        <p>Hold it. One of his company's products is a recently declassified radar-absorptive coating for military jets. What if he polished his car with the stuff?</p>
+        <p>Thus was born Stealth Guard, a carnauba wax that promises to help overexuberant motorists avoid speeding tickets, available on the company's Web site at $39.95 for a 16-ounce can.</p>
+        <p>Skepticism is inevitable. ''You have to ask yourself, 'How does a stealth airplane work?' '' said David A. Buchholz, chairman of the physics department at Northwestern University. ''I don't think you paint a plane to make it invisible.'' A thin coat of wax cannot stop radar waves from bouncing off a car's highly reflective metal surfaces, Dr. Buchholz said.</p>
+        <p>Claims for the wax are actually fairly modest -- that it shortens the range at which typical police radar (but not laser speed devices) can pick up the car by about 13 percent. ''It will give people who are 10 to 15 m.p.h. over the limit a chance to brake to legal speeds,'' Mr. Sparks said.</p>
+        <p>Dr. Buchholz countered: ''Isn't that exactly what a radar detector is supposed to do for you? And you're still violating the law.''</p>
+        <p>ELLEN ALMER  BUSINESS: DIARY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Molecules Engineered With an Inkjet Printer</title>
+    <meta content="25NEXT$01" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1202124"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WHAT'S NEXT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Chips</classifier>
+        <org class="indexing_service">Sandia National Laboratory</org>
+        <person class="indexing_service">Austen, Ian</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/What's Next</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000525T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E4D7173DF936A15756C0A9669C8B63" item-length="864" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Molecules Engineered With an Inkjet Printer</hl1>
+      </hedline>
+      <byline class="print_byline">By IAN AUSTEN</byline>
+      <byline class="normalized_byline">Austen, Ian</byline>
+      <abstract>
+        <p>Scientists at Sandia National Laboratories say they have found way to build very tiny structures on silicon chips by putting molecules into solution that is squirted onto various surfaces with inkjet printer to form patterns designed by computer; once on surface, molecules assemble themselves into desired shapes; Sandia scientists call their transparent solutions 'intelligent ink'; their approach may turn out to be practical way to build tiny molecular scaffolds called nanostructures; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHEN scientists want to build very tiny structures on silicon chips or other surfaces, they usually have to figure out how to nudge atoms and molecules into the right shape -- and that can mean building a special factory for $100 million or more.</p>
+        <p>But scientists at Sandia National Laboratories say they have found a way to do the same thing by putting molecules into a solution that is squirted onto various surfaces with an inkjet printer to form patterns designed by a computer. Once on the surface, the molecules assemble themselves into the desired shapes, with no prodding necessary.</p>
+      </block>
+      <block class="full_text">
+        <p>WHEN scientists want to build very tiny structures on silicon chips or other surfaces, they usually have to figure out how to nudge atoms and molecules into the right shape -- and that can mean building a special factory for $100 million or more.</p>
+        <p>But scientists at Sandia National Laboratories say they have found a way to do the same thing by putting molecules into a solution that is squirted onto various surfaces with an inkjet printer to form patterns designed by a computer. Once on the surface, the molecules assemble themselves into the desired shapes, with no prodding necessary.</p>
+        <p>The Sandia scientists call their transparent solutions ''intelligent ink,'' and their approach may turn out to be a practical way to build the tiny molecular scaffolds called nanostructures.</p>
+        <p>Nanotechnology, the production of these tiny structures, could someday have as big an impact on technology as silicon-based microelectronics has. Such extremely tiny creations could lead to the making of computer chips that would be thousands of times as powerful as the chips available now. They could also lead to chips that merge biology and microelectronics to create, in effect, biochemical labs no bigger than a microchip that could analyze drops of blood.</p>
+        <p>Intelligent ink could put such technology within the reach of researchers without big budgets, said Dr. C. Jeffrey Brinker, the senior scientist who leads the Sandia research team. ''I wanted to make it a power-to-the-people sort of thing,'' said Dr. Brinker, a materials scientist who is also a professor at the University of New Mexico.</p>
+        <p>Nanotechnology researchers work on building objects that are 1 to 100 nanometers wide (a human hair is typically 10,000 nanometers thick or less). To outsiders, they may seem to be trying to build ships in a bottle, but their motivation is more practical.</p>
+        <p>''This work is going to pretty quickly come into the health field,'' Dr. Brinker said. His intelligent ink could be used to build blood analyzers that would be inexpensive enough for home use, he added. ''You'd put a drop of blood in,'' Dr. Brinker said, ''and it would be able to know everything about your body and send the results by telemetry to your doctor.''</p>
+        <p>The secret behind Dr. Brinker's ink is that his molecules behave much like detergent molecules. While not exactly like the molecules in a box of Tide, Dr. Brinker's silicon-based molecules share one basic property: one part of each molecule loves water, while the other hates it. ''They're schizophrenic,'' Dr. Brinker said.</p>
+        <p>In a watery solution, the water-hating part of the molecule immediately reacts by tucking itself into the center of the molecule, as far from the water as it can get. That leaves the water-loving part on the outside.</p>
+        <p>When the solution containing such molecules is sprayed onto a surface, the liquid evaporates, leaving the molecules locked into their nanostructure pattern, connected by nanopores, which form tiny channels. Such channels could provide a path for light to follow in an optical computer chip or could function as optical switches. Or they could provide sensor channels for sophisticated chemistry.</p>
+        <p>Sandia, a Department of Energy laboratory operated by a subsidiary of Lockheed Martin, may use Dr. Brinker's work to create ultrasensitive sensors for detecting nerve gas and biological weapons.</p>
+        <p>In theory, Dr. Brinker could write out designs using a fountain pen filled with self-assembling molecules, although the results would be fairly crude. Instead, he first created patterns for the nanochannel structures by using PowerPoint software on a personal computer. He replaced the conventional ink cartridge on a Hewlett-Packard printer with one holding the self-assembling molecules in solution. The printer was modified so that it would print Dr. Brinker's patterns on silicon wafers rather than on paper.</p>
+        <p>The next step for Dr. Brinker's research will be to move up to a color inkjet printer. While his solutions are not really inks, he will be able to mix and match solutions of different molecules by using an inkjet printer with four cartridges instead of one. Using several solutions at a time will let Dr. Brinker create complex structures with tiny pore channels of different sizes.</p>
+        <p>But the most ambitious goal for Dr. Brinker and his printer is an attempt to marry the biological and digital worlds. His team of researchers is trying to use the water-loving and water-hating parts of molecules to surround yeast cells; the entire assembly could then be printed onto chips.</p>
+        <p>The pores created by the molecules could be used to deliver food to cells and whisk away their waste products. Such biological-digital hybrids could one day be used as exquisitely sensitive detectors for various molecules.</p>
+        <p>''We could develop devices with lifelike properties, incredible sensory abilities,'' Dr. Brinker said. While cells inside such gadgets might live for only a few weeks, the ability to create inexpensive replacements with printers would make that less of a concern, he added.</p>
+        <p>For those who may be inspired to do a little nanostructure creation at home, a word of warning: Dr. Brinker believes that using his intelligent ink voids all inkjet printer warranties.</p>
+        <p>WHAT'S NEXT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

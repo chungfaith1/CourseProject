@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>JUNIPER AIMING ANEW AT CISCO</title>
+    <meta content="MB005305" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1231910"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY BRIEFING: SOFTWARE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Juniper Networks Inc</org>
+        <person class="indexing_service">Schiesel, Seth</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000919T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E5DB143BF93AA2575AC0A9669C8B63" item-length="174" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>JUNIPER AIMING ANEW AT CISCO</hl1>
+      </hedline>
+      <byline class="print_byline">By Seth Schiesel</byline>
+      <byline class="normalized_byline">Schiesel, Seth</byline>
+      <abstract>
+        <p>Juniper Networks, leader in Internet switching technology, will offer new line of products, mainly routing switches that are smaller, less costly and more efficient than its previous models (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Juniper Networks, a leader in Internet switching technology, intends to announce a new line of products today, mainly routing switches that are smaller, less costly and more efficient than its previous models. In doing so, Juniper will expand its rivalry with Cisco Systems. Juniper has made its name by developing routers for the core of Internet networks that can handle flows of up to 10 billion digital bits a second. Cisco's fastest commercially available routers can handle flows of only 2.5 billion bits a second. Still, Cisco has remained the dominant provider of Internet switches that connect to paying customers rather than only to other big switches at a network's heart. Juniper's two new Internet switches are aimed squarely at that market.</p>
+        <p>Seth Schiesel</p>
+      </block>
+      <block class="full_text">
+        <p>Juniper Networks, a leader in Internet switching technology, intends to announce a new line of products today, mainly routing switches that are smaller, less costly and more efficient than its previous models. In doing so, Juniper will expand its rivalry with Cisco Systems. Juniper has made its name by developing routers for the core of Internet networks that can handle flows of up to 10 billion digital bits a second. Cisco's fastest commercially available routers can handle flows of only 2.5 billion bits a second. Still, Cisco has remained the dominant provider of Internet switches that connect to paying customers rather than only to other big switches at a network's heart. Juniper's two new Internet switches are aimed squarely at that market.</p>
+        <p>Seth Schiesel</p>
+        <p>TECHNOLOGY BRIEFING: SOFTWARE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mixing Mac and Windows</title>
+    <meta content="LTR000200" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1221529"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">Apple Computer Inc</org>
+        <org class="indexing_service">Microsoft Corp</org>
+        <org class="indexing_service">MediaFour (Co)</org>
+        <person class="indexing_service">Schane, Murray David (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000810T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE0D7163FF933A2575BC0A9669C8B63" item-length="102" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mixing Mac and Windows</hl1>
+      </hedline>
+      <abstract>
+        <p>Dr Murray David Schane letter on Aug 3 article on Microsoft Corp unit that creates MacIntosh software suggests purchasing program called MacDrive 2000 by MediaFour that reads Mac disks in Windows (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''For Mac Users, Help From an Unlikely Quarter'' (State of the Art, Aug. 3) offered tips on Mac and Windows compatibility. You might want to know about an excellent Windows program, MacDrive 2000 by MediaFour, that sells for $59 and and will read Mac disks in Windows. It works with floppies, Zip disks and CD's.</p>
+        <p>DR. MURRAY DAVID SCHANE  New York</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''For Mac Users, Help From an Unlikely Quarter'' (State of the Art, Aug. 3) offered tips on Mac and Windows compatibility. You might want to know about an excellent Windows program, MacDrive 2000 by MediaFour, that sells for $59 and and will read Mac disks in Windows. It works with floppies, Zip disks and CD's.</p>
+        <p>DR. MURRAY DAVID SCHANE  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

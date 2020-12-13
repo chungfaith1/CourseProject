@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>WEAK RESULTS AT BANK OF SCOTLAND</title>
+    <meta content="MB235714" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234414"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WORLD BUSINESS BRIEFING: EUROPE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <org class="indexing_service">Bank of Scotland</org>
+        <person class="indexing_service">Kapner, Suzanne</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000928T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E2DB1E3AF93BA1575AC0A9669C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>WEAK RESULTS AT BANK OF SCOTLAND</hl1>
+      </hedline>
+      <byline class="print_byline">By Suzanne Kapner</byline>
+      <byline class="normalized_byline">Kapner, Suzanne</byline>
+      <abstract>
+        <p>Bank of Scotland says it earned 469 million pounds in first half of year, or about $657 million, compared with 471 million pounds a year earlier (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Restructuring costs and provisions for bad debt contributed to weaker-than-expected first-half earnings at the Bank of Scotland, which recently lost to the Royal Bank of Scotland in a bidding war for National Westminster Bank. Bank of Scotland shares fell 4.9 percent yesterday, to 580 pence, or about $8.12, after the bank said it had earned $:469 million, or about $657 million, in the first half of the year, compared with $:471 million a year earlier. The bank is facing pressure on its profit margins as competition grows, and it has been the rumored target in takeover speculation recently.</p>
+        <p>Suzanne Kapner</p>
+      </block>
+      <block class="full_text">
+        <p>Restructuring costs and provisions for bad debt contributed to weaker-than-expected first-half earnings at the Bank of Scotland, which recently lost to the Royal Bank of Scotland in a bidding war for National Westminster Bank. Bank of Scotland shares fell 4.9 percent yesterday, to 580 pence, or about $8.12, after the bank said it had earned $:469 million, or about $657 million, in the first half of the year, compared with $:471 million a year earlier. The bank is facing pressure on its profit margins as competition grows, and it has been the rumored target in takeover speculation recently.</p>
+        <p>Suzanne Kapner</p>
+        <p>WORLD BUSINESS BRIEFING: EUROPE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Accounts</title>
+    <meta content="MB001116" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1230250"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000913T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE3D81438F930A2575AC0A9669C8B63" item-length="207" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Accounts</hl1>
+      </hedline>
+      <byline class="print_byline">By Stuart Elliott</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>* Farmland Industries, Kansas City, Mo., to Bernstein-Rein Advertising, Kansas City, Mo., to handle the consolidated account for Farmland Foods pork products, which had been divided between Bernstein-Rein and several smaller agencies. Spending was estimated at $12 million.</p>
+      </block>
+      <block class="full_text">
+        <p>* Farmland Industries, Kansas City, Mo., to Bernstein-Rein Advertising, Kansas City, Mo., to handle the consolidated account for Farmland Foods pork products, which had been divided between Bernstein-Rein and several smaller agencies. Spending was estimated at $12 million.</p>
+        <p>* FairAir.com, San Francisco, a Web site where airline tickets are to be bought, sold or traded, to Tonic 360, San Francisco, to handle its first account. Billings for the venture, which is to start operations in November, were estimated at $5 million to $10 million.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Experts Warn Of New Virus Hitting PC's</title>
+    <meta content="Y20VIR$02" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200835"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <person class="indexing_service">Markoff, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000520T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E6DD133AF933A15756C0A9669C8B63" item-length="807" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Experts Warn Of New Virus Hitting PC's</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <abstract>
+        <p>Antivirus software companies warn of potential damage from new computer program circulating on Internet, which is similar but more malicious than one that recently disrupted computer systems worldwide (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Antivirus software companies warned yesterday of potential damage from a new computer program circulating on the Internet, similar to but more malicious than the one that disrupted computer systems around the world earlier this month.</p>
+        <p>Yet despite the new program's ability to evade most of the current antivirus software, there were no confirmed reports of destruction.</p>
+      </block>
+      <block class="full_text">
+        <p>Antivirus software companies warned yesterday of potential damage from a new computer program circulating on the Internet, similar to but more malicious than the one that disrupted computer systems around the world earlier this month.</p>
+        <p>Yet despite the new program's ability to evade most of the current antivirus software, there were no confirmed reports of destruction.</p>
+        <p>Antivirus companies said they had received reports of the program from the United States, Europe and Israel after it emerged Thursday.</p>
+        <p>But the Computer Emergency Response Team Coordination Center at Carnegie Mellon University in Pittsburgh said late yesterday afternoon that it had received no independent confirmation of infections by the program.</p>
+        <p>Several antivirus companies downgraded the threat of the new program yesterday afternoon after warning that it was a high risk earlier in the day.</p>
+        <p>Attorney General Janet Reno said yesterday morning that the F.B.I. had opened an investigation into "a new, more destructive variant'' of the rogue program that circulated worldwide early this month.</p>
+        <p>Michael A. Vatis, director of the National Infrastructure Protection Center of the F.B.I., said at the same briefing that his agency had received reports suggesting that more than 1,000 computers had been infected. He did not cite the source of the information.</p>
+        <p>Antivirus software experts said that despite the similarities between the new program and the earlier one -- which was borne as an attachment to e-mail messages with the heading ''I Love You'' -- the new one appeared to have been written by a more experienced professional programmer and had been designed to thwart detection by antivirus software.</p>
+        <p>''My guess is this was written by an English-speaking programmer because of some of the variable naming conventions inside the program,'' said Roger Thompson, technical director of ICSA Labs, a research firm based in Reston, Va. The new program, which researchers have named VBS/NewLove.A Worm, exploits the Microsoft Outlook e-mail program to send itself to each person in the program's address book.</p>
+        <p>The program does several things to avoid automatic detection, Mr. Thompson said. This capability has led researchers to define the new program as polymorphic -- a type of software designed to escape detection by popular antivirus programs.</p>
+        <p>The NewLove program searches the Windows operating system to find the name of a recent document and then takes the name of that document. It also places the phrase "FW:" and the document name in the subject heading of the e-mail message.</p>
+        <p>Finally, the program constantly changes its length by altering the number of lines of code it is made up of, an effort to escape discovery by antivirus software that uses file size as a detection signature. In all cases, the program, written in the Visual Basic language, appends the extension .vbs to each document name.</p>
+        <p>Yesterday, many corporate computer managers took precautions to stop the transmission of the program by simply closing their networks to electronic mail with Visual Basic attachments.</p>
+        <p>The new program is more destructive than the earlier one, Mr. Thompson said, because after mailing itself from a victim's computer it systematically overwrites files not in use on all of the disk drives attached to the target computer.</p>
+        <p>Thus, data on an infected computer and attached network disk drives will be destroyed.</p>
+        <p>Several computer security experts said the new program highlighted the shortcomings of much of the industry's commercial antivirus software.</p>
+        <p>Much of the technology used to guard against viruses was developed for a pre-Internet computer world where malicious programs were largely spread via floppy disks at a much slower rate. Today's instantaneous communication via the Net means that virus detection software is quickly outraced by malicious worm programs.</p>
+        <p>''This is a wake-up call for people,'' said David Kroll, a director at Finjan Software Inc., a computer security firm in San Jose, Calif. ''The reactive database models of the antivirus software industry can never keep up with these new worms.''</p>
+        <p>Other researchers said that operating-systems vendors like Microsoft should shoulder more of the responsibility for protecting users against malicious software code. Last week, after many computer users complained about their system's vulnerability, Microsoft modified some security features of its Outlook program to make it more difficult for computer users to be the victims of such programs.</p>
+        <p>''Certainly some and perhaps the majority of responsibility lies with the operating-system vendor,'' said Eugene Spafford, a computer scientist at Purdue University. ''Why do we have operating-system vendors saying its a user problem and trying to absolve themselves of the responsibility?''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

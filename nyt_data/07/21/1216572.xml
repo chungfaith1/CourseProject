@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR001836" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1216572"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Encephalitis</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">West Nile Virus</classifier>
+        <classifier class="indexing_service" type="descriptor">Mosquitoes</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Health Department (NYC)</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Encephalitis</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mosquitoes</classifier>
+        <classifier class="online_producer" type="general_descriptor">West Nile Virus</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Viruses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000721T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904EFDC173AF932A15754C0A9669C8B63" item-length="98" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of recent articles about West Nile virus, which used incorrect New York City Health Department data; 62 confirmed cases of illness in 1999 included 7 deaths from encephalitis</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article on Tuesday about the discovery of West Nile virus in dead birds on Staten Island and several other articles since March 10 used an incorrect New York City Health Department breakdown of the figures for illnesses caused by the virus in the New York region last year. The 62 confirmed cases in 1999 included 7 deaths from encephalitis, an inflammation of the brain, and 55 other cases of serious illness, according to the federal Centers for Disease Control and Prevention. The 62 cases of illness were not in addition to the deaths.</p>
+      </block>
+      <block class="full_text">
+        <p>An article on Tuesday about the discovery of West Nile virus in dead birds on Staten Island and several other articles since March 10 used an incorrect New York City Health Department breakdown of the figures for illnesses caused by the virus in the New York region last year. The 62 confirmed cases in 1999 included 7 deaths from encephalitis, an inflammation of the brain, and 55 other cases of serious illness, according to the federal Centers for Disease Control and Prevention. The 62 cases of illness were not in addition to the deaths.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

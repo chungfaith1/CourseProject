@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Very Early Admission</title>
+    <meta content="LTR105506" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Education; Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208118"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">EDUCATION AND SCHOOLS</classifier>
+        <person class="indexing_service">Feist, Helen (Dr)</person>
+        <person class="indexing_service">Barron, Marlene</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E2DA153EF93BA25755C0A9669C8B63" item-length="117" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Very Early Admission</hl1>
+      </hedline>
+      <abstract>
+        <p>Dr Helen Feist letter on May 21 Way We Live Now column opposes decision by West Side Montessori School head Marlene Barron not to admit child because mother kept trying to give right answer</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Marlene Barron, head of the West Side Montessori School, explained that she did not admit a ''fine, perfectly acceptable child'' because the mother kept ''trying to give the right answer'' (The Way We Live Now, May 21). So, the key to admission is to give the ''right'' answer but not look as if you're trying. What happens when a child is accepted and it turns out that the mother is just better at faking the subjective quality Barron is seeking? And what does this have to do with the child anyway?</p>
+        <p>Helen Feist, M.D.</p>
+        <p>Villanova, Pa.</p>
+      </block>
+      <block class="full_text">
+        <p>Marlene Barron, head of the West Side Montessori School, explained that she did not admit a ''fine, perfectly acceptable child'' because the mother kept ''trying to give the right answer'' (The Way We Live Now, May 21). So, the key to admission is to give the ''right'' answer but not look as if you're trying. What happens when a child is accepted and it turns out that the mother is just better at faking the subjective quality Barron is seeking? And what does this have to do with the child anyway?</p>
+        <p>Helen Feist, M.D.</p>
+        <p>Villanova, Pa.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

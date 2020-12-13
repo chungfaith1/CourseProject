@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Cultural Hero</title>
+    <meta content="LTR223919" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1222192"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="VAN CLIBURN"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <person class="indexing_service">Cliburn, Van</person>
+        <person class="indexing_service">Cuthbert, David</person>
+        <person class="indexing_service">Kimmelman, Michael</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000813T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06EFDC143FF930A2575BC0A9669C8B63" item-length="81" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Cultural Hero</hl1>
+      </hedline>
+      <abstract>
+        <p>David Cuthbert lettr on Michael Kimmelman's July 30 article holds Van Kliburn captured public imagination as few classical artists ever did (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I wonder if younger readers today realize the kind of crossover culture hero Van Cliburn was after winning the Tchaikovsky competition. Mr. Cliburn captured the public imagination as few classical artists ever did, demonstrating that art could be the lingua franca between ideologies in fierce opposition.</p>
+        <p>DAVID CUTHBERT  New Orleans</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I wonder if younger readers today realize the kind of crossover culture hero Van Cliburn was after winning the Tchaikovsky competition. Mr. Cliburn captured the public imagination as few classical artists ever did, demonstrating that art could be the lingua franca between ideologies in fierce opposition.</p>
+        <p>DAVID CUTHBERT  New Orleans</p>
+        <p>VAN CLIBURN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

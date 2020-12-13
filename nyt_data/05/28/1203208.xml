@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>May 21-27; Water Standards</title>
+    <meta content="MB223747" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203208"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000528T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E0DF1F3DF93BA15756C0A9669C8B63" item-length="149" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>May 21-27; Water Standards</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN H. CUSHMAN JR.</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Environmental Protection Agency has proposed revising its standards for arsenic, a cancer-causing pollutant, in drinking water. The new standards would cut the maximum allowable from 50 to 5 parts per billion.</p>
+      </block>
+      <block class="full_text">
+        <p>The Environmental Protection Agency has proposed revising its standards for arsenic, a cancer-causing pollutant, in drinking water. The new standards would cut the maximum allowable from 50 to 5 parts per billion.</p>
+        <p>Water utilities objected that going below 10 parts per billion would be too costly, while environmentalists said the agency was not going far enough, since the risks of cancer under the new rule would still be 1 in 10,000. The agency estimated that annual household water bills could rise $85 in small communities, where most of the problems are found.</p>
+        <p>JOHN H. CUSHMAN JR.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

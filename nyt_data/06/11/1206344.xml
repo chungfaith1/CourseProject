@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Web Site Tracks Airport Conditions</title>
+    <meta content="MB011858" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1206344"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TRAVEL ADVISORY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIRLINES AND AIRPLANES</classifier>
+        <classifier class="indexing_service" type="descriptor">DELAYS (TRANSPORTATION)</classifier>
+        <classifier class="indexing_service" type="descriptor">COMPUTERS AND THE INTERNET</classifier>
+        <org class="indexing_service">FEDERAL AVIATION ADMINISTRATION</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Delays (Transportation)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transportation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E5D7153FF932A25755C0A9669C8B63" item-length="335" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Web Site Tracks Airport Conditions</hl1>
+      </hedline>
+      <abstract>
+        <p>Federal Aviation Administration, seeking to reduce air traffic delays this summer, establishes consumer friendly Web site for travelers, www.atcscc.faa.gov, which includes information on airport delays (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Part of the Federal Aviation Administration's effort to reduce air traffic delays this summer is to do a better job of putting together a picture of air traffic delays around the country and sharing it with its own personnel, the airlines and anyone else who needs to know.</p>
+        <p>As a result, the agency has established a reasonably consumer-friendly Web site for travelers, www.atcscc .faa.gov, giving a window on its Air Traffic Control Strategic Command Center.</p>
+      </block>
+      <block class="full_text">
+        <p>Part of the Federal Aviation Administration's effort to reduce air traffic delays this summer is to do a better job of putting together a picture of air traffic delays around the country and sharing it with its own personnel, the airlines and anyone else who needs to know.</p>
+        <p>As a result, the agency has established a reasonably consumer-friendly Web site for travelers, www.atcscc .faa.gov, giving a window on its Air Traffic Control Strategic Command Center.</p>
+        <p>The main page shows a map of the contiguous 48 states and the major airports; clicking on one shows the delays.</p>
+        <p>Sometimes there is not much to say. But on May 10, a day of widespread thunderstorms in the east, clicking on ORD (better known as O'Hare) got this response:</p>
+        <p>''Due to SUPPORT SWAP, departure traffic destined to New York City's La Guardia Airport is currently experiencing delays averaging 413 minutes, with some flights receiving as much as 500 minutes delay.'' The glossary explained that SWAP is Severe Weather Avoidance Program; SUPPORT is undefined.</p>
+        <p>For Newark, it said the numbers were 337 minutes and 500 minutes. Other entries said ''Due to intense TSTMS, departure traffic destined to ZBW airport will not be allowed to depart until at or after 5 P.M. CDT.''</p>
+        <p>The terminology is a little rough. A glossary notes that ZBW is the Boston Air Route Traffic Control Center, which is not an airport at all but a control center in Nashua, N.H., that handles traffic to and from Boston, Hartford and other New England airports. ZNY Airport means the traffic center that covers New York's major airports. TSTMS is thunderstorms.</p>
+        <p>Calling up La Guardia Airport produced an advisory that gate hold and taxi delays were ''between 255 and 269 minutes in length and increasing.''</p>
+        <p>TRAVEL ADVISORY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

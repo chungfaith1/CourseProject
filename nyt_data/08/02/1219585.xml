@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR021816" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1219585"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Hostages</classifier>
+        <classifier class="indexing_service" type="descriptor">Kennedy International Airport (NYC)</classifier>
+        <location class="indexing_service">Argentina</location>
+        <person class="indexing_service">McGough, Guillermo J</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Argentina</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hostages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000802T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1D71E3DF931A3575BC0A9669C8B63" item-length="98" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of July 28 article on hostage incident at Kennedy International Airport, which misspelled name of Argentine consul general; he is Guillermo J McGough</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article on Friday about a man who took hostages on a plane at Kennedy International Airport and demanded to speak to someone from the Argentine Consulate misspelled the surname of the consul general. He is Guillermo J. McGough, not McCough.</p>
+      </block>
+      <block class="full_text">
+        <p>An article on Friday about a man who took hostages on a plane at Kennedy International Airport and demanded to speak to someone from the Argentine Consulate misspelled the surname of the consul general. He is Guillermo J. McGough, not McCough.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

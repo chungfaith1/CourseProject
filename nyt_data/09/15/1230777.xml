@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Business; Construction Up in City</title>
+    <meta content="MB024116" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1230777"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Building (Construction)</classifier>
+        <org class="indexing_service">New York Building Congress</org>
+        <person class="indexing_service">Blair, Jayson</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Construction and Maintenance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Building (Construction)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000915T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E0DB1038F936A2575AC0A9669C8B63" item-length="178" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Business; Construction Up in City</hl1>
+      </hedline>
+      <byline class="print_byline">By Jayson Blair</byline>
+      <byline class="normalized_byline">Blair, Jayson</byline>
+      <abstract>
+        <p>New York Building Congress estimates that construction in New York City will jump about 38 percent in 2000, to around $16 billion (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A report issued by the New York Building Congress estimates that construction in New York City will jump about 38 percent this year, to around $16 billion.</p>
+        <p>While construction spending has been increasing for the previous five years, the numbers dropped off in 1998 after eclipsing $10 billion the previous year.</p>
+      </block>
+      <block class="full_text">
+        <p>A report issued by the New York Building Congress estimates that construction in New York City will jump about 38 percent this year, to around $16 billion.</p>
+        <p>While construction spending has been increasing for the previous five years, the numbers dropped off in 1998 after eclipsing $10 billion the previous year.</p>
+        <p>In 1999, construction spending was about $11.9 billion, compared with the estimate of $16.4 billion this year, the report said. ''New York City is in the midst of a building boom the likes of which have not been seen since the 1960's,'' the report said.</p>
+        <p>According to the report, the new spending is being driven by the strong economy and increases in public construction and commercial renovations. In addition, the report says that construction industry employment is expected to exceed 120,000, up from about 113,000 last year. The report says the increase in construction spending is expected to continue at least through 2003.</p>
+        <p>Jayson Blair (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

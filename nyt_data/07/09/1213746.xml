@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Woman Is Killed in a Fire</title>
+    <meta content="09FIRE" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213746"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000709T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E1DA1538F93AA35754C0A9669C8B63" item-length="150" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Woman Is Killed in a Fire</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A woman was killed and a man was critically injured in a fire in an apartment building on the Upper East Side last night, police officials said.</p>
+        <p>The three-alarm fire began sometime before 10:20 p.m. on the top floor of the six-story building at 408 E. 65th Street, near First Avenue, said Detective Joseph Pentangelo, a Police Department spokesman. The cause was under investigation.</p>
+      </block>
+      <block class="full_text">
+        <p>A woman was killed and a man was critically injured in a fire in an apartment building on the Upper East Side last night, police officials said.</p>
+        <p>The three-alarm fire began sometime before 10:20 p.m. on the top floor of the six-story building at 408 E. 65th Street, near First Avenue, said Detective Joseph Pentangelo, a Police Department spokesman. The cause was under investigation.</p>
+        <p>The police said they had not yet identified the the woman or the man, who was taken to Cornell Medical Center.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

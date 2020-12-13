@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV100040" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225442"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Hughes, Carolyn T</person>
+        <person class="indexing_service">Scott, Keith</person>
+        <person class="indexing_service">Ward, Jay</person>
+        <person class="indexing_service">Scott, Bill</person>
+        <object.title class="indexing_service">Moose That Roared, The (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000827T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06EED9153EF934A1575BC0A9669C8B63" item-length="343" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Carolyn T. Hughes</byline>
+      <byline class="normalized_byline">Hughes, Carolyn T</byline>
+      <abstract>
+        <p>Carolyn T Hughes reviews book The Moose That Roared: The Story of Jay Ward, Bill Scott, a Flying Squirrel, and a Talking Moose by Keith Scott (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Moose That Roared</p>
+        <p>The Story of Jay Ward, Bill Scott,</p>
+        <p>a Flying Squirrel, and a Talking Moose.</p>
+        <p>By Keith Scott.</p>
+        <p>Thomas Dunne/St. Martin's, $27.95.</p>
+      </block>
+      <block class="full_text">
+        <p>The Moose That Roared</p>
+        <p>The Story of Jay Ward, Bill Scott,</p>
+        <p>a Flying Squirrel, and a Talking Moose.</p>
+        <p>By Keith Scott.</p>
+        <p>Thomas Dunne/St. Martin's, $27.95.</p>
+        <p>On Nov. 19, 1959, ''Rocky and His Friends'' first appeared on ABC, the brainchild of producers Jay Ward and Bill Scott. Although Rocky and Bullwinkle would remain on network television for nine years, Ward and Scott were mavericks who, in their quest to make their programs palatable to adults as well as children, courted controversy by satirizing the cold war, the nuclear arms race and even the hubris of television executives. They unceremoniously stepped on various toes; for example, the United States Forest Service threatened to prosecute Jay Ward Productions after a pyromaniac bear named Stokey -- who, under his Mountie hat, looked suspiciously like Smokey Bear -- burned down Chicago in a Dudley Do-Right cartoon. In his first book, ''The Moose That Roared,'' Keith Scott chronicles the colorful history of Jay Ward productions and analyzes their various cartoon shows, including ''George of the Jungle'' and ''Dudley Do-Right.'' The author is anything but unbiased. Scott was friends with both Bill Scott (who is not related) and Jay Ward and is the voice of Bullwinkle in the current movie. His prose can be gung-ho: ''I love Jay Ward cartoons, and have yet to meet a fellow enthusiast who can match my not-quite-sane level of worship.'' But his enthusiasm is as infectious as that of his subjects. As Ward said, ''We go our happy way with our cartoons. . . . But we're undaunted. Like true Dudley Do-Rights, we keep trying, ignoring the obvious.''</p>
+        <p>Carolyn T. Hughes</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

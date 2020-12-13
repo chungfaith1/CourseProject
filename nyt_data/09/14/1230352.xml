@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Adventures in Beta Land; Aqua Everywhere: An Early Look at OS X</title>
+    <meta content="14SAPP$02" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1230352"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">Apple Computer Inc</org>
+        <person class="indexing_service">donofrio, don</person>
+        <person class="indexing_service">Biersdorfer, J D</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000914T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E1DC1538F937A2575AC0A9669C8B63" item-length="844" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Adventures in Beta Land; Aqua Everywhere: An Early Look at OS X</hl1>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER with DON DONOFRIO</byline>
+      <byline class="normalized_byline">donofrio, don; Biersdorfer, J D</byline>
+      <abstract>
+        <p>J D Biersdorfer and Don Donofrio article of their test of beta version of Mac OS X software (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE Mac OS X beta software comes neatly packaged from Apple inside a clean white folder with a big blue X on the front. Even though Apple says X should be pronounced ''10,'' the enigmatic appeal of the letter X seems vaguely more appropriate. X, after all, is the unknown -- and the unknown is both the joy and the curse of beta-ware.</p>
+        <p>Following the documentation included with the Mac OS X CD-ROM, we installed a copy of the beta version of the Mac OS X onto a separate 9-gigabyte disk partition (akin to giving the OS a hard drive all its own) of a 400-megahertz iMac running Mac OS 9.0.4 with 128 megabytes of RAM. We were up and running in about 25 minutes.</p>
+      </block>
+      <block class="full_text">
+        <p>THE Mac OS X beta software comes neatly packaged from Apple inside a clean white folder with a big blue X on the front. Even though Apple says X should be pronounced ''10,'' the enigmatic appeal of the letter X seems vaguely more appropriate. X, after all, is the unknown -- and the unknown is both the joy and the curse of beta-ware.</p>
+        <p>Following the documentation included with the Mac OS X CD-ROM, we installed a copy of the beta version of the Mac OS X onto a separate 9-gigabyte disk partition (akin to giving the OS a hard drive all its own) of a 400-megahertz iMac running Mac OS 9.0.4 with 128 megabytes of RAM. We were up and running in about 25 minutes.</p>
+        <p>We didn't have a lot of time to jump into OS X and pound on it, so what follows is mostly what we observed, not the results of a true test. The system generally behaved quite well, though sluggishly on occasion.</p>
+        <p>The Aqua interface is visually stunning, but it took a few minutes to adjust to some of the new features. The old standby Apple Menu is gone, as is the Chooser. Applications can be launched from the Dock, an animated palette at the bottom of the screen, from the applications's icon or desktop aliases. The desktop and the Finder have been separated, and the Finder now reveals your computer's contents in a window that resembles a Web browser's, with Shortcut and Back buttons and three different views.</p>
+        <p>Open windows seem to hover in the foreground of the screen, casting shadows on the desktop and other windows underneath them. Animated Save dialog boxes glide down from document title bars, and buttons slowly pulsate until you click on them. Each title bar contains a Minimize button that sends the windows swirling into the Dock when clicked.</p>
+        <p>The System Preferences icon in the Dock allows users to change system settings, much as the Control Panels in the Apple menu used to do. There are even options for running the system in English, French or German right out of the box.</p>
+        <p>We were able to switch back and forth between Mac OS 9 and the OS X beta systems, and even work in old software programs and print documents in what Apple calls the Classic environment, which flips you back into OS 9 for using older software programs.</p>
+        <p>But while the user interface is elegant, it is merely eye candy if all it does is look pretty. The system's core is called Darwin, based on the Berkeley Software Distribution variant of Unix. It contains all the hallmarks of a modern operating system, like pre-emptive multitasking and protected memory. Pre-emptive multitasking means that the system will work faster and more efficiently. Protected memory (which can be seen in action with the included Process Manager application) protects against the whole system crashing when a single program does. Unfortunately, the Classic environment is not protected that way.</p>
+        <p>The system's visual look is due to a combination of graphics technologies, including Quartz, Open GL and QuickTime, that can render crisp 2-D, 3-D and multimedia images. The booklet included with the beta CD was clearly written and provided comparisions between Mac OS 9 and Mac OS X that helped make sense of the changes in OS X more quickly. The beta software is not a complete system, as support for many network-related functions and external devices aren't included yet.</p>
+        <p>Beta testers will need to have a machine running Mac OS 9 with least a G3 processor, 128 megabytes of RAM, 1.5 gigbytes of hard disk space and an internal video card. The original G3 PowerBook and computers upgraded with G3 cards are not supported. Full system requirements and support information are available at www.apple.com/support/macosx.</p>
+        <p>As with all beta software, however, the user should be aware that it is still a work in progress. If you have the resources to try the Mac OS X beta, there is a lot of intriguing new territory -- and probably some bugs -- to explore. So is the Mac OS X beta for you? It depends on how you plan to use it. The beta comes with a usable e-mail program and a blazingly fast version of Microsoft Internet Explorer written for OS X. There is a growing list of other applications written for it; they will become available as the beta version becomes more widely used.</p>
+        <p>Using Mac OS X is a real treat. The stunning interface is intuitive and is new while still feeling like a Mac. But if you need to rely heavily on applications that require the Classic environment, you had better  wait for a more mature version of Mac OS X.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>EXECUTIVE CHANGES</title>
+    <meta content="Y01EXEC" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203895"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEED6153CF932A35755C0A9669C8B63" item-length="225" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>EXECUTIVE CHANGES</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BECTON, DICKINSON &amp; CO., Franklin Lakes, N.J., named John Considine chief financial officer, succeeding Kenneth Weisshaar, who left. Mr. Considine had been senior vice president for finance at American Home Products.</p>
+        <p>HILTON GROUP, London, named David Michels, chief executive at Hilton International, as chief executive. He succeeds Peter George.</p>
+      </block>
+      <block class="full_text">
+        <p>BECTON, DICKINSON &amp; CO., Franklin Lakes, N.J., named John Considine chief financial officer, succeeding Kenneth Weisshaar, who left. Mr. Considine had been senior vice president for finance at American Home Products.</p>
+        <p>HILTON GROUP, London, named David Michels, chief executive at Hilton International, as chief executive. He succeeds Peter George.</p>
+        <p>iMEDIATION, Palo Alto, Calif., named Bill Miller president and chief operating officer. He had been director for content and commerce ventures at Intel Capital, the venture investing arm of Intel.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

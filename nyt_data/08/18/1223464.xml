@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>APLION INTRODUCES PRODUCTS</title>
+    <meta content="MB000523" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1223464"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY BRIEFING: HARDWARE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <org class="indexing_service">Aplion Networks Inc</org>
+        <person class="indexing_service">Schiesel, Seth</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000818T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E5DA153EF93BA2575BC0A9669C8B63" item-length="183" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>APLION INTRODUCES PRODUCTS</hl1>
+      </hedline>
+      <byline class="print_byline">By Seth Schiesel</byline>
+      <byline class="normalized_byline">Schiesel, Seth</byline>
+      <abstract>
+        <p>Aplion Networks Inc introduces first entrants in line of products meant to give some computer customers higher priority than others for e-mail and Web surfing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Communications systems based on Internet technology have many strengths, but discernment is not among them. That is because in cyberspace, each digital packet of data is generally treated identically to each of the others; at a company, the chairman's urgent e-mail message may well be delayed as an intern browses the Web for sports scores. Yesterday, however, a small private company, Aplion Networks Inc. introduced the first entrants in a line of products meant to change that. Aplion's first products are meant to sit on the edge of a business customer's network and help set priorities for use of the network. E-mail, for instance, could be given higher priority than Web surfing, for instance, or certain users could be given higher priority than others. Aplion, based in Edison, N.J., hopes that communications providers will buy its systems in an effort to offer more finely tailored data services to business customers.</p>
+        <p>Seth Schiesel (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Communications systems based on Internet technology have many strengths, but discernment is not among them. That is because in cyberspace, each digital packet of data is generally treated identically to each of the others; at a company, the chairman's urgent e-mail message may well be delayed as an intern browses the Web for sports scores. Yesterday, however, a small private company, Aplion Networks Inc. introduced the first entrants in a line of products meant to change that. Aplion's first products are meant to sit on the edge of a business customer's network and help set priorities for use of the network. E-mail, for instance, could be given higher priority than Web surfing, for instance, or certain users could be given higher priority than others. Aplion, based in Edison, N.J., hopes that communications providers will buy its systems in an effort to offer more finely tailored data services to business customers.</p>
+        <p>Seth Schiesel (NYT)</p>
+        <p>TECHNOLOGY BRIEFING: HARDWARE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

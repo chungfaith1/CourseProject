@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Liquid Soul in Hoboken</title>
+    <meta content="MB020024" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1229298"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="JERSEY FOOTLIGHTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <org class="indexing_service">Liquid Soul (Music Group)</org>
+        <person class="indexing_service">Sting (Musician)</person>
+        <person class="indexing_service">Woliver, Robbie</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000910T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E5DB1339F933A2575AC0A9669C8B63" item-length="180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Liquid Soul in Hoboken</hl1>
+      </hedline>
+      <byline class="print_byline">By Robbie Woliver</byline>
+      <byline class="normalized_byline">Woliver, Robbie</byline>
+      <abstract>
+        <p>Chicago jazz band Liquid Soul will open for Sting in Central Park and perform at Maxwell's in Hoboken, NJ (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Liquid Soul is a brass-driven, acid-jazz band from Chicago, whose funky live performances are electrically charged. Their inventive melodies snake around a wide assortment of free-flowing loops, rhythms and beats.</p>
+        <p>Headed by the impressive sax-playing of Mars Williams, whose background was in new wave, the fierce outfit also boasts another interesting personality -- Simone, the daughter of Nina Simone. Unfortunately, she will not be performing at Maxwell's show, but she will join the danceable Liquid Soul when the group opens for Sting in Central Park Tuesday.</p>
+      </block>
+      <block class="full_text">
+        <p>Liquid Soul is a brass-driven, acid-jazz band from Chicago, whose funky live performances are electrically charged. Their inventive melodies snake around a wide assortment of free-flowing loops, rhythms and beats.</p>
+        <p>Headed by the impressive sax-playing of Mars Williams, whose background was in new wave, the fierce outfit also boasts another interesting personality -- Simone, the daughter of Nina Simone. Unfortunately, she will not be performing at Maxwell's show, but she will join the danceable Liquid Soul when the group opens for Sting in Central Park Tuesday.</p>
+        <p>Their latest album, ''Here's the Deal,'' is a wailing ride through styles ranging from James Brown-soul and Parliament-styled funk to Latin grooves and borderless jazz.</p>
+        <p>After the park, the band scoots straight over to Maxwell's in Hoboken.</p>
+        <p>Robbie Woliver</p>
+        <p>JERSEY FOOTLIGHTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cloud Seeding</title>
+    <meta content="06QNA.$01" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1205133"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q&amp;A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Rain</classifier>
+        <classifier class="indexing_service" type="descriptor">Clouds</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE7DF173FF935A35755C0A9669C8B63" item-length="197" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cloud Seeding</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY
+&lt;br&gt;
+&lt;br&gt; Q.: Whatever happened to seeding clouds to make it rain?
+&lt;br&gt;
+&lt;br&gt; A.: Cloud-seeding experiments and government programs continue, but in this country at least, they are not regarded as a panacea for drought. The programs are usually subject to strict controls. The Weather Modification Association, a clearinghouse for research and information on all kinds of approaches to changing the weather, says 32 states have enacted laws regulating who can practice cloud seeding.
+&lt;p&gt;</byline>
+      <abstract>
+        <p>Practice of cloud seeding explained (Science Q&amp;A) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="full_text">
+        <p>Cloud seeding dates from experiments in 1946 at the General Electric Laboratories in Schenectady, N.Y., and usually relies on silver iodide as a seeding agent, providing nuclei for the rapid formation of ice crystals that may eventually produce raindrops.</p>
+        <p>There are some unknowns about effectiveness and safety. For example, seeding at the wrong time and in the wrong place may actually decrease rainfall. Some skeptics worry that there is a possibility of creating severe weather like hail or floods or of increasing rainfall in one region at the expense of another. Other scientists say the possibilities of creating hail are remote and that seeding can be suspended if there is danger of flooding.</p>
+        <p>Cloud seeding has been used for more than 25 years in parts of West Texas and has been an important part of water policy in Utah, one of the driest states, since 1973. There have been recent major programs in Florida, Thailand and Cuba.</p>
+        <p>Readers are invited to submit questions by mail to Question, Science Times, The New York Times, 229 West 43rd Street, New York, N.Y. 10036-3959, or by e-mail to question@nytimes.com.</p>
+        <p>Q&amp;A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

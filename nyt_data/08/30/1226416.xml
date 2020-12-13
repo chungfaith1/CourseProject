@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Caveat Investors</title>
+    <meta content="30WED4$02" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/08/30/opinion/30WED4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1226416"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Hoaxes</classifier>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <classifier class="indexing_service" type="descriptor">Securities and Commodities Violations</classifier>
+        <org class="indexing_service">Emulex Corp</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Securities and Commodities Violations</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000830T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E0DA1630F933A0575BC0A9669C8B63" item-length="303" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Caveat Investors</hl1>
+      </hedline>
+      <abstract>
+        <p>Editorial says latest Wall Street hoax, which shaved more than $2 billion off market value of Emulex Corp, was mostly case of greed taking advantage of lax vigilance (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It may be tempting to put all the blame for the latest Wall Street hoax on the frenetic pace of today's financial and news cycles. But this was also a case of greed taking advantage of lax vigilance.</p>
+        <p>Last Friday, investors in Emulex, a maker of fiber optic communications equipment, shaved more than $2 billion off the company's market value. A terse press release announced that the company's chairman was departing, and that it would be restating its earnings for the past two years. Trouble is, Emulex never issued the press release. Internet Wire, an online news-release service, had accepted the document from a third party claiming to be Emulex's public relations firm, without checking its authenticity.</p>
+      </block>
+      <block class="full_text">
+        <p>It may be tempting to put all the blame for the latest Wall Street hoax on the frenetic pace of today's financial and news cycles. But this was also a case of greed taking advantage of lax vigilance.</p>
+        <p>Last Friday, investors in Emulex, a maker of fiber optic communications equipment, shaved more than $2 billion off the company's market value. A terse press release announced that the company's chairman was departing, and that it would be restating its earnings for the past two years. Trouble is, Emulex never issued the press release. Internet Wire, an online news-release service, had accepted the document from a third party claiming to be Emulex's public relations firm, without checking its authenticity.</p>
+        <p>Some reporters who tried to reach California-based Emulex failed because of the time difference. Presumably the bogus publicist had wagered that the stock would plummet, as it did from $103 to $45 Friday morning once a number of financial news outlets carried the item. The Nasdaq market finally halted trading on the stock at 10:33 a.m. It snapped back once trading resumed early that afternoon, after the hoax had been revealed. But for some investors, the damage was done.</p>
+        <p>Internet Wire has called the perpetrator a ''very sophisticated criminal.'' But in truth, the low-cost service and several reputable media organizations dropped the ball; this criminal could have been thwarted with a single phone call. Emulex and the Nasdaq can also be faulted for not reacting more quickly to events. Surely in this day and age investors should not lose billions to fraud simply because California is in a different time zone.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

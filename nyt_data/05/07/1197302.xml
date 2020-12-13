@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV112115" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1197302"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Weinberg, Samantha</person>
+        <person class="indexing_service">Whitworth, E Andra</person>
+        <object.title class="indexing_service">Fish Caught in Time, A (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000507T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407EFDD1639F934A35756C0A9669C8B63" item-length="373" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By E. Andra Whitworth</byline>
+      <byline class="normalized_byline">Whitworth, E Andra</byline>
+      <abstract>
+        <p>E Andra Whitworth reviews book A Fish Caught in Time: The Search for the Coelacanth by Samantha Weinberg (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Fish Caught in Time</p>
+        <p>The Search for the Coelacanth.</p>
+        <p>By Samantha Weinberg.</p>
+        <p>HarperCollins, $24.</p>
+      </block>
+      <block class="full_text">
+        <p>A Fish Caught in Time</p>
+        <p>The Search for the Coelacanth.</p>
+        <p>By Samantha Weinberg.</p>
+        <p>HarperCollins, $24.</p>
+        <p>An awkward, scaly creature with limblike fins, the coelacanth was long considered worthless by even the most impoverished fishermen. Still, for more than half a century it has caused scientists and government officials around the globe to salivate more lustily than any sole meuniere ever could. In ''A Fish Caught in Time,'' Samantha Weinberg, a freelance English journalist, tells the tale of obsession that surrounds the coelacanth (pronounced SEE-la-kanth). A creature of prehistoric origins, believed to be the evolutionary link between fish and humans, was known only through fossil records until 1938, when the captain of a trawler docked in East London, South Africa, and reported having an exotic fish aboard his vessel. The task of identification fell to J. L. B. Smith, an amateur ichthyologist from South Africa with the egotism necessary to defy reason and declare the mysterious find to be a fish considered extinct for 70 million years. The discovery ignited in Smith a personal passion for the coelacanth while placing him at the center of very public controversy, in which he was criticized by colleagues and reviled by creationists. His involvement in an international conflict over coelacanth expedition rights in the Comoros Islands finally led him to challenge the scientific establishment openly for its aggressive efforts to capture rather than conserve the fish's population. In 1968, after 30 years of searching for the coelacanth, Smith committed suicide without ever having seen a living specimen. Though Weinberg's narrative focuses on the coelacanth, the tale she tells is bigger than that of a single fish. In the end, the book is about a catalytic event in humankind's evolving quest to understand how it became what it is.</p>
+        <p>E. Andra Whitworth</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

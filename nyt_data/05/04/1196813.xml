@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Raising False Hopes</title>
+    <meta content="LTR232038" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1196813"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000504T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E3DC1F39F937A35756C0A9669C8B63" item-length="132" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Raising False Hopes</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Untangling the Web's Languages'' (April 20) is likely to raise false hopes about Everymail.com, a multilingual service that allows users to type messages in dozens of languages. The site is indeed very nice but has some limitations.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Untangling the Web's Languages'' (April 20) is likely to raise false hopes about Everymail.com, a multilingual service that allows users to type messages in dozens of languages. The site is indeed very nice but has some limitations.</p>
+        <p>First, one must have a Windows PC. And a person with an Everymail account cannot receive ordinary e-mail written in, say, Hebrew if the message was mailed by most of the properly configured e-mail programs that do send Hebrew. The reason is that Everymail is committed to Unicode, which (sparing the readers technical details) is probably the wave of the future for multilingual e-mail but not used very much in e-mail yet. The upshot is that almost all Hebrew e-mail today will not be readable in Everymail.</p>
+        <p>GIDEON WEISZ  Boulder, Colo.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Interest Rates Left Unchanged by Fed</title>
+    <meta content="23X2FED" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Front Page; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1224720"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000823T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E0DD1631F930A1575BC0A9669C8B63" item-length="94" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Interest Rates Left Unchanged by Fed</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Federal Reserve voted to leave interest rates unchanged but warned that it might raise them later in the year if inflation creeps up.</p>
+        <p>The decision displayed the Fed's confidence that the economy is moving onto a path of slightly more modest though more sustainable growth.</p>
+        <p>Business Day, Page C1.</p>
+      </block>
+      <block class="full_text">
+        <p>The Federal Reserve voted to leave interest rates unchanged but warned that it might raise them later in the year if inflation creeps up.</p>
+        <p>The decision displayed the Fed's confidence that the economy is moving onto a path of slightly more modest though more sustainable growth.</p>
+        <p>Business Day, Page C1.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

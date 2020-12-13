@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Eroded Self</title>
+    <meta content="LTR114331" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201000"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <person class="indexing_service">Rosen, Jeffrey</person>
+        <person class="indexing_service">Lapides, Fred</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000521T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E0DD1E3BF932A15756C0A9669C8B63" item-length="177" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Eroded Self</hl1>
+      </hedline>
+      <abstract>
+        <p>Fred Lapides letter on Jeffrey Rosen's April 30 article on Internet privacy notes he visited adult Web site depicted on cover; photo</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>You depict on your cover an e-mail note that gives the address nastygirls.com as a site that ''Dave'' has been viewing late at night.</p>
+        <p>Naturally curious, I looked up the site. Sure enough, Dave had visited an adult site that -- good for Dave -- presumably shows sex pictures of mature women rather than specializing in very young girls. Aside from a few free peeks, though, you must be a member in order to spend any length of time at this site. I would have joined but, short on money, I decided to keep my subscription to The Times instead.</p>
+        <p>Fred Lapides</p>
+        <p>Orange, Conn.</p>
+      </block>
+      <block class="full_text">
+        <p>You depict on your cover an e-mail note that gives the address nastygirls.com as a site that ''Dave'' has been viewing late at night.</p>
+        <p>Naturally curious, I looked up the site. Sure enough, Dave had visited an adult site that -- good for Dave -- presumably shows sex pictures of mature women rather than specializing in very young girls. Aside from a few free peeks, though, you must be a member in order to spend any length of time at this site. I would have joined but, short on money, I decided to keep my subscription to The Times instead.</p>
+        <p>Fred Lapides</p>
+        <p>Orange, Conn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

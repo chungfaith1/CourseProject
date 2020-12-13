@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Patents; A new encryption system would protect a coveted digital data stream -- music on the web.</title>
+    <meta content="03PATE" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212258"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Copyrights</classifier>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <person class="indexing_service">Chartrand, Sabra</person>
+        <person class="indexing_service">Silverman, Joseph</person>
+        <person class="indexing_service">Pipher, Jill</person>
+        <person class="indexing_service">Hoffstein, Jeffrey</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/Patents</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Copyrights</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000703T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE6DE1239F930A35754C0A9669C8B63" item-length="706" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Patents; A new encryption system would protect a coveted digital data stream -- music on the web.</hl1>
+      </hedline>
+      <byline class="print_byline">By Sabra Chartrand</byline>
+      <byline class="normalized_byline">Chartrand, Sabra</byline>
+      <abstract>
+        <p>Three Brown University mathematicians patent system that quickly encodes every second of a digital data stream with a different encryption key, thus making it impractical--if not impossible--to infringe copyrighted data like digital music; they are Jeffrey Hoffstein, Jill Pipher and Joseph Silverman (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AS the Internet continues to influence the evolution of intellectual property law and policy, one issue currently generating tremendous controversy is the free and anonymous swapping of digital music files.</p>
+        <p>Various companies have proposed forms of encryption as solutions to the problem. Now add another candidate: three mathematicians at Brown University have capped six years of research with a patent for an encryption code they say will make it impractical -- if not impossible -- to infringe copyrighted data like digital music.</p>
+      </block>
+      <block class="full_text">
+        <p>AS the Internet continues to influence the evolution of intellectual property law and policy, one issue currently generating tremendous controversy is the free and anonymous swapping of digital music files.</p>
+        <p>Various companies have proposed forms of encryption as solutions to the problem. Now add another candidate: three mathematicians at Brown University have capped six years of research with a patent for an encryption code they say will make it impractical -- if not impossible -- to infringe copyrighted data like digital music.</p>
+        <p>The mathematicians, Jeffrey Hoffstein and Jill Pipher, both of Pawtucket, R.I., and Joseph Silverman of Needham, Mass., patented a system they said could quickly encode every second of a data stream with a different encryption key. That means that a typical three-minute song could be scrambled into 180 different codes; anyone taking the time to break a single code would be rewarded with only one second of music.</p>
+        <p>They say the encoding works so quickly that encryption keys could be instantly disposable. Data like songs could be encoded to play on only one specific music player or computer, after which that particular version of the code would be thrown away.</p>
+        <p>''If someone orders music, then it can be encrypted specifically for that user,'' explained Scott Crenshaw, chief executive of the Rhode Island company that owns the patent, NTRU Cryptosystems. ''It will only download on that user's device. He can't share it with his friends without authorization because it simply won't play on his friend's device.''</p>
+        <p>The encryption can be used for data transmissions between computers, cellular phones, digital music players ''or virtually any consumer device connected to the Internet,'' Mr. Crenshaw said.</p>
+        <p>Mr. Crenshaw says the encoding and decoding is much faster than with any similar system, and he says it does not use much computer memory. ''It's tiny and can fit into 1,500 bytes, while competitors take 10 or 20 or 30 times as much space,'' he said. ''That's important because consumer devices have very little memory.''</p>
+        <p>Like other encryption systems, the new invention grew out of advanced mathematical formulas. NTRU's technology differs from other encryption processes, Mr. Crenshaw said, because it relies on a mathematical system called a ''convolution product'' to make it faster and more efficient. With that kind of math, he said, encoding requires only one step, while decoding requires only two. Some other encryption systems need more than 1,000, he said.</p>
+        <p>The invention uses what is called ''public key'' encryption, which does not require the sender and receiver to privately exchange code keys to complete a transaction. Mr. Crenshaw said that when a person ordered music online, his computer or music player would provide the encoding key to the server computer of a Web site dispensing the music.</p>
+        <p>''The server uses that key to encode the data, and then throws it away,'' Mr. Crenshaw said. The encoded music comes back to the user's computer, which already knows the key and uses it to decrypt the data. ''No other player has that key,'' he said. ''The music is useless if sent to another player.''</p>
+        <p>The hardware or software employing the encryption technology would have to be included in consumer electronic devices. Mr. Crenshaw said NTRU had signed a licensing agreement with an Israeli company called Aladdin, which makes the so-called tokens that activate music players and that could contain the encryption technology.</p>
+        <p>A chip in the token would tell the music distributor what encryption key to use. The customer could move the token between his MP3 player, home stereo, computer or other device so he could listen to his music library in more than one place, Mr. Crenshaw explained, but because the token would be customized for his devices only, he wouldn't be able to give it to a friend to share digital music illegally.</p>
+        <p>Mr. Hoffstein, Ms. Pipher and Mr. Silverman received patent 6,081,597.</p>
+        <p>Patents may be viewed on the Web at www.uspto.gov or may be ordered through the mail, by patent number, for $3 from the Patent and Trademark Office, Washington, D.C. 20231.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

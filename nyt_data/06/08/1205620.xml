@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Secret Life of the Home Computer</title>
+    <meta content="08DIST$01" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1205620"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Supercomputers</classifier>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Life, Extraterrestrial</classifier>
+        <classifier class="indexing_service" type="descriptor">Seti (Search for Extraterrestrial Intelligence)</classifier>
+        <org class="indexing_service">University of California (Berkeley)</org>
+        <person class="indexing_service">Biersdorfer, J D</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Life, Extraterrestrial</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E7DD123FF93BA35755C0A9669C8B63" item-length="1905" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Secret Life of the Home Computer</hl1>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+      <byline class="normalized_byline">Biersdorfer, J D</byline>
+      <abstract>
+        <p>Distributed computing, in which a large problem or significant amount of data is parceled out to many--even millions--of computers to work on at once, is becoming viable substitute for once vaunted supercomputer; best-known distributed computing project is SETIatHome (Search for Extraterrestrial Intelligence), developed at University of California, Berkeley, which offers a screen saver program designed for home computers that also analyzes radio signals from cosmos for patterns of signs of alien life; most of SETIatHome users probably have never noticed computing time they have devoted to project because screen saver makes great use of each computer's idle time; other projects noted; distributed programming is also being looked at for its commercial potential, with computers possibly being able to rent out processing time; photo; chart on sites that offer information on distributed programming (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IDLE hands may be the devil's workshop, but an idle computer has the potential to seek out extraterrestrial life, crack encryption codes and maybe make a little extra cash for its owner.</p>
+        <p>Distributed computing, in which a large problem or daunting amount of data is parceled out to many -- even millions -- of computers to work on at once, is becoming a viable substitute for the once-almighty supercomputer. Even the humblest home machine can become a cog in a larger computational wheel, receiving data, churning through it at its own speed and returning the results. It's a digital-age illustration of the old adage about how to eat an elephant: one bite at a time.</p>
+      </block>
+      <block class="full_text">
+        <p>IDLE hands may be the devil's workshop, but an idle computer has the potential to seek out extraterrestrial life, crack encryption codes and maybe make a little extra cash for its owner.</p>
+        <p>Distributed computing, in which a large problem or daunting amount of data is parceled out to many -- even millions -- of computers to work on at once, is becoming a viable substitute for the once-almighty supercomputer. Even the humblest home machine can become a cog in a larger computational wheel, receiving data, churning through it at its own speed and returning the results. It's a digital-age illustration of the old adage about how to eat an elephant: one bite at a time.</p>
+        <p>By far the best-known distributed computing project is SETI@Home, a screen saver program, designed for home computers, that analyzes radio signals from the cosmos for patterns or other signs of alien life. Other projects have found million-digit prime numbers, deciphered secret codes and helped in the design of storage containers for nuclear waste.</p>
+        <p>Like many successful inventions originally created by scientists to share information and promote the greater good (including the World Wide Web), distributed computing is being examined for its commercial potential: computer owners may be able to, in effect, rent out unused processing time.</p>
+        <p>SETI@Home (SETI stands for Search for Extraterrestrial Intelligence) was developed at the University of California at Berkeley. It went into full distribution about a year ago and recently signed up its two millionth user. After a participant downloads the free screen saver program, packets of data recorded at a radio telescope in Puerto Rico are sent to the user's computer via the Internet. The participant's computer analyzes a packet when it is not handling other tasks, then sends the data back to the SETI@Home server and receives another packet.</p>
+        <p>Most of SETI@Home's users have probably never even noticed the computing time that they have donated to the project because the screen saver program makes great use of each computer's idle time. The program can be set to do its analyses when the computer has been idle for a while (for example, when the user takes a break). But it can also be set to function in the much smaller intervals of idle time that occur even when a machine appears to be in constant use.</p>
+        <p>''Let's say you're typing a story -- each time you hit a key, your computer works for about a hundredth of a second,'' said Dr. David P. Anderson, a computer scientist who has done extensive research in distributed computing and is also the project director of SETI@Home. ''And then it sits there for another second, waiting for you to hit the next key. So even while you think you are using your computer, about 99.99 percent of its time it's not actually doing anything useful.'' That is, unless it happens to be doing a little distributed work on the side.</p>
+        <p>Not all supersize projects are suitable for the distributed approach, and large computing chores like weather simulation do not work well because quick calculations are needed. One project in which a cluster proved effective was the RC5-56 Secret Key Challenge, in which thousands of volunteers donated computer time to crack a 56-bit encryption code. The project was one of a number run by Distributed.net, a nonprofit organization that has signed up about 60,000 participants to participate in a variety of code-cracking contests.</p>
+        <p>All told, SETI@Home's users are currently averaging about 12 teraflops, or 12 trillion calculations per second, over the course of a day, said Dr. Dan Werthimer, an astronomer at Berkeley and the chief scientist for the project. ''It's the largest computation that's ever been done -- on this planet, anyway,'' Dr. Werthimer said.</p>
+        <p>Dr. Werthimer calculated that home users had donated 283,000 years of computing time to the project so far. ''They're donating time, about 1,000 years every day,'' he said.</p>
+        <p>Supercomputers are usually used for large computing problems, like nuclear weapons research and weather forecasting, that require a staggering number of calculations, but they are ''super'' in both processing power and price tag. Computers capable of such power can cost millions of dollars, a price that is beyond the reach of many institutions. And a supercomputer, like any computer, can quickly become obsolete.</p>
+        <p>SETI researchers ran into the obsolescence problem before turning to distributed computing. They started out building specialized supercomputers to handle the data from the radio telescopes. Because of the rapid advance of technology, though, a SETI-specific supercomputer has a short life span. ''After five years, your machine is kind of a dinosaur,'' Dr. Werthimer explained, ''and it's time to build something new.''</p>
+        <p>Distributed computing has been around for several decades, but it has been greatly aided by two developments: the increasing speed of personal computers and the advent of the Internet, which provides an easy and almost instantaneous means of exchanging data between machines.</p>
+        <p>''The speed of the common PC has increased to such a dramatic rate,'' Dr. Anderson said, ''that the high-end PC today is as fast as one of these Cray supercomputers was about 10 years ago.''</p>
+        <p>The real rise of distributed computing can be traced to 1994, when Dr. Donald Becker and Dr. Thomas Sterling, working for the Center of Excellence in Space Data and Information Sciences at the Goddard Space Flight Center in Maryland, created a cluster computer from 16 processors networked together and dubbed it Beowulf.</p>
+        <p>Dr. Becker recalled that the name had been chosen by Dr. Sterling for a number of reasons, including a line loosely translated from ''Beowulf,'' the epic Anglo-Saxon poem, that described the heroic Beowulf as having the strength of many.</p>
+        <p>The Beowulf Project proved that an incredibly powerful computer could be created by harnessing together many smaller computers like Pentium II's running open-source software like Linux. The idea took off, and clusters began to spring up at academic institutions and NASA research centers.</p>
+        <p>''We know there are thousands -- there might be as many as 10,000 clusters out there,'' Dr. Becker said. The Beowulf Project Web site contains a wealth of information about the project, along with the recipe for making a Beowulf cluster and links to mailing lists and other Beowulf-related forums.</p>
+        <p>Dr. Becker said he expected that Beowulf cluster computers would take over many of the complicated problems that used to be handled only by supercomputers, but not all of them. ''There are certainly jobs where only the largest machines are appropriate to use, so there's still a very solid role for traditional supercomputers,'' he said. ''But for most other applications, a cluster like this is much more cost-effective.''</p>
+        <p>Most distributed computing systems designed for public participation are on the philanthropic side, but some sites want to bring money into the picture. ''Isn't it time your computer started paying for itself?'' asks the home page of the ProcessTree Network, an enterprise that would like to pay users money in exchange for their computers' idle time. The ProcessTree Network and DCypher.Net, another distributed computing venture, have recently been merged into a company called Distributed Science.</p>
+        <p>Although the service hasn't opened yet, its operations are expected to be somewhat like SETI@Home's. After a participant installs the ProcessTree program to a home computer, that user will connect to the Internet to download a work unit, or batch of data, from one of the company's servers. Once the work unit is on the home computer, the ProcessTree software will munch and crunch the information during the PC's idle time. Then it will send data back to the ProcessTree server and collect a new unit.</p>
+        <p>In return for those spare processor cycles, the company will mail the user a check or credit the user's online account with small payments that can be spent online like electronic cash.</p>
+        <p>Armin Lenz, a software developer at Distributed Science, said that more than 25,000 people had signed up to work on the venture. He predicted that distributed computing would become an industry unto itself.</p>
+        <p>''I think it is going to be huge,'' Mr. Lenz said in an e-mail message. ''Think in terms of going from 'railroads' of supercomputing to the 'individual mass traffic' of distributed processing. There are thousands of projects that cannot be tackled because of a lack of computing power that is at the same time sitting idle on everyone's desk.'' Although ProcessTree members will not know exactly what their computers are working on, their computers might be used for things like video animation, analyses of scientific and corporate research data, weather models and cryptography.</p>
+        <p>Dr. Anderson is less sure about whether such payments will be worthwhile for home computer users. ''The value of the C.P.U. time is probably small enough that it wouldn't amount to a significant quantity of money for most people,'' he said.</p>
+        <p>The ProcessTree venture will be ready to begin as soon as its founders are satisfied with the home-user software, and Mr. Lenz said the company was negotiating with several well-known companies that might need its heavy-duty data analyses. ''For DCypher.Net, we have more projects waiting in line than we have people to power them,'' he said. ''There's certainly the need for massive amounts of distributed computing.''</p>
+        <p>Whether for pay or play, distributed computing can be found in computer labs or family dens. And in the case of SETI@Home, which registers the users of its program and tracks the work done by each participating computer, it might just mean that a volunteer somewhere will be the lucky one to have the computer that first detects signals from extraterrestrial beings.</p>
+        <p>Site-Seeing: Try This at Home  Sites That Can Help You Get More Out of Your Machine</p>
+        <p>Here are some sites to check if you want to find out about distributed computing, or even do some yourself.</p>
+        <p>SETI@HOME: setiathome.ssl.berkeley.edu  The screen saver program that lets just about everyone with a computer participate in the Search for Extraterrestrial Intelligence can be downloaded here. The site also has a wealth of information about SETI's work and links to similar sites.</p>
+        <p>BEOWULF PROJECT: www.beowulf.org  A complete overview and history of the origins of the Beowulf distributed computing movement can be found here, along with links to mailing lists, technical papers, Beowulf clusters around the world and even a how-to section for building a Beowulf of one's own.</p>
+        <p>PROCESSTREE NETWORK: www.processtree.com  This site of one of the Internet's first companies to offer to pay for idle computer time includes information about the network and a sign-up form.</p>
+        <p>CLIMATE DYNAMICS AT RAL: www .climate-dynamics.rl.ac.uk  Based in England, the Casino-21 project hopes to use a SETI@Home-style screen saver to analyze data and predict the climate of the 21st century.</p>
+        <p>Volunteers can register to join the project and learn more about long-term weather forecasting.</p>
+        <p>OPEN DIRECTORY PAGE ON PARALLEL COMPUTING: www.dmoz.org/Computers/Parallel</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

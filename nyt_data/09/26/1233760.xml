@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Birth and Death of Stars</title>
+    <meta content="26QNA" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/26/science/26QNA.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1233760"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Stars and Galaxies</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stars and Galaxies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000926T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07EFDE143AF935A1575AC0A9669C8B63" item-length="254" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Birth and Death of Stars</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Question &amp; Answer column on death of stars and birth of new ones; drawing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q.: Are stars all burning out, or are new ones forming?</p>
+        <p>A.: Stars are being born as well as dying, said Dr. Nolan Walborn, an astronomer at the Space Telescope Science Institute in Baltimore, but the rate varies greatly from galaxy to galaxy.</p>
+      </block>
+      <block class="full_text">
+        <p>Q.: Are stars all burning out, or are new ones forming?</p>
+        <p>A.: Stars are being born as well as dying, said Dr. Nolan Walborn, an astronomer at the Space Telescope Science Institute in Baltimore, but the rate varies greatly from galaxy to galaxy.</p>
+        <p>One mission of the Hubble Space Telescope is to observe star-formation regions, he said.</p>
+        <p>Stars form from huge clouds of dust and gas. If a cloud begins to contract because of its own gravity, its interior heats up as gravitational energy is converted to heat energy, reaching millions of degrees, and nuclear reactions begin that change one element into another, releasing energy.</p>
+        <p>The pressure tends to expand the cloud back out, Dr. Walborn said, but eventually equilibrium is reached. ''That is what a star is,'' he said, ''a mass of gas at equilibrium between gravity's inward pressure and outward pressure from nuclear reactions.''</p>
+        <p>A star has a finite lifetime because it is burning fuel. For 90 percent of its life, it burns hydrogen into helium. When the hydrogen is used up, the pressure decreases, but gravity never disappears, so the star contracts until the temperature climbs again, this time reaching hundreds of millions of degrees, while reactions convert helium to carbon and oxygen. The star can then remain stable for a briefer time. Eventually the star dies, when the reactions only consume energy but do not produce it.</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

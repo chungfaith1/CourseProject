@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tech 2010: #09 Sunny Deals; The Weatherman Who Is Always Right</title>
+    <meta content="611WEATH" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="67" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Science; Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1206302"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Science and Technology</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Gall, Robert</person>
+        <person class="indexing_service">Laskin, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE1DD143FF932A25755C0A9669C8B63" item-length="467" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tech 2010: #09 Sunny Deals; The Weatherman Who Is Always Right</hl1>
+      </hedline>
+      <byline class="print_byline">By David Laskin</byline>
+      <byline class="normalized_byline">Laskin, David</byline>
+      <abstract>
+        <p>Robert Gall of US Weather Research Program discusses work on improving accuracy of forecasts (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>By the year 2010, weather prediction will be a whole lot more accurate than it is today, thanks to the teraflop -- or one trillion floating point operations per second. That's a big jump from the multiple gigaflops -- a gigaflop being a mere billion floating point operations -- that supercomputers currently require to run the models on which forecasts are based.</p>
+        <p>What does this increase mean? Robert Gall, lead scientist for the U.S. Weather Research Program, explains that once computers have the power and speed of up to several teraflops, they'll then be able to create virtual models of the atmosphere on the scale at which a lot of weather conditions actually form.</p>
+      </block>
+      <block class="full_text">
+        <p>By the year 2010, weather prediction will be a whole lot more accurate than it is today, thanks to the teraflop -- or one trillion floating point operations per second. That's a big jump from the multiple gigaflops -- a gigaflop being a mere billion floating point operations -- that supercomputers currently require to run the models on which forecasts are based.</p>
+        <p>What does this increase mean? Robert Gall, lead scientist for the U.S. Weather Research Program, explains that once computers have the power and speed of up to several teraflops, they'll then be able to create virtual models of the atmosphere on the scale at which a lot of weather conditions actually form.</p>
+        <p>Precipitation, for example, tends to form in systems about 6 miles wide, but current models are only capable of calculating points that are separated by a minimum of 12 miles, which means that many ''weather events'' fall between the cracks and catch us unawares.</p>
+        <p>Gall predicts that a new modeling system called Weather Research and Forecast, or W.R.F., will be able to analyze the atmosphere down to a ''cloud-size'' single kilometer. W.R.F. will combine the next generation of supercomputing power with improvements in data collection from things already in the experimental stage, like unmanned ''drones'' and steerable weather balloons that drift right along with individual weather systems.</p>
+        <p>With W.R.F., meteorologists will be able to make notoriously thorny forecasts -- like specifying how much rain will fall on a given location, or predicting where and when a hurricane will touch land -- far more exact. (The current margin of error when predicting hurricane landfall a day in advance is about 60 miles; Gall estimates that forecasters will cut that figure to 40 miles in the next 10 years.)</p>
+        <p>The Weather Channel's Ray Ban (his actual name) foresees far more substantial changes. By blending improved 0-to-10-day-forecast models with the global-climate models used for seasonal outlooks, Ban predicts that ''in a decade, a person will be able to go to our Web site, click on a date up to 90 days in the future and get a forecast along the lines of 'Lows in the 60's, highs in the 90's, with a higher probability of rain than the previous day.' ''It remains to be seen if this beats The Old Farmer's Almanac.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

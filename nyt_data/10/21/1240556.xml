@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR022122" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1240556"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">Xerox Corp</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001021T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E6DA1E3EF932A15753C1A9669C8B63" item-length="93" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of October 19 article and illustration tracing troubles at Xerox Corp</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article and an illustration in Business Day on Thursday tracing troubles at the Xerox Corporation misstated the role of the company's Palo Alto Research Center in developing the computer mouse. The mouse was invented in the 1960's by Douglas C. Engelbart and William K. English at the Stanford Research Institute; the Xerox center built on that work.</p>
+      </block>
+      <block class="full_text">
+        <p>An article and an illustration in Business Day on Thursday tracing troubles at the Xerox Corporation misstated the role of the company's Palo Alto Research Center in developing the computer mouse. The mouse was invented in the 1960's by Douglas C. Engelbart and William K. English at the Stanford Research Institute; the Xerox center built on that work.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

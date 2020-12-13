@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Closing the Books</title>
+    <meta content="MB233717" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213731"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="JULY 2-8"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000709T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E6DA1538F93AA35754C0A9669C8B63" item-length="110" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Closing the Books</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The German Parliament approved a bill, on a vote of 556 to 42, that set the stage for compensation to Nazi slave laborers and other Holocaust victims. German industry and the government will each pay $2.5 billion to the fund.</p>
+        <p>The vote ends a half-century of denial of responsibility by German manufacturers, including the German subsidiaries of Ford and General Motors.</p>
+      </block>
+      <block class="full_text">
+        <p>The German Parliament approved a bill, on a vote of 556 to 42, that set the stage for compensation to Nazi slave laborers and other Holocaust victims. German industry and the government will each pay $2.5 billion to the fund.</p>
+        <p>The vote ends a half-century of denial of responsibility by German manufacturers, including the German subsidiaries of Ford and General Motors.</p>
+        <p>Previously, German manufacturers argued that the Nazis had simply required them to use the forced workers.</p>
+        <p>JULY 2-8</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

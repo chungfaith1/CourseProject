@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Analyzing Proteins With X-Rays, Crystals and Some Luck</title>
+    <meta content="04BAR.$01" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212409"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="indexing_service" type="descriptor">Proteins</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">X-Rays</classifier>
+        <classifier class="indexing_service" type="descriptor">Crystals</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">X-Rays</classifier>
+        <classifier class="online_producer" type="general_descriptor">Proteins</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Metals and Minerals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000704T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE3DE1339F937A35754C0A9669C8B63" item-length="619" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Analyzing Proteins With X-Rays, Crystals and Some Luck</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREW POLLACK</byline>
+      <abstract>
+        <p>Process of analyzing proteins using X-ray crystallography described (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Protein shapes are usually determined by X-ray crystallography, a process that in some ways resembles a CAT scan. An X-ray is taken from multiple angles and a computer uses that data to calculate a three-dimensional image.</p>
+        <p>However, the process has several steps and each one could fail.</p>
+      </block>
+      <block class="full_text">
+        <p>Protein shapes are usually determined by X-ray crystallography, a process that in some ways resembles a CAT scan. An X-ray is taken from multiple angles and a computer uses that data to calculate a three-dimensional image.</p>
+        <p>However, the process has several steps and each one could fail.</p>
+        <p>First the protein must be isolated and purified. This has been made easier in recent years by gene sequencing and genetic engineering. The gene for the protein can be spliced into bacteria, yeast or other cells, which then make large quantities of the protein.</p>
+        <p>The next step is to form a crystal, in which molecules of the protein are arranged in an orderly lattice. To do this, the protein is dissolved in a solvent and then coaxed into precipitating into a crystal. This is still something of a black art, and scientists try numerous solvents, temperatures and other conditions in hopes of achieving the desired result.</p>
+        <p>The crystal is then X-rayed. Some of the X-rays are diffracted -- bent -- as they interact with electrons on their way through the crystal. By analyzing the diffraction pattern using software, scientists can make a map of the electron density in the crystal. From that, the shape of the protein can be deduced using programs that display the structure on a computer screen as a mass of squiggly lines, ribbons and little balls. The shapes can be viewed on the screen in three dimensions using special glasses.</p>
+        <p>A decade or two ago, analyzing one protein could take years. Different versions of the crystal had to be made for comparison, each with a different heavy metal in the lattice to provide reference points.</p>
+        <p>But new X-ray sources known as synchrotrons have reduced data collection time to a few days or even less than a day.</p>
+        <p>Synchrotrons, like the Advanced Photon Source at Argonne National Laboratory near Chicago, create X-rays by using powerful magnets to bend an electron beam around a circular track. These synchroton operations, some the size of football fields, are to conventional X-ray machines what a laser is to a flashlight. Their beams are more powerful and focused.</p>
+        <p>In addition, the wavelength of synchrotron X-rays can be changed. Using multiple wavelengths, a technique pioneered by Wayne A. Hendrickson at Columbia University, provides the extra data that once had to come from the crystals with different heavy metals.</p>
+        <p>Despite the advances, it still takes weeks to go from a gene sequence to a three-dimensional protein structure. So doing thousands of structures a year, the goal of structural genomics, will require large-scale automation. Instead of trying one thing after another to grow a suitable  crystal, thousands of attempts will be made in parallel, in hopes that a few completed structures will emerge.</p>
+        <p>At Syrrx, a structural genomics company, a robot places a tiny drop of protein into 480 wells, each containing a different chemical combination. The machine can do 11,000 crystallization experiments in 24 hours. A robot being developed will be able to do 130,000 a day, with a computer vision system checking one million wells a day in search of the elusive crystals.</p>
+        <p>Another technique, nuclear magnetic resonance, can determine structures of proteins in solution, without the need for crystals. But that technique, similar to magnetic resonance imaging used in medicine, works for only relatively simple proteins. Japan is beginning a big project that will use magnetic resonance to determine protein structures.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

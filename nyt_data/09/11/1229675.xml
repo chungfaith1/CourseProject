@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Judo</title>
+    <meta content="11XJUD$01" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/11/sports/11XJUDO.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1229675"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="2000 SYDNEY GAMES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Olympic Games</classifier>
+        <classifier class="indexing_service" type="descriptor">Judo</classifier>
+        <classifier class="indexing_service" type="descriptor">Olympic Games (2000)</classifier>
+        <classifier class="indexing_service" type="descriptor">Summer Games (Olympics)</classifier>
+        <location class="indexing_service">Sydney (Australia)</location>
+        <person class="indexing_service">Litsky, Frank</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Australia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Olympics 2004</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Olympics 2004/Judo</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Australia and Pacific/Australia/Sydney</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Australia and Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Australia and Pacific/Australia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Olympic Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Judo</classifier>
+        <classifier class="online_producer" type="general_descriptor">Martial Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000911T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CEEDE1239F932A2575AC0A9669C8B63" item-length="441" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Judo</hl1>
+      </hedline>
+      <byline class="print_byline">By Frank Litsky</byline>
+      <byline class="normalized_byline">Litsky, Frank</byline>
+      <abstract>
+        <p>Preview of Sydney Olympics judo tournament (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LIKE ITS fellow Olympic sports of wrestling and taekwondo, judo is one of the variations of hand-to-hand combat. It limits mayhem, with no punching or kicking. Japan, which won 8 of the 16 gold medals in the last world championships, should dominate.</p>
+        <p>THE SETUP -- Direct-elimination competition will decide the seven weight classes for men and the seven for women. Anyone who loses to a finalist moves into a repechage (second-chance) competition for bronze medals.</p>
+      </block>
+      <block class="full_text">
+        <p>LIKE ITS fellow Olympic sports of wrestling and taekwondo, judo is one of the variations of hand-to-hand combat. It limits mayhem, with no punching or kicking. Japan, which won 8 of the 16 gold medals in the last world championships, should dominate.</p>
+        <p>THE SETUP -- Direct-elimination competition will decide the seven weight classes for men and the seven for women. Anyone who loses to a finalist moves into a repechage (second-chance) competition for bronze medals.</p>
+        <p>THE SCORING -- A men's match can last five minutes, a women's match four. A match ends immediately with an ippon, in which a player throws an opponent on his back or holds him on his back for 25 seconds or applies a hold that evokes submission. Lesser throws earn fractions of a point. About half the matches end on an ippon, the other half on points.</p>
+        <p>THE STRATEGY -- The idea is to get an opponent off balance so he can be thrown to the mat. Some players are skilled mainly on their feet and others do better working on the mat.</p>
+        <p>THE NAMES -- The strongest teams are the Japanese, Korean, French and German men and the Cuban women. The United States ranks about 10th among the men, 12th to 15th among the women. Jimmy Pedro of Boston, the world champion in the men's 73-kilogram (160.6-pound) class, is favored to give the United States its first Olympic judo gold medal. The two best players are Japanese -- Shinichi Shinohara (men's heavyweight) and Ryoko Tamura (women's 48 kilograms, or 105.6 pounds).</p>
+        <p>Frank Litsky</p>
+        <p>2000 SYDNEY GAMES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

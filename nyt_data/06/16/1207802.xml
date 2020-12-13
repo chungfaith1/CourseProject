@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="CN223143" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1207802"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E7DE1F3EF935A25755C0A9669C8B63" item-length="273" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TARGET CORP., Minneapolis, which operates discount stores and traditional department stores, will split its stock two shares for one on July 19 to shareholders of record as of June 30.</p>
+        <p>ADAPTIVE BROADBAND CORP., Sunnyvale, Calif., a maker of high-speed wireless equipment for the Internet, agreed to sell its microwave radio unit to the closely held Moseley Associates, Santa Barbara, Calif., which designs and makes digital-transmission systems, for $42 million in cash.</p>
+      </block>
+      <block class="full_text">
+        <p>TARGET CORP., Minneapolis, which operates discount stores and traditional department stores, will split its stock two shares for one on July 19 to shareholders of record as of June 30.</p>
+        <p>ADAPTIVE BROADBAND CORP., Sunnyvale, Calif., a maker of high-speed wireless equipment for the Internet, agreed to sell its microwave radio unit to the closely held Moseley Associates, Santa Barbara, Calif., which designs and makes digital-transmission systems, for $42 million in cash.</p>
+        <p>VERITAS SOFTWARE CORP., Mountain View, Calif., whose software manages data storage and backup tasks across networks, is taking a stake in Xdrive, Santa Monica, Calif., as the first move by its new $100 million fund formed to invest in data storage start-up companies.</p>
+        <p>SCOTTS CO., Columbus, Ohio, the largest supplier of consumer lawn and garden products in the world, agreed to buy the Substral plant-fertilizer brand from Henkel K.G.a.A., Dusseldorf, Germany, to expand its product line. Terms were not disclosed.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

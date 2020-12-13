@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>French Delicacies Are Just a Click Away (And on Sale)</title>
+    <meta content="26FREN$03" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1217708"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="FOOD STUFF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Food</classifier>
+        <org class="indexing_service">Frenchfeast.com</org>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000726T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E2D9103AF935A15754C0A9669C8B63" item-length="116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>French Delicacies Are Just a Click Away (And on Sale)</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>Frenchfeast.com is offering temporary discount of 10 percent (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Anyone who has visited Paris in summer knows how terrific the sales are, as shops get ready to go on their annual August vacations. The Web site Frenchfeast.com, based in New York, is taking a small vacation, too, but it is offering a 10 percent discount on orders placed on the Internet through Aug. 2. Items will be shipped after that date.</p>
+      </block>
+      <block class="full_text">
+        <p>Anyone who has visited Paris in summer knows how terrific the sales are, as shops get ready to go on their annual August vacations. The Web site Frenchfeast.com, based in New York, is taking a small vacation, too, but it is offering a 10 percent discount on orders placed on the Internet through Aug. 2. Items will be shipped after that date.</p>
+        <p>The site lists an array of high-quality packaged foods imported from France, including traditional sweets like almond-flavored calissons d'Aix and twig-shaped chocolate sarments du Medoc, plus assorted mustards, vinegars and other condiments, pates, dried beans and rice.</p>
+        <p>FOOD STUFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

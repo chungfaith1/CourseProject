@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Making Face-to-Face Time Possible on the PC</title>
+    <meta content="25STAM$05" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="E-Commerce" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="H" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1241643"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BUSINESS TO BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Executives and Management</classifier>
+        <person class="indexing_service">Stamler, Bernard</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Executive</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001025T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE2DB103FF936A15753C1A9669C8B63" item-length="1127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Making Face-to-Face Time Possible on the PC</hl1>
+      </hedline>
+      <byline class="print_byline">By BERNARD STAMLER</byline>
+      <byline class="normalized_byline">Stamler, Bernard</byline>
+      <abstract>
+        <p>Expansion of broadband capacity greatly improves quality of business-to-business teleconferencing on personal computers; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE Internet has revolutionized business people's ability to talk with one another, not just through e-mail messages but also through Web conferences, which allow participants at many sites to share verbal commentary, documents and slides at the same time.</p>
+        <p>But sometimes real-time, face-to-face contact is necessary, something that ''allows people to see each other and their expressions, and that creates an intimacy that a Web conference or telephone call does not,'' said Lewis Ward, a senior research analyst at Collaborative Strategies in San Francisco, a firm that consults on electronic collaborations.</p>
+      </block>
+      <block class="full_text">
+        <p>THE Internet has revolutionized business people's ability to talk with one another, not just through e-mail messages but also through Web conferences, which allow participants at many sites to share verbal commentary, documents and slides at the same time.</p>
+        <p>But sometimes real-time, face-to-face contact is necessary, something that ''allows people to see each other and their expressions, and that creates an intimacy that a Web conference or telephone call does not,'' said Lewis Ward, a senior research analyst at Collaborative Strategies in San Francisco, a firm that consults on electronic collaborations.</p>
+        <p>That kind of contact has simply not been available to users of personal computers, despite years of promises and the availability of Internet videoconference software like CUSeeMe and Microsoft NetMeeting.</p>
+        <p>Though it has been promoted for years as the next ''killer application,'' teleconferencing on desktop computers has had more in common with choppy old Keystone Kops comedies than anything else. So businesses continue to use real in-person meetings, with all their expenses and scheduling difficulties, or, in some cases, older big-camera-in-the-room videoconferencing technology, which is expensive as well as cumbersome.</p>
+        <p>Until now, desktop videoconferencing has been crippled by lack of bandwidth, or data transmission capacity, said Bob O'Donnell, the research director of device technology for IDC, a high-technology research company in Framingham, Mass.</p>
+        <p>''Video packets have been running into data packets,'' he said, adding that this conflict slows things down enough to scramble pictures, crash programs and ''destroy attempts at decent real-time videoconferences.'' As a result, quality has been poor.</p>
+        <p>High-end videoconferencing ''room systems'' do not use Internet protocol, or I.P., but instead use broadband standards that are unavailable to most desktop users.</p>
+        <p>Now that is changing. The availability of broadband capacity has exploded with the laying of fiber-optic cable nationwide. There are also new routers that can keep traffic on the broadband systems where it needs to be, Mr. O'Donnell said. Manufacturers and service providers can now set aside bandwidth earmarked for videoconferencing, creating quasi-private I.P. transmission networks for video. These are separate from the Internet at large but still accessible to desktop users with high-speed Internet connections.</p>
+        <p>As a result, business colleagues using their personal computers can actually see one another in high-quality, live video as they converse. The picture quality is equal to that of conventional, room-size systems.  Web videoconferences are far cheaper to conduct than those that require participants to travel to a single site. Like traditional telephone calls, they can occur without the participants' having to reserve time with a service provider. All that is needed is a computer, an inexpensive camera and high-speed access to the Internet.</p>
+        <p>FVC.COM Inc., of Santa Clara, Calif., is among those at the forefront of the new technology. Formerly known as the First Virtual Corporation, the company has been a provider of I.S.D.N. and asynchronous transfer mode video network systems. Now it has introduced a service called Click to Meet, which allows high-quality videoconferencing over the Internet.</p>
+        <p>According to Mark Cowtan, the firm's director of strategic marketing, there are two versions of Click to Meet: one requires hardware and software; the other is a so-called desktop version called V-Meeting, requiring only software. Both are used over high-bandwidth lines, and are capable of facilitating videoconferences between desktop personal computers and between personal computer users and users of other videoconferencing technology.</p>
+        <p>The company is selling the service in two ways, said Ruth F. Cox, the chief marketing officer. First, to corporations like DaimlerChrysler, which use it on intranets that have bandwidth for videoconferencing; and second, to service providers, who then sell it,  with bandwidth, to their own customers.</p>
+        <p>Qwest is such a service provider, said Ralph Ungermann, the chairman of FVC.COM. Formed by the merger of US West, the Bell telephone company in Denver, and Qwest, the broadband Internet communications company, it recently began to offer a desktop videoconferencing service that combines Click to Meet technology and dedicated broadband service.</p>
+        <p>The service is called QVSB, or Qwest Video Services for Business. QVSB promises ''a complete solution,'' including installation, service and local broadband access, for $380 a month per desktop unit.</p>
+        <p>A similar service, the Glowpoint IP Video Communications Network, is to be offered next month by Wire One Technologies, a videoconferencing services company in Hillsdale, N.J. (The company was formed earlier this year by the merger of All Communications and View Tech.) It consists of a network backbone provided by Exodus Communications and D.S.L. connections to Glowpoint customers provided by Covad Communications.</p>
+        <p>Glowpoint was tested successfully in September, said Kelly Harman, a vice president of marketing at Wire One. Like those of QVSB, its customers will be able to call people inside and outside the network, if  they have the requisite broadband access.  According to Ms. Harman, Glowpoint will be offering subscriptions to customers for as low as $199 a month.</p>
+        <p>Another approach is taken by 1414c, a subsidiary of the PictureTel Corporation of Andover, Mass., which makes videoconferencing equipment. 1414c -- the name refers to the temperature, in degrees Celsius, at which silicon liquefies -- is set to introduce a service similar to FVC's Click to Meet.</p>
+        <p>Called eVideo 3000, it is meant to be offered by broadband service providers in competition with the FVC service and others, said Wayne McAllister, the vice president of worldwide sales and operations. But it has other features, like allowing users to schedule Web conferences with others whose computers will ring like a telephone when a conference begins.</p>
+        <p>All this innovation should result in an explosion in desktop videoconferencing, said Mr. O'Donnell of IDC, provided its quality is good. Mr. O'Donnell has yet to see the new services in action, he said. But FVC, whose system is the only one on the market, said that Advanced TelCom Group, in Santa Rosa, Calif., is using it. ''We've implemented Click to Meet internally,'' said Curt Wheeling, an Advanced TelCom executive, ''and it truly passes the executive test. Meaning that a third grader could use it.''</p>
+        <p>IDC estimates that the number of desktop conferencing units in the United States will increase to more than two million by 2002,  double the figure for 2000.</p>
+        <p>''I know we've heard this all before,'' Mr. O'Donnell said, referring to past promises about desktop videoconferencing. ''But now I think that there's no question that it is finally going to happen.''</p>
+        <p>BUSINESS TO BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

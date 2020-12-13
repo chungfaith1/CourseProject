@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Suspect Has Fatal Seizure</title>
+    <meta content="05DRUG" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1205084"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Drug Abuse and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Cocaine and Crack Cocaine</classifier>
+        <location class="indexing_service">New York City</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cocaine and Crack Cocaine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drug Abuse and Traffic</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E3D7163FF936A35755C0A9669C8B63" item-length="129" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Suspect Has Fatal Seizure</hl1>
+      </hedline>
+      <abstract>
+        <p>New York City police report that man arrested on charges of possessing crack cocaine in Queens had seizure and died while in custody (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A man arrested on charges of possessing crack cocaine in Queens yesterday had a seizure and died while in custody, the police said. The cause of the seizure was unclear; the medical examiner is to determine if the man ingested cocaine, said Officer Cheryl Cox, a police spokeswoman.</p>
+      </block>
+      <block class="full_text">
+        <p>A man arrested on charges of possessing crack cocaine in Queens yesterday had a seizure and died while in custody, the police said. The cause of the seizure was unclear; the medical examiner is to determine if the man ingested cocaine, said Officer Cheryl Cox, a police spokeswoman.</p>
+        <p>The man, whose identity was not known last night, and another man, David Mahabeer, 32, and a woman, Laura Lafata, 34, were arrested at 3:30 p.m. at 134th Street and Rockaway Boulevard in South Ozone Park and charged with drug possession.  The unidentified man was dead on arrival at Mary Immaculate Hospital at 7:20 p.m., Officer Cox said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

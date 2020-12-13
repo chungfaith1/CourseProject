@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Radio-Frequency Tags Could Pierce Some of the Fog of War</title>
+    <meta content="08NEXT$04" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1205626"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WHAT'S NEXT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">Radio</classifier>
+        <org class="indexing_service">Defense Department</org>
+        <org class="indexing_service">Navy Department</org>
+        <person class="indexing_service">Sorid, Daniel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/What's Next</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE5DC123FF93BA35755C0A9669C8B63" item-length="957" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Radio-Frequency Tags Could Pierce Some of the Fog of War</hl1>
+      </hedline>
+      <byline class="print_byline">By DANIEL SORID</byline>
+      <byline class="normalized_byline">Sorid, Daniel</byline>
+      <abstract>
+        <p>Daniel Sordid (What's Next) article discusses development by Navy Department of small communicators called radio-frequency tags, or RF tags, to help armed forces keep track of their vehicles, weapons and personnel; bulkier versions of such tags have been used for several years to keep track of tolls or inventory, by private companies and by the government (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE same kinds of tags that let cars move quickly past tollbooths may soon help the armed forces keep track of their vehicles, weapons and people.</p>
+        <p>''The end game of this,'' said Ron Gilbert, a senior scientist at the Department of Energy's Pacific Northwest National Laboratory, in Richland, Wash., ''is to tag everybody and everything and know what it is, what its status is, and know where it is.''</p>
+      </block>
+      <block class="full_text">
+        <p>THE same kinds of tags that let cars move quickly past tollbooths may soon help the armed forces keep track of their vehicles, weapons and people.</p>
+        <p>''The end game of this,'' said Ron Gilbert, a senior scientist at the Department of Energy's Pacific Northwest National Laboratory, in Richland, Wash., ''is to tag everybody and everything and know what it is, what its status is, and know where it is.''</p>
+        <p>The small rectangular tags respond to radio waves sent by a special transmitter called an interrogator. This is how it works: A soldier operating an interrogator sends a radio signal to a tag placed on an object. A tiny antenna on the tag is stimulated by the signal and sends information about its identity and location to the interrogator.</p>
+        <p>The communicators are called radio-frequency tags, or R.F. tags. Bulkier versions have been used for several years to keep track of tolls or inventory, both by private companies and by the government. But the new tags are being designed to be as small as a few inches long and to be capable of handling more information.</p>
+        <p>The interrogators should be able to find the new tags from as far away as several hundred feet. From that distance, a helicopter flying over a storage container could determine exactly what was inside the unit. The interrogators could also scan several items at once, allowing them to check an entire case of battlefield supplies.</p>
+        <p>Some of the tags will be able to operate without batteries, absorbing and recycling energy from an interrogator's signal. These new tags are expected to have a range of 30 feet, compared with less than 5 feet for the current tags, Mr. Gilbert said.</p>
+        <p>Slightly larger tags that are equipped with small batteries will not only have a greater range -- several hundred feet, Mr. Gilbert said -- but will be able to connect to sensors that can monitor conditions like temperature and humidity.</p>
+        <p>In one application, the new tags might be programmed to keep an object like a pair of night vision goggles disabled until they were scanned. That would deter theft, Mr. Gilbert said. ''Unless you're the right soldier with the right ID code,'' he said, ''we can render the item useless.''</p>
+        <p>The new tags are being prepared for field testing by the Navy. Depending on the outcome of those tests, the tags could be sent back for changes, approved for use or canceled outright.</p>
+        <p>Almost any object could be tagged. In a study by the Defense Department last year, researchers attached tiny tags to honeybees to determine whether the bees could be tracked. The idea is that researchers might someday be able to locate things like land mines by analyzing particles carried back to the hive by each bee and correlating those particles with where the bee had been that day. But the tags were too heavy for the bees and are being redesigned.</p>
+        <p>In the last 10 years, radio-frequency tags have been used in many commercial applications. Railroads, for example, use the tags to keep track of trains. And on many toll roads and bridges, vehicles equipped with special radio-frequency tags, like E-ZPass tags, can move through through tollbooths without stopping. The tag tells an interrogator at the booth to let the car through without sounding an alarm.</p>
+        <p>But as the tags become smaller and able to handle more information, new uses will be possible. One application being developed is an radio-frequency dog tag that could replace the metal identification tags that soldiers wear on chains around their necks. Medics would be able to read information like the soldier's name, age, allergies and blood type from the tag. The Department of Energy laboratory has developed a working prototype and may be ready to produce the tags for the military within two years, Mr. Gilbert said.</p>
+        <p>After treating a wounded soldier on the battlefield, a medic could send a signal that would inscribe on the dog tag the type of medical care the soldier has received.</p>
+        <p>When the soldier arrived at the hospital, Mr. Gilbert said, ''they know who he is, what he does, and what the corpsman did to him in the field.'' Currently, Navy medics, for example, record information about a sailor's injury and treatment on a slip of paper, which can be soiled or misplaced.</p>
+        <p>One problem is that many of the interrogator units to be used with the new tags are the size of toolboxes, Mr. Gilbert said. But Mr. Gilbert said his laboratory might try to convert personal digital assistants for use as radio-frequency interrogators.</p>
+        <p>Mr. Gilbert said the laboratory would probably use something like the Handspring Visor, which has expansion slots that add to the device's capabilities.</p>
+        <p>Petty Officer First Class Michael Stiney, who is helping to evaluate the electronic dog tag at the Naval Aerospace Medical Research Laboratory in Pensacola, Fla., said that a major advantage of the tag was that information about injuries could be sent from the medic's interrogator to a central computer, where patterns could be analyzed. ''If you pick up a certain batch of symptoms in a certain area of conflict, you could diagnose or predict an outbreak of a food-borne illness or a chemical attack,'' he said.</p>
+        <p>WHAT'S NEXT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Not Every Investment Is a Vote of Confidence</title>
+    <meta content="25WATC$01" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1210259"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="MARKET WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <org class="indexing_service">Microstrategy Inc</org>
+        <org class="indexing_service">Promethean Asset Management</org>
+        <person class="indexing_service">Morgenson, Gretchen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Gretchen Morgenson</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000625T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902EFDD1730F936A15755C0A9669C8B63" item-length="663" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Not Every Investment Is a Vote of Confidence</hl1>
+      </hedline>
+      <byline class="print_byline">By GRETCHEN MORGENSON</byline>
+      <byline class="normalized_byline">Morgenson, Gretchen</byline>
+      <abstract>
+        <p>Gretchen Morgenson Market Watch column notes shares of MicroStrategy Inc rose 41 percent on news that it would get financing from an outside investor, but fell 20 percent after Promethean Asset Management invested $125 million convertible preferred stock that will give it 4 percent stake in company; notes preferred investors' interests are counter to those of common stockholders; preferred investors may be content with dividends if stock is rising, but can convert at will, diluting other shareholders' stakes, if stock falls to trigger level; some companies report significant short selling of their stock after such deals; graph (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ON June 9, shares of MicroStrategy Inc. soared 41 percent on talk that the company, a financially troubled software maker, would get financing from outside investors.</p>
+        <p>Last Monday, a group led by Promethean Asset Management invested $125 million in convertible preferred stock that will give it a 4 percent stake in the company. By Friday, MicroStrategy's stock had fallen 20 percent.</p>
+      </block>
+      <block class="full_text">
+        <p>ON June 9, shares of MicroStrategy Inc. soared 41 percent on talk that the company, a financially troubled software maker, would get financing from outside investors.</p>
+        <p>Last Monday, a group led by Promethean Asset Management invested $125 million in convertible preferred stock that will give it a 4 percent stake in the company. By Friday, MicroStrategy's stock had fallen 20 percent.</p>
+        <p>What gives? Investors doing some investigation may be spooked by the details. A handful of companies in similar deals have troubling stories to tell.</p>
+        <p>Last October, RoweCom, an Internet company in Westwood, Mass., raised $20 million from Promethean and other investors. Seven months later, out of concern for shareholders, the company redeemed the securities. Paul Burmeister, RoweCom's chief financial officer, said he would never do another such deal. ''The downside offers too much risk to existing equity holders,'' he said.</p>
+        <p>To be sure, raising money with convertibles gives struggling companies cash they need. Their attraction grows as investors in plain-vanilla stocks get pickier. And they are: witness the 19 percent drop in Amazon.com's stock on Friday.</p>
+        <p>Companies go into these deals hoping to thrive. If the stock goes up, the investors may be content to collect the dividends on their preferred shares. Management has some control over when the private investors can convert their holdings into common stock, and hence over the dilution to existing shareholders.</p>
+        <p>But if the company's stock price falls to a certain level, called a trigger, the investor can convert at will. Then, shareholder dilution gets really nasty, because the lower the stock price, the greater the stake that the investors get in the company. The preferred investors' interests are counter to those of common stockholders.</p>
+        <p>For instance, Proxymed Inc., a health care information services company, raised $15 million in convertible preferred stock with Promethean and other investors last December. When the company's stock fell below the $4.21 trigger price, it offered to redeem the securities for cash. According to the company's proxy statement, one of the investors declined, choosing instead to convert $1.7 million worth into shares of common stock that had fallen to around $1. As a result, the company's shares outstanding rose by 9.4 percent, a big dilution to existing stockholders. Proxymed officials declined to comment.</p>
+        <p>Some companies report significant increases in short-selling of their stocks after such deals. In November 1998, Ariad Pharmaceuticals sold $3 million in convertible preferred stock to investors, including Promethean. The next October, Ariad sued Promethean, contending that the firm manipulated the price of Ariad's stock by selling short its shares after the deal was struck.</p>
+        <p>According to the suit, manipulation drove Ariad's stock from $1.81 to 53 cents a share between June and October 1999. The suit also said that Promethean admitted to Ariad officials that it had conducted ''massive short sales'' of the company's stock. The amount of shares sold short rose from 56,519 to 1.8 million after the preferred deal took place, according to the suit.</p>
+        <p>The suit was settled last January, and neither Ariad nor Promethean officials would comment. But as part of the settlement, Promethean agreed that it would not buy or sell short Ariad securities for four years.</p>
+        <p>The investors in MicroStrategy can convert their shares at any time, at a price that will be determined in the coming weeks. If they are inclined to sell the stock short, there are no provisions in the deal to stop them.</p>
+        <p>Mark S. Lynch, chief financial officer of MicroStrategy, said that the company had done a due diligence review of Promethean and that he was comfortable with the deal.</p>
+        <p>Asked whether Promethean would be inclined to sell MicroStrategy shares short, one partner, James F. O'Brien Jr., said, ''If we ever get concerned with our investment, will we either sell or look to protect ourselves? Sure.'' But, he stressed, the firm is very positive about MicroStrategy.</p>
+        <p>MARKET WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

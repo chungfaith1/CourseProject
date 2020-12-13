@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Farms and Fields Beckon</title>
+    <meta content="18SIDE$01" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208179"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Strawberries</classifier>
+        <location class="indexing_service">Connecticut</location>
+        <person class="indexing_service">Polk, Nancy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fruit</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE3D9133EF93BA25755C0A9669C8B63" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Farms and Fields Beckon</hl1>
+      </hedline>
+      <byline class="print_byline">By NANCY POLK</byline>
+      <byline class="normalized_byline">Polk, Nancy</byline>
+      <abstract>
+        <p>Partial list of pick-your-own strawberry fields in Connecticut; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>STRAWBERRY fields can be found in every county in Connecticut.</p>
+        <p>To get a complete list of the pick-your-own farms, visit the State Department of Agriculture Web site at www.state.ct. us/doag/ or send a self-addressed stamped No. 10 envelope to the Department of Agriculture, Marketing Division, 765 Asylum Avenue, Hartford 06106.</p>
+      </block>
+      <block class="full_text">
+        <p>STRAWBERRY fields can be found in every county in Connecticut.</p>
+        <p>To get a complete list of the pick-your-own farms, visit the State Department of Agriculture Web site at www.state.ct. us/doag/ or send a self-addressed stamped No. 10 envelope to the Department of Agriculture, Marketing Division, 765 Asylum Avenue, Hartford 06106.</p>
+        <p>Here is a sampling of some of the state's pick-your-own strawberry farms.</p>
+        <p>It is a good idea to call to find out the hours a farm is open, and what's available. It's also wise to check the weather and dress appropriately.</p>
+        <p>BISHOP'S ORCHARDS  1355 Boston Post Road  Guilford  (203) 453-2338 store  (203) 458-PICK  www.bishopsorchards.com</p>
+        <p>DZEN FARM  244 Barber Hill Road  South Windsor  (860) 644-4575</p>
+        <p>HINDINGER FARM  810 Dunbar Hill Road, Hamden  (203) 288-0700</p>
+        <p>JONES TREE FARM  Route 110 and Israel Hill Road  Shelton  (203) 929-8425  www.jonesfamilyfarms.com</p>
+        <p>LYMAN ORCHARDS  Jct. 147 and 157, Middlefield  (860) 349-1793  www.lymanorchards.com</p>
+        <p>ROSE'S BERRY FARM  295 Matson Hill Road  South Glastonbury  (860) 633-7467  1200 Hebron Avenue  Glastonbury  www.rosesberryfarm.com</p>
+        <p>NANCY POLK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

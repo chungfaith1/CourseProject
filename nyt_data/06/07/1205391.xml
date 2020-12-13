@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OFF THE MENU</title>
+    <meta content="07OFF.$01" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1205391"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Roc Restaurant (NYC)</org>
+        <org class="indexing_service">Lotus (NYC Restaurant)</org>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Off the Menu</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E7DB143FF934A35755C0A9669C8B63" item-length="237" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OFF THE MENU</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <abstract>
+        <p>New restaurants in New York City include Lotus on West 14th Street and Roc Restaurant in TriBeCa (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Club Looks East</p>
+        <p>Lotus, a three-story supper club and lounge in the meatpacking district, opens tomorrow at 409 West 14th Street. In the dining room, Richard Farnabe, formerly of Mercer Kitchen, is offering a Mediterranean menu that hints at Asia with dishes like turmeric-roasted loin of lamb. There is a $20 cover charge for those who skip dinner and go straight for the dancing or cabaret.</p>
+        <p>Vongerichten, Again</p>
+        <p>Next on the agenda for Jean-Georges Vongerichten will be a restaurant at 66 Leonard Street (Church Street) in a landmark building designed by Henry J. Hardenbergh, the architect of the Plaza Hotel. The concept has not been decided.</p>
+      </block>
+      <block class="full_text">
+        <p>A Club Looks East</p>
+        <p>Lotus, a three-story supper club and lounge in the meatpacking district, opens tomorrow at 409 West 14th Street. In the dining room, Richard Farnabe, formerly of Mercer Kitchen, is offering a Mediterranean menu that hints at Asia with dishes like turmeric-roasted loin of lamb. There is a $20 cover charge for those who skip dinner and go straight for the dancing or cabaret.</p>
+        <p>Vongerichten, Again</p>
+        <p>Next on the agenda for Jean-Georges Vongerichten will be a restaurant at 66 Leonard Street (Church Street) in a landmark building designed by Henry J. Hardenbergh, the architect of the Plaza Hotel. The concept has not been decided.</p>
+        <p>TriBeCa Seafood</p>
+        <p>Elio Guaitolini, the owner of Elio's and other uptown neighborhood spots, has opened a TriBeCa outpost with Rocco Cadolini called Roc Restaurant, at 190A Duane Street (Greenwich Street). The menu features Italian seafood.</p>
+        <p>Chefs on the Move</p>
+        <p>Wayne Brachman, the executive pastry chef for Tapika, Michael Jordan's Steak House and the coming Strip House, came from Mesa Grill.</p>
+        <p>Jacques Qualin, now at Jean Georges, will be the new chef at Le Perigord, 405 East 52nd Street. Pascal Coudouy is leaving in two weeks for the Hyatt in Beaver Creek, Colo.</p>
+        <p>Off the Menu  Florence Fabricant</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

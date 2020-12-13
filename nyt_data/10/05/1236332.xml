@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR031449" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1236332"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2000</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Debating</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <location class="indexing_service">West Chester (Pa)</location>
+        <person class="indexing_service">Flaherty, Pete (Mayor)</person>
+        <person class="indexing_service">Bush, George W (Gov)</person>
+        <person class="indexing_service">Gore, Al (Vice Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Debating</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2000</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2000</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001005T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E7DD163CF936A35753C1A9669C8B63" item-length="102" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Oct 4 article, which referred imprecisely to Pittsburgh Mayor Pete Flaherty's comments on presidential debate and misstated location of West Chester, Pa, which is in Chester County</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A news analysis article yesterday about the performances of Vice President Al Gore and Gov. George W. Bush of Texas in their first debate referred imprecisely in some copies to a criticism of the candidates. The observation that they took ''too much time niggling over details'' was a paraphrase of comments by former Mayor Pete Flaherty of Pittsburgh, not a quotation.</p>
+        <p>In some copies the article misstated the location of West Chester, Pa., where Mr. Bush campaigned yesterday. It is in Chester County, not Montgomery.</p>
+      </block>
+      <block class="full_text">
+        <p>A news analysis article yesterday about the performances of Vice President Al Gore and Gov. George W. Bush of Texas in their first debate referred imprecisely in some copies to a criticism of the candidates. The observation that they took ''too much time niggling over details'' was a paraphrase of comments by former Mayor Pete Flaherty of Pittsburgh, not a quotation.</p>
+        <p>In some copies the article misstated the location of West Chester, Pa., where Mr. Bush campaigned yesterday. It is in Chester County, not Montgomery.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

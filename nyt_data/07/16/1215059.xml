@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Children's Books</title>
+    <meta content="RV083421" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215059"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Zarin, Cynthia</person>
+        <person class="indexing_service">Pomerantz, Charlotte</person>
+        <object.title class="indexing_service">Birthday Letters, The (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Columns/Children's Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE1D81638F935A25754C0A9669C8B63" item-length="330" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Children's Books</hl1>
+      </hedline>
+      <byline class="print_byline">By Cynthia Zarin</byline>
+      <byline class="normalized_byline">Zarin, Cynthia</byline>
+      <abstract>
+        <p>Cynthia Zarin reviews book The Birthday Letters by Charlotte Pomerantz (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE BIRTHDAY LETTERS</p>
+        <p>By Charlotte Pomerantz.</p>
+        <p>Illustrated by JoAnn Adinolfi.</p>
+        <p>Greenwillow, $15.95. (Ages 4 to 8)</p>
+      </block>
+      <block class="full_text">
+        <p>THE BIRTHDAY LETTERS</p>
+        <p>By Charlotte Pomerantz.</p>
+        <p>Illustrated by JoAnn Adinolfi.</p>
+        <p>Greenwillow, $15.95. (Ages 4 to 8)</p>
+        <p>The title of this engaging picture book is unfortunate. Only a few years ago, the British poet Ted Hughes published a collection of his poems about his marriage to Sylvia Plath under the same name. Grown-up readers will be relieved to know that this book is considerably more lighthearted.</p>
+        <p>Tom, a straight-ahead fellow who looks to be about 9, decides to give a birthday party for his dog, Louie. Guests will be his downstairs neighbors: Lily, Pedro and Pedro's little sister, Emilia. Invitations are sent out under Louie's name and are quickly accepted, but when Tom finds out from Emilia's reply that she plans to bring along her pet gerbils, a ruckus ensues: gerbils give Tom the willies. He rejects this addition to the guest list. Emilia calls him a potato-head, and Tom bans her too.</p>
+        <p>The whole affair becomes an exercise in bad temper. Terse letters fly between the floors, and on their wings a few questions flap behind. Where are the parents? Tom's are behind the suggestion that the invitations come from Louie himself, but they're nowhere to be seen when the going gets rough. And why doesn't Pedro stand up for Emilia? Finally, we're told Emilia is 5 years old (Pedro has to write her notes for her), but her demeanor suggests she's at least 7. She arrives at Louie's party and, in the tradition of the uninvited guest, steals the show (she's hidden a steak bone for Louie in her party dress). Whatever her age, Emilia, full of sass and gumption, has the best part, and it would be fun to see her again.</p>
+        <p>JoAnn Adinolfi's rather flat but cheery illustrations tip their collective party hat to the inimitable Maira Kalman.</p>
+        <p>Cynthia Zarin</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

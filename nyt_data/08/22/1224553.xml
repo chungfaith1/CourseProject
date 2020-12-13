@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CUT-RATE DATA SERVICES</title>
+    <meta content="MB002211" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1224553"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY BRIEFING: INTERNET"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <org class="indexing_service">Verisign Inc</org>
+        <org class="indexing_service">Slam Dunk Networks</org>
+        <person class="indexing_service">Feder, Barnaby J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000822T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E7DF1F3EF931A1575BC0A9669C8B63" item-length="177" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CUT-RATE DATA SERVICES</hl1>
+      </hedline>
+      <byline class="print_byline">By Barnaby Feder</byline>
+      <byline class="normalized_byline">Feder, Barnaby J</byline>
+      <abstract>
+        <p>VeriSign, leading provider of encrypted messaging and payment services on Internet, and Slam Dunk Networks, which manages business-to-business communications on Internet, will offer service that will provide security and speed in handling data previously available only on private or specialized networks (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>VeriSign, a leading provider of encrypted messaging and payment services on the Internet, and Slam Dunk Networks, which manages business-to-business communications on the Internet, said that they would offer a service starting in October that would provide security and speed in handling data previously available only on private or specialized networks. The two Silicon Valley companies plan to charge 0.5 cent to 2 cents for each kilobyte of information handled, compared with services that now cost up to 32 cents a kilobyte. The service could speed the migration of electronic business transactions from private networks to the public Internet.</p>
+        <p>Barnaby Feder (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>VeriSign, a leading provider of encrypted messaging and payment services on the Internet, and Slam Dunk Networks, which manages business-to-business communications on the Internet, said that they would offer a service starting in October that would provide security and speed in handling data previously available only on private or specialized networks. The two Silicon Valley companies plan to charge 0.5 cent to 2 cents for each kilobyte of information handled, compared with services that now cost up to 32 cents a kilobyte. The service could speed the migration of electronic business transactions from private networks to the public Internet.</p>
+        <p>Barnaby Feder (NYT)</p>
+        <p>TECHNOLOGY BRIEFING: INTERNET</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

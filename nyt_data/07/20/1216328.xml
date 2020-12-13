@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Information by Design</title>
+    <meta content="LTR232732" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1216328"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Graphic Arts</classifier>
+        <person class="indexing_service">sandhaus, louise</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000720T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E0DA1F3BF933A15754C0A9669C8B63" item-length="145" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Information by Design</hl1>
+      </hedline>
+      <abstract>
+        <p>Louise Sandhaus letter comments on difference between computer graphic designers and so-called 'information architects' (July 13 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Building a Better Web With Content Blueprints'' (July 13): Colin Furness's description of the distinctions between graphic designers and so-called ''information architects'' is a bit simplistic, although he is not alone in his lack of knowledge concerning graphic design.</p>
+        <p>While I do admit that there are many ''graphics designers'' who, as Mr. Furness says, simply ''decide what the window will look like,'' that does not adequately represent the contribution of many educated professional graphic designers.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Building a Better Web With Content Blueprints'' (July 13): Colin Furness's description of the distinctions between graphic designers and so-called ''information architects'' is a bit simplistic, although he is not alone in his lack of knowledge concerning graphic design.</p>
+        <p>While I do admit that there are many ''graphics designers'' who, as Mr. Furness says, simply ''decide what the window will look like,'' that does not adequately represent the contribution of many educated professional graphic designers.</p>
+        <p>Both the visual characteristics and structure of content must be simultaneously considered. Graphic designers, or at least the ones I know, understand the principles of syntax and semantics that users depend for a consistent visual language.</p>
+        <p>LOUISE SANDHAUS  Los Angeles</p>
+        <p>The writer is a co-director of the graphic design program at the California Institute of the Arts and a principal at Durfee Regn Sandhaus.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Delight for All but Dagwood</title>
+    <meta content="27TOGO$02" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/27/living/27TOGO.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1234000"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TO GO"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <org class="indexing_service">Mangiarini (NYC Restaurant)</org>
+        <person class="indexing_service">Asimov, Eric</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000927T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE4DA123AF934A1575AC0A9669C8B63" item-length="342" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Delight for All but Dagwood</hl1>
+      </hedline>
+      <byline class="print_byline">By Eric Asimov</byline>
+      <byline class="normalized_byline">Asimov, Eric</byline>
+      <abstract>
+        <p>Eric Asimov describes take-out possibilities at Mangiarini, vest-pocket restaurant on Upper East Side; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FOR such ordinary things, sandwiches are awfully hard to get right. Chief among the sandwich-making sins is the impulse that drives chefs to pile on more and different ingredients in an effort to create their own masterpieces. But sandwiches rarely work as Jackson Pollocks; the simplicity of a Mark Rothko is far more often the ideal.</p>
+        <p>At Mangiarini, a stylish vest-pocket restaurant that opened a few weeks ago on the Upper East Side, I tasted an exquisitely simple sandwich that put to shame those fancy constructions with their truffle oils and chili-flavored mayonnaises. Just three ingredients -- a chicken breast, properly seasoned and grilled, along with roasted tomatoes and black olives crushed into a paste -- layered between slices of grilled country bread ($9) are required to achieve harmony and excellence, and the kitchen decided wisely to let well enough alone.</p>
+      </block>
+      <block class="full_text">
+        <p>FOR such ordinary things, sandwiches are awfully hard to get right. Chief among the sandwich-making sins is the impulse that drives chefs to pile on more and different ingredients in an effort to create their own masterpieces. But sandwiches rarely work as Jackson Pollocks; the simplicity of a Mark Rothko is far more often the ideal.</p>
+        <p>At Mangiarini, a stylish vest-pocket restaurant that opened a few weeks ago on the Upper East Side, I tasted an exquisitely simple sandwich that put to shame those fancy constructions with their truffle oils and chili-flavored mayonnaises. Just three ingredients -- a chicken breast, properly seasoned and grilled, along with roasted tomatoes and black olives crushed into a paste -- layered between slices of grilled country bread ($9) are required to achieve harmony and excellence, and the kitchen decided wisely to let well enough alone.</p>
+        <p>Restraint is a hallmark at Mangiarini, whose owner, Stephen Latargia, used to manage Gigino in TriBeCa. The narrow dining room is blessedly uncluttered -- more downtown than uptown in looks -- yet is still so small that takeout is a welcome option. Mangiarini's veal ragu ($11), which travels especially well, is made Tuscan style, with little tomato but plenty of ground meat, herbs and porcini. The mushrooms are an excellent addition, providing not only concentrated porcini flavor but a chewy texture that make a perfect counterpoint to the soft, wide pappardelle.</p>
+        <p>Other options include orecchiette with savory crumbled sausage and cherry tomatoes ($11), and well-charred steak, sliced thin and served over arugula ($19). Skip dessert if you must, but you'll miss out on a delicious banana bread pudding ($5) in a caramel sauce laden with cinnamon.</p>
+        <p>Mangiarini, 1593 Second Avenue, near 83rd Street; (212) 734-5500. Delivery: 72nd to 96th Street, Fifth Avenue to East River.</p>
+        <p>TO GO</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>About the Tables</title>
+    <meta content="Y05EXPL" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Corrections; Editors' Notes; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/05/business/05EXPL.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1236156"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editors' Note</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Editors' Notes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001005T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE1D71E3DF936A35753C1A9669C8B63" item-length="206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>About the Tables</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Business Day is including a second section, World Business (Section W), on Tuesdays through Fridays through Dec. 29. That section consists of international business news as well as the tables for the United States exchanges plus preferred stocks.</p>
+        <p>The shift creates space for The Times's other sections to print news about the election campaigns and the resulting political changes at the busiest time of year in sports, arts and entertainment -- all while accommodating holiday-season advertising.</p>
+        <p>The first part of Business Day continues to carry most business news and tables for mutual funds, late stock trading, stock market indexes, foreign stocks, futures, options and other trading. On Saturdays, all tables will appear in a single-section Business Day.</p>
+        <p>Comments about the changes may be e-mailed to tables@nytimes.com or telephoned to (212) 556-7648.</p>
+      </block>
+      <block class="full_text">
+        <p>Business Day is including a second section, World Business (Section W), on Tuesdays through Fridays through Dec. 29. That section consists of international business news as well as the tables for the United States exchanges plus preferred stocks.</p>
+        <p>The shift creates space for The Times's other sections to print news about the election campaigns and the resulting political changes at the busiest time of year in sports, arts and entertainment -- all while accommodating holiday-season advertising.</p>
+        <p>The first part of Business Day continues to carry most business news and tables for mutual funds, late stock trading, stock market indexes, foreign stocks, futures, options and other trading. On Saturdays, all tables will appear in a single-section Business Day.</p>
+        <p>Comments about the changes may be e-mailed to tables@nytimes.com or telephoned to (212) 556-7648.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

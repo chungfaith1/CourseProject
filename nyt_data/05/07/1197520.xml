@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>RIVERFRONT CLEANUP</title>
+    <meta content="MB020504" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1197520"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="IN BRIEF: ENVIRONMENT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Water Pollution</classifier>
+        <location class="indexing_service">Hudson River</location>
+        <person class="indexing_service">Worth, Robert</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000507T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE1DC1738F934A35756C0A9669C8B63" item-length="118" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>RIVERFRONT CLEANUP</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERT WORTH</byline>
+      <byline class="normalized_byline">Worth, Robert</byline>
+      <abstract>
+        <p>Volunteers collect more than 20,000 pounds of garbage during first weekend of third annual Great Riversweep involving 100 Hudson River communities (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Scenic Hudson's third annual nine-day Great River sweep ends today, after 125 cleanups in more than 100 Hudson River communities. In the event's first weekend, volunteers collected more than 20,000 pounds of garbage from the riverfront. Groups taking part range from 5 to 200 people. Several communities, including Beacon, organized celebrations with the folk singer Pete Seeger performing a song called ''Garbage.'' Along with conventional trash items, volunteers found old appliances, toasters, microwaves, typewriters and a bottle of teeth.</p>
+        <p>ROBERT WORTH</p>
+      </block>
+      <block class="full_text">
+        <p>Scenic Hudson's third annual nine-day Great River sweep ends today, after 125 cleanups in more than 100 Hudson River communities. In the event's first weekend, volunteers collected more than 20,000 pounds of garbage from the riverfront. Groups taking part range from 5 to 200 people. Several communities, including Beacon, organized celebrations with the folk singer Pete Seeger performing a song called ''Garbage.'' Along with conventional trash items, volunteers found old appliances, toasters, microwaves, typewriters and a bottle of teeth.</p>
+        <p>ROBERT WORTH</p>
+        <p>IN BRIEF: ENVIRONMENT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

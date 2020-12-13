@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Museum Getting a Faster Way To Detect When Stars Collide</title>
+    <meta content="25STAR$03" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1202126"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">American Museum of Natural History (NYC)</org>
+        <person class="indexing_service">Fountain, Henry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000525T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE0D7173DF936A15756C0A9669C8B63" item-length="718" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Museum Getting a Faster Way To Detect When Stars Collide</hl1>
+      </hedline>
+      <byline class="print_byline">By HENRY FOUNTAIN</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+      <abstract>
+        <p>Astrophysicists at American Museum of Natural History in New York will receive latest version of Grape6, specialized processor that can perform only one kind of operation--calculating gravitational attraction between two celestial bodies (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>COMPUTER-game players know that a graphics card is a necessity to give a game a realistic look.</p>
+        <p>Astrophysicists who study the behavior of globular star clusters -- dense masses of a million or so stars that are scattered through galaxies like so many lumps in a heap of mashed potatoes -- need a graphics card of their own.</p>
+      </block>
+      <block class="full_text">
+        <p>COMPUTER-game players know that a graphics card is a necessity to give a game a realistic look.</p>
+        <p>Astrophysicists who study the behavior of globular star clusters -- dense masses of a million or so stars that are scattered through galaxies like so many lumps in a heap of mashed potatoes -- need a graphics card of their own.</p>
+        <p>But rather than shaping the contours of Lara Croft's face, their card must calculate the gravitational interactions among all the stars in the cluster. It is a daunting proposition. To make such a calculation for any point in time requires on the order of a million million individual operations.</p>
+        <p>Such a card exists, and next week the astrophysicists at the American Museum of Natural History in New York will receive the latest version.</p>
+        <p>Known as Grape6, the card is a specialized processor that can perform only one kind of operation -- calculating the gravitational attraction between two bodies. It can do this work at a speed of about half a teraflop, or half a trillion floating point operations, per second.</p>
+        <p>That makes it among the faster computers in the world even though, unlike a general-purpose computer, it is of no use to anyone outside of astrophysics.</p>
+        <p>Those limits are part of the machine's beauty, said one of its designers, Piet Hut, a professor of astrophysics at the Institute for Advanced Study in Princeton, N.J.</p>
+        <p>''Of course it can do only one thing,'' Dr. Hut said, ''but it is exactly the thing you want it to do.''</p>
+        <p>Grape (which is short for ''gravity pipeline'') originated about 15 years ago, when Dr. Hut was hanging out, as he described it, with computer scientists at the Massachusetts Institute of Technology.</p>
+        <p>One of the scientists, Gerald Sussman, had created a special-purpose machine to calculate the evolution of the solar system. Dr. Hut thought the same concept could be applied to star clusters.</p>
+        <p>But a computer used to calculate star clusters would need to be much faster than a solar system machine (the solar system, after all, only has 10 bodies, not a million, and at 4.5 billion years old is less than half the age of the typical cluster).</p>
+        <p>So with the help of a Japanese graduate student, Jun Makino, Dr. Hut set out to design a special-purpose chip. ''It was a gravity card, so to speak,'' he said, ''that would set Newtonian calculations in silicon and let the data stream through it.''</p>
+        <p>Their first board, developed like the others at the University of Tokyo, had a peak speed of about 240 megaflops. They broke the gigaflop barrier in 1991 with Grape3, and speed increases have continued since.</p>
+        <p>The Grape6 board that is being donated to the natural history museum is among the first of several hundred that are being produced by Toshiba in collaboration with I.B.M. Japan.</p>
+        <p>Sometime next year, about 200 boards will be combined at the University of Tokyo to make a machine with a speed of 200 teraflops.</p>
+        <p>The museum has been promised computing time on that machine, but in the meantime will use the board, which is about a foot square and connects to a regular, though rather powerful, PC, in its studies of what happens when stars in a cluster collide. (The board is being donated during a conference on stellar collisions at the museum's Rose Center for Earth and Space.)</p>
+        <p>''When you have a million stars whizzing around, some of them run into each other,'' said Michael Shara, curator and chairman of the department of astrophysics. ''And near misses are just as important as collisions.''</p>
+        <p>Like the brute that it is, the board just provides raw data for this kind of work. ''All the Grape does is let you calculate where the star is, how fast it's moving,'' Dr. Shara said.</p>
+        <p>From that data, it becomes clear that two stars will pass near each other, or collide. ''Then you take a completely different computer and study what happens to the stars,'' he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

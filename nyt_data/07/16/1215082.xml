@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Letters From the Web</title>
+    <meta content="LTR090028" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215082"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <classifier class="indexing_service" type="descriptor">Discrimination</classifier>
+        <person class="indexing_service">Turner, Karen</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE1D61338F935A25754C0A9669C8B63" item-length="106" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Letters From the Web</hl1>
+      </hedline>
+      <abstract>
+        <p>Karen Turner, responding to Web site questionnaire about race relations in America, says she was taught in childhood to be fear black people2</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>My childhood did not prepare me to mix with people of other races; in fact it hurt me. I thought my innards would explode just interacting on a human level with black people. It didn't matter who they were -- a housecleaner, a student, a computer programmer -- all that mattered was that they were black. I was convinced that the person I was interacting with could see right through me to my ugly, hypocritical core.</p>
+        <p>Karen Turner  White, 33  Newmarket, N.H.</p>
+      </block>
+      <block class="full_text">
+        <p>My childhood did not prepare me to mix with people of other races; in fact it hurt me. I thought my innards would explode just interacting on a human level with black people. It didn't matter who they were -- a housecleaner, a student, a computer programmer -- all that mattered was that they were black. I was convinced that the person I was interacting with could see right through me to my ugly, hypocritical core.</p>
+        <p>Karen Turner  White, 33  Newmarket, N.H.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

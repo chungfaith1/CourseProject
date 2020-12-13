@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Poor Among Us</title>
+    <meta content="L28POO$01" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225951"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Minimum Wage</classifier>
+        <org class="indexing_service">Partnership for the Homeless</org>
+        <person class="indexing_service">Cohen, Arnold S</person>
+        <person class="indexing_service">Herbert, Bob</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Minimum Wage</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wages and Salaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000828T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902EED91331F93BA1575BC0A9669C8B63" item-length="156" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Poor Among Us</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Arnold S Cohen (Partnership for the Homeless) says minimum wage increase is only one of several reforms needed by the nation's poor (Aug 21 Bob Herbert column)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Bob Herbert did not have to travel to Los Angeles to find a working poor family in the grip of stifling poverty (column, Aug. 21). Walk into any homeless shelter here in New York City, and you'll find men and women working at low-wage jobs, unable to afford rents in this booming economy.  Walk into a city hospital's emergency room, and you'll see working families without health insurance relying on the hospital for their primary care.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Bob Herbert did not have to travel to Los Angeles to find a working poor family in the grip of stifling poverty (column, Aug. 21). Walk into any homeless shelter here in New York City, and you'll find men and women working at low-wage jobs, unable to afford rents in this booming economy.  Walk into a city hospital's emergency room, and you'll see working families without health insurance relying on the hospital for their primary care.</p>
+        <p>A minimum-wage increase is only one part of the equation. We also need welfare reform that doesn't rely on make-work programs but instead offers people an opportunity for real skill-building and jobs that provide a ladder up. Universal health care is essential, as is a commitment to the construction of affordable housing.</p>
+        <p>ARNOLD S. COHEN  Pres., Partnership for the Homeless  New York, Aug. 21, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

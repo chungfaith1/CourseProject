@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="24QNA.$01" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/24/science/24QNA.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1241363"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Crickets</classifier>
+        <classifier class="indexing_service" type="descriptor">Temperature</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Temperature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001024T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400EFDE1731F937A15753C1A9669C8B63" item-length="301" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Answer to reader's query about link between crickets' chirping and temperature drops in the fall</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Cricket Thermometers</p>
+        <p>Q.  Do crickets chirp more slowly as the temperature drops in the fall?</p>
+        <p>A.  In some species of cricket, the number of chirps per minute used by the male to attract females rises and falls along with the outside temperature, and can in fact be used as a rough thermometer.</p>
+      </block>
+      <block class="full_text">
+        <p>Cricket Thermometers</p>
+        <p>Q.  Do crickets chirp more slowly as the temperature drops in the fall?</p>
+        <p>A.  In some species of cricket, the number of chirps per minute used by the male to attract females rises and falls along with the outside temperature, and can in fact be used as a rough thermometer.</p>
+        <p>Since insects are small, with a high surface-to-volume ratio, and cold-blooded and have relatively slow metabolisms unless they are exerting themselves, their temperatures reflect the outside temperature. Muscular activities like chirping tend to vary with that temperature.</p>
+        <p>The formulas for determining the surrounding temperature depend on counting the chirps in a certain number of seconds, usually 13 to 15, and adding a constant number, usually from 37 to 40. The most carefully studied species for this purpose is the widely distributed snowy tree cricket, Oecanthus fultoni Walker.</p>
+        <p>Scientists have determined that by counting how often it chirps in 15 seconds and adding 40, a consistent approximation of the temperature in degrees Fahrenheit can be obtained.</p>
+        <p>Each species makes a different sound, and the chirping speed varies between species as well as the effect of temperature. There are silent crickets among the 3,000 or so known species (they use scent to attract mates) and even a few katydids that chirp faster to warm themselves up.</p>
+        <p>C. CLAIBORNE RAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

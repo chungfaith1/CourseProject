@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV100053" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225443"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Saint Louis, Catherine</person>
+        <person class="indexing_service">Plant, Sadie</person>
+        <object.title class="indexing_service">Writing On Drugs (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000827T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901EED9153EF934A1575BC0A9669C8B63" item-length="350" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Catherine Saint Louis</byline>
+      <byline class="normalized_byline">Saint Louis, Catherine</byline>
+      <abstract>
+        <p>Catherine Saint Louis reviews book Writing On Drugs by Sadie Plant (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Writing on Drugs</p>
+        <p>By Sadie Plant.</p>
+        <p>Farrar, Straus &amp; Giroux, $24.</p>
+      </block>
+      <block class="full_text">
+        <p>Writing on Drugs</p>
+        <p>By Sadie Plant.</p>
+        <p>Farrar, Straus &amp; Giroux, $24.</p>
+        <p>The writers Sadie Plant discusses in ''Writing on Drugs,'' like Thomas De Quincey and Charles Baudelaire, were not just looking to get high. They wanted to experience that ''certain indescribable feeling'' and capture it on paper. Plant quotes so extensively that her book reads like a collection of trippy musings from prominent writers and scientists. It is also packed with fascinating details from 200 years of psychotropic exploration. Plant reminds us that drugs were first marketed with ''indiscriminate enthusiasm'' by pharmaceutical companies like Bayer, which claimed that heroin was a ''nonaddictive substitute for morphine.'' But her attempt to demonstrate that drugs have ''exerted an influence that extends far beyond their users'' is hardly new, even if her scope, from the renowned powers of opium and hashish to the lesser-known ones of ergot and peyote, is remarkable. In her final chapters, Plant asserts the ''absurdity of any war on drugs,'' considering that the human nervous system has ''its own opiates, its own cocaine, its own version of every psychoactive compound that can affect the brain.'' Plant, the author of ''Zeros + Ones: Digital Women and the New Technoculture,'' is engaging as she moves nimbly from the opiated visions in Wilkie Collins's novels to the chemical warfare of plants. All too often, however, she overstates her thesis, as when she declares, ''All writers on drugs become ghostwriters for their drugs'' or speculates about the ''gross errors of judgment'' John F. Kennedy and Winston Churchill may have committed while taking amphetamines during political crises. Plant sometimes lets her enthusiasm for her intoxicating subject get the best of her.</p>
+        <p>Catherine Saint Louis</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

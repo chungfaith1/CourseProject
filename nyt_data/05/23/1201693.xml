@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rotten Fish</title>
+    <meta content="23QNA.$01" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201693"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q&amp;A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Odors</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Odors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000523T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E6D81E3AF930A15756C0A9669C8B63" item-length="321" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rotten Fish</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Answer to reader's question on the stink-producing properties of fish; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. Why does fish start smelling awful in the garbage pail so much sooner than meat does?</p>
+        <p>A. Fish contains quite a bit of a substance that gives rise to two chemicals that make the rotten-fish smell, while red meat has hardly any, said Dr. Joseph H. Hotchkiss, a professor of food science at Cornell University.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. Why does fish start smelling awful in the garbage pail so much sooner than meat does?</p>
+        <p>A. Fish contains quite a bit of a substance that gives rise to two chemicals that make the rotten-fish smell, while red meat has hardly any, said Dr. Joseph H. Hotchkiss, a professor of food science at Cornell University.</p>
+        <p>The two chemicals are trimethylamine and dimethylamine, both derived from trimethylamine oxide, which is particularly common in the flesh of fin fish, especially cold-water, surface-dwelling ocean fish like the cod. Ocean fish start to smell faster than, say, catfish, Dr. Hotchkiss said.</p>
+        <p>When the fish is killed and exposed to the action of air, its own enzymes and bacteria, Dr. Hotchkiss explained, that causes the trimethylamine oxide to undergo a chemical process called carboxylation. The products are amines, which are volatile and quite odoriferous.</p>
+        <p>Fish dealers test for the amount of amines to determine how fresh fish is, ''and the consumer's nose knows, too,'' Dr. Hotckiss said. ''But those who do not eat fish find it more objectionable than others.</p>
+        <p>''When I pass around a vial with the chemicals that cause fish to stink in a beginning food science class, the reactions differ,'' Dr. Hotchkiss said. ''Students from inland northern countries find it obnoxious; those from southern marine areas, with different cultural backgrounds and food habits, find it much less offensive.''</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Readers are invited to submit questions by mail to Question, Science Times, The New York Times, 229 West 43rd Street, New York, N.Y. 10036-3959, or by e-mail to question@nytimes.com.</p>
+        <p>Q&amp;A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

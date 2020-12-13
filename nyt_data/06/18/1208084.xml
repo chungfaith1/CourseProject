@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Children's Books</title>
+    <meta content="RV070908" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208084"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Veale, Scott</person>
+        <person class="indexing_service">LaMarche, Jim</person>
+        <object.title class="indexing_service">Raft, The (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Columns/Children's Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E7D7113FF93BA25755C0A9669C8B63" item-length="339" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Children's Books</hl1>
+      </hedline>
+      <byline class="print_byline">By Scott Veale</byline>
+      <byline class="normalized_byline">Veale, Scott</byline>
+      <abstract>
+        <p>Scott Veale reviews book The Raft by Jim LaMarche (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Raft</p>
+        <p>Written and illustrated</p>
+        <p>by Jim LaMarche.</p>
+        <p>HarperCollins, $15.95.</p>
+        <p>(Ages 6 and up)</p>
+      </block>
+      <block class="full_text">
+        <p>The Raft</p>
+        <p>Written and illustrated</p>
+        <p>by Jim LaMarche.</p>
+        <p>HarperCollins, $15.95.</p>
+        <p>(Ages 6 and up)</p>
+        <p>A little boy named Nicky is sent to spend the summer with his grandmother, a self-proclaimed ''river rat'' who lives deep in the Wisconsin woods. He's not thrilled at the prospect, but brightens up once he discovers a raft, covered with leaves and branches, drifting slowly down the river. It's filled with mysterious drawings of rabbits, raccoons and other forest animals, and when he pushes off the next morning with his grandmother on board, the birds swoop around the raft and a secret, wild world starts to unfold around him.</p>
+        <p>Before long, he's peering through the brush at a family of foxes, watching otters chase fish sleeping on the raft at night and glimpsing a huge buck in the moonlight. Most important, he learns to sketch the wildlife that visits him, starting with a blue heron eating a crayfish. On the last day of his idyllic summer, after rescuing a fawn that was stuck in the mud, Nicky pulls a crayon from his pocket and draws the deer on the faded boards of the raft.</p>
+        <p>His grandmother, whose quiet wisdom has clearly been steering Nicky all along, helps him trace the drawing in oil paint: ''That'll keep it,'' she says. ''Now you'll always be part of the river.''</p>
+        <p>There's more than a little wistful autobiography in ''The Raft,'' the first story written by Jim LaMarche, whose illustrations for other children's books have been lavishly praised. His richly observed, luminous watercolors are in perfect balance with the text, whether capturing the dappled quality of light among trees, the softness and long shadows of afternoon sunlight or the muted tones of the fog-layered river at sunset. All of which lend a slightly mystical bent and an understated sweetness to this gentle tale of a boy's artistic awakening.</p>
+        <p>Scott Veale</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

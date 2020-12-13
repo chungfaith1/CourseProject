@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV091537" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1206268"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Newman, Judith</person>
+        <person class="indexing_service">Greaves, Mel</person>
+        <object.title class="indexing_service">Cancer: The Evolutionary Legacy (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE7DF133CF932A25755C0A9669C8B63" item-length="349" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Judith Newman</byline>
+      <byline class="normalized_byline">Newman, Judith</byline>
+      <abstract>
+        <p>Books</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Cancer</p>
+        <p>The Evolutionary Legacy.</p>
+        <p>By Mel Greaves.</p>
+        <p>Oxford University, $27.50.</p>
+      </block>
+      <block class="full_text">
+        <p>Cancer</p>
+        <p>The Evolutionary Legacy.</p>
+        <p>By Mel Greaves.</p>
+        <p>Oxford University, $27.50.</p>
+        <p>Mel Greaves, the director of the Leukemia Research Fund Center for Cell and Molecular Biology at the Institute of Cancer Research in London, gives a fascinating and sometimes appalling look at why one out of three humans will face a diagnosis of cancer at some time. As horrific as the diagnosis of cancer is to the individual, the disease, Greaves maintains, is necessary to us as a species -- not so much because it clears the way for new life but because the ability for cells to mutate, sometimes leading to an outlaw (and endlessly cloning) cancer cell, also allows life to evolve. Or, as Greaves puts it, ''No changes in genes = no cancer; no changes in genes = no evolution = no us.'' Each of us has aberrant cells developing all the time, but it takes about four or five specific mutations -- including an ability to multiply without the normal preprogrammed brake of cell death and to travel and colonize in far-flung reaches of the body -- for a cell to graduate to full-fledged cancer. The book is as much a cultural chronicle as a biology lesson, and Eaves marshals literature, history and his own puckish if macabre sense of humor to tell this complex story. So from the cellular level we learn why, for example, cancer risks are based not so much on genetic disposition but on where we live and what we eat, drink and inhale; why some rare cancers are, in fact, contagious; and why aging is ''a correlate, not a cause, of most cancers.'' Ninety percent of cancers, Greaves believes, are not inevitable. Nothing Greaves advocates to prevent cancer -- clean water, exercise, more fruits and vegetables, less animal fat -- will come as a revelation. Not that Greaves pretends there is any magic solution to the cancer problem in the future -- because fighting cancer is fighting evolution. It's as simple, and as complicated, as that.</p>
+        <p>Judith Newman</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

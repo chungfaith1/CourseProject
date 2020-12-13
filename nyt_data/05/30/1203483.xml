@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Torre Hints At Staying On</title>
+    <meta content="30TORR" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203483"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">Coaches and Managers</classifier>
+        <classifier class="indexing_service" type="descriptor">World Series</classifier>
+        <org class="indexing_service">New York Yankees</org>
+        <person class="indexing_service">Torre, Joe</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Series</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coaches and Managers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000530T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E4DA163CF933A05756C0A9669C8B63" item-length="222" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Torre Hints At Staying On</hl1>
+      </hedline>
+      <abstract>
+        <p>New York Yankees manager Joe Torre, discussing triumph of receiving third World Series ring, says he wants to continue managing 'for as long as it's still fun' (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As Joe Torre discussed the triumph of receiving a third World Series ring yesterday, the Yankee manager said that he ''wants to be around for a while'' and wants to continue managing ''for as long as it's still fun.''</p>
+        <p>The 59-year-old Torre has a contract that extends through the 2001 season and it has generally been assumed that he would retire from managing after next season. But Torre's comments about wanting to remain with the Yankees for a while seemed to open up the possibility that Torre would consider signing an extension.</p>
+      </block>
+      <block class="full_text">
+        <p>As Joe Torre discussed the triumph of receiving a third World Series ring yesterday, the Yankee manager said that he ''wants to be around for a while'' and wants to continue managing ''for as long as it's still fun.''</p>
+        <p>The 59-year-old Torre has a contract that extends through the 2001 season and it has generally been assumed that he would retire from managing after next season. But Torre's comments about wanting to remain with the Yankees for a while seemed to open up the possibility that Torre would consider signing an extension.</p>
+        <p>''When I say a while, I mean this year and next year,'' Torre said. ''I don't know about beyond that. I'll keep doing this as long as it remains fun,  and it's fun right now.''</p>
+        <p>Torre, who makes $3 million a year, has not talked to George Steinbrenner about his future because he will not make a decision until he sees how the 2001 season unfolds.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

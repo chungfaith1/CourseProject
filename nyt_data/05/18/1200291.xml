@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Clean Install' Option Can Mean a Fresh Start</title>
+    <meta content="18ASKK$02" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200291"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000518T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE2DE163AF93BA25756C0A9669C8B63" item-length="707" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Clean Install' Option Can Mean a Fresh Start</hl1>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q.  When reinstalling the Macintosh operating system from the CD-ROM that came with the computer, what does the Clean Install option mean?</p>
+        <p>A.  The installer program for the Macintosh operating system gives you several choices when you run it. The usual default setting will just overwrite the files in your current System Folder. Selecting Clean Install creates a brand-new System Folder on your hard drive and disables your old one.</p>
+        <p>If you have been having nagging, quirky problems with your Mac's performance or frequent unexplained crashes, sometimes a clean install of fresh system software can help clear up the problems. One drawback to a clean install, though, is that your customized settings, extensions and preferences are still in your old System Folder.</p>
+      </block>
+      <block class="full_text">
+        <p>Q.  When reinstalling the Macintosh operating system from the CD-ROM that came with the computer, what does the Clean Install option mean?</p>
+        <p>A.  The installer program for the Macintosh operating system gives you several choices when you run it. The usual default setting will just overwrite the files in your current System Folder. Selecting Clean Install creates a brand-new System Folder on your hard drive and disables your old one.</p>
+        <p>If you have been having nagging, quirky problems with your Mac's performance or frequent unexplained crashes, sometimes a clean install of fresh system software can help clear up the problems. One drawback to a clean install, though, is that your customized settings, extensions and preferences are still in your old System Folder.</p>
+        <p>You can either reinstall your modem, printer and other extension software or move the old files into the corresponding folders within your new System Folder.</p>
+        <p>One caveat is that if the roots of your Mac's bad behavior are in the Extensions folder, moving old files to the new one may just recreate the problem, so pay close attention to what you move over. If you are having extension problems, programs like Casady &amp; Greene's Conflict Catcher can help you sort them out.</p>
+        <p>Q.  What is a wheel mouse?</p>
+        <p>A.  Unlike a basic computer mouse that has just two or three buttons on top (or one button, if you have a Macintosh), a wheel mouse has a small movable disk embedded in the top. That disk, which puts the ''wheel'' into the wheel mouse, allows you to scroll up and down Web pages and some application windows simply by rolling the wheel with your finger instead of using the scroll bars on the screen.</p>
+        <p>That can save time as you work, along with wear and tear on your fingers and arms, because you don't have to keep moving the cursor back and forth.</p>
+        <p>Q.  My computer seems to run slower as the week progresses and sometimes even in the course of a day. Do I need to defragment it more often, or could something else be wrong with my Windows 98 system?</p>
+        <p>A.  Regular maintenance like defragmenting your drive is a good habit to get into to help keep your computer running smoothly and efficiently. The Windows 98 Maintenance Wizard, found under the Start menu in Programs (look in Accessories, then System Tools), will let you schedule regular times to run a series of maintenance procedures on your PC.</p>
+        <p>There could be a number of reasons for your machine's slowness, so you may want to invest in a good diagnostic-and-repair utility program to give it a checkup.</p>
+        <p>The problem could be partly due to what is called RAM leakage. Each time you open and close a program, some of your system's memory may lock up and be made unavailable for use, even though it is still there physically.</p>
+        <p>Rebooting the computer regularly frees up the RAM that seems to have leaked away and gives Windows a fresh start with all your system's available memory.</p>
+        <p>Q.  My Windows 98 taskbar used to be on the bottom of my screen, but it has somehow managed to move itself and now runs vertically along my desktop. How do I move it back to where it was?</p>
+        <p>A.  The handy Windows taskbar, that narrow gray strip that holds application icons and the Start button, can be positioned on any side of the screen you choose. Just click on it and drag it to where you want it.</p>
+        <p>You can put your personal stamp on the taskbar by right-clicking on it to see the pop-up menu of options. From the menu, you can do things like having the tool names pop up on screen when you pass the mouse over them, or you can even make the taskbar program icons bigger and easier to see.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Circuits invites questions about computer-based technology, by mail to Questions, Circuits, The New York Times, 229 West 43rd Street, New York, N.Y. 10036-3959, or by e-mail to QandA@nytimes.com.</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

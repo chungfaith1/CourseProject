@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bad Record at C.I.A.</title>
+    <meta content="L02CIA$01" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1196237"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000502T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E1D91239F931A35756C0A9669C8B63" item-length="211" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bad Record at C.I.A.</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>An April 30 letter states that the C.I.A. ''is responsible for keeping our highest-level policy makers and military officials informed so they can make educated decisions.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>An April 30 letter states that the C.I.A. ''is responsible for keeping our highest-level policy makers and military officials informed so they can make educated decisions.''</p>
+        <p>How would history have fared had our national leaders been given accurate analyses of the state of Stalin's health, the power struggle between Khrushchev and Malenkov, the tension leading up to the 1956 Hungarian uprising, the famine that killed millions in China? Cuba, Nicaragua, Iran, Iraq, Bosnia, Vietnam -- the list of botched analyses is seemingly endless.</p>
+        <p>The letter writer acknowledges the C.I.A.'s dismal record of covert operations, but still believes that the agency is capable of providing dependable information. Regrettably, the record does not support that notion.</p>
+        <p>WES PEDERSEN  Washington, April 30, 2000</p>
+        <p>The writer, a former foreign affairs analyst for the U.S. Information Agency, is communications director of the Public Affairs Council.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

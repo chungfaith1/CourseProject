@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>So, How About Those Viruses?</title>
+    <meta content="18VIR.$01" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215933"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Science and Technology</classifier>
+        <classifier class="indexing_service" type="descriptor">Public Opinion</classifier>
+        <classifier class="indexing_service" type="descriptor">Agriculture</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <org class="indexing_service">National Science Foundation</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Agriculture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000718T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800EFDD103BF93BA25754C0A9669C8B63" item-length="377" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>So, How About Those Viruses?</hl1>
+      </hedline>
+      <byline class="print_byline">By Nicholas Wade</byline>
+      <abstract>
+        <p>National Science Foundation biennial survey of public support for scientific research finds public shows least interest in agriculture and farm issues and most interest in new medical discoveries; graphs (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>What kind of news are people really interested in? The National Science Foundation, always trying to reassure itself about the public's enthusiasm for taxing itself to support scientific research, has commissioned biennial surveys since 1979. Intended to gauge the level of public interest in science, with other issues thrown in as benchmarks, the surveys show some interesting patterns.</p>
+        <p>Working from the bottom up, the subject that least interests the public is agriculture and farm issues with a score of 47 (on a scale where 0 means not interested and 100 corresponds to very interested.). Next come space exploration (51), international and foreign policy issues (53), nuclear energy (55), military and defense policy (64), economic issues and business conditions (65), the use of new inventions and technologies (65) and issues about new scientific discoveries (67). Local school issues and environmental pollution tied for second place at 71, and the clear winner was new medical discoveries at 82.</p>
+      </block>
+      <block class="full_text">
+        <p>What kind of news are people really interested in? The National Science Foundation, always trying to reassure itself about the public's enthusiasm for taxing itself to support scientific research, has commissioned biennial surveys since 1979. Intended to gauge the level of public interest in science, with other issues thrown in as benchmarks, the surveys show some interesting patterns.</p>
+        <p>Working from the bottom up, the subject that least interests the public is agriculture and farm issues with a score of 47 (on a scale where 0 means not interested and 100 corresponds to very interested.). Next come space exploration (51), international and foreign policy issues (53), nuclear energy (55), military and defense policy (64), economic issues and business conditions (65), the use of new inventions and technologies (65) and issues about new scientific discoveries (67). Local school issues and environmental pollution tied for second place at 71, and the clear winner was new medical discoveries at 82.</p>
+        <p>A somewhat different spectrum of interests was seen among the most educated section of the public, those with graduate or professional degrees. Their interest in foreign news rose to 76 on the scale, behind only new medical discoveries (86) and new scientific discoveries (83).</p>
+        <p>Interest in military and foreign affairs peaked in 1990, presumably because of the Persian Gulf war, the National Science Foundation's report says. Enthusiasm has also waned in recent years for articles about environmental pollution and nuclear energy.</p>
+        <p>The surveys were conducted by a variety of polling organizations under contract to the National Science Foundation, a federal agency. This year's findings appear in its report Science and Engineering Indicators 2000.</p>
+        <p>NICHOLAS WADE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

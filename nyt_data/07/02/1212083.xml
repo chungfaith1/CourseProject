@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Baseball Books in Brief</title>
+    <meta content="RV101852" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20000709T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1212083"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <person class="indexing_service">Thomas, John D</person>
+        <person class="indexing_service">Erskine, Carl</person>
+        <object.title class="indexing_service">Tales From the Dodger Dugout (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400EFD91E31F931A35754C0A9669C8B63" item-length="227" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Baseball Books in Brief</hl1>
+      </hedline>
+      <byline class="print_byline">By John D. Thomas</byline>
+      <byline class="normalized_byline">Thomas, John D</byline>
+      <abstract>
+        <p>John D Thomas reviews book Tales From the Dodger Dugout by Carl Erskine (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TALES FROM THE DODGER DUGOUT</p>
+        <p>By Carl Erskine.</p>
+        <p>Sports Publishing, $19.55.</p>
+      </block>
+      <block class="full_text">
+        <p>TALES FROM THE DODGER DUGOUT</p>
+        <p>By Carl Erskine.</p>
+        <p>Sports Publishing, $19.55.</p>
+        <p>From 1948 to 1959, Carl Erskine was a solid right-handed pitcher for the Dodgers. During his career, he had a record of 122-78, threw two no-hitters and led the National League in winning percentage in 1953. Along with his abilities on the mound, he proves himself to be a talented storyteller in his charming ''Tales From the Dodger Dugout.'' Erskine gives equal time to teammates, coaches, friends and opponents in what amounts to a series of short, snappy baseball anecdotes. While Erskine's stories span his entire life, the best are the ones that evoke his playing days in Brooklyn. Not only does he reminisce about great Dodgers like Jackie Robinson and Roy Campanella, he also includes stories about Ebbets Field fixtures like the organist Gladys Gooding -- she always played ''Back Home Again in Indiana'' as Erskine, a native of Anderson, Ind., warmed up -- and the raucous Dodger fan extraordinaire Hilda Chester.</p>
+        <p>John D. Thomas</p>
+        <p>Correction:  July 9, 2000, Sunday  A brief review in the Book Review last Sunday, about ''Tales From the Dodger Dugout,'' by Carl Erskine, misspelled the name of the Brooklyn Dodgers' organist at Ebbets Field. (It was also misspelled in the book.) She was Gladys Goodding, not Gooding.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: July 9, 2000, Sunday</p>
+        <p>A brief review in the Book Review last Sunday, about ''Tales From the Dodger Dugout,'' by Carl Erskine, misspelled the name of the Brooklyn Dodgers' organist at Ebbets Field. (It was also misspelled in the book.) She was Gladys Goodding, not Gooding.</p>
+        <p>&lt;br&gt;</p>
+        <p>&lt;br&gt;</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

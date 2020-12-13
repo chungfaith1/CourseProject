@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hampton Set to Start</title>
+    <meta content="MB015552" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213278"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BASEBALL: NOTEBOOK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <org class="indexing_service">New York Mets</org>
+        <org class="indexing_service">New York Yankees</org>
+        <person class="indexing_service">Kepner, Tyler</person>
+        <person class="indexing_service">Hampton, Mike</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000708T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE5DA1438F93BA35754C0A9669C8B63" item-length="120" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hampton Set to Start</hl1>
+      </hedline>
+      <byline class="print_byline">By TYLER KEPNER</byline>
+      <byline class="normalized_byline">Kepner, Tyler</byline>
+      <abstract>
+        <p>New York Mets pitcher Mike Hampton will start in final game of series against New York Yankees (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mike Hampton told Mets Manager Bobby Valentine that he was no longer experiencing stiffness in his back, and Valentine confirmed that Hampton would start tomorrow night on three days' rest.</p>
+      </block>
+      <block class="full_text">
+        <p>Mike Hampton told Mets Manager Bobby Valentine that he was no longer experiencing stiffness in his back, and Valentine confirmed that Hampton would start tomorrow night on three days' rest.</p>
+        <p>Bobby M. Jones, who had been scheduled to start, will be available in long relief.</p>
+        <p>TYLER KEPNER</p>
+        <p>BASEBALL: NOTEBOOK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

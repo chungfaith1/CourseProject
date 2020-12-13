@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dealing With D.S.L.</title>
+    <meta content="LTR230726" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1198643"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">kelley, thomas f</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000511T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E2D9163BF932A25756C0A9669C8B63" item-length="73" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dealing With D.S.L.</hl1>
+      </hedline>
+      <abstract>
+        <p>Thomas F Kelley letter on May 4 article cites Web site of value to Internet users weighing DSL service</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I've been looking at D.S.L. service for several months (''Night of the Living D.S.L.,'' May 4) and have found a Web site that your readers should know about: www.dslreports .com. Anyone who orders D.S.L. without going to this site first is asking for trouble.</p>
+        <p>THOMAS F. KELLEY  New York</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I've been looking at D.S.L. service for several months (''Night of the Living D.S.L.,'' May 4) and have found a Web site that your readers should know about: www.dslreports .com. Anyone who orders D.S.L. without going to this site first is asking for trouble.</p>
+        <p>THOMAS F. KELLEY  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rock 'n' Roll on the Block</title>
+    <meta content="MB114011" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1240854"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="JERSEY FOOTLIGHTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Auctions</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <org class="indexing_service">Sotheby's</org>
+        <org class="indexing_service">Sotheby's</org>
+        <person class="indexing_service">Demasters, Karen</person>
+        <object.title class="indexing_service">Antiques Roadshow (Tv Progam)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Auctions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001022T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE4D9103EF931A15753C1A9669C8B63" item-length="196" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rock 'n' Roll on the Block</hl1>
+      </hedline>
+      <byline class="print_byline">By Karen DeMasters</byline>
+      <byline class="normalized_byline">Demasters, Karen</byline>
+      <abstract>
+        <p>Sotheby's auctioneer and PBS program Antiques Roadshow will preside over Rock 'n' Roll Memorabilia Auction at Trump Marina in Atlantic City; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Many rock 'n' roll stars pass through Atlantic City and some leave a little something of themselves behind.</p>
+        <p>Stone Temple Pilots, Eddie Van Halen, B. B. King, Queensryche and George Thorogood left behind autographed guitars. Gregg Allman signed a Harley Davidson leather jacket and Sting, ZZ Top and Alice Cooper autographed a Planet Hollywood denim jacket.</p>
+      </block>
+      <block class="full_text">
+        <p>Many rock 'n' roll stars pass through Atlantic City and some leave a little something of themselves behind.</p>
+        <p>Stone Temple Pilots, Eddie Van Halen, B. B. King, Queensryche and George Thorogood left behind autographed guitars. Gregg Allman signed a Harley Davidson leather jacket and Sting, ZZ Top and Alice Cooper autographed a Planet Hollywood denim jacket.</p>
+        <p>How much these and other rock 'n' roll souvenirs are worth will be determined on Friday at the Rock 'n' Roll Memorabilia Auction at the Trump Marina in Atlantic City. Nicholas Dawes, auctioneer for Sotheby's of New York and the PBS program ''Antiques Roadshow,'' will preside over the event.</p>
+        <p>Other items to be auctioned include books autographed by Meat Loaf and David Lee Roth, autographed posters from a number of artists, CD's and T-shirts. Proceeds from the auction go to VH-1's Save the Music Foundation, a nonprofit educational organization dedicated to restoring music programs in city schools.</p>
+        <p>Karen DeMasters</p>
+        <p>JERSEY FOOTLIGHTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

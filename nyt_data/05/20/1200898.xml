@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR233912" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Education; Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200898"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Handicapped</classifier>
+        <org class="indexing_service">Harvard University</org>
+        <person class="indexing_service">Ellison, Brooke</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Handicapped</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000520T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E4D6133AF933A15756C0A9669C8B63" item-length="108" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of May 10 article on Brooke Ellison, quadriplegic who is to graduate from Harvard; university says two other quadriplegics have earned degrees in past</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A front-page article on Wednesday about Brooke Ellison, a quadriplegic who is to graduate from Harvard next month, included an erroneous surmise from the university about the achievement. Harvard now says Ms. Ellison is not the first such graduate; it has identified two other quadriplegics who earned bachelor's degrees.</p>
+      </block>
+      <block class="full_text">
+        <p>A front-page article on Wednesday about Brooke Ellison, a quadriplegic who is to graduate from Harvard next month, included an erroneous surmise from the university about the achievement. Harvard now says Ms. Ellison is not the first such graduate; it has identified two other quadriplegics who earned bachelor's degrees.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

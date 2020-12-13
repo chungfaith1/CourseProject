@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>D.S.P. Is the Leaner, Nimbler Chip</title>
+    <meta content="19NEXT$01" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/19/technology/19NEXT.html" name="alternate_url"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20001108T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1239932"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WHAT'S NEXT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Chips</classifier>
+        <classifier class="indexing_service" type="descriptor">Digital Signal Processor (DSP)</classifier>
+        <org class="indexing_service">Texas Instruments Inc</org>
+        <person class="indexing_service">Marriott, Michel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Southwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/What's Next</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001019T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E0DD153EF93AA25753C1A9669C8B63" item-length="938" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>D.S.P. Is the Leaner, Nimbler Chip</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHEL MARRIOTT</byline>
+      <byline class="normalized_byline">Marriott, Michel</byline>
+      <abstract>
+        <p>Digital Signal Processor chips power many digital devices; Texas Instruments, DSP inventor and primary developer, continues to innovate, lessening chips' size while greatening their power; drawing (m)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ALTHOUGH Digital Signal Processor chips may not be as sexy as their more muscular cousins that drive personal computers, they are more common and likely to inhabit devices people regularly use, and use a lot.</p>
+        <p>D.S.P. chips are the electronic brains in almost all CD players, cellular telephones, personal organizers, digital cameras, car audio systems, digital jukeboxes in homes and digital music players.</p>
+      </block>
+      <block class="full_text">
+        <p>ALTHOUGH Digital Signal Processor chips may not be as sexy as their more muscular cousins that drive personal computers, they are more common and likely to inhabit devices people regularly use, and use a lot.</p>
+        <p>D.S.P. chips are the electronic brains in almost all CD players, cellular telephones, personal organizers, digital cameras, car audio systems, digital jukeboxes in homes and digital music players.</p>
+        <p>After inventing the D.S.P. chip in the early 1980's, Texas Instruments, the technology company in Dallas that is probably best known for its electronic calculators, is the world leader in developing these chips. Recently, the company announced that it would soon release a fourth generation of its audio D.S.P. But it is also cooking up a fifth-generation chip. Company engineers say that the yet-to-come D.S.P. chip may radically change the way the multibillion-dollar consumer electronics industry designs products and, perhaps more important, change the way people use the devices.</p>
+        <p>To be released early in 2002, the chip, which has not been named, will be the smallest audio D.S.P. chip yet. The wafer of silicon many chips use is no thinner than 0.18 microns (100 microns is about the width of a human hair). The Texas Instruments fourth-generation chip, DA250, is built on a platform of 0.15 microns. The fifth-generation chip is planned to start at 0.13 microns, with a goal of 0.1 microns.</p>
+        <p>Usually in chip design, the thinner the chip, the less power required to drive it.</p>
+        <p>John Van Scoter, vice president and general manager of printing and audio systems, says that one of the first things consumers will notice about devices that use the fifth-generation chip is that battery life will be greatly increased.</p>
+        <p>Most portable audio devices playing MP3 music files get 30 to 32 hours of play on two AA batteries. The DA250 chip, to be released to manufacturers early next year, is promising 70 to 72 hours of play on two AA batteries. But the fifth-generation chip is expected to deliver 200 hours of play on the same set of batteries. ''That's 'don't care' power,'' said Randy Cole, chief technologist of the Texas Instruments audio business. ''That's like it's running on body heat.''</p>
+        <p>Mr. Van Scoter said the three the biggest consumers of power are: first, the L.C.D. screen (even the small ones commonly found on digital audio players) and the buttons and other elements that control the use of the device; second, the media (spinning compact disk, SmartCard or flash memory) that are used to store and play music files; and the D.S.P. chip itself and associated components.</p>
+        <p>Mr. Van Scoter said that the new D.S.P. chips are more energy efficient because circuits on the chip can shut down parts of the chips when they are not needed and restarted when they are. Additional efficiencies can be gained by using a single D.S.P. chip to handle tasks traditionally handled by additional chips. When those functions are integrated into the D.S.P. and other chips are eliminated, overall power consumption is significantly reduced. A recent example, Mr. Van Scoter said, was removing the chips that added a U.S.B. plug-in to an audio player. Those functions were taken over by a D.S.P. chip.</p>
+        <p>In the fifth-generation D.S.P., integration of more functions will be possible, Dr. Cole said. One of the most radical advances is expected to be the introduction of wireless headphones for portable audio players by 2002, he added.</p>
+        <p>By placing the much-touted Bluetooth technology directly onto the fifth-generation D.S.P., the company could help to end the tangle of wires that users of CD, cassette and digital audio players find so irritating. Bluetooth is the wireless standard that allows small devices like cell phones and laptops to communicate automatically.</p>
+        <p>''Bluetooth, wireless technology overall, is going to be real mainstream in 2002,'' said Mr. Van Scoter, adding that the cost of Bluetooth chips has become cheap enough to be attractive to consumer electronics manufacturers. But once the technology can be integrated into a single D.S.P. chip, its widespread use in devices could grow.</p>
+        <p>''We see that integration in the fifth generation for our D.S.P.,'' Mr. Van Scoter said.</p>
+        <p>Advances in power efficiency and overall reduction of size of the fifth-generation  D.S.P. chip should also further free designers from the bulky requirements of battery size and chip size that limited the shapes and sizes of many consumer devices. Mr. Van Scoter said Sony's Vaio Music Clip, an audio player introduced in June that is the size of a fountain pen, was made possible, in part, by the smallness of its D.S.P. chip.</p>
+        <p>Time from conception to market can be reduced because a single D.S.P. chip can be programmed to function in a cell phone, a digital camera or a MP3 player.</p>
+        <p>The fifth-generation chip should offer even more flexibility in its capacity to accept programming than the fourth-generation chip. This tends to make the design process for manufacturers faster and less risky because when problems occur the chip does not have to be rebuilt, but simply given new instructions, Mr. Van Scoter said.</p>
+        <p>''The cool thing about this Internet audio market is that the rate of innovation is just so high,'' he said, adding that he can meet with designers in January when a new D.S.P. is introduced. ''By June they've got a product that they are having users play with and giving feedback. Call it black magic, if you will.''</p>
+        <p>WHAT'S NEXT  Correction:  November 8, 2000, Wednesday  An article in Circuits on Oct. 19 about new digital signal processor chips from Texas Instruments misstated the thickness of silicon wafers used in the chips. The wafers are 720 microns thick, not 0.15 microns thick.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: November 8, 2000, Wednesday</p>
+        <p>An article in Circuits on Oct. 19 about new digital signal processor chips from Texas Instruments misstated the thickness of silicon wafers used in the chips. The wafers are 720 microns thick, not 0.15 microns thick.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV092105" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209932"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Smith, Ruth Bayard</person>
+        <person class="indexing_service">Bragg, Rick</person>
+        <object.title class="indexing_service">Somebody Told Me (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000625T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801EEDB113EF936A15755C0A9669C8B63" item-length="331" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Ruth Bayard Smith</byline>
+      <byline class="normalized_byline">Smith, Ruth Bayard</byline>
+      <abstract>
+        <p>Ruth Bayard Smith reviews book Somebody Told Me: The Newspaper Stories of Rick Bragg by Rick Bragg (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Somebody Told Me</p>
+        <p>The Newspaper Stories of Rick Bragg.</p>
+        <p>By Rick Bragg.</p>
+        <p>University of Alabama, $24.95.</p>
+      </block>
+      <block class="full_text">
+        <p>Somebody Told Me</p>
+        <p>The Newspaper Stories of Rick Bragg.</p>
+        <p>By Rick Bragg.</p>
+        <p>University of Alabama, $24.95.</p>
+        <p>In ''Somebody Told Me,'' Rick Bragg, the Miami bureau chief of The New York Times, has compiled his newspaper articles about ''ordinary'' people who ''helped me put a human face on those who cannot speak for themselves, those whose faces I never saw, voices I never heard.'' Bragg's style is eloquent and his characters are memorable. There's the man who dines out in style in New York even though he has no money -- just so he can get arrested and have a roof over his head and regular meals: ''He's a thief who never runs, a criminal who picks his teeth as the police close in. To be arrested, to go home to a cell at Rikers Island, is his plan when he unfolds his napkin.'' There's the washerwoman in Mississippi who saved more than $150,000 to give scholarships to deserving young women: ''Oseola McCarty spent a lifetime making other people look nice. Day after day, for most of her 87 years, she took in bundles of dirty clothes and made them clean and neat for parties she never attended, weddings to which she was never invited, graduations she never saw.'' And there's the Alabama religious community trying to make sense of the death and destruction in the aftermath of a vicious tornado: ''More troubling than anything, said the people who lost friends and family in the Goshen church, were the tiny patent-leather children's shoes scattered in the ruin. They were new Easter shoes, bought especially for church.'' Bragg's writing engages us as readers and poignantly conveys the impact of small and large events on everyday life.</p>
+        <p>Ruth Bayard Smith</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

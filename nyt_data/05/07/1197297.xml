@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Star Wars</title>
+    <meta content="LTR085318" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1197297"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">DiGiacomo, Michael D</person>
+        <object.title class="indexing_service">Way Out There in the Blue (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000507T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE6DD1639F934A35756C0A9669C8B63" item-length="131" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Star Wars</hl1>
+      </hedline>
+      <abstract>
+        <p>Michael D DiGiacomo letter on April 16 review of book Way Out There in the Blue (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In his review of Frances FitzGerald's ''Way Out There in the Blue'' (April 16), Alan Brinkley neglects to mention how the nature of the missile threat to the United States has changed. In Ronald Reagan's day, the threat was of a massive launching from the Soviet Union. That's been replaced with the more manageable threat of a small number of missiles launched by rogue states like North Korea, Iraq and Iran, all of whom have shown requisite capability.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In his review of Frances FitzGerald's ''Way Out There in the Blue'' (April 16), Alan Brinkley neglects to mention how the nature of the missile threat to the United States has changed. In Ronald Reagan's day, the threat was of a massive launching from the Soviet Union. That's been replaced with the more manageable threat of a small number of missiles launched by rogue states like North Korea, Iraq and Iran, all of whom have shown requisite capability.</p>
+        <p>Yes, Reagan was the first to advocate a missile defense program, but focusing exclusively on its link to him is an attempt to demonize the current program by those who think that he always had to be wrong.</p>
+        <p>Michael D. DiGiacomo  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

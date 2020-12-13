@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Baseball Books in Brief</title>
+    <meta content="RV101959" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212088"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <person class="indexing_service">Salzberg, Charles</person>
+        <person class="indexing_service">Anderson, David W</person>
+        <object.title class="indexing_service">More Than Merkle (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805EED91E31F931A35754C0A9669C8B63" item-length="321" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Baseball Books in Brief</hl1>
+      </hedline>
+      <byline class="print_byline">By Charles Salzberg</byline>
+      <byline class="normalized_byline">Salzberg, Charles</byline>
+      <abstract>
+        <p>Charles Salzberg reviews book More Than Merkle: A History of the Best and Most Exciting Baseball Season in Human History by David W Anderson (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>More Than Merkle</p>
+        <p>A History of the Best and Most Exciting Baseball Season in Human History.</p>
+        <p>By David W. Anderson.</p>
+        <p>University of Nebraska, $29.95.</p>
+      </block>
+      <block class="full_text">
+        <p>More Than Merkle</p>
+        <p>A History of the Best and Most Exciting Baseball Season in Human History.</p>
+        <p>By David W. Anderson.</p>
+        <p>University of Nebraska, $29.95.</p>
+        <p>In 1908 three National League teams -the Chicago Cubs, the New York Giants and the Pittsburgh Pirates -- wound up within a half-game of each other. The American League race wound up almost as tightly contested, with Detroit, Cleveland and Chicago finishing with only a game between them. But this would be the year known for the so-called Merkle affair. In a crucial game against the Cubs, a week before the regular season ended, the Giant first baseman Fred Merkle failed to touch second after an apparent game-winning hit. As a result, the ever vigilant Johnny Evers (the middle link between Tinker and Chance) retrieved the ball -- or some ball, since no one could ever be sure what happened to the one in play -- and tagged the base. Before the umpire could get the teams back on the field to finish the game, the partisan New York crowd poured onto the field, forcing the game to be called a tie. As a result, the first playoff game was played. The Cubs won the game, earning them an opportunity to play (and beat) Ty Cobb's Detroit Tigers in the World Series. Using this incident as a jumping-off point, David W. Anderson minutely examines the entire season, in which pitchers like Cy Young, Christy Mathewson, Mordecai (Three Finger) Brown, Rube Waddell and Addie Joss dominated and the seeds of the passing of the dead-ball era were sown. Though ''More Than Merkle'' is somewhat dry and even repetitive, it is still a fascinating archival account of what baseball and America were like nearly a century ago.</p>
+        <p>Charles Salzberg</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

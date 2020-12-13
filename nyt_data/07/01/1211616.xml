@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Technical and Other Difficulties Delay Plan for Online Death Certificates</title>
+    <meta content="01DEAT" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211616"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Death and Dying</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Bureaucratic Red Tape</classifier>
+        <classifier class="indexing_service" type="descriptor">Funerals</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">International Business Machines Corp</org>
+        <person class="indexing_service">Finkelstein, Katherine E</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Death and Dying</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bureaucratic Red Tape</classifier>
+        <classifier class="online_producer" type="general_descriptor">Death and Dying</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000701T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E1DA1439F932A35754C0A9669C8B63" item-length="1128" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Technical and Other Difficulties Delay Plan for Online Death Certificates</hl1>
+      </hedline>
+      <byline class="print_byline">By KATHERINE E. FINKELSTEIN</byline>
+      <byline class="normalized_byline">Finkelstein, Katherine E</byline>
+      <abstract>
+        <p>Computerized system that would create death certificates online and eliminate need for funeral directors to navigate tangled bureaucracy while allowing families to proceed with burials and estate settlement fails in testing, producing false data or crashing entirely; New York City contracted with IBM for $2.5 million to develop project at behest of funeral directors who work within confines of antiquated, costly system; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Last winter, 159 funeral directors from around the city crowded into an Italian restaurant on City Island to watch a long-awaited computer demonstration by city and I.B.M. officials: on display was a software program designed to create death certificates online.</p>
+        <p>For the funeral directors, and others, the sense of promise was great. A computerized system in discussion for six years would eliminate the need for funeral directors to track down harried doctors to sign the tens of thousands of forms a year, and then trudge into the city's one and only office for death certificates, in Manhattan, and wait for them to be approved by a clerk.</p>
+      </block>
+      <block class="full_text">
+        <p>Last winter, 159 funeral directors from around the city crowded into an Italian restaurant on City Island to watch a long-awaited computer demonstration by city and I.B.M. officials: on display was a software program designed to create death certificates online.</p>
+        <p>For the funeral directors, and others, the sense of promise was great. A computerized system in discussion for six years would eliminate the need for funeral directors to track down harried doctors to sign the tens of thousands of forms a year, and then trudge into the city's one and only office for death certificates, in Manhattan, and wait for them to be approved by a clerk.</p>
+        <p>A frustrating bureaucracy was about to be defeated. Families desperate to get on with the sad work of burying their dead, settling estates and managing life insurance policies would also be relieved. And the Internet-based records could be used for public health research.</p>
+        <p>But six months later, the $2.5 million effort is in disarray, according to city officials with knowledge of the program. During testing, the system registered death dates that predated births and, for some reason, entered men as having been pregnant at their deaths. And that was when the system was not crashing entirely.</p>
+        <p>''I have nothing but the sharpest criticism for the manner in which this has been handled,'' said Wilson Bebee, executive director of the Metropolitan Funeral Directors Association. ''We simply don't understand what the problem is. Everybody has an excuse, but nobody has an answer.''</p>
+        <p>The sense of frustration for those involved is only deepened by the fact that New York State and New Jersey have both quietly developed models of workable systems at one-tenth the cost, and in March, New Jersey began using its system at one hospital, becoming the first state to do so.</p>
+        <p>Meanwhile, the city's 850 funeral directors are still double-parking their hearses outside 125 Worth Street in Manhattan to get certificates approved at the city's only burial desk unit, run by the Health Department.</p>
+        <p>City and I.B.M. officials say the project is now on track and will be tested in August.  Issues of confidentiality and security surrounding death records, along with Y2K preparations, may have slowed the pace of the project, they say.</p>
+        <p>Ed Carubis, the city's assistant commissioner for management information services, acknowledged that more work needed to be done. But he said the city had reviewed needed guidelines with I.B.M., so that men could not be registered as pregnant, for example. ''It actually sounds a little worse than it is,'' he said.</p>
+        <p>Chris Collins, a spokesman for I.B.M., said: ''There's been no giant problem. It's a very complicated system. There are a lot of entities involved, and a lot of legal, medical and familial considerations.''</p>
+        <p>But funeral directors, and some officials, are not so sanguine about the cost and pace of the project, which one official who spoke on the condition of anonymity described as ''a colossal waste of money'' to date.</p>
+        <p>Ten years ago, each borough had its own burial desk where funeral directors could bring the certificates for approval. But in a wave of budget-cutting in the spring of 1994, the city closed four offices, leaving only the one at 125 Worth Street, open 24 hours a day.</p>
+        <p>Funeral directors began to drive Jewish families directly to the certificate office on the way to the cemetery, so they could bury the deceased within 24 hours as required by Jewish law, said Martin Kasdan, president of Schwartz Brothers-Jeffer Memorial Chapel in Queens.</p>
+        <p>And if a funeral director brought a batch of certificates to be processed, Mr. Kasdan said, the clerk would approve only five certificates at a time, and then it was back to the end of the line -- a problem solved when the city opened a ''volume'' window.</p>
+        <p>Then there was the paperwork.  Robert Ruggiero, president of F. Ruggiero &amp; Sons, a funeral home in the Bronx, recalled waiting for hours one night at 125 Worth St. At 2 a.m., the clerk slid the certificate out from under his door with a big red X through it. The form had been rejected because the doctor had written ''F'' instead of ''Female'' on it.</p>
+        <p>In fact, Mr. Ruggiero has calculated that each trip to the burial desk unit costs him $135 in office time, an estimate that ''doesn't include towing or parking tickets,'' he said.</p>
+        <p>The problems were so great that in 1994, the funeral directors association met with city officials and proposed an electronic death record system; the association even spent $40,000 for a feasibility study, said Maryann Carroll, a spokeswoman.</p>
+        <p>The city embraced the plan, and in letters to the association set a target date of June 1998 for an initial test of the system. It was not until that year,  however, that the city gave I.B.M. the $2.5 million contract to develop the project.</p>
+        <p>Mr. Carubis, the city official, said that when talks first began with the funeral directors in 1994, the Internet was not as highly developed. ''We always want to do things as quickly as possible, and things in the information technology world are very fast paced,'' he said. ''But how we leverage the Internet to do business, that's something that takes time.''</p>
+        <p>Meanwhile, New York State gave  Sybase Inc., a database software company, $200,000 in August 1997 to develop a similar system, and in May 1998, Sybase began testing, a State Health Department spokeswoman said.</p>
+        <p>The state's project was delayed because its system requires users to sign their names electronically, and until last year, the use of electronic signatures had not been approved by the Legislature. No date has yet been set for the system to begin operating. The city's system identifies users without relying on an electronic signature, and so did not need legislation to move forward.</p>
+        <p>By the time the city demonstrated the system at the Harbour restaurant on City Island last winter, the funeral directors were ''seething at the opportunity to stop this nonsense,'' Mr. Ruggiero said. While 60 were invited, 159 showed up.</p>
+        <p>Weeks and then months rolled by with no word, as the project stopped and started, and the prototype for the system changed and calls to the city went unreturned, he said. With a new deadline of August for the system to be tested, hope blooms again.</p>
+        <p>But until the system is in place, one ''$7-an-hour clerk'' holds the reins of a $350 million industry in New York City, as Mr. Ruggiero said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

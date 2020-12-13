@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="CN233329" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1228393"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000906T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E6DC1739F935A3575AC0A9669C8B63" item-length="330" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEXIS-NEXIS, Dayton, Ohio, the legal information provider owned by the international publishing company Reed Elsevier P.L.C., said it acquired Press Access Inc., Boston. Terms were not disclosed.</p>
+        <p>BOEING CO., Seattle, as part of its expansion into computerized maintenance services, said that it had acquired the software company AeroInfo Systems Inc. Boeing would not say how much it paid to acquire AeroInfo, a privately held 14-person company in Richmond, British Columbia.</p>
+      </block>
+      <block class="full_text">
+        <p>LEXIS-NEXIS, Dayton, Ohio, the legal information provider owned by the international publishing company Reed Elsevier P.L.C., said it acquired Press Access Inc., Boston. Terms were not disclosed.</p>
+        <p>BOEING CO., Seattle, as part of its expansion into computerized maintenance services, said that it had acquired the software company AeroInfo Systems Inc. Boeing would not say how much it paid to acquire AeroInfo, a privately held 14-person company in Richmond, British Columbia.</p>
+        <p>CUSHMAN &amp; WAKEFIELD INC., New York, one of the world's largest real estate services firms, bought Japan Property Advisors K.K., a commercial real estate company based in Tokyo, now known as Cushman &amp; Wakefield K.K. Terms were not disclosed.</p>
+        <p>UGI CORP., King of Prussia, Pa., the largest U.S. propane distributor, said it bought for an undisclosed price the southeastern Pennsylvania and nothern Delaware heating and cooling service businesses of Conectiv, Wilmington Del.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

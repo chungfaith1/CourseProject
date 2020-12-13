@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Privacy Can Be Elusive In the World of E-Mail</title>
+    <meta content="27ASKK$01" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1217954"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <person class="indexing_service">Biersdorfer, J D</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000727T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E7D71E3AF934A15754C0A9669C8B63" item-length="651" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Privacy Can Be Elusive In the World of E-Mail</hl1>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+      <byline class="normalized_byline">Biersdorfer, J D</byline>
+      <abstract>
+        <p>Answers to readers' questions on e-mail, including how safe and private it is (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. How safe and private is e-mail? I keep seeing advertisements for e-mail security programs and wonder if this type of software is really necessary for the average user.</p>
+        <p>A. You would probably do well to abide by an old rule of thumb when it comes to the privacy of e-mail: Never put anything in an e-mail message that you wouldn't write on a postcard.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. How safe and private is e-mail? I keep seeing advertisements for e-mail security programs and wonder if this type of software is really necessary for the average user.</p>
+        <p>A. You would probably do well to abide by an old rule of thumb when it comes to the privacy of e-mail: Never put anything in an e-mail message that you wouldn't write on a postcard.</p>
+        <p>Between the time you click the Send button and it arrives in the In box of the recipient, a typical e-mail message travels through at least a couple of mail servers and other computers. Hackers usually have bigger targets than mail servers in mind, but it is possible for the security of the electronic mail to be compromised. Web-based e-mail accounts like Hotmail have also proved themselves in the past to be vulnerable to skilled hackers.</p>
+        <p>The possibility of hackers poking around in e-mail servers is probably fairly insignificant compared with  more commonplace security risks: the people around you. If you share a family computer or e-mail account, there are obvious privacy issues that could arise. Anyone who knows your e-mail password can read and send e-mail from your account.</p>
+        <p>You may want to be careful when sending personal mail from your work e-mail account. Some corporations save and archive copies of all incoming and outgoing messages for legal and in-house security reasons. Employers generally have the legal right to read any employee mail that passes through the corporate mail servers, so you may want to keep that in mind.</p>
+        <p>In general, it is wise to avoid sending personal information like your credit card or Social Security number by e-mail, and you might want to keep deeply private messages out of the office mail servers.</p>
+        <p>One simple way to shield your personal mail from most potential prying eyes is to encrypt it before you send it. Most encryption programs will translate your message into gibberish and require the same program and a password to decipher the text on the other end. You can purchase commercial encryption software to work with your e-mail program or download a copy of the freeware version of the Pretty Good Privacy program from the link at www.pgp.com. There are PGP versions available for the Windows, DOS, Macintosh and Linux systems.</p>
+        <p>Q. What makes my e-mail program decide to start displaying the messages in my In box out of chronological order?</p>
+        <p>A. There are at least a few things in your e-mail program of choice that you might want to look at that might reveal why your messages are out of order. Many e-mail programs give you the option to display the incoming messages according to your time zone or that of the sender. If the setting is selected for the sender's time zone and you have a lot of international correspondents in addition to your local ones, the messages may sort out of order because of the mixture of time zones.</p>
+        <p>Some e-mail programs will let you sort your messages by different criteria besides the time they were sent, like Priority settings, size, subject or sender. In many e-mail programs, like Eudora Pro, simply clicking at the top of each column in the In box window will re-sort the mail according to the designation of that column. For example, if you have accidentally clicked in the Subject column of the In box, you may find your mail is sorting alphabetically according to the subject lines. Clicking on the Date column should restore your chronological sorting. If only one or two of your correspondents aren't sorting properly, their messages might simply be coming from a computer with the incorrect system date and time.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Now You Can Miss Your Show From Just About Anywhere</title>
+    <meta content="10GEE4$01" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1221395"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Videocassette Recorders (Vcr)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Replaytv</org>
+        <person class="indexing_service">Lewis, Peter H</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000810T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E3D81F3CF933A2575BC0A9669C8B63" item-length="228" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Now You Can Miss Your Show From Just About Anywhere</hl1>
+      </hedline>
+      <byline class="print_byline">By PETER H. LEWIS</byline>
+      <byline class="normalized_byline">Lewis, Peter H</byline>
+      <abstract>
+        <p>Owners of Replay TV-based digital video recorders may soon be able to operate their recorders at home from anywehre in the world through Internet; new service, called MyReplayTV, will be available this fall (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In what the company calls ''the ultimate remote control,'' owners of ReplayTV-based digital video recorders may soon be able to operate their recorders at home from anywhere in the world through the Internet. For example, a New Yorker traveling in Texas would be able to log on to the www.myreplaytv.com Web site, view hometown program listings, set the recorder to capture a show, view the amount of recording time left on the disk and make sure that the show is being recorded. Of course, that's assuming that the system works as described yesterday. ReplayTV concedes that it has not been tested outside the laboratory.</p>
+        <p>The new service, called MyReplayTV, will be available this fall, when ReplayTV upgrades the system software for its recorders, said Jim Hollingsworth, a senior vice president for the company, which is in Mountain View, Calif.</p>
+      </block>
+      <block class="full_text">
+        <p>In what the company calls ''the ultimate remote control,'' owners of ReplayTV-based digital video recorders may soon be able to operate their recorders at home from anywhere in the world through the Internet. For example, a New Yorker traveling in Texas would be able to log on to the www.myreplaytv.com Web site, view hometown program listings, set the recorder to capture a show, view the amount of recording time left on the disk and make sure that the show is being recorded. Of course, that's assuming that the system works as described yesterday. ReplayTV concedes that it has not been tested outside the laboratory.</p>
+        <p>The new service, called MyReplayTV, will be available this fall, when ReplayTV upgrades the system software for its recorders, said Jim Hollingsworth, a senior vice president for the company, which is in Mountain View, Calif.</p>
+        <p>Unlike the more common videocassette recorders, digital video recorders capture programs as digital files on a giant hard disk; users can easily skip through commercials and other tedious parts of a program. A ReplayTV recorder with 30 hours of capacity costs about $600, and one with 20 hours costs $400 to $500.</p>
+        <p>PETER H. LEWIS</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Adding Program Icons To Windows 98 Taskbar</title>
+    <meta content="13ASKK$02" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1214454"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Biersdorfer, J D</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000713T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E6DF1E38F930A25754C0A9669C8B63" item-length="722" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Adding Program Icons To Windows 98 Taskbar</hl1>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+      <byline class="normalized_byline">Biersdorfer, J D</byline>
+      <abstract>
+        <p>Answers to readers' questions about the computer and the Internet</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. Is it possible to add icons to the Windows 98 taskbar for programs that I frequently use ?  A. Yes, icons can be added in just a few steps for frequently used programs or files to the Quick Launch toolbar in the taskbar. On many Windows systems, you will already see some icons, like the one for Internet Explorer. Right-click on an empty area of the Quick Launch toolbar and make sure that Quick Launch is checked on the pop-up menu.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. Is it possible to add icons to the Windows 98 taskbar for programs that I frequently use ?  A. Yes, icons can be added in just a few steps for frequently used programs or files to the Quick Launch toolbar in the taskbar. On many Windows systems, you will already see some icons, like the one for Internet Explorer. Right-click on an empty area of the Quick Launch toolbar and make sure that Quick Launch is checked on the pop-up menu.</p>
+        <p>Locate the program or file that you would like to place in the Quick Launch toolbar. You can either go through My Computer or the Windows Explorer to find your desired items; program files will have an .exe extension.</p>
+        <p>Once you have found the item, drag the file onto the Quick Launch toolbar and let go when you see a small vertical black bar flash in the toolbar. A shortcut to the original file will be created in the taskbar, and a small icon should appear. (Remember, a shortcut is not a copy -- it is a pointer. It can be moved or deleted without harming the original.)</p>
+        <p>To delete programs or files from the Quick Launch toolbar, right-click on the unwanted icon, select Delete and click on OK. in the alert box that asks if you want to move the shortcut to the Recycle Bin.</p>
+        <p>If you would like to clean your desktop of clutter, you can drag the shortcuts onto the Quick Launch toolbar and then delete them from the desktop.</p>
+        <p>If you would prefer to open files from desktop icons instead of tiny taskbar icons but do not have existing shortcut files, it is simple to create them. Locate the original program or file, right-click on the icon and select Create Shortcut. You can then drag the shortcut file to wherever you would like.</p>
+        <p>Q. My version of the Netscape browser for Macintosh does not display pictures on Web pages unless I click on the Images button on the toolbar. Is there a way to fix this so the pictures automatically show up?  A. For those who prefer to surf for text and not wait for images to download, most browsers provide an option to block the pictures and graphics. You can check Netscape's Preferences to see if this no-images option is turned on.</p>
+        <p>To do this in the latest version of Netscape for the Macintosh and Windows, go to Edit in the menu bar and select Preferences. When the Preferences box pops up, click on the advanced category in the left side of the box and make sure the ''Automatically load images'' option is checked.</p>
+        <p>Q. How can I change my Windows password?  A. If you would like to change your Windows password, go to the Start menu and select Settings and then Control Panel. Double-click on the Passwords icon, click on Change Windows Password and then click on O.K. You will be asked to type in your old password first, and then to type in the new one you wish to use. You will need to type the new password a second time to confirm it, and then click on O.K.</p>
+        <p>Q. When talking about the Internet, what is meant by the term ''backbone?''  A. Much like the nervous-system signals that are transmitted along the spinal cord, the backbone of a network is the pipeline that handles most of the major traffic for computers connected to it. The backbone is often the longest physical part of the network and usually contains cable capable of delivering data at the fastest speeds. Several communications companies, like UUNet, Sprint, MCI and GTE, own the biggest networks that help make up the Internet backbone.</p>
+        <p>Smaller networks connect to the backbone at various points, making up the Internet. And just as an injury to your back can slow you down, a problem with part of the Internet backbone can make your connection sluggish or even put it out of commission.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Circuits invites questions about computer-based technology, by e-mail to QandA@nytimes.com or mail to Questions, Circuits, The New York Times, 229 West 43rd Street, New York, N.Y. 10036-3959. This column will answer questions of general interest, but letters cannot be answered individually.</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

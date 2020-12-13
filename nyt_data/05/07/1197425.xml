@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Don't Omit Levinson</title>
+    <meta content="LTR020857" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts; Theater; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1197425"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="MOVIES AND POP"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Culture</classifier>
+        <person class="indexing_service">Holden, Stephen</person>
+        <person class="indexing_service">Ratkowski, Myron R</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Culture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000507T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E4DB1F39F934A35756C0A9669C8B63" item-length="82" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Don't Omit Levinson</hl1>
+      </hedline>
+      <abstract>
+        <p>Myron R Ratkowski letter comments on Stephen Holden's April 23 article on onscreen discussions of popular culture (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Stephen Holden's article about on-screen discussions of popular culture [''Admitting to Our Other Obsessions,'' April 23] gave undue credit to Quentin Tarantino in leading the way with ''Reservoir Dogs'' and ''Pulp Fiction.'' The true leader in pop culture conversations found in movies is the writer-director Barry Levinson in ''Tin Men'' and ''Diner.''</p>
+        <p>MYRON R. RATKOWSKI  Milwaukee</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Stephen Holden's article about on-screen discussions of popular culture [''Admitting to Our Other Obsessions,'' April 23] gave undue credit to Quentin Tarantino in leading the way with ''Reservoir Dogs'' and ''Pulp Fiction.'' The true leader in pop culture conversations found in movies is the writer-director Barry Levinson in ''Tin Men'' and ''Diner.''</p>
+        <p>MYRON R. RATKOWSKI  Milwaukee</p>
+        <p>MOVIES AND POP</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

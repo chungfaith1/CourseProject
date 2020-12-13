@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Good Word for the Maligned Oxidant</title>
+    <meta content="09OXID" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health &amp; Fitness" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1198033"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="VITAL SIGNS: REACTIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Heart</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <org class="indexing_service">Ohio State University</org>
+        <person class="indexing_service">Nagourney, Eric</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000509T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E0DB1738F93AA35756C0A9669C8B63" item-length="253" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Good Word for the Maligned Oxidant</hl1>
+      </hedline>
+      <byline class="print_byline">By Eric Nagourney</byline>
+      <byline class="normalized_byline">Nagourney, Eric</byline>
+      <abstract>
+        <p>Ohio State University researchers find much-reviled oxidants, long linked to illnesses, seem to play vital role in repairing blood-vessel damage that can lead to heart attacks; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The much-reviled oxidant, also known as the free radical, has a new defender.</p>
+        <p>The chemical, which occurs naturally in the body, has long been linked to cancer and other illnesses. And antioxidants, including those found in high concentrations in fruits like the pomegranate, have been assumed to be of potential value.</p>
+      </block>
+      <block class="full_text">
+        <p>The much-reviled oxidant, also known as the free radical, has a new defender.</p>
+        <p>The chemical, which occurs naturally in the body, has long been linked to cancer and other illnesses. And antioxidants, including those found in high concentrations in fruits like the pomegranate, have been assumed to be of potential value.</p>
+        <p>But a study by researchers at Ohio State University finds that when it comes to heart disease, at least, the oxidant has had a bum rap. Dr. Pascal Goldschmidt, director of the university's heart and lung institute, says oxidants actually appear to play a vital repair role in repairing blood-vessel damage that can lead to heart attacks.</p>
+        <p>When wounds occur in the walls of blood vessels -- as happens, for example, when cholesterol builds up -- endothelial cells nearby produce more oxidants than their counterparts do elsewhere in the body, Dr. Leni Moldovan and Dr. Goldschmidt reported in a recent issue of the journal Circulation Research.</p>
+        <p>Although the free radicals do kill healthy cells, the researchers said, they appear to be necessary if new endothelial cells are to come in and fill the hole caused by the wound.</p>
+        <p>''We can look at oxidants as not just being the bad guys, but sometimes playing a positive role,'' Dr. Goldschmidt said.</p>
+        <p>A goal, researchers said, should be to develop drugs that stop the damage the oxidants cause, but let them do their repairs.</p>
+        <p>VITAL SIGNS: REACTIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

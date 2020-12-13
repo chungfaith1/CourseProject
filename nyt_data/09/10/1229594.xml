@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books In Brief: Nonfiction</title>
+    <meta content="RV101521" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1229594"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Whitworth, E Andra</person>
+        <person class="indexing_service">Bilger, Burkhard</person>
+        <object.title class="indexing_service">Noodling For Flatheads (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000910T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E3DA1230F933A2575AC0A9669C8B63" item-length="290" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books In Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By E. Andra Whitworth</byline>
+      <byline class="normalized_byline">Whitworth, E Andra</byline>
+      <abstract>
+        <p>E Andra Whitworth reviews book Noodling for Flatheads by Burkhard Bilger (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Noodling for Flatheads</p>
+        <p>By Burkhard Bilger.</p>
+        <p>Scribner, $24.</p>
+      </block>
+      <block class="full_text">
+        <p>Noodling for Flatheads</p>
+        <p>By Burkhard Bilger.</p>
+        <p>Scribner, $24.</p>
+        <p>Some stories can be both tall and true. Any Southerner who has ever had to defend himself against accusations of telling oddball down-home tales will feel vindicated by ''Noodling for Flatheads,'' a collection of essays by Burkhard Bilger that offers a rare and sometimes surprising glimpse of the arcane traditions of the American backwoods and the diverse characters who keep them alive. Bilger, a senior editor at Discover magazine, travels the rural backroads of Oklahoma, Louisiana, Georgia, Tennessee and Kentucky, hobnobbing with ''noodlers'' (those who fish for catfish with their bare hands), coon hunters, cockfighters, moonshine runners, rolley holers (marbles players), squirrel eaters and soul-food lovers. Bilger's folksy descriptions of these eccentric pursuits are charming, though he does not fail to point out that they can be hazardous, violent or illegal. In fact, his presentation of the historic origins of these traditions and the cultural roles they have played in American life is so adept that even the brutal sport of cockfighting and an occasional hankering for squirrel brains can be viewed with a certain degree of sympathy. However, he book lacks a central thesis, which risks reducing it to little more than voyeurism. Certainly many Southerners will wince at the exposure of the peculiar and sometimes seemingly irrational traditions that modern society has forced underground. But those of us who still eat white clay, smoke corncob pipes and whittle on the front porch will be grinning with all six teeth as we revel in a book that respectfully reinforces the many quirky stories that circulate throughout the region yet are seldom believed by outsiders.</p>
+        <p>E. Andra Whitworth</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

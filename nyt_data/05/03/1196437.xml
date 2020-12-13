@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OFF THE MENU</title>
+    <meta content="03OFF.$01" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1196437"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Shutdowns (Institutional)</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Trois Jean (NYC Restaurant)</org>
+        <org class="indexing_service">La Fourchette (NYC Restaurant)</org>
+        <org class="indexing_service">Delphini (NYC Restaurant)</org>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Off the Menu</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shutdowns (Institutional)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000503T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E6D61339F930A35756C0A9669C8B63" item-length="327" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OFF THE MENU</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>Roundup of Manhattan restaurants news; Trois Jean, La Fourchette and Delphini have closed (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Comings and Goings</p>
+        <p>Trois Jean, a French bistro at 154 East 79th Street, has closed. Jean-Luc Andriot, the managing partner, who said he wanted more time with his family, has formed a consulting company. Jean-Louis Dumonet, the chef, is now the executive chef at Palladin on West 49th Street. The Trois Jean space has been rented by Henry Hershkowitz and his partners in the Screening Room in TriBeCa. They plan to open the Dining Room, designed by Larry Bogdanow, in July. Without movies.</p>
+      </block>
+      <block class="full_text">
+        <p>Comings and Goings</p>
+        <p>Trois Jean, a French bistro at 154 East 79th Street, has closed. Jean-Luc Andriot, the managing partner, who said he wanted more time with his family, has formed a consulting company. Jean-Louis Dumonet, the chef, is now the executive chef at Palladin on West 49th Street. The Trois Jean space has been rented by Henry Hershkowitz and his partners in the Screening Room in TriBeCa. They plan to open the Dining Room, designed by Larry Bogdanow, in July. Without movies.</p>
+        <p>La Fourchette, an elegant spot at 1608 First Avenue (84th Street), has closed. The chef, Marc Murphy, will work at Chinoiserie, the restaurant that is to open in August in the Giraffe Hotel, on Park Avenue South and 26th Street. Chinoiserie will be run by an owner of La Fourchette, Abraham Merchant.</p>
+        <p>Delphini, a Mediterranean restaurant at 519 Columbus Avenue (85th Street), has closed. Turgut Balikci and Kemal Binici, the new owners, will turn it into a French brasserie.</p>
+        <p>Short Orders</p>
+        <p>Domingo, 209 East 49th Street, has been redecorated and has become Placido Domingo Restaurant and Tapas Bar. Patricia Quintana, an author of Mexican cookbooks, has revised the menu, with Spanish and Mexican dishes.</p>
+        <p>Alaia, partly owned by the actor Stephen Baldwin and named for his daughter, is to become Luahn in a few weeks. Luahn is the name of a boat on which the chef, Tim Eagan, worked as a teenager.</p>
+        <p>Chefs on the Move</p>
+        <p>Patricia Williams, the former chef at Berkeley Bar and Grill, has moved to Butterfield 81, 170 East 81st Street. Butterfield 81's former chef, Tom Valenti, will be opening a restaurant at Broadway and 84th Street.</p>
+        <p>The new chef at Patroon, 160 East 46th Street, is Craig Coupani, formerly of ''21'' Club and Tabla. He replaces Geoffrey Zakarian, who will be the chef at Town, which is to open on 56th Street in the fall.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

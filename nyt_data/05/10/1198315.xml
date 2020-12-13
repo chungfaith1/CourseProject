@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Suspect Held In Virus Case Is Free for Now</title>
+    <meta content="Y10VIRU" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1198315"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <location class="indexing_service">Philippines</location>
+        <org class="indexing_service">Federal Bureau of Investigation</org>
+        <org class="indexing_service">AMA Computer College (Philippines)</org>
+        <person class="indexing_service">Mydans, Seth</person>
+        <person class="indexing_service">Ramones, Reomel</person>
+        <person class="indexing_service">De Guzman, Irene</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Philippines</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Philippines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000510T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E1D81138F933A25756C0A9669C8B63" item-length="869" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Suspect Held In Virus Case Is Free for Now</hl1>
+      </hedline>
+      <byline class="print_byline">By SETH MYDANS</byline>
+      <byline class="normalized_byline">Mydans, Seth</byline>
+      <dateline>MANILA, May 9</dateline>
+      <abstract>
+        <p>Reomel Ramones, bank employee in Philippines, is released for lack of evidence after being held overnight as suspect in creation of computer program that has disrupted computer traffic around the world; officials say Ramones must reappear in 10 days to answer charges and that they are examining list of 10 names provided by FBI as possible suspects; all names are linked to AMA Computer College in Manila where student had earlier written password-stealing program similar to destructive program that has caused tens of millions of dollars of damage in at least 20 countries in last week; 10 names apparently include that of Ramones and his roommate, Irene de Guzman, who failed to turn herself in as promised to National Bureau of Investigations (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A bank employee was released today for lack of evidence after being held overnight as a suspect in the creation of a computer program that has disrupted computer traffic around the world.</p>
+        <p>But officials said that he must reappear in 10 days to answer charges and that they were examining a list of 10 names provided by the Federal Bureau of Investigation as possible suspects.</p>
+      </block>
+      <block class="full_text">
+        <p>A bank employee was released today for lack of evidence after being held overnight as a suspect in the creation of a computer program that has disrupted computer traffic around the world.</p>
+        <p>But officials said that he must reappear in 10 days to answer charges and that they were examining a list of 10 names provided by the Federal Bureau of Investigation as possible suspects.</p>
+        <p>All the names are linked to a computer college in Manila where an official said today that a student had earlier written a password-stealing program similar to the destructive program that has caused tens of millions of dollars of damage in at least 20 countries in the last week.</p>
+        <p>The 10 names apparently include that of the bank employee, Reomel Ramones, 27, and of his roommate, Irene de Guzman, who failed to turn herself in as promised today to the National Bureau of Investigation.</p>
+        <p>''The evidence is incomplete,'' said Senior Prosecutor Severino Gana as Mr. Ramones was released. ''There are still diskettes which they need to evaluate.''</p>
+        <p>A raid on the Ramones apartment on Monday turned up computer paraphernalia but not the actual PC from which authorities believe the attack originated last week. In addition, investigators are hampered by the lack of any Philippine law making computer vandalism a crime.</p>
+        <p>The arrest warrant was issued under a law aimed at prosecuting credit card and bank fraud. Experts said today that prosecution under that law might be difficult.</p>
+        <p>''There were no computers retrieved but there were indications of equipment taken out; there were computer parts,'' said Federico Opinion, the chief of the National Bureau of Investigation.</p>
+        <p>Another bureau official, Elfren Meneses, said the 10 names under suspicion were found embedded in the virus, possibly in coded form, and that all had links with the AMA Computer College in Manila. He said both Mr. Ramones and Ms. de Guzman had attended the college, which has 10,000 students at branches in Manila and elsewhere.</p>
+        <p>Manuel Abad, the college's executive vice president, said the institution had examined student theses in recent days and found one with a program he described as ''very close'' to the virus.</p>
+        <p>He said that the program had been written mostly in Visual Basic, the programming language used for the virus, and that the thesis had been rejected because ''we saw something there that will download passwords of other users,'' just as the virus did.</p>
+        <p>''It was very simple,'' Mr. Abad said. ''Once you triggered it, it would look for passwords and pass them back. I think we have a strong lead here.''</p>
+        <p>The virus, which was sent as an attachment to an e-mail message with the subject line ''I Love You,'' propagates itself to e-mail addresses found on the victim's computer. It was also designed to detect and steal passwords from recipients' computers and relay them to a Philippine e-mail address.</p>
+        <p>Both Mr. Ramones and Ms. de Guzman denied involvement today.</p>
+        <p>Officials said Mr. Ramones told them he was a victim of ''mistaken identity.'' He told The Associated Press: ''What hurts is that I did not do it, and yet they are pinning me down. The problem here is I am not even fond of the Internet.''</p>
+        <p>He said he had a degree in accounting and worked in the user-support department of a local bank, Equitable Bank, where his job is to refer calls about computer problems to technicians.</p>
+        <p>Ms. de Guzman's lawyer, Rolando Quimbo, visited the headquarters of the National Bureau of Investigation and told reporters, ''Definitely she has nothing to do with it.''</p>
+        <p>Prosecutors said they had focused on the couple because they had traced the virus to a PC in their apartment in Pandacan, a lower-middle-class area in Manila.</p>
+        <p>They raided the apartment on Monday and seized telephones and computer accessories. While they were there in the late afternoon, Mr. Ramones arrived from work and was taken into custody.</p>
+        <p>The raid had been delayed for nearly three days because investigators said they could not find a judge over the weekend to issue a warrant and then could not determine an applicable law under which to make arrests.</p>
+        <p>Ronaldo Zamora, executive secretary to President Joseph Estrada, called on the Philippine Congress to pass urgent legislation covering computer crimes.</p>
+        <p>''It is clear that the virus caused much damage,'' Mr. Zamora said. ''We were not affected that much, but the Philippines was used as the point of origin.''</p>
+        <p>He said the government had not yet decided whether the Philippines would allow other countries affected by the virus to seek damages from any suspects. Any possible extradition could also be complicated by the lack of a domestic computer-crimes law because extradition generally requires recognition of a crime by the host country.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

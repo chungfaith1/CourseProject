@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pitcher Hit by Line Drive Suffered Retinal Damage</title>
+    <meta content="Y10BRY$01" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1229469"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">Eyes and Eyesight</classifier>
+        <org class="indexing_service">New York Yankees</org>
+        <org class="indexing_service">Boston Red Sox</org>
+        <person class="indexing_service">Florie, Bryce</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Boston Red Sox</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Eyes and Eyesight</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000910T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE5DB1E39F933A2575AC0A9669C8B63" item-length="174" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pitcher Hit by Line Drive Suffered Retinal Damage</hl1>
+      </hedline>
+      <dateline>BOSTON, Sept. 9</dateline>
+      <abstract>
+        <p>Boston Red Sox pitcher Bryce Florie, hit in face with batted ball in game with New York Yankees, undergoes surgery; team announces there is extensive damage to his right eye (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Red Sox pitcher Bryce Florie, hit in the face by a line drive in Friday's game with the Yankees, underwent surgery today and, the team said, there was extensive damage to his right eye.</p>
+      </block>
+      <block class="full_text">
+        <p>Red Sox pitcher Bryce Florie, hit in the face by a line drive in Friday's game with the Yankees, underwent surgery today and, the team said, there was extensive damage to his right eye.</p>
+        <p>The Red Sox released a statement from Bill Morgan, their team doctor, who said Florie's right eyeball was severely injured. There was retinal damage, Morgan said, but it was not yet clear if further surgery was needed. The chance of regaining reasonable vision was guarded, he said. Morgan also said Florie had three fractures around his right eye socket that would require surgery, a nasal fracture, a fracture of the medial wall and a fracture of the floor of the socket.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

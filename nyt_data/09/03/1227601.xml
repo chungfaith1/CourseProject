@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Wish You Were There?</title>
+    <meta content="03BILL" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/03/living/03BILL.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1227601"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="ON THE STREET"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Apparel</classifier>
+        <person class="indexing_service">Cunningham, Bill</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000903T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE3DC1530F930A3575AC0A9669C8B63" item-length="165" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Wish You Were There?</hl1>
+      </hedline>
+      <byline class="print_byline">By Bill Cunningham</byline>
+      <byline class="normalized_byline">Cunningham, Bill</byline>
+      <abstract>
+        <p>Photos of several postcard print dresses in New York City (On the Street column) (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The postcard print, a colorful travelogue fabric for dresses and skirts, was the whimsical motif of summer. Its strips of postcards circle international monuments in cities like Montreal and Hong Kong, where the designs come from. The most popular depicts St. Peter's Basilica, with Swiss Guards and a papal coat of arms, surrounded by a colonnade of postcards. It was worn for day and evening. The fabric and colors recall dress prints by Marcel Vertes and Christian Berard that Schiaparelli popularized before World War II, worn here throughout the war. This summer, they seemed to be saying, ''Having a marvelous time.''</p>
+      </block>
+      <block class="full_text">
+        <p>The postcard print, a colorful travelogue fabric for dresses and skirts, was the whimsical motif of summer. Its strips of postcards circle international monuments in cities like Montreal and Hong Kong, where the designs come from. The most popular depicts St. Peter's Basilica, with Swiss Guards and a papal coat of arms, surrounded by a colonnade of postcards. It was worn for day and evening. The fabric and colors recall dress prints by Marcel Vertes and Christian Berard that Schiaparelli popularized before World War II, worn here throughout the war. This summer, they seemed to be saying, ''Having a marvelous time.''</p>
+        <p>ON THE STREET</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

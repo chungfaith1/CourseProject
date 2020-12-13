@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Todd' in Finnish</title>
+    <meta content="LTR012918" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Theater; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1199304"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="OPERA OR MUSICAL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Opera</classifier>
+        <org class="indexing_service">Finnish National Opera</org>
+        <person class="indexing_service">Luce, James</person>
+        <person class="indexing_service">Sondheim, Stephen</person>
+        <person class="indexing_service">Rorem,  Ned</person>
+        <object.title class="indexing_service">Sweeney Todd (Play)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features/People</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features/People/Stephen Sondheim</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Opera</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000514T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E3D8163BF937A25756C0A9669C8B63" item-length="88" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Todd' in Finnish</hl1>
+      </hedline>
+      <abstract>
+        <p>James Luce letter on Stephen Sondheim and Ned Rorem's April 30 discussion on difference between opera and musicals recalls seeing Finnish National Opera production of Sweeney Todd in Helsinki (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The discussion of musicals and operas reminds me that last season I had the good luck to attend the Finnish National Opera production of ''Sweeney Todd'' in Helsinki.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The discussion of musicals and operas reminds me that last season I had the good luck to attend the Finnish National Opera production of ''Sweeney Todd'' in Helsinki.</p>
+        <p>I was quite sure that what I was hearing and seeing was opera, but was that because I was in an opera house or because the performance was in a language that I scarcely understand (Finnish, with English surtitles)?</p>
+        <p>JAMES LUCE  Warwick, N.Y.</p>
+        <p>OPERA OR MUSICAL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

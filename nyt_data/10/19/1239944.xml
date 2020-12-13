@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Internet Appliance That Lets You Wander</title>
+    <meta content="19GEE3$01" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/19/technology/19GEE3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1239944"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <org class="indexing_service">Honeywell Inc</org>
+        <person class="indexing_service">Headlam, Bruce</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001019T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E0DC153EF93AA25753C1A9669C8B63" item-length="385" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Internet Appliance That Lets You Wander</hl1>
+      </hedline>
+      <byline class="print_byline">By BRUCE HEADLAM</byline>
+      <byline class="normalized_byline">Headlam, Bruce</byline>
+      <abstract>
+        <p>Honeywell introduces its WebPAD wireless Internet appliance; unit allows users to browse entire Internet and send and receive e-mail; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Honeywell has its own take on the wireless Web, which, if not as big as all outdoors, is at least as big as your backyard.</p>
+        <p>Honeywell's WebPAD is a wireless Internet appliance. Bigger than a Palm but smaller than a laptop, the WebPAD is designed to browse the full Web and provide e-mail service through a wireless connection to a base station. (The WebPAD has to be within 150 feet of the Proxim Access Point Base Station, also from Honeywell, to work.) Looking a lot like an Etch A Sketch, the device has a 10-inch, full-color L.C.D. touch screen; it comes with a stylus and a lithium battery that should last between four and five hours between charges. The device also comes loaded with Windows CE versions of Internet Explorer and Word.</p>
+      </block>
+      <block class="full_text">
+        <p>Honeywell has its own take on the wireless Web, which, if not as big as all outdoors, is at least as big as your backyard.</p>
+        <p>Honeywell's WebPAD is a wireless Internet appliance. Bigger than a Palm but smaller than a laptop, the WebPAD is designed to browse the full Web and provide e-mail service through a wireless connection to a base station. (The WebPAD has to be within 150 feet of the Proxim Access Point Base Station, also from Honeywell, to work.) Looking a lot like an Etch A Sketch, the device has a 10-inch, full-color L.C.D. touch screen; it comes with a stylus and a lithium battery that should last between four and five hours between charges. The device also comes loaded with Windows CE versions of Internet Explorer and Word.</p>
+        <p>The WebPAD has a few features, other than the wireless connection, that set it apart from other Internet appliances. First, it will work with any Internet service provider. Second, the WebPAD provides online access for users who also have Honeywell's Home Controller Gateway, allowing them to control the lighting, heating and security in their homes.</p>
+        <p>But those features do come at a steep price of $995. The company also recommends using the WebPAD only with a cable modem or D.S.L. connection, and the required base station is an additional $195. (It is possible to use an existing dial-up modem if you already have a computer, but that requires a separate connection, also sold by Honeywell.)</p>
+        <p>And unlike regular kitchen appliances, the WebPAD slices but it doesn't always dice. The current version can download most files but can't handle Shockwave and some QuickTime plug-ins, for example, and it can't (gasp!) download MP3 files, although Honeywell promises that will change with its next release. In the meantime, the WebPAD lets you wander the Web, but be careful what you bring home.</p>
+        <p>BRUCE HEADLAM</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

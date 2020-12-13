@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Rx for Doctors</title>
+    <meta content="LTR224457" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1198163"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <person class="indexing_service">Coveney, Catherine</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000509T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E0D71038F93AA35756C0A9669C8B63" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Rx for Doctors</hl1>
+      </hedline>
+      <abstract>
+        <p>Catherine Coveney letter on May 2 article complains doctors fail to read patients' charts; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>It is all very well to suggest that doctors take more detailed information for charts, but I think we should start with getting doctors to read the charts they now put together (''A Case for Expanding the Doctor's Checklist'').</p>
+        <p>I speak as one who has been given medicine I was known to be allergic to and being told by one doctor, ''If I read the chart of everyone I see I wouldn't get to see everybody.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>It is all very well to suggest that doctors take more detailed information for charts, but I think we should start with getting doctors to read the charts they now put together (''A Case for Expanding the Doctor's Checklist'').</p>
+        <p>I speak as one who has been given medicine I was known to be allergic to and being told by one doctor, ''If I read the chart of everyone I see I wouldn't get to see everybody.''</p>
+        <p>I firmly believe that in medicine, a motto must be, ''When all else fails read the chart.''</p>
+        <p>CATHERINE COVENEY  Los Osos, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

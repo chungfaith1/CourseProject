@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books In Brief: Nonfiction</title>
+    <meta content="RV101541" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1229596"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Butler, Mary Grace</person>
+        <person class="indexing_service">Mcguane, Thomas</person>
+        <object.title class="indexing_service">Longest Silence, The: A Life In Fishing (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000910T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E3DA1230F933A2575AC0A9669C8B63" item-length="239" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books In Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Mary Grace Butler</byline>
+      <byline class="normalized_byline">Butler, Mary Grace</byline>
+      <abstract>
+        <p>Mary Grace Butler reviews book The Longest Silence: A Life in Fishing by Thomas McGuane (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE LONGEST SILENCE</p>
+        <p>A Life in Fishing.</p>
+        <p>By Thomas McGuane.</p>
+        <p>Knopf, $25.</p>
+      </block>
+      <block class="full_text">
+        <p>THE LONGEST SILENCE</p>
+        <p>A Life in Fishing.</p>
+        <p>By Thomas McGuane.</p>
+        <p>Knopf, $25.</p>
+        <p>Fishing, like life, is a series of small events that, with luck, can produce large results. In ''The Longest Silence,'' a collection of more than 30 essays, the novelist Thomas McGuane takes us with him as he fishes all over the world, seemingly with no constraints of money or time, and often accompanied by famous names. His observations on the mechanics of fishing are entertaining as well as technical, but it is the gentle, elegiac descriptions laced with crisp opinion that draw the reader in -- trips to Fall River to fish with Uncle Bill and Cousin Fred, fishing with other McGuanes in Ireland, days in Key West, once ''a great and corrupt gardenia of an island,'' or in Idaho, where ''short memories and hit-and-run management techniques'' have damaged rivers. McGuane has little patience for the pretentious, complaining of those who ''scramble to name flies and knots after themselves with a self-aggrandizing ardor unknown since the Borgia popes'' and laments that modern fisherfolk, in Izaak Walton's words, are ''no longer fitted for quietness and contemplation.''</p>
+        <p>Mary Grace Butler</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

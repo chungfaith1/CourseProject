@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR042930" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1235107"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">Red (Huntington, Ny, Restaurant)</org>
+        <person class="indexing_service">Ornato, Robert</person>
+        <person class="indexing_service">Antuzzi, Nino</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001001T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E1DC163DF932A35753C1A9669C8B63" item-length="114" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of September 17 A la Carte column about Red restaurant in Huntington, NY, which is owned by Robert Ornato and Nino Antuzzi and which misstated wine prices (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A report in the A la Carte column on Sept. 17 about Red, a new restaurant in Huntington, misstated its ownership. Robert Ornato owns the restaurant with Nino Antuzzi, not with Michael Christy, who is the executive chef. The report also misstated the price range of Red's wines. They are $20 to $200 a bottle, not under $20.</p>
+      </block>
+      <block class="full_text">
+        <p>A report in the A la Carte column on Sept. 17 about Red, a new restaurant in Huntington, misstated its ownership. Robert Ornato owns the restaurant with Nino Antuzzi, not with Michael Christy, who is the executive chef. The report also misstated the price range of Red's wines. They are $20 to $200 a bottle, not under $20.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

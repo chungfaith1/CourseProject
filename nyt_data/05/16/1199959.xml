@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY NEWS</title>
+    <meta content="16CBRIE" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1199959"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000516T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E6D6113BF935A25756C0A9669C8B63" item-length="365" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY NEWS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AZTEC TECHNOLOGY PARTNERS INC.,  Braintree, Mass., an information technology company, agreed to sell most of its voice and data business to the closely held Morgenthaler Partners VI, Cleveland, an investment group, for $34.5 million.</p>
+        <p>EPRESENCE INC.,  Westboro, Mass., a directory company on the Internet, bought the closely held SND Inc., a provider of wireless electronic commerce services, for as much as $30.5 million in cash and stock.</p>
+      </block>
+      <block class="full_text">
+        <p>AZTEC TECHNOLOGY PARTNERS INC.,  Braintree, Mass., an information technology company, agreed to sell most of its voice and data business to the closely held Morgenthaler Partners VI, Cleveland, an investment group, for $34.5 million.</p>
+        <p>EPRESENCE INC.,  Westboro, Mass., a directory company on the Internet, bought the closely held SND Inc., a provider of wireless electronic commerce services, for as much as $30.5 million in cash and stock.</p>
+        <p>SUNBEAM CORP.,  Boca Raton, Fla., which makes small appliances, said it would close its remaining 11 outlet stores in the United States and Canada and dismiss about 60 people in an attempt to lower costs.</p>
+        <p>PILLSBURY CO.,  Minneapolis, the food unit of Diageo P.L.C. and the biggest seller of bakery-mix products in North America, said it would close a plant in McMinnville, Ore., and dismiss 95 workers to cut costs.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

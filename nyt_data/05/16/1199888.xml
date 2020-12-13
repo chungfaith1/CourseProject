@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Microsoft Revises Program To Protect E-Mail Users</title>
+    <meta content="Y16VIRU" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1199888"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <org class="indexing_service">Microsoft Corp</org>
+        <person class="indexing_service">Fisher, Lawrence M</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000516T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03E6DC113BF935A25756C0A9669C8B63" item-length="472" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Microsoft Revises Program To Protect E-Mail Users</hl1>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE M. FISHER</byline>
+      <byline class="normalized_byline">Fisher, Lawrence M</byline>
+      <abstract>
+        <p>Microsoft Corp says it has developed software update for its Outlook e-mail program that would reduce vulnerability to rogue computer programs; update will be available free from Microsoft's Office Update Web site next week (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Microsoft Corporation said yesterday that it had developed a software update for its Outlook e-mail program that would reduce the vulnerability to rogue computer programs like ''I Love You'' and ''Melissa.''</p>
+        <p>The update will be available free from Microsoft's Office Update Web site (http://officeupdate.microsoft. com) next week.</p>
+      </block>
+      <block class="full_text">
+        <p>The Microsoft Corporation said yesterday that it had developed a software update for its Outlook e-mail program that would reduce the vulnerability to rogue computer programs like ''I Love You'' and ''Melissa.''</p>
+        <p>The update will be available free from Microsoft's Office Update Web site (http://officeupdate.microsoft. com) next week.</p>
+        <p>Taking advantage of security holes in Outlook, a rogue software program, borne by an e-mail message proclaiming ''I Love You,'' propelled itself around the world earlier this month, jamming and crashing e-mail systems and destroying data on millions of computers.</p>
+        <p>Known as a worm, the program was traced to a computer student in the Philippines. The program was activated when a user clicked on an e-mail attachment and could then be propagated automatically to e-mail addresses found on the user's computer. Written in Microsoft's Visual Basic scripting language, the program preyed particularly on users of the Microsoft Outlook e-mail program.</p>
+        <p>Yesterday Microsoft said the update would modify Outlook to prevent users from getting access to several file types that are sent as e-mail attachments. Those include executables, batch and other files that contain code often used by hackers to spread viruses. An additional feature prompts users with a dialog box when an external program tries to get access to their Outlook address book or send e-mail messages on their behalf, which is how rogue programs like ''I Love You'' spread.</p>
+        <p>Steven Sinofsky, senior vice president for Microsoft Office at Microsoft, said: ''Given the global impact of the 'I Love You' virus and the growing threat of malicious hackers, we strongly believe we must take the unprecedented step of limiting certain popular functionality in Outlook to provide a significant, additional security option for our customers.</p>
+        <p>''While this new security enhancement won't eliminate the threat of viruses,'' Mr. Sinofsky added, ''we believe it can greatly help eradicate the damaging class of viruses that have resulted in the 'I Love You' and 'Melissa' viruses.''</p>
+        <p>Ryan Russell, manager of information systems at Security Focus Inc., said the changes to Outlook would slow, but not stop hackers. ''It certainly does not eliminate the problem, but it slows the process down and gives people time to react,'' he said. ''That is a significant win.''</p>
+        <p>While the update removes two points of entry in Outlook, the program remains vulnerable, he said. ''I think this will force the worm writers to go a different route. It will create a little more of an arms race.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

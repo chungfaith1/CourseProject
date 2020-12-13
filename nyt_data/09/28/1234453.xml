@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cable's Danger</title>
+    <meta content="LTR010830" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234453"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">wheeler, geoff</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000928T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E5DA1E3AF93BA1575AC0A9669C8B63" item-length="247" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cable's Danger</hl1>
+      </hedline>
+      <abstract>
+        <p>Geoff Wheeler letter on Sept 21 Q&amp;A column notes cable modem users face added threats because neighbors sharing cable connection have access to their incoming data packets</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Ways to Keep Out Broadband Hackers'' (Q &amp; A, Sept. 21) did not point out that the real danger of a cable modem is not just the fact that it's ''always on.'' While having what amounts to a fixed I.P. address can give a hacker an opportunity to snoop around your machine or use it for an attack, there is an even greater hazard in not having a ''dedicated line'' connection to your I.S.P. With a cable modem, the connection to your home is shared by several of your neighbors, if not by your entire community if your cable company has been lazy about security. Packets destined for your machine are sent, along with everyone else's in your area, with the cable signal. Unscrupulous or otherwise curious neighbors can inspect the packets coming into their own connections and discern your name, I.P. address, sites you're visiting and a host of other tidbits you'd probably not want to share with everyone. Without a firewall plan that includes some sort of I.P. masking or chaining, a cable modem can be dangerous.</p>
+        <p>GEOFF WHEELER  Yorktown Heights, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Ways to Keep Out Broadband Hackers'' (Q &amp; A, Sept. 21) did not point out that the real danger of a cable modem is not just the fact that it's ''always on.'' While having what amounts to a fixed I.P. address can give a hacker an opportunity to snoop around your machine or use it for an attack, there is an even greater hazard in not having a ''dedicated line'' connection to your I.S.P. With a cable modem, the connection to your home is shared by several of your neighbors, if not by your entire community if your cable company has been lazy about security. Packets destined for your machine are sent, along with everyone else's in your area, with the cable signal. Unscrupulous or otherwise curious neighbors can inspect the packets coming into their own connections and discern your name, I.P. address, sites you're visiting and a host of other tidbits you'd probably not want to share with everyone. Without a firewall plan that includes some sort of I.P. masking or chaining, a cable modem can be dangerous.</p>
+        <p>GEOFF WHEELER  Yorktown Heights, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

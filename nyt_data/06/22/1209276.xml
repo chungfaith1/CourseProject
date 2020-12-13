@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>When Modems Fail To Stay Connected</title>
+    <meta content="22ASKK$02" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209276"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000622T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E6DF1131F931A15755C0A9669C8B63" item-length="734" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>When Modems Fail To Stay Connected</hl1>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. I am often disconnected from the Internet when I am trying to download files from the Web. Is it my computer or the site I'm on that's causing this?</p>
+        <p>A. There are several things that could be causing the problem, and you may want to start keeping track of the disconnection incidents to see if you can spot any patterns. If other files of the same size download with no problems, but you find yourself repeatedly bumped offline when trying to download a particular file, the problem could be with that file or the site it is on.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. I am often disconnected from the Internet when I am trying to download files from the Web. Is it my computer or the site I'm on that's causing this?</p>
+        <p>A. There are several things that could be causing the problem, and you may want to start keeping track of the disconnection incidents to see if you can spot any patterns. If other files of the same size download with no problems, but you find yourself repeatedly bumped offline when trying to download a particular file, the problem could be with that file or the site it is on.</p>
+        <p>One of the most common causes of interrupted Internet connections is telephone line noise. Static and scratchy sounds that you may hear occasionally while you are on the phone can really wreak havoc when your modem is using the line to communicate with another modem. A sudden increase in line noise can sometimes cause your modem to disconnect, no matter what you are doing online.</p>
+        <p>Your local phone company may be able to check your line for excess noise that might be causing frequent modem disconnections. Modems need far quieter lines to communicate than people do, though, so the company may not be able to do anything if your line doesn't sound consistently noisy.</p>
+        <p>You might also check with the technical support department of your Internet service provider to make sure you have the proper settings in your communications software for your type of modem. Some I.S.P.'s will also automatically log off users who are connected for long periods of time, so you may want to ask about the company's policy on the matter.</p>
+        <p>Q. How can I get off a software company's mailing list that I never wanted to be on? I tried replying to the return address, but my request to be taken off the list was ignored.</p>
+        <p>A. There are different types of mailing lists and different ways to get your e-mail address removed from one. Mailing lists can range from academic discussion groups that you sign up for with a specific moderator or ''list master'' to junk mail that fills up your In box courtesy of programs that comb the Internet for e-mail addresses.</p>
+        <p>Frequent ''news'' updates from companies is a type of e-mail that you may not have realized that you signed up for. It is not exactly the same kind of unsolicited e-mail as spam, since you gave the company your e-mail address at some point. A common way to accidentally get yourself included on the mailing list is to fill out a form on the Web to download a browser plug-in or free bit of software.</p>
+        <p>The site may ask for your e-mail address, but you may not notice a small series of boxes elsewhere on the page relating to updates about the company and its products. These boxes are usually checked by default to request the e-mail updates, and it is up to you to uncheck them if you don't want to receive the company's mail. Software registration forms that you either mail in or fill out and submit online are typical places you might see that sort of thing.</p>
+        <p>Before deleting the unwanted message from your computer, you might try looking through the text to see if the sender has included a specific e-mail address or Web site U.R.L. for you to use if you have questions or problems with the mail or wish to be removed from the company's mail list. A visit to the company's Web site may also yield the contact information you need to get off the list.</p>
+        <p>Hitting the Reply button on the message often does not work. In many cases, the address in the reply header of the message is different from that of the address that sent you the message, which might be the polite reason why no one responded to your request.</p>
+        <p>If you find that your mailbox is filling up with junk mail and want to learn more about how to avoid it, you can visit the home page of the Coalition Against Unsolicted Commercial E-Mail at www.cauce.org.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Circuits invites questions about computer-based technology, by e-mail to QandA@nytimes.com or mail to Questions, Circuits, The New York Times, 229 West 43rd Street, New York, N.Y. 10036-3959. This column will answer questions of general interest, but letters cannot be answered individually.</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

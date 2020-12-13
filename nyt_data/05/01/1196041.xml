@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Math in a New Light</title>
+    <meta content="L01MAT" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1196041"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Mathematics</classifier>
+        <person class="indexing_service">Edelstein, Hy</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mathematics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E1D61639F932A35756C0A9669C8B63" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Math in a New Light</hl1>
+      </hedline>
+      <abstract>
+        <p>Hy Edelstein letter on Apr 27 article holds children must first learn traditional mathematics methods before being exposed to constructivist principles</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''The New, Flexible Math Meets Parental Rebellion'' (front page, April 27): For many elementary math teachers schooled in traditional methods, relearning math on constructivist principles was a thrilling and motivating experience. They came to see mathematics in a new light, its operations and abstractions all fitting together in beautiful, logical ways.</p>
+        <p>This happy effect on teachers alone is enough to recommend constructivism -- but not to the exclusion of traditional methods.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''The New, Flexible Math Meets Parental Rebellion'' (front page, April 27): For many elementary math teachers schooled in traditional methods, relearning math on constructivist principles was a thrilling and motivating experience. They came to see mathematics in a new light, its operations and abstractions all fitting together in beautiful, logical ways.</p>
+        <p>This happy effect on teachers alone is enough to recommend constructivism -- but not to the exclusion of traditional methods.</p>
+        <p>Children need the scaffolding provided by memorizing basic math facts and certain useful algorithms on which to ''construct'' their knowledge. None of us have ever learned and understood any complex system without memorizing whole blocks of facts and procedures even before we completely understood their meaning.</p>
+        <p>HY  EDELSTEIN  Northampton, Mass., April 28, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

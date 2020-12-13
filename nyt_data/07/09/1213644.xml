@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Correction: Business School Acceptance Rates''</title>
+    <meta content="LTR000221" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Corrections; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213644"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000709T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E0DC1438F93AA35754C0A9669C8B63" item-length="137" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Correction: Business School Acceptance Rates''</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A chart on June 18 with an article about changes at the Harvard Business School improperly compared one aspect of the school's admissions with a different apsect of admissions at the Stanford Business School. For Stanord, the chart showed the percentage of applicants who were accepted; for Harvard, it showed the percentage of applicants who were accepted and then actually enrolled. Here is a corrected version showing the acceptance rates for both schools.</p>
+      </block>
+      <block class="full_text">
+        <p>A chart on June 18 with an article about changes at the Harvard Business School improperly compared one aspect of the school's admissions with a different apsect of admissions at the Stanford Business School. For Stanord, the chart showed the percentage of applicants who were accepted; for Harvard, it showed the percentage of applicants who were accepted and then actually enrolled. Here is a corrected version showing the acceptance rates for both schools.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

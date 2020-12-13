@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Emery and Postal Service in Partnership</title>
+    <meta content="Y15POST" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1222697"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Delivery Services</classifier>
+        <org class="indexing_service">Emery Worldwide</org>
+        <org class="indexing_service">Postal Service</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Service Industries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000815T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E1DE113FF936A2575BC0A9669C8B63" item-length="206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Emery and Postal Service in Partnership</hl1>
+      </hedline>
+      <abstract>
+        <p>Emery Worldwide plans to announce partnership with Postal Service to offer residential delivery service by parcel post to manufacturers and catalog companies (S)/</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Emery Worldwide plans to announce a partnership today with the Postal Service to offer residential delivery service by parcel post to manufacturers and catalog companies.</p>
+        <p>Emery, the express freight unit of CNF Transportation, will ship items like computers and monitors weighing up to 70 pounds from warehouses to post offices. The items will by delivered by mail carriers on regular rounds.</p>
+      </block>
+      <block class="full_text">
+        <p>Emery Worldwide plans to announce a partnership today with the Postal Service to offer residential delivery service by parcel post to manufacturers and catalog companies.</p>
+        <p>Emery, the express freight unit of CNF Transportation, will ship items like computers and monitors weighing up to 70 pounds from warehouses to post offices. The items will by delivered by mail carriers on regular rounds.</p>
+        <p>The alliance will permit Emery to expand from business-to-business delivery to the business-to-home market, said Douglas J. Brittin, vice president for marketing and business development. Emery will focus on electronics manufacturers, who have been reluctant to use the post office because it requires advance payment. Under the deal, Emery will bill manufacturers after the shipments have been delivered and will receive a discount from the service for delivering the packages directly to post offices.</p>
+        <p>Earlier this year, Emery sued the post office, accusing it of breaching a contract for Emery to handle the service's Priority Mail service. Mr. Brittin said the new agreement was separate, was not a contract and did not guarantee any volume of service. The post office has a similar deal with Airborne Express, which uses it for lighter packages.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

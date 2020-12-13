@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tech 2010</title>
+    <meta content="LTR131135" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212120"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SOCIAL CONDITIONS AND TRENDS</classifier>
+        <classifier class="indexing_service" type="descriptor">Two Thousand Ten (Year)</classifier>
+        <classifier class="indexing_service" type="descriptor">Twenty-First Century</classifier>
+        <person class="indexing_service">Wikler, Ben</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Social Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">History</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807EFD71330F931A35754C0A9669C8B63" item-length="85" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tech 2010</hl1>
+      </hedline>
+      <abstract>
+        <p>Ben Wikler letter on special June 11 issue (Tech 2010) suggests follow-up issue in 2010 to explain how and why changes predicted did or did not occur0</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>You envision a future in which many of today's problems will be solved by improved technology. Such optimistic visions have abounded throughout history, particularly in periods of innovation. A follow-up issue in the year 2010 that explains how and why the changes predicted in this year's issue did or did not occur would be fascinating -- and perhaps sobering.</p>
+        <p>Ben Wikler</p>
+        <p>Madison, Wis.</p>
+      </block>
+      <block class="full_text">
+        <p>You envision a future in which many of today's problems will be solved by improved technology. Such optimistic visions have abounded throughout history, particularly in periods of innovation. A follow-up issue in the year 2010 that explains how and why the changes predicted in this year's issue did or did not occur would be fascinating -- and perhaps sobering.</p>
+        <p>Ben Wikler</p>
+        <p>Madison, Wis.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

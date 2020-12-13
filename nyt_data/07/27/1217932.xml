@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Digital Library Unites Bach's Work</title>
+    <meta content="27BACH" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1217932"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="SCREEN GRAB"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Staatsbibliothek (Berlin)</org>
+        <person class="indexing_service">Bach, Johann Sebastian (1685-1750)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000727T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E1DC1E3AF934A15754C0A9669C8B63" item-length="722" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Digital Library Unites Bach's Work</hl1>
+      </hedline>
+      <byline class="print_byline">By GLENN GARELIK</byline>
+      <abstract>
+        <p>Staatsbibliothek in Berlin and six other repositories of manuscripts of Johann Sebastian Bach will provide online access to some of composer's documents, scanned and digititized from high-quality color slides; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>EVEN among serious students of Bach, only the most privileged ever hope to examine the composer's handwritten scores.</p>
+        <p>In addition, some of the manuscripts, once largely collected at the Staatsbibliothek repository in Berlin, were scattered among more than half a dozen archives after World War II.</p>
+      </block>
+      <block class="full_text">
+        <p>EVEN among serious students of Bach, only the most privileged ever hope to examine the composer's handwritten scores.</p>
+        <p>In addition, some of the manuscripts, once largely collected at the Staatsbibliothek repository in Berlin, were scattered among more than half a dozen archives after World War II.</p>
+        <p>Scholars who received permission from those archives have had to settle for viewing the manuscripts on black-and-white microfilm, with its attendant vexations, or on photographs of microfilm; the ink's corrosive effect and the ravages of more than 250 years have left the originals perilously fragile.</p>
+        <p>Tomorrow, using I.B.M. technology and timed to the 250th anniversary of Bach's death, the Staatsbibliothek and six other repositories of Bach manuscripts will inaugurate online access to some of the composer's documents, scanned and digitized from high-quality color slides.</p>
+        <p>The Bach Digital Library will make available a Web version (www.bachdigital.org) and a version with a resolution so fine that it can be used for study by specialists. To access the high-resolution version, musicologists would still need to file a request with the institutions.</p>
+        <p>With clarity and color close to that of the originals, these digital collections will have certain advantages even over visits to the archives that hold the actual works, said Stephen Crist, secretary of the American Bach Society and a professor of music at Emory University in Atlanta. One example would be the score of the ''Well-Tempered Clavier,'' where one part of the original is in the Staatsbibliothek and another is at the British Library in London. The Bach Digital Library will eventually allow a visitor to view the entire score.</p>
+        <p>The digital collection will also reduce the effort involved in studying the manuscripts. Michael Marissen, a professor of music at Swarthmore and author of several books on Bach, called it ''a great improvement over those challenging-to-negotiate, motion-sickness-inducing, hard-to-read, black-and-white microfilms in research collections.''</p>
+        <p>Since some of the musical pieces contain gigabytes of information, and because of the high cost of digitization, the manuscripts will not be housed on a single server, said the project's technological leader, Volker Susok, of I.B.M. Germany.</p>
+        <p>Instead, the Digital Library will constitute a ''lookup service'' that contains general information and links but reroutes requests to access individual pieces to servers at the institutions that house the originals.</p>
+        <p>To mark the start of the project, the Web site will post the digitized image of the 180-page score of the ''Mass in B-Minor'' while television and radio stations broadcast a performance of the masterpiece from the Thomaskirche, one of four Leipzig churches that Bach provided with music from 1723 to his death in 1750. Listeners will be able to follow along in the score.</p>
+        <p>As for other pieces, Mr. Susok said, the library will have MP3 streaming capabilities, so that visitors to the Web site will not just see the score of a composition but also be able to listen to and compare sections of its performance under different conductors.</p>
+        <p>The Staatsbibliothek is also contributing half a dozen more of its several hundred Bach holdings to the digital collection, including the Brandenburg Concerto No. 3. The Bach-Archive in Leipzig is providing the program that accompanied the 1734 premiere of the Christmas Oratorio -- a booklet containing the text of the work in German and notes about the performance. A couple of cantatas are being provided by the Bachakademie in Stuttgart.</p>
+        <p>The project's other academic partners include the Saxon State and University Library in Dresden, the British Library and the Bibliotheka Jagellionska in Krakow, Poland.</p>
+        <p>For scholars accustomed to reading aging microfilm and for first-year students who keep their Bach in the piano bench, the digital archive provides something else: a glimpse of music in the master's own hand.</p>
+        <p>''In addition to their scholarly usefulness, the original Bach sources are very beautiful, both for the artistry of Bach's calligraphy and for the sheer immediacy of ink on paper,'' said Daniel Melamed, a professor of music at Indiana University. ''The closest we can come, physically at least, to Bach's creation of this music and its first performance.''</p>
+        <p>SCREEN GRAB</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

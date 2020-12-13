@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Healthy Regimen, With a Hazard</title>
+    <meta content="19GRAP" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health &amp; Fitness" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/19/science/19GRAP.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1231741"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="VITAL SIGNS: REACTIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="indexing_service" type="descriptor">Grapefruit</classifier>
+        <person class="indexing_service">Nagourney, Eric</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fruit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000919T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E4DA1F38F93AA2575AC0A9669C8B63" item-length="273" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Healthy Regimen, With a Hazard</hl1>
+      </hedline>
+      <byline class="print_byline">By Eric Nagourney</byline>
+      <byline class="normalized_byline">Nagourney, Eric</byline>
+      <abstract>
+        <p>New study warns that grapefruit juice can pose danger when people drink it with variety of prescription drugs, because it can alter their effect; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For many people, drinking that morning glass of grapefruit juice -- especially if it is one of the growing number of brands fortified with calcium -- is matter not just of taste but a part of a healthy regimen.</p>
+        <p>But a new study warns that the juice can pose a danger when people drink it with a variety of prescription drugs, because it can alter their effect.</p>
+      </block>
+      <block class="full_text">
+        <p>For many people, drinking that morning glass of grapefruit juice -- especially if it is one of the growing number of brands fortified with calcium -- is matter not just of taste but a part of a healthy regimen.</p>
+        <p>But a new study warns that the juice can pose a danger when people drink it with a variety of prescription drugs, because it can alter their effect.</p>
+        <p>Researchers at the Mayo Clinic, writing in September's Mayo Clinic Proceedings, say they are particularly concerned because juice and medications are commonly consumed at breakfast. And the people most likely to increase grapefruit juice consumption because of the added calcium -- the middle aged and elderly -- are also the most likely to be taking prescription drugs.</p>
+        <p>While it has been long known that grapefruit juice can increase the action of drugs like felodipine, used to treat heart disease and high blood pressure, the researchers said a review of the medical literature suggested that many other drugs were also affected. Doctors, they said, should take a patient's grapefruit juice consumption into account in prescribing drugs.</p>
+        <p>VITAL SIGNS: REACTIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Computers Need Space to Work</title>
+    <meta content="06ASKK" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212734"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Biersdorfer, J D</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000706T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E4DC1039F935A35754C0A9669C8B63" item-length="397" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Computers Need Space to Work</hl1>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+      <byline class="normalized_byline">Biersdorfer, J D</byline>
+      <abstract>
+        <p>J D Biersdorfter answers a reader's question on what to do when there is not enough available space on a hard drive to permit the computer to run efficiently</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q.  I have a Pentium PC with about one megabyte of available space on my hard drive. I would like to increase the speed of my computer and equip it to handle more programs and wondered what was meant by acquiring ''more bandwidth.'' Exactly what does this mean, how do I get it and how much faster will my PC run with it?</p>
+        <p>A.  The term bandwidth is most often used these days to refer to the transmission speed of computer data, and it most commonly refers to the speed of an Internet connection. High bandwidth (e.g., a D.S.L. connection or cable modem) is faster than low bandwidth (e.g., a dial-up modem).</p>
+      </block>
+      <block class="full_text">
+        <p>Q.  I have a Pentium PC with about one megabyte of available space on my hard drive. I would like to increase the speed of my computer and equip it to handle more programs and wondered what was meant by acquiring ''more bandwidth.'' Exactly what does this mean, how do I get it and how much faster will my PC run with it?</p>
+        <p>A.  The term bandwidth is most often used these days to refer to the transmission speed of computer data, and it most commonly refers to the speed of an Internet connection. High bandwidth (e.g., a D.S.L. connection or cable modem) is faster than low bandwidth (e.g., a dial-up modem).</p>
+        <p>The word bandwidth is sometimes tossed around to mean speed in general, but the problem you are having with your PC's poor performance probably has more to do to do with the computer itself. A computer needs a certain amount of available hard-drive space to run efficiently, and having only 1 megabyte left can be a problem because the system does not have a lot of room to work with. You should try to keep at least 10 percent of your hard drive's space free at all times.</p>
+        <p>After you have deleted as many old files as possible, you may want to defragment your drive to clean up your hard disk. To use the software that comes with Windows to do this, go to the Start menu and choose Programs, then go to Accessories, System Tools and Disk Defragmenter. Defragging your hard disk helps your computer store the files it has more efficiently. You can also find third-party utility programs that offer their own defragmentation programs along with other disk-care software.</p>
+        <p>If you find that you cannot delete enough files, you may want to think about adding another hard drive to your system. Adding more RAM can also increase your system's performance.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

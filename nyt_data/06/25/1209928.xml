@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'The Other American'</title>
+    <meta content="LTR084630" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209928"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOKS AND LITERATURE</classifier>
+        <person class="indexing_service">Ross, Benjamin</person>
+        <person class="indexing_service">Navasky, Victor</person>
+        <person class="indexing_service">Isserman, Maurice</person>
+        <person class="indexing_service">Harrington, Michael</person>
+        <object.title class="indexing_service">Other American, The: The Life of Michael Harrington (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000625T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE1DB113EF936A15755C0A9669C8B63" item-length="225" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'The Other American'</hl1>
+      </hedline>
+      <abstract>
+        <p>Benjamin Ross letter disputes contention in Victor Navasky's May 28 review of Maurice Isserman's biography, The Other American, that Michael Harrington was a neutralist in the cold war5</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Michael Harrington was never a neutralist in the cold war. He did indeed apologize, in his later years, for his attacks on the emerging New Left in the early 1960's. But the point of the apologies was always that Harrington had overreacted when the leaders of S.D.S. did not share his anti-Communist outlook; he never thought his views about Communism had been wrong in substance.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Michael Harrington was never a neutralist in the cold war. He did indeed apologize, in his later years, for his attacks on the emerging New Left in the early 1960's. But the point of the apologies was always that Harrington had overreacted when the leaders of S.D.S. did not share his anti-Communist outlook; he never thought his views about Communism had been wrong in substance.</p>
+        <p>As Maurice Isserman makes clear -- and this is the strength of his biography -- Harrington's strong feelings about these events were deeply rooted. Having come to political radicalism by way of literary bohemianism, he attached great importance to bridging the schism between cultural radicals and the pragmatic labor left. Overestimating his own role in creating that schism, he was excessively apologetic to those who had been on the other side. (How much this contributed to some of the questionable political decisions in Harrington's later years, such as the failure to endorse Jimmy Carter against Ronald Reagan in the 1980 election, is a question that Isserman unfortunately does not investigate.) But Harrington's efforts at reconciliation with other points of view never led him to renounce his own.</p>
+        <p>Benjamin Ross  Bethesda, Md.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

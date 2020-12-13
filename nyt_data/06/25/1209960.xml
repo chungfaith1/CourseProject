@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Web Helps Deal With Delays</title>
+    <meta content="DELAYB$03" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Travel" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209960"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Delays (Transportation)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Tedeschi, Bob</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Delays (Transportation)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transportation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000625T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906EEDA1531F936A15755C0A9669C8B63" item-length="570" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Web Helps Deal With Delays</hl1>
+      </hedline>
+      <byline class="print_byline">By BOB TEDESCHI</byline>
+      <byline class="normalized_byline">Tedeschi, Bob</byline>
+      <abstract>
+        <p>Travel article on World Wide Web sites set up by airlines that offer information on flight delays (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ANYONE who has ever slogged two hours to an airport to catch a flight or pick up a friend knows the value of a quick phone call to the airline, just to make sure the plane will be there at the end of the long drive. All too often, though, that phone call devolves into a 10-minute holding pattern of its own, accompanied by music that wouldn't otherwise find its way near your eardrums.</p>
+        <p>Depending on the airline, the Internet can be a welcome alternative to the phone. Many major airlines and online travel sites like Travelocity, Expedia and Trip.com allow travelers to type in a flight number and get information about its departure and arrival times, gate numbers and baggage claim locations.</p>
+      </block>
+      <block class="full_text">
+        <p>ANYONE who has ever slogged two hours to an airport to catch a flight or pick up a friend knows the value of a quick phone call to the airline, just to make sure the plane will be there at the end of the long drive. All too often, though, that phone call devolves into a 10-minute holding pattern of its own, accompanied by music that wouldn't otherwise find its way near your eardrums.</p>
+        <p>Depending on the airline, the Internet can be a welcome alternative to the phone. Many major airlines and online travel sites like Travelocity, Expedia and Trip.com allow travelers to type in a flight number and get information about its departure and arrival times, gate numbers and baggage claim locations.</p>
+        <p>Most of these features have been introduced in recent months, and, as with everything Internet related, the range of services varies widely. United Airlines, for instance, rolled out a Flight Status feature on its Web site, www.ual.com, in January. The site offers departure and arrival updates to anyone who knows the flight number -- a useful feature for the kind souls picking up passengers.</p>
+        <p>Moreover, using the site's Flight Paging feature, users can receive automatic e-mail updates about a flight. That information can be sent to any Internet-enabled computer, of course, and to any pager, cell phone, Palm or similar Personal Digital Assistant that accepts text messages. Air phones have jacks for Internet access, so the information can conceivably be garnered at 33,000 feet.</p>
+        <p>The feature can be set up for updates at 15-minute intervals before a flight's arrival, for instance. It can also be directed to send updates only if a flight is delayed by a certain length of time.</p>
+        <p>Other airline sites are not yet as sophisticated. US Airways, for instance, has a flight-status feature on its Web page, www.usair.com, but no way to send e-mail updates.</p>
+        <p>American Airlines takes a similar approach, for now (at www.aa.com go to Travel Planning and click on Gates and Times). But Mark Kienzle, an American Airlines spokesman, said the company is developing a feature that when rolled out this fall, will enable users to receive e-mail updates about flights, plus other options.</p>
+        <p>The first incarnation of the service will resemble United's Flight Paging feature, Mr. Kienzle said. But according to the company that is building the system for American, Appris Technologies, users could also have their travel agents automatically informed of late flights or cancellations. That way, if a customer is on the first leg of a trip when a connecting flight is canceled, the airline could conceivably offer the agent other flights and book a new connecting flight before the first one lands.</p>
+        <p>Bill Coffey, vice president for corporate development at Appris, said the company's technology was actually built to keep crime victims informed about the status of perpetrators. ''A few months ago it became obvious to us that this engine makes it easy to notify people about any type of event,'' Mr. Coffey said. The company has approached a number of major airlines about implementing the service.</p>
+        <p>The next step for this feature, Mr. Coffey and others said, would be to integrate hotel and car reservations, thus avoiding the string of phone calls that is triggered by cancellations or delays. For now, air travelers -- and those who pick them up -- can happily settle for avoiding a call to the airlines.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

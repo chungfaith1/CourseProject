@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Album of the Week</title>
+    <meta content="07RECO" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212976"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings (Audio)</classifier>
+        <person class="indexing_service">Lang, K D</person>
+        <person class="indexing_service">Pareles, Jon</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000707T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906EEDB1F39F934A35754C0A9669C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Album of the Week</hl1>
+      </hedline>
+      <byline class="print_byline">By JON PARELES</byline>
+      <byline class="normalized_byline">Pareles, Jon</byline>
+      <abstract>
+        <p>Jon Pareles Album of the Week review of K D Lang's Invincible Summer (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>K. D. LANG: ''Invincible Summer'' (Warner Brothers). While there are countless Christmas albums, it took K. D. Lang to follow through on the old Beach Boys and build a theme album around the opposite season: summertime. It's justification enough for her to look again at ''the beauty of desire,'' this time with blissful optimism. For Ms. Lang, summer is time for heady new romance and glimmers of retro pop. Writing with new collaborators, she harks back to 1960's styles without turning archival.</p>
+      </block>
+      <block class="full_text">
+        <p>K. D. LANG: ''Invincible Summer'' (Warner Brothers). While there are countless Christmas albums, it took K. D. Lang to follow through on the old Beach Boys and build a theme album around the opposite season: summertime. It's justification enough for her to look again at ''the beauty of desire,'' this time with blissful optimism. For Ms. Lang, summer is time for heady new romance and glimmers of retro pop. Writing with new collaborators, she harks back to 1960's styles without turning archival.</p>
+        <p>She's bubbly over a ''Summerfling,'' surrounded with vocal harmonies and nonsense syllables; she's elated amid the near-psychedelic funk of ''It's Happening With You'' and the orchestrated folk-rock of ''Extraordinary Thing.'' And she finds contemplative rapture in ''Love's Great Ocean'' and ''When We Collide.'' Now and then she recognizes that romance might fade, but for the moment -- a moment she sustains through the album -- it's too sunny for second thoughts.</p>
+        <p>JON PARELES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

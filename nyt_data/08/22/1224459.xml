@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Philippines to Drop Charges on E-Mail Virus</title>
+    <meta content="Y22VIRU" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/08/22/technology/22VIRU.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1224459"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Vandalism</classifier>
+        <location class="indexing_service">Philippines</location>
+        <person class="indexing_service">Arnold, Wayne</person>
+        <person class="indexing_service">De Guzman, Onel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Philippines</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Philippines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vandalism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000822T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6DD1E3EF931A1575BC0A9669C8B63" item-length="552" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Philippines to Drop Charges on E-Mail Virus</hl1>
+      </hedline>
+      <byline class="print_byline">By WAYNE ARNOLD</byline>
+      <byline class="normalized_byline">Arnold, Wayne</byline>
+      <dateline>SINGAPORE, Aug. 21</dateline>
+      <abstract>
+        <p>Philippine authorities dismiss all charges against Onel A de Guzman, 24-year-old college dropout whom investigators had accused of responsibility for destructive e-mail program that wreaked billions of dollars in damage on companies worldwide in May; case exposed inadequacy of Philippine laws to handle instances of computer hacking; Philippine Congress subsequently passed legislation dealing specifically with computer-related crimes (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Philippine authorities dismissed all charges today against Onel A. de Guzman, the 24-year-old college dropout whom investigators had accused of responsibility for a destructive computer e-mail program that wreaked billions of dollars in damage on companies worldwide in May.</p>
+        <p>The Philippine justice department said the evidence against Mr. de Guzman had been insufficient to substantiate the charges filed against him by the National Bureau of Investigation. Late in June, the bureau charged Mr. de Guzman with theft and with violating a law intended to deal with credit card fraud after investigators traced the destructive computer program -- known popularly as the ''I love you'' virus -- to his Manila apartment.</p>
+      </block>
+      <block class="full_text">
+        <p>Philippine authorities dismissed all charges today against Onel A. de Guzman, the 24-year-old college dropout whom investigators had accused of responsibility for a destructive computer e-mail program that wreaked billions of dollars in damage on companies worldwide in May.</p>
+        <p>The Philippine justice department said the evidence against Mr. de Guzman had been insufficient to substantiate the charges filed against him by the National Bureau of Investigation. Late in June, the bureau charged Mr. de Guzman with theft and with violating a law intended to deal with credit card fraud after investigators traced the destructive computer program -- known popularly as the ''I love you'' virus -- to his Manila apartment.</p>
+        <p>The case, which emphasized that complex computer networks are vulnerable to relatively unsophisticated security breaches, also exposed the inadequacy of Philippine laws to handle instances of computer hacking. The Philippine Congress subsequently passed legislation dealing specifically with computer-related crimes.</p>
+        <p>The justice department said that since the destructive e-mail program -- variously called a virus or a worm in news reports -- had been introduced before the new law was passed, Mr. de Guzman could not be charged with violating it.</p>
+        <p>And Fernando D. Contreras, vice president of the Philippine Internet Service Organization, a trade group that promotes use of the Internet, remarked, ''It was like the Pearl Harbor that caught us sleeping.''</p>
+        <p>Though the computer program's creator might never face justice, Mr. Contreras said Internet users saw the case as a success if only because it had ensured speedy passage of the new law and inspired Internet service providers to take greater precautions against similar abuses.</p>
+        <p>Mr. de Guzman acknowledged that he might have inadvertently released the e-mail program, though he did not admit creating it. The program, which experts said was surprisingly simple, infected computers with an e-mail message that, when opened, created numerous copies of itself and then forwarded itself to every entry in the recipient's list of e-mail addresses.</p>
+        <p>Though ostensibly intended to collect Internet access passwords and send them back to its originator, the program ended up overloading computer networks from the Pentagon to the British Parliament.</p>
+        <p>Investigators traced the virus to a ramshackle inner-city apartment where Mr. de Guzman was living with his sister and her boyfriend while attending a local computer college. After first charging the boyfriend, investigators turned to Mr. de Guzman when teachers at the college notified them of similarities between the ''I love you'' program and one designed to steal Internet passwords that Mr. de Guzman had submitted as a course thesis. The college rejected the thesis and Mr. de Guzman did not graduate.</p>
+        <p>His subsequent notoriety does not appear to have dimmed his prospects. Several computer companies have reportedly offered to hire Mr. de Guzman, though he is said to have turned them down.</p>
+        <p>Philippine officials have also sought to use the publicity surrounding the case to advertise their country's inexpensive computing talent to high-technology companies abroad.</p>
+        <p>Last month, the Philippine president, Joseph Estrada, traveled to the United States to meet with President Clinton and to seek high-technology investment. Last week, Callahan Broadband Wireless said it would invest 3.15 billion pesos, or $70 million, in a Philippine company providing high-speed Internet services to businesses in the country.</p>
+        <p>TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

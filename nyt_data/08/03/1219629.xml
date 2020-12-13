@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Putting Photos of Wares Onto eBay Auction Site</title>
+    <meta content="03ASKK" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1219629"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000803T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E5D9113DF930A3575BC0A9669C8B63" item-length="724" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Putting Photos of Wares Onto eBay Auction Site</hl1>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q.  I am a computer novice and would like to sell items on the eBay auction site. How do I add pictures of the items I wish to sell?</p>
+        <p>A.  To display pictures of your wares on the eBay site, you must have electronic copies of the photographs. Using a digital camera to take the photographs makes it relatively simple to upload the files to your computer and will save some steps.</p>
+      </block>
+      <block class="full_text">
+        <p>Q.  I am a computer novice and would like to sell items on the eBay auction site. How do I add pictures of the items I wish to sell?</p>
+        <p>A.  To display pictures of your wares on the eBay site, you must have electronic copies of the photographs. Using a digital camera to take the photographs makes it relatively simple to upload the files to your computer and will save some steps.</p>
+        <p>If you do not have access to a digital camera, you can take regular photographs and convert them into digital files with a scanner.</p>
+        <p>If you do not have a scanner, you can have your photographs scanned at a copy shop or desktop-publishing outlet.</p>
+        <p>Once you have the electronic copies, there are several ways to place them on the eBay site. The site itself offers a thorough tutorial on the subject at pages.ebay.com/help/basics /phototut-index.html. The site is also testing a photo-display program for some categories, like pottery and glass, which might help simplify the process.</p>
+        <p>Q.  I have a computer running Windows 98 that I wish to sell to a friend. How can I make sure none of my personal files and Internet cookies are left on the machine before I give it to him?</p>
+        <p>A.  Security experts say that it is truly difficult to erase files completely from a hard drive, but for most people, the tools offered by DOS or third-party programs like Norton Utilities or the Eraser freeware (www.tolvanen.com/eraser /download.html, recommended for advanced users) are adequate.</p>
+        <p>Although it may take some additional time, one reasonably safe way to prepare the computer for its new owner is to erase and reformat the hard drive and reinstall Windows 98.</p>
+        <p>You should make sure that all your personal documents and Web-browser favorites have been copied to your new computer before you erase the contents of the old one.</p>
+        <p>For one basic reformatting method, all you need is a blank floppy disk and your Windows 98 CD-ROM. With the floppy, make a bootable startup disk that can be used to start the computer before reformatting. (Go to the Start menu, to Settings, then to Control Panel and double-click on Add/Remove programs to see the StartUp Disk tab and instructions.)</p>
+        <p>Start the computer from the floppy to make sure that it works and that  you have the ''Start computer with CD-ROM support'' option before continuing. Starting the computer from the floppy disk is recommended so that you can still boot the computer if something goes wrong, and to sidestep any viruses that might be on the hard drive.</p>
+        <p>You should also have the original disks for your video card, modem and other hardware ready to reinstall.</p>
+        <p>After booting the PC from the floppy (and again opting for the ''CD-ROM support'' menu choice), you can use the DOS ''format c:'' command to erase the drive's contents. The on-screen prompts will warn you that all your data will be lost. The formatting process takes about 15 minutes for a two-gigabyte drive. If you have other drives, you should also format those. After formatting, type the command ''setup'' after the letter of your CD-ROM drive (usually D: or E:) at the prompt to begin installing Windows 98 from the CD.</p>
+        <p>That is one basic way to reformat and reinstall. The ZDNet Web site (www.zdnet.com) has a good Help and How-To section that can offer more details, along with other tips. Microsoft's Knowledge Base on the Web (search.support.microsoft .com) might also help to answer questions about reinstalling the system.</p>
+        <p>A freshly installed version of Windows 98 will ensure that your buyer starts with a clean machine. If you are selling any old programs along with the computer, you should reinstall those by using the original disks, and be sure to give the computer's new owner all of the floppy disks, CD-ROM's, manuals and serial numbers for the software.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

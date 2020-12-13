@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Paperless Newspaper</title>
+    <meta content="LTR231507" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203998"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="INCOMING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <classifier class="indexing_service" type="descriptor">Crossword Puzzles</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Newspapers</classifier>
+        <person class="indexing_service">gorski, elizabeth c</person>
+        <person class="indexing_service">Wendland, Mike</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Puzzles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crossword Puzzles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E7D7123CF932A35755C0A9669C8B63" item-length="210" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Paperless Newspaper</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by Elizabeth C Gorski responds to May 25 article on cyberspace news; says article failed to mention the decades-long interactive feature of print newspapers: crossword puzzle</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As a crossword puzzle maker (including some for the daily and Sunday New York Times), I'd like to point out that the May 25 article about online newspapers did not mention a decades-long interactive feature of print newspapers: the crossword puzzle. No other part of the newspaper invites the reader to  interact with the page.</p>
+        <p>Though I'm able to download The New York Times puzzle and solve it offline, I wouldn't dream of it. Each morning I buy the newspaper and turn to the puzzle page. I need that tactile interaction with the printed page to get my brain going. I have a high-risk tolerance, so I use ink. The handwritten letters indicate whether my solving journey was smooth (neat, with no cross-outs) or awful (in which the case the grid is gooped-up enough to be re-used as a Rorschach test). The computer screen leaves no such evidence. It's too clinical for real puzzle solving.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As a crossword puzzle maker (including some for the daily and Sunday New York Times), I'd like to point out that the May 25 article about online newspapers did not mention a decades-long interactive feature of print newspapers: the crossword puzzle. No other part of the newspaper invites the reader to  interact with the page.</p>
+        <p>Though I'm able to download The New York Times puzzle and solve it offline, I wouldn't dream of it. Each morning I buy the newspaper and turn to the puzzle page. I need that tactile interaction with the printed page to get my brain going. I have a high-risk tolerance, so I use ink. The handwritten letters indicate whether my solving journey was smooth (neat, with no cross-outs) or awful (in which the case the grid is gooped-up enough to be re-used as a Rorschach test). The computer screen leaves no such evidence. It's too clinical for real puzzle solving.</p>
+        <p>Upon finishing the puzzle in the morning, I'm convinced that I've accomplished something. Illusion or not, I'm on a roll. I then turn on my  computer and begin my workday -- and that may include making a puzzle or two.</p>
+        <p>ELIZABETH C. GORSKI  New York City</p>
+        <p>INCOMING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

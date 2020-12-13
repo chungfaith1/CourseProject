@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV090339" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1216829"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Dunham, Jillian</person>
+        <person class="indexing_service">Williams, Terry Tempest</person>
+        <object.title class="indexing_service">Leap (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000723T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800EEDD173BF930A15754C0A9669C8B63" item-length="250" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Jillian Dunham</byline>
+      <byline class="normalized_byline">Dunham, Jillian</byline>
+      <abstract>
+        <p>Jillian Dunham reviews book Leap by Terry Tempest Williams (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Leap</p>
+        <p>By Terry Tempest Williams.</p>
+        <p>Pantheon, $25.</p>
+      </block>
+      <block class="full_text">
+        <p>Leap</p>
+        <p>By Terry Tempest Williams.</p>
+        <p>Pantheon, $25.</p>
+        <p>In ''Leap,'' Terry Tempest Williams describes the seven-year spiritual journey she undertook after viewing Bosch's painting ''The Garden of Earthly Delights'' in the Prado in Madrid. ''Let these pages be my interrogation of faith,'' she writes. ''My roots have been pleached with the wings of a medieval triptych, my soul intertwined with an artist's vision.'' For Williams, whose previous books include ''An Unspoken Hunger'' and ''Desert Quartet,'' the painting is a source of ecstatic revelation in which the worlds of Bosch and Saint Teresa of vila mingle with her own and that of the Mormon leader Joseph Smith. A boggling mix of magic realism, religious dogma and scientific method, ''Leap'' wanders through Williams's mind, attempting to construct a world in which which the art of Bosch and Damien Hirst can share harmonious common ground with her Mormon ancestry and the natural landscape of her home state, Utah. Whether her thoughts are about about science, religion or family, they always find a place in the three panels of the famously licentious triptych. Although Williams's experiences and consequent conclusions have tremendous personal meaning, her prose, which includes comprehensive footnotes and an impressive bibliography, raises more questions than it answers.</p>
+        <p>Jillian Dunham</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

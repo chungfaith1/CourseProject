@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Printing Envelopes Presents a Problem for Desktop Computers</title>
+    <meta content="19BASI" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/19/technology/19BASI.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1239908"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Printing and Allied Trades</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Printers</classifier>
+        <person class="indexing_service">Greenman, Catherine</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Printers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Printing and Allied Trades</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001019T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E0D6143EF93AA25753C1A9669C8B63" item-length="1141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Printing Envelopes Presents a Problem for Desktop Computers</hl1>
+      </hedline>
+      <byline class="print_byline">By CATHERINE GREENMAN</byline>
+      <byline class="normalized_byline">Greenman, Catherine</byline>
+      <abstract>
+        <p>Computer printers encounter greater difficulty printing on envelopes than on flat sheets of paper; article gives pointers regarding getting best performance printing envelopes with desktop computers' printers; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE relationship between a computer and a printer can have the precariousness and unpredictability of a blind date. After all, the two devices may have little in common and have never met. If they are introduced patiently, under ideal circumstances, they may get along.</p>
+        <p>In the beginning, when the two need to print only a steady stream of 8 1/2-by-11 sheets, it's usually smooth sailing. But the  relationship often falters when it is time to  print envelopes.</p>
+      </block>
+      <block class="full_text">
+        <p>THE relationship between a computer and a printer can have the precariousness and unpredictability of a blind date. After all, the two devices may have little in common and have never met. If they are introduced patiently, under ideal circumstances, they may get along.</p>
+        <p>In the beginning, when the two need to print only a steady stream of 8 1/2-by-11 sheets, it's usually smooth sailing. But the  relationship often falters when it is time to  print envelopes.</p>
+        <p>Working together, computers and printers are now sophisticated enough to print the most obscure fonts, the brightest colors  and the most detailed graphics. So why is it still so hard to print envelopes?</p>
+        <p>For one thing, the software programs commonly used to print envelopes can conflict with the printer driver settings. So even though the layout of the envelope might look right on the computer screen, the printer may see things differently.</p>
+        <p>''The software settings of whatever program you're in will override the printer driver settings,'' said Jan Ahlin, a product support engineer for Hewlett-Packard LaserJet printers, ''so if you don't have the software set correctly, the printer won't respond.'' Conflicts can also arise, for example, if a word processor selects a default tray on your printer that the printer does not recognize.</p>
+        <p>Other problems are solely the fault of the printer. Most laser and inkjet printers have curved paper paths, which can cause envelopes to wrinkle as they move through the rollers. ''Most envelopes have areas along the seams where there are four layers of paper,'' said Ned James, a program manager at Lexmark International. ''So the problem is that when you try to move it through a curved paper path, the sheets on the inside of the seams want to move differently than the outside sheets.''</p>
+        <p>With both laser and inkjet printers, printing larger envelopes with metal clasps is  impossible -- even trying to do so will damage the print rollers or cartridges.</p>
+        <p>There are ways around many of these problems. For most people, successful envelope printing is a matter of mastering the Envelopes and Labels menu in the most commonly used word processor, Microsoft Word. Envelopes and Labels can be found in the Tools section of the toolbar at the top of the screen in Word.</p>
+        <p>After you enter the address and return address information in the two boxes provided within Envelopes and Labels, you go to Options to select an envelope size and how the paper will be fed through the printer.</p>
+        <p>Problems sometimes arise in using the Feed Method options because Word does not always automatically select the right orientation of the envelope. Printing a test page on a regular sheet of paper will tell you where the envelope is being printed on the page so you can position the envelope on the appropriate side of the tray.</p>
+        <p>Most midrange and high-end laser and inkjet printers have manual feed trays that pop out of the front of the printer. These trays allow you to pull two tab levers toward an envelope's outside edges so they can be  fed into the printer without sliding. Because Word does not always automatically select  your printer's manual feed tray, you might have to tinker with the Feed From menu in the Options section of Envelopes and Labels.</p>
+        <p>Although the Envelopes and Labels section of Word is a relatively simple way to print envelopes, it will not allow you to change the position of the address or insert a graphic or a bar code on the envelope. You might find, for example, that the address is printed too low on the envelope and that you would like to raise it.</p>
+        <p>To do that, you select the Add to Document button on the Envelopes and Labels menu. Word will then insert an envelope at the top of your document. Selecting the Page Layout option under View in the top toolbar will allow you to move the address box higher or lower. You can also insert a graphic or a bar code field. Selecting Page Setup in the File section of Word menu lets you fiddle with the margins of the envelope. Setting the Top and Left margins to three-eighths of an inch will keep the return address from being printed on a wrinkled edge. When you are ready to print the envelope, enter ''0'' in the Pages box in the Page Range section of the Print menu. Word recognizes the added envelope as page ''0.''</p>
+        <p>Suzanne Barnhill, who owns Words into Type, a printing and editing business in Fair Hope, Ala., and who volunteers to answer questions in Microsoft user groups on the Web, said the fact that Word did not save the envelope settings once they had been selected was a common complaint.</p>
+        <p>''It will work once,'' she said, ''but the next time you start Word and try to print an envelope, it could be wrong again.'' The specifications must be re-entered before every printing. The only way to change the settings permanently is to go into the Windows system registry, which for most people ''is really flying blind,'' she said.</p>
+        <p>Wrinkling is less of a problem is you use  printer quality envelopes, like those made by Mead, Columbian and Strathmore, said Mr. James, of Lexmark.</p>
+        <p>On its Web site, Hewlett-Packard publishes a list of guidelines for storing envelopes (www.hp.com/cpso-support/guide/psd /cscus.html). Envelopes should be stored flat and in a dry place, for example, and they should be flattened before they go through the printer because air pockets can cause wrinkling. To prevent wrinkling, Ms. Barnhill inserts a piece of card stock, cut to the envelope's size, into each envelope before she loads it into the tray.</p>
+        <p>To keep envelopes from sealing as they go through the printer, Hewlett-Packard recommends that you avoid envelopes with peel-off adhesive strips and look for envelopes with seals that can withstand high heat. Business or regular envelopes with diagonal seams and standard gummed flaps  can handle both laser and inkjet printing well, according to the site.</p>
+        <p>If you are buying a new printer and know that you will be printing envelopes every  day, buy a printer with a straight paper-path option to reduce wrinkling, said David Thiel, a spokesman for Hewlett-Packard.</p>
+        <p>Most midrange and high-end laser and inkjet printers offer envelope feeders as an option. These can feed up to 100 envelopes at a time through the straight paper path.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

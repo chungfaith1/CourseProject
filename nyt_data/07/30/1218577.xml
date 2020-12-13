@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Little Princess</title>
+    <meta content="LTR103101" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1218577"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Beauty Contests</classifier>
+        <classifier class="indexing_service" type="descriptor">CHILDREN AND YOUTH</classifier>
+        <person class="indexing_service">Ackerman, Felicia (Prof)</person>
+        <person class="indexing_service">Stephens, Dotti-Dawn</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beauty</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beauty Contests</classifier>
+        <classifier class="online_producer" type="general_descriptor">Contests and Prizes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000730T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E0DE133AF933A05754C0A9669C8B63" item-length="55" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Little Princess</hl1>
+      </hedline>
+      <abstract>
+        <p>Brown University philosophy Prof Felicia Ackerman letter on July 9 Lives essay notes feminists would likely object to 7-year-old Dotti-Dawn Stephens' assertion that four years of beauty pageants have changed her</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>'Dotti-Dawn knows that four years of beauty pageants have changed her, and she's glad.'' So who's to object? Lots of feminists, no doubt, who are bound to be sure they know Dotti-Dawn better than she knows herself. What chutzpah.</p>
+        <p>Felicia Ackerman  Department of Philosophy  Brown University  Providence, R.I.</p>
+      </block>
+      <block class="full_text">
+        <p>'Dotti-Dawn knows that four years of beauty pageants have changed her, and she's glad.'' So who's to object? Lots of feminists, no doubt, who are bound to be sure they know Dotti-Dawn better than she knows herself. What chutzpah.</p>
+        <p>Felicia Ackerman  Department of Philosophy  Brown University  Providence, R.I.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

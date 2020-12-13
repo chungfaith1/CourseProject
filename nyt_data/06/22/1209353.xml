@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>QUOTATION OF THE DAY</title>
+    <meta content="22QUOTE" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209353"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">QUOTATION OF THE DAY</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000622T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E1D61131F931A15755C0A9669C8B63" item-length="149" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>QUOTATION OF THE DAY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''Colombia is the heart of the drug war and we'd better get on with it. If we lose in Colombia, then we lose everywhere.''</p>
+        <p>SENATOR PAUL COVERDELL, Republican of Georgia, supporting an anti-drug aid plan for Colombia. [A1]</p>
+        <p>''The capacity of this body for self-delusion appears to this senator to be unlimited. There has been no consideration of the consequences, cost and length of involvement.''</p>
+        <p>SENATOR SLADE GORTON, a Washington State Republican, opposing it. [A1]</p>
+      </block>
+      <block class="full_text">
+        <p>''Colombia is the heart of the drug war and we'd better get on with it. If we lose in Colombia, then we lose everywhere.''</p>
+        <p>SENATOR PAUL COVERDELL, Republican of Georgia, supporting an anti-drug aid plan for Colombia. [A1]</p>
+        <p>''The capacity of this body for self-delusion appears to this senator to be unlimited. There has been no consideration of the consequences, cost and length of involvement.''</p>
+        <p>SENATOR SLADE GORTON, a Washington State Republican, opposing it. [A1]</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

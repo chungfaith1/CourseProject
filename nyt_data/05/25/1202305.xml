@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fear of Failure? Back Up</title>
+    <meta content="LTR010123" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1202305"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">burns, kenneth r</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000525T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00EFD9153DF936A15756C0A9669C8B63" item-length="142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fear of Failure? Back Up</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Kenneth R Burns on his unsuccessful use of DOS Copy command to back up his files to CD</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Regular backups are indeed good medicine, but CD-R drives have their perils. I used DOS's trusty Copy command to back up all my files to a CD, and I restored them after calamity struck. Sadly, my computer was still unusable because CD-R's are read-only after they are burned, so each restored file also was set as read-only. Eventually everything was fine, but I might have avoided frustration had I used backup software instead of the DOS command.</p>
+        <p>KENNETH R. BURNS  Madison, Wis.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Regular backups are indeed good medicine, but CD-R drives have their perils. I used DOS's trusty Copy command to back up all my files to a CD, and I restored them after calamity struck. Sadly, my computer was still unusable because CD-R's are read-only after they are burned, so each restored file also was set as read-only. Eventually everything was fine, but I might have avoided frustration had I used backup software instead of the DOS command.</p>
+        <p>KENNETH R. BURNS  Madison, Wis.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

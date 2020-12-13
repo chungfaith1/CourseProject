@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>GROUP TO ANNOUNCE QUANTUM COMPUTER</title>
+    <meta content="MB234624" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1222772"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY BRIEFING: HARDWARE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <org class="indexing_service">International Business Machines Corp</org>
+        <person class="indexing_service">Chaung, Isaac L (Dr)</person>
+        <person class="indexing_service">Markoff, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000815T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE3D6113FF936A2575BC0A9669C8B63" item-length="130" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>GROUP TO ANNOUNCE QUANTUM COMPUTER</hl1>
+      </hedline>
+      <byline class="print_byline">By John Markoff</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <abstract>
+        <p>Technology Briefing:</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An I.B.M. physicist plans to announce today that his San Jose, Calif.-based research group has succeeded in developing an advanced quantum computer. The device, composed of five computing elements, or ''quantum bits,'' is based on a molecule composed of five flourine atoms. The machine is still far from being able to perform useful real-world calculations, the company said. Still, the prototype developed by Isaac L. Chaung of I.B.M. and a group of researchers at the University of Calgary is able to solve in one step a mathematical problem that requires repeated cycles in conventional computers.</p>
+        <p>John Markoff (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>An I.B.M. physicist plans to announce today that his San Jose, Calif.-based research group has succeeded in developing an advanced quantum computer. The device, composed of five computing elements, or ''quantum bits,'' is based on a molecule composed of five flourine atoms. The machine is still far from being able to perform useful real-world calculations, the company said. Still, the prototype developed by Isaac L. Chaung of I.B.M. and a group of researchers at the University of Calgary is able to solve in one step a mathematical problem that requires repeated cycles in conventional computers.</p>
+        <p>John Markoff (NYT)</p>
+        <p>TECHNOLOGY BRIEFING: HARDWARE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

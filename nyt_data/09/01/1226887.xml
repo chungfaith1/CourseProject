@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="01CMPBRFS" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1226887"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000901T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE0DC1230F932A3575AC0A9669C8B63" item-length="244" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CENTRAL HUDSON ENERGY SERVICES, Poughkeepsie, N.Y., a subsidiary of CH Energy Group, has acquired Griffith Consumers Co., a Maryland-based heating oil vendor. The price was not disclosed.</p>
+      </block>
+      <block class="full_text">
+        <p>CENTRAL HUDSON ENERGY SERVICES, Poughkeepsie, N.Y., a subsidiary of CH Energy Group, has acquired Griffith Consumers Co., a Maryland-based heating oil vendor. The price was not disclosed.</p>
+        <p>GATX CORP., Chicago, which leases railroad cars and aircraft, said that it bought a 35 percent stake in Bonifacio Logistics, a Brazilian railroad-car leasing company, for undisclosed terms.</p>
+        <p>AES CORP., Arlington, Va., the largest United States power-plant developer, has agreed to buy Reliant Energy's 50 percent interest in the utility owner El Salvador Energy Holdings for an undisclosed price.</p>
+        <p>ASHLAND SPECIALTY CHEMICAL, Covington, Ky., a subsidiary of Ashland Inc., has acquired the assets of MicroClean, which has operations in Austin, Tex., and Tempe, Ariz., and provides cleaning products for semiconductor makers, for undisclosed terms.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

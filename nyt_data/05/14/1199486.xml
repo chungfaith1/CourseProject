@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New This Week: Lockup Expirations</title>
+    <meta content="14LOCK$02" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Corrections; Editors' Notes; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1199486"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <org class="indexing_service">New York Times</org>
+        <classifier class="online_producer" type="types_of_material">Editors' Note</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Editors' Notes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000514T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E2DA153BF937A25756C0A9669C8B63" item-length="76" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New This Week: Lockup Expirations</hl1>
+      </hedline>
+      <abstract>
+        <p>New York Times adds weekly table of data on lockups of stock retained by insiders and early financial backers set to expire in week ahead</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When companies go public, insiders and early financial backers often retain large blocks of shares that they are forbidden to sell for a set period. When these so-called lockup periods expire, the stocks sometimes trade very heavily and move sharply in price. A new table gives data on lockups scheduled to expire in the week ahead. DataBank, Page 23.</p>
+      </block>
+      <block class="full_text">
+        <p>When companies go public, insiders and early financial backers often retain large blocks of shares that they are forbidden to sell for a set period. When these so-called lockup periods expire, the stocks sometimes trade very heavily and move sharply in price. A new table gives data on lockups scheduled to expire in the week ahead. DataBank, Page 23.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>For a Drop of Blood, Take It in the Ear</title>
+    <meta content="11BLOO" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health &amp; Fitness" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213998"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="VITAL SIGNS: IN PRACTICE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Blood</classifier>
+        <classifier class="indexing_service" type="descriptor">Pain</classifier>
+        <person class="indexing_service">Nagourney, Eric</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Blood</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Pain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blood</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000711T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E1DB1738F932A25754C0A9669C8B63" item-length="198" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>For a Drop of Blood, Take It in the Ear</hl1>
+      </hedline>
+      <byline class="print_byline">By ERIC NAGOURNEY</byline>
+      <byline class="normalized_byline">Nagourney, Eric</byline>
+      <abstract>
+        <p>British researchers report that it is less painful to take a blood samples from the ear lobe than from the thumb; drawing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The next time a doctor wants to take a blood sample from your thumb, tell him to stick it in the ear.</p>
+        <p>The idea here is not to encourage impoliteness but to reduce pain. Reporting in The British Medical Journal, a group of doctors in England said they had determined that taking a blood sample from the ear lobe instead of the thumb was less painful.</p>
+      </block>
+      <block class="full_text">
+        <p>The next time a doctor wants to take a blood sample from your thumb, tell him to stick it in the ear.</p>
+        <p>The idea here is not to encourage impoliteness but to reduce pain. Reporting in The British Medical Journal, a group of doctors in England said they had determined that taking a blood sample from the ear lobe instead of the thumb was less painful.</p>
+        <p>Doctors measuring glucose levels conducted an experiment on 60 patients. Thirty were lanced on the side of the thumb (a technique adopted over the years when doctors realized that the area was less sensitive than other digits), while the rest were lanced on the ear lobe. The wound was then squeezed to force out a drop of blood.</p>
+        <p>Patients were then asked to assess the pain using a standard technique, and the results clearly favored the ear lobe, the study said.</p>
+        <p>The reason was unclear. The doctors theorized that the density of pain receptors in the ear lobe might be lower than in the thumb. But they also said further research was needed into the effect of repeated ear lobe punctures on patients who require frequent glucose screening.</p>
+        <p>VITAL SIGNS: IN PRACTICE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

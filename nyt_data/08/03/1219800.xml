@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>More Room to Hide</title>
+    <meta content="LTR000239" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1219800"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Censorship</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <org class="indexing_service">Pulius</org>
+        <org class="indexing_service">Freenet.de</org>
+        <person class="indexing_service">casner, dan</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Censorship</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000803T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E3D8163CF930A3575BC0A9669C8B63" item-length="97" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>More Room to Hide</hl1>
+      </hedline>
+      <abstract>
+        <p>Dan Casner letter says FreeNet performs same encryption function as Pulius but in a more decentralized way, hence decreasing chances of information being censored (July 27 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Divided Data Can Elude the Censor,'' about Publius, a system that encrypts and divides messages to make it harder for someone other than the intended recipient to reconstruct the message, missed one important point. Publius, while useful, is not a new concept. FreeNet (freenet.sourceforge.net) does the same thing but in a more decentralized way, hence decreasing the chances of the information being censored. FreeNet is also an open-source system, which lets third parties modify it and deal with any bugs.</p>
+        <p>DAN CASNER  Brooklyn</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Divided Data Can Elude the Censor,'' about Publius, a system that encrypts and divides messages to make it harder for someone other than the intended recipient to reconstruct the message, missed one important point. Publius, while useful, is not a new concept. FreeNet (freenet.sourceforge.net) does the same thing but in a more decentralized way, hence decreasing the chances of the information being censored. FreeNet is also an open-source system, which lets third parties modify it and deal with any bugs.</p>
+        <p>DAN CASNER  Brooklyn</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

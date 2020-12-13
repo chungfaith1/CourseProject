@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Whose Intellectual Property Is It, Anyway? The Open Source War</title>
+    <meta content="24FREE$02" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1224870"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="ESSAY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">World Intellectual Property Organization</org>
+        <org class="indexing_service">United Nations</org>
+        <person class="indexing_service">Wayner, Peter</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000824T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01EFDF1731F937A1575BC0A9669C8B63" item-length="1619" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Whose Intellectual Property Is It, Anyway? The Open Source War</hl1>
+      </hedline>
+      <byline class="print_byline">By PETER WAYNER</byline>
+      <byline class="normalized_byline">Wayner, Peter</byline>
+      <abstract>
+        <p>Essay by Peter Wayner on desire for control of intellectual property inspired in part by software industry; proposal from World Intellectual Property Orgn, arm of United Nations, would allow big corporations to protect facts in their databases; although this may protect big databases, it would also constrain little ones; facts would go from being things owned by everyone to things that can be herded and owned by single person or company; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THERE'S a war going on. It isn't between ethnic groups, provinces, religions or nations. It is between nimble people who want to think for themselves and big dinosaurs of corporations that want to keep the upstarts penned up and docile.</p>
+        <p>This is the war of Open Source, and it is being fought in conference rooms, law offices, hacker redoubts and university dormitory rooms and in the hearts of millions of people surfing the Web.</p>
+      </block>
+      <block class="full_text">
+        <p>THERE'S a war going on. It isn't between ethnic groups, provinces, religions or nations. It is between nimble people who want to think for themselves and big dinosaurs of corporations that want to keep the upstarts penned up and docile.</p>
+        <p>This is the war of Open Source, and it is being fought in conference rooms, law offices, hacker redoubts and university dormitory rooms and in the hearts of millions of people surfing the Web.</p>
+        <p>On one side are the big conglomerates that sell gadgets, music, toys, movies, text, cars and tools to the world. They're discovering that intellectual property laws covering trademarks, patents and copyrights can be potent tools to block criticism and keep consumers on a very short leash. All it takes is a SWAT team of well-financed lawyers to stomp out opposition.</p>
+        <p>On the other side are the folks who think that they actually own what they purchase. They may be car buffs who want to rebore their engine blocks, musicians who want to make copies of tunes to play in their cars or computer owners who want to fix nasty bugs. They all want to get at the guts of the technology because that's where the power is.</p>
+        <p>In computer terminology, they want to tinker with the source code, the instructions for the computer that are understandable by a programmer. If you have access to the source, you can change the way the machine behaves. Computer programmers routinely adopt the voice of Obi-Wan Kenobi from ''Star Wars'' and intone, ''Use the source, Luke.''</p>
+        <p>In the past, getting at the source of one thing or another was one of the hallmarks of the American can-do spirit. The movie studios routinely celebrated the gritty mechanic or lowly grunt soldier who saved the day with a wrench and an intuitive feel about how machines work. In the past, you were supposed to understand how machines did their jobs.</p>
+        <p>Today, that kind of curiosity makes you a hacker. The big movie and music conglomerates want to portray the meddling kids who fiddle with DVD players as pirates who are just one click away from breaking into the Pentagon and launching nuclear missiles. To the conglomerates, poking around inside a gadget is just another form of theft.</p>
+        <p>Lawyers for the Motion Picture Association of America and major movie studios, for instance, have recently been scouring the Net, looking for copies of a program for unlocking DVD movies called DeCSS. They aren't just suing people who use the program to sell bootleg copies -- you don't need DeCSS to do that. They want to stomp out the knowledge of how the program works, and they want to make sure that no one on the Net even links to the software.</p>
+        <p>The people making the software available  contend that they're not pirating movies but are simply arranging to play DVD movies on their Linux machines. They're using the source code in much the same way that Bo and Luke Duke welded a few enhancements to their car in the television show ''The Dukes of Hazzard.''</p>
+        <p>This desire for control of intellectual property has been inspired in part by the software industry. Most people who buy a piece of software would be stunned to learn that they don't own software that cost $100 -- they've just licensed it.</p>
+        <p>These licenses often include strict prohibitions on taking the software apart, or reverse-engineering it. If you want to customize the software or find a way to fix the bugs, you're out of luck. If the software runs slightly differently on your computer, you can't do any reverse-engineering to fix it. The companies adopt the rule: ''Thou shall not know the source.''</p>
+        <p>One of the most infamous license restrictions came attached to Microsoft Agent, a product that helped programmers create little animated helpers on the screen. Buried in the click-wrapped license is a phrase that prohibits anyone working with the product from using ''the Character Animation Data and Image Files to disparage Microsoft, its products or services.'' Luckily, I'm not using Microsoft's tools to write this.</p>
+        <p>The scariest proposal from the World Intellectual Property Organization, an arm of the United Nations, aims to let big corporations protect facts in their databases. If all goes according to the group's plans, facts will pass out of the public domain when a corporation collects them. Once a company creates a database, it'll be able to stop others from copying the facts in the database without a license. It will own those facts.</p>
+        <p>While that may protect big databases, it will also constrain little ones. Facts will go from being things owned by everyone to things that can be herded and owned by a single person or company.</p>
+        <p>The good news is that at least in the software world, the battle against intellectual property constraints is going surprisingly well. In the last 15 years, the open-source software world has produced a collection of operating systems, applications and tools that is often better than most of the commercial systems out there.</p>
+        <p>The next generation of the Macintosh OS, for instance, is based in large part on open-source operating systems like FreeBSD and NetBSD. Computers based on GNU software (like Unix, but free) Linux or FreeBSD are used to run more than half of the sites on the Web, and they're found in increasing numbers in offices around the world. Even new appliances like the TiVo digital video recorders are based on Linux.</p>
+        <p>Open-source developers share all of their source code in the hope that others will use it, improve it and perhaps contribute enhancements to the rest of the world. The licenses that control the software make no attempt to stop people from sharing; in fact, they encourage it. There are no thefts of information, and there is no basis for any lawsuits like the one aimed at Napster. The authors want you to enjoy the software and pass it on.</p>
+        <p>Many people are surprised that the world of open-source code exists at all. How do programmers eat if they don't sell their software? In most cases, they are paid for the work their software performs rather than for the software itself. Many are programmers who use the software for their projects. The Apache Web server, for instance, is produced by a team of people who design Web sites. They charge for the service and share the basic software. In other cases, charging for the software is more trouble than its worth.</p>
+        <p>Many open-source teams achieved success before the influx of capital and hype. They relied on the freedom to cooperate, and that's often much more valuable. The forces of openness have made surprising strides in the last 10 years. The work of a bunch of hobbyists, teenagers and programmers working in their spare time now often eclipses the work of the biggest companies and their proprietary software. I.B.M. tried for years to dethrone Microsoft with its OS/ 2 operating system. Now the company is backing Linux.</p>
+        <p>This success scares the dinosaur companies that rely upon intellectual property laws to protect their earnings. If they can't deliver the best solutions to the people themselves, they're reaching to the courts to ensure that no one will supplant them. The lawsuit against the DVD-playing program, for instance, will do more to stop new companies that want to play legitimately purchased DVD movies than pirates.</p>
+        <p>The lawsuits against Napster may be aimed at piracy, but they could also stomp out small record labels and unsigned artists who want their music to float freely through the world of Napster. But the big labels want to shut down the entire service. If the current laws are not strong enough, they want new laws that will stop people from making some kinds of open technology. They imagine a world where technology will control and limit people instead of liberating them.</p>
+        <p>Historically, new technologies that appear to undermine old business models have not been as dangerous as they seemed at first. The photocopier was supposed to destroy the book market, but now the bookstores are bigger than before. The VCR was supposed to destroy network television, but now we have more networks than before.</p>
+        <p>Ever since Gutenberg replaced the monks in the scriptorium, the new technology for copying has made artists and the companies that employ them richer than ever. The notion of opening the source code to the world is just part of that tradition.</p>
+        <p>Companies have tried to use legal mechanisms to keep their customers under tight rein, but that has never succeeded. If anything, innovation stagnated and the industries declined. Reverse-engineering and the old greasy-knuckled can-do spirit are an important part of guaranteeing competition and protecting the consumer. Imagine if Ralph Nader or Rachel Carson had been hamstrung by the new rules on intellectual property? Many of the car companies now actively encourage the aftermarket, which provides both cool performance enchancers like superchargers and safety devices like infant seats.</p>
+        <p>The open-source war is not going to be easy for society. The intellectual property laws do help protect creators and their innovations, and corporations instinctively grab as much power as they can get. But if the strength of these laws grows and the teams of lawyers that enforce them become more powerful, society will become much poorer.</p>
+        <p>ESSAY Peter Wayner is the author of a new book, ''Free for All: How Linux and the Free Software Movement Undercut the High-Tech Titans'' (HarperBusiness).</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Peter Wayner is the author of a new book, ''Free for All: How Linux and the Free Software Movement Undercut the High-Tech Titans'' (HarperBusiness).</tagline>
+    </body.end>
+  </body>
+</nitf>

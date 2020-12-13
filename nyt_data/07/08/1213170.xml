@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Harry Potter's Feast</title>
+    <meta content="L08POT" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213170"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Rowling, J K</person>
+        <person class="indexing_service">Collins, Gail</person>
+        <person class="indexing_service">Rubel, Shawn Jr</person>
+        <object.title class="indexing_service">Harry Potter (Book Series)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000708T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E7DF1738F93BA35754C0A9669C8B63" item-length="174" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Harry Potter's Feast</hl1>
+      </hedline>
+      <abstract>
+        <p>Shawn J Rubel letter replies to Gail Collins's July 7 article deploring the length of the latest Harry Potter book</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>It is true, as Gail Collins writes (column, July 7), that we will ''mourn the days'' when Harry Potter ''existed only in books,'' which were ''smaller than breadboxes.''</p>
+        <p>Yet what does length have to do with a book's magic? Would ''David Copperfield'' be better if it were shorter? Would ''War and Peace''?</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>It is true, as Gail Collins writes (column, July 7), that we will ''mourn the days'' when Harry Potter ''existed only in books,'' which were ''smaller than breadboxes.''</p>
+        <p>Yet what does length have to do with a book's magic? Would ''David Copperfield'' be better if it were shorter? Would ''War and Peace''?</p>
+        <p>When I heard that ''Harry Potter and the Goblet of Fire'' was going to exceed 700 pages, I was ecstatic for two reasons. First, I love long books. Second, most children are daunted by a book's length. But with Harry Potter, length will not matter, and maybe it will never matter again.</p>
+        <p>Books should be savored, whatever the length. Here's to hoping that ''Goblet of Fire'' lives up to its predecessors.</p>
+        <p>SHAWN J. RUBEL  New York, July 7, 2000</p>
+        <p>The writer is marketing manager for Lebhar-Friedman Books.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

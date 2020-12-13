@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="01CMPBRFS" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234865"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000930T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE5DB143DF933A0575AC0A9669C8B63" item-length="232" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DOMINION RESOURCES INC., Richmond, Va., a diversified utility holding company, said its telecommunications unit, Dominion Telecom, agreed to pay $41.1 million to use 6,000 miles of fiber optic lines of the Williams Communications Group, Tulsa, Okla., to expand its network in the northeastern United States.</p>
+      </block>
+      <block class="full_text">
+        <p>DOMINION RESOURCES INC., Richmond, Va., a diversified utility holding company, said its telecommunications unit, Dominion Telecom, agreed to pay $41.1 million to use 6,000 miles of fiber optic lines of the Williams Communications Group, Tulsa, Okla., to expand its network in the northeastern United States.</p>
+        <p>STARWOOD HOTELS AND RESORTS WORLDWIDE INC., White Plains, said it would open the Westin La Quinta Golf Resort tomorrow in Marbella on the Costa del Sol of Spain. The resort, which cost $24.7 million to build, is a joint venture with the closely held La Quinta Real Estate Group of Madrid.</p>
+        <p>NAVISTAR INTERNATIONALCORP., Chicago, the No. 3 maker of trucks, said it would move its headquarters to suburban Warrenville, Ill., from downtown Chicago in December to cut costs, leaving the city where the company was founded almost a century ago.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

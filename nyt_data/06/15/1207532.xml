@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lost at Los Alamos</title>
+    <meta content="15THU2$01" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1207532"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Atomic Weapons</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Security and Warning Systems</classifier>
+        <org class="indexing_service">Energy Department</org>
+        <org class="indexing_service">Los Alamos National Laboratory</org>
+        <org class="indexing_service">National Nuclear Security Administration</org>
+        <person class="indexing_service">Richardson, Bill (Sec)</person>
+        <person class="indexing_service">Gordon, John</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Weapons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04EED6103EF936A25755C0A9669C8B63" item-length="414" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lost at Los Alamos</hl1>
+      </hedline>
+      <abstract>
+        <p>Editorial says Energy Sec Bill Richardson, who quieted earlier security lapses at Los Alamos National Laboratory with assertions that he would not tolerate more failures, has a lot to answer for in loss of two computer hard drives containng sensitive nuclear weapons data; says Gen John Gordon, head of new National Nuclear Security Administration, will need broad authority to revamp utterly inadequate security structure</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The security failures at the Los Alamos National Laboratory have been appalling. Two computer hard drives containing sensitive nuclear weapons data have disappeared from its vault, and officials do not know whether they were misplaced, stolen or accidentally destroyed. To make matters worse, employees who first noticed the loss failed to inform their superiors for three weeks while trying in vain to find the highly secret material. Secretary of Energy Bill Richardson, who quieted earlier controversies over security lapses with assertions that he would not tolerate more failures, has a lot to answer for in this case. Clearly, he has not done enough to solve security problems at the nuclear weapons laboratories.</p>
+        <p>This week, in the face of intense Congressional criticism, Mr. Richardson appointed former Senator Howard Baker and former Representative Lee Hamilton to conduct an independent investigation of the incident and issue recommendations. He will also need to give the National Nuclear Security Administration, the new semiautonomous agency created by Congress within the Energy Department to oversee the nuclear weapons programs, broad authority over security issues. Gen. John Gordon, the deputy director of the Central Intelligence Agency, who was confirmed yesterday by the Senate to head the new agency, will need to revamp an utterly inadequate security structure.</p>
+      </block>
+      <block class="full_text">
+        <p>The security failures at the Los Alamos National Laboratory have been appalling. Two computer hard drives containing sensitive nuclear weapons data have disappeared from its vault, and officials do not know whether they were misplaced, stolen or accidentally destroyed. To make matters worse, employees who first noticed the loss failed to inform their superiors for three weeks while trying in vain to find the highly secret material. Secretary of Energy Bill Richardson, who quieted earlier controversies over security lapses with assertions that he would not tolerate more failures, has a lot to answer for in this case. Clearly, he has not done enough to solve security problems at the nuclear weapons laboratories.</p>
+        <p>This week, in the face of intense Congressional criticism, Mr. Richardson appointed former Senator Howard Baker and former Representative Lee Hamilton to conduct an independent investigation of the incident and issue recommendations. He will also need to give the National Nuclear Security Administration, the new semiautonomous agency created by Congress within the Energy Department to oversee the nuclear weapons programs, broad authority over security issues. Gen. John Gordon, the deputy director of the Central Intelligence Agency, who was confirmed yesterday by the Senate to head the new agency, will need to revamp an utterly inadequate security structure.</p>
+        <p>The two computer hard drives contained data used to respond to nuclear accidents or terrorist attacks. They have been missing from a secure vault at the lab since at least early May. Staff members of the Nuclear Emergency Search Team, the group responsible for managing the hard drives, became aware of their disappearance on May 7, but there are reports that the drives were last seen for certain in early April.</p>
+        <p>The hard drives were kept in a vault to which more than two dozen people were allowed unescorted access. Incredibly, the lab does not even require staff members to sign a log when they remove classified material, making it hard to determine when or why or by whom material is removed. That will now have to be determined by a federal inquiry after the fact.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Book That Speaks to Children</title>
+    <meta content="27BWAY$01" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Books; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225863"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BY THE WAY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Libraries and Librarians</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <location class="indexing_service">Westchester County (NY)</location>
+        <person class="indexing_service">Ames, Lynne</person>
+        <object.title class="indexing_service">Harry Potter and the Goblet of Fire (Book)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Libraries and Librarians</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000827T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02EED61031F934A1575BC0A9669C8B63" item-length="200" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Book That Speaks to Children</hl1>
+      </hedline>
+      <byline class="print_byline">By LYNNE AMES</byline>
+      <byline class="normalized_byline">Ames, Lynne</byline>
+      <abstract>
+        <p>Harry Potter and the Goblet of Fire, wildly popular children's book, reportedly has been checked out of libraries in Westchester County, NY, 850 times since its July 8 release date; photo (By the Way column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''Harry Potter and the Goblet of Fire'' is working its magic in Westchester.</p>
+        <p>Since its release on July 8, the wildly popular children's book has been checked out of Westchester's 38 libraries more than 850 times, said Judith Rovenger, youth services consultant for the Westchester Library System. Twenty-three youngsters are on the reserve waiting list to read one of the 301 copies in the county's libraries.</p>
+      </block>
+      <block class="full_text">
+        <p>''Harry Potter and the Goblet of Fire'' is working its magic in Westchester.</p>
+        <p>Since its release on July 8, the wildly popular children's book has been checked out of Westchester's 38 libraries more than 850 times, said Judith Rovenger, youth services consultant for the Westchester Library System. Twenty-three youngsters are on the reserve waiting list to read one of the 301 copies in the county's libraries.</p>
+        <p>''The Harry Potter books really speak to children,'' Ms. Rovenger said. ''They combine elements of whimsical and heroic good-versus-evil fantasy; they are also coming-of-age tales. Kids are hungry for this kind of thing.''</p>
+        <p>Hungry enough to participate in ''lots of innovative programs'' based on Harry Potter, she added. Libraries have held competitions in Quidditch, the sports-cum-magic game that the books' characters play. And they have organized dozens of discussion groups.</p>
+        <p>LYNNE AMES</p>
+        <p>BY THE WAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

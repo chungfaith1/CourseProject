@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>AT&amp;T Revises Its Plan</title>
+    <meta content="24X1PHON" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Front Page; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209799"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000624T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEFD61730F937A15755C0A9669C8B63" item-length="117" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>AT&amp;T Revises Its Plan</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AT&amp;T submitted a proposal that would allow customers to save money on some long-distance calls, but would raise rates for other calls. Consumer groups praised the plan's flexibility but were unhappy with price increases that will affect tens of millions of customers.  Business Day, Page C1.</p>
+      </block>
+      <block class="full_text">
+        <p>AT&amp;T submitted a proposal that would allow customers to save money on some long-distance calls, but would raise rates for other calls. Consumer groups praised the plan's flexibility but were unhappy with price increases that will affect tens of millions of customers.  Business Day, Page C1.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

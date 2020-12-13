@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>PayPal Praise and Problems</title>
+    <meta content="LTR234954" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212882"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">x.com corp</org>
+        <person class="indexing_service">spang, sue</person>
+        <person class="indexing_service">spang, sue</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000706T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07EFD61E39F935A35754C0A9669C8B63" item-length="142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>PayPal Praise and Problems</hl1>
+      </hedline>
+      <abstract>
+        <p>Sue Spang letter says PayPal, online payment system discussed in June 29 article, has not been helpful to her in dealing with fraudulent account set up in her name with a stolen credit card number</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I received a letter from PayPal (by regular mail) thanking me for using its service and offering to increase the amount in my account.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I received a letter from PayPal (by regular mail) thanking me for using its service and offering to increase the amount in my account.</p>
+        <p>Unfortunately, I had never set up an account with PayPal. Someone was able to use my name and credit card number. I have had little luck with PayPal's fraud or customer service departments and have had to cancel my credit card and notify all credit bureaus. I don't know if the culprit will ever be caught.  SUE SPANG  Lexington, S.C.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

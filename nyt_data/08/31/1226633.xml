@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Scientists Report They Have Made Robot That Makes Its Own Robots</title>
+    <meta content="31ROBO" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Front Page; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/08/31/technology/31ROBO.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1226633"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Robots</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Brandeis University</org>
+        <person class="indexing_service">Chang, Kenneth</person>
+        <person class="indexing_service">Pollack, Jordan B (Dr)</person>
+        <person class="indexing_service">Lipson, Hod (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="general_descriptor">Robots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000831T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE4DB1430F932A0575BC0A9669C8B63" item-length="1150" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Scientists Report They Have Made Robot That Makes Its Own Robots</hl1>
+      </hedline>
+      <byline class="print_byline">By KENNETH CHANG</byline>
+      <byline class="normalized_byline">Chang, Kenneth</byline>
+      <abstract>
+        <p>Drs Jordan B Pollack and Hod Lipson of Brandeis University create first robot that designs and builds other robots, with little human help; advance could lead to new industry of inexpensive robots customized for specific tasks; revives concerns about eventually creating robotic species that could supplant biological life; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For the first time, computer scientists have created a robot that designs and builds other robots, almost entirely without human help.</p>
+        <p>In the short run, this advance could lead to a new industry of inexpensive robots customized for specific tasks. In the long run -- decades at least -- robots may one day be truly regarded as ''artificial life,'' able to reproduce and evolve, building improved versions of themselves.</p>
+      </block>
+      <block class="full_text">
+        <p>For the first time, computer scientists have created a robot that designs and builds other robots, almost entirely without human help.</p>
+        <p>In the short run, this advance could lead to a new industry of inexpensive robots customized for specific tasks. In the long run -- decades at least -- robots may one day be truly regarded as ''artificial life,'' able to reproduce and evolve, building improved versions of themselves.</p>
+        <p>Such durable, adaptive robots, astronomers have suggested, could someday be sent into space to explore the galaxy or search for other life.</p>
+        <p>But the quest to create artificial life also revives concerns that computer scientists could eventually create a robotic species that would supplant biological life, including humans.</p>
+        <p>''Some things we probably can do we shouldn't do,'' said Bill Joy, chief scientist at Sun Microsystems, who wrote a recent article warning of the power of emerging technologies. ''Just like we can kill things with DDT, but we shouldn't.''</p>
+        <p>For now, the robotic manufacturing system -- a computer hooked up to a machine that builds plastic models -- in the laboratory of Dr. Jordan B. Pollack and Dr. Hod Lipson at Brandeis University in Waltham, Mass., cannot create anything nearly as complicated as itself. Instead, it produces eight-inch-long contraptions of plastic bars and ball joints.</p>
+        <p>When a motor and microchip are added, the automatons have one, and only one, ability: to crawl slowly. The fastest can scuttle along at a few inches a second.</p>
+        <p>''They look like toys,'' Dr. Pollack, a professor of computer science, said. But, he added, ''They were not engineered by humans, and they were not manufactured by humans.''</p>
+        <p>Dr. Pollack and Dr. Lipson, a research scientist, report their results in today's issue of the journal Nature.</p>
+        <p>''This is the first example of pretty much 100 percent automated evolution of a machine,'' said Dr. Philip Husbands, a professor of artificial intelligence at the University of Sussex in England. ''It's a rather primitive example, but it's the first step to something that could be quite significant.''</p>
+        <p>In the future, the technique could be used to design robots that assemble parts in factories, clean up chemical spills or vacuum a home.</p>
+        <p>Because computers cost much less than engineers, ''It opens for the first time a more economical approach to robotics,'' Dr. Pollack said. ''We can now essentially design for free and build for a few thousand dollars.''</p>
+        <p>The cost of designing a robot today typically runs from hundreds of thousands of dollars to millions of dollars, Dr. Pollack said.</p>
+        <p>The computer in the Brandeis system had no idea what a successful design might look like. Instead, it was merely given a list of possible parts it could work with, the physical laws of gravity and friction, the goal of moving on a horizontal surface and a group of 200 randomly constructed, nonworking designs.</p>
+        <p>Mimicking biological evolution, the computer added, subtracted and changed pieces in the designs. At the same time, the computer similarly mutated the programming instructions for controlling the robot's movements. After each step, the computer ran simulations to test the designs, keeping the ones that moved well and discarding the failures.</p>
+        <p>After 300 to 600 generations of evolution and fine-tuning, the computer sent the design to a prototyping machine, used by manufacturers to build test models of product designs, to build the robot. Then, in the step that required human help, the researchers installed the robot's motor and microchip and downloaded the robot's programming instructions.</p>
+        <p>Changing the initial configuration of the robot parts produced a different design and a different approach to locomotion. One pushes itself along. ''It's kind of like an accordion,'' Dr. Pollack said.</p>
+        <p>Another one ''walks something like a crab,'' Dr. Lipson said. ''It looks like it's crawling on the floor. It's quite surprising the diversity of solutions we get.''</p>
+        <p>In earlier work, other researchers used similar evolution-inspired algorithms to evolve imaginary creatures that existed only in virtual computer worlds or to design the programming instructions.</p>
+        <p>The robots' evolution is currently a dead-end, as the designing computer never learns how well its designs work in the real world. The simple robots also have no ability to improve their performance. According to the researchers, the robots currently have the brainpower of bacteria. ''We hope to get up to insect level within a couple of years,'' Dr. Pollack said. ''There's no danger of Commander Data walking out of our fabricator anytime soon,'' he said, referring to the android character in ''Star Trek.''</p>
+        <p>In future research, the Brandeis researchers intend to add sensors to the robots and improve the design programs. Future robots may also be able to exchange information among one another and learn from each other's experiences.</p>
+        <p>As computer chips speed up and fabrication machines become more sophisticated, the robotic designers will produce robots that are more and more complex. Some have wondered what will happen when a robot can design and build something as complex as itself.</p>
+        <p>For example, Dr. Seth Shostak, an astronomer at the SETI Institute in Mountain View, Calif., has suggested that researchers listening for radio signals from alien civilizations are more likely to first come across intelligent machines created by aliens.</p>
+        <p>In an article in the April issue of Wired, Mr. Joy argued that scientists should perhaps deliberately steer themselves away from research that would create self-replicating, evolving, autonomous robots. With forethought, he said, computer scientists should be able to tap into most of the benefits of the emerging technology while avoiding the dangers.</p>
+        <p>''This doesn't have enough of the pieces to be by itself dangerous,'' Mr. Joy said about the Brandeis work.  But, he added, ''We're on the road to somewhere where there's big issues down the road.''</p>
+        <p>Others working in the field are not as worried, even if technological advances make such devices possible. Dr. Ralph C. Merkle of the nanotechnology firm Zyvex and an adviser to the Foresight Institute, said that high costs would probably prevent the design of dangerous robots. Rather, robots would continue to be designed for specific tasks with little or no ability to evolve and adapt.</p>
+        <p>''It looks like having a device to work at all is hard,'' Dr. Merkle said. ''There is no desire to add additional complexity. Those systems do not look like they would be dangerous.''</p>
+        <p>The Brandeis researchers find the speculation premature. ''Really, it's so far removed from anything dangerous,'' Dr. Lipson said about their work. ''There are many other things to worry about before this.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

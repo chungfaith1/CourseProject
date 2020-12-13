@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Web Tool For Giving</title>
+    <meta content="07GIVE" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1228485"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Philanthropy</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Newtithing</org>
+        <person class="indexing_service">Johnston, David Cay</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="general_descriptor">Philanthropy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000907T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E0DF1439F934A3575AC0A9669C8B63" item-length="444" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Web Tool For Giving</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID CAY JOHNSTON</byline>
+      <byline class="normalized_byline">Johnston, David Cay</byline>
+      <abstract>
+        <p>Newtithing, group that seeks to encourage charitable giving based on assets, not income, will introduce new Web tool that will let people with assets see how much more they could give without economic pain; calculator will be available at two sites (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AFTER years of rising values of stocks, real estate and other assets, Americans overall are richer than ever, but this wealth has not spawned a new generosity. Giving to charities continues at its historic level of about 2 percent of income, tax data show. But a new Web tool, being announced today, will let people with assets see how much more they could give without economic pain.</p>
+        <p>Newtithing, a San Francisco organization created a decade ago to encourage people with assets to give more, developed the tool, called NewTitheCalc. It has a five-step process to show people how by analyzing income, expenses and assets they can compare their current giving practices with the NewTithing strategy.</p>
+      </block>
+      <block class="full_text">
+        <p>AFTER years of rising values of stocks, real estate and other assets, Americans overall are richer than ever, but this wealth has not spawned a new generosity. Giving to charities continues at its historic level of about 2 percent of income, tax data show. But a new Web tool, being announced today, will let people with assets see how much more they could give without economic pain.</p>
+        <p>Newtithing, a San Francisco organization created a decade ago to encourage people with assets to give more, developed the tool, called NewTitheCalc. It has a five-step process to show people how by analyzing income, expenses and assets they can compare their current giving practices with the NewTithing strategy.</p>
+        <p>Financial advisers and tax planners discourage giving by focusing on minimizing how much income is realized so that taxes are held down, said Claude Rosenberg, a retired San Francisco investment manager who founded NewTithing in 1990. He said people with financial assets, even modest ones, have much more capacity to give than they realize.</p>
+        <p>The calculator will be unveiled today at Sharing the Wealth, a philanthropy conference in Minneapolis. It will be available initially at two sites. One, maintained by Minnesota Public Radio, is access.mpr.org/civic</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

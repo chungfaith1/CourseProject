@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV094923" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1221994"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Blumenfeld, Larry</person>
+        <person class="indexing_service">Zorn, John</person>
+        <object.title class="indexing_service">Arcana: Musicians On Music (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000813T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E6D9143CF930A2575BC0A9669C8B63" item-length="295" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Larry Blumenfeld</byline>
+      <byline class="normalized_byline">Blumenfeld, Larry</byline>
+      <abstract>
+        <p>Larry Blumenfeld reviews book Arcana: Musicians on Music edited by John Zorn (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ARCANA</p>
+        <p>Musicians on Music.</p>
+        <p>Edited by John Zorn.</p>
+        <p>Granary, $24.95.</p>
+      </block>
+      <block class="full_text">
+        <p>ARCANA</p>
+        <p>Musicians on Music.</p>
+        <p>Edited by John Zorn.</p>
+        <p>Granary, $24.95.</p>
+        <p>Nearly all of the 30 musicians whose writings are gathered in ''Arcana'' would be considered avant-garde -- a catchall for nearly any experimental or nontraditional work -- primarily because they don't fit anywhere else. As a result, most feel marginalized and misunderstood. Meanwhile, listeners and critics have little ability to place this music within a thoughtful context -- or to talk about it at all. The editor of the book, the saxophonist and composer John Zorn, makes his agenda clear in his preface: ''This book exists to correct an unfortunate injustice, the incredible lack of insightful critical writing about a significant generation of the best and most important work of the past two decades.'' Some common themes emerge in this collection of 30 pieces, including essays, reminiscences, interviews, technical instruction and some truly creative flights of fancy: the creative musician's struggle against commodification, the challenge of electronics, the search for identity in a multicultural world, the tension between composition and improvisation. Uneven as these readings are -- some are overly intellectualized, others glib -- each provides deep immersion into a specific world. As a collection, they show that these avant-garde musicians share a rich legacy of common aesthetic attitude, and that each employs a personal approach that must be considered on its own terms.</p>
+        <p>Larry Blumenfeld</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>With Its E-Mail Infected, Ford Scrambled And Caught Up</title>
+    <meta content="08FORD$02" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1197905"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <classifier class="indexing_service" type="descriptor">Vandalism</classifier>
+        <org class="indexing_service">Ford Motor Co</org>
+        <person class="indexing_service">Bradsher, Keith</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vandalism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000508T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E5D81238F93BA35756C0A9669C8B63" item-length="1380" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>With Its E-Mail Infected, Ford Scrambled And Caught Up</hl1>
+      </hedline>
+      <byline class="print_byline">By KEITH BRADSHER</byline>
+      <byline class="normalized_byline">Bradsher, Keith</byline>
+      <dateline>DEARBORN, Mich., May 7</dateline>
+      <abstract>
+        <p>Ford Motor Co was particularly hard hit by e-mail infected with 'I love you' program, which jammed electronic networks around world; up to 1,000 Ford computers were directly infected and 30,000 workers in Europe alone got 140,000 contaminated messages in three hours before Ford shut down global e-mail network; program seems to have caused only limited permanent damage and did not force Ford to stop any factories (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kevin J. Timms, the Ford Motor Company's 37-year-old computer security manager, arrived at work here in his metallic blue Mercury Cougar at 6:45 on Thursday morning, a not-uncommon hour for managers at Midwest manufacturers. He was just walking into his office when the phone rang.</p>
+        <p>Roger Chapman, the manager of Ford's computer center in Warley, England, had determined that a new, malignant computer program was spreading swiftly across Ford's global e-mail network. He suggested that the entire network be shut down for the first time. Mr. Timms agreed, and told his staff to proceed.</p>
+      </block>
+      <block class="full_text">
+        <p>Kevin J. Timms, the Ford Motor Company's 37-year-old computer security manager, arrived at work here in his metallic blue Mercury Cougar at 6:45 on Thursday morning, a not-uncommon hour for managers at Midwest manufacturers. He was just walking into his office when the phone rang.</p>
+        <p>Roger Chapman, the manager of Ford's computer center in Warley, England, had determined that a new, malignant computer program was spreading swiftly across Ford's global e-mail network. He suggested that the entire network be shut down for the first time. Mr. Timms agreed, and told his staff to proceed.</p>
+        <p>The decision quickly reached LeRoy Boyd, a network administrator here. He began shutting down the computer servers that he oversaw in one of Ford's main computer labs, a high-ceiling room nearly half the length of a football field and crammed with tall racks of black metal laden with computer equipment.</p>
+        <p>Mr. Boyd usually needed just seven minutes to complete that task, but it proved more time-consuming on Thursday morning because of frequent interruptions. ''It took me about 20 minutes,'' he said with a tinge of embarrassment. ''People were coming in and walking up and saying, 'I can't get on the network.' ''</p>
+        <p>Like companies and individuals around the world, Ford was caught by surprise on Thursday by a rogue software program propagated by e-mail messages with ''I love you,'' in the subject field. People who clicked on an attachment to the message accidentally forwarded the message to everyone in their e-mail address book if they were using Microsoft Outlook, a popular e-mail program. Those who opened the attachment also risked losing some computer files.</p>
+        <p>The rogue program was sent to as many as 45 million computers worldwide, jamming electronic networks. Law enforcement officials continued looking this weekend for the program's author, with the search centering on the Philippines.</p>
+        <p>Ford was hit particularly hard, with up to 1,000 computers directly infected and 30,000 salaried employees in Europe alone receiving 140,000 contaminated e-mail messages in the three hours before the network was shut down.</p>
+        <p>Ford's difficulties with the program were exacerbated by the sheer scale of its operations: 130,000 desktop computers in 46 countries spread across almost every time zone, and operated by people speaking 14 languages. Not until Friday afternoon was Ford able to turn its e-mail service back on for its North American operations, while service did not resume in Latin America, Europe, Asia and Africa until Saturday.</p>
+        <p>Yet even at Ford, the rogue program appears to have caused only limited permanent damage. None of its 114 factories stopped, according to the automaker. Computerized engineering blueprints and other technical data were unaffected. Ford was still able to post information for dealers and auto parts suppliers on Web sites that it uses for that purpose.</p>
+        <p>Many Ford employees temporarily lost access to their personal electronic calendars of meeting times. But the damage appears to have been limited mainly to the erasing of some employees' files with images and recordings, Mr. Timms said.</p>
+        <p>Sitting in his office here near the top of Ford's world headquarters, with a view across miles of Ford office buildings and factories, James Yost, the automaker's chief information officer, concluded that the malignant program had in some ways resembled a vandalism attack against the outside of an assembly plant.</p>
+        <p>''It's kind of like someone breaking windows,'' he said. ''You've got to fix the windows so it won't get cold inside, but it doesn't stop production.''</p>
+        <p>Nonetheless, the rogue program was particularly irritating for Ford because the company's leaders have been trying to transform their goliath of heavy manufacturing into more of a high-technology company. Beginning later this month, Ford will offer desktop computers with unlimited Internet access and color printers to each of its 350,000 employees for just $5 a month.</p>
+        <p>Jacques Nasser, Ford's chief executive, sends an e-mail message of company business developments to every salaried employee worldwide each Friday, although the most recent message was not sent until today to avoid overloading the recovering mail system.</p>
+        <p>But on Thursday afternoon it was not at all clear when Mr. Nasser would be able to send his message. Mr. Timms and Mr. Boyd had called in dozens of computer engineers, who filled Mr. Boyd's computer lab. But when the Ford officials got the results of a quick analysis of the virus they had commissioned from McAfee.com, an outside computer security company, they found to their surprise that they recognized large blocks of computer code in the rogue program.</p>
+        <p>''We looked at the script and we thought, 'We've used this kind of stuff,' '' said Tom Truden, Ford's team leader for computer emergency responses.</p>
+        <p>Sections of the maliciously designed program turned out to be very similar to software that the company uses to distribute software updates -- including cures for security problems -- to Ford computers around the world. The similarities between the malicious program and Ford's software meant that computers already infected with the program might not be able to execute cures.</p>
+        <p>''It was 3 or 4 o'clock when we realized we were staring at a bit of a problem,'' Mr. Timms said.</p>
+        <p>Ford's own computer engineers had designed the company's update distribution software, but they used publicly available building blocks, Mr. Timms continued. The rogue program uses some of the same building blocks, though there is no sign that the rogue program was developed from the software that Ford tailored to its own needs, he said.</p>
+        <p>By 6 on Thursday evening, Mr. Timms and his staff at the computer lab had agreed on an outline of new software to distribute as an antidote for the malignant program, using different computer codes. They ordered pizza and spent the night working with experts from Hewlett-Packard and Microsoft, both of which have large staffs living in Detroit to provide technical support for the automakers, which are among their biggest customers.</p>
+        <p>The new software was written by 3 a.m. on Friday. The engineers then spent nearly three hours testing the software on computers designed to simulate Ford networks overseas. They made sure that the software would work, for example, on Ford computers in China, which use Chinese characters for the displays but the same underlying programming as Ford computers elsewhere.</p>
+        <p>Mr. Timms had gone home for several hours of sleep. His engineers paged him as he drove back to the computer lab before dawn, and had him pick up a couple of boxes of bagels and doughnuts for them.</p>
+        <p>Ford began turning the computer servers back on for North American e-mail users early Friday afternoon, and other regions' servers were returned to service on Saturday. The first time each desktop computer connected to the Ford network after it was restored, it would automatically and immediately download a remedy to eliminate the rogue program, because of the new software written on Thursday night.</p>
+        <p>To be cautious, the network's servers were turned on a few at a time.</p>
+        <p>''Everyone's starting to get tired, and you've got to slow down so you don't make a mistake,'' said Mr. Boyd on Friday afternoon, after working for 34 hours.</p>
+        <p>Mr. Timms said that e-mail sent to the company while the servers were off had been saved for later delivery, although technicians at Ford's computer lab said that some mail, particularly attachments, might have been lost. Ford financial officers had no immediate estimate of the cost to the company from the rogue program, since employees carried out other tasks instead of exchanging e-mail.</p>
+        <p>''It'll be interesting to see the cost analysis that finance does,'' Mr. Truden said.</p>
+        <p>A few people even suggested facetiously that the delay or loss of a few Powerpoint slide presentations and some e-mail might have actually helped Ford, according to Dave Bent, the chief information officer for the auto parts division. ''The joke is, 'A day without e-mail -- it's great,' '' he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="30INSI$04" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234853"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000930T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E3DC143DF933A0575AC0A9669C8B63" item-length="243" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>New Firestone Inquiry  Federal regulators opened a second investigation into Firestone tires after receiving 169 complaints about Steeltex tires used on the largest sport utility vehicles, pickup trucks and vans.</p>
+        <p>PAGE C1</p>
+      </block>
+      <block class="full_text">
+        <p>New Firestone Inquiry  Federal regulators opened a second investigation into Firestone tires after receiving 169 complaints about Steeltex tires used on the largest sport utility vehicles, pickup trucks and vans.</p>
+        <p>PAGE C1</p>
+        <p>Protests Sweep Serbia  Thousands of people across Serbia attended rallies against President Slobodan Milosevic as opposition leaders urged foreign governments to review results of the Sunday election they say they won.</p>
+        <p>PAGE A4</p>
+        <p>Yanks Go In With a Whimper  Losers of 13 of their last 16 games, the Yankees inched their way to a division title, despite a 13-2 loss in Baltimore, when Boston lost at Tampa Bay. The playoffs begin Tuesday.</p>
+        <p>SPORTSSATURDAY, PAGE D1</p>
+        <p>Views Shift on Grant and Lee  The images of the two Civil War generals are now being challenged by a string of books that are both more admiring of Ulysses S. Grant and more skeptical of Robert E. Lee.</p>
+        <p>ARTS &amp; IDEAS, PAGE B9</p>
+        <p>No Leap Into History  Marion Jones finished third in the long jump, losing her bid to become the first female track and field athlete to win five gold medals in one Olympics.</p>
+        <p>SPORTSSATURDAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

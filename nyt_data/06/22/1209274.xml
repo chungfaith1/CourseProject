@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Handheld Device Is More Than Guide</title>
+    <meta content="22MEGG$01" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209274"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="HIGH-TECH TOURS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Experience Music Project (Seattle)</org>
+        <person class="indexing_service">Marriott, Michel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000622T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E1D61031F931A15755C0A9669C8B63" item-length="534" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Handheld Device Is More Than Guide</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHEL MARRIOTT</byline>
+      <byline class="normalized_byline">Marriott, Michel</byline>
+      <abstract>
+        <p>Museum Exhibit Guide (MEG) to make its debut at opening of Interactive Music Project, Seattle; device, which weighs little more than two pounds, contains an impressive array of computer technology that enables it to pick up signals from exhibits in new museum; visitors can hear audio in form of music or narration through device's headphones; other features of MEG noted; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ANYONE who has visited an art museum in the last 10 years or so has probably been confronted by someone on the staff proferring an electronic contraption with headphones to ''enhance'' the gallery experience.</p>
+        <p>At worst, those devices have been little more than clunky cassette players, and at best, clunky MP3 players. Each usually provides a brief recorded narration, sometimes to the accompaniment of light classical music or elevator jazz, about various paintings and pieces in selected museum galleries.</p>
+      </block>
+      <block class="full_text">
+        <p>ANYONE who has visited an art museum in the last 10 years or so has probably been confronted by someone on the staff proferring an electronic contraption with headphones to ''enhance'' the gallery experience.</p>
+        <p>At worst, those devices have been little more than clunky cassette players, and at best, clunky MP3 players. Each usually provides a brief recorded narration, sometimes to the accompaniment of light classical music or elevator jazz, about various paintings and pieces in selected museum galleries.</p>
+        <p>But MEG, the Museum Exhibit Guide, which makes its debut tomorrow at the opening of the interactive Experience Music Project in Seattle, appears to be something quite different.</p>
+        <p>The device, which weighs a little more than two pounds, has the processing power of a Pentium-class laptop. The heart of MEG is a box that contains a Toshiba processor, batteries and an 8.3- gigabyte  I.B.M. Travelstar hard drive. It is worn with a shoulder strap and sits on the hip. Another part of MEG contains a small, handheld color L.C.D. screen, numeric keypad and some buttons and is connected to the main box by a cable. It is held in the hand much like a palm-size organizer.</p>
+        <p>MEG, which is equipped with an infrared transceiver, can pick up signals from exhibits in the new museum. By aiming MEG at an item and pressing a button or by typing an item's number into the device, museum visitors can view text explaining the object on MEG's screen. They can also hear audio in the form of music or narration through the device's headphones.</p>
+        <p>''It's a little bit of a juggle to get everything on, but once you do a cruise around, it's lots of fun,'' said Robert Fitzsimmons, director of technology for the museum.</p>
+        <p>Mr. Fitzsimmons' company, Vulcan Northwest, in Bellevue, Wash., developed MEG, and he said the company hoped to license its technology to other institutions.</p>
+        <p>Visitors can also bookmark specific exhibits while they tour the museum. When the device is returned to museum workers, the bookmarks are downloaded to a museum database. They can then be called up on E.M.P.'s Web site (www  .emplive.com) by using an identification number on the museum admission ticket.</p>
+        <p>Because MEG's are built to be upgraded, Mr. Fitzsimmons said his company is experimenting with adding video playback.</p>
+        <p>Vulcan is also testing ways to use radio frequencies to reduce the amount of information required to be stored on MEG's hard drive. Using radio signals as well as infrared would allow MEG to play back full versions of songs instead of fragments. More up-to-date information, like museum show times, special tours and classes and exhibition reminders, could also be beamed right into the devices in vistors' hands, Mr. Fitzsimmon said.</p>
+        <p>With MEG, he said, ''You get to be in charge of what you want more information about.''</p>
+        <p>HIGH-TECH TOURS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

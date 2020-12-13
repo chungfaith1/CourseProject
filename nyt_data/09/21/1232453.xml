@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Less Than Universal</title>
+    <meta content="LTR000516" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1232453"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Remote Control Systems</classifier>
+        <person class="indexing_service">miles, michael</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Remote Control Systems</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000921T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E0DC103BF932A1575AC0A9669C8B63" item-length="143" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Less Than Universal</hl1>
+      </hedline>
+      <abstract>
+        <p>Michael Miles letter comments on Sept 14 article on remote control devices</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To The Editor:</p>
+        <p>Re ''The Ultimate Remote Means Never Having To Leave the Couch'' (Sept. 14), about controls that handle many devices:</p>
+      </block>
+      <block class="full_text">
+        <p>To The Editor:</p>
+        <p>Re ''The Ultimate Remote Means Never Having To Leave the Couch'' (Sept. 14), about controls that handle many devices:</p>
+        <p>The universal remote control is a great invention, but please let me know if any of these behemoths can be set to program my VCR to record a future program, not just to perform the basic features of a standard VCR. Of all the universal remote controls I have seen, none have been able to prevent me from having to dig out the original VCR-only remote control to program my VCR to record a program taking place at a later point in time.</p>
+        <p>MICHAEL MILES  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

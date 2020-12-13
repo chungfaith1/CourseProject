@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New York Times Appoints A Chief Financial Officer</title>
+    <meta content="Y05TIME" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1196933"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000505T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E1DB1638F936A35756C0A9669C8B63" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New York Times Appoints A Chief Financial Officer</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The New York Times has appointed Liam J. Carlos as vice president and chief financial officer effective July 1.</p>
+        <p>Mr. Carlos, 47, has been assistant controller in the newspaper's financial department since June 1999. He will succeed James L. Terrill, who is retiring next month.</p>
+      </block>
+      <block class="full_text">
+        <p>The New York Times has appointed Liam J. Carlos as vice president and chief financial officer effective July 1.</p>
+        <p>Mr. Carlos, 47, has been assistant controller in the newspaper's financial department since June 1999. He will succeed James L. Terrill, who is retiring next month.</p>
+        <p>The newspaper has also promoted Neil P. Fitzpatrick, 55, to vice president and controller. He has served as assistant controller since January 1999.</p>
+        <p>The newspaper's parent, The New York Times Company, also announced an appointment. Jennifer C. Dolan will be executive director of its forest products group, which purchases newsprint companywide and oversees the company's minority interests in two paper mills. Ms. Dolan, 53, had served as acting director of that group since last July.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

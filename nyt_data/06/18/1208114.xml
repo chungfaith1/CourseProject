@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Double-Life Crusade</title>
+    <meta content="LTR105352" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208114"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Abortion</classifier>
+        <classifier class="indexing_service" type="descriptor">Capital Punishment</classifier>
+        <person class="indexing_service">Tucher, Albert E 3Rd</person>
+        <person class="indexing_service">Sullivan, Andrew</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Capital Punishment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Abortion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E3DA153EF93BA25755C0A9669C8B63" item-length="124" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Double-Life Crusade</hl1>
+      </hedline>
+      <abstract>
+        <p>Albert E Tucher 3rd letter holds Andrew Sullivan's May 21 Way We Live column misses point that if capital punishment is abolished, there will be no more executions but if abortion is abolished, abortions will continue</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sullivan misses an important distinction between capital punishment and abortion: if the state outlaws capital punishment, there will be no more executions. But if the state outlaws abortion, there will continue to be abortions, more hideous and perhaps even more numerous than those that now occur. I oppose capital punishment. I support legal abortion, not because I rejoice in abortions but because experience tells us that the alternative to legal abortion is much worse.</p>
+        <p>Albert E. Tucher 3d</p>
+        <p>Westfield N.J.</p>
+      </block>
+      <block class="full_text">
+        <p>Sullivan misses an important distinction between capital punishment and abortion: if the state outlaws capital punishment, there will be no more executions. But if the state outlaws abortion, there will continue to be abortions, more hideous and perhaps even more numerous than those that now occur. I oppose capital punishment. I support legal abortion, not because I rejoice in abortions but because experience tells us that the alternative to legal abortion is much worse.</p>
+        <p>Albert E. Tucher 3d</p>
+        <p>Westfield N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

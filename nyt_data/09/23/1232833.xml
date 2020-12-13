@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Banks Explain Their Reasons</title>
+    <meta content="Y23TEXT" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1232833"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Currency</classifier>
+        <classifier class="indexing_service" type="descriptor">International Trade and World Market</classifier>
+        <classifier class="indexing_service" type="descriptor">Economic Conditions and Trends</classifier>
+        <location class="indexing_service">Europe</location>
+        <org class="indexing_service">European Central Bank</org>
+        <org class="indexing_service">European Union</org>
+        <classifier class="online_producer" type="types_of_material">Text</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="general_descriptor">Currency</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000923T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E0DE1F3BF930A1575AC0A9669C8B63" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Banks Explain Their Reasons</hl1>
+      </hedline>
+      <abstract>
+        <p>Text of statement issued by European Central Bank announcing joint action with other central banks to prop up ailing European currency, the euro (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Following is the text of the statement of the European Central Bank in Frankfurt as it announced the joint action with other central banks yesterday:</p>
+      </block>
+      <block class="full_text">
+        <p>Following is the text of the statement of the European Central Bank in Frankfurt as it announced the joint action with other central banks yesterday:</p>
+        <p>On the initiative of the European Central Bank, the monetary authorities of the United States and Japan joined with the European Central Bank in concerted intervention in exchange markets because of their shared concern about the potential implications of recent movements in the euro exchange rate for the world economy.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

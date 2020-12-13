@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ideas &amp; Trends: No Safety Net; Living Riskier Electronically</title>
+    <meta content="25HARM" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1210262"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <person class="indexing_service">Harmon, Amy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000625T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E1DB1730F936A15755C0A9669C8B63" item-length="1365" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ideas &amp; Trends: No Safety Net; Living Riskier Electronically</hl1>
+      </hedline>
+      <byline class="print_byline">By AMY HARMON</byline>
+      <byline class="normalized_byline">Harmon, Amy</byline>
+      <abstract>
+        <p>Americans continue to transfer their personal, political, financial and medical lives online, while at the same time fretting over threats to privacy and security on the Internet; it may be that they cannot buck tendency to equate technology with progress and that financial incentives to continue this trend are huge; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CONSIDER the recent string of electronic events: A virus that becomes known as the love bug causes nearly $1 billion worth of damages as it ravages computer systems across the world. The Office of National Drug Control Policy admits that it may have violated federal privacy guidelines by implanting software on the computers of its Web site visitors that tracks their travels across the Internet. Hackers seize control of Nike's corporate Web site to announce that ''global justice is coming -- prepare now.''</p>
+        <p>Yet even as the threats to privacy and security on the Internet thrust their way into the public consciousness, Congress overwhelmingly passes a bill that aims to turbo-charge electronic commerce by giving electronic signatures the legal weight of paper signatures -- without many provisions for security. Americans continue to transfer their personal, political, financial and even medical lives online, all the while trading horror stories about identity theft and credit card scams.</p>
+      </block>
+      <block class="full_text">
+        <p>CONSIDER the recent string of electronic events: A virus that becomes known as the love bug causes nearly $1 billion worth of damages as it ravages computer systems across the world. The Office of National Drug Control Policy admits that it may have violated federal privacy guidelines by implanting software on the computers of its Web site visitors that tracks their travels across the Internet. Hackers seize control of Nike's corporate Web site to announce that ''global justice is coming -- prepare now.''</p>
+        <p>Yet even as the threats to privacy and security on the Internet thrust their way into the public consciousness, Congress overwhelmingly passes a bill that aims to turbo-charge electronic commerce by giving electronic signatures the legal weight of paper signatures -- without many provisions for security. Americans continue to transfer their personal, political, financial and even medical lives online, all the while trading horror stories about identity theft and credit card scams.</p>
+        <p>Is there a disconnect here?</p>
+        <p>If so, it may be because people simply can't stop themselves from using the Internet, spooked though they may be. They do not fight the nearly universal tendency to equate technology with progress. And at a time when the Internet is widely believed to be driving the buoyant economy, the financial incentives to continue on the current trajectory are huge.</p>
+        <p>But perhaps it is simpler than that: the risk seems worth it. So seductive is the technology that even its most strident critics cannot imagine voluntarily going without e-mail.</p>
+        <p>Significantly, those who are most outspoken about the privacy and security risks are no longer modern-day Luddites but computer scientists -- some of them the architects of the global computer network, which they have come to believe is insufficient to meet the demands being placed on it.</p>
+        <p>''If situation A is not working right, does it make sense to do A times 10 using the same technology?'' asked Lauren Weinstein, a veteran Internet engineer and co-founder of a group called People for Internet Responsibility, which has issued a technical critique of the electronic signature bill. ''That doesn't make any sense to me at all.''</p>
+        <p>As reports of electronic breaches and privacy lapses roll in with increasing frequency, it has become almost an article of faith among computer security experts that the radical, global commitment to research and installing safeguards that could make the Internet more secure will not happen until a major catastrophe strikes. But there is little doubt among them that such an effort will be made some day.</p>
+        <p>''The Net's going to go fumbling along until there's a massive intrusion,'' said Dave Farber, an Internet pioneer and chief technologist for the Federal Communications Commission. ''Then everything will hit the fan. Congress is going to go ballistic, and we're going to panic our way into doing something.''</p>
+        <p>HE added, without much hope, ''It would be much nicer to start talking about it now.''</p>
+        <p>The technological roots of the Internet's vulnerability are well known. Conceived by the Defense Department as a decentralized communications system that would continue to function even if chunks of it were destroyed, the Internet is by its nature open and interconnected.</p>
+        <p>''The Internet was built in an age when we all knew each other, we all trusted each other, we were talking about where to have dinner and what silver futures to buy,'' said Mr. Farber, speaking of the scientists who built it. ''Now we've moved it into an environment where the country counts on it. And it's very hard to retrofit security.''</p>
+        <p>Especially with a network that is expanding so rapidly. Even as software designers and security experts scramble to fix problems that they know about, dozens of new software applications are released and hundreds of thousands of new users log on.</p>
+        <p>''The opportunity for things to go wrong is always increasing,'' said Robert Morris, an assistant professor of computer science at the Massachusetts Institute of Technology who is perhaps better known as the creator of the first Internet worm, which crippled the network in 1988. ''More people are also going after things. But it's not clear who's going to win, the people who write software with bugs or the people trying to fix the bugs.''</p>
+        <p>Many technologists believe that the Internet could be made considerably more secure. Cars, they note, used to be a lot less safe than they are now. That was before a combination of consumer pressure, governmental regulation and manufacturers' designs came up with seat belts and air bags and anti-lock brakes.</p>
+        <p>''I use the network extensively,'' said Peter Neumann, a computer security expert with SRI International. ''I also know it can be brought down by anybody, anywhere in the world, in about 30 minutes. One of the things we need to do is educate the populace, so that they can take precautions.''</p>
+        <p>RISK assessment has been a big topic lately on the online discussion groups at eBay, the Internet auction site that has suffered a spate of high-profile fraud attempts. Sandi Brady, 49, of Franklin, N.J., echoed a widely held view: ''I struggle a little bit with using my credit card on the Internet,'' she said. ''But for every bad transaction, there's so many more good transactions. I use common sense, I use caution, and that's no different than the caution you take in life, period.''</p>
+        <p>Internet proponents argue that the vulnerabilities of the Internet are not any greater than those of the physical world -- just different. For instance, Paul Leuhr, who supervises the Federal Trade Commission's Internet fraud program, calls consumers' fears that someone will seize their credit card numbers as they travel across the network a ''gross misperception.'' Although credit card fraud on the Internet is thought to be slightly higher than in real-world transactions, and the speed and reach of the network can make its consequences far more serious, Mr. Leuhr said, ''almost always, fraud springs from the natural flaws in human behavior,'' such as writing down passwords or leaving credit card receipts in the garbage.</p>
+        <p>But a relatively new realm of human behavior now encompasses making policy and personal decisions about how to handle the technology that is becoming so closely woven into everyday life. And critics say greater attention to the vulnerabilities of the computer network is an important part of that.</p>
+        <p>A law that promises to eliminate costly paperwork and to speed transactions like purchasing home mortgages or paying taxes sounds great, for instance. But with no standards for ensuring the security of such documents, it could merely create a lot of confusion and litigation. Under the current law, it seems that a simple e-mail signature could qualify as binding. What happens when one party says a contract is changed after it is signed? What happens when a family paying bills online drops its Internet account?</p>
+        <p>But Margot Saunders, an attorney at the National Consumer Law Center, said the real problem for critics of the new law is that ''these are all what-ifs.''</p>
+        <p>''It's not intuitive because we're not seeing these problems out there and reporting back,'' she added. ''We're just guessing.''</p>
+        <p>And that in turn may help explain why it is so hard to confront the virtual impossibility of privacy and security on the Internet, or find the will to adjust behavior accordingly. It dovetails with the way people have for decades grappled with technological risk. Because it is harder to comprehend -- particularly with information technology, which is itself is so intangible -- it seems easier to dismiss the potential to do damage.</p>
+        <p>''It's not the same as getting your face smashed through the windshield,'' said David Mindell, a historian of technology at M.I.T. ''It's a lot less clear what your risks are when you're on the Internet or moving your life management over to Internet. And it's very hard for people to change their behavior based on poorly defined risks.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

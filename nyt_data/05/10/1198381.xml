@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="CN223017" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1198381"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000510T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E3DA1E38F933A25756C0A9669C8B63" item-length="260" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ALPHARMA INC., Fort Lee, N.J., a maker of generic drugs, agreed to sell five million shares of its Class A stock to the Donaldson, Lufkin &amp; Jenrette Securities Corp. for $186 million after fees and expenses.</p>
+        <p>TEXAS INSTRUMENTS INC., Dallas, whose semiconductors power two-thirds of the cellular telephones in the world, said it would spend $450 million to expand its plant in Freising, Germany, which would add about 300 jobs and double the manufacturing capacity at the factory.</p>
+      </block>
+      <block class="full_text">
+        <p>ALPHARMA INC., Fort Lee, N.J., a maker of generic drugs, agreed to sell five million shares of its Class A stock to the Donaldson, Lufkin &amp; Jenrette Securities Corp. for $186 million after fees and expenses.</p>
+        <p>TEXAS INSTRUMENTS INC., Dallas, whose semiconductors power two-thirds of the cellular telephones in the world, said it would spend $450 million to expand its plant in Freising, Germany, which would add about 300 jobs and double the manufacturing capacity at the factory.</p>
+        <p>INFONET SERVICES CORP., El Segundo, Calif., a provider of Internet access to businesses, agreed to allow Deutsche Telekom of Germany, the largest phone company in Europe, to resell its services worldwide for about $1 billion over three years.</p>
+        <p>LONMIN PLC., London, the fourth-largest mining company in England, sold its hotel and casino interests in the Bahamas to Driftwood Freeport Ltd. of Florida for $25 million in cash.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

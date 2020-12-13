@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="05CMPBRFS" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1220114"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000805T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E6D8153CF936A3575BC0A9669C8B63" item-length="232" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MERCATOR SOFTWARE INC., Wilton, Conn., the maker of software that links incompatible computers, said it had agreed to market products and build software with Tibco Software Inc., Palo Alto, Calif. Terms of the agreement were not disclosed.</p>
+      </block>
+      <block class="full_text">
+        <p>MERCATOR SOFTWARE INC., Wilton, Conn., the maker of software that links incompatible computers, said it had agreed to market products and build software with Tibco Software Inc., Palo Alto, Calif. Terms of the agreement were not disclosed.</p>
+        <p>SYNCOR INTERNATIONAL CORP., Woodland Hills, Calif., the No. 1 distributor and manufacturer of nuclear medicine for hospitals and clinics, said a subsidiary, Comprehensive Medical Imaging Inc., had agreed to buy 14 medical imaging centers from US Diagnostic Inc., West Palm Beach, Fla., for about $41 million in cash and debt.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

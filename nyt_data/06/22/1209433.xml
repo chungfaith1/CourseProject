@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Power to Protect</title>
+    <meta content="LTR000117" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209433"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <person class="indexing_service">flynn, peter</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000622T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE6DA1E31F931A15755C0A9669C8B63" item-length="177" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Power to Protect</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by Peter Flynn responds to June 15 article on uninterruptrible power surge protection for computers; says article was correct in stating that the devices offer higher-quality surge protection than simple power strip</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The letter about Uninterruptible Power Supplies (''Surge Protection,'' Incoming, June 15) was correct to assert that the devices offer higher-quality surge protection than a simple power strip. Some even include an offer to replace any equipment damaged by lightning while attached to the U.P.S.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The letter about Uninterruptible Power Supplies (''Surge Protection,'' Incoming, June 15) was correct to assert that the devices offer higher-quality surge protection than a simple power strip. Some even include an offer to replace any equipment damaged by lightning while attached to the U.P.S.</p>
+        <p>But the U.P.S. device's battery rarely comes into play for surge protection; most devices can lower the voltage to a safe level rather than switching to battery power. The advantage of a U.P.S. device is that when voltage drops below usable levels, as in a brownout or blackout, your computer will remain running for a few minutes. With some devices, that period allows files to be saved automatically before the computer loses power. My U.P.S. device has been working beautifully for more than a year and has protected my computer from many a power disruption since I bought it.</p>
+        <p>PETER FLYNN  Yorktown Heights, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

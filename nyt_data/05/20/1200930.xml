@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE ELECTRONIC FISHBOWL</title>
+    <meta content="Y20PRO$01" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Front Page; Corrections; Editors' Notes; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200930"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="COMING ON SUNDAY"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editors' Note</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Editors' Notes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000520T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E1DF103AF933A15756C0A9669C8B63" item-length="77" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE ELECTRONIC FISHBOWL</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Coming to TV this summer: real people who live under round-the-clock surveillance. A confessional culture meets up with the Internet, and exhibitionism becomes an extreme sport.  A report by Marshall Sella in The Times Magazine.</p>
+      </block>
+      <block class="full_text">
+        <p>Coming to TV this summer: real people who live under round-the-clock surveillance. A confessional culture meets up with the Internet, and exhibitionism becomes an extreme sport.  A report by Marshall Sella in The Times Magazine.</p>
+        <p>COMING ON SUNDAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

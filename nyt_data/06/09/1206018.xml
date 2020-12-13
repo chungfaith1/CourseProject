@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>People</title>
+    <meta content="MB233117" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1206018"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Gardner Geary, Coll</org>
+        <org class="indexing_service">Initiative Media Worldwide</org>
+        <org class="indexing_service">greenfield cos</org>
+        <person class="indexing_service">Lotito, Mike</person>
+        <person class="indexing_service">Hood, Jim</person>
+        <person class="indexing_service">Elliott, Stuart</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E1D9113FF93AA35755C0A9669C8B63" item-length="394" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>People</hl1>
+      </hedline>
+      <byline class="print_byline">By Stuart Elliott</byline>
+      <byline class="normalized_byline">Elliott, Stuart</byline>
+      <abstract>
+        <p>Bradley K Clark is named to new post of principal and general manager at Gardner, Geary, Coll, San Francisco, formerly known as Gardner, Geary, Coll &amp; Young; Mike Lotito, president and chief operating officer at Initiative Media North America, NY, is named to handle additional duties of new unit, IM.com; Jim Hood, executive with two Greenfield Cos units, is named to new post of group chief executive at parent (Advertising column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bradley K. Clark was named to the new post of principal and general manager at Gardner, Geary, Coll, San Francisco, formerly known as Gardner, Geary, Coll &amp; Young. He had been vice president for business development at Callahan Creek, Lawrence, Kan.</p>
+      </block>
+      <block class="full_text">
+        <p>Bradley K. Clark was named to the new post of principal and general manager at Gardner, Geary, Coll, San Francisco, formerly known as Gardner, Geary, Coll &amp; Young. He had been vice president for business development at Callahan Creek, Lawrence, Kan.</p>
+        <p>* Mike Lotito, president and chief operating officer at Initiative Media North America, New York, was named to handle the additional duties of heading a new unit, IM.com, which will specialize in online clients. Robert Holtkamp, account director at the Initiative Los Angeles office, was named to lead day-to-day operations at IM.com. Initiative is part of the Initiative Media Worldwide unit of the Interpublic Group of Companies.  * Jim Hood, managing director at the Greenfield Consulting Group and executive vice president at Digital Idea, Westport, Conn., both part of the Greenfield Cos., was named to the new post of group chief executive at the parent.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

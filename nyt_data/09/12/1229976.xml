@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="12INSI$07" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1229976"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000912T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E3D71638F931A2575AC0A9669C8B63" item-length="201" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Unusual Alliance in China  A group tied to the Rev. Sun Myung Moon has joined with Chinese officials to push the message that only abstinence can stop AIDS.  PAGE A12</p>
+      </block>
+      <block class="full_text">
+        <p>Unusual Alliance in China  A group tied to the Rev. Sun Myung Moon has joined with Chinese officials to push the message that only abstinence can stop AIDS.  PAGE A12</p>
+        <p>Long Road to Mideast Peace  Last week's meeting between Yasir Arafat and President Clinton shed some light on persistent hurdles to a Middle East settlement.  PAGE A6</p>
+        <p>A Primate Becomes Extinct  Miss Waldron's red colobus, right, a member of the taxonomic group to which human beings belong, is extinct, scientists say.  PAGE A24</p>
+        <p>New York Olympic Visions  Canoeing in Queens? Dressage on Staten Island? Ambitious plans to draw the 2012 Games to New York are awakening opposition.  PAGE B1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

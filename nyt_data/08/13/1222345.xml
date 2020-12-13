@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Context for Spending</title>
+    <meta content="MB000157" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1222345"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PERSONAL BUSINESS: DIARY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Behavior</classifier>
+        <classifier class="indexing_service" type="descriptor">Religion and Churches</classifier>
+        <org class="indexing_service">Lutheran Brotherhood</org>
+        <person class="indexing_service">Meese, Mickey</person>
+        <person class="indexing_service">Dungan, Nathan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Behavior</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000813T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E0DD123FF930A2575BC0A9669C8B63" item-length="136" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Context for Spending</hl1>
+      </hedline>
+      <byline class="print_byline">By Mickey Meece</byline>
+      <abstract>
+        <p>Nathan Dungan, vice president of stewardship and brand development at Lutheran Brotherhood, offers advice on how Americans can avoid becoming entangled in a 'web of hypnotic consumption' (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Consumers follow the three S's -- spend, save and share -- in that order, emphasizing the first, says Nathan Dungan, vice president of stewardship and brand development at Lutheran Brotherhood, a financial services group in Minneapolis. Americans ''are caught in a web of hypnotic consumption,'' he said. ''We're at an all-time low in savings and there's little energy invested in sharing.''</p>
+        <p>To reverse the order, Mr. Dungan offers seven tips for financial planning:</p>
+      </block>
+      <block class="full_text">
+        <p>Consumers follow the three S's -- spend, save and share -- in that order, emphasizing the first, says Nathan Dungan, vice president of stewardship and brand development at Lutheran Brotherhood, a financial services group in Minneapolis. Americans ''are caught in a web of hypnotic consumption,'' he said. ''We're at an all-time low in savings and there's little energy invested in sharing.''</p>
+        <p>To reverse the order, Mr. Dungan offers seven tips for financial planning:</p>
+        <p>* Think it through before you act.</p>
+        <p>* Evaluate spending to determine if it reflects what you value.</p>
+        <p>* Budget with values in mind.</p>
+        <p>* Protect income for your family.</p>
+        <p>* Save for goals like a child's education.</p>
+        <p>* Give to a cause that counts.</p>
+        <p>* Teach the next generation about financial values.</p>
+        <p>Mickey Meece</p>
+        <p>PERSONAL BUSINESS: DIARY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

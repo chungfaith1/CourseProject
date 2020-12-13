@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fuzzy Little Test Tubes</title>
+    <meta content="LTR093702" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1223787"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MEDICINE AND HEALTH</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Mice</classifier>
+        <person class="indexing_service">Pogran, David</person>
+        <person class="indexing_service">Osborne, Lawrence</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000820T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E1DE1E3FF933A1575BC0A9669C8B63" item-length="101" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fuzzy Little Test Tubes</hl1>
+      </hedline>
+      <abstract>
+        <p>David Pogran letter on Lawrence Osborne's July 30 article supports use of lab mice for medical research4</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Animal rights advocates are not above using emotional arguments, so here's one from a different angle. My wife and best friend for more than half my life died from cancer 14 months ago. If you asked me how many lab rats I'd sacrifice to medical research so that I could have her with me today, the number would be infinite.</p>
+        <p>David Pogran  Oakland, Calif.</p>
+      </block>
+      <block class="full_text">
+        <p>Animal rights advocates are not above using emotional arguments, so here's one from a different angle. My wife and best friend for more than half my life died from cancer 14 months ago. If you asked me how many lab rats I'd sacrifice to medical research so that I could have her with me today, the number would be infinite.</p>
+        <p>David Pogran  Oakland, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

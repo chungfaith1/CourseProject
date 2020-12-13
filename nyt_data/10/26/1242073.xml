@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Waxing Poetic</title>
+    <meta content="LTR005933" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1242073"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001026T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E7D81031F935A15753C1A9669C8B63" item-length="87" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Waxing Poetic</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>A listing on the Oct. 19 cover describing ''What Does a Start-Up Need? Poetry'' said: ''Moses Ma, software executive, breaks up his employees' workday with poetry workshops. What rhymes with 'Java script'?''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>A listing on the Oct. 19 cover describing ''What Does a Start-Up Need? Poetry'' said: ''Moses Ma, software executive, breaks up his employees' workday with poetry workshops. What rhymes with 'Java script'?''</p>
+        <p>How about this:</p>
+        <p>Oh, who can describe, in a clear Java script,</p>
+        <p>Volcano victims in a cold lava crypt?</p>
+        <p>BEN KESSLER  Perth Amboy, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

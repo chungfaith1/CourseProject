@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Outnumbered: Standing Out at Work</title>
+    <meta content="MB134745" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="65" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215122"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <person class="indexing_service">Jemison, Mae C (Dr)</person>
+        <person class="indexing_service">Finnerty, Amy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02EEDE1038F935A25754C0A9669C8B63" item-length="190" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Outnumbered: Standing Out at Work</hl1>
+      </hedline>
+      <byline class="print_byline">By Amy Finnerty</byline>
+      <byline class="normalized_byline">Finnerty, Amy</byline>
+      <abstract>
+        <p>Dr Mae C Jemison, physician, engineer and astronaut who is also black, says that race is always an issue in US and anyone who says he is not influenced by race is lying; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Dr. Mae C. Jemison  General Practitioner</p>
+      </block>
+      <block class="full_text">
+        <p>Dr. Mae C. Jemison  General Practitioner</p>
+        <p>Majoring in engineering, I would have maybe one of two or three African-American students in my classes. Some professors would just pretend I wasn't there. I would ask a question and a professor would act as if it was just so dumb, the dumbest question he had ever heard. Then, when a white guy would ask the same question, the professor would say, ''That's a very astute observation.'' As a medical student, sometimes I needed to hear the criticism in order to become a good doctor. Also as an engineer, and as an astronaut. But many times what's lacking is the praise. Race is always an issue in the United States. You always run into people who aren't comfortable with you. But we all -- the way people look, whether or not they're heavyset, for example, influences us. Anyone who says he isn't influenced by race is lying.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

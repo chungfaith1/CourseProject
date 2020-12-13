@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="11CXN" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1206359"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Interior Design</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <person class="indexing_service">Ringer-Prezioso, Lenore</person>
+        <person class="indexing_service">Diers, Linda</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interior Design</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E3DF123FF932A25755C0A9669C8B63" item-length="99" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of June 4 Long Island Journal article about decorator show house in Bay Shore, which misstated volunteer Lenore Ringer-Prezioso's name and misidentified Linda Diers' earlier decorating project at Oheka Castle in Huntington (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Long Island Journal article last Sunday, about a decorator show house in Bay Shore, misstated the given name of a volunteer. She is Lenore Ringer-Prezioso, not Lorraine.</p>
+        <p>The article also misidentified an earlier decorating project at Oheka Castle in Huntington by Linda Diers of Centerport; it was a dining display, not a bedroom.</p>
+      </block>
+      <block class="full_text">
+        <p>The Long Island Journal article last Sunday, about a decorator show house in Bay Shore, misstated the given name of a volunteer. She is Lenore Ringer-Prezioso, not Lorraine.</p>
+        <p>The article also misidentified an earlier decorating project at Oheka Castle in Huntington by Linda Diers of Centerport; it was a dining display, not a bedroom.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

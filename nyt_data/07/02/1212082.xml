@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Baseball Books in Brief</title>
+    <meta content="RV101842" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212082"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <person class="indexing_service">Lichtenstein,  Michael</person>
+        <person class="indexing_service">Gruver, Edward</person>
+        <person class="indexing_service">Koufax, Sandy</person>
+        <object.title class="indexing_service">Koufax (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01EFD91E31F931A35754C0A9669C8B63" item-length="215" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Baseball Books in Brief</hl1>
+      </hedline>
+      <byline class="print_byline">By Michael Lichtenstein</byline>
+      <byline class="normalized_byline">Lichtenstein,  Michael</byline>
+      <abstract>
+        <p>Michael Lichtenstein reviews book Koufax by Edward Gruver (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Koufax</p>
+        <p>By Edward Gruver.</p>
+        <p>Taylor, $24.95.</p>
+      </block>
+      <block class="full_text">
+        <p>Koufax</p>
+        <p>By Edward Gruver.</p>
+        <p>Taylor, $24.95.</p>
+        <p>No pitcher has dominated major league baseball the way Sandy Koufax did from 1962 through 1966. His record during those five seasons was 111-34, including four no-hitters and a perfect game. His curveball might have been the best in baseball history and his fastball, in the words of the Baltimore Orioles pitcher Jim Palmer, was a ''radio fastball'' -- it could be heard but not seen. In an Associated Press poll Koufax was voted Baseball Athlete of the Decade, and in 1972, at the age of 36, he was the youngest man to be inducted into the Hall of Fame. But unlike Michael Jordan or Jim Brown, for example, the publicity-shy Koufax has been a mystery to his fans. The sportswriter Edward Gruver interviewed many of Koufax's teammates and opponents, but even as they sing the tributes in personality and achievement of the reclusive Koufax, he remains an enigma.</p>
+        <p>Michael Lichtenstein</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

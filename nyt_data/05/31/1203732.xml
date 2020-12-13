@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="CN223156" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203732"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000531T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E3D7143CF932A05756C0A9669C8B63" item-length="197" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NEW ENGLAND BUSINESS SERVICE INC., Groton, Mass., a provider of business forms, agreed to buy PremiumWear Inc., Minnetonka, Minn. for $13.50 a share, or about $38 million. It will also assume $2.2 million in PremiumWear debt.</p>
+        <p>NOVA CHEMICALS CORP., Calgary, Alberta, a petrochemical producer sold its remaining stock in Dynegy Inc., Houston, for $45.8 million, completing its divestiture of the energy services company.</p>
+      </block>
+      <block class="full_text">
+        <p>NEW ENGLAND BUSINESS SERVICE INC., Groton, Mass., a provider of business forms, agreed to buy PremiumWear Inc., Minnetonka, Minn. for $13.50 a share, or about $38 million. It will also assume $2.2 million in PremiumWear debt.</p>
+        <p>NOVA CHEMICALS CORP., Calgary, Alberta, a petrochemical producer sold its remaining stock in Dynegy Inc., Houston, for $45.8 million, completing its divestiture of the energy services company.</p>
+        <p>KIMBERLY-CLARK CORP., Dallas, the maker of Huggies diapers and Kleenex tissues, agreed to buy S-K Corp., a privately held Taiwanese company that makes and distributes Kimberly-Clark products in Taiwan. The terms were not disclosed.</p>
+        <p>STANLEY WORKS, New Britain, Conn., the tool company, will buy back up to 10 million of its shares.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

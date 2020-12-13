@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Proper Answer</title>
+    <meta content="LTR022130" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225570"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="ROBERT WILSON"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Architecture</classifier>
+        <person class="indexing_service">Nicholson, Geoff</person>
+        <person class="indexing_service">Moholy-Nagy, Sibyl</person>
+        <person class="indexing_service">Wilson, Robert</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Architecture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Architecture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000827T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500EFDA1431F934A1575BC0A9669C8B63" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Proper Answer</hl1>
+      </hedline>
+      <abstract>
+        <p>Geoff Nicholson letter on August 13 article questions what Sibyl Moholy-Nagy's reaction to city designed by Robert Wilson in three minutes (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Jonathan Kalb's article about Robert Wilson [''Robert Wilson's 21st-Century Academy,'' Aug. 13] reports that he was once asked by Sibyl Moholy-Nagy to design a city in three minutes, whereupon he drew an apple with a crystal cube inside. The article did not report Ms. Moholy-Nagy's reaction, but I do hope she sent him to bed without any supper.</p>
+        <p>GEOFF NICHOLSON  Rosendale, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Jonathan Kalb's article about Robert Wilson [''Robert Wilson's 21st-Century Academy,'' Aug. 13] reports that he was once asked by Sibyl Moholy-Nagy to design a city in three minutes, whereupon he drew an apple with a crystal cube inside. The article did not report Ms. Moholy-Nagy's reaction, but I do hope she sent him to bed without any supper.</p>
+        <p>GEOFF NICHOLSON  Rosendale, N.Y.</p>
+        <p>ROBERT WILSON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

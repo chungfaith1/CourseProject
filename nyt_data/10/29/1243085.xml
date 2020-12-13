@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>15-Minute Clean-Up</title>
+    <meta content="29CLIPP" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1243085"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="CLIPPINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Gardens and Gardening</classifier>
+        <person class="indexing_service">Ginsburg, Elisabeth</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Gardens</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gardens and Gardening</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001029T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E3D71730F93AA15753C1A9669C8B63" item-length="210" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>15-Minute Clean-Up</hl1>
+      </hedline>
+      <byline class="print_byline">By ELISABETH GINSBURG</byline>
+      <byline class="normalized_byline">Ginsburg, Elisabeth</byline>
+      <abstract>
+        <p>Tending to fall garden clean-up in 15-minute intervals makes task less daunting (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The prospect of fall garden clean-up can be daunting, especially if you lack an army of helpers. Some people can't afford the time; others would rather soak their heads than spend precious leisure hours rooting up annuals after frost has turned them to black slime.</p>
+      </block>
+      <block class="full_text">
+        <p>The prospect of fall garden clean-up can be daunting, especially if you lack an army of helpers. Some people can't afford the time; others would rather soak their heads than spend precious leisure hours rooting up annuals after frost has turned them to black slime.</p>
+        <p>Since the only thing worse than weeds in the garden is guilt, free yourself by getting the job done in 15-minute increments. Turn on your outdoor lights at the beginning or end of a working weekday and spend a quarter of an hour pulling out the dead impatiens or clipping off the browned flower stalks of last summer's echinacea. Rake for the same period of time and deposit the leaves on the compost pile.  You'll be surprised how much you can accomplish over the course of a week. After the clean up is over, use the same strategy to get your spring bulbs planted.</p>
+        <p>ELISABETH GINSBURG</p>
+        <p>CLIPPINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

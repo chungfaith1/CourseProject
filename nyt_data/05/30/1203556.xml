@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Right Decision</title>
+    <meta content="LTR225201" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203556"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Cancer</classifier>
+        <classifier class="indexing_service" type="descriptor">Prostate Gland</classifier>
+        <person class="indexing_service">teer, bill</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cancer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prostate Gland</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000530T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406EFDE173CF933A05756C0A9669C8B63" item-length="100" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Right Decision</hl1>
+      </hedline>
+      <abstract>
+        <p>Bill Teer letter comments on May 23 article on deciding on a treatment for prostate cancer</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As one who had to make the same prostate cancer decision last year as Mayor Rudolph W. Giuliani, I know exactly what he is experiencing (''No Easy Decisions for a Man of Decision,'' May 23). I chose surgery as the best for me. But if I had a twin brother, he might make a different decision.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As one who had to make the same prostate cancer decision last year as Mayor Rudolph W. Giuliani, I know exactly what he is experiencing (''No Easy Decisions for a Man of Decision,'' May 23). I chose surgery as the best for me. But if I had a twin brother, he might make a different decision.</p>
+        <p>As mentioned, incontinence is a possible complications. During this phase, I kept my sense of humor by thinking that it was an advantage to be six decades old instead of six months old: you can change your own diaper.</p>
+        <p>BILL TEER  Washington</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Two Steps Forward, Two Steps Back</title>
+    <meta content="DATA18" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208452"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="DATABANK: JUNE 12-16"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <person class="indexing_service">Marino, Vivian</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E1DE1731F93BA25755C0A9669C8B63" item-length="536" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Two Steps Forward, Two Steps Back</hl1>
+      </hedline>
+      <byline class="print_byline">By VIVIAN MARINO</byline>
+      <byline class="normalized_byline">Marino, Vivian</byline>
+      <abstract>
+        <p>Stocks pulled in different directions last week, rising on news that retail sales fell, indicating Federal Reserve's interest-rate hikes have succeeded in slowing the economy, and falling on fears that economic slowdown will hurt corporate profits (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After its downward acceleration in the early spring, the stock market remains stuck in neutral. And investors are not sure where it is headed, which is why volume has been so thin lately.</p>
+        <p>''I think people in general are cautious,'' said Barry Berman, head trader for Robert W. Baird &amp; Company. ''Until the market gets a string of economic data that's pretty consistent, it's not going anywhere.''</p>
+      </block>
+      <block class="full_text">
+        <p>After its downward acceleration in the early spring, the stock market remains stuck in neutral. And investors are not sure where it is headed, which is why volume has been so thin lately.</p>
+        <p>''I think people in general are cautious,'' said Barry Berman, head trader for Robert W. Baird &amp; Company. ''Until the market gets a string of economic data that's pretty consistent, it's not going anywhere.''</p>
+        <p>Stocks were pulled in different directions last week. They rose on a report that retail sales fell in May, a sign that the interest rate increases by the Federal Reserve had succeeded in slowing the economy. But they fell on fears that the economic slowdown would hurt corporate profits.</p>
+        <p>Several companies indicated that second-quarter earnings and revenue would not meet Wall Street's high expectations. Among the decliners were Home Depot, Hewlett-Packard and Xerox.</p>
+        <p>Rising rates can hurt corporate profits by making it more expensive for companies to finance growth and for customers to buy their products.</p>
+        <p>The Dow Jones industrial average ended the week at 10,449.30, down 164.76, while the Nasdaq composite index fell 14.28, to 3860.56.</p>
+        <p>VIVIAN MARINO</p>
+        <p>DATABANK: JUNE 12-16</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

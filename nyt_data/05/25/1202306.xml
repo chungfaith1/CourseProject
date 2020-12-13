@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fear of Failure? Back Up</title>
+    <meta content="LTR010134" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1202306"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">hopes, ted m</person>
+        <person class="indexing_service">Lewis, Peter H</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000525T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03EFD9153DF936A15756C0A9669C8B63" item-length="232" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fear of Failure? Back Up</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Ted M Hopes says he shares Peter H Lewis's feelings of insecurity about using compressed files in his backup routine (May 18 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Peter H. Lewis said he felt insecure about using compressed files in his backup routine and admitted that this was an irrational fear.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Peter H. Lewis said he felt insecure about using compressed files in his backup routine and admitted that this was an irrational fear.</p>
+        <p>I have similar feelings dealing with compressed files, but I would add two fears with a higher degree of rationality. One of them is raised each time I get the message that the file was backed up with an obsolete or older version of the compression program. So far this hasn't been a problem since the more recent program handles the older one. But backups can be forever, and someday I, or my heirs, may want to recover something that has indeed turned into useless hieroglyphics.</p>
+        <p>My other reason for avoiding compression in backup routines is that it interferes with searching. When you give a file a meaningful name so it can be found, then include it in a folder that is then compressed under a different name, it is as good as lost. Secure, but a needle in a haystack.</p>
+        <p>TED M. HOPES  Glendale, Ariz.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

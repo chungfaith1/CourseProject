@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Respite From Newsprint</title>
+    <meta content="LTR230044" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1205781"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <classifier class="indexing_service" type="descriptor">Newspapers</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">groeller, caroline</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E5D8133FF93BA35755C0A9669C8B63" item-length="55" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Respite From Newsprint</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by Caroline Groeller responds to May 25 article on reading news on Internet; says article failed to mention the radio as perhaps best alternative to temporarily giving up print newspapers</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The essay about temporarily giving up print newspapers fails to mention perhaps the best alternative: radio. I always feel the most up to date on current events when I have listened to a daily dose of radio news, especially when it comes from National Public Radio.</p>
+        <p>CAROLINE GROELLER  Manahawkin, N.J.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The essay about temporarily giving up print newspapers fails to mention perhaps the best alternative: radio. I always feel the most up to date on current events when I have listened to a daily dose of radio news, especially when it comes from National Public Radio.</p>
+        <p>CAROLINE GROELLER  Manahawkin, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

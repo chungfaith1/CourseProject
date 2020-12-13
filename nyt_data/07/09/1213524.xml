@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Marketing to Diabetics</title>
+    <meta content="MB235814" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213524"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="IN BRIEF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Diabetes</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Marketing and Merchandising</classifier>
+        <org class="indexing_service">Hi-Tech Pharmacal Co</org>
+        <org class="indexing_service">Diabetic.Com</org>
+        <person class="indexing_service">Strugatch, Warren</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Diabetes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diabetes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000709T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E1D91638F93AA35754C0A9669C8B63" item-length="84" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Marketing to Diabetics</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by Warren Strugatch</byline>
+      <byline class="normalized_byline">Strugatch, Warren</byline>
+      <abstract>
+        <p>Hi-Tech Pharmacal Co signs marketing agreement with Diabetic.com Internet site to promote Diabetic Tussin, DiabetiDerm and DiabetiGest, which are manufactured by HiTech's Healthcare Products division (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Hi-Tech Pharmacal Company (Nasdaq: HITK) has signed a marketing agreement with Diabetic.com, an Internet site serving individuals with diabetes. Diabetic.com will promote Diabetic Tussin, DiabetiDerm and DiabetiGest, the major products manufactured by Healthcare Products, a division of Hi-Tech. Special attention will be paid to the sweetener DiabetiSweet.</p>
+      </block>
+      <block class="full_text">
+        <p>The Hi-Tech Pharmacal Company (Nasdaq: HITK) has signed a marketing agreement with Diabetic.com, an Internet site serving individuals with diabetes. Diabetic.com will promote Diabetic Tussin, DiabetiDerm and DiabetiGest, the major products manufactured by Healthcare Products, a division of Hi-Tech. Special attention will be paid to the sweetener DiabetiSweet.</p>
+        <p>IN BRIEF E-mail address: libiz@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail address: libiz@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

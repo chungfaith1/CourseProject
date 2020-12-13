@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Homing In on a City Before You Go</title>
+    <meta content="MB033111" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1233090"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TRAVEL ADVISORY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">International Assn of Convention and Visitors Bureaus</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000924T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00EEDD123BF937A1575AC0A9669C8B63" item-length="136" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Homing In on a City Before You Go</hl1>
+      </hedline>
+      <abstract>
+        <p>International Assn of Convention and Visitors Bureaus sponsors new Web site providing links to official Web sites of visitors bureaus and tourist boards in more than 1,000 cities in 27 countries (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A new Web site sponsored by the International Association of Convention and Visitor Bureaus provides links to the official Web sites of visitors bureaus and tourist boards of more than 1,000 cities in 27 countries.</p>
+        <p>The site, www.officialtravelinfo.com, which went on line in May, can be searched by city or by country. Cities in the United States are subdivided by state.</p>
+      </block>
+      <block class="full_text">
+        <p>A new Web site sponsored by the International Association of Convention and Visitor Bureaus provides links to the official Web sites of visitors bureaus and tourist boards of more than 1,000 cities in 27 countries.</p>
+        <p>The site, www.officialtravelinfo.com, which went on line in May, can be searched by city or by country. Cities in the United States are subdivided by state.</p>
+        <p>For each destination, links are provided to organizations providing tourism information and promotion, and to the Web sites of airports and news organizations. A connection to World Time Server provides the local time, and a separate link to the Weather Channel offers weather forecasts.</p>
+        <p>TRAVEL ADVISORY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

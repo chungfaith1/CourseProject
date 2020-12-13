@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DINER'S JOURNAL</title>
+    <meta content="02JOUR$01" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="42" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Travel; Arts; Theater" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204072"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Baldoria (NYC Restaurant)</org>
+        <org class="indexing_service">Rao's (NYC Restaurant)</org>
+        <person class="indexing_service">Pellegrino, Frank Jr</person>
+        <person class="indexing_service">Grimes, William</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Diner's Journal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E0DF133CF931A35755C0A9669C8B63" item-length="413" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DINER'S JOURNAL</hl1>
+      </hedline>
+      <byline class="print_byline">By William Grimes</byline>
+      <byline class="normalized_byline">Grimes, William</byline>
+      <abstract>
+        <p>William Grimes Diner's Journal review of Baldoria, new Rao's offspring opened by Frank Pellegrino Jr on theater district; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Baldoria has been open less than a month, but it already feels as if it has been around for 50 years. It's the kind of Italian restaurant that New York could get a patent on, with tall booths in maroon leather, dark wood floors and the music of Frank and Dino emanating from a jukebox. You can spot the place fairly easily. It's the only restaurant in the theater district with a doorman in bow tie and sunglasses.</p>
+        <p>Baldoria is the offspring of Rao's, the legendary southern Italian restaurant in East Harlem where tables are booked year-round by a small group of regulars.</p>
+      </block>
+      <block class="full_text">
+        <p>Baldoria has been open less than a month, but it already feels as if it has been around for 50 years. It's the kind of Italian restaurant that New York could get a patent on, with tall booths in maroon leather, dark wood floors and the music of Frank and Dino emanating from a jukebox. You can spot the place fairly easily. It's the only restaurant in the theater district with a doorman in bow tie and sunglasses.</p>
+        <p>Baldoria is the offspring of Rao's, the legendary southern Italian restaurant in East Harlem where tables are booked year-round by a small group of regulars.</p>
+        <p>The unvarying answer to requests for a reservation earned the restaurant's owner, Frank Pellegrino, the nickname Frankie No.</p>
+        <p>His son, Frank Jr., is making it a lot easier on diners at Baldoria. The restaurant has two dining rooms, upstairs and downstairs, and an orthodox reservation policy.</p>
+        <p>The menu is traditional and pan-Italian, with appetizers like roasted peppers, vitello tonnato, sauteed clams and a chilled seafood salad of shrimp, squid and lobster. A seasonal surprise was a very fresh salad of fava beans and wild French asparagus served with a scoop of ricotta cheese.</p>
+        <p>Risotto with sliced white asparagus, a special, is outstanding. Orecchiette with sausage, broccoli rape and pepperoncini led a list of pastas that included gnocchi alla bolognese, penne in a spicy arrabbiata sauce, and ribbonlike trenette with prosciutto, peas and onions in a light cream sauce.</p>
+        <p>Main courses tend to be old friends like veal piccata, osso buco, veal pizzaiola and bistecca alla fiorentina, although a nicely seared grouper, served very simply with sherry and fresh herbs, broke the spell momentarily.</p>
+        <p>The wine list at present is meager. Baldoria throws some effort into the desserts, often a big letdown at Italian restaurants. Almond panna cotta, thickly luxurious, comes with an intensely flavored hazelnut ice cream, and the bitter chocolate tart, almost black, rests in a delicate, paper-thin pastry crust that, heaven forbid, seems French.</p>
+        <p>At the end of the meal, Frank Jr. dropped by the table and asked, ''Is there anything we could have done to make your meal a more positive experience?''</p>
+        <p>Only one thing came to mind. Drop Sade from the jukebox, and rustle up a recording of ''Relaxez-Vous'' by Dino.</p>
+        <p>Baldoria, 249 West 49th Street, Manhattan, (212) 582-0460. Dinner entrees, $15.50 to $32.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

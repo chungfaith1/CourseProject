@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Inclining Laptop</title>
+    <meta content="LTR225950" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1205778"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">International Business Machines Corp</org>
+        <person class="indexing_service">engquist, erik</person>
+        <person class="indexing_service">Willman, Frederick</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E5D8133FF93BA35755C0A9669C8B63" item-length="58" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Inclining Laptop</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by Erik Engquist responds to Frederick Willman letter on lack of laptop with an inclining keyboard (June 1 article); says IBM does offer model with such feature</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In a letter on June 1 (Incoming, ''Laptop Innovations''), Frederick Willman said that he would buy a laptop when I.B.M. made one with an inclining keyboard. Time to head to the store: my 4-year-old Thinkpad 760EL's keyboard inclines automatically when the computer is opened.</p>
+        <p>ERIK ENGQUIST  Brooklyn</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In a letter on June 1 (Incoming, ''Laptop Innovations''), Frederick Willman said that he would buy a laptop when I.B.M. made one with an inclining keyboard. Time to head to the store: my 4-year-old Thinkpad 760EL's keyboard inclines automatically when the computer is opened.</p>
+        <p>ERIK ENGQUIST  Brooklyn</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

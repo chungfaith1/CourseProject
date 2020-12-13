@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="23CMPBRF" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209618"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000623T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DEFDE1630F930A15755C0A9669C8B63" item-length="313" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>UNIVERSAL DISPLAY, Ewing, N.J., a developer of flat-panel displays, was named the prime contractor of a $1 million contract from the Department of Defense to make flexible, lightweight display materials.</p>
+      </block>
+      <block class="full_text">
+        <p>UNIVERSAL DISPLAY, Ewing, N.J., a developer of flat-panel displays, was named the prime contractor of a $1 million contract from the Department of Defense to make flexible, lightweight display materials.</p>
+        <p>LUCENT TECHNOLOGIES, Murray Hill, N.J., the maker of phone equipment, said it would invest $110 million and add 250 workers to increase production at its optical fiber plant in Brondby, Denmark.</p>
+        <p>RAILAMERICA, Boca Raton, Fla., the largest holder of regional railroads in the United States, said it would sell as many as 10 small rail properties and other assets as part of a plan to reduce debt by more than $100 million.</p>
+        <p>AVENTIS, France's largest drug maker, said it would shut its Virogenetics vaccine-research laboratory in Troy, N.Y., because the cost of operating the 26-worker site had become too high. The Virogenetics research will be moved to the Aventis Pasteur laboratory in Toronto.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="02CMPBRFS" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1227334"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000902T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800E6DA1030F931A3575AC0A9669C8B63" item-length="124" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>JOHNSON CONTROLS INC., Milwaukee, said it completed its purchase of Ikeda Bussan Co. of Ayaso, Japan, for about $185 million in cash and assumed debt as Johnson, the world's No.  2 maker of automotive seats and interiors, expands into Japan.</p>
+        <p>PATHMARK STORES INC., Carteret, N.J., a regional supermarket chain with 136 stores in the New York City and Philadelphia areas, said yesterday that its restructuring plan was approved by the Federal Bankruptcy Court in Wilmington, Del. The plan, which calls for Pathmark bondholders to get all the firm's equity, will eliminate $1 billion of debt.</p>
+      </block>
+      <block class="full_text">
+        <p>JOHNSON CONTROLS INC., Milwaukee, said it completed its purchase of Ikeda Bussan Co. of Ayaso, Japan, for about $185 million in cash and assumed debt as Johnson, the world's No.  2 maker of automotive seats and interiors, expands into Japan.</p>
+        <p>PATHMARK STORES INC., Carteret, N.J., a regional supermarket chain with 136 stores in the New York City and Philadelphia areas, said yesterday that its restructuring plan was approved by the Federal Bankruptcy Court in Wilmington, Del. The plan, which calls for Pathmark bondholders to get all the firm's equity, will eliminate $1 billion of debt.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

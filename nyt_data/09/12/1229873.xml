@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mountain Storms</title>
+    <meta content="12QNA" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1229873"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <location class="indexing_service">Rocky Mountains</location>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000912T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507EFD81F39F931A2575AC0A9669C8B63" item-length="317" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mountain Storms</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Science question and answer column on why summer thunderstorms are frequent in Rocky Mountains; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q.: Why does there seem to be a thunderstorm in the Rocky Mountains every time I try to have a summer picnic?</p>
+        <p>A.: Summertime conditions in Rockies constitute a recipe for thunderstorms, said Todd Miner, a meteorologist at Pennsylvania State University.</p>
+      </block>
+      <block class="full_text">
+        <p>Q.: Why does there seem to be a thunderstorm in the Rocky Mountains every time I try to have a summer picnic?</p>
+        <p>A.: Summertime conditions in Rockies constitute a recipe for thunderstorms, said Todd Miner, a meteorologist at Pennsylvania State University.</p>
+        <p>The ingredients are strong sunshine coming at a direct angle to warm the land below; sharp differences in temperature between air warmed by the mountains and cooler air over adjacent plains, and enough water in the air.</p>
+        <p>Thunderstorms owe their existence to thermals, or localized pockets of warm air that rise, and the topography of the Rockies is predisposed to create intense thermals, Mr. Miner said. The sun heats a mountain chain averaging 8,000 feet in elevation much more than it heats the low-lying plains, and the mountains in turn heat the air. The magnitude of the updraft is directly proportional to the intensity of the heating, and the summer sun is the hottest.</p>
+        <p>When the resulting warm bubble of air accelerates upward because of its pressure difference, Mr. Miner continued, it can cool to the point that the water vapor within it condenses, and if there is enough, precipitation occurs.</p>
+        <p>It so happens, Mr. Miner said, that summer airstream patterns bring in plenty of moist air from both the Gulf of Mexico and the Gulf of California; at other times of year there is more dry air from the continent. The outcome is a cloud, rain and a ruined picnic.</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Readers are invited to submit questions by mail to Question, Science Times, The New York Times, 229 West 43rd Street, New York, N.Y. 10036-3959, or by e-mail to question@nytimes.com.</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In the Quantum World, Keys to New Codes</title>
+    <meta content="02QUAN$01" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1196225"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Physics</classifier>
+        <classifier class="indexing_service" type="descriptor">Codes (Ciphers)</classifier>
+        <person class="indexing_service">Glanz, James</person>
+        <person class="indexing_service">Einstein, Albert (1879-1955)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Codes (Ciphers)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Physics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000502T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E2DA1239F931A35756C0A9669C8B63" item-length="1288" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In the Quantum World, Keys to New Codes</hl1>
+      </hedline>
+      <byline class="print_byline">By JAMES GLANZ</byline>
+      <byline class="normalized_byline">Glanz, James</byline>
+      <abstract>
+        <p>Experiments described in three forthcoming papers in journal Physics show that phenomenon in quantum mechanics known as entanglement--idea that measuring one particle could instantly change the properties of another particle, a notion dismissed by Einstein as too absurd to be found in nature--does happen; experiments show that this apparent action-at-a distance not only does happen--which has been known for some time--but that it might be used to create unbreakable codes for secure transmission of bank transactions and diplomatic communiques (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Seven decades ago, Einstein and his scientific allies imagined ways to prove that quantum mechanics, the strange rules that describe the world of the very small, were just too spooky to be true.</p>
+        <p>Among other things, Einstein showed that, according to quantum mechanics, measuring one particle could instantly change the properties of another particle, no matter how far apart they were. He considered this apparent action-at-a-distance, called entanglement, too absurd to be found in nature, and he wielded his thought experiments like weapons to expose the strange implications that this process would have if it could happen.</p>
+      </block>
+      <block class="full_text">
+        <p>Seven decades ago, Einstein and his scientific allies imagined ways to prove that quantum mechanics, the strange rules that describe the world of the very small, were just too spooky to be true.</p>
+        <p>Among other things, Einstein showed that, according to quantum mechanics, measuring one particle could instantly change the properties of another particle, no matter how far apart they were. He considered this apparent action-at-a-distance, called entanglement, too absurd to be found in nature, and he wielded his thought experiments like weapons to expose the strange implications that this process would have if it could happen.</p>
+        <p>But experiments described in three forthcoming papers in the journal Physical Review Letters give a measure of just how badly Einstein has been routed. The experiments show not only that entanglement does happen -- which has been known for some time -- but that it might be used to create unbreakable codes for the secure transmission of bank transactions and diplomatic communiques.</p>
+        <p>''It was first considered as pure philosophy,'' said Prof. Nicolas Gisin, a physicist at the University of Geneva, who is a co-author of one of the papers. ''Now we discuss that these same strange aspects of quantum mechanics can be of some use in securing the Internet, let's say.''</p>
+        <p>The measured properties of entangled particles are, as the name implies, fatefully entwined. It is as if two coins, flipped simultaneously again and again on opposite sides of the globe, always came out both heads or both tails -- even though the sequence was unsurprisingly random. Coins do not act this way, but quantum particles can.</p>
+        <p>As with many things quantum, the true implications of entanglement are far subtler than they at first appear. The process does not, for example, let scientists send information instantly from one place to another.</p>
+        <p>But it does allow information to be passed in a  secure way, since any measurement of either particle leaves its trace on the other -- meaning that an eavesdropper can always be detected, no matter how clever or technically sophisticated.</p>
+        <p>That guarantee of safe passage would allow people at any two sites to share unbreakable codes using quantum entanglement. The experiments demonstrated several versions of this trick, called quantum cryptography. It differs from all traditional cryptography, in which great pains are taken to transmit codes securely or to make them mathematically hard to crack. But spies, with luck or great pains, can and do secretly intercept or crack them.</p>
+        <p>''The advantage with quantum cryptography is you don't have to worry about any of that,'' said Dr. Paul Kwiat, a physicist at Los Alamos National Laboratory and a co-author of another of the new papers. ''If you do it right, you're only limited by the laws of quantum physics.''</p>
+        <p>And Thomas Jennewein of the University of Vienna, lead author on the third paper, said that turning those ideas into an off-the-shelf technology was no longer unthinkable: ''We realized a complete quantum cryptography system, almost ready to use.''</p>
+        <p>Though they all relied on entangled particles of light, or photons, to make codes, the experiments each did something a little different to make quantum entanglement into a practical tool for cryptographers.</p>
+        <p>Mr. Jennewein and his collaborators built a system that generated quantum codes very quickly and used them to encrypt the binary string of zeroes and ones representing a digital color picture. Then they sent the coded picture over an ordinary computer network -- the usual technique -- and decoded it on the other side. Dr. Kwiat's team actually caught a simulated eavesdropper interposed in a quantum transmission, showing that the idea works, while Professor Gisin and co-workers built a system that might be especially  compatible with existing systems of fiber optics and electronics in the real world of telecommunications.</p>
+        <p>''They all, with some justification, claim to be the first serious quantum cryptography experiments with entangled, two-photon sources,'' said Dr. Charles Bennett, an I.B.M. fellow, who is one of the field's innovators.</p>
+        <p>As Einstein discovered, the most problematic aspect of the quantum world is simply inducing oneself to believe that it works the way it does. But once they are accepted, those strange rules are what make quantum cryptography go.</p>
+        <p>According to quantum mechanics, for instance, particles do not have any definite properties until they are measured by a detector or observed in some other way. Until they are measured, particles can have a sort of potential existence in two or more places at once. But once the measurement is made, the particle suddenly has an actual existence in only one of those spots -- wherever it is detected -- and the other possibilities instantly vanish.</p>
+        <p>The same principle holds for the polarization of a photon, the quantum carrier of light, which can vibrate both horizontally and vertically or at two different diagonal angles, until it is actually measured. Once the photon encounters filters that, like Polaroid sunglasses, allow only one polarization to pass through, the photon's polarization becomes known and definite.</p>
+        <p>Quantum entanglement operates in this weird world, linking the potential states of two particles. If a laser photon passes through a special ''nonlinear'' crystal, for example, it can split into two photons each with two possible polarizations.</p>
+        <p>But the photons may be entangled, so that if one is measured and has a horizontal polarization, then the other will have that polarization, too. If the first one measured has a vertical polarization, the second will also be vertical.</p>
+        <p>The essence of quantum cryptography involves creating entangled pairs of photons and sending each to one of two people, traditionally called Alice and Bob, who want to generate and share a secret code. Alice and Bob each measure the photons' polarizations using filters set in randomly selected directions.</p>
+        <p>Only if both happen to choose the same direction for a particular photon, and the entangled photons turn out to be polarized in that direction, are Alice and Bob guaranteed a detection on that particular trial. If the photons are polarized in the other direction on that trial, both Alice and Bob are guaranteed a nondetection.</p>
+        <p>So Alice and Bob phone each other on an unsecure line after collecting enough photons for their code. They reveal to each other, publicly, their detector settings, but not whether they made a detection, in each case. They then use only the results of the measurements when they happened to have the same settings. (In an actual experiment, Alice and Bob have a pair of detectors each so that the photons in question are always captured, though in different places.)</p>
+        <p>But because of the quantum entanglement effect, they do not need to reveal the results of the measurements -- detection or no. They know that they have both gotten the same answer. Each detection in those instances becomes a binary one, and each nondetection, a binary zero. The sequence, known to Bob and Alice but to no one else, becomes the code.</p>
+        <p>And what if an eavesdropper, usually called Eve, has tried to intercept the photons? Bob and Alice can discover this by comparing just a few of their measurements. If they are not virtually all the same, the entanglement has been disturbed, and the intruder has been found.</p>
+        <p>Dr. Artur Ekert, a theorist at the University of Oxford whose work paved the way for the new demonstrations, said, ''I think the three papers open a new chapter in experimental quantum cryptography.'' While making the world of commerce and espionage more secure, they may also bend all but the most resilient of minds.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

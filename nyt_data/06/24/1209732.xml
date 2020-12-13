@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Uncovered Short Sales Post Rise of 1.8% on Big Board</title>
+    <meta content="Y24SHOR" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209732"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Short Selling</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000624T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE4DD1730F937A15755C0A9669C8B63" item-length="262" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Uncovered Short Sales Post Rise of 1.8% on Big Board</hl1>
+      </hedline>
+      <abstract>
+        <p>New York Stock Exchange reports rise of 1.8 percent in open short positions during most recent monthly period (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Open positions of short sales on the New York Stock Exchange rose 1.8 percent in the most recent monthly period, the stock exchange reported this week.</p>
+        <p>Uncovered short sales totaled 4.31 billion shares for the month ended June 15, compared with 4.23 billion in the previous month, and up 15.8 percent from the 3.72 billion in the corresponding period a year earlier. The latest short interest was equal to 1.4 percent of the total shares listed on the Big Board.</p>
+      </block>
+      <block class="full_text">
+        <p>Open positions of short sales on the New York Stock Exchange rose 1.8 percent in the most recent monthly period, the stock exchange reported this week.</p>
+        <p>Uncovered short sales totaled 4.31 billion shares for the month ended June 15, compared with 4.23 billion in the previous month, and up 15.8 percent from the 3.72 billion in the corresponding period a year earlier. The latest short interest was equal to 1.4 percent of the total shares listed on the Big Board.</p>
+        <p>On the smaller American Stock Exchange, uncovered short sales declined 8.1 percent, the exchange announced Wednesday. The exchange is owned by the National Association of Securities Dealers. Short sales totaled 181 million shares, down from 196.9 million a month earlier.</p>
+        <p>In a short sale, an investor borrows shares from a brokerage firm and sells them, hoping to buy them back at lower prices and make a profit from the difference in prices. If the shares rise in price, the short-seller faces a loss.</p>
+        <p>Uncovered short sales -- or those with open positions -- are shares that have been borrowed and sold, but not yet covered by repurchase.</p>
+        <p>Large short-sale positions have long been considered an indicator of bearish sentiment among investors. But the level of short interest can fluctuate as a result of a variety of complex trading strategies that can involve options, futures and derivatives.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

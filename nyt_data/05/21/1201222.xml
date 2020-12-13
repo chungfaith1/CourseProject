@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="21CXN.$03" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style; Corrections" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201222"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weddings and Engagements</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <person class="indexing_service">Thompson, Neal Andrew</person>
+        <person class="indexing_service">Barth, Nicole Judith</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style/Weddings and Celebrations</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weddings and Engagements</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000521T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E1DE123AF932A15756C0A9669C8B63" item-length="118" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of May 14 report on marriage of Nicole Judith Barth and Neal Andrew Thompson (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A report last Sunday about the marriage of Nicole Judith Barth and Neal Andrew Thompson misstated the location of her mother and stepfather's current residence. They live together in Manhattan, not separately in Middlefield, Ohio, and Ridgewood, N.J.</p>
+        <p>The report also misstated the location of Ms. Barth's first encounter with Mr. Thompson. It was at the home of her mother and stepfather, then in Ridgewood, not at her stepmother's home in Paterson. In addition the report referred incorrectly to the Cape Cod home in which the proposal took place. It is owned by her mother and stepfather, not her stepmother.</p>
+      </block>
+      <block class="full_text">
+        <p>A report last Sunday about the marriage of Nicole Judith Barth and Neal Andrew Thompson misstated the location of her mother and stepfather's current residence. They live together in Manhattan, not separately in Middlefield, Ohio, and Ridgewood, N.J.</p>
+        <p>The report also misstated the location of Ms. Barth's first encounter with Mr. Thompson. It was at the home of her mother and stepfather, then in Ridgewood, not at her stepmother's home in Paterson. In addition the report referred incorrectly to the Cape Cod home in which the proposal took place. It is owned by her mother and stepfather, not her stepmother.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

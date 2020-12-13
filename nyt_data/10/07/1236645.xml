@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Modified Corn in Tacos</title>
+    <meta content="L07COR$01" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/07/opinion/L07COR.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1236645"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Grain</classifier>
+        <classifier class="indexing_service" type="descriptor">Genetic Engineering</classifier>
+        <classifier class="indexing_service" type="descriptor">Recalls and Bans of Products</classifier>
+        <org class="indexing_service">Friends of the Earth</org>
+        <org class="indexing_service">Kraft Foods</org>
+        <person class="indexing_service">Bohlen, Larry</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetic Engineering</classifier>
+        <classifier class="online_producer" type="general_descriptor">Grain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recalls and Bans of Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001007T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CEEDF153CF934A35753C1A9669C8B63" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Modified Corn in Tacos</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Larry Bohlen, Friends of the Earth, scores farmers in Texas who dismiss health concerns related to illegal presence of genetically modified corn unapproved for human consumption in Kraft Foods tacos (Sept 30 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Farmers interviewed in the article ''A Texas-Size Whodunit'' (Business Day, Sept. 30) are shooting the messenger when they dismiss health concerns related to the illegal presence of StarLink corn in taco shells as ''baseless fears.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Farmers interviewed in the article ''A Texas-Size Whodunit'' (Business Day, Sept. 30) are shooting the messenger when they dismiss health concerns related to the illegal presence of StarLink corn in taco shells as ''baseless fears.''</p>
+        <p>The E.P.A. Scientific Advisory Panel on StarLink stated that the Cry9C protein engineered into the corn has ''characteristics of known allergens.''</p>
+        <p>One farmer went so far as to say that other countries would ''love to have those taco shells.'' But sending them corn not approved for human consumption would be the furthest thing from feeding the world.</p>
+        <p>LARRY BOHLEN  Washington, Oct. 5, 2000</p>
+        <p>The writer is director of health and environment programs for Friends of the Earth.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

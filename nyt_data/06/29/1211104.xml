@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Electronic Circuit That Draws Its Inspiration From Life</title>
+    <meta content="29NEXT" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211104"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WHAT'S NEXT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electronics</classifier>
+        <classifier class="indexing_service" type="descriptor">Brain</classifier>
+        <classifier class="indexing_service" type="descriptor">Psychology and Psychologists</classifier>
+        <classifier class="indexing_service" type="descriptor">Eyes and Eyesight</classifier>
+        <classifier class="indexing_service" type="descriptor">Ears and Hearing</classifier>
+        <classifier class="indexing_service" type="descriptor">Robots</classifier>
+        <person class="indexing_service">Eisenberg, Anne</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/What's Next</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Mental Health and Behavior</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Psychology and Psychologists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Ears and Hearing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Psychology and Psychologists</classifier>
+        <classifier class="online_producer" type="general_descriptor">Brain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Robots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Eyes and Eyesight</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ears and Hearing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronics</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000629T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE5D61130F93AA15755C0A9669C8B63" item-length="1193" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Electronic Circuit That Draws Its Inspiration From Life</hl1>
+      </hedline>
+      <byline class="print_byline">By ANNE EISENBERG</byline>
+      <byline class="normalized_byline">Eisenberg, Anne</byline>
+      <abstract>
+        <p>Group for researchers whose disciplines combine electrical engineering, computer design, physics and neurscience builds a circuit of 16 artificial neurons with a system of connections, or synapses, designed to mimic the way the cerebral cortex computes; process is neither solely analog nor solely digital, but a combination of both; researchers hope to go on to larger-scale biologically inspired circuits that may one day help process auditory and visual information for robots as well as the output of bionic implants to help the blind see and the deaf hear (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NO one knows exactly how the brain processes information, but scientists tinkering with biologically inspired electronics have begun trying to imitate in silicon what nature does so well in the flesh.</p>
+        <p>An eclectic group of researchers whose disciplines combine electrical engineering, computer design, physics and neuroscience have built a circuit of 16 artificial neurons with a system of connections, or synapses, designed to mimic the way the cerebral cortex computes: neither solely analog nor solely digital, but a combination of both. The hybrid circuit, built with transistors on a chip, is based on theoretical models of the brain as well as on empirical results of animal studies.</p>
+      </block>
+      <block class="full_text">
+        <p>NO one knows exactly how the brain processes information, but scientists tinkering with biologically inspired electronics have begun trying to imitate in silicon what nature does so well in the flesh.</p>
+        <p>An eclectic group of researchers whose disciplines combine electrical engineering, computer design, physics and neuroscience have built a circuit of 16 artificial neurons with a system of connections, or synapses, designed to mimic the way the cerebral cortex computes: neither solely analog nor solely digital, but a combination of both. The hybrid circuit, built with transistors on a chip, is based on theoretical models of the brain as well as on empirical results of animal studies.</p>
+        <p>A description of the brain-inspired silicon circuit appeared in the June 22 issue of the journal Nature.</p>
+        <p>''It is a very simple circuit, but it represents a good understanding and a good starting point,'' said Dr. Chris Diorio, a professor in the department of computer science and engineering at the University of Washington in Seattle and one of the authors of a Nature article commenting on the circuit work.</p>
+        <p>''Now that we have this primitive circuit, we can use this understanding to build larger-scale biologically inspired circuits,'' Dr. Diorio said.</p>
+        <p>Such circuits may one day help process auditory and visual information for robots as well as the output of bionic implants to help the blind see and the deaf hear. Retinal chips may someday be used as pre-processors that feed into such circuits, just as cochlear implants may one day be linked to these circuits to aid hearing.</p>
+        <p>The circuits, which draw little power, may also be useful in the future world of ubiquitous computing, when chips in things like mailboxes and toasters will have to interact with people in a way that uses battery power efficiently.</p>
+        <p>The new circuit is unusual in that both analog and digital features coexist simultaneously in it. ''Our specific advance is a hybrid analog-digital circuit,'' explained Dr. Rahul Sarpeshkar, a professor at the Massachusetts Institute of Technology and a co-author of the paper. ''Other people have built hardware models of neural networks. What's new is the particular way we've used feedback to compute in a hybrid fashion, neither purely analog or digital, but an intimate mixture of both.''</p>
+        <p>That design adaptation is significant because the kind of signaling the brain uses is thought to be very different from that used in digital computers.</p>
+        <p>''Philosophers and psychologists have long noted that human perception has both analog and digital characteristics,'' said Dr. Sebastian Seung, a professor at M.I.T. and a co-author of the research report.</p>
+        <p>While a nerve cell can trigger a nerve cell downstream to turn on or off, a digital kind of information transfer, analog interactions among nerve cells involve graded effects.  ''One neuron can make another active or inactive,'' Dr. Seung said, ''but the intensity of the activity varies in a continuous way.''</p>
+        <p>Perception must make sharp, digital, yes-no distinctions like, Is that a dog or a cat? But it also has to make graded, analog distinctions, like identifying various shades of gray.</p>
+        <p>''We show that these operations are not mutually exclusive, but can coexist,'' Dr. Seung said, ''suggesting that the brain's microcircuitry may be ideally matched to the dual nature of perception.''</p>
+        <p>The work on the circuit was accompanied by the development of a mathematical theory describing how analog amplification and digital selection can coexist in the same silicon circuit.</p>
+        <p>The theory and the circuit were developed over many years by Drs. Sarpeshkar, Seung and Richard H. R. Hahnloser; from 1996 to 1999, they  collaborated at Lucent Technologies' Bell Labs in Murray Hill, N.J., but they are now at M.I.T. The two other co-authors are Drs. Misha A. Mahowald and Rodney J. Douglas, both of the Institute of Neuroinformatics in Zurich; Dr. Mahowald is now deceased. Much of the basic research was sponsored by Lucent, for whom both Drs. Seung and Sarpeshkar consult.</p>
+        <p>Dr. John Wyatt, a professor at M.I.T. who has worked on retinal implants that can communicate directly with the nervous systems of blind patients, said that the new type of circuit might be useful in the future because it might make it easier to build devices that would pay attention to only the stimuli of interest, ignoring any surrounding hubbub.</p>
+        <p>''What's interesting about this circuit,'' Dr. Wyatt said, ''is that in its combined analog-digital way, it attempts to select the inputs that are the most important -- to pay attention -- and then to amplify these inputs in an analog way while suppressing others.''</p>
+        <p>Circuits that are completely digital find it hard to make those kinds of choices, he said. ''This is an important idea to recreate in circuitry because right now we don't have much of a sense of where to focus, when to shift,'' Dr. Wyatt said. ''Cochlear implant patients, for example, have enormous difficulties in noisy environments, where irrelevant background sounds can easily dominate the speech they wish to listen to.'' Attention-selection circuitry might eventually be important in helping people choose a particular conversation.</p>
+        <p>The problem of how to design devices that can pay attention to the right things is a stumbling block in trying to build devices to handle sight or hearing. ''Right now the brain seems an awful lot smarter than anything we can build to make sense of sensory data,'' Dr. Wyatt said.</p>
+        <p>The efficiency of the biologically inspired circuit may also prove important in for uses other than bionic implants. ''One of the arguments for making special-purpose hardware is that it does the job in a much more efficient way,'' Dr. Seung said. The authors created special hardware rather than writing a software program than simulated the circuit in part for this reason. ''If you want something that runs on extremely low power, now for bionic implants and in the future, when every device has an embedded computer, the battery problem will be significant.''</p>
+        <p>While the circuit shows great promise, Dr. Rajesh P. N. Rao, an associate at the Salk Institute for Biological Studies and co-author of the Nature article discussing the circuit research, pointed out that much remained to be done.</p>
+        <p>''Right now, the chip is hard-wired,'' he said. ''In the brain, though, the neurons are constantly adjusting the connections between themselves -- for example, when children are learning a new language or learning to recognize their mother.'' What the biologically inspired designs of the future will need to do, he said, is to build circuits with connections that can organize themselves the way the brain cells do, turning the volume up or down on nearby links. Those kinds of circuits will come closer to imitating the adaptability offered by biology.</p>
+        <p>WHAT'S NEXT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

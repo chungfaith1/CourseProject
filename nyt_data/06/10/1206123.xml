@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Columbia Pictures Has New President</title>
+    <meta content="Y10FILM" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1206123"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <org class="indexing_service">Columbia Pictures</org>
+        <person class="indexing_service">Schlessel, Peter</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E5D61E3FF933A25755C0A9669C8B63" item-length="165" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Columbia Pictures Has New President</hl1>
+      </hedline>
+      <dateline>LOS ANGELES, June 9</dateline>
+      <abstract>
+        <p>Columbia Pictures names Peter Schlessel as studio's new president of production (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Columbia Pictures has named Peter Schlessel, who was most recently executive vice president of its Screen Gems and Columbia-TriStar divisions, as the studio's new president of production. The promotion makes him second in command to Columbia's chairwoman, Amy Pascal.</p>
+        <p>Mr. Schlessel has been working for Columbia since 1989, beginning in its home video division as the director of legal affairs.</p>
+      </block>
+      <block class="full_text">
+        <p>Columbia Pictures has named Peter Schlessel, who was most recently executive vice president of its Screen Gems and Columbia-TriStar divisions, as the studio's new president of production. The promotion makes him second in command to Columbia's chairwoman, Amy Pascal.</p>
+        <p>Mr. Schlessel has been working for Columbia since 1989, beginning in its home video division as the director of legal affairs.</p>
+        <p>In his most recent job, Mr. Schlessel was responsible for acquiring, developing and financing films for Screen Gems and the Columbia TriStar Motion Picture Group. His films include John Carpenter's ''Ghosts of Mars,'' which will go into production later this summer.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV104312" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20001112T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1240621"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Boyer, Allen D</person>
+        <person class="indexing_service">Malti-Douglas, Fetwa</person>
+        <object.title class="indexing_service">Starr Report Disrobed, The (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001022T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07EEDF143FF931A15753C1A9669C8B63" item-length="336" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Allen D. Boyer</byline>
+      <byline class="normalized_byline">Boyer, Allen D</byline>
+      <abstract>
+        <p>Allen D Boyer reviews book The Starr Report Disrobed by Fetwa Malti-Douglas (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE STARR REPORT DISROBED</p>
+        <p>By Fetwa Malti-Douglas.</p>
+        <p>Columbia University,</p>
+        <p>cloth, $39.50; paper, $16.</p>
+      </block>
+      <block class="full_text">
+        <p>THE STARR REPORT DISROBED</p>
+        <p>By Fetwa Malti-Douglas.</p>
+        <p>Columbia University,</p>
+        <p>cloth, $39.50; paper, $16.</p>
+        <p>Two long years after the independent counsel, Kenneth Starr, documented each Rabelaisian detail of President Clinton's fling with Monica Lewinsky, ''The Starr Report Disrobed'' revisits that tawdry hour of national embarrassment and cultural bad taste. ''Starr's 'Report' is more than the tale of the sexual exploits of an American president and the arguments for his impeachment,'' writes Fetwa Malti-Douglas, who teaches gender studies and comparative literature at Indiana University. ''Gender, sexuality, disability, politics: they are all hopelessly intertwined as the president's 'body politic' and his 'body natural' become the targets of the 'Report' in a wide-ranging cultural and textual masquerade.'' Malti-Douglas picks out nuances in the prosecutors' report, highlighting differences between the facts amassed and the conclusions drawn. More often, however, she unearths deconstructionist truffles: modalities of encounters, texts of obsession and certain ''geographies of lust'' that ''englobe'' Hillary Rodham Clinton. The writing is opaque throughout, a pastiche of Derrida critiquing Dreiser, and many passages progressively lose meaning: ''The multiplicity of narratives swirling around the Clinton-Lewinsky relationship when compounded by the 'his' and 'hers' variants on these narratives alters that hidden narrative of desire. At the same time, these complex and interrelated narratives function as narratives of resistance to the primary narrative of the sexual exploits.'' The stunningly obvious becomes the profoundly vacuous: ''The entire physical migration from the Roosevelt Room to the quarters where the sexual encounter will take place also signals a crossing from the public to the private'' and '' 'The Starr Report' in its essence is one big intertextual game,'' Malti-Douglas concludes. She never suggests that the ''sexual adventures'' of ''the two players'' occurred within any moral or historical context.</p>
+        <p>Allen D. Boyer</p>
+        <p>Correction:  November 12, 2000, Sunday  A brief review of ''The Starr Report Disrobed'' on Oct. 22 misspelled the author's first name. She is Fedwa Malti-Douglas, not Fetwa.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: November 12, 2000, Sunday</p>
+        <p>A brief review of ''The Starr Report Disrobed'' on Oct. 22 misspelled the author's first name. She is Fedwa Malti-Douglas, not Fetwa.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

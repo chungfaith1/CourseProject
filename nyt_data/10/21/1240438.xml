@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>THE $10 MILLION RACE</title>
+    <meta content="Y21PROM" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; Corrections; Editors' Notes; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1240438"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="COMING ON SUNDAY"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editors' Note</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Editors' Notes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001021T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE5DB113EF932A15753C1A9669C8B63" item-length="62" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>THE $10 MILLION RACE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Running out of money was not a problem for James Rogan (Republican) and Adam Schiff (Democrat), Californians who are competing in the most expensive Congressional campaign in history. Running out of ideas on how to spend it sometimes was. A report by James Bennet in The Times Magazine.</p>
+      </block>
+      <block class="full_text">
+        <p>Running out of money was not a problem for James Rogan (Republican) and Adam Schiff (Democrat), Californians who are competing in the most expensive Congressional campaign in history. Running out of ideas on how to spend it sometimes was. A report by James Bennet in The Times Magazine.</p>
+        <p>COMING ON SUNDAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

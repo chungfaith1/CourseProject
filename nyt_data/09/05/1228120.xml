@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Traffic Alert</title>
+    <meta content="05TRAF" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1228120"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000905T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE5D61E30F936A3575AC0A9669C8B63" item-length="507" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Traffic Alert</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Foreign dignitaries are gathering this week for the Millennium Summit at the United Nations.</p>
+      </block>
+      <block class="full_text">
+        <p>Foreign dignitaries are gathering this week for the Millennium Summit at the United Nations.</p>
+        <p>TODAY AND TOMORROW</p>
+        <p>STREET CLOSINGS  First Avenue, from 42nd to 47th Streets. The First Avenue underpass will remain open, but no trucks or panel vans will be permitted to enter.  Forty-fourth and 45th Streets, from First to Second Avenues.  Fifty-eighth Street, from Fifth Avenue to Avenue of the Americas.  Forty-second Street between Second Avenue and the Franklin D. Roosevelt Drive service road, starting at noon.  The F.D.R. Drive exit ramp to 42nd Street, starting at noon.  Forty-ninth Street from Park to Lexington Avenues, starting at 6 p.m.  Fiftieth Street from Madison to Lexington Avenues, starting at 6 p.m.</p>
+        <p>TOMORROW  STREET CLOSINGS</p>
+        <p>The F.D.R. Drive from 34th to 63rd Street, from 8:30 to 9:15 a.m., 1 to 3:15 p.m. and 7 to 9:30 p.m.</p>
+        <p>STREET RESTRICTIONS</p>
+        <p>Second Avenue from 30th to 57th Streets, lane restrictions from 8 a.m.  Forty-second Street from First to Seventh Avenues, lane restrictions from 10 a.m.  Thirty-fifth to 40th Streets from the F.D.R. Drive to Second Avenue, closings as necessary from 7 a.m. to 9 p.m.  Thirtieth to 47th Streets, east of Second Avenue, no eastbound vehicular traffic from 7 a.m. to 9 p.m.  Fifty-seventh Street from Second Avenue to Avenue of the Americas, lane restrictions from 10 a.m.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

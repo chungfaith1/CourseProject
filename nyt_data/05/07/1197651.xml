@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Look at the News</title>
+    <meta content="LTR011352" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1197651"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Sex</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <person class="indexing_service">Clinton, Bill (Pres)</person>
+        <person class="indexing_service">Lewinsky, Monica S</person>
+        <person class="indexing_service">rubin, joanne</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sex</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000507T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E7DD1538F934A35756C0A9669C8B63" item-length="88" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Look at the News</hl1>
+      </hedline>
+      <abstract>
+        <p>Joanne Rubin letter wonders if young teens who reportedly have oral sex were influenced by Pres Clinton-Monica Lewinsky scandal</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In regard to the article about middle schoolers having oral sex (''The Face of Teenage Sex Grows Younger,'' April 2): Assuming that the surveys cited were accurate, I wonder if teens were being influenced by the daily coverage of President Clinton's impeachment proceedings, and all of the Monica Lewinsky coverage. If so, then the news media needs to face up to its responsibilities regarding sensationalism.</p>
+        <p>JOANNE RUBIN  Hastings-on-Hudson, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In regard to the article about middle schoolers having oral sex (''The Face of Teenage Sex Grows Younger,'' April 2): Assuming that the surveys cited were accurate, I wonder if teens were being influenced by the daily coverage of President Clinton's impeachment proceedings, and all of the Monica Lewinsky coverage. If so, then the news media needs to face up to its responsibilities regarding sensationalism.</p>
+        <p>JOANNE RUBIN  Hastings-on-Hudson, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

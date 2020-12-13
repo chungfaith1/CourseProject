@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Where the Shows Are (or Will Be)</title>
+    <meta content="TV.$02" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="45" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234992"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TELEVISION: THE NEW SEASON"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Special Sections</classifier>
+        <classifier class="indexing_service" type="descriptor">Television and Radio Programming</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001001T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE0DA133AF932A35753C1A9669C8B63" item-length="230" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Where the Shows Are (or Will Be)</hl1>
+      </hedline>
+      <abstract>
+        <p>Charts of new television season; photos (Special Section: Television) (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The new television season is arriving later than ever; for the rest of this month it will keep falling into place. Here is what prime time is scheduled to look like on the six major broadcast networks once all the shows have found their homes. (Keep in mind that some of the new shows may not last that long.) The Times's television critics, Caryn James and Julie Salamon, have selected 14 shows - some new, some old - that they'll be watching with particular interest.</p>
+      </block>
+      <block class="full_text">
+        <p>The new television season is arriving later than ever; for the rest of this month it will keep falling into place. Here is what prime time is scheduled to look like on the six major broadcast networks once all the shows have found their homes. (Keep in mind that some of the new shows may not last that long.) The Times's television critics, Caryn James and Julie Salamon, have selected 14 shows - some new, some old - that they'll be watching with particular interest.</p>
+        <p>TELEVISION: THE NEW SEASON</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

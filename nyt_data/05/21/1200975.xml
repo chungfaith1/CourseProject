@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRAVEL ADVISORY</title>
+    <meta content="21SHORTS" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1200975"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hotels and Motels</classifier>
+        <classifier class="indexing_service" type="descriptor">Water</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Peninsula Hotel (NYC)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hotels and Motels</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000521T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E5D8113BF932A15756C0A9669C8B63" item-length="114" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRAVEL ADVISORY</hl1>
+      </hedline>
+      <abstract>
+        <p>Peninsula Hotel in New York offers bottles of free water to guests (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HOTEL  Confluence of Waters</p>
+        <p>The Peninsula, 55th Street and Fifth Avenue in New York, now offers 16.9-ounce bottles of five waters free to guests. The menu (subject to change) includes Poland Spring (Maine), Saratoga (New York), Grayson Mountain, Quibell (both Virginia) and Vermont Pure. Call (800) 262-9467.</p>
+      </block>
+      <block class="full_text">
+        <p>HOTEL  Confluence of Waters</p>
+        <p>The Peninsula, 55th Street and Fifth Avenue in New York, now offers 16.9-ounce bottles of five waters free to guests. The menu (subject to change) includes Poland Spring (Maine), Saratoga (New York), Grayson Mountain, Quibell (both Virginia) and Vermont Pure. Call (800) 262-9467.</p>
+        <p>TOUR  Vietnam for Food Lovers</p>
+        <p>Tony Tan, a Malaysian-born chef, is leading a culinary tour through Vietnam Oct. 16 to 27. The tour, run by Absolute Asia, will include visits to markets, cooking demonstrations and meals in restaurants and private homes. The price, $4,950 a person based on double occupancy, includes rooms, most meals, sightseeing, transfers, flights in Vietnam and visa. Information: (212) 627-1950.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Little Professor Syndrome</title>
+    <meta content="LTR083019" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213380"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Autism</classifier>
+        <classifier class="indexing_service" type="descriptor">Asperger's Syndrome</classifier>
+        <person class="indexing_service">Auld, Rhoda L</person>
+        <person class="indexing_service">Osborne, Lawrence</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Autism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000709T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9800EEDC1139F93AA35754C0A9669C8B63" item-length="124" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Little Professor Syndrome</hl1>
+      </hedline>
+      <abstract>
+        <p>Rhoda L Auld letter on Lawrence Osborne's June 18 article notes striking similarity between Geroge Bernard Shaw's character Henry Higgins and that of Asperger's sufferers/</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I was rereading George Bernard Shaw's ''Pygmalion'' and could not help noticing the striking similarity between the behavior of Shaw's Henry Higgins and that of the Asperger's sufferers. Not only is Higgins a gifted individual with what might justifiably be termed an ''obsessive interest'' in phonetics, but he is also socially inept in very much the ways Osborne describes.</p>
+        <p>Rhoda L. Auld  Greenville, N.C.</p>
+      </block>
+      <block class="full_text">
+        <p>I was rereading George Bernard Shaw's ''Pygmalion'' and could not help noticing the striking similarity between the behavior of Shaw's Henry Higgins and that of the Asperger's sufferers. Not only is Higgins a gifted individual with what might justifiably be termed an ''obsessive interest'' in phonetics, but he is also socially inept in very much the ways Osborne describes.</p>
+        <p>Rhoda L. Auld  Greenville, N.C.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

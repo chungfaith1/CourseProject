@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Word's Not Perfect</title>
+    <meta content="LTR012903" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1236303"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001005T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E3DE163CF936A35753C1A9669C8B63" item-length="63" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Word's Not Perfect</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As a longtime WordPerfect user, I never use Microsoft Word even though it takes up space on the hard drive. I recently purchased a Gateway laptop in which Microsoft Word was bundled. I was not, however, able to purchase WordPerfect as an option through Gateway.</p>
+        <p>RODELLE WEINTRAUB  State College, Pa.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As a longtime WordPerfect user, I never use Microsoft Word even though it takes up space on the hard drive. I recently purchased a Gateway laptop in which Microsoft Word was bundled. I was not, however, able to purchase WordPerfect as an option through Gateway.</p>
+        <p>RODELLE WEINTRAUB  State College, Pa.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

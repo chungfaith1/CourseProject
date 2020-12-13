@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>John Oliver, 86, Ex-Newspaper Executive</title>
+    <meta content="Y07OLIV" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S.; Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213000"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <person class="indexing_service">Oliver, John J Sr</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000707T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E7D61F39F934A35754C0A9669C8B63" item-length="159" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>John Oliver, 86, Ex-Newspaper Executive</hl1>
+      </hedline>
+      <abstract>
+        <p>John J Oliver Sr, former president and chief operating officer of Afro-American newspaper group, dies at age 86 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>John J. Oliver Sr., a former president and chief operating officer of the Afro-American newspaper group, died on June 30 at a nursing home in Silver Spring, Md. He was 86.</p>
+        <p>Mr. Oliver, a native of Brazil, Ind., was the grandson of John H. Murphy Sr., who founded the Baltimore Afro-American in 1892. He graduated from DePauw University and joined the family business in 1935.</p>
+      </block>
+      <block class="full_text">
+        <p>John J. Oliver Sr., a former president and chief operating officer of the Afro-American newspaper group, died on June 30 at a nursing home in Silver Spring, Md. He was 86.</p>
+        <p>Mr. Oliver, a native of Brazil, Ind., was the grandson of John H. Murphy Sr., who founded the Baltimore Afro-American in 1892. He graduated from DePauw University and joined the family business in 1935.</p>
+        <p>Mr. Oliver spent 47 years with the newspaper group, which is based in Baltimore. The Afro-American peaked with the civil rights movement in the 1960's, when it published about a dozen editions circulating from South Carolina to New Jersey. At the time, the Afro-American spotlighted racial discrimination.</p>
+        <p>The group now publishes weekly in Baltimore and Washington.</p>
+        <p>Mr. Oliver, who was widowed twice, is survived by a son, John J., the current publisher; a daughter, Marilyn O. Pickett of Silver Spring; and a grandson.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

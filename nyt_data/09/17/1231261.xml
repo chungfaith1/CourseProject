@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Abstract Expressions</title>
+    <meta content="17STRE$02" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/17/living/17STRE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1231261"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="ON THE STREET"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Apparel</classifier>
+        <classifier class="indexing_service" type="descriptor">T-Shirts (Apparel)</classifier>
+        <classifier class="indexing_service" type="descriptor">Sweatshirts</classifier>
+        <person class="indexing_service">Cunningham, Bill</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000917T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E6D91038F934A2575AC0A9669C8B63" item-length="176" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Abstract Expressions</hl1>
+      </hedline>
+      <byline class="print_byline">By Bill Cunningham</byline>
+      <byline class="normalized_byline">Cunningham, Bill</byline>
+      <abstract>
+        <p>Photos of new fashion fad of wearing sweatshirts and T-shirts every which way but forward in New York City (On the Streets column) (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The hip-hop rappers have set off another raw fashion fad, doing to the sweatshirt and T-shirt what they did to the baseball cap, wearing them every which way but forward. The results echo the Paris fashion world's deconstruction of classic clothing that was set in motion 12 years ago. There is also a nod to the art world's abstract approach. For most wearers, the neck is the anchor, through the traditional hole for the head, while one or both sleeves are left dangling in the front, the back or the side. When only one sleeve is used, it pulls the sweatshirt into a draped angle. For others, the neck hole becomes a porthole on the wearer's back. The style is achieved by the wearer's imagination and has much to do with beating the heat. This fad is generations apart from wearing a sweater over the shoulders or tied around the waist. The hip-hop world has not exhausted its supply of rebellious fashion.</p>
+      </block>
+      <block class="full_text">
+        <p>The hip-hop rappers have set off another raw fashion fad, doing to the sweatshirt and T-shirt what they did to the baseball cap, wearing them every which way but forward. The results echo the Paris fashion world's deconstruction of classic clothing that was set in motion 12 years ago. There is also a nod to the art world's abstract approach. For most wearers, the neck is the anchor, through the traditional hole for the head, while one or both sleeves are left dangling in the front, the back or the side. When only one sleeve is used, it pulls the sweatshirt into a draped angle. For others, the neck hole becomes a porthole on the wearer's back. The style is achieved by the wearer's imagination and has much to do with beating the heat. This fad is generations apart from wearing a sweater over the shoulders or tied around the waist. The hip-hop world has not exhausted its supply of rebellious fashion.</p>
+        <p>ON THE STREET</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

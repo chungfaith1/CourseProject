@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Water Tanks</title>
+    <meta content="19QNA" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1231740"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Water</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000919T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01EFDB1F38F93AA2575AC0A9669C8B63" item-length="304" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Water Tanks</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Answer to reader's questions about rooftop water tanks</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. Why doesn't the water in rooftop wooden tanks freeze in winter? How does the water get up there?</p>
+        <p>A. Water tanks have heaters and pumps, said a spokeswoman for Isseks Brothers in Manhattan, which along with the Rosenwach Tank Company is one of the dominant makers of the tanks in New York City.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. Why doesn't the water in rooftop wooden tanks freeze in winter? How does the water get up there?</p>
+        <p>A. Water tanks have heaters and pumps, said a spokeswoman for Isseks Brothers in Manhattan, which along with the Rosenwach Tank Company is one of the dominant makers of the tanks in New York City.</p>
+        <p>Actually, tank makers say, wood is a good insulating material, and the three-inch-thick staves provide as much insulating strength as 30 inches of concrete.</p>
+        <p>The reason the tanks are necessary combines topography and simple physics: water seeks its own level in a closed system, and the water pressure produced by the gravity-powered downhill flow from New York City's upstate reservoirs is usually not enough to push water higher than about the sixth floor.</p>
+        <p>Since about the 1880's, when apartment and office buildings started regularly exceeding that height, rooftop water tanks have been needed to make sure faucets do not dribble weakly and to fill hallway standpipe reserves and sprinkler systems.</p>
+        <p>In those buildings where the plumbing requires the help of gravity to create sufficient water pressure, a tank should be elevated at least 25 feet above a building's highest standpipe.</p>
+        <p>Wood is used rather than metal because it is both durable and cheaper to maintain than metal. With good maintenance, tanks can last 40 years or more.</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

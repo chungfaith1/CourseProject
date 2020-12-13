@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="COM22" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1216755"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000722T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E2DF153AF931A15754C0A9669C8B63" item-length="196" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>GMAC HOME SERVICES, -- Liberty Corner, N.J., the real estate unit of General Motors Acceptance Corp., agreed to buy Johnson &amp; Johnson Realty, Spring Lake, N.J., to increase business on the New Jersey shore. Terms were not disclosed.</p>
+        <p>TECAN HOLDING, -- Hombrechtikon, Switzerland, a maker of liquid sample processors in the world, agreed to buy the closely held Gamera Bioscience Corp., Boston, which develops assays used to analyze samples, for $10 million.</p>
+      </block>
+      <block class="full_text">
+        <p>GMAC HOME SERVICES, -- Liberty Corner, N.J., the real estate unit of General Motors Acceptance Corp., agreed to buy Johnson &amp; Johnson Realty, Spring Lake, N.J., to increase business on the New Jersey shore. Terms were not disclosed.</p>
+        <p>TECAN HOLDING, -- Hombrechtikon, Switzerland, a maker of liquid sample processors in the world, agreed to buy the closely held Gamera Bioscience Corp., Boston, which develops assays used to analyze samples, for $10 million.</p>
+        <p>VULCAN VENTURES, -- Bellevue, Wash., an investment company headed by Paul Allen, plans to sell shares of the InterNAP Network Services Corp., Seattle, and Net Perceptions Inc., Minneapolis, for $1.8 million.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

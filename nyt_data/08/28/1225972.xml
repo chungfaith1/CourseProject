@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Code Name: Mainstream; Can 'Open Source' Bridge the Software Gap?</title>
+    <meta content="28CODE" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225972"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">President's Information Technology Advisory Committee</org>
+        <person class="indexing_service">Lohr, Steve</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000828T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E7DD1131F93BA1575BC0A9669C8B63" item-length="2487" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Code Name: Mainstream; Can 'Open Source' Bridge the Software Gap?</hl1>
+      </hedline>
+      <byline class="print_byline">By STEVE LOHR</byline>
+      <byline class="normalized_byline">Lohr, Steve</byline>
+      <abstract>
+        <p>President's Information Technology Advisory Committee will recommend bridging the looming software gap facing the nation by adopting the open-source model: distributing software free and openly publishing underlying source codes so that other programmers can study, share and modify the author's work; open-source advocates say aim is not to destroy profit motive of software industry, whose members jealously guard source codes as a company's private property, but rather to bring software development into the Internet era by sharing knowledge widely, allowing programmers to build on each other's work and accelerate the pace of software debugging and improvement; companies in the open-source economy would make money mainly by tailoring programs for customers, and with service and support; photos; graph (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a report to President Clinton last year, a group of leading computer scientists warned that the nation faced a troubling ''software gap.''</p>
+        <p>The group, made up of corporate executives and university researchers, said that programmers simply could not keep pace with exploding demand for high-quality software -- the computer code needed for everything from Internet commerce to nuclear weapons design. To bridge the gap, the group said, the nation must not only train more skilled programmers but also explore fresh, even radical, approaches to developing and maintaining software.</p>
+      </block>
+      <block class="full_text">
+        <p>In a report to President Clinton last year, a group of leading computer scientists warned that the nation faced a troubling ''software gap.''</p>
+        <p>The group, made up of corporate executives and university researchers, said that programmers simply could not keep pace with exploding demand for high-quality software -- the computer code needed for everything from Internet commerce to nuclear weapons design. To bridge the gap, the group said, the nation must not only train more skilled programmers but also explore fresh, even radical, approaches to developing and maintaining software.</p>
+        <p>In a new report, the group, known as the President's Information Technology Advisory Committee, will recommend that the federal government back ''open source software as an alternate path for software development,'' according to a draft copy of the report, which will be sent to the White House and published in a matter of weeks.</p>
+        <p>''Open source software'' seems a radical approach indeed. The term stands for both an iconoclastic philosophy and a software development model: software is distributed free and its ''source code,'' or underlying instructions, are published openly so that other programmers can study, share and modify the author's work.</p>
+        <p>The open-source model represents a sharp break with the practices of the commercial software business, which considers source code a company's private property -- usually guarded jealously and shared only rarely, under strict licensing terms.</p>
+        <p>But open source, once viewed as an ideological movement at the fringes of computing, is moving into the mainstream -- largely because the spread of the Internet and personal computers make it easy for programmers to collaborate in far-flung, voluntary teams.</p>
+        <p>Open-source software has already made real inroads with a pair of showcase success stories: the Linux operating system for computers used alone or in networks, and the Apache software system for so-called server computers used for Web sites.</p>
+        <p>Linux and Apache have attracted the support of established companies like I.B.M. and Hewlett-Packard, and startups like Red Hat and VA Linux. Both open-source programs have done best in the market for Web server software. Apache is used on 63 percent of Web servers, according to Netcraft, a research firm, while Linux is the operating system on 36 percent of Web servers.</p>
+        <p>The movement's fans say that open-source development, if widely adopted, has the potential to help fill the software gap by more efficiently delivering high-quality software. And open source, they add, is forcing the software industry to rethink its traditional development practices and its business strategies.</p>
+        <p>The point, they say, is not to destroy the profit motive that has helped make software a $175 billion-a-year business worldwide. The goal instead is to bring software development into the Internet era by sharing knowledge widely, allowing programmers to build on each other's work and accelerate the pace of software debugging and improvement.</p>
+        <p>Companies in the open-source economy would make money mainly by tailoring programs for customers, and with service and support. Software, open-source advocates say, would increasingly become a service business -- compared with the the traditional model of shipping proprietary code, shrink-wrapped, as if it were a manufactured good.</p>
+        <p>''I am increasingly coming to the conclusion that the Internet and open-source initiatives are the free marketplace way of dealing with the extremely complex software issues we are facing,'' said Irving Wladawsky-Berger, an I.B.M. executive and a member of the presidential advisory committee.</p>
+        <p>Even Microsoft is taking open source seriously, if warily. ''This issue of open source cuts to the core of the software business,'' said Jim Gray, a Microsoft researcher and a member of the presidential advisory group. ''It is a real challenge, masked by a great deal of hype.''</p>
+        <p>The new report by the technology advisory panel is another sign that open source is an emerging force. The recommendations focus mainly on developing software in a rarefied niche of computing -- the federally financed supercomputing centers devoted to over-the-horizon research in fields like modeling the atmosphere and simulating nuclear explosions.</p>
+        <p>Yet the report also notes that open-source development could have ''a profound economic and social'' impact, and it clearly regards the supercomputing centers as technology incubators for the marketplace. (It was a team from the National Center for Supercomputing Applications at the University of Illinois, after all, that helped spawn the Web revolution by creating the Mosaic browser, Netscape's precursor, in 1993, and that built the server software that became the foundation of the Apache project.)</p>
+        <p>''High-end computing should be a good test bed if you want to find out if open source can produce high-quality, complex software,'' said Larry Smarr, co-chairman of the open-source panel of the presidential advisory committee, who was head of the Illinois supercomputing center in the Mosaic days.</p>
+        <p>The Economics  Collaboration, Yes,  With Profit in Mind</p>
+        <p>For all the momentum of the open-source model, uncertainties abound. Making the transition from a movement to the mainstream, industry analysts say, will mean overcoming some daunting cultural, business and legal obstacles.</p>
+        <p>The origins of open-source development go back to the 1970's and the academic traditions of freely publishing research, subjecting work to peer review and sharing one another's discoveries. The early idealists, led by Richard M. Stallman, a revered programmer, believed deeply that all software should be free and that commercial software was all but immoral.</p>
+        <p>But the leading figures in the open-source movement today, however, have a more pragmatic bent. They believe in open-source development mainly, they say, because it produces better software and service -- not because it is morally superior to the traditional commercial model. They are all for capitalism, and they welcome investment.</p>
+        <p>''If open source is to succeed, it has to have a business justification,'' said Brian Behlendorf, one of the creators of Apache, and the founder and chief technology officer of Collab.Net, a San Francisco start-up company that helps companies design and run projects using open-source techniques.</p>
+        <p>''A lot of people are in the open-source community because they think it is the right thing to do,'' he added. ''But charity only goes so far. You've got to make it sustainable.''</p>
+        <p>Of the estimated five million software programmers worldwide, Mr. Behlendorf figures that fewer than 50,000 participate in open-source projects. ''The goal is to bring what works from open source into this other 99 percent of the programming community,'' he said.</p>
+        <p>Collab.Net, founded last year, has about two dozen clients, including Sun Microsystems, Oracle and Hewlett-Packard. Some of its customers are experimenting with distributing source code freely. But others are proceeding more cautiously, perhaps sharing some of their proprietary code with business partners and customers as a way to improve the quality and speed of its software development projects.</p>
+        <p>''To me,'' said Bill Portelli, president of Collab.Net, ''this is not about software being free. It's about the open-source practices and principles  -- a methodology for fast, effective collaboration.''</p>
+        <p>Collab.Net charges fees for consulting, education and coordinating software projects. Indeed, the business model for open-source development is based on the premise that software is a service and that the companies seeking to profit from it are service suppliers.</p>
+        <p>The commercial software business, open-source advocates say, is locked in an industrial-era ''factory model'' of shipping programs out the door as ''finished goods.'' Instead, such advocates say, software should be seen as more like a living organism that is best fed and cared for in the open-source environment. Even Microsoft, they note, has said recently that its software effort will evolve into a service business.</p>
+        <p>The Model  'Lone Craftsman'  Vs. Collaborators</p>
+        <p>So far open-source development has been more of an Internet-age breakthrough in engineering management than a progenitor of new technologies.</p>
+        <p>The two marketplace triumphs of open source, after all, are derivative rather than truly innovative. Linux is a version of the Unix operating system, and the Apache Web server was derived from software developed at the Illinois supercomputing center.</p>
+        <p>For this reason, some experts say the promise of open source is being overstated. William N. Joy, a founder and chief scientist of Sun Microsystems, created and distributed an open-source version of Unix two decades ago at the University of California at Berkeley. The Internet, he now says, has changed the context of things, making collaboration easier. But real innovation, he says, remains the work of a few.</p>
+        <p>''The truth is, great software comes from great programmers, not from a large number of people slaving away,'' Mr. Joy said. ''Open source can be useful. It can speed things up. But it's not new, and it's not holy water.''</p>
+        <p>Open-source enthusiasts reply that Mr. Joy is correct when it comes to the conceptual insight needed to forge a new direction in software. Truly creative insights, they concede, will remain the bailiwick of the ''lone craftsman'' programmer. But they hurry to add that breakthrough innovation, while important, is only a small part of the software economy. More than 75 percent of the time and cost of a software project is typically consumed by what the open-source approach is meant to do best: debugging, maintaining and tweaking the code.</p>
+        <p>Such work may seem mundane, but it represents a huge problem-solving challenge that determines the speed of development as well as the reliability of software.</p>
+        <p>So when Linus Torvalds released an experimental version of Unix onto the Internet as a student at the University of Helsinki in 1991, it may not have been breakthrough software.  As the Web took off, though, he soon found himself the steward of a developing operating system project, dubbed Linux, spurred by the voluntary contributions of programmers around the world. In the book ''The Cathedral and the Bazaar,'' Eric S. Raymond, an open-source evangelist, observed that Mr. Torvalds was ''the first person who learned how to play by the new rules that pervasive Internet access made possible.''</p>
+        <p>The Precedent  Learning Lessons  From Netscape</p>
+        <p>The new rules can be disorienting. Netscape Communications learned some hard lessons after it opened the source code on its Internet browsing software in early 1998. By then, Netscape, following Microsoft's lead, had been forced to give its browser away. But browser market share was still important to Netscape because its software server sales and service contracts depended on the popularity of its technology.</p>
+        <p>By making its browser an open-source project, Netscape hoped to  enlist the widespread support among open-source programmers eager to help the company in its battle against Microsoft. The open-source project was called mozilla.org -- a playful combination of Mosaic, the original browser, and Godzilla. But the effort drew only limited support.</p>
+        <p>Developers typically join open-source projects for the challenge of solving interesting software problems and the resulting recognition of their peers. That works best when a software program is designed as many pieces, or modules, so ''there is a lot of frontier to homestead,'' in open-source parlance.</p>
+        <p>But Netscape's browser was a big batch of programming code that was not designed in modules. ''That made it hard for even strong hackers to come in, stake a claim and do interesting work,'' said Brendan Eich, a leading programmer and one of the six founders of mozilla.</p>
+        <p>Corporate attitudes slowed things down as well. At first, for example, the Netscape programmers were reluctant to post their comments in the online area accessible to outsiders, preferring to post them instead on in-house lists for Netscape engineers. ''There was a whole mindset that had to change,'' Mr. Eich observed.</p>
+        <p>The mozilla open-source project was weakened further by staff defections after Netscape agreed to be acquired by America Online in November 1998.</p>
+        <p>Yet the project was also overhauled in the fall of 1998 in ways that laid the groundwork for a turnaround. The mozilla leaders adopted a modular code base called Gecko -- named after a small, fast lizard -- for rendering Web pages.</p>
+        <p>Gradually, more outside developers joined the open-source browser effort. Mr. Eich, the lone founding member of mozilla still with Netscape, rattles off the names of several outside programmers who have made significant contributions. Bugs are fixed quickly. ''More eyes looking at the code really helps,'' he said.</p>
+        <p>Earlier this year, America Online released a preview version of its next-generation browser, Netscape 6.0, long delayed but praised in the trade press for its streamlined design and novel features.</p>
+        <p>By now, Microsoft seems to be entrenched as the leader in browsers for personal computers. Still, the Netscape browser is at least a counterweight to Microsoft on the desktop. Beyond that, Netscape 6.0 is designed for post-PC computing -- to run easily on everything from cell phones to hand-held Internet appliances.</p>
+        <p>''We've rounded the corner at mozilla,'' Mr. Eich said.</p>
+        <p>The mozilla effort is also being watched as a model for licensing -- a crucial issue for open source. There are many kinds of open-source licenses, but they all require contributors who modify an open-source program to make those improvements available to all members of the project. The most restrictive licenses require any code that touches an open-source program to be made available freely. ''To some companies, that is a terrifying thought,'' said Lawrence Rosen, executive director of the Open Source Initiative, an education and advocacy group.</p>
+        <p>The mozilla license is an effort to let open source and proprietary software coexist peacefully. Its license applies to each of the software files -- building blocks of code -- in the open-source browser. If someone modifies one of those files, the improvement must be given back to the project as open-source code. But if a company mingles some of its own proprietary software files with the browser, those separate files can remain its private property.</p>
+        <p>That kind of accommodation, industry analysts say, is a step toward making open source acceptable to corporate America. ''Open source can't go mainstream unless it finds ways to work with companies that have very different business models and believe that intellectual property can be owned,'' said James F. Moore, president of Geopartners Research, a consulting firm. ''That's a big challenge.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Fiction</title>
+    <meta content="RV135546" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234935"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Ulin, David L</person>
+        <person class="indexing_service">Sguiglia, Eduardo</person>
+        <object.title class="indexing_service">Fordlandia (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001001T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02EED8103BF932A35753C1A9669C8B63" item-length="288" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Fiction</hl1>
+      </hedline>
+      <byline class="print_byline">By David L. Ulin</byline>
+      <byline class="normalized_byline">Ulin, David L</byline>
+      <abstract>
+        <p>David Ulin reviews novel Fordlandia by Eduardo Sguiglia (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FORDLANDIA</p>
+        <p>By Eduardo Sguiglia.</p>
+        <p>Thomas Dunne/St. Martin's, $22.95.</p>
+      </block>
+      <block class="full_text">
+        <p>FORDLANDIA</p>
+        <p>By Eduardo Sguiglia.</p>
+        <p>Thomas Dunne/St. Martin's, $22.95.</p>
+        <p>The Argentine writer Eduardo Sguiglia's first novel, translated deftly by Patricia J. Duncan, revolves around a little known historical footnote: in the late 1920's, Henry Ford built a vast rubber plantation in the Amazon region, ultimately colonizing several million acres and carving out the settlement for which this book is named from the jungle on the river's banks. That's a fascinating bit of information, but to call ''Fordlandia'' a historical novel is to miss the point. Instead, it's a fable of sorts, reminiscent of the work of Conrad or Kafka, in which, faced with the extremes of an indifferent universe, human beings must come to terms with their own capricious inner landscapes, the ''whim, chance and error'' that sear their souls. Sguiglia, who is a professor at the University of Buenos Aires, tells his story from the perspective of an Argentine named Horacio, who has drifted to the Amazon, like other characters here, to escape the secret failures of his life. Once there, he discovers a territory suspended between ambition and surrender, where Ford's grand dreams dissolve into chaos and tribalism, and at night ''the jungle destroyed, without fail, almost all the progress achieved during the day.'' Writing in a flat, dissociated tone to reflect the novel's setting, Sguiglia reveals little of the past or future, focusing instead on the ennui of a never-ending now. Yet if ''Fordlandia'' can feel claustrophobic at times, it more often reminds us that the line between inspiration and delusion is a thin one, as indistinguishable in many ways as that which separates history from mythology.</p>
+        <p>David L. Ulin</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

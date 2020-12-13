@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>PC's Under Surveillance</title>
+    <meta content="LTR005818" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211260"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Wiretapping and Other Eavesdropping Devices and Methods</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <person class="indexing_service">detmer, jim</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wiretapping and Other Eavesdropping Devices and Methods</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000629T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7DC1F30F93AA15755C0A9669C8B63" item-length="139" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>PC's Under Surveillance</hl1>
+      </hedline>
+      <abstract>
+        <p>Jim Detmer letter says using spy software (June 22 article) is like using a wiretap</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I think that the use of spy software is like using a wiretap, and I think that that the same legal requirements should be imposed (''Spy Software Puts Home PC's Under Surveillance,'' State of the Art, June 22). I am sure that countermeasures will appear very quickly in the marketplace. Who will use the hotel or cybercafe system until this is all sorted out? Not me!</p>
+        <p>JIM DETMER  Williamsburg, Va.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I think that the use of spy software is like using a wiretap, and I think that that the same legal requirements should be imposed (''Spy Software Puts Home PC's Under Surveillance,'' State of the Art, June 22). I am sure that countermeasures will appear very quickly in the marketplace. Who will use the hotel or cybercafe system until this is all sorted out? Not me!</p>
+        <p>JIM DETMER  Williamsburg, Va.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

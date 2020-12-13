@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'True West' Is Closing</title>
+    <meta content="26CLOS" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Theater" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1217731"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <person class="indexing_service">Shepard, Sam</person>
+        <object.title class="indexing_service">True West (Play)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000726T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E6D6103AF935A15754C0A9669C8B63" item-length="69" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'True West' Is Closing</hl1>
+      </hedline>
+      <abstract>
+        <p>True West, revival of Sam Shepard's 1982 play at Circle in the Square Theater, announces closing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''True West,'' a revival of Sam Shepard's 1982 play, is to close after the evening performance on Saturday at the Circle in the Square Theater, 50th Street and Broadway. Directed by Matthew Warchus and currently starring Josh Brolin and Elias Koteas, the play will have run for 154 regular performances and 21 previews.</p>
+      </block>
+      <block class="full_text">
+        <p>''True West,'' a revival of Sam Shepard's 1982 play, is to close after the evening performance on Saturday at the Circle in the Square Theater, 50th Street and Broadway. Directed by Matthew Warchus and currently starring Josh Brolin and Elias Koteas, the play will have run for 154 regular performances and 21 previews.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

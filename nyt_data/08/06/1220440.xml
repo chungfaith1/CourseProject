@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Making Like The Sun</title>
+    <meta content="06STRE" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1220440"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="ON THE STREET"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Apparel</classifier>
+        <person class="indexing_service">Cunningham, Bill</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000806T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E1DE173CF935A3575BC0A9669C8B63" item-length="145" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Making Like The Sun</hl1>
+      </hedline>
+      <byline class="print_byline">By Bill Cunningham</byline>
+      <byline class="normalized_byline">Cunningham, Bill</byline>
+      <abstract>
+        <p>Photos of several bright outfits seen in New York City (On the Street column)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Some New Yorkers slipcovered themselves in sunny yellow, an optimistic approach to two relentlessly gray weeks of rain. Dandies on Fifth Avenue wore yellow Dick Tracy hats that matched their suits. Kevin Berlin, a sculptor, chose a T-shirt and jeans printed with giant lemons. A posse of Hamptons road warriors sported parrot-yellow bikes and matching helmets. And Madeline escaped the gloomy weather by trading her traditional blue coat for a yellow one.</p>
+      </block>
+      <block class="full_text">
+        <p>Some New Yorkers slipcovered themselves in sunny yellow, an optimistic approach to two relentlessly gray weeks of rain. Dandies on Fifth Avenue wore yellow Dick Tracy hats that matched their suits. Kevin Berlin, a sculptor, chose a T-shirt and jeans printed with giant lemons. A posse of Hamptons road warriors sported parrot-yellow bikes and matching helmets. And Madeline escaped the gloomy weather by trading her traditional blue coat for a yellow one.</p>
+        <p>ON THE STREET</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

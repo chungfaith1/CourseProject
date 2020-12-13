@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>And Bear In Mind</title>
+    <meta content="01BEAR" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234938"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001001T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E6D7103BF932A35753C1A9669C8B63" item-length="882" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>And Bear In Mind</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>(Editors' choices of other recent books of particular interest)</p>
+        <p>THE MISSIONARY AND THE LIBERTINE: Love and War in East and West, by Ian Buruma. (Random House, $25.95.) Essays by a skilled interpreter of East and West; the West's view, he finds, is still largely shaped by stereotypes, while in fact East is no longer all that different from West, though Asian political figures find it convenient to pretend it is.</p>
+      </block>
+      <block class="full_text">
+        <p>(Editors' choices of other recent books of particular interest)</p>
+        <p>THE MISSIONARY AND THE LIBERTINE: Love and War in East and West, by Ian Buruma. (Random House, $25.95.) Essays by a skilled interpreter of East and West; the West's view, he finds, is still largely shaped by stereotypes, while in fact East is no longer all that different from West, though Asian political figures find it convenient to pretend it is.</p>
+        <p>LONGING, by J. D. Landis. (Harcourt, $26.) A penetrating fictional biography of Robert Schumann, the Romantic composer who died in a madhouse in 1856 after a life of sometimes violent obsession with music and with the piano teacher's daughter he married.</p>
+        <p>NYPD: A City and Its Police, by James Lardner and Thomas Reppetto. (John Macrae/Holt, $27.50.) An absorbing history of a famous force that has periodically suffered from brutality, incompetence and corruption but is still one of the world's best, superior in crime control, technology, detection and, of all things, the management of violence.</p>
+        <p>THE AMAZING ADVENTURES OF KAVALIER &amp; CLAY, by Michael Chabon. (Random House, $26.95.) A generous, optimistic, inventive and ambitious comic novel, set in the golden age of comic books (late 1930's to early 50's) and thematically permeated by two ideas: escape (from Nazism, from Brooklyn) and the mystery of the golem of Prague.</p>
+        <p>THE INFORMANT: A True Story, by Kurt Eichenwald. (Broadway, $26.) The author, a reporter for The Times, makes clear and concise the complexities of the 1990's price-fixing scandal at Archer Daniels Midland, the feed makers, and the fascinating part played in the affair by a government informant whose core of truth was surrounded by a truly baroque architecture of lies.</p>
+        <p>COLLECTED POEMS IN ENGLISH, by Joseph Brodsky. (Farrar, Straus &amp; Giroux, $30.) All the poems that appeared in English while Brodsky (1940-96), Nobel laureate, scourge of liberal pieties and embattled proponent of a formal poetics, was still alive to supervise their appearance.</p>
+        <p>WHEN WE WERE ORPHANS, by Kazuo Ishiguro. (Knopf, $25.) A novel that conceals great issues of identity and self-knowledge behind the facade of a detective story; its protagonist, a private eye in 1920's London, uses all his wits in the cause of deceiving himself, missing the call of freedom in the blindness his sense of obligation imposes.</p>
+        <p>PROPERTIES OF LIGHT: A Novel of Love, Betrayal and Quantum Physics, by Rebecca Goldstein. (Houghton Mifflin, $23.) The author of ''The Mind-Body Problem'' explores the darker side of the conflict of ideas in physics between relativity and quantum mechanics, both of which find expression in the structure of the novel itself.</p>
+        <p>THE DIAGNOSIS, by Alan Lightman. (Pantheon, $25.) A highly original novel by a lecturer in physics and professor of humanities at M.I.T.; its hero, immersed in an environment of cell phones, pagers and the Internet, suffers an illness both caused and made undiagnosable by excess information.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

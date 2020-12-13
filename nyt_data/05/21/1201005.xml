@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Diaper Diplomacy</title>
+    <meta content="LTR114437" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201005"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <org class="indexing_service">State Department</org>
+        <person class="indexing_service">Goldberg, Jeffrey</person>
+        <person class="indexing_service">Oliver, Phil</person>
+        <person class="indexing_service">Rubin, James P</person>
+        <person class="indexing_service">Amanpour, Christiane</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000521T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01EFDD1E3BF932A15756C0A9669C8B63" item-length="109" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Diaper Diplomacy</hl1>
+      </hedline>
+      <abstract>
+        <p>Phil Oliver letter on Jeffrey Goldberg's April 30 column on Jamie Rubin's marriage to Christiane Amanpour notes that caregiving fathers change diapers2</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Caregiving fathers who ''fulfill their responsibilities'' do diapers. The diplomatic distance that served Jamie Rubin so well at Foggy Bottom is no asset at the changing table, where unpleasant realities are not so readily evaded.</p>
+        <p>Phil Oliver</p>
+        <p>Nashville</p>
+      </block>
+      <block class="full_text">
+        <p>Caregiving fathers who ''fulfill their responsibilities'' do diapers. The diplomatic distance that served Jamie Rubin so well at Foggy Bottom is no asset at the changing table, where unpleasant realities are not so readily evaded.</p>
+        <p>Phil Oliver</p>
+        <p>Nashville</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

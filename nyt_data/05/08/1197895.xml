@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dividend Meetings</title>
+    <meta content="08DIVI$01" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1197895"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000508T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE2D91238F93BA35756C0A9669C8B63" item-length="279" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dividend Meetings</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A partial list for this week.</p>
+        <p>MONDAY  None Reported</p>
+        <p>TUESDAY  Cabot Oil &amp; Gas Corp  Deluxe Corp  IRT Ppty Co  ITT Inds Inc (Ind.)  United Dominion Rlty Tr Inc  Viad Corp</p>
+      </block>
+      <block class="full_text">
+        <p>A partial list for this week.</p>
+        <p>MONDAY  None Reported</p>
+        <p>TUESDAY  Cabot Oil &amp; Gas Corp  Deluxe Corp  IRT Ppty Co  ITT Inds Inc (Ind.)  United Dominion Rlty Tr Inc  Viad Corp</p>
+        <p>WEDNESDAY  Ametek Inc (New)  Cabot Indl Tr  Carolina Pwr &amp; Lt Co  Fleming Cos Inc  Gaylord Entmt Co (New)  Harman Intl Inds Inc (New)  Liberty Finl Cos Inc  Meredith Corp  Newell Rubbermaid Inc  Providian Finl Corp  Quaker Oats Co  Sysco Corp  Westpoint Stevens Inc  Wynn's Intl Inc</p>
+        <p>THURSDAY  Allegheny Technologies Inc  Bradley Real Estate Inc  Current Income Shs Inc  Dow Chem Co  Finova Group Inc  First Amern Finl Corp (Calif.)  Hollinger Intl Inc  Malan Rlty Invs Inc  Maytag Corp  MDU Res Group Inc  Tupperware Corp  Urban Shopping Ctrs Inc</p>
+        <p>FRIDAY  Avista Corp  Ecolab Inc  Entergy Corp (New)  Illinois Tool Wks Inc  MicroFinancial Inc  Sizeler Ppty Invs Inc  Vulcan Matls Co</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

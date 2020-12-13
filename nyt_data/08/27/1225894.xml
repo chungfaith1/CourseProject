@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Standard &amp; Poor's 500 Now Includes Keyspan</title>
+    <meta content="MB020116" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225894"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="IN BRIEF"/>
+      <identified-content>
+        <org class="indexing_service">Keyspan Corp</org>
+        <person class="indexing_service">Strugatch, Warren</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000827T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03EEDF1131F934A1575BC0A9669C8B63" item-length="164" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Standard &amp; Poor's 500 Now Includes Keyspan</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by Warren Strugatch</byline>
+      <byline class="normalized_byline">Strugatch, Warren</byline>
+      <abstract>
+        <p>KeySpan Corp, based in Hicksville and Brooklyn, NY, joins Standard and Poor's 500 index (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Standard and Poor's 500 index now includes the KeySpan Corporation (NYSE: KSE) in its natural gas industry group.</p>
+        <p>''We are pleased with this announcement by the S.&amp;P.,'' said Robert B. Catell, chairman and chief executive of KeySpan, ''and we believe it reflects the fact we have had significant growth during the last few years as we've implemented our strategic plan to become the premier energy company of the Northeast.''</p>
+      </block>
+      <block class="full_text">
+        <p>The Standard and Poor's 500 index now includes the KeySpan Corporation (NYSE: KSE) in its natural gas industry group.</p>
+        <p>''We are pleased with this announcement by the S.&amp;P.,'' said Robert B. Catell, chairman and chief executive of KeySpan, ''and we believe it reflects the fact we have had significant growth during the last few years as we've implemented our strategic plan to become the premier energy company of the Northeast.''</p>
+        <p>KeySpan, with bases in Hicksville and Brooklyn, is a holding company that includes two utilities that distribute natural gas to 1.6 million customers in New York City and on Long Island.</p>
+        <p>IN BRIEF E-mail address: libiz@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail address: libiz@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

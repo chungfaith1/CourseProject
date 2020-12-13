@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fear of Failure? Back Up</title>
+    <meta content="LTR010146" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1202307"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <person class="indexing_service">steinberg, jerry</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000525T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502EFD9153DF936A15756C0A9669C8B63" item-length="227" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fear of Failure? Back Up</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Jerry Steinberg says he installed second hard disk and copied everything that exists on primary disk using piece of software called ReZoom</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I have installed a second hard disk and have copied everything that exists on my primary disk using a piece of software called ReZoom. The software allows for a backup schedule that automatically operates at specified intervals, or at the same time every day, to make complete backups. While this system does not protect me from fire, flood, tornadoes or other types of physical destruction, it does protect me against the most likely form of data loss, namely a hard disk crash. Since the probability of two disks crashing simultaneously is almost zero, if one disk crashes I can boot up and operate from the other while I arrange to replace whichever one failed. I can do that with no interruptions and never have to worry about additional floppies, rewritable optical disks, Zip drives or disks, or online services. And what I am doing is comparable to the other forms of backup discussed and far simpler to manage.</p>
+        <p>JERRY STEINBERG  Wappingers Falls, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I have installed a second hard disk and have copied everything that exists on my primary disk using a piece of software called ReZoom. The software allows for a backup schedule that automatically operates at specified intervals, or at the same time every day, to make complete backups. While this system does not protect me from fire, flood, tornadoes or other types of physical destruction, it does protect me against the most likely form of data loss, namely a hard disk crash. Since the probability of two disks crashing simultaneously is almost zero, if one disk crashes I can boot up and operate from the other while I arrange to replace whichever one failed. I can do that with no interruptions and never have to worry about additional floppies, rewritable optical disks, Zip drives or disks, or online services. And what I am doing is comparable to the other forms of backup discussed and far simpler to manage.</p>
+        <p>JERRY STEINBERG  Wappingers Falls, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

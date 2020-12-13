@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Electrical Grounding: How to Make Sure It's Done Right</title>
+    <meta content="CNCLINIC" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211897"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="HOME CLINIC"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HOME REPAIR</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EED81439F931A35754C0A9669C8B63" item-length="857" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Electrical Grounding: How to Make Sure It's Done Right</hl1>
+      </hedline>
+      <byline class="print_byline">By EDWARD R. LIPINSKI</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IN order for electricity to power a lamp, motor, appliance or other load, it must travel from a source through a conductor and a load, then out into the ground. This path from source to ground is a circuit.</p>
+        <p>In a residential home circuit, the source is the service panel where electricity comes into the house from the local electric company. The wires from the source to the outlets are called the hot wires and are color-coded with black insulation. The wires running from the outlets to the ground are called neutral wires and are color-coded with white insulation.</p>
+      </block>
+      <block class="full_text">
+        <p>IN order for electricity to power a lamp, motor, appliance or other load, it must travel from a source through a conductor and a load, then out into the ground. This path from source to ground is a circuit.</p>
+        <p>In a residential home circuit, the source is the service panel where electricity comes into the house from the local electric company. The wires from the source to the outlets are called the hot wires and are color-coded with black insulation. The wires running from the outlets to the ground are called neutral wires and are color-coded with white insulation.</p>
+        <p>This two-wire configuration was the standard for circuits in American homes until about 1958. But the neutral wire did not always capture and control electrical leaks from loose wires or malfunctioning appliances, and engineers proposed adding a ground wire as an auxiliary safety measure. This new wire was called the equipment ground and it became a standard feature on all residential wiring.</p>
+        <p>New outlets were created with a third, round-prong hole that connected to the ground circuit. Plugs were created with a third prong that was wired to the appliance housing and siphoned off leaked electricity and routed it to the ground circuit. At first the ground wire ran from a green screw on the receptacle to a screw on the metal junction box.</p>
+        <p>The ground connection ran from the metal box through the metal sheathing, either BX cable or steel conduit, around the hot and neutral wires. Later this design was improved by adding a third wire alongside the hot and neutral wires.</p>
+        <p>Unfortunately, most homeowners assume that their circuits are properly grounded if they have they have three-hole receptacles in the outlets, but this is not always the case. In older houses, the receptacle could be in place but not wired to an equipment ground. In newer homes, even if the three-prong outlet is present and connected to the third ground wire, there is the possibility of a loose connection in the ground circuit.</p>
+        <p>These conditions are called an open ground. The outlet will still deliver power to appliances, but it is unsafe because there is no path for stray electricity. Should the wiring in an appliance prove defective, the user could get a potent, even lethal shock. An open ground can also affect the operation of some appliances with microprocessors, like a computer, even if the appliance has no internal faults.</p>
+        <p>It is important then for the homeowner to check the house circuits to make sure that all connections are safe. Fortunately, this is not as difficult as it may sound. You can check the receptacles in your house with a simple device called a circuit tester. It is available in home centers and electrical supply stores for about $5.</p>
+        <p>Plug the tester into an outlet and read the pattern of lights on the display panel. Match that up with the chart on the body of the tester. With this device, you can test all the outlets in your house in about 15 minutes.</p>
+        <p>What if you do find an open ground? Leave the tester plugged into the outlet and turn off the breaker controlling that circuit. The tester light will go out, indicating that power is off and the circuit is cold. Remove the cover plate, pull the receptacle from the box and carefully examine all the wiring. In many cases, the open ground can be traced to a loose connection in the box.</p>
+        <p>If all the wiring is secure, try to see if the conduit or BX cable is coupled to the box; this is important in circuits that only have a black and white wire in the circuit because the ground connection runs through the metal jacket around the wires. If the cable is not connected to the box, see if you can pull it back to the box clamp. If this fails, you may have to open a small section of the wall to get at the cable.</p>
+        <p>If all the connections are in place at the box, look in the basement and attic for any exposed cable or conduit along the circuit line. You may spot a loose connection here, but if everything looks alright, then the problem may be within the circuit, and you should call in an electrician to trace the problem.</p>
+        <p>In 1971 a new safety device was added to house circuits. This is the ground fault circuit interrupter, and was designed to shut off power in less than one-fortieth of a second in areas with exposed plumbing like the kitchen and bathroom. The interrupters have test buttons and they should be checked at least once a week.</p>
+        <p>HOME CLINIC</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

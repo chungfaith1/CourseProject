@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rocks From Mars</title>
+    <meta content="05QNA" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1228087"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Meteors and Meteorites</classifier>
+        <location class="indexing_service">Mars (Planet)</location>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Meteors and Meteorites</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000905T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06EEDB1E30F936A3575AC0A9669C8B63" item-length="252" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rocks From Mars</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Question and answer column on how scientists determine that rock on Earth came from Mars; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q.  How do scientists determine that a rock on Earth came from Mars rather than someplace else?</p>
+        <p>A.  The best idea scientists have of the geochemistry of Mars comes from the two Viking robots that landed on Mars in 1976. Findings from the robots' weeks of readings of things like the Martian atmosphere are compared with the chemical signatures of meteorites found on Earth.</p>
+      </block>
+      <block class="full_text">
+        <p>Q.  How do scientists determine that a rock on Earth came from Mars rather than someplace else?</p>
+        <p>A.  The best idea scientists have of the geochemistry of Mars comes from the two Viking robots that landed on Mars in 1976. Findings from the robots' weeks of readings of things like the Martian atmosphere are compared with the chemical signatures of meteorites found on Earth.</p>
+        <p>The first such object confidently identified as Martian was reported in 1983. The object, a rock eight inches in diameter and weighing 17.5 pounds, had been picked up in 1979 at the Elephant Moraine near McMurdo Sound in Antarctica.</p>
+        <p>Trapped in bits of glass in the object, designated EETA 79001, were some so-called noble gases -- neon, argon, krypton and xenon -- strikingly similar in abundance to those of the Martian atmosphere, as determined by the Viking missions.</p>
+        <p>In 1996, another meteorite was found to have organic molecules, which raised suspicions that there might have once been biological activity on Mars. Named Allan Hills 84001, it was one of only 12 rocks identified up to that time as having come from Mars. However, experts believe that many other fragments of Mars probably lie unrecognized in meteorite collections.</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

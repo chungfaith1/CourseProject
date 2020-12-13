@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Fiction</title>
+    <meta content="RV111057" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1227420"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Miles, Jonathan</person>
+        <person class="indexing_service">Bradley, John Ed</person>
+        <object.title class="indexing_service">My Juliet (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000903T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06EED91431F930A3575AC0A9669C8B63" item-length="334" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Fiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Jonathan Miles</byline>
+      <byline class="normalized_byline">Miles, Jonathan</byline>
+      <abstract>
+        <p>Jonathan Miles reviews My Juliet by John Ed Bradley (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MY JULIET</p>
+        <p>By John Ed Bradley.</p>
+        <p>Doubleday, $23.95.</p>
+      </block>
+      <block class="full_text">
+        <p>MY JULIET</p>
+        <p>By John Ed Bradley.</p>
+        <p>Doubleday, $23.95.</p>
+        <p>Of all the settings for American fiction, few have proven more elusive than New Orleans. The city's piquancy seems to overpower writers: they tend to wallow in its more piquant details, packing their prose with so much local color -- bowl of gumbo and a Dixie beer, anyone? -- that the result is often over-regionalized fiction containing more spice than soul. The latest to lose his footing is John Ed Bradley, whose gothic-noir romance, ''My Juliet,'' his fifth novel, ends up choking on its own steamy ambience. Juliet Beauvais, a debutante-turned-porn-starlet and prickly femme fatale, returns home to New Orleans to claim the family's crumbling mansion from her mother, whom she believes to be dying and who she is certain, furthermore, murdered Juliet's father, a well-pedigreed pedophile. She enlists the aid of a local artist named Sonny LaMott, an old flame who's been mooning over Juliet ever since she left town. Poor Sonny leaps at the chance to do Juliet's bidding; that bidding, however, eventually makes him a prime suspect in the slaying of Juliet's mother. Bradley, whose earlier novels include ''Tupelo Nights'' and ''Love &amp; Obits,'' studs this moss-and-murder plot with side trips to a slew of New Orleans landmarks, often accompanied by too much commentary from his characters about the city's quirky flavor. As Sonny confides to a bartender pal, ''This city, it really is different from all others, isn't it?'' Maybe, but what surfaces most often in this novel is less Sonny's passionate interest in Juliet than Bradley's own tired regional obsession.</p>
+        <p>Jonathan Miles</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

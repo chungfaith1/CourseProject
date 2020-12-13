@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Business; Space.com Cuts 22 Jobs</title>
+    <meta content="MB014634" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1236044"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <org class="indexing_service">Space.com</org>
+        <person class="indexing_service">Blair, Jayson</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="general_descriptor">Layoffs and Job Reductions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001004T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E2DF1E3DF937A35753C1A9669C8B63" item-length="85" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Business; Space.com Cuts 22 Jobs</hl1>
+      </hedline>
+      <byline class="print_byline">By Jayson Blair</byline>
+      <byline class="normalized_byline">Blair, Jayson</byline>
+      <abstract>
+        <p>Space.com eliminates 22 jobs, or about 22 percent of its work force, as part of plan to make company profitable next year (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Space.com, a New York multimedia company that bundles astronomy-related content, eliminated 22 jobs, or about 22 percent of its work force, on Friday as a part of a plan to make the company profitable next year.</p>
+      </block>
+      <block class="full_text">
+        <p>Space.com, a New York multimedia company that bundles astronomy-related content, eliminated 22 jobs, or about 22 percent of its work force, on Friday as a part of a plan to make the company profitable next year.</p>
+        <p>The layoffs come three days after the resignation of Space.com's president, Sally Ride, the first American woman in space, who said she wanted to focus on science education.</p>
+        <p>Jayson Blair (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

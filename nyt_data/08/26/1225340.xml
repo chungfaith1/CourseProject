@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Searching Look at Flight 800</title>
+    <meta content="26SAT3$01" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225340"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Explosions</classifier>
+        <org class="indexing_service">Trans World Airlines</org>
+        <org class="indexing_service">Federal Aviation Administration</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Explosions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000826T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E6D81331F935A1575BC0A9669C8B63" item-length="464" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Searching Look at Flight 800</hl1>
+      </hedline>
+      <abstract>
+        <p>Editorial welcomes FAA's airworthiness directives on fuel tank safety, issued following investigation of cause of crash of TWA Flight 800 off Long Island in July 1996 (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As flying becomes safer, crashes become harder to explain. That has been the paradox hovering over the investigation of the T.W.A. Flight 800 disaster. In the immediate aftermath of the crash, which killed all 230 people on board, there were theories that the plane had been brought down by terrorists or an errant missile. Now, after one of the most painstaking investigations in the history of aviation, the National Transportation Safety Board has ruled out those possibilities. Instead, the board determined that a ''fuel/air explosion inside the center wing tank'' was the probable cause of the Boeing 747's breaking up in midair off Long Island 12 minutes into its flight from Kennedy Airport to Paris on July 17, 1996. What is not known for certain is what ignited the explosion, though a short circuit in electrical wiring is strongly suspected.</p>
+        <p>The only wiring inside fuel tanks consists of low-voltage wires for fuel gauges. A short circuit there is deemed unlikely. But inspectors believe that a short circuit in wiring outside the tank may have led to a surge of current in the wiring inside, providing the spark. In the absence of certainty, the Federal Aviation Administration has drafted three dozen airworthiness directives on fuel tank safety that seek to address each possible ignition and explosion source.</p>
+      </block>
+      <block class="full_text">
+        <p>As flying becomes safer, crashes become harder to explain. That has been the paradox hovering over the investigation of the T.W.A. Flight 800 disaster. In the immediate aftermath of the crash, which killed all 230 people on board, there were theories that the plane had been brought down by terrorists or an errant missile. Now, after one of the most painstaking investigations in the history of aviation, the National Transportation Safety Board has ruled out those possibilities. Instead, the board determined that a ''fuel/air explosion inside the center wing tank'' was the probable cause of the Boeing 747's breaking up in midair off Long Island 12 minutes into its flight from Kennedy Airport to Paris on July 17, 1996. What is not known for certain is what ignited the explosion, though a short circuit in electrical wiring is strongly suspected.</p>
+        <p>The only wiring inside fuel tanks consists of low-voltage wires for fuel gauges. A short circuit there is deemed unlikely. But inspectors believe that a short circuit in wiring outside the tank may have led to a surge of current in the wiring inside, providing the spark. In the absence of certainty, the Federal Aviation Administration has drafted three dozen airworthiness directives on fuel tank safety that seek to address each possible ignition and explosion source.</p>
+        <p>One approach is to make a jet's fuel tanks less flammable. The fuel in an aircraft's center wing tank is flammable roughly a third of the time, when the combination of air, fuel vapors and temperature is just so. The F.A.A. says that ''nitrogen inerting'' technology has been rapidly developed as a result of the crash. This technology should soon enable airlines to replace the air in gas tanks with inert gas before takeoff, significantly reducing the amount of time the center wing tank's fuel is flammable. The other approach is to eliminate possible sparks. Here the F.A.A. has focused on worn wiring.</p>
+        <p>T.W.A. Flight 800 will also be remembered for its impact on the way victims' families are treated in the aftermath of an air crash. Reacting to the families' plight, Congress passed legislation requiring that airlines act more efficiently and more humanely in providing them assistance and information. But the most fitting way for government and industry to honor the dead is through steps designed to prevent a similar disaster in the future.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Calendar</title>
+    <meta content="17FCAL$01" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200072"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000517T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE2DB1E3BF934A25756C0A9669C8B63" item-length="316" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Calendar</hl1>
+      </hedline>
+      <byline class="print_byline">By FLORENCE FABRICANT</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Tastes of Spain</p>
+        <p>Spanish cuisine is the focus of the Mediterranean Culinary Festival, which is sponsored by the James Beard Foundation and the International Olive Oil Council. It will take place tomorrow and Friday in the Winter Garden of the World Financial Center. Food and wine tastings, cooking demonstrations and cookbook signings are among the activities from 11:30 a.m. to 6:30 p.m. each day. Admission is free; tastings are $1 to $5.</p>
+      </block>
+      <block class="full_text">
+        <p>Tastes of Spain</p>
+        <p>Spanish cuisine is the focus of the Mediterranean Culinary Festival, which is sponsored by the James Beard Foundation and the International Olive Oil Council. It will take place tomorrow and Friday in the Winter Garden of the World Financial Center. Food and wine tastings, cooking demonstrations and cookbook signings are among the activities from 11:30 a.m. to 6:30 p.m. each day. Admission is free; tastings are $1 to $5.</p>
+        <p>Full Moon Feasts</p>
+        <p>Special dinners to celebrate the full moon will be served tomorrow and on June 16, July 16 and August 15 on the terrace at Estiatorio Milos, 125 West 55th Street. The cost is $55, plus drinks, tax and tip; reservations: (212) 245-7400.</p>
+        <p>Whole Foods Tastings</p>
+        <p>Saturday and Sunday, the vast Whole Foods Market that opened yesterday at 905 River Road in Edgewater, N.J., will give free tastings, including smoked fish, cheeses, prepared foods, barbecue and baked goods. In the English Tea Salon on Sunday from 2 to 5 p.m., Miriam Novalle, of the T-Salon in Manhattan, will serve samples. Information: (201) 941-4000.</p>
+        <p>Vineyard Discounts</p>
+        <p>Saturday and Sunday from 11 a.m. to 5 p.m., Palmer Vineyards, 108 Sound Avenue in Aquebogue, N.Y., will sell six of its wines at half price. In addition, its 1995 barrel-fermented chardonnay will be reduced to $5, from $13.50: (631) 722-9163.</p>
+        <p>Vietnamese Cooking</p>
+        <p>Families With Children From Vietnam is holding a benefit on Sunday from 2 to 6 p.m., with a demonstration of Vietnamese cooking followed by a multicourse dinner at Peter Kump's New York Cooking School, 50 West 23rd Street. Tickets, $100: (212) 674-5314.</p>
+        <p>FLORENCE FABRICANT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

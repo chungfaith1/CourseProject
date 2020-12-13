@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV094933" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208074"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Loos, Ted</person>
+        <person class="indexing_service">Herr, Michael</person>
+        <person class="indexing_service">Kubrick, Stanley</person>
+        <object.title class="indexing_service">Kubrick (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402EFD6133FF93BA25755C0A9669C8B63" item-length="271" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Ted Loos</byline>
+      <byline class="normalized_byline">Loos, Ted</byline>
+      <abstract>
+        <p>Ted Loos reviews book Kubrick by Michael Herr (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Kubrick</p>
+        <p>By Michael Herr.</p>
+        <p>Grove, $18.95.</p>
+      </block>
+      <block class="full_text">
+        <p>Kubrick</p>
+        <p>By Michael Herr.</p>
+        <p>Grove, $18.95.</p>
+        <p>Michael Herr's friendship with Stanley Kubrick dates to the early 1980's, when they began a long collaboration on the screenplay for the film ''Full Metal Jacket.'' In ''Kubrick,'' originally published in Vanity Fair, Herr sets out to refute misconceptions about Kubrick; for instance, he wasn't really a recluse. But Herr's own stories make Kubrick seem eccentric; for example, he once asked Herr to move to Vancouver for a year ''to check it out for him'' as a place to live. Such anecdotes are red meat for a fan's curiosity about the director of ''2001: A Space Odyssey'' and ''Dr. Strangelove,'' but Herr mixes the stories with increasingly diffuse musings. The feverish last chapter is intended to redeem Kubrick's posthumously released movie, ''Eyes Wide Shut,'' the script for which Herr declined to polish (a service Kubrick memorably terms ''a wash and a rinse''). Herr calls the director ''a great artist belittled by fools,'' but his zeal leads his sentences astray. ''They get that Stanley bit between their teeth,'' he writes of Kubrick's critics, ''and they're off like a bugaboo strapped to a hobbyhorse.'' That is precisely the kind of defense Kubrick does not need.</p>
+        <p>Ted Loos</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Yellow Tomatoes</title>
+    <meta content="09QNA" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1198039"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q&amp;A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Tomatoes</classifier>
+        <classifier class="indexing_service" type="descriptor">Diet and Nutrition</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Diet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flowers and Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diet and Nutrition</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000509T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E2DA1338F93AA35756C0A9669C8B63" item-length="289" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Yellow Tomatoes</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Question and answer column on nutritional value of yellow tomatoes; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. I see yellow tomatoes, among other exotic types, at vegetable stores. Do they differ in nutritional value from red tomatoes?</p>
+        <p>A. Like all vegetables, tomatoes differ somewhat in nutritional value from variety to variety, and even from season to season. For example, the United States Department of Agriculture lists different average nutrient contents for tomatoes harvested from November to May and for those from June to October.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. I see yellow tomatoes, among other exotic types, at vegetable stores. Do they differ in nutritional value from red tomatoes?</p>
+        <p>A. Like all vegetables, tomatoes differ somewhat in nutritional value from variety to variety, and even from season to season. For example, the United States Department of Agriculture lists different average nutrient contents for tomatoes harvested from November to May and for those from June to October.</p>
+        <p>Many food values are comparable for red and yellow tomatoes, or are a tradeoff. For example, the amino acids are found in similar smidgens. The precursor of vitamin A called beta carotene is found in valuable amounts in red and yellow tomatoes and in many other vegetables.</p>
+        <p>Both colors have vitamin C, though a red tomato has about three times as much. Minerals are similar, though a yellow tomato is higher in sodium. Yellow tomatoes have more niacin and folate; red tomatoes have more vitamin B6 and pantothenic acid, and so on.</p>
+        <p>But there is one significant nutrient, reported in some studies to be a powerful antioxidant that may help prevent cancer, that is found in red tomatoes but not in others: lycopene. Lycopene, which is also converted in the body to vitamin A, is the very thing that makes red tomatoes red. The redder the tomato, the more lycopene, and no lycopene at all is to be found in green or yellow tomatoes.</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Readers are invited to submit questions by mail to Question, Science Times, The New York Times, 229 West 43rd Street, New York, N.Y. 10036-3959, or by e-mail to question@nytimes.com.</p>
+        <p>Q&amp;A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

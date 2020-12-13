@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lucent and MapInfo to Sell Location-Based Web Services</title>
+    <meta content="25MAP" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/25/technology/25MAP.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1233627"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Cellular Telephones</classifier>
+        <org class="indexing_service">Lucent Technologies</org>
+        <org class="indexing_service">MapInfo Corp</org>
+        <person class="indexing_service">Romero, Simon</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000925T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E0D6173AF936A1575AC0A9669C8B63" item-length="432" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lucent and MapInfo to Sell Location-Based Web Services</hl1>
+      </hedline>
+      <byline class="print_byline">By SIMON ROMERO</byline>
+      <byline class="normalized_byline">Romero, Simon</byline>
+      <abstract>
+        <p>Lucent Technologies and MapInfo Corp plan to jointly develop location-based services for wireless Internet industry; will package services and sell them to network carriers, not individual consumers; will make services available for mobile phones and hand-held devices (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Responding to a growing sector of the wireless Internet industry, Lucent Technologies and the MapInfo Corporation are expected to announce today that they will jointly develop location-based services for mobile communications devices.</p>
+        <p>Location-based services are one of the fastest-growing and most heavily promoted parts of the wireless Internet industry. According to one example of technology that companies like  MapInfo, Lucent and others are developing, a cell-phone user would be alerted when near a restaurant serving a cuisine he or she likes and would be provided the chance to view the menu and make reservations.</p>
+      </block>
+      <block class="full_text">
+        <p>Responding to a growing sector of the wireless Internet industry, Lucent Technologies and the MapInfo Corporation are expected to announce today that they will jointly develop location-based services for mobile communications devices.</p>
+        <p>Location-based services are one of the fastest-growing and most heavily promoted parts of the wireless Internet industry. According to one example of technology that companies like  MapInfo, Lucent and others are developing, a cell-phone user would be alerted when near a restaurant serving a cuisine he or she likes and would be provided the chance to view the menu and make reservations.</p>
+        <p>MapInfo, based in Troy, N.Y., develops software to let businesses use geography to analyze their markets.  Lucent, based in Murray Hill, N.J., is a leading maker of communications equipment.</p>
+        <p>While concerns over individual privacy and the technical feasibility of location-based applications have been raised, some companies are betting that the advertising and revenue potential for wireless communications carriers will be substantial. Lucent and MapInfo plan to package their services and sell them to network carriers instead of to individual consumers.</p>
+        <p>''We'll provide the picks and shovels to make the pinpointing of a consumer globally an attractive option,'' Mark Cattini, president of MapInfo, said in a telephone interview.</p>
+        <p>MapInfo and Lucent plan to base their services on existing technical formats that are more common in Europe than the United States -- like the wireless application protocol, or WAP, and the global standard for mobile communications, or G.S.M. The companies plan to make their services available for mobile phones and Palm hand-held devices.</p>
+        <p>''There's been concern over the fortune spent on wireless licenses in Europe, so we're presenting carriers there with a way to recoup some of their costs,'' said Stacey J. Gelman, Lucent's vice president for mobile Internet operations.</p>
+        <p>Eventually, the companies plan to upgrade their services to be made compatible with the next generation of wireless formats expected to appear over the next several years. The next generation of formats may allow for much faster wireless Internet access, but the slow pace of the rollout has been a stumbling block for companies seeking to develop wireless Internet applications.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Eroded Self</title>
+    <meta content="LTR125053" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204502"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <person class="indexing_service">Rosen, Jeffrey</person>
+        <person class="indexing_service">Salvi, Mafalda</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E2DB173CF937A35755C0A9669C8B63" item-length="133" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Eroded Self</hl1>
+      </hedline>
+      <abstract>
+        <p>Mafalda Salvi letter on Jeffrey Rosen's April 30 article notes that, based on recent searches, her own Internet marketing profile would be incorrect1</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Your article prompted me to take stock of my Internet use for the past year. I have searched topics on spinal stenosis for my 84-year-old neighbor, bought books on power tools and remodeling for my father, registered my cousin for a Krohn's disease newsletter and looked up information on snowboarding and ski resorts for my nephew. The way I see it, my Internet image is that of an 84-year-old woman with Krohn's disease and spinal stenosis who has an interest in power tools, remodeling and snowboarding. Good luck in targeting my purchasing habits.</p>
+      </block>
+      <block class="full_text">
+        <p>Your article prompted me to take stock of my Internet use for the past year. I have searched topics on spinal stenosis for my 84-year-old neighbor, bought books on power tools and remodeling for my father, registered my cousin for a Krohn's disease newsletter and looked up information on snowboarding and ski resorts for my nephew. The way I see it, my Internet image is that of an 84-year-old woman with Krohn's disease and spinal stenosis who has an interest in power tools, remodeling and snowboarding. Good luck in targeting my purchasing habits.</p>
+        <p>I'm sorry to say that I have stopped sending personal e-mail messages to friends and family. And that is unfortunate.</p>
+        <p>Mafalda Salvi  Fort Lee, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

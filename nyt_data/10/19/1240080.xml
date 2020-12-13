@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>LOSS WIDENS AT COVAD</title>
+    <meta content="MB003715" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1240080"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY BRIEFING: TELECOMMUNICATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <org class="indexing_service">Covad Communications Group</org>
+        <person class="indexing_service">Romero, Simon</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001019T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905EEDB123EF93AA25753C1A9669C8B63" item-length="145" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>LOSS WIDENS AT COVAD</hl1>
+      </hedline>
+      <byline class="print_byline">By Simon Romero</byline>
+      <byline class="normalized_byline">Romero, Simon</byline>
+      <abstract>
+        <p>Covad Communications reports third-quarter loss of $190 million, more than three times its loss in period a year earlier; graph (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Burdened by overdue payments for its high-speed Internet services, Covad Communications reported a third-quarter loss of $190 million, or $1.22 a share, more than three times its loss in the period a year earlier. The company attributed the results to late payments from nine large clients. Several brokerage firms downgraded their recommendations on Covad stock to hold from buy, and the shares dropped 59 percent, to $3.56. Covad's difficulties underscore how numerous providers of broadband services are coming under financial strain even as they aggressively expand their customer bases and increase their revenue.</p>
+        <p>Simon Romero</p>
+      </block>
+      <block class="full_text">
+        <p>Burdened by overdue payments for its high-speed Internet services, Covad Communications reported a third-quarter loss of $190 million, or $1.22 a share, more than three times its loss in the period a year earlier. The company attributed the results to late payments from nine large clients. Several brokerage firms downgraded their recommendations on Covad stock to hold from buy, and the shares dropped 59 percent, to $3.56. Covad's difficulties underscore how numerous providers of broadband services are coming under financial strain even as they aggressively expand their customer bases and increase their revenue.</p>
+        <p>Simon Romero</p>
+        <p>TECHNOLOGY BRIEFING: TELECOMMUNICATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

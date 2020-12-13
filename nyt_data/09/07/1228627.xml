@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="07CMPBRFS" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1228627"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000907T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E3DB1539F934A3575AC0A9669C8B63" item-length="270" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FAIRCHILD SEMICONDUCTOR CORP., South Portland, Me., whose chips are used in cellular phones, air bags and personal computers, agreed to buy the closely held Kota Microcircuits Inc., based in Loveland, Colo., and the Power Management unit of Micro Linear, based in San Jose, Calif., for $21 million in stock and cash.</p>
+      </block>
+      <block class="full_text">
+        <p>FAIRCHILD SEMICONDUCTOR CORP., South Portland, Me., whose chips are used in cellular phones, air bags and personal computers, agreed to buy the closely held Kota Microcircuits Inc., based in Loveland, Colo., and the Power Management unit of Micro Linear, based in San Jose, Calif., for $21 million in stock and cash.</p>
+        <p>ROYAL DUTCH/SHELL GROUP, London, the world's second-largest oil and gas company, said it would sell its Kraton polymers unit to divest itself of a noncore asset. The price was not disclosed. The buyer is Ripplewood Holdings L.L.C., a private equity investment firm based in New York.</p>
+        <p>NORTHPOINT COMMUNICATIONS GROUP, San Francisco, a provider of digital subscriber line service, said it had received a $150 million cash investment from Verizon Communications, the country's largest wireless service provider.</p>
+        <p>NORTH CAROLINA NATURAL GAS, Raleigh, N.C., a unit of CP&amp;L Energy Inc., agreed to sell its propane division to the closely held Jenkins Gas and Oil Co. for an undisclosed price.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

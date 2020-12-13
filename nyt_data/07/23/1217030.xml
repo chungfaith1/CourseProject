@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MEAT PACKER CHARGED</title>
+    <meta content="MB020853" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1217030"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BRIEFING: POLLUTION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Water Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Meat</classifier>
+        <location class="indexing_service">Salem County (Nj)</location>
+        <org class="indexing_service">Salem Packing Co</org>
+        <person class="indexing_service">Suhay, Lisa</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Meat</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000723T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E4DB173AF930A15754C0A9669C8B63" item-length="191" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MEAT PACKER CHARGED</hl1>
+      </hedline>
+      <byline class="print_byline">By Lisa Suhay</byline>
+      <byline class="normalized_byline">Suhay, Lisa</byline>
+      <abstract>
+        <p>Owner of Salem Packing Co in Salem County, NJ, is indicted for third time in 14 years for violating state environmental regulations by dumping blood, byproducts and animal waste and contamination on neighboring properties and into nearby rivers and streams (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The owner of a  slaughterhouse in Salem County has been charged for the third time in 14 years for environmental violations.</p>
+        <p>In the indictment issued last week, the state attorney general charged that the slaughterhouse, the Salem Packing Company, turned neighboring properties into rivers of blood, byproducts and animal waste and contaminated nearby rivers and streams.</p>
+      </block>
+      <block class="full_text">
+        <p>The owner of a  slaughterhouse in Salem County has been charged for the third time in 14 years for environmental violations.</p>
+        <p>In the indictment issued last week, the state attorney general charged that the slaughterhouse, the Salem Packing Company, turned neighboring properties into rivers of blood, byproducts and animal waste and contaminated nearby rivers and streams.</p>
+        <p>In addition, officials from the Department of Environmental Protection have cited Mr. Bonaccurso at least four times in the last 15 years for major incidents of ''dumping out the back door'' that have resulted in criminal or civil action, said Glenn Braswell, the assistant public health officer in Salem County.</p>
+        <p>Mr. Bonaccurso could not be reached for comment.</p>
+        <p>Lisa Suhay</p>
+        <p>BRIEFING: POLLUTION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

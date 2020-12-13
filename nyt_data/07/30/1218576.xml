@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Little Princess</title>
+    <meta content="LTR103054" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1218576"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Beauty Contests</classifier>
+        <classifier class="indexing_service" type="descriptor">CHILDREN AND YOUTH</classifier>
+        <person class="indexing_service">Stevens, Dotti-Dawn</person>
+        <person class="indexing_service">Finley, Lynn</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beauty</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beauty Contests</classifier>
+        <classifier class="online_producer" type="general_descriptor">Contests and Prizes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000730T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E0DE133AF933A05754C0A9669C8B63" item-length="96" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Little Princess</hl1>
+      </hedline>
+      <abstract>
+        <p>Lynn Finley letter holds photos in July 9 Lives column show how misguided parents sow seeds of future therapy sessionst</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Only Diane Arbus could have done a better job than Deirdre Brennan of capturing the perverse and macabre nature of her subject. Unsure as to whether this was a spoof or the real thing, I concluded that only real life could be so bizarre. The photographs clearly portray how misguided parenting sows the seeds of future therapy sessions.</p>
+        <p>Lynn Finley  Delmar, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>Only Diane Arbus could have done a better job than Deirdre Brennan of capturing the perverse and macabre nature of her subject. Unsure as to whether this was a spoof or the real thing, I concluded that only real life could be so bizarre. The photographs clearly portray how misguided parenting sows the seeds of future therapy sessions.</p>
+        <p>Lynn Finley  Delmar, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

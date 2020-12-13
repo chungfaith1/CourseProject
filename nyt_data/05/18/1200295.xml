@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Study Reveals Web As Loosely Woven</title>
+    <meta content="18WEBB" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200295"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <person class="indexing_service">Austen, Ian</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000518T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E5DC163AF93BA25756C0A9669C8B63" item-length="1285" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Study Reveals Web As Loosely Woven</hl1>
+      </hedline>
+      <byline class="print_byline">By IAN AUSTEN</byline>
+      <byline class="normalized_byline">Austen, Ian</byline>
+      <abstract>
+        <p>Sweeping new study of Web links, hypertext that lets user leap from page to page, upsets widely held view that Web lets you get from one page to another pretty quickly; finds links often prove to be trips to nowhere; finds users trying to reach specific site using only links will fail some 75 percent of time; says only about 28 percent of all sites are strongly connected to rest of Web, with substantial number of links to and from other sites; those more weakly connected are likely to evade Web crawlers used by search engines, meaning Web surfers cannot rely on search engines to reach many sites; photo; diagram (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WEB idealists and online merchants like to think that the World Wide Web is, like its name suggests, an interconnected global bazaar of ideas and products, a place where the answers to any question or want is only a few clicks away.</p>
+        <p>But a sweeping new study of the Web -- the largest ever undertaken -- paints a very different picture. The impression that emerges is less like an elaborately interwoven community and more like the vast bureaucracy in Kafka's ''Castle'': a mountain of disconnected information, lost files and frustrating dead ends.</p>
+      </block>
+      <block class="full_text">
+        <p>WEB idealists and online merchants like to think that the World Wide Web is, like its name suggests, an interconnected global bazaar of ideas and products, a place where the answers to any question or want is only a few clicks away.</p>
+        <p>But a sweeping new study of the Web -- the largest ever undertaken -- paints a very different picture. The impression that emerges is less like an elaborately interwoven community and more like the vast bureaucracy in Kafka's ''Castle'': a mountain of disconnected information, lost files and frustrating dead ends.</p>
+        <p>''There was an assumption when we started that the Web was like a ball of spaghetti that allowed you to get from one page to another pretty quickly,'' said Andrew Tomkins, a researcher at I.B.M.'s Almaden Research Center in San Jose, Calif., who worked on the study. ''This is a real surprise. It's just not what you would have expected.''</p>
+        <p>The study, which was presented this week at conferences in Amsterdam and Dallas, focused on Web links, the characteristically underlined pieces of hypertext that allow users to leap from page to page. The study looked at roughly 200 million Web pages (about one-fifth of the estimated current Web) and the five billion links to and from each page.</p>
+        <p>What the researchers found was that more often than not, links are a trip to nowhere. ''Most of the time, it's not the case that you can get anywhere from anywhere on the Web,'' Dr. Tomkins said. ''There's no point at all in even trying. It's a lot tougher than we thought to get around.''</p>
+        <p>Among the study's conclusions:</p>
+        <p>* Users trying to reach a specific destination using only links will fail three-quarters of the time.</p>
+        <p>* Only about 28 percent of all Web sites are what the study calls ''strongly connected'' to the rest of the Web -- sites with a substantial number of links to and from other sites.</p>
+        <p>* The theory of six degrees of separation exists on the Web except that the number is somewhat higher. It takes, on average, 16 mouse clicks to get from one strongly connected page to another.</p>
+        <p>Links, of course, are only one tool for surfing the Web. But, the authors argue, links are as integral to the Web -- and as popular -- as search engines. ''The opportunity to find yourself somewhere totally unexpected through links is a big part of the Web's attraction,'' Dr. Tomkins said. ''The dogma is that this is what's really made the Web into the Web instead of a big, distributed database.''</p>
+        <p>Raymie Stata, a researcher at Compaq and an author of the study, agreed that ineffective links weaken the Web's appeal. ''If we didn't have links, the Web would basically be the Lexis-Nexis collection,'' he said, referring to a popular commercial database of corporate news, newspaper and magazine articles and legal decisions. ''The average person wouldn't find that a compelling experience.''</p>
+        <p>Beyond the frustrations of a weakly linked Web, the survey's results are important for another reason. The Web crawlers that search engines use to explore the Web also use links to determine the value of a particular page. The large number of elusive or weakly linked sites will also elude Web crawlers, meaning that surfers who rely on search engines ''probably won't be able to reach substantial portions of the Web,'' said Andrei Broder, a vice president for research at the AltaVista Company and a member of the research group.</p>
+        <p>Until the release of this study, which was conducted by the International Business Machines Corporation in cooperation with the Compaq Systems Research Center and AltaVista, most descriptions of the Web were based on fairly small samples.</p>
+        <p>The researchers began with fairly modest ambitions, hoping to compile statistical tables about links and possibly answer some fairly obscure questions of interest only to people building search engines. But the group had at hand some exceptionally powerful research tools. One was a Compaq AlphaServer 4100 computer that had a staggering 12 gigabytes of random access memory. The other was access to the usually closely guarded efforts of Scooter, AltaVista's Web crawler. Normally the results of Scooter's efforts are analyzed by AltaVista for its content. But for this study, Dr. Tomkins said, ''we threw the words away and only looked at the links.''</p>
+        <p>The research group was also able to analyze how many links pointed to a particular page and determine which pages were particularly attractive link targets.</p>
+        <p>A surprising pattern formed almost immediately. ''About half the time, we'd follow all the links from a page and the whole thing would peter out fairly quickly,'' Dr. Tomkins said. ''The other half of the time, the list of links would grow and grow and eventually we'd find 100 million other pages -- half of the whole universe.''</p>
+        <p>Out of this analysis, the researchers compiled a new map of the Web, one that looks less like an interconnected web and more like a bow tie. The most connected pages -- the roughly 56 million in the center knot -- link to pages on either side as well as one another. These include portals like Yahoo, large corporate sites like Microsoft's and popular news and entertainment destinations.</p>
+        <p>The pages in the knot link directly to what the study calls ''the introverts'' in the right side of the bow. But those 44 million pages  do not have any links back to the center. Dr. Broder said that there were many e-commerce sites in this wallflower group because they frequently do not include external links on the theory that the longer they keep shoppers trapped, the more the shoppers will spend. Similarly, intranets -- corporate sites intended mainly for employee use -- generally do not link outward.</p>
+        <p>In the left side of the bow is a far more elusive group of 44 million relatively recent pages -- the newbies. They link to the powerhouse sites in the middle. But the powerhouses, probably because they do not know the newbies exist, do not have links back into the left side the bow.</p>
+        <p>Outside the bow tie are the least connected Web pages of all. The study estimates that another 44 million pages -- the tendrils -- have links only to the newbies or the introverts and have no direct ties to the most popular parts of the Web. Beyond the tendrils, about 5 percent of all pages sit in total isolation, with no links whatsoever.</p>
+        <p>''It seemed reasonable to assume that a fairly high mass of the Web was connected,'' Dr. Broder said. ''But this is a fascinating picture.''</p>
+        <p>For Web surfers, a better word might be frustrating. ''From the point of view of a surfer, links are useful. But there's no way that just by clicking, you're going to get to all the places you're going to go,'' Dr. Broder said.</p>
+        <p>So far the research group has run its experiment three times using data from three crawls -- the first in May 1999 and the latest earlier this year. That is not really enough data to predict a trend, Dr. Broder said.</p>
+        <p>But there has been a slight increase in the relative number of sites in the connected core. ''Maybe everyone's original concept of the Web will be borne out,'' Dr. Stata speculated. ''It just might be 10 years late.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

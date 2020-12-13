@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NEW WIRELESS SERVICE PLANNED</title>
+    <meta content="MB005315" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1231911"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY BRIEFING: DIGITAL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <org class="indexing_service">ScreamingMedia</org>
+        <org class="indexing_service">Oracle Corp</org>
+        <person class="indexing_service">Romero, Simon</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000919T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E5DB143BF93AA2575AC0A9669C8B63" item-length="118" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NEW WIRELESS SERVICE PLANNED</hl1>
+      </hedline>
+      <byline class="print_byline">By Simon Romero</byline>
+      <byline class="normalized_byline">Romero, Simon</byline>
+      <abstract>
+        <p>ScreamingMedia, company that gathers content like news stories and photos and filters it into client Web sites, is expected to announce plans to provide wireless services for its network of 2,800 content providers and 1,100 subscribers; in deal with OracleMobile, wireless Internet subsidiary of Oracle Corp, ScreamingMedia will develop and operate wireless services for media companies (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ScreamingMedia, a company that gathers content like news stories and photos and filters it into client Web sites, is expected to announce plans today to provide wireless services for its network of about 2,800 content providers and 1,100 subscribers. In a deal with OracleMobile, a wireless Internet subsidiary of the Oracle Corporation, a software company, ScreamingMedia will develop and operate wireless services for media companies.</p>
+        <p>Simon Romero</p>
+      </block>
+      <block class="full_text">
+        <p>ScreamingMedia, a company that gathers content like news stories and photos and filters it into client Web sites, is expected to announce plans today to provide wireless services for its network of about 2,800 content providers and 1,100 subscribers. In a deal with OracleMobile, a wireless Internet subsidiary of the Oracle Corporation, a software company, ScreamingMedia will develop and operate wireless services for media companies.</p>
+        <p>Simon Romero</p>
+        <p>TECHNOLOGY BRIEFING: DIGITAL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

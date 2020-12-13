@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Dignified Death</title>
+    <meta content="LTR230004" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1207102"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Death and Dying</classifier>
+        <person class="indexing_service">pasley, peter m (dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Death and Dying</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E2DC153EF930A25755C0A9669C8B63" item-length="170" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Dignified Death</hl1>
+      </hedline>
+      <abstract>
+        <p>Dr Peter M Pasley letter on May 29 and 30 articles on planning for death notes dying patients and their families often want inappropriately aggressive treatment</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Nearing the end of my training at St. Vincent's Hospital, I am all too aware of the difficulties inherent in taking care of very sick patients (''Planning for Death''). The sincere desire to do the right thing is tempered by the reality that dying is never easy.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Nearing the end of my training at St. Vincent's Hospital, I am all too aware of the difficulties inherent in taking care of very sick patients (''Planning for Death''). The sincere desire to do the right thing is tempered by the reality that dying is never easy.</p>
+        <p>But in my few years as a physician I have regularly seen patients or their families wanting aggressive measures when the doctor believes a less heroic approach is in order. Perhaps people will eventually come to appreciate that many doctors no longer believe that doing everything possible to keep a patient alive is always the right thing to do. But the real problem we face is knowing when to say enough and how to then begin to say goodbye.</p>
+        <p>DR. PETER M. PASLEY  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

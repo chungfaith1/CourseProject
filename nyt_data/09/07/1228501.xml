@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Search Technology Will Allow Normal Language</title>
+    <meta content="07GEE2" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/07/technology/07GEE2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1228501"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Public Broadcasting Service</org>
+        <org class="indexing_service">LexiQuest</org>
+        <person class="indexing_service">Guernsey, Lisa</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000907T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E1DD1439F934A3575AC0A9669C8B63" item-length="222" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Search Technology Will Allow Normal Language</hl1>
+      </hedline>
+      <byline class="print_byline">By LISA GUERNSEY</byline>
+      <byline class="normalized_byline">Guernsey, Lisa</byline>
+      <abstract>
+        <p>Public Broadcasting Service's Web site to unveil new search technology that is among first to do linguistic analysis of searcher's query instead of simply relying on matching keywords with words in document; LexiQuest developed technology (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Searching within Web sites is often just as frustrating as searching the whole Web. Dead ends and unrelated links are common. But a new technology that is being unveiled this week on the Public Broadcasting Service's Web site could help change that.</p>
+        <p>The new search technology is among the first to do a linguistic analysis of a searcher's query instead of simply relying on matching keywords with words in a document. ''You can now ask questions the way you normally do, using your own words,'' said Bruno Henry, chief executive of LexiQuest, the company that developed the search technology.</p>
+      </block>
+      <block class="full_text">
+        <p>Searching within Web sites is often just as frustrating as searching the whole Web. Dead ends and unrelated links are common. But a new technology that is being unveiled this week on the Public Broadcasting Service's Web site could help change that.</p>
+        <p>The new search technology is among the first to do a linguistic analysis of a searcher's query instead of simply relying on matching keywords with words in a document. ''You can now ask questions the way you normally do, using your own words,'' said Bruno Henry, chief executive of LexiQuest, the company that developed the search technology.</p>
+        <p>For example, Mr. Henry said, in the past when someone typed something like, ''I want to find information on myths in American culture,'' the person was unlikely to get useful results. The words of the query were too vague and had multiple meanings. But with the new technology, Mr. Henry said, that query would be read by software trained to look for the context of the sentence.</p>
+        <p>Dave Johnston, senior director of technology for PBS.org, said he expected that the new technology would help uncover ''a wealth of content that is not uncovered by the typical user.'' And it will solve another big problem, too: it will forgive misspellings of a keyword favorite: ''Antiques Roadshow.''</p>
+        <p>LISA GUERNSEY</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

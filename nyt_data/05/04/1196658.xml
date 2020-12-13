@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>As Gadgets Shrink, They May Wind Up in Surprising Places</title>
+    <meta content="04NEXT$01" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1196658"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WHAT'S NEXT"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/What's Next</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000504T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E4D81139F937A35756C0A9669C8B63" item-length="1058" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>As Gadgets Shrink, They May Wind Up in Surprising Places</hl1>
+      </hedline>
+      <byline class="print_byline">By ANNE EISENBERG</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE standard advice may be ''take two aspirin and call me in the morning.'' But it soon may become ''take these tablets and they will call me in the morning'' -- and in the afternoon and evening.</p>
+        <p>That is what some researchers are predicting for the fast-growing field of embedded computing -- a futuristic place of microscopic medical devices packaged in grains of medicine as small as grains of sand.</p>
+      </block>
+      <block class="full_text">
+        <p>THE standard advice may be ''take two aspirin and call me in the morning.'' But it soon may become ''take these tablets and they will call me in the morning'' -- and in the afternoon and evening.</p>
+        <p>That is what some researchers are predicting for the fast-growing field of embedded computing -- a futuristic place of microscopic medical devices packaged in grains of medicine as small as grains of sand.</p>
+        <p>Within the decade, some researchers say, patients will swallow these tiny grains, and down will go microscopic sensors, microscopic processors and microscopic radio transceivers, all part of a delivery and communications network.</p>
+        <p>The devices will, for instance, track a medical condition and release drugs to treat it while constantly sending wireless data transmissions on the patient's physiological responses to a portable server in the home. The data will then be sent via the Internet to the doctor.</p>
+        <p>This medicine will be more than smart -- it will be downright voluble. But it is only one practical application expected to come out of a future wave of embedded devices in wireless networks.</p>
+        <p>''Such applications are nearer to happening than even educated observers might think,'' said Dr. Gaetano Borriello, a professor in the department of computer science and engineering at the University of Washington in Seattle. He is a co-author of the article ''Embedded Computation Meets the World-Wide Web,'' which appears in a special section on embedded computing and the Internet in the May issue of Communications of the Association for Computing Machinery.</p>
+        <p>Embedded devices are already all around us. ''Ninety-eight percent of all processors we have on the planet are not in desktop systems,'' Dr. Borriello said in an interview.  ''They are, in fact, in cars, on factory floors, in homes.'' For example, he said, a dozen or so processors are found in an older car, a hundred or more in a newer one. These embedded devices are task-specific computers, he explained, ''so tailored that you don't think of them as computers -- for instance, the computer that controls your antilock brakes.''</p>
+        <p>But in the future, embedded devices will become even smaller and communicate wirelessly, as well as through wires, forming a universe of ubiquitous networked computing, said Dr. Borriello and many other researchers writing in the special issue. And one of the many applications of such networks would be for monitoring, medical and otherwise.</p>
+        <p>This future network of physically embedded computing devices that will be able to sense and communicate data is different in many ways from office networks of, say, linked laptops and handheld computers, or of cell phones that let users turn on their air-conditioning at home while they are turning from work.</p>
+        <p>Dr. Deborah Estrin, a co-editor of the journal's special section and a professor of computer science at the University of Southern California at Los Angeles, said: ''It's much more serious than whether your coffeepot is smart enough to talk to your refrigerator. This is the next dimension in scaling up the Internet.''</p>
+        <p>Dr. Estrin said there would soon be numberless small devices used as controls and monitors in fields as varied as agriculture and environmental sensing, with nary a human in the loop.</p>
+        <p>In medicine, embedded computers that will one day monitor blood sugar or oxygen levels in the bloodstream with unprecedented precision may be liberating, but they will also be quite nosy.</p>
+        <p>''I might want a program to keep track of my habits,'' Dr. Borriello said, ''but I might not necessarily want my physician to know when I've been a bad boy. I can imagine programs you buy along with a set of sensors you could wear so that information stays home instead of going directly to the physician.'' Patients might wear sensors in a belt or wristband and transfer information wirelessly to a home computer.''You could buy a health-o-meter program that would tell you how you were doing in the same way cars have diagnostics that tell them when to get serviced,'' he said.</p>
+        <p>Both Dr. Borriello and his co-author, Dr. Roy Want, a principal scientist and former manager at the embedded systems area in the Computer Science Laboratory at Xerox PARC, in Palo Alto, Calif.,  pointed to the profound issues of security and privacy that were bound to be raised by the networking of embedded computers.</p>
+        <p>''We will have to build these systems so that they have the capability for users to determine who sees the data,'' Dr. Borriello said. ''Right now we don't have that, and it's going to be a key issue.''</p>
+        <p>Dr. G. J. Pottie, an associate professor in the electrical engineering department at the University of California at Los Angeles and an expert in low-power wireless sensing, is one of the researchers working on the wireless integrated network sensors that will one day provide distributed network and Internet access for controls, processors and sensors embedded in equipment.</p>
+        <p>Such networks need to be self-organizing, Dr. Pottie said. ''We want the whole network to come up on its own without people having to configure any part of it,'' he added.</p>
+        <p>Dr. Borriello said one trend that would hasten the development of networks of embedded devices was the falling cost of wireless communications. The wireless chips that translate digital signals into radio waves and back again, called transceivers, are now comparable in cost to a microcontroller.</p>
+        <p>Industry consortiums are in the process of design standards for the wireless networking of embedded devices.</p>
+        <p>Both Drs. Want and Borriello said that many challenges remained before the interconnection of embedded processors became a reality. One pressing issue will be the concern about privacy.</p>
+        <p>''But predictable advances in chip fabrication, in microelectromechanical devices and in radio and sensor design are going to lead us inevitabvly into the world of ubiquitous computing,'' Dr. Borriello said. ''The major issues to solve are in software architecture, which lags far behind the hardware.''</p>
+        <p>WHAT'S NEXT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

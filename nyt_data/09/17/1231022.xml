@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Fiction</title>
+    <meta content="RV104357" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1231022"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Waggoner, Jeff</person>
+        <person class="indexing_service">Crowley, John</person>
+        <object.title class="indexing_service">Daemonomania (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000917T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01EEDB1339F934A2575AC0A9669C8B63" item-length="263" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Fiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Jeff Waggoner</byline>
+      <byline class="normalized_byline">Waggoner, Jeff</byline>
+      <abstract>
+        <p>Jeff Waggoner reviews book Daemonomania by John Crowley (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Daemonomania</p>
+        <p>By John Crowley.</p>
+        <p>Bantam, $24.95.</p>
+      </block>
+      <block class="full_text">
+        <p>Daemonomania</p>
+        <p>By John Crowley.</p>
+        <p>Bantam, $24.95.</p>
+        <p>Writing fantasy presumably gives a writer room to stretch, while readers have to stretch their own willingness to suspend disbelief. The best fantasy makes it easy to make that leap of faith. John Crowley's new novel, ''Daemonomania,'' is just brilliant enough in spots to make you want to understand what the connection is between the fate of Samantha Mucho, a young girl of modern times who suffers from inexplicable seizures, and the adventures of a group of 16th-century heretics and cabalists. But the novel never quite comes together. Samantha's father, Mike, gets legal custody of her and turns her care over to a fundamentalist group called the Powerhouse, which believes that, using the power of prayer, it can cure Sam and take her off her daily doses of phenobarbital. A plot is concocted by Sam's mother, Rosie, a believer in modern medicine, to steal Sam away. Crowley, whose novels include ''Little, Big'' and the ''Aegypt'' series, interleaves Sam's story with those of the ancient black arts of alchemy and the more modern story of the struggle between faith and reason. The author seems to be asking if there is a real difference between the visions of the ancient alchemists and today's prayers and medicines. In the process, Crowley stirs his pot mightily, but provides no clear answers. ''Daemonomania'' is the work of a talented writer who, in this case, seems to work a kind of reverse alchemy -- turning potential narrative gold into lesser materials.</p>
+        <p>Jeff Waggoner</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

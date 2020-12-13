@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nothing New</title>
+    <meta content="LTR035520" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1238962"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="INTERACTIVE THEATER"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001015T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E5D6153FF936A25753C1A9669C8B63" item-length="110" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nothing New</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Audiences getting into the act in theaters is certainly not new. Fifteen years ago the audience determined what happened onstage in ''Edwin Drood.'' The musical, based on Charles Dickens's largely unfinished ''The Mystery of Edwin Drood,'' gave the audience a number of choices for the mystery's solution. The cast responded with appropriate closing action.</p>
+        <p>HARRY THEMAL  Ardentown, Del.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Audiences getting into the act in theaters is certainly not new. Fifteen years ago the audience determined what happened onstage in ''Edwin Drood.'' The musical, based on Charles Dickens's largely unfinished ''The Mystery of Edwin Drood,'' gave the audience a number of choices for the mystery's solution. The cast responded with appropriate closing action.</p>
+        <p>HARRY THEMAL  Ardentown, Del.</p>
+        <p>INTERACTIVE THEATER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

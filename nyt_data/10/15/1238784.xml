@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Children's Books</title>
+    <meta content="RV075409" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="31" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1238784"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Tabourin, Emily-Greta</person>
+        <person class="indexing_service">Bradbury, Ray</person>
+        <person class="indexing_service">Dillon, Leo</person>
+        <person class="indexing_service">Dillon, Diane</person>
+        <object.title class="indexing_service">Switch On the Night (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Columns/Children's Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001015T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E3DC143CF936A25753C1A9669C8B63" item-length="242" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Children's Books</hl1>
+      </hedline>
+      <byline class="print_byline">By Emily-Greta Tabourin</byline>
+      <byline class="normalized_byline">Tabourin, Emily-Greta</byline>
+      <abstract>
+        <p>Emily-Greta Tabourin reviews children's book Switch On the Night by Ray Bradbury, illustrated by Leo and Diane Dillon (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SWITCH ON THE NIGHT</p>
+        <p>By Ray Bradbury.</p>
+        <p>Illustrated by Leo and Diane Dillon.</p>
+        <p>Knopf, $14.95. (Ages 2 to 7)</p>
+      </block>
+      <block class="full_text">
+        <p>SWITCH ON THE NIGHT</p>
+        <p>By Ray Bradbury.</p>
+        <p>Illustrated by Leo and Diane Dillon.</p>
+        <p>Knopf, $14.95. (Ages 2 to 7)</p>
+        <p>Nearly half a century ago, anticipating the birth of his first child, and drawing on his own childhood anxiety, Ray Bradbury turned from science fiction to a children's story about a young boy's fear of the dark. He longs to join the other children in their nighttime games outside on the ''summer-night lawns.'' Instead, to assuage his fear, he spends his time inside collecting ''lanterns and lamps'' and ''flashlights and flares'' the way other children collect baseball cards and Barbie dolls.</p>
+        <p>The boy encounters Dark, a girl who introduces him to the marvels that can be seen only at night. When you switch off the lights, ''you switch on the Night,'' and then the wonder begins. And then, says Dark, ''Why, you switch on the crickets! And you switch on the frogs!'' Dark and the boy roam through the house, turning out every light, and turning on the nocturnal spectacles.</p>
+        <p>Leo and Diane Dillon, two-time winners of the Caldecott Medal, have updated the tale with evocative illustrations inspired by M. C. Escher. Their Dark is an African-American girl with an enormous halo-like Afro, adding a multicultural twist to the original text.</p>
+        <p>Emily-Greta Tabourin</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Cow Parade</title>
+    <meta content="L16COW$01" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215421"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Sculpture</classifier>
+        <person class="indexing_service">Spitzer, Barbara</person>
+        <person class="indexing_service">Boxer, Sarah</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sculpture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E3DD143BF935A25754C0A9669C8B63" item-length="155" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Cow Parade</hl1>
+      </hedline>
+      <abstract>
+        <p>Barbara Spitzer letter rebuts Sarah Boxer's July 12 Critic's Notebook column, which took jabs at New York City area's cow sculptures (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I think most New Yorkers, as well as residents of Connecticut and New Jersey, can appreciate the difference between street art and a museum exhibition, so I was surprised by Sarah Boxer's jabs at the New York City area's cow parade (''Cattle Are Standin' Like Statues: Isn't It Time to Put Those Fiberglass Visitors Out to Pasture?'', Critic's Notebook, July 12).</p>
+        <p>Artists who need money get paid, the companies that sponsor the cows get advertising, viewers are amused and charities ultimately benefit handsomely when the cows are auctioned.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I think most New Yorkers, as well as residents of Connecticut and New Jersey, can appreciate the difference between street art and a museum exhibition, so I was surprised by Sarah Boxer's jabs at the New York City area's cow parade (''Cattle Are Standin' Like Statues: Isn't It Time to Put Those Fiberglass Visitors Out to Pasture?'', Critic's Notebook, July 12).</p>
+        <p>Artists who need money get paid, the companies that sponsor the cows get advertising, viewers are amused and charities ultimately benefit handsomely when the cows are auctioned.</p>
+        <p>It seems to me that's a win-win-win situation.</p>
+        <p>BARBARA SPITZER  Woodcliff Lake, N.J., July 12, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

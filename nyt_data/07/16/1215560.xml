@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ideas &amp; Trends; Cloak, Dagger, Echelon</title>
+    <meta content="ZELART" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215560"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Espionage</classifier>
+        <classifier class="indexing_service" type="descriptor">Satellites</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Zeller, Tom</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Satellites</classifier>
+        <classifier class="online_producer" type="general_descriptor">Espionage</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502EFD6153BF935A25754C0A9669C8B63" item-length="883" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ideas &amp; Trends; Cloak, Dagger, Echelon</hl1>
+      </hedline>
+      <byline class="print_byline">By Tom Zeller</byline>
+      <byline class="normalized_byline">Zeller, Tom</byline>
+      <abstract>
+        <p>Reasonable debate over Echelon surveillance cooperative is complicated by nonsensical exaggerations of its capabilities; Echelon cooperative operates network of ground stations that gather data from the dozen or so satellites that carry most of word's television, fax, Internet and voice traffic; high-capacity computers allow millions of signals an hour to be intercepted and scanned for key words; map, diagram (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHAT else but the shadow of Big Brother could provoke equal anger from the American Civil Liberties Union, thousands of Internet enthusiasts and the French government? And what else but the elusive magic of digital communications could make that shadow so mysterious?</p>
+        <p>The specter is Echelon, the not-so-supersecret surveillance cooperative that grew out of a cold-war agreement between Britain and the United States to share intelligence data, and that now includes Canada, Australia and New Zealand. The European Union has been sufficiently unnerved by Echelon to commission two reports on its capabilities. And earlier this month a French prosecutor began a preliminary investigation into whether the surveillance network is engaged in economic espionage. Here at home, Representative Bob Barr, Republican of Georgia, has been pressing the National Security Agency to demonstrate that Echelon does not spy on ordinary Americans.</p>
+      </block>
+      <block class="full_text">
+        <p>WHAT else but the shadow of Big Brother could provoke equal anger from the American Civil Liberties Union, thousands of Internet enthusiasts and the French government? And what else but the elusive magic of digital communications could make that shadow so mysterious?</p>
+        <p>The specter is Echelon, the not-so-supersecret surveillance cooperative that grew out of a cold-war agreement between Britain and the United States to share intelligence data, and that now includes Canada, Australia and New Zealand. The European Union has been sufficiently unnerved by Echelon to commission two reports on its capabilities. And earlier this month a French prosecutor began a preliminary investigation into whether the surveillance network is engaged in economic espionage. Here at home, Representative Bob Barr, Republican of Georgia, has been pressing the National Security Agency to demonstrate that Echelon does not spy on ordinary Americans.</p>
+        <p>But what is Echelon exactly? Most of what is known comes from recycled reports in the news media, but enough evidence has surfaced, including documents released by the N.S.A. under the Freedom of Information Act, that the existence of Echelon is rarely questioned.</p>
+        <p>At its core, Echelon is a network of ground stations with dishes aimed at the dozen or so satellites that now shepherd much of the world's television, fax, Internet and voice data. High-capacity computers allow millions of signals per hour to be intercepted and scanned for keywords of interest to each country's intelligence community.</p>
+        <p>That agencies like the N.S.A. are mining the spill-off from those satellites should come as no surprise, according to John Pike, a policy analyst for the Federation of American Scientists. ''You've got heaping piles of information just sitting up there, all for the price of a satellite dish.''</p>
+        <p>Questions about how that information is used, and whether or not laws are being violated, are driving the current debate, which is itself clouded by hyperbolic estimates of Echelon's capabilities. A British Web site, for example, seeks to expose Echelon as a source of ''psychotronic attacks'' and ''mind control experimentation.'' Several other sites claim that Echelon is capable of collecting and processing every e-mail message, every phone call and every fax on the planet.</p>
+        <p>''I would be very skeptical that the N.S.A. could or even would try to process every bit of data out there,'' said Dr. Jeffery Richelson, a senior fellow at the National Security Archives. ''It makes sense to question how information they do gather is used, but the hysterical idea that the N.S.A. really cares about the e-mail conversations of everyday citizens is bottom-line nonsense. What everyone is worried about doesn't really exist.''</p>
+        <p>''Of course,'' he added, ''50 years from now it could.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

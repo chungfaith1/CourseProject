@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR232237" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1205542"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">Manhattan School of Music</org>
+        <org class="indexing_service">Quartet West (Music Group)</org>
+        <person class="indexing_service">Haden, Charlie</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E1D8153FF934A35755C0A9669C8B63" item-length="57" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of jazz review on June 6 reviews about performance by bassist Charlie Haden and his group, Quartet West, and chamber orchestra from Manhattan School of Music</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A jazz review yesterday about a performance on Friday by the bassist Charlie Haden with his group, Quartet West, and a chamber orchestra from the Manhattan School of Music misidentified the arranger for the music on the program, titled ''The Art of the Song.'' He was Alan Broadbent, not Mr. Haden.</p>
+      </block>
+      <block class="full_text">
+        <p>A jazz review yesterday about a performance on Friday by the bassist Charlie Haden with his group, Quartet West, and a chamber orchestra from the Manhattan School of Music misidentified the arranger for the music on the program, titled ''The Art of the Song.'' He was Alan Broadbent, not Mr. Haden.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

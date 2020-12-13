@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="09INSI$02" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1221328"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000809T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E4DD1F3CF93AA3575BC0A9669C8B63" item-length="188" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Reform Party Leaders Split</p>
+        <p>A Reform Party faction opposed to Patrick J. Buchanan's candidacy stormed out of a meeting and may form a new party.</p>
+        <p>PAGE A19</p>
+      </block>
+      <block class="full_text">
+        <p>Reform Party Leaders Split</p>
+        <p>A Reform Party faction opposed to Patrick J. Buchanan's candidacy stormed out of a meeting and may form a new party.</p>
+        <p>PAGE A19</p>
+        <p>Tire Recall Expected</p>
+        <p>In response to safety concerns, a recall of millions of Firestone tires used on S.U.V.'s and light trucks is expected today.</p>
+        <p>PAGE C18</p>
+        <p>Fires Rage Across the West</p>
+        <p>Forest Service officials are scrambling to find the resources to combat the worst fire season in more than 50 years.</p>
+        <p>PAGE A12</p>
+        <p>Rising Fuel Prices Hit Home</p>
+        <p>Millions of lower-income Americans hurt by the spike in gasoline prices are reducing what they eat to make ends meet.</p>
+        <p>PAGE A14</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>So It Goes</title>
+    <meta content="LTR085213" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208068"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOKS AND LITERATURE</classifier>
+        <classifier class="indexing_service" type="descriptor">BOOKS AND LITERATURE</classifier>
+        <org class="indexing_service">Amazon.Com Inc</org>
+        <org class="indexing_service">United States Military Academy (West Point, Ny)</org>
+        <person class="indexing_service">Grant, David</person>
+        <person class="indexing_service">Hafner, Katie</person>
+        <person class="indexing_service">Vonnegut, Kurt Jr</person>
+        <object.title class="indexing_service">Slaughterhouse-Five (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5D6133FF93BA25755C0A9669C8B63" item-length="250" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>So It Goes</hl1>
+      </hedline>
+      <abstract>
+        <p>David Grant letter on Katie Hafner's May 21 essay poking fun at Amazon.com's purchase circles finds it interesting that Kurt Vonnegut's Slaughterhouse-Five is popular among West Point cadets0</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In her essay ''Navigating the Amazon Circle'' (May 21), Katie Hafner makes fun of Amazon.com's purchase circles, which tell you what groups are interested in a given book and what other books a given group seems to like. I agree that most of what turns up in such ''data dicing'' exercises is likely to be trivial, but I recently found a tidbit I consider meaningful. I was ordering a copy of Kurt Vonnegut's ''Slaughterhouse-Five'' for a bat mitzvah present, and I saw that it was popular at the United States Military Academy. I clicked up the top 20 books ordered at West Point, and mixed in with ''The Art of War,'' ''The Face of War,'' some World War II memoirs and books on physical fitness was Vonnegut's book, which could have been titled ''The Face of Massacre.'' I find it very comforting to think that even a smattering of the cadets at West Point might be giving some thought to what it's like when war goes crazy.</p>
+        <p>David Grant</p>
+        <p>San Antonio</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In her essay ''Navigating the Amazon Circle'' (May 21), Katie Hafner makes fun of Amazon.com's purchase circles, which tell you what groups are interested in a given book and what other books a given group seems to like. I agree that most of what turns up in such ''data dicing'' exercises is likely to be trivial, but I recently found a tidbit I consider meaningful. I was ordering a copy of Kurt Vonnegut's ''Slaughterhouse-Five'' for a bat mitzvah present, and I saw that it was popular at the United States Military Academy. I clicked up the top 20 books ordered at West Point, and mixed in with ''The Art of War,'' ''The Face of War,'' some World War II memoirs and books on physical fitness was Vonnegut's book, which could have been titled ''The Face of Massacre.'' I find it very comforting to think that even a smattering of the cadets at West Point might be giving some thought to what it's like when war goes crazy.</p>
+        <p>David Grant</p>
+        <p>San Antonio</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

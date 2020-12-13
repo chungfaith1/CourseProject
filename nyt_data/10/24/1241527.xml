@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>REALNETWORKS UPGRADE RELEASED</title>
+    <meta content="MB001817" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1241527"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY BRIEFING: DIGITAL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings (Audio)</classifier>
+        <org class="indexing_service">Realnetworks</org>
+        <org class="indexing_service">Sony Corp</org>
+        <person class="indexing_service">Richtel, Matt</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001024T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03EFDB1431F937A15753C1A9669C8B63" item-length="111" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>REALNETWORKS UPGRADE RELEASED</hl1>
+      </hedline>
+      <byline class="print_byline">By Matt Richtel</byline>
+      <byline class="normalized_byline">Richtel, Matt</byline>
+      <abstract>
+        <p>RealNetworks, Internet music software publisher, releases RealAudio 8, upgrade to its underlying audio technology that company says will reduce amount of space users need to store sound files; new technology was developed in conjunction with Sony Corp (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>RealNetworks, an Internet music software publisher, yesterday released RealAudio 8, an upgrade to its underlying audio technology that the company says will reduce the amount of space users need to store sound files. The new technology was developed in conjunction with Sony, which provided a format called Atrac3 that is being included in RealAudio 8. RealAudio converts music into audio files that can be downloaded, sent by e-mail or played on the Web. RealNetworks contends the new technology will allow users to store a CD-quality song using 2.5 megabytes of space on a hard drive, about half what it takes using some other technologies.</p>
+        <p>Matt Richtel</p>
+      </block>
+      <block class="full_text">
+        <p>RealNetworks, an Internet music software publisher, yesterday released RealAudio 8, an upgrade to its underlying audio technology that the company says will reduce the amount of space users need to store sound files. The new technology was developed in conjunction with Sony, which provided a format called Atrac3 that is being included in RealAudio 8. RealAudio converts music into audio files that can be downloaded, sent by e-mail or played on the Web. RealNetworks contends the new technology will allow users to store a CD-quality song using 2.5 megabytes of space on a hard drive, about half what it takes using some other technologies.</p>
+        <p>Matt Richtel</p>
+        <p>TECHNOLOGY BRIEFING: DIGITAL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

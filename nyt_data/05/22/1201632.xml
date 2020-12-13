@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Two Agencies Change Their Names</title>
+    <meta content="MB231816" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201632"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Names, Organizational</classifier>
+        <org class="indexing_service">Fallon Mcelligott</org>
+        <org class="indexing_service">fallon worldwide</org>
+        <person class="indexing_service">Elliott, Stuart</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Names, Organizational</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000522T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE0DC1E3AF931A15756C0A9669C8B63" item-length="149" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Two Agencies Change Their Names</hl1>
+      </hedline>
+      <byline class="print_byline">By Stuart Elliot</byline>
+      <abstract>
+        <p>Fallon McElligott in Minneapolis changes its name to Fallon Worldwide (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Fallon McElligott in Minneapolis, part of Publicis S.A., has changed its name to Fallon Worldwide as part of a renaming of its various units. The offices of the advertising agency will be known as Fallon Minneapolis, Fallon New York and Fallon London. And Duffy Design and Interactive is being renamed Duffy, with individual offices also going by the names of the cities in which they are based. The McElligott in Fallon McElligott referred to co-founder Tom McElligott, who left in 1988.</p>
+      </block>
+      <block class="full_text">
+        <p>Fallon McElligott in Minneapolis, part of Publicis S.A., has changed its name to Fallon Worldwide as part of a renaming of its various units. The offices of the advertising agency will be known as Fallon Minneapolis, Fallon New York and Fallon London. And Duffy Design and Interactive is being renamed Duffy, with individual offices also going by the names of the cities in which they are based. The McElligott in Fallon McElligott referred to co-founder Tom McElligott, who left in 1988.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

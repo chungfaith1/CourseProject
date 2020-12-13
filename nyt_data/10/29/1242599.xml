@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>No Talking</title>
+    <meta content="LTR083405" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1242599"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001029T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E3DA103EF93AA15753C1A9669C8B63" item-length="115" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>No Talking</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In her review of my biography ''Doris Lessing'' (Oct. 15), Miranda Seymour says that I had conversations with Robert Gottlieb about Lessing. It is clearly stated in the text and chapter notes that I was given access to their two-decade correspondence, and that is where my information was taken from. William Koshland, a former president of Alfred A. Knopf, was the person who made this possible.</p>
+        <p>By the way, I continue to think that Doris Lessing is one of the most important living writers.</p>
+        <p>Carole Klein  New York</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In her review of my biography ''Doris Lessing'' (Oct. 15), Miranda Seymour says that I had conversations with Robert Gottlieb about Lessing. It is clearly stated in the text and chapter notes that I was given access to their two-decade correspondence, and that is where my information was taken from. William Koshland, a former president of Alfred A. Knopf, was the person who made this possible.</p>
+        <p>By the way, I continue to think that Doris Lessing is one of the most important living writers.</p>
+        <p>Carole Klein  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

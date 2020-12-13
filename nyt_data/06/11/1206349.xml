@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Don't Tell</title>
+    <meta content="LTR015136" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1206349"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E4D7153FF932A25755C0A9669C8B63" item-length="104" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Don't Tell</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: The lengthy recounting of other people's travels -- not, of course, our own -- is indeed boring and superfluous. But there's a better way of doing it: writing it all down.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: The lengthy recounting of other people's travels -- not, of course, our own -- is indeed boring and superfluous. But there's a better way of doing it: writing it all down.</p>
+        <p>After printing out ''France: June 5 to 30, 1999'' you have photocopies made and mail them around to your friends. They can then lie about it convincingly the next time you meet, or (praises be!) compliment you on it -- while handing you a copy of their own, more elegant composition: ''Greece and the Isles: a Personal Odyssey.''</p>
+        <p>CHARLES B. WHEELER  Columbus, Ohio</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

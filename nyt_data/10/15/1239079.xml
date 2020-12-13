@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Return to Sender, But Only if You Can</title>
+    <meta content="LTR004037" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1239079"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001015T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE0D6133FF936A25753C1A9669C8B63" item-length="261" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Return to Sender, But Only if You Can</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Now That I Have Your Attention'' (Backslash, Oct. 8), in which Matt Richtel described his frustrating quest to find information about spammers -- the senders of unsolicited commercial e-mail messages:</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Now That I Have Your Attention'' (Backslash, Oct. 8), in which Matt Richtel described his frustrating quest to find information about spammers -- the senders of unsolicited commercial e-mail messages:</p>
+        <p>In the column, a provider of bulk e-mail software said that when someone uses the program to send unsolicited mail, the messages should include a way to decline future overtures.</p>
+        <p>I have received several e-mail messages over the last few weeks that appear to get around that idea in one of two ways.</p>
+        <p>The simplest is for the sender to claim that the message is part of a  ''one-time mailing''; the second is to instruct the recipient to send an e-mail response to a listed address and to write ''Remove'' in the subject line.</p>
+        <p>The difficulty in dealing with the second approach, as you might expect, is that I have never been able to return messages to the ''removal'' address. Usually, I receive an error message that the user is unknown.</p>
+        <p>I would rather receive a straightforward message that I can delete than one that encourages me to waste more of my time sending and receiving more mail.</p>
+        <p>EDWARD CARNEY  Minneapolis, Oct. 9</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

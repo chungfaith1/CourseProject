@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bargain Flights</title>
+    <meta content="LTR230440" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1233149"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <org class="indexing_service">Air Europa</org>
+        <person class="indexing_service">Roby, Jim</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000924T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE1DE103BF937A1575AC0A9669C8B63" item-length="111" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bargain Flights</hl1>
+      </hedline>
+      <abstract>
+        <p>Jim Roby letter on September 3 travel article about low-cost European airlines adds Spanish carrier Air Europa (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor: To your recent list of low-cost European airlines (''Bargain Flights Within Europe'' Sept. 3), may I add the Spanish carrier Air Europa?</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor: To your recent list of low-cost European airlines (''Bargain Flights Within Europe'' Sept. 3), may I add the Spanish carrier Air Europa?</p>
+        <p>Last January I flew on Air Europa from Paris to Madrid and Bilbao for $140. To my amazement, on all three flights passengers were offered a choice of newspapers; drinks and real food (in one case a delicious jamon sandwich) were served at no charge; and hot towels and candies were distributed before landing.</p>
+        <p>The Web site is www.air-europa .com.</p>
+        <p>JIM ROBY  Provincetown, Mass.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

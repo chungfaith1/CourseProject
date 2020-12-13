@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>EVENING HOURS</title>
+    <meta content="15PART0AG" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1239016"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Parties (Social)</classifier>
+        <person class="indexing_service">Cunningham, Bill</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parties (Social)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001015T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E7DB123FF936A25753C1A9669C8B63" item-length="603" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>EVENING HOURS</hl1>
+      </hedline>
+      <byline class="print_byline">By Bill Cunningham</byline>
+      <byline class="normalized_byline">Cunningham, Bill</byline>
+      <abstract>
+        <p>Photos of recent New York social events (Evening Hours column) (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Oct. 4: Lincoln Center inaugurated this season's Great Performers series with an opening night gala at Avery Fisher Hall. Dinner for 320 guests on the Grand Promenade was followed by a concert that included the soprano Renee Fleming and the baritone Dmitri Hvorostovsky singing arias and duets. The evening raised $633,000.</p>
+      </block>
+      <block class="full_text">
+        <p>Oct. 4: Lincoln Center inaugurated this season's Great Performers series with an opening night gala at Avery Fisher Hall. Dinner for 320 guests on the Grand Promenade was followed by a concert that included the soprano Renee Fleming and the baritone Dmitri Hvorostovsky singing arias and duets. The evening raised $633,000.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Redefining Coverage to Cut Out the Middleman</title>
+    <meta content="25FBOX" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="E-Commerce" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="H" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1241610"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="HEALTH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Health Insurance</classifier>
+        <person class="indexing_service">Freudenheim, Milt</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001025T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E0DD163FF936A15753C1A9669C8B63" item-length="464" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Redefining Coverage to Cut Out the Middleman</hl1>
+      </hedline>
+      <byline class="print_byline">By MILT FREUDENHEIM</byline>
+      <byline class="normalized_byline">Freudenheim, Milt</byline>
+      <abstract>
+        <p>Several Web companies offer innovative ways to pay for medical services (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>JUST about everybody agrees that managed health care is ailing and needs to be fixed. Employers dislike the rising expenses and responsibility, and consumers and doctors hate the restrictions. Seeing an opportunity, several Web companies are offering new ways to pay for medical services.</p>
+        <p>For example, several thousand employees of the Aon Corporation, an insurance broker based in Chicago, have had a chance this month to test an approach called a defined contribution plan. Besides Aon's usual roster of choices, Aon workers in Chicago and Minneapolis can select a combination of pretax cash for everyday health care needs, plus a high-deductible insurance policy for catastrophes.</p>
+      </block>
+      <block class="full_text">
+        <p>JUST about everybody agrees that managed health care is ailing and needs to be fixed. Employers dislike the rising expenses and responsibility, and consumers and doctors hate the restrictions. Seeing an opportunity, several Web companies are offering new ways to pay for medical services.</p>
+        <p>For example, several thousand employees of the Aon Corporation, an insurance broker based in Chicago, have had a chance this month to test an approach called a defined contribution plan. Besides Aon's usual roster of choices, Aon workers in Chicago and Minneapolis can select a combination of pretax cash for everyday health care needs, plus a high-deductible insurance policy for catastrophes.</p>
+        <p>Single workers will receive $1,000 from Aon, couples will receive $1,750 and families will receive $2,500. If their expenses go beyond those amounts, the employees pay from their own pockets for the next $1,000 to $2,500. The insurance takes over after a single employee has spent a total of $2,000, couples have spent $4,000 and families have spent $5,000.</p>
+        <p>Members of the Aon plan can log on to Definity Health, an Internet start-up based in Minneapolis, to find names of doctors and hospitals nearby offering discounts. In theory, consumers who spend their own money for care will be cautious about deciding when they need it, which could save Aon money.</p>
+        <p>Aon is an investor in Definity, one of several companies that are betting that big changes are coming in health insurance. They expect many employers to  pull back from full responsibility for workers' health as costs rise, especially if patients' rights laws make it easier to sue employers for medical malpractice.</p>
+        <p>The new companies include HealthMarket, based in Wilton, Conn., which offers information for 175,000 doctors and 3,000 hospitals. Members can choose their doctors when needed.</p>
+        <p>Lumenos, based in Alexandria, Va., has an approach similar to that of Definity. Lumenos will make money available in medical savings accounts.</p>
+        <p>Vivius, based in St. Louis Park, Minn., is being tested in Kansas City, Mo., and Minneapolis. It also offers employees a directory with information about doctors and hospitals. Members will create their own health plans each year by choosing a personal doctor and specialists.</p>
+        <p>Myhealthbank, in Portland, Ore., has joined Regence Blue Cross and Blue Shield in Washington and Oregon. They have just begun to offer health savings accounts to small and medium-size employers in Eugene and Bend, Ore.</p>
+        <p>MILT FREUDENHEIM</p>
+        <p>HEALTH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

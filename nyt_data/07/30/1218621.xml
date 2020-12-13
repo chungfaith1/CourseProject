@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Malaria Treatment Wins Approval in U.S.</title>
+    <meta content="MB011323" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1218621"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TRAVEL ADVISORY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Malaria</classifier>
+        <classifier class="indexing_service" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="indexing_service" type="descriptor">Atovaquone (Drug)</classifier>
+        <classifier class="indexing_service" type="descriptor">Proguanil (Drug)</classifier>
+        <org class="indexing_service">Glaxo Wellcome Plc</org>
+        <person class="indexing_service">Wade, Betsy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Malaria</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="general_descriptor">Malaria</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000730T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E7DD1E3AF933A05754C0A9669C8B63" item-length="224" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Malaria Treatment Wins Approval in U.S.</hl1>
+      </hedline>
+      <byline class="print_byline">By BETSY WADE</byline>
+      <byline class="normalized_byline">Wade, Betsy</byline>
+      <abstract>
+        <p>US government approves Malarone by Glaxo Wellcome, new drug formula to prevent and treat malaria that is combination of atovaquone and proguanil (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A new drug formula to prevent and treat malaria has won government approval. The prescription drug, marketed as Malarone by Glaxo Wellcome, is a combination of atovaquone and proguanil, which interfere with the reproduction of the mosquito-borne parasite that causes malaria. Malarone is expected to be in pharmacies in a few weeks.</p>
+        <p>There is no malaria vaccine, and using one drug after another to ward off malaria  has become futile as the parasites evolve into resistant strains. Mefloquine, marketed as Lariam by Roche Holdings, is the most-often prescribed preventive measure in the United States, but it is not recommended for people with psychiatric disorders or seizures. Lariam is taken weekly; Malarone is taken daily, which means doctors will worry more about compliance. But Malarone is started only a day or two before entry into a malarious area; Lariam is started a week ahead.</p>
+      </block>
+      <block class="full_text">
+        <p>A new drug formula to prevent and treat malaria has won government approval. The prescription drug, marketed as Malarone by Glaxo Wellcome, is a combination of atovaquone and proguanil, which interfere with the reproduction of the mosquito-borne parasite that causes malaria. Malarone is expected to be in pharmacies in a few weeks.</p>
+        <p>There is no malaria vaccine, and using one drug after another to ward off malaria  has become futile as the parasites evolve into resistant strains. Mefloquine, marketed as Lariam by Roche Holdings, is the most-often prescribed preventive measure in the United States, but it is not recommended for people with psychiatric disorders or seizures. Lariam is taken weekly; Malarone is taken daily, which means doctors will worry more about compliance. But Malarone is started only a day or two before entry into a malarious area; Lariam is started a week ahead.</p>
+        <p>An adult dose is expected to cost more than $4 a pill, meaning $28 or more a week. A pediatric dose is smaller. Lariam costs about $10 a week.</p>
+        <p>The most common side effects reported in the tests of Malarone for treatment of uncomplicated malaria were headache, nausea and stomachache.</p>
+        <p>BETSY WADE</p>
+        <p>TRAVEL ADVISORY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

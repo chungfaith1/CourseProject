@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Scan the Headlines? No, Just the Bar Codes; Encoding Technologies for Newspapers and Magazines Link Printed Page to Web Page</title>
+    <meta content="04BAR.$02" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1196656"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000504T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E7D81139F937A35756C0A9669C8B63" item-length="2045" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Scan the Headlines? No, Just the Bar Codes; Encoding Technologies for Newspapers and Magazines Link Printed Page to Web Page</hl1>
+      </hedline>
+      <byline class="print_byline">By LISA GUERNSEY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>READERS of The Post and Courier, the daily newspaper in Charleston, S.C., may have noticed something peculiar about their paper this week. Tiny black marks, no wider or higher than a five-letter word in a news column, have been appearing throughout the pages since Monday. There is one under the weather map, another on the masthead, still more at the top of the business and local sections.</p>
+        <p>These little symbols, which at first glance appear to be nothing more than smudges, provide a direct link between the newspaper and the Internet. Each mark is a miniature Universal Product Code for a Web address. When those U.P.C.'s, or bar codes, are read by a handheld scanner connected to a computer, a Web page pops up on the screen. The bar code under the weather map, for example, takes readers to the weather page on the newspaper's Web site.</p>
+      </block>
+      <block class="full_text">
+        <p>READERS of The Post and Courier, the daily newspaper in Charleston, S.C., may have noticed something peculiar about their paper this week. Tiny black marks, no wider or higher than a five-letter word in a news column, have been appearing throughout the pages since Monday. There is one under the weather map, another on the masthead, still more at the top of the business and local sections.</p>
+        <p>These little symbols, which at first glance appear to be nothing more than smudges, provide a direct link between the newspaper and the Internet. Each mark is a miniature Universal Product Code for a Web address. When those U.P.C.'s, or bar codes, are read by a handheld scanner connected to a computer, a Web page pops up on the screen. The bar code under the weather map, for example, takes readers to the weather page on the newspaper's Web site.</p>
+        <p>Alan H. Seim, director of Internet operations at The Post and Courier, considers the bar codes a much-needed solution to a problem that newspapers and their readers have been facing since the dawn of the Web: the awkwardness of printing and typing (let alone remembering) a new Web address.</p>
+        <p>''You just beep on this thing and you're there,'' Mr. Seim said.</p>
+        <p>But the tiny bar codes are more than just a print-based replacement for long Web addresses. They are one of several new technologies that create hyperlinks for the physical world, establishing a direct connection between static objects and the ever-changing Internet. With these links, magazines, books, postcards, product packages -- any imaginable artifacts with room for bar codes -- could become on-ramps to Web pages that offer related reports, movies, sound clips or online order forms.</p>
+        <p>The Post and Courier is the first newspaper in the country to experiment with the miniature-bar-code technology. This month, Charleston residents who sign up as testers will receive free handheld scanners so they can activate the bar codes and jump straight to the corresponding Web sites. GoCode, the Charleston company that developed the technology, will also put the codes in several catalogs in the next few months,  and more free handheld scanners will be distributed.</p>
+        <p>By summer, observant readers of Wired magazine and Popular Mechanics may spot another version of these offline links. For them, the mark will not be a smudgelike bar code but a small logo with an uppercase ''D'' lurking on the lower outside corner of some pages. The D stands for Digimarc, a company that has developed a way to embed nearly imperceptible digital watermarks in printed text and photographs. When held up to a Webcam perched on a monitor, the watermarks tell the computer to display related Web pages.</p>
+        <p>In June, Digimarc will offer free software that can be downloaded and integrated with software for the Webcams. By summer's end, company officials say, most Webcam manufacturers will have integrated the Digimarc software into their products. The company, meanwhile, is hoping to have signed contracts with more than 100 magazines that will use the watermarks.</p>
+        <p>Bar codes of other shapes and sizes may also dot the pages of print publications soon. Belo, a media company in Dallas, announced that it would incorporate bar codes into some of the pages of its newspapers, which include The Dallas Morning News and The Providence Journal in Rhode Island. A bar code reader developed by DigitalConvergence.:Com, a hyperlink company, will be distributed to read those symbols and translate them into Web pages that appear on the screen.</p>
+        <p>Belo's 17 television stations are also considering a version of the technology that uses sounds instead of symbols. To open a Web page, a television program could emit an audible tone that would send a signal to a computer that was connected to the television via audio cables.</p>
+        <p>Those who have experimented with off line links say that they have potential to change the way people approach the Web. Until now, people who see a printed Web address have had to jot it down, tear out the corresponding page or try to remember the Web site's top-level domain name so they can search the site later. And once they remember to visit the sites, they often have to dig through multiple Web pages to find what they want. According to Internet analysts, most people give up after three or four clicks.</p>
+        <p>But with digital watermarks or bar codes, a printed page will have ''embedded intelligence,'' said Guy Creese, a senior analyst at the Aberdeen Group, a strategic consulting company. Mr. Creese saw a demonstration of Digimarc's technology a month ago.</p>
+        <p>''It strikes me as an intriguing way to handle the information overload problem,'' Mr. Creese said. ''It really brings impulse buying and searching to a new level.''</p>
+        <p>Anything that increases the possibility of impulse buying is bound to attract advertisers. Ford Motor Company, for example, is preparing to include Digimarc's technology in full-page advertisements in both Wired and Popular Mechanics. At least 10 other advertisers, including Visa and Sony, are also planning to test the technology.</p>
+        <p>But before offline linking enters the mainstream, it must clear a hardware hurdle. Handheld scanners or Webcams will have to become as ubiquitous as computers, analysts say. GoCode is trying to make that happen by giving away scanners that are sponsored by advertisers and that will come with buttons that take users to the sponsors' Web sites. DigitalConvergence.:Com has a similar idea. And Digimarc is hoping that the growing popularity of Webcams will give it an edge.</p>
+        <p>But even if people have the right equipment, companies face another problem: getting people to make the technology part of their routine.</p>
+        <p>''The downside is that you have to teach someone to use it,'' said David Cooperstein, a research director at Forrester Research, after seeing a demonstration of GoCode's technology. People will have to be shown that the bar code ''is not just a smudge on the page,'' he said.</p>
+        <p>Mr. Seim, of The Post and Courier, is aware of those issues. But his newspaper is prepared to take on the challenge in exchange for the chance to offer a cutting-edge service to its readers. A regional paper with a daily circulation of 110,000, The Post and Courier has been trying with mixed success to integrate the newspaper and its Web site. Most of the stories on the site, Mr. Seim said, are ''shovelware,'' digital versions of exactly what appears in the paper.</p>
+        <p>But with the advent of the bar codes, the newspaper has more incentive to include updated news and weather reports on its Web site. While printed Uniform Resource Locators, or U.R.L.'s, have always given ambitious readers an invitation to the Web site, the bar codes provide a much easier way to make the connection, Mr. Seim said. With a scanner in hand, going to the Web becomes part of the reading experience.</p>
+        <p>''The goal is to keep the readers involved with you and your site,'' Mr. Seim said. ''People might like to find out, for example, what happened with Elian Gonzalez since the time the page was printed.''</p>
+        <p>Classified advertising is another area of the newspaper that will take advantage of the technology. Mr. Seim hopes that the paper's staff will soon start using software that will automatically convert new U.R.L.'s to bar codes during the production process. (He now uses static bar codes that are set for specific Web sites.) Once that happens, the classified advertising section will be specked with the bar codes. A two-line pitch about a used car could immediately link to the seller's Web site, complete with photographs, references and details about the car's maintenance record.</p>
+        <p>Popular Mechanics is planning to add more timely content to its Web site to take advantage of the digital watermarks that will first appear in its August issue. Jay McGill, the magazine's publisher, said he expected at least three or four feature articles, as well as nearly a dozen advertisements, to have the watermarks embedded within them.</p>
+        <p>For example, the magazine has been running a monthly column about the progress of a Nascar racing team. By the time the magazine is published, the columns are out of date because magazine writers usually work several weeks ahead of publication dates. But once the column is embedded with an offline link, it can transport people directly to the Web site of the magazine, which will start offering weekly updates.</p>
+        <p>''We think it will change the dynamic of how we edit the magazine and relationships with our readers,'' Mr. McGill said. He added that when he first saw the technology and observed how fast Web pages opened after simply holding the magazine up to the Webcam, ''I just went, Wow, we have to have this.''</p>
+        <p>Mr. McGill added, however, that in addition to the requirement of Webcams, offline links are burdened with another drawback: people have to take the magazines to their computers to gain access to the Web sites.</p>
+        <p>Still, some analysts are optimistic that advances in wireless technology in the next year will make the concept viable. If the bar codes and watermarks could be scanned and stored by a wireless device instead of by a scanner or Webcam tethered to the computer, they would be more useful.</p>
+        <p>Better yet, if the marks could be scanned by a device that talked to a personal digital assistant with wireless Internet service, people could gain access to the sites they were reading about while there were on the subway -- or on the couch.</p>
+        <p>''Getting this bolted into a P.D.A. makes a lot of sense,'' said Mr. Creese, of the Aberdeen Group.</p>
+        <p>Regardless of how the technology emerges, the founders of the companies creating offline links are envisioning broader applications for their products. Bruce Davis, chief executive and president of Digimarc, said that he was working toward a day when digital watermarks would be embedded in books, CD's, bank cards and direct mail.</p>
+        <p>T. B. Pickens, the founder of GoCode, has begun distributing business cards that contain his bar code. By the end of the month, people who receive his card and scan the code will be able to import his contact information directly into Outlook, Microsoft's address book, with one click. Even more personal data, like credit card numbers and a shipping address, are also embedded in the bar code for Mr. Pickens's use. He unlocks the sensitive data by scanning his business card and then scanning a house key that features a sticker with a corresponding bar code. When both are scanned together, Mr. Pickens can fill in online order forms with a few clicks.</p>
+        <p>I.B.M. and Palm Computing are also testing the prospects of offline links. The companies are working with a Safeway grocery store in England that has provided Palm P.D.A.'s equipped with built-in scanners to more than 500 of its customers. When the customers scan the bar codes on the packages of any products they are running out of -- whether soup cans or cereal boxes -- the computer adds those products to digital grocery lists. The system uses the Internet to send each list to Safeway, where employees collect and package the products so they can be picked up by the customer.</p>
+        <p>For now, though, officials at The Post and Courier say they are excited to be one of the first publications trying out the technology, even if it means that their newspaper is specked with tiny black rectangles.</p>
+        <p>''We think it could be a breakthrough on how to connect the reader of the printed word to the Internet,'' said Larry Tarleton, associate publisher of The Post and Courier. ''And a lot of people are trying to figure that out.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPUTERS FOR NEEDY</title>
+    <meta content="MB024009" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Education; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1239100"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BRIEFING: EDUCATION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Urban Areas</classifier>
+        <classifier class="indexing_service" type="descriptor">Public Housing</classifier>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <person class="indexing_service">Holl, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Urban Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001015T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E0DF103FF936A25753C1A9669C8B63" item-length="55" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPUTERS FOR NEEDY</hl1>
+      </hedline>
+      <byline class="print_byline">By John Holl</byline>
+      <byline class="normalized_byline">Holl, John</byline>
+      <abstract>
+        <p>New Jersey Education Department announces $4.8 million grant to 26 urban schools through which computer centers will be set up in housing projects (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Twenty-six urban school districts will share a $4.8 million grant by the state Department of Education in an effort to give students in both urban and suburban equal access to computers. The program will set up computer centers in housing projects.</p>
+        <p>John Holl</p>
+      </block>
+      <block class="full_text">
+        <p>Twenty-six urban school districts will share a $4.8 million grant by the state Department of Education in an effort to give students in both urban and suburban equal access to computers. The program will set up computer centers in housing projects.</p>
+        <p>John Holl</p>
+        <p>BRIEFING: EDUCATION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

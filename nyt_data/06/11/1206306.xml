@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tech 2010: #19 Words to Live By; The Document That Can't Be Forged</title>
+    <meta content="611DOCUM" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="79" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Science; Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1206306"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Forgery</classifier>
+        <classifier class="indexing_service" type="descriptor">Paper and Pulp</classifier>
+        <classifier class="indexing_service" type="descriptor">New Models, Design and Products</classifier>
+        <classifier class="indexing_service" type="descriptor">Science and Technology</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <org class="indexing_service">Escher Group (Co)</org>
+        <person class="indexing_service">Smith, Joshua</person>
+        <person class="indexing_service">Burdick, Alan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Paper and Pulp</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E0DD143FF932A25755C0A9669C8B63" item-length="618" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tech 2010: #19 Words to Live By; The Document That Can't Be Forged</hl1>
+      </hedline>
+      <byline class="print_byline">By Alan Burdick</byline>
+      <byline class="normalized_byline">Burdick, Alan</byline>
+      <abstract>
+        <p>Joshua Smith of Escher Group explains way he has devised for creating documents that cannot be forged, by measuring each paper's FiberFingerprint, unique texture on every square centimeter that can be encoded (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When Joshua Smith looks at a piece of paper very, very closely, he sees a fingerprint. Smith, who works at a start-up company called the Escher Group, has found that every square centimeter of paper contains a unique pattern of fiber hills and fiber valleys. This square centimeter, he notes, can serve as verifiable proof that the paper -- and thus whatever is written on it -- is the original. Even a perfect photocopy can't capture the texture of the original paper, because the copy is a different piece of paper.</p>
+        <p>Smith calls that unique texture a FiberFingerprint, and he has devised a cheap, quick way of capturing an image of it. He has also devised an algorithm that can mathematically describe the fingerprint and an encoded symbol -- like a bar code, but more complex -- that can be printed out to visually represent it. He has invented a scanner that translates the encoded symbol, then examines the adjacent square centimeter of paper. If the code and square don't match, the document is a fake.</p>
+      </block>
+      <block class="full_text">
+        <p>When Joshua Smith looks at a piece of paper very, very closely, he sees a fingerprint. Smith, who works at a start-up company called the Escher Group, has found that every square centimeter of paper contains a unique pattern of fiber hills and fiber valleys. This square centimeter, he notes, can serve as verifiable proof that the paper -- and thus whatever is written on it -- is the original. Even a perfect photocopy can't capture the texture of the original paper, because the copy is a different piece of paper.</p>
+        <p>Smith calls that unique texture a FiberFingerprint, and he has devised a cheap, quick way of capturing an image of it. He has also devised an algorithm that can mathematically describe the fingerprint and an encoded symbol -- like a bar code, but more complex -- that can be printed out to visually represent it. He has invented a scanner that translates the encoded symbol, then examines the adjacent square centimeter of paper. If the code and square don't match, the document is a fake.</p>
+        <p>A FiberFingerprint could make a wide range of things possible: documents of all kinds could be printed off the Internet without fear of forgery. You could purchase movie or concert tickets, for example, online. Before you print them out, however, your printer would first analyze the fiber-identity of your paper, create a code for it and stir that up with the theater's code. You print out the result: a ticket unique to the paper it's printed on. If you made a photocopy, when you passed it through the scanner at the theater, you'd be busted.</p>
+        <p>The same technology, Smith says, could as easily be applied to checks, money orders, passports, coupons, tax and legal documents, perhaps someday even cash -- anything of unique or monetary value. The FiberFingerprint's primary use, at least for now, would be in the postal realm. Escher Group has created an electronic stamp using the FiberFingerprint technology, which has already been approved for use in Singapore -- the only computerized stamp outside North America. Currently, the United States Postal Service accepts two electronic stamps, E-stamp and Stamps.com, and is expected to start using Smith's RiposteMark on a test basis within the next six months.</p>
+        <p>Smith's technology does more than prevent postal fraud; it promises to preserve the romance of the Postal Service. Unlike the other stamps, Smith's stamp will incorporate an image -- one you download from the post office or one you've created yourself. The Postal Service can go on designing beautiful, time-sensitive or commemorative images, even a series that exists for only a day. Your mail, meanwhile, will work harder for you than ever. With a FiberFingerprint, even the lowly envelope ceases to merely contain information: it is information You print it out, your computer notes its identity -- what it is, where it's from, where it's going -- and relays a message to the routing computer at the post office. From then on, your envelope can be tracked and traced. In fact, it could route itself: plot the fastest way from A to B, even trigger e-mail to say it'll be late. If Smith's technology works the way he hopes it will, getting lost in the mail may soon be an excuse of the past.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

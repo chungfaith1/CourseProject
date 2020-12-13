@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Quest for Free Energy</title>
+    <meta content="LTR000526" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225009"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <person class="indexing_service">saager, carsten</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000824T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E7DA1431F937A1575BC0A9669C8B63" item-length="67" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Quest for Free Energy</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Carsten Saager comments on recent letter on quest for free energy</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The idea of capturing energy by having cars depress plates on the road, as suggested by a recent letter writer, would not work. But if someone could develop a technique to reuse the kinetic energy that is lost when a car stops at a light, that would be a different story.</p>
+        <p>CARSTEN SAAGER  New York</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The idea of capturing energy by having cars depress plates on the road, as suggested by a recent letter writer, would not work. But if someone could develop a technique to reuse the kinetic energy that is lost when a car stops at a light, that would be a different story.</p>
+        <p>CARSTEN SAAGER  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

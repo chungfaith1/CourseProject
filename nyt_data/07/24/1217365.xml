@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Goldman Sachs Appointment</title>
+    <meta content="24CARR$01" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1217365"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <org class="indexing_service">Goldman Sachs Group</org>
+        <person class="indexing_service">Carr, Magaret</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000724T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E4DC123AF937A15754C0A9669C8B63" item-length="171" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Goldman Sachs Appointment</hl1>
+      </hedline>
+      <dateline>LONDON, July 23</dateline>
+      <abstract>
+        <p>Goldman Sachs Group names Michael Carr to head its investment banking business in Asia, excluding its Japanese unit (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Goldman Sachs Group will announce on Monday that Michael Carr will head its investment banking business in Asia, excluding its Japanese unit, the company said.</p>
+        <p>The appointment of Mr. Carr, who is co-head of the company's mergers and acquisitions business in the Americas, comes as Goldman Sachs seeks to bolster its investment banking practice in Asia beyond Japan.</p>
+      </block>
+      <block class="full_text">
+        <p>The Goldman Sachs Group will announce on Monday that Michael Carr will head its investment banking business in Asia, excluding its Japanese unit, the company said.</p>
+        <p>The appointment of Mr. Carr, who is co-head of the company's mergers and acquisitions business in the Americas, comes as Goldman Sachs seeks to bolster its investment banking practice in Asia beyond Japan.</p>
+        <p>The move is widely seen by many in the firm as part of Mr. Carr's grooming to possibly head the company's entire investment banking practice. Mr. Carr will move to Hong Kong, where the firm's non-Japan Asian operations are based.</p>
+        <p>Mr. Carr negotiated Boeing's acquisition of Hughes's satellite operations and also advised ARCO in its sale to BP Amoco.</p>
+        <p>Mr. Carr, 42, joined Goldman Sachs from Salomon Smith Barney in 1998 as a managing director and became co-head of mergers and acquisitions in the Americas in 1999. He was co-head of the mergers and acquisition group at Salomon Smith Barney.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

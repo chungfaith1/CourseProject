@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Accounts</title>
+    <meta content="MB000312" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1228182"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Account Changes</classifier>
+        <person class="indexing_service">Stamler, Bernard</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000905T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE6DA1F30F936A3575AC0A9669C8B63" item-length="208" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Accounts</hl1>
+      </hedline>
+      <byline class="print_byline">By Bernard Stamler</byline>
+      <byline class="normalized_byline">Stamler, Bernard</byline>
+      <abstract>
+        <p>Roundup of recent advertising account changes (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>* United Distillers and Vintners, Harlow, England, part of Diageo P.L.C., to Bartle Bogle Hegarty, London, 49 percent owned by the B Com3  Group, to handle creative work for its Gordon's Gin brand in Britain, which had been at the London office of Leo Burnett Worldwide, also part of B Com3 . Billings were estimated at $4.5 million.</p>
+      </block>
+      <block class="full_text">
+        <p>* United Distillers and Vintners, Harlow, England, part of Diageo P.L.C., to Bartle Bogle Hegarty, London, 49 percent owned by the B Com3  Group, to handle creative work for its Gordon's Gin brand in Britain, which had been at the London office of Leo Burnett Worldwide, also part of B Com3 . Billings were estimated at $4.5 million.</p>
+        <p>* The Clio Awards, Miami, part of VNU, to Turkel Schwartz &amp; Partners, Coconut Grove, Fla., to handle the creative account for its festival, which will be held for the first time on South Beach in 2001. Spending for the account, which had been at Dweck Inc., New York, was estimated at less than $1 million.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Correction</title>
+    <meta content="27TACX" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225511"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <location class="indexing_service">Lake Erie</location>
+        <person class="indexing_service">Perry, Oliver Hazard (Commodore)</person>
+        <person class="indexing_service">Harrison, William Henry</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000827T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E2DA1631F934A1575BC0A9669C8B63" item-length="85" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Correction</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of August 13 travel article about islands in Lake Erie; article misstated Commodore Oliver Hazard Perry's famous message after 1813 Battle of Lake Erie, which was sent to Gen William Henry Harrison, who was not yet president (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article on Aug. 13 about visiting islands in Lake Erie misstated the form of Commodore Oliver Hazard Perry's famous message after the Battle of Lake Erie in 1813, ''We have met the enemy, and they are ours,'' and misstated the title of the recipient. The message went by courier, not in a telegram. The addressee, William Henry Harrison, was a general and not yet president.</p>
+      </block>
+      <block class="full_text">
+        <p>An article on Aug. 13 about visiting islands in Lake Erie misstated the form of Commodore Oliver Hazard Perry's famous message after the Battle of Lake Erie in 1813, ''We have met the enemy, and they are ours,'' and misstated the title of the recipient. The message went by courier, not in a telegram. The addressee, William Henry Harrison, was a general and not yet president.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

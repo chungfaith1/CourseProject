@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="04INSI$03" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212507"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000704T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E3DF1039F937A35754C0A9669C8B63" item-length="292" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Waging War on Syphilis</p>
+        <p>New cases of syphilis are at an all-time low, dropping to 7,000 last year from 50,000 in 1990. Now health officials are calling for a multipronged attack on the disease to wipe it out altogether. PAGE A8</p>
+        <p>Not Necessarily Mythical</p>
+        <p>Long before today's paleontologists, ancient Greeks and Romans collected fossils and displayed them, one scholar says. The bones may have been the inspiration for the monsters of myth. SCIENCE TIMES, PAGE F1</p>
+      </block>
+      <block class="full_text">
+        <p>Waging War on Syphilis</p>
+        <p>New cases of syphilis are at an all-time low, dropping to 7,000 last year from 50,000 in 1990. Now health officials are calling for a multipronged attack on the disease to wipe it out altogether. PAGE A8</p>
+        <p>Not Necessarily Mythical</p>
+        <p>Long before today's paleontologists, ancient Greeks and Romans collected fossils and displayed them, one scholar says. The bones may have been the inspiration for the monsters of myth. SCIENCE TIMES, PAGE F1</p>
+        <p>Next Chapter in Book of Life</p>
+        <p>Researchers are gearing up for a follow-up to the genome project: unlocking the secrets of proteins, which in some sense are more relevant to medicine than the genes themselves. SCIENCE TIMES, PAGE F1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Homework That Works</title>
+    <meta content="L13HOM" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/13/opinion/L13HOM.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1238350"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Homework</classifier>
+        <person class="indexing_service">Sultanik, Helen</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homework</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001013T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E1D9143FF930A25753C1A9669C8B63" item-length="134" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Homework That Works</hl1>
+      </hedline>
+      <abstract>
+        <p>Helen Sultanik letter says teacher should only assign that can be reviewed in class next day within ten minutes for each subject (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>How much homework should a teacher assign (front page, Oct. 10)? The answer is easy: the amount that can be reviewed in class the next day within 10 minutes for each subject.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>How much homework should a teacher assign (front page, Oct. 10)? The answer is easy: the amount that can be reviewed in class the next day within 10 minutes for each subject.</p>
+        <p>Homework that is not reviewed in class soon after it is assigned is of little value. Homework should represent a challenge or application of classwork, both of which need reinforcement by the teacher. If the teacher cannot find the time, students should not be required to give the time.</p>
+        <p>HELEN SULTANIK  Brooklyn, Oct. 11, 2000</p>
+        <p>The writer is the science coordinator for the Board of Jewish Education.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="17CBRIE" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200208"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000517T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6D71F3BF934A25756C0A9669C8B63" item-length="292" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MCDONALD'S CORP.,  Oak Brook, Ill., the biggest restaurant chain in the world, received approval from a bankruptcy court to buy the Boston Market business, which sells rotisserie chicken, from Boston Chicken Inc., Golden, Colo., for $176.2 million.</p>
+        <p>MELLON FINANCIAL CORP.,  Pittsburgh, said it would buy back up to 25 million shares of its stock, or about 5 percent of its stock outstanding.</p>
+      </block>
+      <block class="full_text">
+        <p>MCDONALD'S CORP.,  Oak Brook, Ill., the biggest restaurant chain in the world, received approval from a bankruptcy court to buy the Boston Market business, which sells rotisserie chicken, from Boston Chicken Inc., Golden, Colo., for $176.2 million.</p>
+        <p>MELLON FINANCIAL CORP.,  Pittsburgh, said it would buy back up to 25 million shares of its stock, or about 5 percent of its stock outstanding.</p>
+        <p>MARCONI P.L.C.,  London, a telecommunications equipment maker, said it had begun talks to become the sole supplier of wireless machinery for Thrucomm Inc., St. Petersburg, Fla., a builder of wireless communications networks used for transferring funds electronically, in a deal worth $650 million.</p>
+        <p>INFONET SERVICES CORP.,  El Segundo, Calif., which sells Internet access to businesses, said it would more than double network spending to $350 million this year to meet increasing demand for capacity.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

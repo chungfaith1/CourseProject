@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Compressed Data; A Break in Moore's Law, but, Hey, Who's Counting?</title>
+    <meta content="03SPEE$02" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212255"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Supercomputers</classifier>
+        <org class="indexing_service">International Business Machines Corp</org>
+        <person class="indexing_service">Lohr, Steve</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000703T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E6DE1239F930A35754C0A9669C8B63" item-length="387" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Compressed Data; A Break in Moore's Law, but, Hey, Who's Counting?</hl1>
+      </hedline>
+      <byline class="print_byline">By STEVE LOHR</byline>
+      <byline class="normalized_byline">Lohr, Steve</byline>
+      <abstract>
+        <p>IBM's development of the world's fastest supercomputer, the ASCI White, eases concerns among computer scientists that physical limits of minute circuity might soon be reached; machine is three times as powerful as the previous record-holder, also from IBM, which preceded it by only 21 months; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ever-faster computers are just in the nature of things. Behind the blase optimism is Moore's Law -- named after Gordon Moore, the co-founder of Intel, who observed that the number of transistors chip makers could fit on a given piece of silicon doubled every 18 months.</p>
+        <p>Yet recently, computer scientists have begun to fret that the end of Moore's Law -- and, with it, the march of computing progess -- is in sight as the physical limits of minute circuitry loom.</p>
+      </block>
+      <block class="full_text">
+        <p>Ever-faster computers are just in the nature of things. Behind the blase optimism is Moore's Law -- named after Gordon Moore, the co-founder of Intel, who observed that the number of transistors chip makers could fit on a given piece of silicon doubled every 18 months.</p>
+        <p>Yet recently, computer scientists have begun to fret that the end of Moore's Law -- and, with it, the march of computing progess -- is in sight as the physical limits of minute circuitry loom.</p>
+        <p>So the I.B.M. announcement last week that it had built the fastest supercomputer becomes of interest to more than the computing equivalent of drag-racing fans. The $110 million machine, built to simulate the testing of nuclear weapons, is three times as powerful as the previous record-holder. And the earlier front-runner, also from I.B.M., was finished 21 months ago.</p>
+        <p>In short, there is a break with Moore's Law, at least in this rarefied realm.</p>
+        <p>The explanation for the jump lies largely in the rapid progress I.B.M. has been able to achieve in materials science and systems design. For example, using copper instead of traditional aluminum wires in chips allows for higher circuit speeds with lower power consumption. Another lift comes from the programming wizardry that enables the supercomputer, which sprawls over an area the size of two basketball courts, to orchestrate the data-chugging power of more than 8,100 microprocessors.</p>
+        <p>At a recent conference called Beyond Silicon, sponsored by M.I.T.'s Technology Review magazine, Nicholas Donofrio, senior vice president for technology at I.B.M., said he believed that recent advances made the limits of Moore's Law less worrisome.</p>
+        <p>With the new supercomputer, he said last week, ''We're not relying solely on lithography on silicon -- the stuff of Moore's Law -- to scale up computing power.''</p>
+        <p>And to be honest, the achievements of the I.B.M. supercomputer, known as ASCI White, are impressive even to nonpropeller heads. It would take a person with a calculator 10 million years to do the number of calculations that the new supercomputer can do in one second. A silly comparison in some ways, but one powerful dragster.</p>
+        <p>STEVE LOHR</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

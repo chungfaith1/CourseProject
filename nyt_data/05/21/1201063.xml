@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'The Price May Grow'</title>
+    <meta content="21LETT$01" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Real Estate; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201063"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <person class="indexing_service">Stone, Adam H</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000521T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06EEDE163AF932A15756C0A9669C8B63" item-length="119" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'The Price May Grow'</hl1>
+      </hedline>
+      <abstract>
+        <p>Adam H Stone letter comments on May 7 article on home sellers passing through their closing costs to purchasers</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The article regarding sellers passing through their closing costs to purchasers [''Surprise! The Price May Grow,'' May 7] hit the nail right on the head. What was once the practice of only sponsors of co-op and condo conversions and developers is now something that more sellers are attempting to institute.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The article regarding sellers passing through their closing costs to purchasers [''Surprise! The Price May Grow,'' May 7] hit the nail right on the head. What was once the practice of only sponsors of co-op and condo conversions and developers is now something that more sellers are attempting to institute.</p>
+        <p>The article neglects to mention the New York State Transfer Tax, or ''mansion tax,'' regularly imposed on purchasers of residential real property for $1 million or more. This tax is 1 percent of the purchase price and can obviously become quite hefty.</p>
+        <p>ADAM H. STONE  Manhattan</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

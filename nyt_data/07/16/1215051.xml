@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Fiction</title>
+    <meta content="RV134118" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215051"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Brown, Rodger Lyle</person>
+        <person class="indexing_service">Puzo, Mario</person>
+        <object.title class="indexing_service">Omerta (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFDC1F39F935A25754C0A9669C8B63" item-length="248" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Fiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Rodger Lyle Brown</byline>
+      <byline class="normalized_byline">Brown, Rodger Lyle</byline>
+      <abstract>
+        <p>Rodger Lyle Brown reviews book Omerta by Mario Puzo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Omerta</p>
+        <p>By Mario Puzo.</p>
+        <p>Random House, $25.95.</p>
+      </block>
+      <block class="full_text">
+        <p>Omerta</p>
+        <p>By Mario Puzo.</p>
+        <p>Random House, $25.95.</p>
+        <p>Trace the literary genealogy of any prime-time wise guy and you'll find Mario Puzo's 1969 best seller, ''The Godfather'' (and the series of movies that followed) solidly situated as both wellspring and touchstone. And just as Puzo's legacy hangs over every episode of ''The Sopranos,'' it also, unfortunately, shadows his final novel, ''Omerta.'' The third volume in Puzo's Mafia trilogy (after ''The Last Don'' in 1996), ''Omerta,'' which is Sicilian for ''code of silence,'' follows the rise of Astorre Viola, the orphaned son of one great don left in the care of another, Don Raymonde Aprile. The story is an uncomfortable echo of Puzo's past hits. Don Aprile tries to go straight but with no success; his own children are disappointments, so it falls to his adopted ''nephew,'' the son of the great Don Zeno, to protect the family and save the chain of banks that is Don Aprile's legacy. Unlike both ''The Godfather'' and ''The Last Don,'' in which rich detail and character development compensated for lumbering plotting, ''Omerta'' reads like an unfinished draft, intense in parts, thin and shallow in others. It is occasionally hinted that one motive for killing the don and gaining control of his banks is to allow a competing gang boss to finance the development of a nuclear weapon, but aside from an occasional quip, Puzo, who died last year at 78, makes nothing of this astonishing premise.</p>
+        <p>Rodger Lyle Brown</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

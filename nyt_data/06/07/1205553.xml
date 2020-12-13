@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mysteries Score</title>
+    <meta content="MB005001" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1205553"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TV NOTES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Ratings and Rating Systems</classifier>
+        <org class="indexing_service">Cbs Corp</org>
+        <person class="indexing_service">Carter, Bill</person>
+        <object.title class="indexing_service">48 Hours (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E6D7153FF934A35755C0A9669C8B63" item-length="214" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mysteries Score</hl1>
+      </hedline>
+      <byline class="print_byline">By BILL CARTER</byline>
+      <byline class="normalized_byline">Carter, Bill</byline>
+      <abstract>
+        <p>CBS's 48 Hours Mysteries, a repackaging of reports from past season of 48 Hours news-magazine show, gets better ratings than they did originally (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When is a repeat better than a first run of a show? The answer: When it is a summer edition of a news-magazine show.</p>
+        <p>The CBS news magazine ''48 Hours,'' which spends the regular television season getting drubbed on Thursday nights by NBC's ''E.R.,'' kicked off a monthlong run of repeats repackaged as ''48 Hours Mysteries'' on Monday night.</p>
+      </block>
+      <block class="full_text">
+        <p>When is a repeat better than a first run of a show? The answer: When it is a summer edition of a news-magazine show.</p>
+        <p>The CBS news magazine ''48 Hours,'' which spends the regular television season getting drubbed on Thursday nights by NBC's ''E.R.,'' kicked off a monthlong run of repeats repackaged as ''48 Hours Mysteries'' on Monday night.</p>
+        <p>The result was a higher rating than ''48 Hours'' reached all television season with original shows. This was a repeat from October about the murder of a Michigan woman.</p>
+        <p>The news magazine will have five of these mystery editions on Mondays and Saturdays for the rest of the month.</p>
+        <p>The repeat of ''48 Hours'' was by far the most watched program Monday night. Left in the dust was the Devils-Stars, N.H.L. Stanley Cup Finals game on ABC, providing further proof that hockey is a not-ready-for-prime-time sport.</p>
+        <p>''48 Hours'' almost quadrupled the audience for the hockey game, which was not a repeat.</p>
+        <p>TV NOTES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

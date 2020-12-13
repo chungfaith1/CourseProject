@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dealing With D.S.L.</title>
+    <meta content="LTR230800" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1198646"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <person class="indexing_service">holliday, andrew</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000511T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E2D9163BF932A25756C0A9669C8B63" item-length="116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dealing With D.S.L.</hl1>
+      </hedline>
+      <abstract>
+        <p>Andrew Holliday letter on May 4 article lauds service he has gotten from small DSL provider</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I have had D.S.L. service for three months. Aside from a three-month delay between order and installation and one service failure, promptly solved by tech support, the service has been faultless. My provider is Flashcom-- you have a greater chance of success giving your dollars to small companies specializing in a new technology rather to than lumbering giants who just jumped on the bandwagon.</p>
+        <p>ANDREW HOLLIDAY  New York</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I have had D.S.L. service for three months. Aside from a three-month delay between order and installation and one service failure, promptly solved by tech support, the service has been faultless. My provider is Flashcom-- you have a greater chance of success giving your dollars to small companies specializing in a new technology rather to than lumbering giants who just jumped on the bandwagon.</p>
+        <p>ANDREW HOLLIDAY  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

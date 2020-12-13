@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>My Name Is Not Robert</title>
+    <meta content="LTR091232" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225455"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <person class="indexing_service">Sanders, Kerry</person>
+        <person class="indexing_service">Rankin, Judith</person>
+        <person class="indexing_service">Weiser, Benjamin</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000827T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E7D8113EF934A1575BC0A9669C8B63" item-length="25" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>My Name Is Not Robert</hl1>
+      </hedline>
+      <abstract>
+        <p>Judith Rankin letter holds Benjamin Weiser's August 6 article about wrongful imprisonment of Kerry Sanders for murder he did not commit is outrageous and frightening (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Benjamin Weiser's article (Aug. 6) was outrageous and frightening: a tale of man's inhumanity to man. Shame on us all.</p>
+        <p>Judith Rankin  Bridgewater, N.J.</p>
+      </block>
+      <block class="full_text">
+        <p>Benjamin Weiser's article (Aug. 6) was outrageous and frightening: a tale of man's inhumanity to man. Shame on us all.</p>
+        <p>Judith Rankin  Bridgewater, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

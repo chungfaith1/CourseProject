@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Our Social Contract</title>
+    <meta content="L30SOC" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203438"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Social Security (US)</classifier>
+        <person class="indexing_service">Blinder, Alan S</person>
+        <person class="indexing_service">Seifert, Robert W</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Social Security (US)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000530T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E0DC103DF933A05756C0A9669C8B63" item-length="152" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Our Social Contract</hl1>
+      </hedline>
+      <abstract>
+        <p>Robert W Seifert letter seconds Alan S Blinder's May 26 Op-Ed article on the 'social' aspects of Social Security</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I am pleased that Alan S. Blinder calls our attention to the ''social'' aspect of Social Security (Op-Ed, May 26).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I am pleased that Alan S. Blinder calls our attention to the ''social'' aspect of Social Security (Op-Ed, May 26).</p>
+        <p>The rate of return on our investment in the system is not the proper way to evaluate it. The success of the program, after all, is in its universality and the societal ties between the young and the old, and the rich and the poor, that it embodies. An important part of our ''investment'' in Social Security is our investment in these ties.</p>
+        <p>There are a number of viable proposals for strengthening the financial future of Social Security. Let us not choose one that attacks its very core.</p>
+        <p>ROBERT W. SEIFERT  Jamaica Plain, Mass., May 26, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

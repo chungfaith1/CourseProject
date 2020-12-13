@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Next Chapter</title>
+    <meta content="LTR092433" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1220275"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <classifier class="indexing_service" type="descriptor">Discrimination</classifier>
+        <person class="indexing_service">Wolman, Elena O'brien</person>
+        <person class="indexing_service">Martinez, Ruben</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000806T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507EFD9133DF935A3575BC0A9669C8B63" item-length="86" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Next Chapter</hl1>
+      </hedline>
+      <abstract>
+        <p>Elena O'Brien Wolman letter on Ruben Martinez's Way We Live Now essay in July 16 issue on race in America suggests love will change attitudes where law has failed</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Fully one-quarter of my hometown is now Hispanic. As I read the wedding announcements in the paper and see the unions of Pennsylvania Dutch-German and Hispanic names, I'm reminded of my grandparents (Goldbach and Rivera). Perhaps, as Ruben Martinez (The Way We Live Now, July 16) suggests, love will change attitudes where the law has failed.</p>
+        <p>Elena O'Brien Wolman  Lancaster, Pa.</p>
+      </block>
+      <block class="full_text">
+        <p>Fully one-quarter of my hometown is now Hispanic. As I read the wedding announcements in the paper and see the unions of Pennsylvania Dutch-German and Hispanic names, I'm reminded of my grandparents (Goldbach and Rivera). Perhaps, as Ruben Martinez (The Way We Live Now, July 16) suggests, love will change attitudes where the law has failed.</p>
+        <p>Elena O'Brien Wolman  Lancaster, Pa.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Preventable Floods</title>
+    <meta content="L19FLO$01" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1223551"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Floods</classifier>
+        <person class="indexing_service">Stewart, Meg</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Floods</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000819T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E0DA123EF93AA2575BC0A9669C8B63" item-length="208" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Preventable Floods</hl1>
+      </hedline>
+      <abstract>
+        <p>Meg Stewart letter on the role of development in creating the flood problems in New Jersey (Aug 15 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Rising Waters, and Sinking Hearts, in New Jersey'' (front page, Aug. 15):</p>
+        <p>The reasons for the flooding that persists in New Jersey and recurs year after year can be answered through basic geological reasoning.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Rising Waters, and Sinking Hearts, in New Jersey'' (front page, Aug. 15):</p>
+        <p>The reasons for the flooding that persists in New Jersey and recurs year after year can be answered through basic geological reasoning.</p>
+        <p>The locations most prone to flooding are those areas that are most built up. Homes and businesses constructed adjacent to a creek or a river create an impervious layer so that rainwater cannot seep into the ground. Watersheds where blacktop has replaced soil and grass can quickly fill with a raging flow of high water once the natural channel has been reduced to a fraction of its natural width.</p>
+        <p>I am not making light of the tragedy that people are facing, but I would like to remind developers, town planners and home builders to think about the geology of an area and discontinue overdevelopment in watersheds.</p>
+        <p>MEG STEWART  Poughkeepsie, N.Y., Aug. 15, 2000</p>
+        <p>The writer is a geographic information system specialist at Vassar College.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

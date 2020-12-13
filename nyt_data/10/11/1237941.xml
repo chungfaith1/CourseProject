@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Study on Polar Flights</title>
+    <meta content="11X1POLA" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1237941"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001011T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE1D91F3CF932A25753C1A9669C8B63" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Study on Polar Flights</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A joint Canadian-Russian study has found that opening air traffic routes over the North Pole to thousands of commercial flights a year is ''feasible and desirable.'' Aviation experts said the study, to be released today, lays the groundwork for an increase in the number of polar flights and may make practical nonstop flights between far-flung cities.</p>
+        <p>Business Day, Page C1.</p>
+      </block>
+      <block class="full_text">
+        <p>A joint Canadian-Russian study has found that opening air traffic routes over the North Pole to thousands of commercial flights a year is ''feasible and desirable.'' Aviation experts said the study, to be released today, lays the groundwork for an increase in the number of polar flights and may make practical nonstop flights between far-flung cities.</p>
+        <p>Business Day, Page C1.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

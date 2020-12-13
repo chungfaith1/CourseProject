@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV131503" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213801"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Smith, Joan Katherine</person>
+        <person class="indexing_service">Greene, Bob</person>
+        <object.title class="indexing_service">Duty: A Father, His Son, and the Man Who Won the War (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000709T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E0D91F30F93AA35754C0A9669C8B63" item-length="314" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Joan Katherine Smith</byline>
+      <byline class="normalized_byline">Smith, Joan Katherine</byline>
+      <abstract>
+        <p>Joan Katherine Smith reviews book Duty: A Father, His Son, and the Man Who Won the War by Bob Greene (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DUTY</p>
+        <p>A Father, His Son, and the Man</p>
+        <p>Who Won the War.</p>
+        <p>By Bob Greene.</p>
+        <p>Morrow, $25.</p>
+      </block>
+      <block class="full_text">
+        <p>DUTY</p>
+        <p>A Father, His Son, and the Man</p>
+        <p>Who Won the War.</p>
+        <p>By Bob Greene.</p>
+        <p>Morrow, $25.</p>
+        <p>It is disconcerting to grow up and realize that your parents don't exist solely for you, that their separate and even interesting lives predate your own. By his own account, Bob Greene realized only in the fall of 1998, when his 83-year-old father lay dying, that there were a lot of questions it had never occurred to him to ask. In his memoir, ''Duty,'' Greene, a columnist for The Chicago Tribune, speculates that his father's military service in World War II may have been the defining experience of his life. And he decides to pose his unasked questions to Paul Tibbets, the man who organized the secret mission and flew the plane that dropped the atomic bomb on Hiroshima -- a man his father had long admired and who also happens to live, like his father, in Columbus, Ohio. Over the years, Tibbets has maintained an almost militant anonymity, but after Greene wrote a column about visiting the Ohio History of Flight Museum, he got a call from a friend of Tibbets, who told him the retired pilot ''liked what you said about the World War II generation not going around bragging about themselves'' and offered to set up a meeting. As Greene weaves what he knows about his father into the story of his growing friendship with Tibbets, he delineates one of the most significant cultural divides in America -- between the deeply dutiful World War II generation and its more cynical and radically individualistic descendants. If Greene's style is often cloyingly sentimental, perhaps it suits his subject: a dying generation whose enemies were indisputably evil.</p>
+        <p>Joan Katherine Smith</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

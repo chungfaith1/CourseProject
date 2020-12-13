@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Consortium Opens Study Of Cancer</title>
+    <meta content="18CANC$01" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/18/nyregion/18CANC.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1239754"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Cancer</classifier>
+        <org class="indexing_service">New York Cancer Project</org>
+        <org class="indexing_service">Mount Sinai Medical Center (NYC)</org>
+        <person class="indexing_service">Bumiller, Elisabeth</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Cancer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cancer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001018T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E3D8173EF93BA25753C1A9669C8B63" item-length="439" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Consortium Opens Study Of Cancer</hl1>
+      </hedline>
+      <byline class="print_byline">By ELISABETH BUMILLER</byline>
+      <byline class="normalized_byline">Bumiller, Elisabeth</byline>
+      <abstract>
+        <p>New York Cancer Project, in what is expected to be largest cancer study in nation, opens at Mount Sinai School of Medicine (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mayor Rudolph W. Giuliani helped open what is expected to be the largest cancer study in the nation at the Mount Sinai School of Medicine yesterday, then stayed for an examination by his own cancer doctor.</p>
+        <p>''I just came here for a doctor's visit,'' Mr. Giuliani said at a news conference promoting the study. ''You think I'm kidding. I came here to be examined.''</p>
+      </block>
+      <block class="full_text">
+        <p>Mayor Rudolph W. Giuliani helped open what is expected to be the largest cancer study in the nation at the Mount Sinai School of Medicine yesterday, then stayed for an examination by his own cancer doctor.</p>
+        <p>''I just came here for a doctor's visit,'' Mr. Giuliani said at a news conference promoting the study. ''You think I'm kidding. I came here to be examined.''</p>
+        <p>The study, the New York Cancer Project, aims to enroll 300,000 New Yorkers ages 30 to 69 from various ethnic backgrounds. The health and lifestyles of the participants will be tracked for two decades.</p>
+        <p>The project is the first major initiative of a consortium of the region's 25 leading medical schools, hospitals and academic institutions. The president of the consortium --  called Amdec, for the Academic Medicine Development Company -- is Maria K. Mitchell, the mayor's former chief health policy adviser and a former head of the Health and Hospitals Corporation board.</p>
+        <p>Mr. Giuliani agreed to provide $14 million in city money to the project before he learned he had prostate cancer. ''You combine the fact that we have the greatest medical institutions with the fact that we have the most diverse population, it has to be that if we engage in a study of cancer, we're going to yield better results, more results,'' he said yesterday. He said the project would also help ''from the point of view of economic development'' by promoting the city as ''a medical capital.''</p>
+        <p>The project has enrolled 2,000 participants so far and aims to enroll 17,000 more as part of a pilot program in the next 18 months. Ms. Mitchell said she expected the costs of recruiting 300,000 people overall to be as much as $60 million. The project has little more than the $14 million it was given by the city, but Ms. Mitchell said she was seeking federal and private financing.</p>
+        <p>Afterward, the mayor met with his urological oncologist, Dr. Alexander M. Kirschenbaum, and also Dr. Valentin Fuster, the cardiologist who has counseled the mayor on his treatment. Mr. Giuliani said April 27 that he had cancer; he had radioactive seeds to treat it implanted on Sept. 15.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

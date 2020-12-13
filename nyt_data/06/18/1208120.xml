@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'You Don't Have To Take the Bait'</title>
+    <meta content="LTR105529" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208120"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Detectives (Private)</classifier>
+        <person class="indexing_service">Melamed, Rick</person>
+        <person class="indexing_service">Mackey, Robert</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Detectives (Private)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E2DA153EF93BA25755C0A9669C8B63" item-length="85" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'You Don't Have To Take the Bait'</hl1>
+      </hedline>
+      <abstract>
+        <p>Rick Melamed letter on Robert Mackey's May 21 Lives column calls undercover investigators bottom feederss</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It appears that personal-injury lawyers are no longer the bottom feeders of the occupational food chain. India as a ''catch your husband cheating'' professional takes the prize. She has found an occupation that makes the lawyers look good.</p>
+        <p>Rick Melamed</p>
+        <p>New York</p>
+      </block>
+      <block class="full_text">
+        <p>It appears that personal-injury lawyers are no longer the bottom feeders of the occupational food chain. India as a ''catch your husband cheating'' professional takes the prize. She has found an occupation that makes the lawyers look good.</p>
+        <p>Rick Melamed</p>
+        <p>New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

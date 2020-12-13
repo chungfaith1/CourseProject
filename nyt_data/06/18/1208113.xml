@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Double-Life Crusade</title>
+    <meta content="LTR105338" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208113"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Abortion</classifier>
+        <org class="indexing_service">Roman Catholic Church</org>
+        <person class="indexing_service">O'connor, John (Cardinal)</person>
+        <person class="indexing_service">Barrette, Gene (Rev)</person>
+        <person class="indexing_service">Sullivan, Andrew</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Abortion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E3DA153EF93BA25755C0A9669C8B63" item-length="120" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Double-Life Crusade</hl1>
+      </hedline>
+      <abstract>
+        <p>Rev Gene Barrette letter lauds Andrew Sullivan's May 21 Way We Live column as excellent tribute to Cardinal O'Connor's pro-life mission1</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Abundant thanks for Andrew Sullivan's column ''The Double-Life Crusade'' (The Way We Live Now, May 21). It served as another excellent tribute to Cardinal O'Connor's powerful pro-life mission. Sullivan put flesh and facts on that extended applause given during Cardinal Law's eulogy.</p>
+        <p>The Rev. Gene</p>
+        <p>Barrette</p>
+        <p>Smyrna, Ga.</p>
+      </block>
+      <block class="full_text">
+        <p>Abundant thanks for Andrew Sullivan's column ''The Double-Life Crusade'' (The Way We Live Now, May 21). It served as another excellent tribute to Cardinal O'Connor's powerful pro-life mission. Sullivan put flesh and facts on that extended applause given during Cardinal Law's eulogy.</p>
+        <p>The Rev. Gene</p>
+        <p>Barrette</p>
+        <p>Smyrna, Ga.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

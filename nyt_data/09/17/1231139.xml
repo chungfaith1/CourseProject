@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>We Got It</title>
+    <meta content="LTR023402" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Movies; Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1231139"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="'THIS IS SPINAL TAP'"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <person class="indexing_service">Jackson, Tom</person>
+        <person class="indexing_service">Leland, John</person>
+        <object.title class="indexing_service">This Is Spinal Tap (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000917T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E6D81238F934A2575AC0A9669C8B63" item-length="205" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>We Got It</hl1>
+      </hedline>
+      <abstract>
+        <p>Tom Jackson letter disputes John Leland's assertion in September 3 article that 1984 movie This Is Spinal Tap dumbfounded audiences (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>John Leland's suggestion that moviegoing audiences didn't ''get''  ''This Is Spinal Tap'' in 1984, thus necessitating its rerelease, is ludicrous [''The Heavy Metal Joke Not Everyone Got,'' Sept. 3]. Certainly the sold-out audience I watched it with in the West Village laughed almost continuously, and it played both there and in theaters around the country for months.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>John Leland's suggestion that moviegoing audiences didn't ''get''  ''This Is Spinal Tap'' in 1984, thus necessitating its rerelease, is ludicrous [''The Heavy Metal Joke Not Everyone Got,'' Sept. 3]. Certainly the sold-out audience I watched it with in the West Village laughed almost continuously, and it played both there and in theaters around the country for months.</p>
+        <p>Almost instantly, lines like ''This one goes to 11'' and ''It's a fine line between clever and stupid'' became national catch phrases. Mr. Leland proposes that ''dumbfounded test audiences saw 'Spinal Tap' in the towering shadow of the Stones.''  ''Spinal Tap'' mocked the excesses of irrelevant dinosaurs like the Rolling Stones accurately and mercilessly, and even back in the dark ages of 1984, many millions of us were able to grasp that.</p>
+        <p>TOM JACKMAN  Oakton, Va.</p>
+        <p>'THIS IS SPINAL TAP'</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

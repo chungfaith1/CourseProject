@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Connection Gap</title>
+    <meta content="LTR010208" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1202309"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Rural Areas</classifier>
+        <person class="indexing_service">kornheiser, alan s</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rural Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000525T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEFD9153DF936A15756C0A9669C8B63" item-length="159" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Connection Gap</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Alan S Kornheiser says May 18 article on difficulty of being connected to Internet in rural areas fails to appreciate how much of country is electronically underserved</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I think the article about the difficulty of being connected to the Internet in rural areas (''Life in the Slow Lane,'' May 18) fails to appreciate how much of the country is electronically underserved. I live in Westchester -- true, it's the northeast corner, but it's Westchester. My Internet connection maxes out at 24K, with slower speeds common.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I think the article about the difficulty of being connected to the Internet in rural areas (''Life in the Slow Lane,'' May 18) fails to appreciate how much of the country is electronically underserved. I live in Westchester -- true, it's the northeast corner, but it's Westchester. My Internet connection maxes out at 24K, with slower speeds common.</p>
+        <p>We do have cable television here, but we will presumably get broadband cable service, or D.S.L., when Hades becomes frigid. We don't even have decent cellular phone service. There is analog, which comes and goes as you drive around here, but no digital.</p>
+        <p>Please be aware that Rural 'R' Us, at least as far as electronic connections are concerned.</p>
+        <p>ALAN S. KORNHEISER  North Salem, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

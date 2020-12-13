@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Irregular New Accounts Alerted Microsoft to Network Intruder</title>
+    <meta content="Y29SOF$02" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/29/technology/29SOFT.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1243021"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <org class="indexing_service">Microsoft Corp</org>
+        <person class="indexing_service">Schwartz, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001029T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03EFDA1730F93AA15753C1A9669C8B63" item-length="863" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Irregular New Accounts Alerted Microsoft to Network Intruder</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN SCHWARTZ</byline>
+      <byline class="normalized_byline">Schwartz, John</byline>
+      <abstract>
+        <p>Microsoft Corp says break-in at its computer network lasted week, not six weeks, and was discovered and tracked by security staff monitoring creation of accounts that give users access to parts of network; seeks to counter impression that its internal security was lax or that its products were compromised; says attacker gained access to network by hiding rogue program within another program sent to home computer of employee with network access (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Howard A. Schmidt's staff called with troubling news late in the day on Tuesday, Oct. 17. ''Some accounts were being created that did not match our normal audit logs,'' Mr. Schmidt, the corporate security officer for the Microsoft Corporation, said yesterday.</p>
+        <p>A new account gives a user access to parts of a computer network, and the creation of accounts is carefully monitored by companies like Microsoft. New accounts that were not created by the usual procedures raised a red flag: a computer intruder could be working his way into the software giant's network.</p>
+      </block>
+      <block class="full_text">
+        <p>Howard A. Schmidt's staff called with troubling news late in the day on Tuesday, Oct. 17. ''Some accounts were being created that did not match our normal audit logs,'' Mr. Schmidt, the corporate security officer for the Microsoft Corporation, said yesterday.</p>
+        <p>A new account gives a user access to parts of a computer network, and the creation of accounts is carefully monitored by companies like Microsoft. New accounts that were not created by the usual procedures raised a red flag: a computer intruder could be working his way into the software giant's network.</p>
+        <p>On Friday, the rest of the world found out that Microsoft had been the victim of a break-in. But yesterday the company said that contrary to earlier reports and information it had provided, the episode did not span six weeks, but only a week.</p>
+        <p>In providing the fullest account to date of the episode, Microsoft said it hoped to correct impressions that its internal security was lax or that its products had been compromised.</p>
+        <p>When it came to describing in detail the actual method used to break into the company's networks, Microsoft officials said they were somewhat constrained by the continuing investigation.'</p>
+        <p>But in describing one possible chain of events, which corresponds to previous reports of the incident, they said the attacker did not directly enter Microsoft's computer networks. Instead, the point of entry was an employee's home machine, connected to the company's network.</p>
+        <p>The intruder sent the initial victim a rogue program called QAZ Trojan hidden within another program. Like the Trojan horse for which it is named, a Trojan program makes its way through a victim's defenses through trickery, and once inside releases a potent hidden payload.</p>
+        <p>In the case of QAZ, that meant the program opened a back door on the infected computer allowing the intruder easy access to that machine. The program then searches for other machines on the victim's network and tries to commandeer those as well, sending the network addresses and passwords of each infected machine to a designated Internet location.</p>
+        <p>Like most protected computer security networks, the internal system at Microsoft is buffered from the Internet by a software barrier known as a firewall. Those security systems prevent unauthorized users from getting into the network, but a firewall alone cannot prevent a connection from an authorized user's machine that has been taken over by an unauthorized third party.</p>
+        <p>Mr. Schmidt and his staff monitored the activities of the intruder closely over the next two days as he popped into the system for a few minutes at a time, creating new accounts with varying permissions, or degrees of access to the network, and seeing how deeply he could penetrate the system. In that time, Microsoft said, the intruder came across the source code for a product being prepared for future release but not part of the company's core products.</p>
+        <p>As he conferred with his staff, Mr. Schmidt said, they discussed the usual options that security officials face when dealing with hackers: to monitor quietly, to block the intruder, or to turn the case over to law enforcement. At first, he said, the company decided to deny access to the intruder, and shut down the new accounts on Friday, Oct. 20. Over the weekend, no new intrusions were detected.</p>
+        <p>But on Monday, the officials said, the trespasser was back through the same route, creating more accounts and trying to gain access to the blocked ones. On Tuesday, Mr. Schmidt said, the company shut down all the intruder's accounts, and the next day it alerted law enforcement officials.</p>
+        <p>Mr. Schmidt said the intruder might have had access to the victim's computer before Oct. 17, but would not have raised alarms within the security offices until he created the new accounts.</p>
+        <p>Although the intruder may have seen the source code, Mr. Schmidt said, it is highly unlikely that he did more than get a glimpse. Any attempt to download or transfer such files to another machine would have been recorded, and there was no record of a transfer in the company's computers, Mr. Schmidt said.</p>
+        <p>And although data can simply be copied and pasted from one file to another, as paragraphs are moved in word processing documents, Mr. Schmidt said that the files in question are too large to make such operations practical.</p>
+        <p>''It would not be consistent to have the time to do that with relatively long chunks of data,'' he said.</p>
+        <p>The description of a one-week intrusion was a departure from accounts offered Friday, when Microsoft said the incidents went back as far as six weeks. Mr. Schmidt said yesterday that the company had dealt with routine computer virus incidents in September and could not be certain on Friday that the incidents were unrelated to the break-in.</p>
+        <p>''We were trying to be conservative and not rule anything out until we could definitively rule it out,'' Mr. Schmidt said. In the intervening day, ''we now can definitively rule it out.''</p>
+        <p>Federal law enforcement officials said yesterday that they were continuing to investigate the break-in.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

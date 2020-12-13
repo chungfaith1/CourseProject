@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>PC's Under Surveillance</title>
+    <meta content="LTR005826" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211261"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <org class="indexing_service">Microsoft Corp</org>
+        <person class="indexing_service">smith, clara</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000629T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E6DC1F30F93AA15755C0A9669C8B63" item-length="139" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>PC's Under Surveillance</hl1>
+      </hedline>
+      <abstract>
+        <p>Clara Smith letter on spy software (June 22 article) says fault lies with Windows operating system, which does not provide user with commands to identify all programs running on the PC and to stop them at will</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Before discussing the ethics involved in selling spy software applications, we should consider the software environment that allows programs to snoop, spy, start viruses and store hidden files on the owner's hard drive without his or her knowledge. What the article fails to mention is that Windows is the only operating system where the user is not provided with commands to identify all programs running on his or her PC and to stop them at will. It is also the only operating system that the user and owner of the PC is required to pay for when buying a new PC.</p>
+        <p>CLARA SMITH  Brewster, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Before discussing the ethics involved in selling spy software applications, we should consider the software environment that allows programs to snoop, spy, start viruses and store hidden files on the owner's hard drive without his or her knowledge. What the article fails to mention is that Windows is the only operating system where the user is not provided with commands to identify all programs running on his or her PC and to stop them at will. It is also the only operating system that the user and owner of the PC is required to pay for when buying a new PC.</p>
+        <p>CLARA SMITH  Brewster, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

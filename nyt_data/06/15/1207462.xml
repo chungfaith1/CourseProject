@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Offshore Scanners</title>
+    <meta content="15STYP$01" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1207462"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="THE LABOR FORCE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Libraries and Librarians</classifier>
+        <person class="indexing_service">Guernsey, Lisa</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Libraries and Librarians</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E0DF103EF936A25755C0A9669C8B63" item-length="341" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Offshore Scanners</hl1>
+      </hedline>
+      <byline class="print_byline">By LISA GUERNSEY</byline>
+      <byline class="normalized_byline">Guernsey, Lisa</byline>
+      <abstract>
+        <p>US-based companies are using workers from third-world countries to 'double key' book texts for computerization (S)l</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CONSIDER the task of turning a printed book into an electronic one: Each page must be digitally scanned, one after the other. Each line must be checked for characters that were not captured correctly, like e's that look like c's, or commas that should be periods.</p>
+        <p>Now imagine that task on a larger scale, in which tens of thousands of books are digitized within months.</p>
+      </block>
+      <block class="full_text">
+        <p>CONSIDER the task of turning a printed book into an electronic one: Each page must be digitally scanned, one after the other. Each line must be checked for characters that were not captured correctly, like e's that look like c's, or commas that should be periods.</p>
+        <p>Now imagine that task on a larger scale, in which tens of thousands of books are digitized within months.</p>
+        <p>To handle such a load, companies based in the United States that offer digital copies of printed materials are starting to rely on large pools of laborers outside the country. Questia Media and netLibrary, for example, hire document-management companies that run offshore offices. (Ebrary.com usually, but not always, handles documents that already exist digitally.)</p>
+        <p>American companies use offshore services for one reason, said Herbert F. Schantz, a consultant in Sterling, Va.: cheap labor. An entry-level job preparing digitized material in the United States might pay $7 or $8 an hour. But in countries with far lower income levels, it pays as little as 30 cents an hour, he said. The laborers are usually in China, India, Mexico, the Philippines or countries in the Caribbean or Africa.</p>
+        <p>Mr. Schantz said that the books were often scanned in the United States and that the text files were sent over the Internet to offshore offices. In other cases, scanners are not used at all. The printed pages are sent to offshore offices where people are employed to ''double key'' them -- two people type in the same document, creating two versions. Then software picks up variations between them, which are likely to be typographical errors.</p>
+        <p>Even with such precautions, Mr. Schantz said, digitized material will probably still contain a few mistakes. So proofreaders and editors are sometimes employed to take a final look, usually in the United States.</p>
+        <p>LISA GUERNSEY</p>
+        <p>THE LABOR FORCE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

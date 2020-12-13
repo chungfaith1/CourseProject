@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Movie Studios Seek to Stop DVD Copies</title>
+    <meta content="Y18DVD$02" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Movies; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215830"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Dvd (Digital Versatile Disk)</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Codes (Ciphers)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Copyrights</classifier>
+        <person class="indexing_service">Harmon, Amy</person>
+        <person class="indexing_service">Kaplan, Lewis A (Judge)</person>
+        <person class="indexing_service">Corley, Eric</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/DVD and Video</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features/Copyright</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Codes (Ciphers)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Copyrights</classifier>
+        <classifier class="online_producer" type="general_descriptor">DVD (Digital Versatile Disk)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000718T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE6D8133BF93BA25754C0A9669C8B63" item-length="505" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Movie Studios Seek to Stop DVD Copies</hl1>
+      </hedline>
+      <byline class="print_byline">By AMY HARMON</byline>
+      <byline class="normalized_byline">Harmon, Amy</byline>
+      <abstract>
+        <p>Lawyers for eight movie studios urge Judge Lewis Kaplan to keep Eric Corley from distributing on his Web site software program that unscrambles encryption on DVD movie discs (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>On the first day of a case that could test the limits of Hollywood's control over its digital properties, lawyers for eight movie studios yesterday urged a federal judge to stop a Web site operator from distributing a software program that unscrambles the encryption on DVD movie discs. The lawyers asked the court to act before they have the same fate as the record labels, which have seen their songs traded freely by millions of Internet users.</p>
+        <p>The studios are seeking to show that Eric Corley, publisher of 2600, a computer hacker magazine and Web site, violated the law by posting on his Web site, and linking to other Web sites that do the same, a program that breaks the code called CSS, or Content Scrambling System, on DVD's. Once the program, known as DeCSS, is invoked, a movie can be copied and sent across the Internet.</p>
+      </block>
+      <block class="full_text">
+        <p>On the first day of a case that could test the limits of Hollywood's control over its digital properties, lawyers for eight movie studios yesterday urged a federal judge to stop a Web site operator from distributing a software program that unscrambles the encryption on DVD movie discs. The lawyers asked the court to act before they have the same fate as the record labels, which have seen their songs traded freely by millions of Internet users.</p>
+        <p>The studios are seeking to show that Eric Corley, publisher of 2600, a computer hacker magazine and Web site, violated the law by posting on his Web site, and linking to other Web sites that do the same, a program that breaks the code called CSS, or Content Scrambling System, on DVD's. Once the program, known as DeCSS, is invoked, a movie can be copied and sent across the Internet.</p>
+        <p>''The threat of world copying is here and the process has begun,'' said Leon Gold, a partner with the New York law firm of Proskauer Rose and lead lawyer for the plaintiffs. ''It will become an avalanche unless this court acts.''</p>
+        <p>A section of the federal Digital Millennium Copyright Act of 1998 makes it illegal for anyone to offer to the public a device that is primarily intended to circumvent a technological barrier controlling access to a copyright-protected work. But Mr. Corley's lawyers argue that the law must be balanced against the First Amendment concept of ''fair use,'' which allows consumers certain freedoms with copyrighted works.</p>
+        <p>The case will determine whether the new technology ''fundamentally means the end of fair use,'' Martin Garbus, Mr. Corley's lead lawyer, said in his opening statement.</p>
+        <p>The defendants have argued that DeCSS is legitimately used to allow people who already own DVD's to view the discs on computers running the Linux operating system, which they are unable to do without descrambling the encryption.</p>
+        <p>Judge Lewis Kaplan, of the United States District Court, granted a preliminary injunction in January that required Mr. Corley to remove DeCSS from his site.</p>
+        <p>Yesterday, he heard testimony from the plaintiff's first witness, Michael Shamos, a computer science professor at Carnegie-Mellon.</p>
+        <p>Judge Kaplan came down from the bench to view a laptop computer on which Mr. Shamos showed first a DVD of ''Sleepless in Seattle'' and then a copy of the DVD that he and an assistant had descrambled with the DeCSS program and compressed with another program.</p>
+        <p>Mr. Shamos said the practice of using DeCSS to copy movies is on the rise. But on cross-examination, Mr. Garbus sought to highlight how difficult the process is to perform, noting that it took Mr. Shamos and his assistant 20 hours to obtain the compressed, unscrambled version of the movie.</p>
+        <p>''Would you agree with me that this is very tough stuff?'' Mr. Garbus asked.</p>
+        <p>''It is not fun,'' Mr. Shamos acknowledged.</p>
+        <p>TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

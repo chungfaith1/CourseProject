@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Selig Says Series Is the Hottest Ticket</title>
+    <meta content="22SELI" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/22/sports/22SELI.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1241104"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BASEBALL: SUBWAY SERIES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">World Series</classifier>
+        <org class="indexing_service">New York Yankees</org>
+        <org class="indexing_service">New York Mets</org>
+        <person class="indexing_service">Selig, Bud</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Mets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Series</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001022T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E4D81F3EF931A15753C1A9669C8B63" item-length="154" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Selig Says Series Is the Hottest Ticket</hl1>
+      </hedline>
+      <abstract>
+        <p>Baseball Comr Bud Selig discusses ticket demand for World Series between New York Yankees and New York Mets (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Commissioner Bud Selig has heard the talk that a Subway Series will hold little allure outside New York, but from the way the phones have been ringing at Major League Baseball's offices this week, he is certain that there is little truth to it.</p>
+      </block>
+      <block class="full_text">
+        <p>Commissioner Bud Selig has heard the talk that a Subway Series will hold little allure outside New York, but from the way the phones have been ringing at Major League Baseball's offices this week, he is certain that there is little truth to it.</p>
+        <p>''From listening to the news, and the ticket requests that we had in our office, without a doubt this is the most intense ticket requests I've seen in 35 years in baseball,'' he said. ''And it has come from all over the country. I've never seen more requests. The conventional wisdom that nobody west of the Hudson River is interested I think will be proven wrong and I think the ratings will show that.''</p>
+        <p>BASEBALL: SUBWAY SERIES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

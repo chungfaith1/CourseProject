@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Smart Set</title>
+    <meta content="LTR084805" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209977"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000625T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E4DF1331F936A15755C0A9669C8B63" item-length="86" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Smart Set</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Midwood High School has always been a laboratory for intellectual pursuits. As a graduate of the class of 1959, I was challenged constantly. The standards were high; we were expected to meet them.</p>
+      </block>
+      <block class="full_text">
+        <p>Midwood High School has always been a laboratory for intellectual pursuits. As a graduate of the class of 1959, I was challenged constantly. The standards were high; we were expected to meet them.</p>
+        <p>This high school is a testament to public education as the great equalizer in a democracy. With talented educators, high standards, a supportive atmosphere and students who are willing to work hard, our public schools work.</p>
+        <p>Sandy Lipschitz Loft</p>
+        <p>Teaneck, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

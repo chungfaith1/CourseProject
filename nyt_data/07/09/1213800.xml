@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV131453" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213800"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Garelick, Jon</person>
+        <person class="indexing_service">Cammuso, Frank</person>
+        <person class="indexing_service">Seely, Hart</person>
+        <object.title class="indexing_service">2007-Eleven: And Other American Comedies (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000709T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E0D91F30F93AA35754C0A9669C8B63" item-length="240" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Jon Garelick</byline>
+      <byline class="normalized_byline">Garelick, Jon</byline>
+      <abstract>
+        <p>Jon Garelick reviews book 2007-Eleven: And Other American Comedies by Frank Cammuso and Hart Seely (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>2007-ELEVEN</p>
+        <p>And Other American Comedies.</p>
+        <p>By Frank Cammuso and Hart Seely.</p>
+        <p>Villard, $19.95.</p>
+      </block>
+      <block class="full_text">
+        <p>2007-ELEVEN</p>
+        <p>And Other American Comedies.</p>
+        <p>By Frank Cammuso and Hart Seely.</p>
+        <p>Villard, $19.95.</p>
+        <p>Frank Cammuso and Hart Seely's ''comedies'' are topical satires, many of which were first published in The New Yorker and The New York Times, or were heard on National Public Radio. Their pastiche technique is familiar: lampoon the events and trends of the day by overlaying one form on another. So the Lands' End catalog is written in the voice of David Mamet (''GlenGarry Glen Plaid''), Mulder and Scully look at Santa Claus as an alien life form (''The Xmas Files''), ''The Three Little Pigs'' gets told in Quentin Tarantino dialogue (''Pork Fiction''), Bill and Hillary talk like Fred and Wilma (''The Clintstones'') -- and so on. Cammuso, an editorial cartoonist at The Post-Standard in Syracuse, and Seely, a reporter at The Post-Standard, do not take language to the kind of loopy extremes -- or with the pinpoint precision -- that produces laughter in a burst of recognition. Nothing special gets revealed on either side of their equations. These occasional pieces are perhaps more amusing when found on the op-ed page or heard with the boost of comic timing on radio.</p>
+        <p>Jon Garelick</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

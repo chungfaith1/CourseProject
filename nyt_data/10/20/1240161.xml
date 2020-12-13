@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DINER'S JOURNAL</title>
+    <meta content="20JOUR" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="49" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/20/living/20JOUR.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1240161"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Mamlouk (NYC Restaurant)</org>
+        <person class="indexing_service">Grimes, William</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Diner's Journal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001020T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E7D6143EF933A15753C1A9669C8B63" item-length="398" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DINER'S JOURNAL</hl1>
+      </hedline>
+      <byline class="print_byline">By William Grimes</byline>
+      <byline class="normalized_byline">Grimes, William</byline>
+      <abstract>
+        <p>William Grimes Diner's Journal review of Mamlouk, Middle Eastern restaurant in East Village; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>All over New York multiple sins have been committed in the name of baba gannouj. Hummus has been subjected to unspeakable acts. Right off the bat, Mamlouk deserves praise for restoring luster to these Middle Eastern staples. The hummus has no tricks up its sleeve other than fresh ingredients mixed in the proper proportions and a texture that's pure satin. The same goes for the wonderfully smoky baba gannouj, sprinkled with a few jewel-like pomegranate seeds. These two classics made up only two-fifths of the first course in Mamlouk's set menu the night I ate there. They were joined by a puree of red bell peppers thickened with ground walnuts, a salsalike avocado salad and a sweet, syrupy mound of grilled marinated bell peppers.</p>
+        <p>Next came fatoush, a mint-accented salad strewn with crisp pita chips. Then there was a vegetarian moussaka, the Egyptian-style tomato-eggplant stew rather than the Greek dish of the same name, followed by hefty chunks of lamb shank in a creamy, lemony sauce based on dried yogurt and topped with toasted pine nuts. There was more to come: chicken in a dense lentil puree, and then zarda, a rustic Iraqi rice pudding, not too sweet, with baked apple slices and walnuts.</p>
+      </block>
+      <block class="full_text">
+        <p>All over New York multiple sins have been committed in the name of baba gannouj. Hummus has been subjected to unspeakable acts. Right off the bat, Mamlouk deserves praise for restoring luster to these Middle Eastern staples. The hummus has no tricks up its sleeve other than fresh ingredients mixed in the proper proportions and a texture that's pure satin. The same goes for the wonderfully smoky baba gannouj, sprinkled with a few jewel-like pomegranate seeds. These two classics made up only two-fifths of the first course in Mamlouk's set menu the night I ate there. They were joined by a puree of red bell peppers thickened with ground walnuts, a salsalike avocado salad and a sweet, syrupy mound of grilled marinated bell peppers.</p>
+        <p>Next came fatoush, a mint-accented salad strewn with crisp pita chips. Then there was a vegetarian moussaka, the Egyptian-style tomato-eggplant stew rather than the Greek dish of the same name, followed by hefty chunks of lamb shank in a creamy, lemony sauce based on dried yogurt and topped with toasted pine nuts. There was more to come: chicken in a dense lentil puree, and then zarda, a rustic Iraqi rice pudding, not too sweet, with baked apple slices and walnuts.</p>
+        <p>Mamlouk is the younger sibling of the two Moustache restaurants in Greenwich Village. Salam al-Rawi, the owner and chef, shuffles the menu nightly, roaming all over the Middle East from Egypt to Jordan to Iran and his native Iraq. The fixed menu puts all the decisions in his very able hands, so diners need only show up, order a pot of mint tea and wait for the culinary trip to begin. Tables for two are closely spaced and rather uncomfortable. Parties of four get more room and much less chance of watching the dishwashers at work. For $15, diners can order a hookah and puff away like the caterpillar in Alice in Wonderland.</p>
+        <p>Mamlouk, 211 East Fourth Street, East Village, (212) 529-3477. Dinner, $30.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

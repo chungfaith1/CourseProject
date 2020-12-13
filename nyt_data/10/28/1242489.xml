@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Microsoft Says Online Break-In Lasted 6 Weeks</title>
+    <meta content="28SOFT$04" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Front Page; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/28/technology/28SOFT.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1242489"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">Microsoft Corp</org>
+        <org class="indexing_service">Federal Bureau of Investigation</org>
+        <person class="indexing_service">Markoff, John</person>
+        <person class="indexing_service">Schwartz, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001028T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E6DB1630F93BA15753C1A9669C8B63" item-length="1124" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Microsoft Says Online Break-In Lasted 6 Weeks</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF and JOHN SCHWARTZ</byline>
+      <byline class="normalized_byline">Markoff, John; Schwartz, John</byline>
+      <abstract>
+        <p>Microsoft Corp says unidentified intruders had access to its computers for about six weeks and were able to view some of source code for future software product; says culprits were not able to view or steal source code for Microsoft's most important products, its Windows and Office software; has contacted FBI for help (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Unidentified intruders had access to Microsoft computers for about six weeks and were able to view some of the source code -- a programmer's basic instructions -- for a future software product, the company said yesterday.</p>
+        <p>Several people close to the investigation said the company believed that the online intruders had exploited vulnerabilities in the computer of a Microsoft employee working remotely, possibly at home, and used it as a passageway to the corporate network.</p>
+      </block>
+      <block class="full_text">
+        <p>Unidentified intruders had access to Microsoft computers for about six weeks and were able to view some of the source code -- a programmer's basic instructions -- for a future software product, the company said yesterday.</p>
+        <p>Several people close to the investigation said the company believed that the online intruders had exploited vulnerabilities in the computer of a Microsoft employee working remotely, possibly at home, and used it as a passageway to the corporate network.</p>
+        <p>The break-in was reported yesterday by The Wall Street Journal. But contrary to The Journal's report, a company spokesman said, the culprits were not able to view or steal the source code for Microsoft's most important products, its Windows and Office software.</p>
+        <p>''The situation appears to be narrower than originally thought,'' said the spokesman, Mark Murray. ''The investigation shows no evidence that the intruder gained any access to our Windows or Office products.''</p>
+        <p>Microsoft was aware of aspects of the attack for some time, those close to the investigation said, but pieced the situation together only this week. The company said it had contacted the Federal Bureau of Investigation for help.</p>
+        <p>''We've received information from Microsoft that we are evaluating at this time, and it's premature to say anything else,'' said Roberta Burroughs, spokeswoman for the Seattle field office of the F.B.I.</p>
+        <p>Speaking to reporters at a seminar in Stockholm, Steven A. Ballmer, the company's chief executive, said, ''It is clear that hackers did see some of our source code,'' Reuters and The Associated Press reported.</p>
+        <p>Mr. Ballmer said the burglars had not changed any software programs, and he sought to dispel any concern that a virus might have been hidden inside future versions of Microsoft products.</p>
+        <p>''I can assure you that we know that there has been no compromise of the integrity of the source code, that it has not been modified or tampered with in any way,'' he added.</p>
+        <p>Microsoft shares some source code with partner companies, but in general vigorously guards that information from outsiders. To do otherwise, it has argued, would hurt its business and curtail its incentives to develop new products.</p>
+        <p>Microsoft's source code would be a huge trophy for a member of the computer underground. Examining the original programmer's instructions can permit a vandal to find flaws or vulnerabilities not publicly known; it is also possible to compile a version of a program from the source code that could contain a hidden vulnerability, making the program a Trojan horse.</p>
+        <p>And actually manipulating the code within Microsoft's own system could have allowed an intruder to insert additional code, either benign -- producing messages or functions that software pranksters call Easter eggs -- or malicious.</p>
+        <p>Even though the company said none of its code was tampered with, computer security professionals made much of the fact that even Microsoft could be the victim of such a break-in.</p>
+        <p>''If this can happen to Microsoft, this could happen to anybody,'' said Sandra K. England, president of PGP Security, a business unit of Network Associates, which sells encryption and intrusion detection products.  ''I think this will cause companies to re-evaluate their own security policies and their own security infrastructure.''</p>
+        <p>The method used in the intrusion was not highly sophisticated, according to a person close to the Microsoft investigation. That may have allowed the break-in to be detected more easily, though it made the intrusion itself all the more alarming.</p>
+        <p>Microsoft said yesterday that the recent episode was the first in which its computer network had been penetrated, though in at least one previous case a company Web site had been defaced. And one expert said Microsoft's reputation for internal security was strong, especially considering its prominence as a target.</p>
+        <p>''Microsoft is at the top of every hacker's list of networks they want to break into,'' said Amit Yoran, the chief executive of Riptech Inc. of Alexandria, Va., which monitors computer networks for corporate clients. ''The job the security people have to do is tremendous.''</p>
+        <p>To secure its network Microsoft allows employees to work remotely on computers and then gain access to the corporate network using one of two technologies, remote access service or virtual private network.</p>
+        <p>Those are software protocols that create a secure channel between a remote computer and the company's network. In addition, Microsoft's computer system, like any corporate network, has a software barrier known as a fire wall, which tightly regulates the flow of data between the internal network and the open Internet. The lack of a similar fire wall on the computer system of a remote user, however, could allow an outsider to piggyback on that user's authorized connection.</p>
+        <p>According to several of the company's programmers, however, Microsoft does not use an added layer of security, a special card that transmits a unique identifying number each time a user logs in. As a result, a commandeered computer could more easily be prompted to establish a connection.</p>
+        <p>A person close to the company's investigation said the break-in had led Microsoft to re-evaluate its security system for remote workers.</p>
+        <p>A company spokesman said Microsoft had shut down the connection using remote access service for at least 24 hours as a precaution. That move suggested that the intruders had gained access to the company's computers through a remote worker's slower dial-up connection rather than a high-speed Internet link, making it more difficult to download the company's source code.</p>
+        <p>A person close to the investigation said the intruders had used a program called QAZ Trojan, which relies on what members of the computer underground call ''social engineering'' -- the ability to fool a computer user into running a seemingly benign program that performs a furtive task, undetected.</p>
+        <p>Such a program, once installed, opens an electronic backdoor on the infected computer and then searches the local network for other machines to infect. It also sends the network addresses of all the infected machines to a designated location on the Internet, permitting those machines to be commandeered remotely.</p>
+        <p>The Wall Street Journal reported that such a program had been used to send the address of a Microsoft employee's computer to an Internet address in St. Petersburg, Russia. But those close to the investigation said they could not confirm that report.</p>
+        <p>Computer security professionals say St. Petersburg appears to be a stronghold of the Russian computer underground. It was the city from which a young programmer, Vladimir Levin, infiltrated the computers of Citibank's electronic funds transfer system in 1995. Although he was able to steal some money from the bank, he was arrested by Interpol at Heathrow Airport in England.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

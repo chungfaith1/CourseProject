@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="23TRAN$07" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201901"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000523T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07EFDA173DF930A15756C0A9669C8B63" item-length="267" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BASEBALL  American League</p>
+        <p>ANAHEIM ANGELS--Placed RHP Mark Petkovsek on the 15-day disabled list retroactive to May 17. Recalled RHP Brian Cooper from Edmonton of the PCL.</p>
+      </block>
+      <block class="full_text">
+        <p>BASEBALL  American League</p>
+        <p>ANAHEIM ANGELS--Placed RHP Mark Petkovsek on the 15-day disabled list retroactive to May 17. Recalled RHP Brian Cooper from Edmonton of the PCL.</p>
+        <p>National League  HOUSTON ASTROS--Placed RHP Jay Powell on the 15-day disabled list. Purchased the contract of RHP Kip Gross from New Orleans of the PCL.  MILWAUKEE BREWERS--Sent LHP Horacio Estrada to Indianapolis of the International League. Recalled LHP Rafael Roque from Indianapolis.</p>
+        <p>BASKETBALL  Women's National Basketball Association</p>
+        <p>CLEVELAND ROCKERS--Waived G Beverly Williams and G Angela Atterberry.</p>
+        <p>HOCKEY  International Hockey League</p>
+        <p>IHL--Suspended Cincinnati C Byron Ritchie and Grand Rapids C John Emmons for one game each after an incident in a game on May 20.</p>
+        <p>COLLEGE</p>
+        <p>GREAT LAKES VALLEY CONFERENCE--Announced the resignation of Carl McAloose, commissioner, to become director of athletics at Florida Gulf Coast University.  ARMSTRONG ATLANTIC--Named Roger Hodge women's basketball coach.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

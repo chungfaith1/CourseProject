@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="CN234223" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1216111"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000719T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E2D8113BF93AA25754C0A9669C8B63" item-length="325" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>E. I. DU PONT DE NEMOURS &amp; CO., Wilmington, Del., ended an agreement to buy a research and development facility in Romainville, France, from Aventis S.A.</p>
+        <p>GENERAL ELECTRIC CO., Fairfield, Conn., said its plastics unit, GE Silicones, Waterford, N.Y., had agreed to buy closely held American Silicones Inc., Garrett, Ind., a maker of silicone rubber compounds, for undisclosed terms.</p>
+      </block>
+      <block class="full_text">
+        <p>E. I. DU PONT DE NEMOURS &amp; CO., Wilmington, Del., ended an agreement to buy a research and development facility in Romainville, France, from Aventis S.A.</p>
+        <p>GENERAL ELECTRIC CO., Fairfield, Conn., said its plastics unit, GE Silicones, Waterford, N.Y., had agreed to buy closely held American Silicones Inc., Garrett, Ind., a maker of silicone rubber compounds, for undisclosed terms.</p>
+        <p>SCHERER HEALTHCARE INC., Atlanta, a health-care products company, received an offer from two shareholders to buy the common stock they do not already own for $5 a share.</p>
+        <p>ZALE CORP., Irving, Tex., a jewelry retailer, said it planned to buy back as much as $50 million of its shares. The buyback represents about 1.25 million shares, or 3.5 percent of its 35.6 million shares outstanding as of April 30.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

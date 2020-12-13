@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Go to the Audiotape</title>
+    <meta content="LTR090733" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1221980"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Brown, Jordan D</person>
+        <person class="indexing_service">King, Stephen</person>
+        <person class="indexing_service">Rowling, J K</person>
+        <object.title class="indexing_service">Harry Potter and the Goblet of Fire (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000813T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06EEDA143CF930A2575BC0A9669C8B63" item-length="143" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Go to the Audiotape</hl1>
+      </hedline>
+      <abstract>
+        <p>Jordan D Brown letter praises choice of Stephen King to review J K Rowling's latest book Harry Potter and the Goblet of Fire (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As an adult fan of the Harry Potter books, I was delighted that your ''Sorting Hat'' selected Stephen King to review J. K. Rowling's latest opus, ''Harry Potter and the Goblet of Fire'' (July 23). His commentary was insightful and amusing. (I was relieved that the entrepreneurial King didn't serialize his review, forcing readers to pay for its conclusion through his Web site.) While King is leery of the upcoming movie adaptation, he neglected to mention the outstanding audio books read by the British actor Jim Dale, in which he creates voices for Harry, Hermione, Ron and more than a hundred other characters. If King should ever find himself bedridden again, I suggest he relive Harry's adventures through Dale's inspired performance.</p>
+        <p>Jordan D. Brown  New York</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As an adult fan of the Harry Potter books, I was delighted that your ''Sorting Hat'' selected Stephen King to review J. K. Rowling's latest opus, ''Harry Potter and the Goblet of Fire'' (July 23). His commentary was insightful and amusing. (I was relieved that the entrepreneurial King didn't serialize his review, forcing readers to pay for its conclusion through his Web site.) While King is leery of the upcoming movie adaptation, he neglected to mention the outstanding audio books read by the British actor Jim Dale, in which he creates voices for Harry, Hermione, Ron and more than a hundred other characters. If King should ever find himself bedridden again, I suggest he relive Harry's adventures through Dale's inspired performance.</p>
+        <p>Jordan D. Brown  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

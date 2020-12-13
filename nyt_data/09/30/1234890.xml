@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="30TRAN$07" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234890"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">Coaches and Managers</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <org class="indexing_service">Texas Rangers</org>
+        <person class="indexing_service">Bosman, Dick</person>
+        <person class="indexing_service">Hardy, Larry</person>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000930T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E3DA143DF933A0575AC0A9669C8B63" item-length="552" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+      <abstract>
+        <p>Texas Rangers fire pitching coach Dick Bosman; bullpen coach Larry Hardy will take over for remainder of season (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BASEBALL</p>
+        <p>American League  TEXAS RANGERS--Fired Dick Bosman pitching coach. Announced bullpen coach Larry Hardy will handle the pitching coach duties for the rest of the season.  National League  CHICAGO CUBS--Agreed to terms with RHP Tim Worrell on a two-year contract extension through the 2002 season.</p>
+      </block>
+      <block class="full_text">
+        <p>BASEBALL</p>
+        <p>American League  TEXAS RANGERS--Fired Dick Bosman pitching coach. Announced bullpen coach Larry Hardy will handle the pitching coach duties for the rest of the season.  National League  CHICAGO CUBS--Agreed to terms with RHP Tim Worrell on a two-year contract extension through the 2002 season.</p>
+        <p>HOCKEY</p>
+        <p>National Hockey League  LOS ANGELES KINGS--Returned D Rich Brennan and RW Peter LeBoutillier to Lowell of the AHL. Designated Philippe Boucher for assignment.  NASHVILLE PREDATORS--Traded a 2001 third-round draft pick to the Philadelphia Flyers for D Mark Eaton.  NEW JERSEY DEVILS--Assigned G Jean-Francois Damphousse, G Frederic Henry, D Daryl Andrews, D Josef Boumedienne, D Mike Commodore, D Alex Johnstone, D Andre Lakos, D Lucas Nehrling, D Henrik Rehnberg, F Jiri Bicek, F Max Birbraer, F Sylvain Cloutier, F Pierre Dagenais, F Bryan Duce, F Chris Ferraro, F Stanislav Gron, F Mike Jefferson, F Jason Lehoux, F Carlyle Lewis, F Ryan Pepperall, F Richard Rochefort, F Mike Rupp, F Rob Skrlac, F Doug Stienstra and F Chris Thompson to Albany of the AHL.</p>
+        <p>SOCCER</p>
+        <p>National Professional Soccer League  HARRISBURG HEAT--Signed MF Ze Roberto.</p>
+        <p>COLLEGE</p>
+        <p>AVILA--Named Galen Struve softball coach.  FRANCIS MARION--Named Darwin Vickery assistant baseball coach.  KANSAS--Named Elliot McDermed men's assistant tennis coach.  NEBRASKA--Suspended Cal Bentz, swimming and diving coach, and Keith Moore, Kelly Nordell and Rick Paine, assistant swimming and diving coaches, indefinitely, for possible NCAA rules violations. Named Paul Nelson interim swimming and diving coach.  NORTHEASTERN--Named Stan Nance, Travis Garrett and Frank Martin men's assistant basketball coaches.  SCRANTON--Announced the retirement of Bob Bessoir, men's basketball coach, following the 2000-01 season.  SOUTHERN CAL--Named Malora Guerrero women's assistant rowing coach.  SYRACUSE--Named Christine Goldman assistant swimming coach.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

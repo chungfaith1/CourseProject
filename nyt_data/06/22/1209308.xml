@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Weighty Book</title>
+    <meta content="L22UPD" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209308"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Updike, John</person>
+        <person class="indexing_service">Rabinowitz, Alan (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000622T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E1DB1131F931A15755C0A9669C8B63" item-length="73" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Weighty Book</hl1>
+      </hedline>
+      <abstract>
+        <p>Allan Rabinowitz letter praises John Updike's June 18 Op-Ed article for reminding readers that real books have value that computers cannot match (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Thanks to John Updike (Op-Ed, June 18) for reminding us that real books have value that computers can't match.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Thanks to John Updike (Op-Ed, June 18) for reminding us that real books have value that computers can't match.</p>
+        <p>Add their utility as doorstops, weights, table-levelers and other purely mechanical uses for which there is usually nothing else handy and pocket PC's are worse than useless, and then tell me books are passe!</p>
+        <p>ALLAN RABINOWITZ  Los Angeles, June 20, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

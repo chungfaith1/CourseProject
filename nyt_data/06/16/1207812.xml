@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ANOTHER LONDON LISTING</title>
+    <meta content="MB224520" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1207812"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WORLD BUSINESS BRIEFING: AFRICA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <location class="indexing_service">South Africa</location>
+        <location class="indexing_service">Great Britain</location>
+        <org class="indexing_service">Dimension Data Holdings Ltd</org>
+        <org class="indexing_service">London Stock Exchange</org>
+        <person class="indexing_service">Cauvin, Henri E</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/South Africa</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E5DE1F3EF935A25755C0A9669C8B63" item-length="117" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ANOTHER LONDON LISTING</hl1>
+      </hedline>
+      <byline class="print_byline">By Henri E. Cauvin</byline>
+      <byline class="normalized_byline">Cauvin, Henri E</byline>
+      <abstract>
+        <p>Dimension Data, South Africa's largest information technology company, wins government approval to move its primary listing to London Stock Exchange (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>South Africa's largest information technology company, Dimension Data, has won government approval to move its primary listing to the London Stock Exchange. Dimension, which has been seeking the Finance Ministry's approval for such a move for more than a year, would be the sixth big South African business to list on the London exchange. Like the South African companies that have preceded it, among them Anglo American and South African Breweries, Dimension wants access to the capital that only the largest markets can offer.</p>
+        <p>Henri E. Cauvin (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>South Africa's largest information technology company, Dimension Data, has won government approval to move its primary listing to the London Stock Exchange. Dimension, which has been seeking the Finance Ministry's approval for such a move for more than a year, would be the sixth big South African business to list on the London exchange. Like the South African companies that have preceded it, among them Anglo American and South African Breweries, Dimension wants access to the capital that only the largest markets can offer.</p>
+        <p>Henri E. Cauvin (NYT)</p>
+        <p>WORLD BUSINESS BRIEFING: AFRICA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

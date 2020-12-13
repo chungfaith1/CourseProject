@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.S. Adjusts Inflation Rate Upward for A Small Error</title>
+    <meta content="Y28ECON" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/28/business/28ECON.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1234332"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Price Index</classifier>
+        <org class="indexing_service">Bureau of Labor Statistics (Bls)</org>
+        <person class="indexing_service">Hershey, Robert D Jr</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Price Index</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000928T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE4D8113AF93BA1575AC0A9669C8B63" item-length="511" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.S. Adjusts Inflation Rate Upward for A Small Error</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERT D. HERSHEY Jr.</byline>
+      <byline class="normalized_byline">Hershey, Robert D Jr</byline>
+      <abstract>
+        <p>Bureau of Labor Statistics says Consumer Price Index rose 2.7 percent through August instead of 2.6 percent it initially reported; it attributes understatement to recently discovered error in software used to calculate index's residential rent component and gauge for home ownership (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The government said yesterday that inflation rose a bit faster in the first eight months of this year than it had previously reported, a mistake whose correction means slightly higher payments for recipients of Social Security and other federal benefits.</p>
+        <p>And while economists said that the error, one-tenth of a percentage point, was not large enough to significantly alter their view of the nation's economic performance, it was nonetheless in the direction of faster inflation.</p>
+      </block>
+      <block class="full_text">
+        <p>The government said yesterday that inflation rose a bit faster in the first eight months of this year than it had previously reported, a mistake whose correction means slightly higher payments for recipients of Social Security and other federal benefits.</p>
+        <p>And while economists said that the error, one-tenth of a percentage point, was not large enough to significantly alter their view of the nation's economic performance, it was nonetheless in the direction of faster inflation.</p>
+        <p>Yesterday's acknowledgment by the Bureau of Labor Statistics said that the Consumer Price Index rose 2.7 percent through August of this year instead of the 2.6 percent it initially reported.</p>
+        <p>It attributed the understatement to a recently discovered error in software used to calculate the index's residential rent component and a gauge for home ownership. Because these items account for just over one-quarter of the index, this implies they were understated by about four-tenths of a point.</p>
+        <p>''Although the corrections were large enough to require republication, the general pattern of consumer price behavior this year was little affected,'' the agency said.</p>
+        <p>But the bond market stumbled on the news, and economists did not completely dismiss the error.</p>
+        <p>''It's not dramatic, but this is an important component of the C.P.I.,'' a trend-setting one that fluctuates little from month to month, said Jan Hatzius, an economist at Goldman, Sachs. ''It reinforces the pattern of gradually accelerating core inflation that we've seen and makes it even less likely the Federal Reserve will be cutting rates anytime soon.''</p>
+        <p>Bruce Steinberg, a senior economist at Merrill Lynch &amp; Company, called the mistake too tiny to affect perceptions of inflation or economic growth but said it was ''sort of amazing they could make a mistake like this.''</p>
+        <p>The errors were understood to involve double counting of improvements in the quality of shelter, a process commonly used to adjust the figures so that, say, a new generation of more costly but better standard furnaces does not necessarily raise the inflation rate.</p>
+        <p>The Bureau of Labor Statistics, which declined to elaborate on its statement yesterday, is expected to conduct a briefing on the revision at 9:30 this morning.</p>
+        <p>A spokesman for the Social Security Administration said that a rise of one-tenth point in the C.P.I. for a full year would raise its outlays by about $400 million, or an average payment increase of 74 cents a month for each of its 45.2 million elderly and disabled recipients.</p>
+        <p>Many private contracts are also linked to the C.P.I. as is the type of government bond intended to be inflation-proof. The Treasury did not respond to an inquiry about how inflation-indexed bonds would be handled but the guess on Wall Street was that their value at maturity would simply be increased accordingly.</p>
+        <p>Diane Swonk, immediate past president of the National Association for Business Economics, seized on the mistake to complain of what she called chronic, severe underfinancing of federal statistical agencies. ''Data appears to be the least interesting and least provocative four-letter word in the English language,'' she said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

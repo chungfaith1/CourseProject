@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MORRISTOWN</title>
+    <meta content="MB033755" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1224108"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BRIEFING: COMMUNITIES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baptist Churches</classifier>
+        <classifier class="indexing_service" type="descriptor">Fires and Firemen</classifier>
+        <classifier class="indexing_service" type="descriptor">Arson</classifier>
+        <classifier class="indexing_service" type="descriptor">Historic Buildings and Sites</classifier>
+        <location class="indexing_service">Morristown (NJ)</location>
+        <org class="indexing_service">First Baptist Church (Morristown, Nj)</org>
+        <person class="indexing_service">Demasters, Karen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baptist Churches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Arson</classifier>
+        <classifier class="online_producer" type="general_descriptor">Historic Buildings and Sites</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fires and Firefighters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Christians and Christianity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000820T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E5D9133EF933A1575BC0A9669C8B63" item-length="104" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MORRISTOWN</hl1>
+      </hedline>
+      <byline class="print_byline">By Karen DeMasters</byline>
+      <byline class="normalized_byline">Demasters, Karen</byline>
+      <abstract>
+        <p>Congegation of 108-year-old First Baptist Church of Morristown, NJ, destroyed by arson in May, decides to rebuilt structure in its original Victorian style (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The 108-year-old First Baptist Church of Morristown, which was destroyed by arson in May, will be rebuilt in its original Victorian style rather than being replaced by a modern structure.  The 115-member congregation voted last week to retain the style. No arrests have been made in the case.</p>
+        <p>Karen DeMasters</p>
+      </block>
+      <block class="full_text">
+        <p>The 108-year-old First Baptist Church of Morristown, which was destroyed by arson in May, will be rebuilt in its original Victorian style rather than being replaced by a modern structure.  The 115-member congregation voted last week to retain the style. No arrests have been made in the case.</p>
+        <p>Karen DeMasters</p>
+        <p>BRIEFING: COMMUNITIES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

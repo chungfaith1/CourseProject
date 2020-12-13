@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>So, How's the Coffee?</title>
+    <meta content="19FBOX$05" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1239918"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Design</classifier>
+        <person class="indexing_service">Asimov, Eric</person>
+        <person class="indexing_service">Sapper, Richard</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001019T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506EEDF153EF93AA25753C1A9669C8B63" item-length="166" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>So, How's the Coffee?</hl1>
+      </hedline>
+      <byline class="print_byline">By ERIC ASIMOV</byline>
+      <byline class="normalized_byline">Asimov, Eric</byline>
+      <abstract>
+        <p>Eric Asimov appraises new stove-top Coban espresso maker designed by Richard Sapper; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CONSIDERING that cafes in Italian train stations routinely achieve espresso perfection hundreds of times a day, producing a satisfying cup in the United States seems far more difficult than it ought to be. Fine restaurants routinely botch the operation, while efforts at home, particularly with those inexpensive stove-top pots, range from murky water to mud.</p>
+        <p>For frustrated espresso drinkers, the new Alessi machine offers a nearly idiot-proof solution. Using Nespresso capsules filled with premeasured and preground coffee beans in eight blends, it produces fine cups of espresso, complete with a desirably thick layer of crema, or foam, on top. The espresso is rich and aromatic, and though the flavor is not as intense as it would be with fresh ground beans, it is nonetheless satisfying.</p>
+      </block>
+      <block class="full_text">
+        <p>CONSIDERING that cafes in Italian train stations routinely achieve espresso perfection hundreds of times a day, producing a satisfying cup in the United States seems far more difficult than it ought to be. Fine restaurants routinely botch the operation, while efforts at home, particularly with those inexpensive stove-top pots, range from murky water to mud.</p>
+        <p>For frustrated espresso drinkers, the new Alessi machine offers a nearly idiot-proof solution. Using Nespresso capsules filled with premeasured and preground coffee beans in eight blends, it produces fine cups of espresso, complete with a desirably thick layer of crema, or foam, on top. The espresso is rich and aromatic, and though the flavor is not as intense as it would be with fresh ground beans, it is nonetheless satisfying.</p>
+        <p>I've had cups of espresso that are better, but I've had many, many more that are worse.</p>
+        <p>ERIC ASIMOV</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

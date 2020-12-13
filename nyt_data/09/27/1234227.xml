@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Paid Notice: Deaths  KEEGAN, JAMES</title>
+    <meta content="DN092700" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Classified" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Paid Death Notices" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234227"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <person class="indexing_service">KEEGAN, JAMES</person>
+        <classifier class="online_producer" type="types_of_material">Paid Death Notice</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Paid Death Notices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000927T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E4DA103AF934A1575AC0A9669C8B63" item-length="50" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Paid Notice: Deaths  KEEGAN, JAMES</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>KEEGAN-James: longtime resident of Riverdale, N.Y.: died in Riverdale on 25 September, 2000 at age 58 after a sudden illness. He was a remarkably fine man: loved by all who knew him. He was a very dear friend and I shall miss him enormously. Gilbert R. Cherrick, M.D. Leawood, Kansas</p>
+      </block>
+      <block class="full_text">
+        <p>KEEGAN-James: longtime resident of Riverdale, N.Y.: died in Riverdale on 25 September, 2000 at age 58 after a sudden illness. He was a remarkably fine man: loved by all who knew him. He was a very dear friend and I shall miss him enormously. Gilbert R. Cherrick, M.D. Leawood, Kansas</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

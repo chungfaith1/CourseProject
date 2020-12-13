@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Madison Square Garden Names Executive</title>
+    <meta content="Y12GARD" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/12/business/12GARD.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1229931"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Madison Square Garden</org>
+        <person class="indexing_service">Abraham, Seth</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000912T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E1DC1638F931A2575AC0A9669C8B63" item-length="142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Madison Square Garden Names Executive</hl1>
+      </hedline>
+      <abstract>
+        <p>Seth Abraham is named executive vice president and chief operating officer of Madison Square Garden (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Seth Abraham, who helped officiate at the profitable marriage of boxing and cable television during two decades at Time Warner and its subsidiary Home Box Office, has been named executive vice president and chief operating officer of Madison Square Garden.</p>
+        <p>According to a news release issued by Madison Square Garden, Mr. Abraham will be responsible for Radio City Entertainment, MSG Sports Properties, MSG Networks and corporate marketing.</p>
+      </block>
+      <block class="full_text">
+        <p>Seth Abraham, who helped officiate at the profitable marriage of boxing and cable television during two decades at Time Warner and its subsidiary Home Box Office, has been named executive vice president and chief operating officer of Madison Square Garden.</p>
+        <p>According to a news release issued by Madison Square Garden, Mr. Abraham will be responsible for Radio City Entertainment, MSG Sports Properties, MSG Networks and corporate marketing.</p>
+        <p>He will report to Madison Square Garden's president and chief executive, David W. Checketts.</p>
+        <p>Competition for sporting events and other entertainment programming remains intense, as more channels seek out blockbuster events, like title fights or concerts like the country music singer Garth Brooks's appearance in Central Park last year, to win a greater share of the fragmenting television audience.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

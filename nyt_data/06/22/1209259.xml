@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Say Cheese, Cheese, Cheese</title>
+    <meta content="22CAME$01" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209259"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="CURRENTS: PHOTOGRAPHY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Photography</classifier>
+        <classifier class="indexing_service" type="descriptor">Currents (Times Column)</classifier>
+        <classifier class="indexing_service" type="descriptor">Three-Dimensional Devices</classifier>
+        <org class="indexing_service">Image Technology (Co)</org>
+        <person class="indexing_service">Rohrlich, Marianne</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Furnishings</classifier>
+        <classifier class="online_producer" type="general_descriptor">Three-Dimensional Devices</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000622T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E0DA1331F931A15755C0A9669C8B63" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Say Cheese, Cheese, Cheese</hl1>
+      </hedline>
+      <byline class="print_byline">By Marianne Rohrlich</byline>
+      <byline class="normalized_byline">Rohrlich, Marianne</byline>
+      <abstract>
+        <p>CURRENTS: PHOTOGRAPHY: Say Cheese, Cheese, Cheese**Image Technology offers point-and-shoot camera that takes 3-D pictures; photo (Currents column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Forget those old cardboard glasses with one red lens and one green one. A $45 point-and-shoot camera with three lenses takes 3-D photos that actually work, without the glasses. It has a built-in flash and uses 35-millimeter color film that must be sent to a special laboratory in California for processing ($1 a print, when you send in 12 exposures).</p>
+        <p>For the best 3-D results, Image Technology, the manufacturer, advises plenty of foliage or interesting objects in the background and foreground. At Mxyplyzyk, 125 Greenwich Avenue (13th Street).</p>
+      </block>
+      <block class="full_text">
+        <p>Forget those old cardboard glasses with one red lens and one green one. A $45 point-and-shoot camera with three lenses takes 3-D photos that actually work, without the glasses. It has a built-in flash and uses 35-millimeter color film that must be sent to a special laboratory in California for processing ($1 a print, when you send in 12 exposures).</p>
+        <p>For the best 3-D results, Image Technology, the manufacturer, advises plenty of foliage or interesting objects in the background and foreground. At Mxyplyzyk, 125 Greenwich Avenue (13th Street).</p>
+        <p>CURRENTS: PHOTOGRAPHY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

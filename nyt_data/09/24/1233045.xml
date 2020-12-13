@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Home Care</title>
+    <meta content="LTR085942" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1233045"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Aged</classifier>
+        <person class="indexing_service">Fleming, Carol</person>
+        <person class="indexing_service">Denny, Chyd</person>
+        <person class="indexing_service">Klein, Sam</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Aged</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000924T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E2D6163BF937A1575AC0A9669C8B63" item-length="66" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Home Care</hl1>
+      </hedline>
+      <abstract>
+        <p>Carol Fleming letter on August 27 photo essay about friendship between Chyd Denny and Sam Klein holds that care at home is best, if possible (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>At a time when managed-care companies offer quality health care for senior citizens and then pull out of an area, leaving many scrambling, it is refreshing to read of the unselfish Chyd Denny and her family.</p>
+        <p>Care at home is best, if at all possible. I believe that there is current legislation for increased incentives, offered by the government, for home-care providers.</p>
+        <p>Carol Fleming-Huskisson  Yonkers</p>
+      </block>
+      <block class="full_text">
+        <p>At a time when managed-care companies offer quality health care for senior citizens and then pull out of an area, leaving many scrambling, it is refreshing to read of the unselfish Chyd Denny and her family.</p>
+        <p>Care at home is best, if at all possible. I believe that there is current legislation for increased incentives, offered by the government, for home-care providers.</p>
+        <p>Carol Fleming-Huskisson  Yonkers</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

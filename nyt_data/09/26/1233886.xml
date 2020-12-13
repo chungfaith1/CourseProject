@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="26INSI$03" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1233886"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000926T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01EFDD123AF935A1575AC0A9669C8B63" item-length="175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Barak and Arafat Meet  The Israeli and Palestinian leaders met for the first time since the Camp David peace talks ended two months ago.</p>
+        <p>PAGE A12</p>
+        <p>Banned Drug May Return  A Canadian company wants permission to market a generic version of a morning sickness drug pulled from the market in 1983.</p>
+        <p>PAGE F1</p>
+      </block>
+      <block class="full_text">
+        <p>Barak and Arafat Meet  The Israeli and Palestinian leaders met for the first time since the Camp David peace talks ended two months ago.</p>
+        <p>PAGE A12</p>
+        <p>Banned Drug May Return  A Canadian company wants permission to market a generic version of a morning sickness drug pulled from the market in 1983.</p>
+        <p>PAGE F1</p>
+        <p>At a Loss Without El Nino  Without El Nino or La Nina shaping global weather, long-term forecasts  seem more like guesswork.</p>
+        <p>PAGE F3</p>
+        <p>The Times and Wen Ho Lee  The editors offer an assessment of the coverage.</p>
+        <p>PAGE A2</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

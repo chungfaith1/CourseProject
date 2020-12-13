@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In Bleak Russia, a Young Man's Thoughts Turn to Hacking</title>
+    <meta content="29HACK" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211121"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Vandalism</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <location class="indexing_service">Russia</location>
+        <person class="indexing_service">Varoli, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia and the Former Soviet Union</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vandalism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000629T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CEEDF1E30F93AA15755C0A9669C8B63" item-length="1406" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In Bleak Russia, a Young Man's Thoughts Turn to Hacking</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN VAROLI</byline>
+      <byline class="normalized_byline">Varoli, John</byline>
+      <abstract>
+        <p>Computer hacking is growing among Russian teenagers and young men, some of whom have grown quite skilled at it despite their primitive personal computers; their hacking is mostly confined to vandalizing Web sites and mild forms of online hooliganism, and Russian computer experts say American press has exaggerated the threat they pose (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AS a teenager living in St. Petersburg, Russia, Slava was an accomplished athlete, with a fanatical love of high-risk sports like snowboarding and skiing. In March 1998, a snowboarding accident left him paralyzed from the waist down. Now 22, Slava spends his evenings at home with his parents and 16-year-old brother and engages in a different sport: hacking.</p>
+        <p>''It will take us about five minutes to start hacking into other computers,'' Slava said after making his way across his bedroom with the aid of two crutches.</p>
+      </block>
+      <block class="full_text">
+        <p>AS a teenager living in St. Petersburg, Russia, Slava was an accomplished athlete, with a fanatical love of high-risk sports like snowboarding and skiing. In March 1998, a snowboarding accident left him paralyzed from the waist down. Now 22, Slava spends his evenings at home with his parents and 16-year-old brother and engages in a different sport: hacking.</p>
+        <p>''It will take us about five minutes to start hacking into other computers,'' Slava said after making his way across his bedroom with the aid of two crutches.</p>
+        <p>Taking a seat in front of his Pentium 166 PC, he opened a hacking program that he had downloaded from the Internet and typed in a range of numbers specifying Internet Protocol addresses he had found by hacking into a major American Internet service provider. His computer began to hum and search for computers that were online and in that I.P. range.</p>
+        <p>Slava, who is known to his fellow hackers as Dr. Linux, waited for about a minute for his computer to list nearly a dozen computers and their I.P. addresses. He clicked energetically with his mouse and hit different function keys to zero in on one computer. Slava pulled up the computer's contents on his screen. The documents were written in German for a college course and included a file that contained a paper analyzing far-right political groups in Germany.</p>
+        <p>''We've taken his files, and he'll never know it,'' Slava said as he opened and copied some of the files. ''Most people have no idea that once online, they are wide open to intrusion from others out there.''</p>
+        <p>He tried to gain access to another computer on his list, but that one was protected behind a firewall. ''I could probably crack it,'' he said, ''but it would take me several hours.''</p>
+        <p>Slava is one of a growing number of computer hackers in Russia. Most of them are afraid to speak to reporters because they know their activities are illegal. Slava agreed to be interviewed but not to have his full name disclosed.</p>
+        <p>Armed with primitive personal computers and -- given the lack of well-paying jobs in Russia -- a lot of free time, Russians are earning an international reputation for hacking skills. In 1999, Russian hackers took credit for a number of high-profile attacks that disrupted Web sites operated by NATO and the United States government. Last year, CNN reported ''coordinated, organized attacks'' on Pentagon computers by Russian hackers.</p>
+        <p>In January, a Russian hacker took credit for the theft of 300,000 credit card numbers from CD Universe, an online music store. In April, five hackers were arrested in Moscow, accused of stealing credit card numbers. Last year, hackers broke into the computers of Gazprom, the biggest company in Russia and the world's largest natural gas company. The hackers briefly gained control of the system that regulates the flow of natural gas in pipelines, the police said.</p>
+        <p>''The recent increase in Russian hacking is a lot like the increase of viruses that accompanied the entrance of Russian programmers onto the world stage in the early 1990's and who also had few legitimate outlets for their knowledge,'' said Pavel Semyanov, a computer security expert at  St. Petersburg Polytech University and a co-author of the book ''Internet Attack,'' which is available only in Russian.</p>
+        <p>But most hacking in Russia has been  limited to vandalizing Web sites and mild forms of online hooliganism, and some Russian computer experts complain that the threat of Russian hackers has been exaggerated in the American press.</p>
+        <p>''It's the cold war mentality, and Americans are now obsessed with Russian hackers,'' said Daniil Dougaev, chief editor of Internet.ru, a popular Russian Web publication. ''If it is learned the hackers behind the Pentagon job are, say, from Iceland, it probably won't grab headlines.''</p>
+        <p>Mr. Semyanov said the threat of Russian hackers was exaggerated by Western news media. He disputed whether the Pentagon attack had even taken place.</p>
+        <p>Russians have long had a reputation for computer prowess. State-run technical schools, primarily those in St. Petersburg, produce highly regarded programmers, and many Russian programmers find work with American high-tech companies. But the hackers themselves say that Russia's hackers usually have no formal training.</p>
+        <p>''I hardly knew anything about computers up until two years ago,'' Slava said, ''and only began hacking one year ago. The best hackers are those who are simply more curious, more clever, more willing to understand how a system really works. It's rare, at least in Russia, that those with a formal computer education, especially in programming, are hackers.''</p>
+        <p>For young people in Russia, a country where Internet use is growing rapidly but where there is still a frustrating lack of jobs, hacking has become a subculture with a strong allure. Local online charges run between 60 cents and $1.20 an hour, a prohibitive amount in a country where salaries average about $50 a month.</p>
+        <p>In Russia, many of these young hackers are interested in nothing more than stealing passwords to get free Internet access, said Boris Striglov, a police investigator in St. Petersburg. Mr. Striglov worked on the case of Vladimir Levin, a hacker who stole $10 million from Citibank over four months in the summer of 1994.</p>
+        <p>''The vast majority of hackers,'' said Dmitri Leonov, who wrote ''Internet Attack'' with Mr. Semyanov and founded Hackzone.ru, a Web site popular with Russian hackers, ''are teenagers who get their hands on some hacking software. As the Web becomes more and more common in Russia, we can expect more problems with Russian hackers, not necessarily because they are malicious, but because they have a mischievous and childlike desire to understand thoroughly how these systems work.''</p>
+        <p>Before his snowboarding accident, Slava said, he never imagined that he would join the growing ranks of Russia's hackers. Unable to work and forced to rely on his parents, who have sales jobs and do not earn much more than the average wage, Slava borrowed money from his family and friends for a Pentium 166 PC and an Internet hookup.</p>
+        <p>''My computer and the Internet have become my world,'' he said, looking around his room at the posters of skiers and windsurfers that plaster the walls.</p>
+        <p>Slava's first attempt at hacking was just over a year ago, when he downloaded some software from a hacker Web site. ''If I could earn decent money as a computer specialist,'' he said, ''I would not be doing this, and would not mind paying for access, but, in Russia, there are too many bright minds and not enough work to go around.''</p>
+        <p>Hackers have also turned to politics. Russia's war in Chechnya, for instance, was fought not only on the ground and in the air, but also in cyberspace. In January, the site of a leading Russian news wire was hacked into, and the site's usual fare was replaced by a Chechen propaganda announcement that said the Russian president-elect, Vladimir V. Putin, had been sentenced to death.</p>
+        <p>Some Russian computer experts say that Russian agencies like the Federal Security Service, or F.S.B., the successor to the K.G.B., often employ hackers.</p>
+        <p>''There are organized groups of hackers tied to the F.S.B., and pro-Chechen sites have been hacked by such groups,'' said Vladimir Veinstein, a 25-year-old computer security specialist in St. Petersburg who works for the Internet company Red Net. ''One man I know, who was caught committing a cybercrime, was given the choice of either prison or cooperation with the F.S.B., and he went along.''</p>
+        <p>In January, a pro-Chechen Web site, Kavkaz.org, was shut down by hackers working for the F.S.B., Mr. Veinstein said. In March, the computer system of an opposition newspaper in Moscow, Novaya Gazeta, was hacked and a major part of one of its issues was deleted just as the newspaper was to publish an article about Mr. Putin's campaign financing.</p>
+        <p>Slava said that no one had offered -- or threatened -- him with the opportunity to perform that kind of computer work, but he would consider it.</p>
+        <p>''For me, hacking is mostly sport,'' he said. ''But if someone offered me big money to hack someone else's system, I'd give it serious consideration.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

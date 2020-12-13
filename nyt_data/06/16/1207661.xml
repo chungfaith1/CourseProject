@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DINER'S JOURNAL</title>
+    <meta content="16JOUR" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="40" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1207661"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">AZ (NYC Restaurant)</org>
+        <person class="indexing_service">Grimes, William</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Diner's Journal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E3DB133EF935A25755C0A9669C8B63" item-length="423" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DINER'S JOURNAL</hl1>
+      </hedline>
+      <byline class="print_byline">By William Grimes</byline>
+      <byline class="normalized_byline">Grimes, William</byline>
+      <abstract>
+        <p>William Grimes Diner's Journal review of AZ restaurant in Chelsea section of Manhattan; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It's a short, very slow elevator trip to the third-floor dining room at AZ. The elevator operator has already developed a fluent line of snappy patter, and he needs it, because time hangs heavy during the ascent. Visually, however, there's a big payoff when the doors finally open. AZ (pronounced like the two letters) is a real eyeful, with a peaked skylight that opens in fair weather and closes at the first spattering of rain.</p>
+        <p>At one end of the dining room, a thin sheet of water cascades down a stone slab. At the other, sliding glass doors, iron railings and mahogany cabinets intersect in a design that seems part Asian, part turn-of-the-century Vienna. The earth-sky color scheme is lush, almost decadent, and ruby lanterns give off a discreet glow.</p>
+      </block>
+      <block class="full_text">
+        <p>It's a short, very slow elevator trip to the third-floor dining room at AZ. The elevator operator has already developed a fluent line of snappy patter, and he needs it, because time hangs heavy during the ascent. Visually, however, there's a big payoff when the doors finally open. AZ (pronounced like the two letters) is a real eyeful, with a peaked skylight that opens in fair weather and closes at the first spattering of rain.</p>
+        <p>At one end of the dining room, a thin sheet of water cascades down a stone slab. At the other, sliding glass doors, iron railings and mahogany cabinets intersect in a design that seems part Asian, part turn-of-the-century Vienna. The earth-sky color scheme is lush, almost decadent, and ruby lanterns give off a discreet glow.</p>
+        <p>The menu is eye-opening, too. Patricia Yeo, AZ's executive chef, began her career under Bobby Flay, following him from Miracle Grill to Mesa Grill to Bolo, and although she emphasizes Asian flavors and spices, something of Mr. Flay's freewheeling style comes through. Chicken smoked in Lapsang souchong tea leaves absorbs a complex layer of flavor, complemented by sweet fig chutney and a scallion pancake. Duck schnitzel may be the only thing richer than the decor, a thick slice of breast gilded with a hazelnut brown-butter sauce and accented with golden beets.</p>
+        <p>The short menu, which is prix fixe, includes starters like a ceviche of sardines with pomelo (a Malaysian citrus fruit), foie gras cured in Sichuan peppers and doused with a sour-cherry vinaigrette, and soft-shell crab cooked tempura-style with an avocado and herb hand roll. Main courses include porcini-crusted halibut with a confit of artichoke and celery root, double-cut pork chops with prunes macerated in Armagnac and oolong tea, and sauteed black bass served with a rock-shrimp hash and red chili sauce.</p>
+        <p>Heather Miller, the pastry chef, has picked up the tune with desserts like rhubarb upside-down cake with pomegranate molasses and a brown-butter coconut tart with banana ice cream.</p>
+        <p>AZ, 21 West 17th Street; (212) 691-8888. Dinner, $52 for three courses.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

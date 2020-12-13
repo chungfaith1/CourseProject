@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dividend Meetings</title>
+    <meta content="19DIVI" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208660"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE0D91431F93AA25755C0A9669C8B63" item-length="259" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dividend Meetings</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A partial list for this week.</p>
+        <p>MONDAY  Stewart Information Svcs Corp</p>
+        <p>TUESDAY  Commerce Bancorp Inc N J  Culp Inc</p>
+      </block>
+      <block class="full_text">
+        <p>A partial list for this week.</p>
+        <p>MONDAY  Stewart Information Svcs Corp</p>
+        <p>TUESDAY  Commerce Bancorp Inc N J  Culp Inc</p>
+        <p>WEDNESDAY  Ampco-Pittsburgh  Bangor Hydro Elec Co  Glatfelter P H Co  PG&amp;E Corp  Phelps Dodge Corp  Pinnacle West Cap Corp  R G S Energy Group Inc</p>
+        <p>THURSDAY  Campbell Soup Co  First Amern Corp Calif (was First Amern Finl Corp Calif)  NSTAR  Owens Corning  Schweitzer-Mauduit Intl Inc  Wausau-Mosinee Paper Corp</p>
+        <p>FRIDAY  CH Energy Group Inc  CTS Corp  Equity One Inc  Snap On Inc  Wiley John &amp; Sons Inc</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

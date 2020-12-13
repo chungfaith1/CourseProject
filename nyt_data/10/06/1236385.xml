@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>All in the Family, Creatively</title>
+    <meta content="06CHER" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/06/arts/06CHER.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1236385"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="DANCE REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dancing</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Cherniak Dance</org>
+        <person class="indexing_service">Cherniak, Susan</person>
+        <person class="indexing_service">Anderson, Jack</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001006T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E1DC163CF935A35753C1A9669C8B63" item-length="346" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>All in the Family, Creatively</hl1>
+      </hedline>
+      <byline class="print_byline">By JACK ANDERSON</byline>
+      <byline class="normalized_byline">Anderson, Jack</byline>
+      <abstract>
+        <p>Jack Anderson reviews performance by Cherniak Dance (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Live music helped add vitality to ''Autumn Engravings,'' the program Cherniak Dance presented on Sunday night at the Merce Cunningham Studio.</p>
+        <p>Among the artistic colleagues of Susan Cherniak, the evening's choreographer, were her daughter Nicole Cherniak Hyde, a mezzo-soprano, and a chamber ensemble. Two dances had rhythmically and harmonically varied scores by Peter Hyde, Ms. Cherniak's husband.</p>
+      </block>
+      <block class="full_text">
+        <p>Live music helped add vitality to ''Autumn Engravings,'' the program Cherniak Dance presented on Sunday night at the Merce Cunningham Studio.</p>
+        <p>Among the artistic colleagues of Susan Cherniak, the evening's choreographer, were her daughter Nicole Cherniak Hyde, a mezzo-soprano, and a chamber ensemble. Two dances had rhythmically and harmonically varied scores by Peter Hyde, Ms. Cherniak's husband.</p>
+        <p>The interplay of Mr. Hyde's music and Ms. Cherniak's choreography was especially harmonious in ''Engravings in Space,'' a plotless group work filled with ingeniously changing shapes. Loose swayings grew brisk. Sequences featuring liquidly curving arms gave way to sharp hops. Crawling dancers soon found themselves bouncing and whirling to sometimes dreamy and sometimes snappy sounds for cello, percussion, piano and woodwinds, as well as some wordless vocal phrases for Ms. Hyde.</p>
+        <p>Two dances with narrative content were less vivid. In ''Out of the Sea Came She,'' a duet based on an Inuit myth set to a score by Mr. Hyde, Rod Rufo was a fisherman who captured a ghostly creature portrayed by Rachel Margolis. Her struggles were tense. But what happened next was dramatically vague.</p>
+        <p>Vagueness was also a problem of ''Wunderhorn Tanz,'' a suite of dramatic sketches to excerpts from Mahler's ''Des Knaben Wunderhorn,'' sung by Ms. Hyde, with Lois Anderson as pianist. There was an effective duet in which Mr. Rufo and Jennifer S. Brightbill played a soldier and the beloved who was loath to part from him. Other scenes looked choreographically undernourished.</p>
+        <p>In addition to those mentioned, the dancers included Cynthia Reynolds, who appeared as a guest artist, Georgia Corner, Erica Eigenberg, Joy McEwen, Corinne Sarian and Lara Bujold Clouden. Other musicians were Theresa MacDonnell, Joe Tompkins, Matt Ward, Jeffrey Adler and Andy Kim.</p>
+        <p>DANCE REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DEBIS AIRFINANCE BUYS AERFI</title>
+    <meta content="MB030242" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1232946"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WORLD BUSINESS BRIEFING: EUROPE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Debis AirFinance</org>
+        <org class="indexing_service">AerFi Group</org>
+        <person class="indexing_service">Lavery, Brian</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000923T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E5DC163AF930A1575AC0A9669C8B63" item-length="98" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DEBIS AIRFINANCE BUYS AERFI</hl1>
+      </hedline>
+      <byline class="print_byline">By Brian Lavery</byline>
+      <byline class="normalized_byline">Lavery, Brian</byline>
+      <abstract>
+        <p>Aircraft leasing firm Debis AirFinance agrees to acquire AerFi Group for $750 million cash (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The aircraft leasing company Debis AirFinance, a unit of DaimlerChrysler based in Amsterdam, agreed to acquire the privately owned AerFi Group of Ireland for $750 million in cash. The move would give the merged company, to be called AirFinance, 46 new clients. The deal, in which $3.90 would be paid for each share of AerFi, is subject to approval by AerFi shareholders.</p>
+        <p>Brian Lavery</p>
+      </block>
+      <block class="full_text">
+        <p>The aircraft leasing company Debis AirFinance, a unit of DaimlerChrysler based in Amsterdam, agreed to acquire the privately owned AerFi Group of Ireland for $750 million in cash. The move would give the merged company, to be called AirFinance, 46 new clients. The deal, in which $3.90 would be paid for each share of AerFi, is subject to approval by AerFi shareholders.</p>
+        <p>Brian Lavery</p>
+        <p>WORLD BUSINESS BRIEFING: EUROPE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

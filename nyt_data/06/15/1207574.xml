@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Shelves or the Web?</title>
+    <meta content="LTR231532" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1207574"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Rare Books</classifier>
+        <person class="indexing_service">Lowry, judith</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rare Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E7DC113EF936A25755C0A9669C8B63" item-length="157" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Shelves or the Web?</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by Judith Lowry of Argosy Book Store notes that many books previously thought to be very rare are not actually so scarce, as Web sites demonstrate (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I question the study reported on in News Watch on June 8. There are more than 4,000 booksellers on abebooks.com, and as far as I know there is no incentive for any of them to have a dual pricing system, for online and offline customers.</p>
+        <p>The Argosy Book Store, where I am a partner, has an open shop and 70,000 titles on line with abebooks.com and other large databases. We have one set of prices.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I question the study reported on in News Watch on June 8. There are more than 4,000 booksellers on abebooks.com, and as far as I know there is no incentive for any of them to have a dual pricing system, for online and offline customers.</p>
+        <p>The Argosy Book Store, where I am a partner, has an open shop and 70,000 titles on line with abebooks.com and other large databases. We have one set of prices.</p>
+        <p>While the Internet has been a boon to the out-of-print and rare-book business, it has also made us aware that books that we previously thought were rare or scarce are actually not that uncommon. But for truly rare, or unique, books, prices have always been high, and they continue to rise, regardless of where they are sold.</p>
+        <p>JUDITH LOWRY  New York City</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

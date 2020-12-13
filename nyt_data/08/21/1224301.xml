@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Patents; A virtual bazaar haggles with online shoppers; and new, catchier CD packaging is created.</title>
+    <meta content="21PATE$02" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1224301"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Retail Stores and Trade</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Solomon, Robert (Inventor)</person>
+        <person class="indexing_service">Chartrand, Sabra</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/Patents</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Retail</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000821T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E2D7103EF932A1575BC0A9669C8B63" item-length="989" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Patents; A virtual bazaar haggles with online shoppers; and new, catchier CD packaging is created.</hl1>
+      </hedline>
+      <byline class="print_byline">By Sabra Chartrand</byline>
+      <byline class="normalized_byline">Chartrand, Sabra</byline>
+      <abstract>
+        <p>Robert Solomon patents system for online shopping that he calls 'haggling in a bazaar-like atmosphere'; its central novelty is a virtual merchant, an on-screen character that a buyer can talk to and try to manipulate in a subtle negotiation that mimics the rituals of a souk (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IN the struggle to show a profit, Internet retailers seek any advantage that might make them stand apart in the competition to convert ordinary consumers into online shoppers.</p>
+        <p>Hoping to attract customers with a sales tool that will make them more comfortable with e-commerce and increase the entertainment value of shopping online, Robert Solomon, from Cos Cob, Conn., has won a patent for a system that he calls ''haggling in a bazaar-like atmosphere.''</p>
+      </block>
+      <block class="full_text">
+        <p>IN the struggle to show a profit, Internet retailers seek any advantage that might make them stand apart in the competition to convert ordinary consumers into online shoppers.</p>
+        <p>Hoping to attract customers with a sales tool that will make them more comfortable with e-commerce and increase the entertainment value of shopping online, Robert Solomon, from Cos Cob, Conn., has won a patent for a system that he calls ''haggling in a bazaar-like atmosphere.''</p>
+        <p>The central novelty of Mr. Solomon's design is a virtual merchant, an on-screen character that a buyer can talk to and try to manipulate in a subtle negotiation that mimics the rituals of a souk. The cartoon merchant might be grouchy or generous, based on how it ''feels'' about a return customer or how a new buyer manages to manipulate its mood.</p>
+        <p>If the Wizard of Oz turned out to be just a man behind a curtain, the virtual merchant is only a graphical character backed by an algorithm. Mr. Solomon has designed software that generates responses to a customer's dialogue with the virtual merchant based on factors stored in advance in its database.</p>
+        <p>They include a customer profile, a history of the customer's previous negotiations and purchases, basic rules of sales and business practices, product inventory and brand information. A customer at a retail site would enter personal information like an address and credit card number. He would pick a product category, like computers or sports equipment, and then click on a virtual merchant character -- a computer geek or athlete, for example. This virtual merchant's mood may already be set if the buyer is a return customer -- it might not be ''happy'' to see someone who browses but rarely buys, for example.</p>
+        <p>Once the customer selects an item, the merchant would name a price. That initiates the negotiation phase of the program. The customer could then counteroffer and start a ''dialogue intended to get the merchant into a favorable emotional state,'' Mr. Solomon writes in his patent.</p>
+        <p>The merchant might respond with promotional offers, or efforts to ''up-sell'' by adding features to the product.</p>
+        <p>During the haggling, the virtual merchant can also ask the customer questions that help build a demographic profile for the database, to be used the next time the customer shops. The answers would also immediately be factored into the virtual merchant's mood during the sale.</p>
+        <p>For his part, the shopper would try to manipulate that mood by gauging three behaviors: the merchant's facial expression, the dialogue text, and the offer it makes. If the merchant is ''sad'' or ''angry,'' its face will convey that and its offer will be less generous. Mr. Solomon says it is up to the customer to interpret the merchant's mood to close the best possible deal.</p>
+        <p>Mr. Solomon sets this up in the database like a chart with the merchant's mood in horizontal rows and the customer's potential responses in vertical columns. Each intersects with the other at some point on the chart, and that point tells the system what the merchant's mood will be.</p>
+        <p>That mood is then combined with factors like the price the customer is offering to pay, the time the haggling has gone on, the number of offers and counteroffers and even the results of the virtual merchant's last haggling session with a different customer.</p>
+        <p>And each time the customer submits a new bid, the database evaluates it based on how it compares with the expected value of the product, the customer's response time, or even the amount of traffic on the site.</p>
+        <p>Mr. Solomon also suggested in his patent that his system would have extra features like an ''eavesdropping'' function so potential customers could listen to other shoppers during their negotiation sessions, and a tutorial section where buyers could practice their haggling. He received patent 6,035,288.</p>
+        <p>Packaging can increase sales, and several years ago the music industry lost a major promotional tool when environmental concern led it to abandon the long, thin boxes in which compact discs were sold. The wasteful boxes were twice the size of the CD's, but manufacturers liked them because they provided lots of space for art, graphics and information about the recordings.</p>
+        <p>In contrast, jewel boxes, the thin plastic containers that protect CD's, have limited surface area for such material. To remedy that, three inventors have won a patent for an optical technique that makes it possible to see different information through the surface of a jewel box simply by looking at it from different angles.</p>
+        <p>The inventors say studies have shown that sales are lost when customers become frustrated at searching for titles on the thin spine of jewel boxes and having to flip the boxes over for more information.</p>
+        <p>In their invention, Stephen Fantone, Anthony Gelardi and John Gelardi use conventional paper inserts already included inside CD jewel boxes. But their inserts are imprinted with graphics and text in ''interlace'' fashion, meaning alternating lines of different images or symbols. The interlace images can also be printed on the interior surface of the jewel box or directly on the CD itself.</p>
+        <p>The plastic of the box is made with panels in a horizontal and vertical arrangement. Thus, when someone looks at the box, the alternating images come together to create separate impressions when viewed from top to bottom or right to left, for example.</p>
+        <p>The effect increases the amount of information available on the same jewel box surface. Mr. Fantone, from Lynnfield, Ma., Anthony Gelardi, from Cape Porpoise, Me., and John Gelardi, from Kennebunkport, Me., won patent 6,010,292.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="31INSI$01" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203739"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000531T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07EED7143CF932A05756C0A9669C8B63" item-length="267" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Espionage Conviction  A jury in Miami found a veteran immigration official guilty of espionage in a case that heightened tensions with Cuba.  PAGE A16</p>
+      </block>
+      <block class="full_text">
+        <p>Espionage Conviction  A jury in Miami found a veteran immigration official guilty of espionage in a case that heightened tensions with Cuba.  PAGE A16</p>
+        <p>Aristide Party Gains in Haiti  The party of former President Jean-Bertrand Aristide won firm control of Haiti's Senate in the May 21 vote, preliminary results show.  PAGE A7</p>
+        <p>U.S. Revises Peru Criticism  The State Department has backed away from confrontational language it used about the re-election of President Alberto K. Fujimori. PAGE A5</p>
+        <p>Devils Romp in Opener  New Jersey stunned the defending champion Dallas Stars, 7-3, in Game 1 of the Stanley Cup finals.  SPORTSWEDNESDAY, PAGE D1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

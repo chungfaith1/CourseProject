@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="12CBRIE" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1230003"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000912T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405EED61638F931A2575AC0A9669C8B63" item-length="232" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PHOENIX INVESTMENT PARTNERS LTD.,  Hartford, said it had accepted a $296 million offer from Phoenix Home Life Mutual Insurance Co., Hartford, to buy the shares in the asset manager that it did not already own.</p>
+        <p>TEXAS INSTRUMENTS INC.,  Dallas, said it would hire 200 engineers in France during the next two years to work at the company's Villeneuve-Loubet site, near Nice in southern France.</p>
+      </block>
+      <block class="full_text">
+        <p>PHOENIX INVESTMENT PARTNERS LTD.,  Hartford, said it had accepted a $296 million offer from Phoenix Home Life Mutual Insurance Co., Hartford, to buy the shares in the asset manager that it did not already own.</p>
+        <p>TEXAS INSTRUMENTS INC.,  Dallas, said it would hire 200 engineers in France during the next two years to work at the company's Villeneuve-Loubet site, near Nice in southern France.</p>
+        <p>SUNOCO INC.,  Philadelphia, said it planned to buy back as much as $200 million in stock, or about 8 percent of its common shares outstanding.</p>
+        <p>AEGON N.V.,  the Netherlands, said its Transamerica Finance Corporation unit, based in San Francisco, sold a $530 million consumer-loan portfolio to a U.S.-based affiliate of Goldman Sachs Group Inc., New York.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

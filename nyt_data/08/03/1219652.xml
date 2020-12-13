@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Now Yelling at Your PC Can Actually Be Useful</title>
+    <meta content="03GEE1" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1219652"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Voice Recognition Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">One Voice Technologies</org>
+        <org class="indexing_service">International Business Machines Corp</org>
+        <org class="indexing_service">Microsoft Corp</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sound</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000803T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE6DB1F3DF930A3575BC0A9669C8B63" item-length="417" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Now Yelling at Your PC Can Actually Be Useful</hl1>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+      <abstract>
+        <p>One Voice Technologies releases Ivan, a voice-activated Web navigator; Ivan, which combines IBM's Via Voice speech recognition software with complex search strategies and Internet Explorer 5.0, is available on CD-ROM or as free download; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Frustrated Web surfers who yell at the computer when they can't find something online now have a little friend who won't take it personally. One Voice Technologies has just released IVAN, a voice-activated onscreen servant of sorts, who never loses his cool.</p>
+        <p>IVAN, which stands for Intelligent Voice-Activated Navigator, appears on the browser screen as a small cartoon character resembling a smiling globe with skinny legs. (Web surfers not enamored of such anthropomorphic whimsy can choose to turn off the visual aspect of the program.) Instead of the traditional Web point-and-click action, users can simply tell IVAN things like ''Show me the current price of Cisco stock'' or ''I need to buy a book,'' and the software will present a Web site or a page of search results that matches the spoken keywords. Although the IVAN program will not restrict access to any pages, companies that are partners with One Voice will usually be at the top of the hit list.</p>
+      </block>
+      <block class="full_text">
+        <p>Frustrated Web surfers who yell at the computer when they can't find something online now have a little friend who won't take it personally. One Voice Technologies has just released IVAN, a voice-activated onscreen servant of sorts, who never loses his cool.</p>
+        <p>IVAN, which stands for Intelligent Voice-Activated Navigator, appears on the browser screen as a small cartoon character resembling a smiling globe with skinny legs. (Web surfers not enamored of such anthropomorphic whimsy can choose to turn off the visual aspect of the program.) Instead of the traditional Web point-and-click action, users can simply tell IVAN things like ''Show me the current price of Cisco stock'' or ''I need to buy a book,'' and the software will present a Web site or a page of search results that matches the spoken keywords. Although the IVAN program will not restrict access to any pages, companies that are partners with One Voice will usually be at the top of the hit list.</p>
+        <p>Speaking out loud to browse the Web has been possible for a while. Dragon Systems, a company that makes speech-recognition software, incorporates a feature into many of its programs, including NaturallySpeaking Preferred, that lets users surf pages by saying Web addresses out loud. But IVAN will actually interact with the user and even ask questions on its own if it needs more information to complete a task.</p>
+        <p>IVAN, which combines I.B.M.'s Via Voice speech recognition software with complex search strategies and Internet Explorer 5.0, can be downloaded from the Web free at www.myivan.com or ordered on CD-ROM from the site. The Windows 95 and 98 version is available now, with a Macintosh edition in the works. With all its features, IVAN is not quick to download -- the full version is more than 100 megabytes, and the program has some demanding minimum system requirements: a Pentium-level 233-megahertz processor, a headset microphone, 48 megabytes of RAM and almost 300 megabytes of hard drive space. It may be a big chunk of digital real estate, but just think of it as the butler's room on your computer.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mismanaged Care</title>
+    <meta content="LTR071742" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1202770"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOKS AND LITERATURE</classifier>
+        <person class="indexing_service">Leon, Robert L (Dr)</person>
+        <person class="indexing_service">Hall, Stephen S</person>
+        <object.title class="indexing_service">Of Two Minds (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000528T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E0DF123AF93BA15756C0A9669C8B63" item-length="206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mismanaged Care</hl1>
+      </hedline>
+      <abstract>
+        <p>Dr Robert L Leon letter praises Stephen S Hall's review of T M Luhrmann's book Of Two Minds8</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The review by Stephen S. Hall of T. M. Luhrmann's book ''Of Two Minds'' was one of the most balanced and comprehensive reviews of a psychiatric book that I have read in the lay press. Frequently books and reviews of books on psychiatry go off the deep end, one side or the other, biological or psychological. Psychiatry has moved far to integrate biological, psychological and social research findings into a modern approach to understanding and treating patients with mental illness. Luhrmann and Hall are correct in pointing out that managed care is a severe impediment to the application of this integrated approach.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The review by Stephen S. Hall of T. M. Luhrmann's book ''Of Two Minds'' was one of the most balanced and comprehensive reviews of a psychiatric book that I have read in the lay press. Frequently books and reviews of books on psychiatry go off the deep end, one side or the other, biological or psychological. Psychiatry has moved far to integrate biological, psychological and social research findings into a modern approach to understanding and treating patients with mental illness. Luhrmann and Hall are correct in pointing out that managed care is a severe impediment to the application of this integrated approach.</p>
+        <p>I especially applaud Hall's warning that a less obvious result of moving mental health care into the profit-making, free-enterprise arena is that ''a grand unification theory of psychiatry, a convergence of the psychosocial and the molecular, of talk therapy and drug therapy,'' might not come to pass.</p>
+        <p>Robert L. Leon, M.D.</p>
+        <p>San Antonio</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

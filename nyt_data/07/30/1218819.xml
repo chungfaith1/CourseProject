@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Look Tough, Feel Good</title>
+    <meta content="L30AGG" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1218819"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Design</classifier>
+        <person class="indexing_service">Koppinger, Doug</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000730T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05EEDE143DF933A05754C0A9669C8B63" item-length="118" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Look Tough, Feel Good</hl1>
+      </hedline>
+      <abstract>
+        <p>Doug Koppinger letter responds to July 23 article on aggressive look in product design</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The aggressive nature of current product designs (Week in Review, July 23) also seems increasingly pervasive in personal appearances, with just about anyone sporting sinister sunglasses, motley tattoos and intimidating goatees or least three days of beard growth. More men and women have bulked up, wear dark clothes any time of year and enjoy hard-driving music.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The aggressive nature of current product designs (Week in Review, July 23) also seems increasingly pervasive in personal appearances, with just about anyone sporting sinister sunglasses, motley tattoos and intimidating goatees or least three days of beard growth. More men and women have bulked up, wear dark clothes any time of year and enjoy hard-driving music.</p>
+        <p>It makes you wonder what we might project if times really justified this kind of behavior.</p>
+        <p>DOUG KOPPINGER  Tucson, July 24, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

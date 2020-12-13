@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Internet Appliance Eliminates Hard Drive</title>
+    <meta content="28GEE1$01" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/28/technology/28GEE1.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1234308"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">New Internet Computer Co</org>
+        <person class="indexing_service">Biersdorfer, J D</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000928T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE2DC113AF93BA1575AC0A9669C8B63" item-length="386" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Internet Appliance Eliminates Hard Drive</hl1>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+      <byline class="normalized_byline">Biersdorfer, J D</byline>
+      <abstract>
+        <p>New Internet Computer Co offers low-cost computer for Internet use that lacks hard drive but is more robust than simple Internet appliance; device allows users to log on to shared application servers for functions like word processing; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Imagine upgrading your computer's operating system by simply popping out a CD-ROM and replacing it with a new one: No muss, no fuss, no scrambled software drivers and bald spots from pulling out hair.</p>
+        <p>This is the idea behind a new kind of Internet appliance called the New Internet Computer, or N.I.C. The basic model is priced at $199 and is aimed at schools and consumers who would like to add Internet access around the house without nicking too much from the family budget.</p>
+      </block>
+      <block class="full_text">
+        <p>Imagine upgrading your computer's operating system by simply popping out a CD-ROM and replacing it with a new one: No muss, no fuss, no scrambled software drivers and bald spots from pulling out hair.</p>
+        <p>This is the idea behind a new kind of Internet appliance called the New Internet Computer, or N.I.C. The basic model is priced at $199 and is aimed at schools and consumers who would like to add Internet access around the house without nicking too much from the family budget.</p>
+        <p>Although it lacks an internal hard drive and isn't a full-fledged computer, the N.I.C. has enough hardware under the hood to make it more robust than a simplified Internet appliance. (It is made by the New Internet Computer Company, which was started by Larry Ellison, chief executive of the Oracle Corporation; Gina Smith, a former technology columnist and television host, is the New Internet Computer Company's chief executive.) Most Internet appliances will allow users to send e-mail only with the maker's designated provider and do basic Web browsing, but the N.I.C. allows the use of existing e-mail accounts and includes the latest version of Netscape Navigator and common browser plug-ins.</p>
+        <p>Since it doesn't have a hard drive for storage, the N.I.C. will allow users to log on to shared application servers and do things like word processing over the Internet. The N.I.C.'s Linux-based operating system runs from a CD-ROM inside a computer with a 266-MHz Pentium-class processor, 64 megabytes of RAM and a 56-kilobits-per-second modem. The N.I.C. can also connect to the Internet with an Ethernet card and comes with two U.S.B. ports. The $199 computer doesn't come with a monitor, but a 15-inch display can be purchased from the company for $129 and everything is available at www.thinknic.com.</p>
+        <p>While it may not be able to replace a regular desktop computer system, the N.I.C.'s lower price and its potential to free users from the technical support hot line make the middle ground look like an awfully nice place to explore.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

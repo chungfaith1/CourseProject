@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Online Mediation</title>
+    <meta content="LTR000040" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1229414"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Arbitration, Conciliation and Mediation</classifier>
+        <org class="indexing_service">Squaretrade.Com</org>
+        <person class="indexing_service">Katsh, Ethan</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Arbitration, Conciliation and Mediation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000910T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E6DB1139F933A2575AC0A9669C8B63" item-length="169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Online Mediation</hl1>
+      </hedline>
+      <abstract>
+        <p>University of Massachusetts Center for Information Technology and Dispute Resolution director and SquareTrade.com consultant Ethan Katsh letter on August 20 article describes dispute resolution services provided by SquareTrade.com (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''If a Transaction Goes Sour, Where Do You Turn?'' (Aug. 20), which looked at disputes between buyers and sellers over articles sold through eBay:</p>
+        <p>EBay does provide a place to turn, in a link to SquareTrade.com, a service that has designed online tools to resolve online disputes. One free tool lets the parties communicate with each other; help from an online mediator is available for $15.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''If a Transaction Goes Sour, Where Do You Turn?'' (Aug. 20), which looked at disputes between buyers and sellers over articles sold through eBay:</p>
+        <p>EBay does provide a place to turn, in a link to SquareTrade.com, a service that has designed online tools to resolve online disputes. One free tool lets the parties communicate with each other; help from an online mediator is available for $15.</p>
+        <p>Online dispute resolution is easily and cheaply done and is effective and appropriate.</p>
+        <p>ETHAN KATSH  Amherst, Mass., Aug. 22</p>
+        <p>The writer, a consultant to SquareTrade.com, is director of the Center for Information Technology and Dispute Resolution at the University of Massachusetts at Amherst.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

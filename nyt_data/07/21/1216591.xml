@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="21INSI$06" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1216591"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000721T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E6DB173AF932A15754C0A9669C8B63" item-length="151" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>House Eases Cuba Stance  The House approved measures to bar the Treasury Department from enforcing restrictions on travel to Cuba. PAGE A7</p>
+      </block>
+      <block class="full_text">
+        <p>House Eases Cuba Stance  The House approved measures to bar the Treasury Department from enforcing restrictions on travel to Cuba. PAGE A7</p>
+        <p>The Brain's Brains  Researchers have found that a surprisingly small and specific region of gray matter may be the brain's master problem solver, the venerable ''seat of human intelligence.'' PAGE A13</p>
+        <p>Arrest in Concrete Attack  A homeless man was charged with attempted murder in the case of a woman attacked on a Midtown street with a chunk of concrete.  PAGE B3</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

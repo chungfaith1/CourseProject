@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Unlike Viruses, Bacteria Find a Welcome in the World of Computing</title>
+    <meta content="01NEXT" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203839"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WHAT'S NEXT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Deoxyribonucleic Acid</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Chips</classifier>
+        <person class="indexing_service">Collins, James J (Prof)</person>
+        <person class="indexing_service">Eisenberg, Anne</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/What's Next</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E6DE153CF932A35755C0A9669C8B63" item-length="1395" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Unlike Viruses, Bacteria Find a Welcome in the World of Computing</hl1>
+      </hedline>
+      <byline class="print_byline">By ANNE EISENBERG</byline>
+      <byline class="normalized_byline">Eisenberg, Anne</byline>
+      <abstract>
+        <p>Anne Eisenberg (What's Next) article discusses experiments by researchers using DNA in effort to replace microchips as way to do computer calculations; says such biological computers would be able to handle very large numbers of analytical steps simultaneously, process called parallel computing, and might be able to do so cheaply; Dr James J Collins, professor of biological engineering at Boston University and leader in biocomputing, says process is decades away from implementation but that we are near point of having cells programmed to for different functions; scientists are now using genes to build biological clocks that some day may mimic clocks that synchronize various programs in computers (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>CAN living cells be transformed into computers? A number of researchers are betting that the answer is yes. They are trying to use DNA, in and out of  actual living cells, that can add, subtract, store results and run programs.</p>
+        <p>If they succeed, silicon and the microchips it made possible may one day be replaced by bacteria that can handle computing. Such biological computers could be able to handle very large numbers of analytical steps simultaneously, a process called parallel computing, and might be able to do that cheaply.</p>
+      </block>
+      <block class="full_text">
+        <p>CAN living cells be transformed into computers? A number of researchers are betting that the answer is yes. They are trying to use DNA, in and out of  actual living cells, that can add, subtract, store results and run programs.</p>
+        <p>If they succeed, silicon and the microchips it made possible may one day be replaced by bacteria that can handle computing. Such biological computers could be able to handle very large numbers of analytical steps simultaneously, a process called parallel computing, and might be able to do that cheaply.</p>
+        <p>Not quite yet, though. While scientists seek to hijack the biological controls already present in cells and reprogram them for their own purposes, no one knows how to get a billion or so cells talking to one another in a controlled fashion.</p>
+        <p>But a few advances have been made in this new crossover field in science, part of a new area called biological computing, or biocomputing. While biocomputing includes ways to do rudimentary computing with DNA itself, scientists have begun looking at ways to do computations in whole cells by engineering part of the cells' DNA and the machinery controlled by those genes.</p>
+        <p>For example, scientists have used genes to build a biological toggle switch, which corresponds to a fundamental element in computers, and a rudimentary clock. Such biological clocks might someday mimic the clocks that synchronize various programs in computers.</p>
+        <p>A start-up company has even been set up to create what its founders call ''genetic applets,'' pieces of DNA that handle functions analogous to those handled by pieces of computer code.</p>
+        <p>Some of the work on DNA-based computing is being done by computer scientists, physicists, mathematicians and engineers who have never taken a graduate biology class but have learned on the job. Many of these scientists are finding that research in the dry world of silicon has not prepared them for the uncertainties of a ''wet'' laboratory, where their mathematical models need to come alive.</p>
+        <p>''This is nanotechnology in a wetter form, namely in a living cell,'' said Dr. James J. Collins, a professor of biomedical engineering at Boston University who is a physicist by training and has become a leader in biocomputing. ''We are probably decades away from having a jar of bacteria computing on your desk, but we are nearing the point where you can have cells programmed for different functions, and therefore be considered as computing devices.''</p>
+        <p>Dr. Collins and his colleagues have in fact demonstrated it is possible to program cells by injecting new gene networks engineered from strips of DNA into the cells so that the cells respond to changes in their environment in ways that could one day be useful for computations. The mechanisms are slow and cumbersome -- on the order of minutes, if not hours, and as much as a billion times slower than the computations of current electronic computers. But it is early days in the world of genetic circuits.</p>
+        <p>At Boston University, a step toward a future of synthetic, programmable gene circuits was taken about two years ago by Dr. Collins and Dr. Timothy S. Gardner, who was a graduate student in Dr. Collins's group at the time and coined the term genetic applets.</p>
+        <p>Dr. Collins's laboratory wanted to create the biological version of a basic element in a digital circuit, the on-off toggle.</p>
+        <p>''We were looking for the equivalent of a light switch to flip processes on or off in the cell,'' Dr. Gardner said. ''Then I realized a way to do this with genes instead of with electric circuits.''</p>
+        <p>The idea meshed with the mathematical modeling the researchers were doing to predict how switches would behave in the world of living cells, where responses are often not the simple, predictable ones of a linear system. ''We created a nonlinear model and made some predictions about how the switch would behave in a cell,'' Dr. Gardner said. ''Then basically there was nothing left to do except build it.''</p>
+        <p>The idea was to engineer a circular section of DNA with two genes that inhibit each other, so the first gene is on while the second one is off, and vice versa. Those states can be thought of as a zero or 1, just as a silicon switch is on or off. The gene network is prodded to switch from one state to the other by a dose of a particular chemical or a change of temperature. If the cell is given enough of the chemical, for instance, the inactive gene will turn on; by turning on, it turns off the other gene.</p>
+        <p>Of course, like many scientists in this crossover field, Dr. Gardner has had scant formal preparation in biology (one molecular biology class taken as a college sophomore). ''Most biologists thought I was crazy,'' he said. But at least one did not: Dr. Charles R. Cantor, a molecular biologist at Boston University and a leader of the Human Genome Project. He thought that the idea was promising and lent laboratory  space and guidance.</p>
+        <p>Within a year, Dr. Gardner had built the switch -- fragments of DNA cut and pasted together and inserted into a bacterial cell, where the switch worked just fine. The results were reported in the journal Nature in January.</p>
+        <p>Other laboratories working on related problems in cell computation and the design of genetic networks include that of Dr. Stanislas Leibler at Princeton University, where Dr. Michael B. Elowitz devised a type of biological clock that will work within a cell.  Dr. Elowitz worked on the project as a  graduate student and is now a postdoctoral fellow at Rockefeller University.</p>
+        <p>The system consists of four genes put into a bacterium; Dr. Elowitz calls it a genetic circuit. Each of the first three genes inhibits the activity of the next gene down the line. The fourth gene controls the production of a fluorescent protein, so the pulses of fluorescence indicate the periodic output of the clock.</p>
+        <p>Dr. Elowitz said the output could be viewed as ''something like the hands of a watch.'' But the biological clock shows a good deal of variation, or signal noise, he said, so it may need more elaborate molecular controls. ''We are working on the source of the noise,'' he said. The results of the research are reported in a January issue of the journal Nature.</p>
+        <p>While Dr. Elowitz's project is still in the laboratory stage, Drs. Gardner and Collins have started a company called Cellicon Biotechnologies. The name is taken from the words cell and control and the word silicon, the material the technology may one day usurp. While their biological switch and extensions of it could have a future in biocomputing, they said such switches could have immediate results in gene therapy.</p>
+        <p>The current commercial techniques for activating therapeutic genes require the continual application of a drug to keep the gene active. If a drug could be used to flip a genetic switch to the on position, and that switch could then turn on the gene that is needed by the patient, the gene would presumably stay on until another drug or other signal was used to switch it off. ''With the toggle, which only requires transient delivery to switch the system from off to on,'' Dr. Collins said, ''you would only need to take a drug once, removing the dependence on sustained drug ingestion.''</p>
+        <p>Most applications of biological computing are far in the future. The old-fashioned, silicon-based electronic way is certainly not threatened yet, and it is in fact integral to the analytical calculations, modeling and simulations that many of the scientists-turned-biologists do before they get down to bench work. But one day there may indeed be that unlikely thing, computers in a flask, and even injectable cells that will travel through the body to help the patient.</p>
+        <p>After all, if cells can be made to compute at scientists' bidding, instead of doing just the computing that nature intended, biological problems are the ones that cells are most suited to solve.</p>
+        <p>WHAT'S NEXT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Reckonings; Facing The Music</title>
+    <meta content="30KRUG$03" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1218847"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Copyrights</classifier>
+        <org class="indexing_service">Napster Inc</org>
+        <person class="indexing_service">Krugman, Paul</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Paul Krugman</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Copyrights</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000730T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E7DD153DF933A05754C0A9669C8B63" item-length="781" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Reckonings; Facing The Music</hl1>
+      </hedline>
+      <byline class="print_byline">By PAUL KRUGMAN</byline>
+      <byline class="normalized_byline">Krugman, Paul</byline>
+      <abstract>
+        <p>Paul Krugman Op-Ed column predicts court ruling against Napster online music service will be inadequate to stop rise of technology that is erasing boundaries used to define intellectual property (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Napster's big mistake, clearly, was basing itself in California. It should have operated out of Jersey. Not the homeland of Bruce Springsteen -- I mean old Jersey, the island in the middle of the English Channel. Or maybe the Isle of Man.</p>
+        <p>Napster, of course, is the company that made it easy for techno-savvy music fans to download free copies of their favorite tracks. Last week Judge Marilyn Patel ruled that this was piracy pure and simple, and ordered Napster to cease operations. To the surprise of most observers, a higher court has stayed that order; but Napster's future still looks very questionable.</p>
+      </block>
+      <block class="full_text">
+        <p>Napster's big mistake, clearly, was basing itself in California. It should have operated out of Jersey. Not the homeland of Bruce Springsteen -- I mean old Jersey, the island in the middle of the English Channel. Or maybe the Isle of Man.</p>
+        <p>Napster, of course, is the company that made it easy for techno-savvy music fans to download free copies of their favorite tracks. Last week Judge Marilyn Patel ruled that this was piracy pure and simple, and ordered Napster to cease operations. To the surprise of most observers, a higher court has stayed that order; but Napster's future still looks very questionable.</p>
+        <p>The Jersey story has not been equally big news on this side of the Atlantic. But recently Jersey, neighboring Guernsey and the Isle of Man (in the Irish Sea) have come under fire as troublesome ''tax havens.'' All three islands have a peculiar legal status: they owe allegiance to the queen but are not subject to the laws and taxes of Britain proper, and they have taken advantage of that special status to become places where money can be earned, stored and passed on to heirs free of tax. And thanks to the digital revolution, it has become much easier for companies and individuals to arrange their lives in such a way that the taxable bits -- in both senses -- show up where the tax bite (taxed byte?) is lowest. The result is that the islands average about $13 million in bank deposits for every inhabitant.</p>
+        <p>What unites these two stories? Both are about how technology is erasing boundaries -- the boundaries that we use to define intellectual property, the boundaries that we use to define tax jurisdictions. And in both cases the loss of effective boundaries, though it brings some direct advantages, threatens something important: the ability of creators to profit from their creations, the ability of governments to collect revenue.</p>
+        <p>In a way, the surprising thing about these developments is that they took so long to reach the front page. John Perry Barlow, the Grateful Dead lyricist turned cyberprophet, published his famous Wired essay ''The Economy of Ideas'' -- about how the digital revolution will eliminate intellectual property as we know it -- back in 1994. That's generations ago in Internet time. But digital events tend to be critical-mass phenomena: they build slowly and inconspicuously at first, then abruptly explode. Now, suddenly, both digital tax avoidance and digital theft have become major issues.</p>
+        <p>Or is it theft? Some enthusiasts for file-swapping like to claim that it isn't, that one person's decision to listen to a bootleg copy of Metallica's latest doesn't take the music away from anyone else. But of course it does. If a substantial fraction of buyers avoids paying for books, or music, or movies, it becomes that much less likely that the products will be created in the first place.</p>
+        <p>Yet even if Judge Patel's ruling is eventually upheld, it won't make much difference. Napster was a soft target, a centralized operation in which the pirated music resided on servers conveniently located where the short arm of the law could reach them. Ready to take up the slack if Napster shuts down are decentralized, ''distributed'' systems in which the music resides on the computers of many different people. And there is always the option of using servers located not in San Mateo but in more accommodating jurisdictions. Indeed, both Jersey Telecom and Manx Telecom are investing large sums in high-speed connections, with the hope that their islands will become homes to vast ''server farms.'' Right now the selling point is tax avoidance, but I'm surely not the only person to notice that the same infrastructure would facilitate copyright avoidance as well.</p>
+        <p>Mr. Barlow has urged creators to follow the example of the Grateful Dead -- let the fans tape the music, and make it up on ticket sales. Somehow, I think that's a special case. He also talks cheerfully about how the 19th-century frontier was governed by the ''unwritten Code of the West,'' which had the ''fluidity of etiquette rather than the rigidity of law.'' Unfortunately, that etiquette didn't save the buffalo -- or give any consideration to the Indians.</p>
+        <p>The truth is that this story is much bigger than music, or even intellectual property. Something serious, and troubling, is happening -- and I haven't heard any good ideas about what to do about it.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

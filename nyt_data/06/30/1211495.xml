@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rangers Sign Center</title>
+    <meta content="PL030258" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211495"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PLUS: HOCKEY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hockey, Ice</classifier>
+        <org class="indexing_service">New York Rangers</org>
+        <person class="indexing_service">Dietrich, Brandon</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey/National Hockey League/New York Rangers</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hockey, Ice</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000630T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E7DD1739F933A05755C0A9669C8B63" item-length="126" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rangers Sign Center</hl1>
+      </hedline>
+      <abstract>
+        <p>New York Rangers sign Brandon Dietrich, St Lawrence University center (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Rangers agreed to contract terms yesterday with Brandon Dietrich, a St. Lawrence University center who had 15 goals and 26 assists last season.</p>
+      </block>
+      <block class="full_text">
+        <p>The Rangers agreed to contract terms yesterday with Brandon Dietrich, a St. Lawrence University center who had 15 goals and 26 assists last season.</p>
+        <p>Dietrich, 22, led the team in assists, points (41), power-play goals (16) and game-winning goals (4). In 75 career games for the Skating Saints, he had 35 goals and 45 assists.</p>
+        <p>PLUS: HOCKEY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Divided Data Can Elude the Censor</title>
+    <meta content="27NEXT$01" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1217948"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Censorship</classifier>
+        <classifier class="indexing_service" type="descriptor">Vandalism</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <org class="indexing_service">At&amp;t Corp</org>
+        <person class="indexing_service">Rubin, Avi</person>
+        <person class="indexing_service">Sorid, Daniel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Censorship</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vandalism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000727T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E7D81E3AF934A15754C0A9669C8B63" item-length="1065" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Divided Data Can Elude the Censor</hl1>
+      </hedline>
+      <byline class="print_byline">By DANIEL SORID</byline>
+      <byline class="normalized_byline">Sorid, Daniel</byline>
+      <abstract>
+        <p>Publius, new publishing system developed by AT&amp;T, promises to add permanences to information put on Internet, protecting it against government censorship and the unauthorized deletion of material by hackers; it divides messages, encrypts the pieces and spreads them across many computer servers; pieces, called keys, are designed so that even a small number of them can be assembled into a complete message; Avi Rubin, co-developer, comments; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ON the ever-shifting Internet, what is  on a Web site today could easily be gone tomorrow.</p>
+        <p>But a new publishing system developed by AT&amp;T promises to add permanence to information put on the Internet, assuring protection against censorship, for example, and the unauthorized deletion of material by hackers.</p>
+      </block>
+      <block class="full_text">
+        <p>ON the ever-shifting Internet, what is  on a Web site today could easily be gone tomorrow.</p>
+        <p>But a new publishing system developed by AT&amp;T promises to add permanence to information put on the Internet, assuring protection against censorship, for example, and the unauthorized deletion of material by hackers.</p>
+        <p>The system is called Publius, after the pen name adopted by the authors of the Federalist Papers. It dices up messages, encrypts the pieces and spreads them across many computer servers. The pieces, called keys, are designed so that even a small number of them can be assembled into a complete message.</p>
+        <p>Thus, while keys would live on dozens or hundreds of computers, a user would need to have access to only a few of those computers to have enough information to reassemble the document. Publius recently accepted its first users as part of a two-month trial.</p>
+        <p>Publius can be used to spread any kind of data, including text, music and images, although there are limits to the size of the files. The keys are always encrypted, so those who hold keys on their computers never know exactly what they contain. The author of the material can later modify or delete it and can remain anonymous by using Publius in tandem with an online identity masking-service.</p>
+        <p>The developers of Publius say that even if a government had legal authority to remove a file from computer servers, doing so would not be feasible because of the sheer number of servers that would hold the information. ''It won't stop them from getting the court order, but it will make the court order unenforceable,'' said Avi Rubin, the co-developer of Publius and a researcher in AT&amp;T's secure systems research department.</p>
+        <p>After a message is processed by Publius, the system creates a special code resembling an Internet address that holds encrypted information about which servers hold the keys. Once that address is entered into a Web browser, a special server, called a proxy, uses that information to pull together and decrypt the keys and send the complete message to the user. Users will have to  program their Web browsers to use the proxy server.</p>
+        <p>The system, Dr. Rubin said, will have a default setting of splitting a message into 20 keys. But any four of those keys will have enough information to reassemble the document.</p>
+        <p>Another anticensorship system, called the Eternity Service, spreads messages across the Usenet system of Internet newsgroups. But Dr. Rubin said that Publius is more advanced because messages on Usenet can expire, and messages put on newsgroups cannot later be reliably deleted from all servers by the author.</p>
+        <p>As more people go online, protecting speech on the Internet is becoming an increasingly popular notion. With free tools, one can surf the Internet anonymously, sending e-mail messages and posting messages on bulletin boards with little concern about being identified as the author. Messages can also be sent privately, using readily available encryption tools that prevent others from reading a message.</p>
+        <p>Those tools can be used in tandem with Publius, allowing, for instance, a dissident living under an authoritarian government to spread an anonymous message across many servers or to send an undeletable message to a limited constituency.</p>
+        <p>Dr. Rubin said he hoped that political dissidents and others would use Publius to spread messages that otherwise would run the risk of being censored by autocratic governments or powerful organizations. In a paper about Publius, for example, Dr. Rubin and his co-authors, Dr. Lorrie Faith Cranor, a senior researcher at AT&amp;T, and Marc Waldman, a doctoral student at New York University, wrote that the Church of Scientology tried to censor information about itself that it considered secret. ''The Church has used copyright and trademark law, intimidation and illegal searches and seizures in an attempt to suppress the publication of Church documents,'' they wrote.</p>
+        <p>In addition to countering censorship, Publius may also prove valuable to businesses that want a reliable way to keep information available on the Web during hacking assaults like the denial-of-service attacks that brought down the Web sites of several major companies earlier this year. Information distributed with Publius would be available even if many servers were taken down.</p>
+        <p>AT&amp;T is giving away Publius software and service free. Dr. Rubin said he hoped that Publius would become a success and might be incorporated into Web browsers.</p>
+        <p>But dissidents and businesses might not be the only ones to find Publius useful. The technology could also be used to spread child pornography or copyrighted music. Dr. Rubin said he had taken steps to prevent abuse of Publius but added that ugly or unwanted speech could not be prevented. ''One of the tenets of free speech is that it allows for uncomfortable speech,'' Dr. Rubin said. ''It would be a tragedy if we let the potential for abuse limit all the good that this technology can do.''</p>
+        <p>Still, the potential for misuse of Publius has caused concern. ''The Publius system will be used most and best by criminals,'' said Bruce Taylor, president of the National Law Center for Children and Families, which aids prosecutors in cases of obscenity and child pornography. Mr. Taylor said that Publius is ''an impressive technology'' that should be allowed to exist, but that those who use the system illegally should be prosecuted.</p>
+        <p>Publius is most effective with documents distributed to a large number of servers, so the system needs people to volunteer their servers to hold message keys, Dr. Rubin said. Many Internet users will volunteer, he said, because of a passion for free speech and a willingness to share resources to benefit others' work in that area. Publius has 90 volunteers, he said, including one person who is dedicating a one-gigabyte server to the system.</p>
+        <p>''In the Internet community, there's a culture of sharing,'' Dr. Rubin said. ''In today's world, it's hard to imagine that.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

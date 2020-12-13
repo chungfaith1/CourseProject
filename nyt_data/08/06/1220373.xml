@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Grant for Gypsy Wagon</title>
+    <meta content="06GRAN" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1220373"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Gypsies</classifier>
+        <classifier class="indexing_service" type="descriptor">Restoration and Rehabilitation</classifier>
+        <classifier class="indexing_service" type="descriptor">Carriages</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <org class="indexing_service">Institute of Museum and Library Services</org>
+        <org class="indexing_service">Museums at Stony Brook</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restoration and Rehabilitation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transportation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Culture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000806T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE4DB1F3DF935A3575BC0A9669C8B63" item-length="139" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Grant for Gypsy Wagon</hl1>
+      </hedline>
+      <abstract>
+        <p>US Institute of Museum and Library Services grants Museums at Stony Brook (Long Island) $37,949 to restore its 19th-century Gypsy Wagon; fund-raising is underway to raise additional $22,000 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The 19th-century Gypsy Wagon in the collection of the Museums at Stony Brook is about to be refurbished with the help of a $37,949 grant from the Institute of Museum and Library Services, a federal agency that supports museums and libraries.</p>
+        <p>''This project will help to reveal the brilliant colors of the surface, which is covered with decorative paintings,'' said Merri Ferrell, curator of the carriage collection and manager for the project.</p>
+      </block>
+      <block class="full_text">
+        <p>The 19th-century Gypsy Wagon in the collection of the Museums at Stony Brook is about to be refurbished with the help of a $37,949 grant from the Institute of Museum and Library Services, a federal agency that supports museums and libraries.</p>
+        <p>''This project will help to reveal the brilliant colors of the surface, which is covered with decorative paintings,'' said Merri Ferrell, curator of the carriage collection and manager for the project.</p>
+        <p>The total cost for the conservation of the wagon is estimated at $59,949, and fund-raising efforts are under way to raise the additional $22,000.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

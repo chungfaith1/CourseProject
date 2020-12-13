@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRACK 26</title>
+    <meta content="Y29RBA$04" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Corrections; Editors' Notes; Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1242972"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="SPECIAL TODAY"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editors' Note</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Editors' Notes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001029T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06EED81630F93AA15753C1A9669C8B63" item-length="60" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRACK 26</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Yankees defeated the Mets in the Subway Series to capture their third consecutive World Series championship, but in midsummer that outcome hardly seemed ordained. The struggling Yankees were remade, and the newly acquired players aided the team's veterans. They eventually joined the Mets in a Series that captivated a city. Section 8A.</p>
+      </block>
+      <block class="full_text">
+        <p>The Yankees defeated the Mets in the Subway Series to capture their third consecutive World Series championship, but in midsummer that outcome hardly seemed ordained. The struggling Yankees were remade, and the newly acquired players aided the team's veterans. They eventually joined the Mets in a Series that captivated a city. Section 8A.</p>
+        <p>SPECIAL TODAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

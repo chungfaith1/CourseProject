@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>2 Arrested in Bloomberg Extortion Case</title>
+    <meta content="Y15EXTO" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1222728"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Frauds and Swindling</classifier>
+        <classifier class="indexing_service" type="descriptor">Extortion and Blackmail</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <org class="indexing_service">Bloomberg Lp</org>
+        <person class="indexing_service">Sullivan, John</person>
+        <person class="indexing_service">Bloomberg, Michael</person>
+        <person class="indexing_service">Zezov, Oleg</person>
+        <person class="indexing_service">Yarimaka, Igor</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Extortion and Blackmail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000815T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400EEDB113FF936A2575BC0A9669C8B63" item-length="763" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>2 Arrested in Bloomberg Extortion Case</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN SULLIVAN</byline>
+      <byline class="normalized_byline">Sullivan, John</byline>
+      <abstract>
+        <p>London police officers arrest Oleg Zezov and Igor Yarimaka, charging them with unauthorized computer intrusion and extortion of Bloomberg corporate offices in New York on March 24; if extradited to US for trial and convicted on all counts, each man faces as such as 20 years in federal prison; both men are from Kazakhstan; prosecutors say Zezov gained access to Bloomberg system through securities company he worked for in Kazakhstan; Bloomberg founder-chief executive Michael Bloomberg's computer password and credit card numbers were obtained by hackers; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>On March 24, a strange e-mail message popped up on the computers at the Bloomberg corporate offices in New York.</p>
+        <p>In the message, addressed to the founder and chief executive, Michael Bloomberg, a person who said his name was Alex asserted he had detailed knowledge of the computer systems of the company, a financial information supplier.</p>
+      </block>
+      <block class="full_text">
+        <p>On March 24, a strange e-mail message popped up on the computers at the Bloomberg corporate offices in New York.</p>
+        <p>In the message, addressed to the founder and chief executive, Michael Bloomberg, a person who said his name was Alex asserted he had detailed knowledge of the computer systems of the company, a financial information supplier.</p>
+        <p>Alex said he was ''not a criminal,'' but said he had obtained passwords of senior Bloomberg employees, and he proposed Bloomberg pay him for pointing out the security breach. Alex closed the message by stating ''(y)our security and reputation are in your hands.''</p>
+        <p>Three days later, a fax machine rang at the Bloomberg offices. Streaming out of the machine came computer screen printouts with confidential corporate files, including Mr. Bloomberg's employee photograph, his computer password and his personal credit card numbers.</p>
+        <p>Thus began a cat-and-mouse game pitting the mysterious Alex against Federal Bureau of Investigation agents and Bloomberg employees acting under F.B.I. direction. After exchanging a series of computer messages, Mr. Bloomberg agreed to deposit $200,000 in a European bank on Alex's promise that he would disclose how he had cracked Bloomberg's security and would help the company's programmers shore up their defenses. F.B.I. agents and the Bloomberg employees then persuaded the correspondent to travel to London for a meeting. Mr. Bloomberg agreed to attend himself.</p>
+        <p>After a meeting in the Hilton Hotel in London last Thursday, the agents sprang their trap. London police officers arrested two men who attended. Yesterday, federal prosecutors in New York unsealed criminal complaints against Oleg Zezov, 27, and Igor Yarimaka, 37, charging them with unauthorized computer intrusion and extortion. If extradited to the United States for trial and convicted on all counts, each man faces as much as 20 years in federal prison, prosecutors said.</p>
+        <p>Both men are from Kazakhstan, a former Soviet republic northwest of China, authorities said.</p>
+        <p>Prosecutors said Mr. Zezov gained access to the Bloomberg system through a securities company he worked for in Kazakhstan.</p>
+        <p>For a financial information company like Bloomberg, computer security is critical.</p>
+        <p>''We are as confident as anyone can be that the security of our system was, is, and continues to be adequate to protect our customers,'' Chris Taylor, a company spokesperson said. ''We are 100 percent confident that they did not gain access to any of our customers' data.'' Ms. Taylor did not want to comment further, although the company issued a brief statement about the arrests.</p>
+        <p>In criminal complaints filed in United States District Court in Manhattan, federal agents described how they used computers to track the person calling himself Alex. In the computer messages listed in the complaint, Alex referred to the Bloomberg system as ''a toy for hackers.'' While assuring Mr. Bloomberg that he meant no harm to his company, Alex also insisted on payment.</p>
+        <p>''I am honest and well-intentioned person as far as you could see,'' one message read, according to the complaint. ''But I can't give up my principles and in any case will get my money for done job.''</p>
+        <p>The e-mail goes on to suggest that Bloomberg deposit $200,000 in an off-shore bank account. If the money was received, Alex wrote, the information on the company would be destroyed.</p>
+        <p>''In case of non-payment, I'll send the report to your clients,'' the e-mail said.</p>
+        <p>According to the complaint, Bloomberg opened an account at a Deutsche Bank office in London and deposited $200,000. The account was set up so that Alex could confirm the money was present, but could not transfer or withdraw the funds. A few days later, Alex requested ''total control'' of the account and asked that Bloomberg release $7,500 for travel expenses for the proposed meeting in London.</p>
+        <p>The F.B.I. learned that the $7,500 was electronically transferred to a bank in Riga, Latvia. On July 25, Alex sent an e-mail message to Mr. Bloomberg agreeing to meet in London.</p>
+        <p>''Today is my birthday, 27 years old,'' the e-mail said. ''And on this day I don't want you to think about me bad.''</p>
+        <p>At the London meeting, the complaint says, Mr. Bloomberg told the two men he was concerned they were extorting money from his company. Mr. Yarimaka said they were not criminals, and that Alex had not broken any laws in his country.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

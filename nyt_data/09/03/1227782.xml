@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Traffic Alert</title>
+    <meta content="03TRAF$02" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1227782"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000903T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E6D61030F930A3575AC0A9669C8B63" item-length="373" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Traffic Alert</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Foreign dignitaries begin arriving today for the Millennium Summit at the United Nations.</p>
+        <p>TODAY</p>
+        <p>STREET CLOSURES  First Avenue, from 42nd to 46th Street; the First Avenue underpass will remain open, but no trucks or panel vans will be permitted to enter.  44th and 45th Street, from First to Second Avenues.</p>
+      </block>
+      <block class="full_text">
+        <p>Foreign dignitaries begin arriving today for the Millennium Summit at the United Nations.</p>
+        <p>TODAY</p>
+        <p>STREET CLOSURES  First Avenue, from 42nd to 46th Street; the First Avenue underpass will remain open, but no trucks or panel vans will be permitted to enter.  44th and 45th Street, from First to Second Avenues.</p>
+        <p>STREET RESTRICTIONS  48th Street from Park to Lexington Avenues: no commercial vehicles.</p>
+        <p>PARKING RESTRICTIONS  44th Street, between Second and Third Avenues: car and truck checkpoint.  First Avenue from 42nd to 46th Street: no parking either side.</p>
+        <p>TOMORROW</p>
+        <p>STREET CLOSURES  First Avenue, from 42nd to 46th Street; the First Avenue underpass will remain open, but no trucks or panel vans will be permitted to enter.  44th and 45th Streets from First to Second Avenues, and 58th Street from Fifth Avenue to Avenue of the Americas.</p>
+        <p>STREET RESTRICTIONS  48th Street from Park to Lexington Avenues: no commercial vehicles.</p>
+        <p>PARKING RESTRICTIONS  44th Street between Second and Third Avenues: vehicle and truck checkpoint.  First Avenue from 42nd to 46th Streets: no parking either side.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

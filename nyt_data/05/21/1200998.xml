@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Eroded Self</title>
+    <meta content="LTR114308" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200998"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <person class="indexing_service">Macdonald, Paul</person>
+        <person class="indexing_service">Rosen, Jeffrey</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000521T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE1DD1E3BF932A15756C0A9669C8B63" item-length="102" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Eroded Self</hl1>
+      </hedline>
+      <abstract>
+        <p>Paul MacDonald letter disputes Jeffrey Rosen's April 30 article on Internet privacy and describes how he protects his own privacy</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I fail to see the connection between a business Web site that appends a ''cookie'' to my orders (to improve its ability to provide quality customer service) and Rosen's broader concerns over the erosion of privacy.</p>
+        <p>I use the Internet to buy books and music quickly, to do academic research and to keep in touch with friends in distant places. The rule of thumb I use to protect my privacy when online is simple: I save my intimate life for the bedroom and my off-color rants for the barroom, and I keep my personal life out of chat rooms.</p>
+        <p>Paul MacDonald</p>
+        <p>New York</p>
+      </block>
+      <block class="full_text">
+        <p>I fail to see the connection between a business Web site that appends a ''cookie'' to my orders (to improve its ability to provide quality customer service) and Rosen's broader concerns over the erosion of privacy.</p>
+        <p>I use the Internet to buy books and music quickly, to do academic research and to keep in touch with friends in distant places. The rule of thumb I use to protect my privacy when online is simple: I save my intimate life for the bedroom and my off-color rants for the barroom, and I keep my personal life out of chat rooms.</p>
+        <p>Paul MacDonald</p>
+        <p>New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

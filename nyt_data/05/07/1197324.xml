@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Self-portrait; DUANE MICHALS</title>
+    <meta content="07MICHALS" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1197324"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Photography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000507T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E01E1D91339F934A35756C0A9669C8B63" item-length="87" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Self-portrait; DUANE MICHALS</hl1>
+      </hedline>
+      <abstract>
+        <p>Photo of Duane Michals, with his explanation</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I think the best portraits don't necessarily show you what somebody looks like, but they tell you what somebody is about. So the one where you see me looking at a book, that's what I'm about - my thinking process and how I relate to my experience as human being. I have a constant problem because I'm always having to circumvent what the camera does best, which is reproduce observable reality. I'm much more interested in what something feels like than what it looks like.</p>
+      </block>
+      <block class="full_text">
+        <p>I think the best portraits don't necessarily show you what somebody looks like, but they tell you what somebody is about. So the one where you see me looking at a book, that's what I'm about - my thinking process and how I relate to my experience as human being. I have a constant problem because I'm always having to circumvent what the camera does best, which is reproduce observable reality. I'm much more interested in what something feels like than what it looks like.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>West Nile Spraying Schedule</title>
+    <meta content="14SPRAY" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1222599"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000814T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E2DB103FF937A2575BC0A9669C8B63" item-length="271" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>West Nile Spraying Schedule</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>UPDATE</p>
+        <p>THE BRONX  10 p.m. tomorrow to 5 a.m. Wednesday  ZIP codes 10453, 10456, 10457, 10458, 10459, 10460, 10468, 10472.  ZIP code 10462, west of Zerega Avenue ZIP code 10467, south of Gun Hill Road.</p>
+        <p>STATEN ISLAND  10 p.m. today to 5 a.m. tomorrow  10 p.m. Thursday to 5 a.m. Friday  All residential and recreational areas.</p>
+      </block>
+      <block class="full_text">
+        <p>UPDATE</p>
+        <p>THE BRONX  10 p.m. tomorrow to 5 a.m. Wednesday  ZIP codes 10453, 10456, 10457, 10458, 10459, 10460, 10468, 10472.  ZIP code 10462, west of Zerega Avenue ZIP code 10467, south of Gun Hill Road.</p>
+        <p>STATEN ISLAND  10 p.m. today to 5 a.m. tomorrow  10 p.m. Thursday to 5 a.m. Friday  All residential and recreational areas.</p>
+        <p>WESTCHESTER COUNTY  11:30 p.m. today to 4:30 a.m. tomorrow  Mount Vernon, Pelham Village, Pelham Manor.</p>
+        <p>FOR INFORMATION  New York City  (877) 968-4692</p>
+        <p>Nassau County  (516) 571-2500</p>
+        <p>Suffolk County  (631) 852-4939</p>
+        <p>Rockland County  (845) 364-8990</p>
+        <p>Westchester County  (914) 637-2420</p>
+        <p>Connecticut  (860) 424-4184</p>
+        <p>Note: Spraying schedules are subject to change in the event of rain.  (Source: Health departments)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

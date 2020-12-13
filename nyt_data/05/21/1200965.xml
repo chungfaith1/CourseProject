@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BOOKS IN BRIEF: FICTION</title>
+    <meta content="RV071017" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200965"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Russo, Maria</person>
+        <person class="indexing_service">Ephron, Delia</person>
+        <object.title class="indexing_service">Big City Eyes (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000521T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402EFDA143BF932A15756C0A9669C8B63" item-length="299" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BOOKS IN BRIEF: FICTION</hl1>
+      </hedline>
+      <byline class="print_byline">By Maria Russo</byline>
+      <byline class="normalized_byline">Russo, Maria</byline>
+      <abstract>
+        <p>Maria Russo reviews book Big City Eyes by Delia Ephron (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Big City Eyes</p>
+        <p>By Delia Ephron.</p>
+        <p>Putnam, $23.95.</p>
+      </block>
+      <block class="full_text">
+        <p>Big City Eyes</p>
+        <p>By Delia Ephron.</p>
+        <p>Putnam, $23.95.</p>
+        <p>''Agitation is normal for me, calm is unexpected,'' says Lily Davis, the neurotic, divorced heroine of Delia Ephron's new novel, ''Big City Eyes.'' Panicked that her increasingly silent 15-year-old son, Sam, has been sneaking out to clubs, she's moved from Manhattan to a charming Long Island village called Sakonnet Bay. At first, Lily is calmed by the small-town ambience: deer that roam everywhere, gossip that moves at the speed of light, women with bad perms. She gets a job as a columnist at the local paper and cultivates a cozy friendship with Jane, another Manhattan transplant. Things get complicated, however, after Lily finds herself with a handsome police sergeant, Tom McKee, at an empty summer house in which she's certain something bad has happened. Or perhaps her judgment is swayed by an unexpectedly erotic moment between her and the sergeant, who's married. Lily finds herself simultaneously investigating what she thinks she saw in the house and navigating her imprudent attraction to McKee -- her motivations are muddled, and Sam's increasingly odd behavior (he's taken up with a sullen girl named Deidre who speaks in Klingon) only confirms her realization that, in Manhattan or on Long Island, events will always spiral just a little out of her control. As a narrator, Lily is good company, and Ephron's always readable prose moves nicely between observant, wisecracking humor and an atmospheric creepiness. But too often Ephron seems unable to resist the pull of sitcom cliches about small-town life, and she never quite makes the attraction between the provincial Tom and the hyper Lily seem believable.</p>
+        <p>Maria Russo</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Traffic Alert</title>
+    <meta content="04PARA$03" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1228001"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="indexing_service" type="descriptor">West Indian-American Day</classifier>
+        <classifier class="indexing_service" type="descriptor">Parades</classifier>
+        <location class="indexing_service">New York City</location>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000904T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE1DF1E30F937A3575AC0A9669C8B63" item-length="293" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Traffic Alert</hl1>
+      </hedline>
+      <abstract>
+        <p>NYC traffic alert for West Indian Day Parade (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WEST INDIAN DAY PARADE</p>
+        <p>TODAY  The parade runs from 8 a.m. to 6 p.m. and will proceed west on Eastern Parkway in Brooklyn from Utica Avenue to Grand Army Plaza.</p>
+      </block>
+      <block class="full_text">
+        <p>WEST INDIAN DAY PARADE</p>
+        <p>TODAY  The parade runs from 8 a.m. to 6 p.m. and will proceed west on Eastern Parkway in Brooklyn from Utica Avenue to Grand Army Plaza.</p>
+        <p>ADDITIONAL CLOSINGS  Southbound traffic from Atlantic Avenue to Eastern Parkway between Flatbush and Utica Avenues.  Northbound traffic from Empire Boulevard to Eastern Parkway between Flatbush and Utica Avenues.  Northbound traffic on Flatbush Avenue from Church Avenue to Grand Army Plaza.  Southbound traffic on Flatbush Avenue from Grand Army Plaza to Empire Boulevard.  All traffic on Ocean Avenue between Empire Boulevard and Parkside Avenue.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>WHAT THEY'RE READING</title>
+    <meta content="10REA" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1229421"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Sprinkle, Stephen</person>
+        <person class="indexing_service">Smith, Don</person>
+        <person class="indexing_service">Coyne, Judith</person>
+        <person class="indexing_service">Buckman, Jim</person>
+        <person class="indexing_service">O'brien, Kathleen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000910T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E7DA1139F933A2575AC0A9669C8B63" item-length="665" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>WHAT THEY'RE READING</hl1>
+      </hedline>
+      <byline class="print_byline">COMPILED BY KATHLEEN O'BRIEN</byline>
+      <byline class="normalized_byline">O'brien, Kathleen</byline>
+      <abstract>
+        <p>Deloitte Consulting director Stephen Sprinkle, Nortel Networks president Don Smith, Women.com editor in chief Judith Coyne and University of Minnesota's Juran Center co-director Jim Buckman comment on what they are reading (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Stephen Sprinkle, 48  Global director, Deloitte Consulting  BOOK --Bobos in Paradise: The New Upper Class and How They Got There by David Brooks (2000)  WHY --The book provides insight into the motivations and behavior of baby boomers [referred to as bobos, short for bourgeois bohemians] who now hold leadership positions in both business and government. The bobos have ignited the productivity boom and redefined affluence. They represent a unique combination, in that they are career-dedicated, yet revolutionary.</p>
+      </block>
+      <block class="full_text">
+        <p>Stephen Sprinkle, 48  Global director, Deloitte Consulting  BOOK --Bobos in Paradise: The New Upper Class and How They Got There by David Brooks (2000)  WHY --The book provides insight into the motivations and behavior of baby boomers [referred to as bobos, short for bourgeois bohemians] who now hold leadership positions in both business and government. The bobos have ignited the productivity boom and redefined affluence. They represent a unique combination, in that they are career-dedicated, yet revolutionary.</p>
+        <p>Don Smith, 52  President for optical Internet, Nortel Networks  BOOK --The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail by Clayton M. Christensen (1997)  WHY --It taught me to look past our current customers to unlock new potential opportunities. It also challenged me to focus on the user demands that will change the network.</p>
+        <p>Judith Coyne, 51  Editor in chief, Women.com  BOOKS --Le Mariage by Diane Johnson (2000) and The Pleasing Hour by Lily King (1999)  WHY --One classic issue for women is that we don't always find it easy to separate who we are from whom our culture tells us to be. So I liked these two very different novels, in which young American women manage to define themselves while living in Europe in a way they couldn't at home. Both women show us how individual we can be, once we let ourselves color outside the lines.</p>
+        <p>Jim Buckman, 56  Co-director, Juran Center, University of Minnesota  BOOK --Guns, Germs and Steel: The Fates of Human Societies by Jared Diamond (1997)  WHY --This very ambitious book recounts the last 13,000 years of human history through a multi-disciplinary lens. I am very curious about how societies lose memory. Who succeeds for the long haul, and how? Who transmits the learnings of success and failure and how do they do that? Or fail to do it? These things bear heavily on quality success.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

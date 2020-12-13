@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NOVARTIS PROFIT RISES 12%</title>
+    <meta content="MB000849" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1224547"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WORLD BUSINESS BRIEFING: EUROPE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <org class="indexing_service">Novartis Ag</org>
+        <person class="indexing_service">Sorkin, Andrew Ross</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000822T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00EED61E3EF931A1575BC0A9669C8B63" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NOVARTIS PROFIT RISES 12%</hl1>
+      </hedline>
+      <byline class="print_byline">By Andrew Ross Sorkin</byline>
+      <byline class="normalized_byline">Sorkin, Andrew Ross</byline>
+      <abstract>
+        <p>Novartis AG reports 12 percent rise in net income for first half of year; graph (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The third-largest drug manufacturer in Europe, Novartis A.G. of Switzerland, reported a 12 percent rise in net income for the first half of the year, attributing the growth partly to a pickup in sales of Diovan, a hypertension treatment. The company said profit jumped to 4.19 billion Swiss francs, or $2.43 billion, from 3.74 billion Swiss francs a year earlier. Novartis warned that it expected a slower third quarter than initially expected.</p>
+        <p>Andrew Ross Sorkin (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>The third-largest drug manufacturer in Europe, Novartis A.G. of Switzerland, reported a 12 percent rise in net income for the first half of the year, attributing the growth partly to a pickup in sales of Diovan, a hypertension treatment. The company said profit jumped to 4.19 billion Swiss francs, or $2.43 billion, from 3.74 billion Swiss francs a year earlier. Novartis warned that it expected a slower third quarter than initially expected.</p>
+        <p>Andrew Ross Sorkin (NYT)</p>
+        <p>WORLD BUSINESS BRIEFING: EUROPE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

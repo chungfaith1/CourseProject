@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Some New Antidotes For Computer Viruses</title>
+    <meta content="27GEE3" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1217970"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Vandalism</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">CopyTele (Co)</org>
+        <person class="indexing_service">Guernsey, Lisa</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vandalism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000727T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504EED61E3AF934A15754C0A9669C8B63" item-length="318" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Some New Antidotes For Computer Viruses</hl1>
+      </hedline>
+      <byline class="print_byline">By LISA GUERNSEY</byline>
+      <byline class="normalized_byline">Guernsey, Lisa</byline>
+      <abstract>
+        <p>CopyTele adds antivirus feature to its Cryptele USS-900 encryption device; feature does not stop a virus from inflicting damage on a computer if a malicious attachment is opened, but it does stop the virus from going on to infect computers listed on the stricken computer's e-mail address book; photo; Microsoft releases a software patch that it says will make its address books less vulnerable to viruses (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Some of this year's nastiest computer viruses have propogated through Microsoft Outlook. As soon as the viruses hit, they get into the software's address book and mail copies of themselves to every e-mail address listed.</p>
+        <p>Imagine that there were some way to lock up those address books, effectively blocking any chance for the viruses to multiply. A company called CopyTele has recently added a feature to one of its high-level encryption devices that is designed to do just that.</p>
+      </block>
+      <block class="full_text">
+        <p>Some of this year's nastiest computer viruses have propogated through Microsoft Outlook. As soon as the viruses hit, they get into the software's address book and mail copies of themselves to every e-mail address listed.</p>
+        <p>Imagine that there were some way to lock up those address books, effectively blocking any chance for the viruses to multiply. A company called CopyTele has recently added a feature to one of its high-level encryption devices that is designed to do just that.</p>
+        <p>The device called the Cryptele USS-900 plugs into a computer, fax machine or telephone. Its primary purpose is to keep voice and data communications private. If someone tapped the phone line, for example, the overheard conversation would be unintelligible without a key to unencrypt it.</p>
+        <p>Last month, engineers added the virus-protection feature. It does not stop a virus from inflicting damage on a computer if a malicious attachment is opened. But it does stop the virus from replicating. ''That virus would die on your computer,'' said Frank W. Trischetta, senior vice president for sales and marketing. The device, which starts at around $1,000, is priced for the corporate market. But Copytele officials say that it could be a boon to regular consumers, too, if it succeeds in halting viruses before they spread out of control.</p>
+        <p>Microsoft, meanwhile, has released a software patch that it says will make its address books less vulnerable. Once the patch is installed, the system alerts its users when an external program is trying to gain access to the address book and asks their permission to continue. (The update can be downloaded from www.microsoft  .com/office/outlook/).</p>
+        <p>Because the patch is a software solution, Mr. Trischetta argued, virus writers may be able to devise their own computer program to get around it.</p>
+        <p>LISA GUERNSEY</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Pope Turns 80</title>
+    <meta content="19RPOP0AA" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Front Page" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200619"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Roman Catholic Church</org>
+        <org class="indexing_service">London Philharmonic</org>
+        <person class="indexing_service">Pope (John Paul II)</person>
+        <person class="indexing_service">Levine, Gilbert</person>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000519T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E7DD153AF93AA25756C0A9669C8B63" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Pope Turns 80</hl1>
+      </hedline>
+      <abstract>
+        <p>Photo of Gilbert Levine leading London Philharmonic and Chorus at celebration for Pope John Paul II's 80th birthday in Vatican</p>
+      </abstract>
+    </body.head>
+    <body.content/>
+  </body>
+</nitf>

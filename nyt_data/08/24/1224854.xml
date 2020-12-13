@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Installing a Scanner With Windows 98</title>
+    <meta content="24ASKK$01" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1224854"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000824T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E5D71631F937A1575BC0A9669C8B63" item-length="685" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Installing a Scanner With Windows 98</hl1>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. How difficult would it be for a mere novice to add a photo scanner to a Windows 98 computer?</p>
+        <p>A. All things considered, it is probably not as hard to add a scanner to a Windows 98 system as it is with earlier versions of Windows. Windows 98 can even detect and install the needed driver software for several scanner models, including ones made by UMAX, Hewlett-Packard and Logitech. That is not to say that only scanners by these manufacturers will work with Windows 98; it just means that you may have to do a manual installation for the drivers from the floppy disks or CD-ROM that come with a new scanner.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. How difficult would it be for a mere novice to add a photo scanner to a Windows 98 computer?</p>
+        <p>A. All things considered, it is probably not as hard to add a scanner to a Windows 98 system as it is with earlier versions of Windows. Windows 98 can even detect and install the needed driver software for several scanner models, including ones made by UMAX, Hewlett-Packard and Logitech. That is not to say that only scanners by these manufacturers will work with Windows 98; it just means that you may have to do a manual installation for the drivers from the floppy disks or CD-ROM that come with a new scanner.</p>
+        <p>After you have followed the manufacturer's instructions for attaching the scanner to your computer, restart it and see if Windows detects the new hardware. If you do not get a message saying that Windows has found new hardware, go to the Start menu, then to Settings and Control Panel, and double-click on Add New Hardware. Follow the instructions of the New Hardware Wizard as it takes you through the process.</p>
+        <p>After you are finished with the wizard, you will probably need to install additional software for the scanner itself, following the manufacturer's instructions. Once you have completed the installation process described in your scanner's instructions, you may want to test the new hardware.</p>
+        <p>Go back to the Start menu, then  Settings and Control Panel, and double-click on the Scanners and Cameras icon. Pick the name of your new scanner from the list and click on Properties. Click on Test Scanner or Camera, and Windows will check whether your scanner is hooked up and working properly.</p>
+        <p>If you encounter difficulties, you may want to take advantage of the scanner's technical support contact information.</p>
+        <p>Q. I've heard of something that is referred to as WAP and believe that it is related to the wireless world, but I'm not really sure. Can you explain?</p>
+        <p>A. WAP stands for Wireless Application Protocol, and it is indeed related to the world of wireless devices.</p>
+        <p>Just as there are standards for regulating how data is sent around the Internet, WAP sets a standard for how data is sent between wireless devices like handheld computers, Web-enabled cell phones and pagers.</p>
+        <p>Since the monochrome screens on these types of mobile devices are quite small and are not generally navigated with a mouse or full-size keyboard, the pages displayed on them are created differently. The WAP system uses something called Wireless Markup Language -- a sort of optimized version of the Hypertext Markup Language, or HTML, used for regular Web pages -- to display the content on the wireless units.</p>
+        <p>For more details on WAP, visit www.wap.com or www.wapforum .org.</p>
+        <p>Q. I am thinking about adding more RAM to my computer, and I would like to know how I can find out how much it can take. Where can I look for that information?</p>
+        <p>A. The manual that came with your computer, if you still have it, is one of the best places to find out how much and what kind of RAM you can add to your system.</p>
+        <p>If you no longer have the manual, you might try looking up your model on the manufacturer's Web site.</p>
+        <p>There are many kinds of RAM,  and some computers need to have the chips installed in a specific manner or quantity. An excellent place to look for information is on the Web sites of the memory makers, like Kingston Technology (www.kingston .com) and Viking Components (www .vikingcomponents.com). Both sites have interactive configuration worksheets that will let you select your computer maker and model, then will tell you how much RAM your system can hold and what kind to buy. You can usually buy RAM right there on the site.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

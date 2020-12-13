@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Against Nature'</title>
+    <meta content="RV013122" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="40" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1240354"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="ART IN REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Burri, Alberto (1915-1995)</person>
+        <person class="indexing_service">Fontana, Lucio (1899-1968)</person>
+        <person class="indexing_service">Manzoni, Piero (1933-1963)</person>
+        <person class="indexing_service">Johnson, Ken</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001020T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CEFDC103EF933A15753C1A9669C8B63" item-length="358" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Against Nature'</hl1>
+      </hedline>
+      <byline class="print_byline">By KEN JOHNSON</byline>
+      <byline class="normalized_byline">Johnson, Ken</byline>
+      <abstract>
+        <p>Ken Johnson reviews work of Italian avant-gardists Alberto Burri, Lucio Fontana and Piero Manzoni, at Sperone Westwater gallery (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sperone Westwater  142 Greene Street, SoHo  Through Oct. 28</p>
+        <p>This elegant exhibition presents three famous Italian avant-gardists who, like many radicals on both sides of the Atlantic after World War II, sought a raw and biting materialism. The careers and values of Alberto Burri, Lucio Fontana and Piero Manzoni overlapped, as the selection of works mostly from the 1950's affirms, but their main achievements belong to different historical moments.</p>
+      </block>
+      <block class="full_text">
+        <p>Sperone Westwater  142 Greene Street, SoHo  Through Oct. 28</p>
+        <p>This elegant exhibition presents three famous Italian avant-gardists who, like many radicals on both sides of the Atlantic after World War II, sought a raw and biting materialism. The careers and values of Alberto Burri, Lucio Fontana and Piero Manzoni overlapped, as the selection of works mostly from the 1950's affirms, but their main achievements belong to different historical moments.</p>
+        <p>By birth date, Burri (1915-1995) lands in the middle, but the works for which he first became known -- compositions made of coarse, torn and stitched-together burlap -- are the most traditional in their rectangle-based Cubism, as is a piece made of layered and blow-torched sheet metal.</p>
+        <p>Fontana (1899-1968) is the transitional figure. In the 1950's he began puncturing canvases and adding pieces of glass as a way to defy traditional pictorial space. The examples on view here -- white easel-size canvases savagely punched full of holes and bearing small chunks of colored glass -- look forward to a time when paintings would be treated more and more as objects. Most remarkably appealing, however, is a bright red canvas that has been subjected to Fontana's signature gesture: long, thin knife slashes. Contrary to the implied violence, the tapering lines have a Zen-like grace.</p>
+        <p>Manzoni (1933-1963), who is best known for selling his own canned feces as art, belongs mainly to 1960's Conceptualism and performance art. Here he is represented by a series of all-white, easel-size pictures made of materials like pleated canvas, or squares of cut canvas, or hundreds of tiny Styrofoam balls. These works exhibit a rough object quality, like the works of Fontana,  but for Manzoni they were only a beginning.</p>
+        <p>KEN JOHNSON</p>
+        <p>ART IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

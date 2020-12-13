@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="09INSI$02" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1237509"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001009T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E7DA103CF93AA35753C1A9669C8B63" item-length="261" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>New Rules for Patients  In an effort to get around an impasse in Congress on patients' rights legislation, the Clinton administration plans to issue rules establishing protections for the 130 million Americans who receive insurance through private employers. PAGE A12</p>
+        <p>Prosperity Has Deep Roots  President Clinton's 1993 budget plan is widely seen as crucial to the nation's long run of prosperity. But experts say his administration cannot claim all the credit. PAGE A14</p>
+      </block>
+      <block class="full_text">
+        <p>New Rules for Patients  In an effort to get around an impasse in Congress on patients' rights legislation, the Clinton administration plans to issue rules establishing protections for the 130 million Americans who receive insurance through private employers. PAGE A12</p>
+        <p>Prosperity Has Deep Roots  President Clinton's 1993 budget plan is widely seen as crucial to the nation's long run of prosperity. But experts say his administration cannot claim all the credit. PAGE A14</p>
+        <p>Making Deals, Not Enemies  House Speaker J. Dennis Hastert and President Clinton can cajole and disagree without animosity; it is a bipartisan relationship that harks back to an earlier era. PAGE A10</p>
+        <p>A New Jersey Debate, Too  In their first debate, New Jersey's Senate candidates, Bob Franks and Jon S. Corzine, attacked each other's voting records, campaign tactics and stands on issues like gun control and health care. PAGE B1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Napster, With a Fee</title>
+    <meta content="MB234612" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1235242"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="JERSEY FOOTLIGHTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Napster</org>
+        <org class="indexing_service">Get Up Kids, The (Music Group)</org>
+        <person class="indexing_service">Woliver, Robbie</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001001T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E4DC143DF932A35753C1A9669C8B63" item-length="166" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Napster, With a Fee</hl1>
+      </hedline>
+      <byline class="print_byline">By Robbie Woliver</byline>
+      <byline class="normalized_byline">Woliver, Robbie</byline>
+      <abstract>
+        <p>Controversial Web site Napster, which has sponsored free concerts in past, plans to charge $4 admission for Get Up Kids concert at Rutgers University; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>What's up with the emo-alternative band The Get Up Kids (below), charging admission to their Napster-sponsored concert at Rutgers?</p>
+        <p>In the past, Napster, the controversial song-sharing Web site, has sponsored free concerts for bands like Limp Bizkit who are sympathetic to their cause. Many high-profile musical artists, however, object to the company, claiming lost royalties and infringed copyrights because of Napster's free downloading service.</p>
+      </block>
+      <block class="full_text">
+        <p>What's up with the emo-alternative band The Get Up Kids (below), charging admission to their Napster-sponsored concert at Rutgers?</p>
+        <p>In the past, Napster, the controversial song-sharing Web site, has sponsored free concerts for bands like Limp Bizkit who are sympathetic to their cause. Many high-profile musical artists, however, object to the company, claiming lost royalties and infringed copyrights because of Napster's free downloading service.</p>
+        <p>It seems logical, though, that Napster would continue its power-to-the-people philosophy to live performance. This concert featuring the Kids' combination of overly sensitive lyrics and blaring rock might just end up as bootleg tapes for those true Napster fans who would like to forgo the $4 admission. The show takes place at 8 p.m. Oct. 4, at the New Brunswick campus, Trayes Hall.</p>
+        <p>Robbie Woliver</p>
+        <p>JERSEY FOOTLIGHTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

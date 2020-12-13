@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>PHARMACEUTICALS ACQUISITION</title>
+    <meta content="MB000736" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1230008"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WORLD BUSINESS BRIEFING: EUROPE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Elan Corp</org>
+        <org class="indexing_service">Dura Pharmaceuticals Inc</org>
+        <person class="indexing_service">Lavery, Brian</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Pharmaceutical, Biotechnology and Science</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000912T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E6DF1738F931A2575AC0A9669C8B63" item-length="160" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>PHARMACEUTICALS ACQUISITION</hl1>
+      </hedline>
+      <byline class="print_byline">By Brian Lavery</byline>
+      <byline class="normalized_byline">Lavery, Brian</byline>
+      <abstract>
+        <p>Elan Corp acquires Dura Pharmaceuticals Inc for $1.8 billion in stock; graph (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Dublinbased drugmaker the Elan Corporation acquired Dura Pharmaceuticals, Inc. of San Diego, for $1.8 billion in stock, paying 0.6715 of an Elan A.D.R. for each Dura share. The purchase, Elan's third acquisition this year, raises its North American sales force to more than 1,000. Dura's antibiotics and its Spiros brand of inhaler had sales of $301 million in 1999. The products will broaden Elan's offerings, which are now focused on painkillers and treatments for breast cancer and Alzheimer's disease.</p>
+        <p>Brian Lavery</p>
+      </block>
+      <block class="full_text">
+        <p>The Dublinbased drugmaker the Elan Corporation acquired Dura Pharmaceuticals, Inc. of San Diego, for $1.8 billion in stock, paying 0.6715 of an Elan A.D.R. for each Dura share. The purchase, Elan's third acquisition this year, raises its North American sales force to more than 1,000. Dura's antibiotics and its Spiros brand of inhaler had sales of $301 million in 1999. The products will broaden Elan's offerings, which are now focused on painkillers and treatments for breast cancer and Alzheimer's disease.</p>
+        <p>Brian Lavery</p>
+        <p>WORLD BUSINESS BRIEFING: EUROPE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

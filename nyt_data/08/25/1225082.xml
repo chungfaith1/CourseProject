@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Louis Kaufman Archive</title>
+    <meta content="25LIBR$01" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225082"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Library of Congress</org>
+        <person class="indexing_service">Kaufman, Louis (1905-94)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000825T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E3DF1531F936A1575BC0A9669C8B63" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Louis Kaufman Archive</hl1>
+      </hedline>
+      <dateline>WASHINGTON, Aug. 24</dateline>
+      <abstract>
+        <p>Library of Congress acquires personal papers of violinist Louis Kaufman (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Library of Congress says it has acquired the personal papers of the violinist Louis Kaufman, including letters from such prominent musicians and artists as Leonard Bernstein, Aaron Copland and Milton Avery.</p>
+        <p>The museum said on Wednesday that the acquisition, a gift from the composer's widow, Annette, involved some 9,000 items. Kaufman, who died in 1994, recorded music for over 400 films, including ''Gone With the Wind,'' and won the Grand Prix du Disque in 1950 for his recording of Vivaldi's ''Four Seasons.''</p>
+      </block>
+      <block class="full_text">
+        <p>The Library of Congress says it has acquired the personal papers of the violinist Louis Kaufman, including letters from such prominent musicians and artists as Leonard Bernstein, Aaron Copland and Milton Avery.</p>
+        <p>The museum said on Wednesday that the acquisition, a gift from the composer's widow, Annette, involved some 9,000 items. Kaufman, who died in 1994, recorded music for over 400 films, including ''Gone With the Wind,'' and won the Grand Prix du Disque in 1950 for his recording of Vivaldi's ''Four Seasons.''</p>
+        <p>The library said it had also received a gift of printed music, manuscripts, contracts, photographs and other items from the family of the composer Mario Castelnuovo-Tedesco, who died in 1968.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

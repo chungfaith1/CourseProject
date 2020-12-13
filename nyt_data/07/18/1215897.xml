@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="18CBRIE" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215897"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000718T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04EEDE103BF93BA25754C0A9669C8B63" item-length="263" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AMERADA HESS CORP.,  New York, an oil company, agreed to buy an additional 2.1 percent stake in three Caspian Sea oil fields from Ramco Energy P.L.C., a British oil company, for $150 million.</p>
+        <p>CONAGRA INC.,  Omaha, the second-biggest food company in the United States, bought the closely held Lightlife Foods Inc., a leading maker of refrigerated vegetarian food and soy products, for an undisclosed amount.</p>
+      </block>
+      <block class="full_text">
+        <p>AMERADA HESS CORP.,  New York, an oil company, agreed to buy an additional 2.1 percent stake in three Caspian Sea oil fields from Ramco Energy P.L.C., a British oil company, for $150 million.</p>
+        <p>CONAGRA INC.,  Omaha, the second-biggest food company in the United States, bought the closely held Lightlife Foods Inc., a leading maker of refrigerated vegetarian food and soy products, for an undisclosed amount.</p>
+        <p>RSL COMMUNICATIONS LTD.,  Hamilton, Bermuda, a telephone and data-communications company, said it planned to divest its operations in Canada, Japan and Hong Kong to focus on its core businesses in the United States and Europe.</p>
+        <p>ROCKWELL INTERNATIONAL CORP.,  Milwaukee, which makes electronic controls and communications products for industrial automation, avionics and communications, agreed with OmronCorp, Tokyo, a maker of control equipment, on an alliance in the factory automation business.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

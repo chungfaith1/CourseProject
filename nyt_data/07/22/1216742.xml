@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRACK-SHARING PACT</title>
+    <meta content="MB235336" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1216742"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WORLD BUSINESS BRIEFING: AMERICAS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Railroads</classifier>
+        <location class="indexing_service">Canada</location>
+        <org class="indexing_service">Canadian National Railway Co</org>
+        <org class="indexing_service">Canadian Pacific Railway Co</org>
+        <person class="indexing_service">Pritchard, Timothy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada</classifier>
+        <classifier class="online_producer" type="general_descriptor">Railroads</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000722T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE5DF153AF931A15754C0A9669C8B63" item-length="104" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRACK-SHARING PACT</hl1>
+      </hedline>
+      <byline class="print_byline">By Timothy Pritchard</byline>
+      <byline class="normalized_byline">Pritchard, Timothy</byline>
+      <abstract>
+        <p>Rivals Canadian Pacific Railway and Canadian National Railway agree to share some track in US and Canada (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Rivals for most of the last century, Canadian Pacific Railway and Canadian National Railway, agreed to share tracks in the Midwest and Northeast of the United States as well as in southern Ontario, Canada's industrial heartland. The agreements came a day after a proposed merger of Canadian National and the Burlington Northern Santa Fe Corporation was canceled because of a moratorium on rail mergers imposed by regulators in the United States.</p>
+        <p>Timothy Pritchard (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Rivals for most of the last century, Canadian Pacific Railway and Canadian National Railway, agreed to share tracks in the Midwest and Northeast of the United States as well as in southern Ontario, Canada's industrial heartland. The agreements came a day after a proposed merger of Canadian National and the Burlington Northern Santa Fe Corporation was canceled because of a moratorium on rail mergers imposed by regulators in the United States.</p>
+        <p>Timothy Pritchard (NYT)</p>
+        <p>WORLD BUSINESS BRIEFING: AMERICAS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Next Big Leap? It's Called XML</title>
+    <meta content="07MARK$03" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="E-Commerce" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="H" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1205356"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">Microsoft Corp</org>
+        <person class="indexing_service">Markoff, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01EFDC103DF934A35755C0A9669C8B63" item-length="1092" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Next Big Leap? It's Called XML</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <abstract>
+        <p>Next generation of Web language, called XML (Extensible Markup Language) is emerging; XML, by interpreting as well as transmitting data, will greatly enhance wide range of Internet companies and applications; XML designers are starting to use language to hook together entire industries; many industry executives say XML is at heart of Microsoft's expected new software strategy, which will create new Internet operating system that will shift array of applications from personal computer hard disks onto Net; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IN the beginning, as it were, the Web was made possible by a simple innovation known as Hypertext Markup Language, or HTML. Through this language, which arranged text, images and buttons in a World Wide Web browser, information could -- and very much still can -- be read by computer users all over the world.</p>
+        <p>Yet despite its power, HTML has flaws, the most obvious being an inability to make distinctions between the presentation of computer data and the data itself. HTML, in other words, deals only with the ''appearance'' of information. This is why the Web is sometimes called a ''fancy fax machine'' -- great at doling out documents on request but poorly designed for direct information exchanges between computers on the Net.</p>
+        <p>Now, inevitably, the next generation of Web language, called XML (for Extensible Markup Language), is emerging, and many software designers can barely contain their excitement over its potential to establish a real Internet lingua franca.</p>
+      </block>
+      <block class="full_text">
+        <p>IN the beginning, as it were, the Web was made possible by a simple innovation known as Hypertext Markup Language, or HTML. Through this language, which arranged text, images and buttons in a World Wide Web browser, information could -- and very much still can -- be read by computer users all over the world.</p>
+        <p>Yet despite its power, HTML has flaws, the most obvious being an inability to make distinctions between the presentation of computer data and the data itself. HTML, in other words, deals only with the ''appearance'' of information. This is why the Web is sometimes called a ''fancy fax machine'' -- great at doling out documents on request but poorly designed for direct information exchanges between computers on the Net.</p>
+        <p>Now, inevitably, the next generation of Web language, called XML (for Extensible Markup Language), is emerging, and many software designers can barely contain their excitement over its potential to establish a real Internet lingua franca.</p>
+        <p>By not only transmitting information but also interpreting what that information means, XML, the brainchild of a Sun Microsystems engineer, will greatly enhance a wide range of Internet companies and applications, from automated industry supply chains to a new class of Internet programs that users can gain access to at the office, at home or on the road.</p>
+        <p>''It's like there's been this collective 'Aha!' experience in the community over the simplicity of this technology,'' said Howard Katz, an XML software developer in Vancouver, British Columbia. ''It just feels right.''</p>
+        <p>To understand the difference between HTML and XML, consider a document containing, say, baseball statistics, like those printed in newspapers. As it travels through cyberspace, the document contains separate bracketed ''tags'' embedded in the text,  which offer instructions to a browser, like Microsoft Explorer or Netscape Navigator, on either the display of the information (HTML) or its meaning (XML).</p>
+        <p>The HTML tags display the information in neat columns and boldface the names of the players and their teams. The XML tags, by contrast, describe what each category of information is: player, team, batting average, home runs, runs batted in. The genius of XML is that each information category, whether baseball statistics or information required by the aerospace industry, can have its own ''vocabulary,'' making it possible to easily identify and exchange information.</p>
+        <p>XML designers are starting to use the language like a data glue to hook together entire industries. For example, a computermaker or a group of PC companies might automate their supply chains, using the Web to link parts suppliers directly to their factories.</p>
+        <p>Moreover, XML may become the most crucial component underlying the next big leap on the Internet. Microsoft has already moved rapidly to build e-commerce tools based on its version of XML, known as Biztalk.</p>
+        <p>Now the company is apparently preparing for an even more significant committment to XML, software developers contend. This month, Microsoft is expected to introduce its new software strategy based on what its co-founder, William H. Gates, is calling Next Generation Windows Services.</p>
+        <p>The plan is to create a new Internet operating system that will shift an array of applications from the hard disks of personal computers onto the Net. A range of software and services, from word processing and spreadsheet programs to data storage and other peripherals, will be on powerful network computers accessible through the Internet.</p>
+        <p>Computer users will thus be able to gain access to the power of their computers whether they are in their office, at home or traveling with a wireless connection to the Internet.</p>
+        <p>At the heart of Microsoft's new Internet strategy, many industry executives contend, is XML, which the company will use to rapidly connect its applications and make them work across the Internet.</p>
+        <p>If that happens, it will be a bitter pill for Sun Microsystems, one of Microsoft's chief rivals. XML was first envisioned by Jon Bosak, a Microsystems software engineer, who saw that HTML would not be useful for turning the World Wide Web into what he calls an ''industrial strength infrastructure.''</p>
+        <p>One of a small group of professionals who understood the true power of an arcane publishing language known as Standard Generalized Markup Language, or SGML, Mr. Bosak began pestering the World Wide Web Consortium, the M.I.T.-based group that designs standards for the Web, with his notions in 1996. He came away with the consortium's blessing to explore a way to bring the power of SGML to the Web.</p>
+        <p>He had become a believer in SGML after using the language to single-handedly transfer the 150,000 pages of Novell's Netware documentation from print to an online system.</p>
+        <p>Between August and November 1996, Mr. Bosak, with the help of two other SGML experts, Tim Bray and C. M. Sperberg-McQueen, created XML as a scaled-down version of SGML, intended for use on the Internet.</p>
+        <p>Their solution was, in principle, very simple. They used HTML's tags (which are offset by brackets within the code), to describe what a particular piece of information is, rather than what it looks like.</p>
+        <p>In an article written last year for Scientific American, Mr. Bray and Mr. Bosak described the difference between the two languages with a simple example: shirts. XML, they wrote, would ''label the parts of an order for a shirt not as boldface, paragraph, row and column -- what HTML offers -- but as price, size, quantity and color.''</p>
+        <p>The approach has been quickly grasped by everyone -- software developers, Internet start-ups, corporate giants like Microsoft and I.B.M.</p>
+        <p>''We unleashed it on the world at the end of 1996, and it was like hurling ourselves at a door that was unlatched,'' Mr. Bray said.</p>
+        <p>Will the resulting technology offer a level playing field based on a set of standards that all companies can use? It's not clear. Sun, which created the Java programming language, has been slow in popularizing the XML standard even though Mr. Bosak conceived it.</p>
+        <p>But in light of Microsoft's intense antitrust battle and the conflicting industry views over whether the company is an imitator or an innovator, it will be quite a twist if Microsoft becomes the biggest beneficiary of the technology.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Destroying Bomb Fuel</title>
+    <meta content="13QNA" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1206987"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q&amp;A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Atomic Weapons</classifier>
+        <classifier class="indexing_service" type="descriptor">Plutonium</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Plutonium</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Weapons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E0DD143EF930A25755C0A9669C8B63" item-length="317" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Destroying Bomb Fuel</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Question and answer column discusses approaches to destroying weapons-grade plutonium; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q.: I saw a headline about plans to destroy tons of weapons-grade plutonium. How can plutonium, an element, be destroyed?</p>
+        <p>A.: There are two main approaches to getting rid of plutonium as bomb fuel. One relies on mixing it with other materials so it is not pure enough for use in bombs; the other uses it in reactors, transmuting it into other elements.</p>
+      </block>
+      <block class="full_text">
+        <p>Q.: I saw a headline about plans to destroy tons of weapons-grade plutonium. How can plutonium, an element, be destroyed?</p>
+        <p>A.: There are two main approaches to getting rid of plutonium as bomb fuel. One relies on mixing it with other materials so it is not pure enough for use in bombs; the other uses it in reactors, transmuting it into other elements.</p>
+        <p>Plutonium for weapons is produced in reactors by extracting neutrons from one form of uranium and adding them to another; the plutonium is painstakingly separated from radioactive wastes. In the solidification method of disposal, the plutonium would be mixed back in with these wastes, making it very difficult to repurify. The resulting material would be solidified in either glass or a ceramic substance.</p>
+        <p>In the transmutation method, a reactor would split each atom of plutonium, in the process releasing heat that could be used to make electricity.</p>
+        <p>There is considerable controversy over which method would be more practical and effective for large quantities of plutonium. With solidification, the solid would have to last thousands of years because plutonium decays slowly. If the glass broke down, the plutonium could reconcentrate, form a critical mass and carry on a nuclear chain reaction. As for the other method, it is not clear that utilities would accept the plutonium as fuel, or that people who live near nuclear plants would agree to its use.</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Readers are invited to submit questions by mail to Question, Science Times, The New York Times, 229 West 43rd Street, New York, N.Y. 10036-3959, or by e-mail to question@nytimes.com.</p>
+        <p>Q&amp;A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

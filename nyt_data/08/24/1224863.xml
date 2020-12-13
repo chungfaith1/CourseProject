@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Setup and Programming; Digital Recorders Aren't Quite Plug and Play</title>
+    <meta content="24SMAN$01" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1224863"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Recording Equipment</classifier>
+        <classifier class="indexing_service" type="descriptor">Dvd (Digital Versatile Disk)</classifier>
+        <person class="indexing_service">Furchgott, Roy</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recording Equipment</classifier>
+        <classifier class="online_producer" type="general_descriptor">DVD (Digital Versatile Disk)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000824T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E3DF1731F937A1575BC0A9669C8B63" item-length="337" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Setup and Programming; Digital Recorders Aren't Quite Plug and Play</hl1>
+      </hedline>
+      <byline class="print_byline">By ROY FURCHGOTT</byline>
+      <byline class="normalized_byline">Furchgott, Roy</byline>
+      <abstract>
+        <p>Connecting and programming digital video recorder can be daunting to those who are not technically adept (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IT'S been said that connecting a digital video recorder is as easy as hooking up a VCR. Let that be a warning.</p>
+        <p>Although connecting and programming these units is not especially daunting to the technically adept, they are not quite ''plug and play.'' At their simplest, the units require that the user connect a coaxial cable and a phone cable to the box, then follow a series of commands on the TV screen. Such a setup can take as little as an hour. But setup can be more complicated when a digital recorder is used with a home entertainment system, a cable box or any number of devices that can be connected to a television.</p>
+      </block>
+      <block class="full_text">
+        <p>IT'S been said that connecting a digital video recorder is as easy as hooking up a VCR. Let that be a warning.</p>
+        <p>Although connecting and programming these units is not especially daunting to the technically adept, they are not quite ''plug and play.'' At their simplest, the units require that the user connect a coaxial cable and a phone cable to the box, then follow a series of commands on the TV screen. Such a setup can take as little as an hour. But setup can be more complicated when a digital recorder is used with a home entertainment system, a cable box or any number of devices that can be connected to a television.</p>
+        <p>In a test, the TiVo receiver (a Sony model) was the easier to set up, requiring the user to answer questions on a series of screen menus. There were confusing moments -- when the machine asked for the selection of a cable provider, it did not provide the correct name. And several days after the machine was set up and operating, it suddenly could no longer complete its nightly call to update the TV schedule. The machine had switched the dial-in number from a toll-free number to an incorrect local one. The machine had to be configured all over again.</p>
+        <p>Setup of the ReplayTV receiver (a Panasonic model) required more time, largely because it had more customizable features. The manual did not make it easy. Take the section on setting recording options, which includes this passage: ''Guaranteed. Choices are yes and no. Guaranteed means space is reserved for the show. Nonguaranteed means the show will be recorded if there is space available (after space is reserved for Show-based Replay channels). See Guaranteed and Nonguaranteed Recording on Page 40.''</p>
+        <p>As easy as a VCR indeed.</p>
+        <p>ROY FURCHGOTT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

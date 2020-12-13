@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Smart Set</title>
+    <meta content="LTR072910" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Science; Education; Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212154"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">EDUCATION AND SCHOOLS</classifier>
+        <classifier class="indexing_service" type="descriptor">Science and Technology</classifier>
+        <person class="indexing_service">Hall, Stephen S</person>
+        <person class="indexing_service">Weisberg, Stuart P</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E7DA1130F931A35754C0A9669C8B63" item-length="169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Smart Set</hl1>
+      </hedline>
+      <abstract>
+        <p>Stuart P Weisberg letter on Stephen S Hall's June 4 article on Midwood High students' participation in Science Talent Search opposes teacher who commended his students for burning candle at both ends</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Stephen S. Hall's article (June 4) reveals that the students at Midwood High participating in the Science Talent Search absorb not only the brilliant ideas of top-flight scientists but also some of their more maladaptive behaviors. I was particularly troubled by a teacher's comment that he liked to see his students ''burning the candle at both ends.''</p>
+        <p>I am a medical student involved with research, and none of the scientists whom I wish to emulate possess such an attitude. All of them have responsibilities to family, colleagues and their own health, which they take great care to balance against the loftiest of career aspirations. Submitting to the often potent urge to sacrifice this balance to fixate on a research goal should never be encouraged in budding scientists, particularly those at the high school level.</p>
+        <p>Stuart P. Weisberg</p>
+        <p>New York</p>
+      </block>
+      <block class="full_text">
+        <p>Stephen S. Hall's article (June 4) reveals that the students at Midwood High participating in the Science Talent Search absorb not only the brilliant ideas of top-flight scientists but also some of their more maladaptive behaviors. I was particularly troubled by a teacher's comment that he liked to see his students ''burning the candle at both ends.''</p>
+        <p>I am a medical student involved with research, and none of the scientists whom I wish to emulate possess such an attitude. All of them have responsibilities to family, colleagues and their own health, which they take great care to balance against the loftiest of career aspirations. Submitting to the often potent urge to sacrifice this balance to fixate on a research goal should never be encouraged in budding scientists, particularly those at the high school level.</p>
+        <p>Stuart P. Weisberg</p>
+        <p>New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

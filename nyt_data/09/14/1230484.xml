@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="14CMPBRFS" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1230484"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000914T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE5D91238F937A2575AC0A9669C8B63" item-length="445" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LOWE'S CO., Wilkesboro, N.C., the No. 2 U.S. home-improvement chain, said it would build an $80 million regional distribution center in Findlay, Ohio, that would employ more than 500 people. The 1.25-million-square-foot center will supply products to about 100 Lowe's stores in the lower Great Lakes region. Construction is expected to be completed in October 2001.</p>
+      </block>
+      <block class="full_text">
+        <p>LOWE'S CO., Wilkesboro, N.C., the No. 2 U.S. home-improvement chain, said it would build an $80 million regional distribution center in Findlay, Ohio, that would employ more than 500 people. The 1.25-million-square-foot center will supply products to about 100 Lowe's stores in the lower Great Lakes region. Construction is expected to be completed in October 2001.</p>
+        <p>PANDA ENERGY INTERNATIONAL INC., Dallas, a privately held electrical generation company, said it planned to build a $350 million power plant in central Illinois by late 2003. Including the new Illinois project, Panda has 12,000 megawatts of generation capability under development in several states, including Florida, West Virginia, Pennsylvania, Arkansas, Arizona, Michigan and Missouri.</p>
+        <p>NS GROUP INC., Newport, Ky., a maker of specialty steel products for the energy industry, agreed to sell its Imperial Adhesives Inc. unit to the closely held Sovereign Specialty Chemicals Inc., based in Chicago, which makes specialty adhesives and sealants, for $27 million.</p>
+        <p>ALLSCRIPTS INC., Chicago, an electronic prescription services company, and IDX Systems Corp.'s ChannelHealth, a health care information provider, have cleared the antitrust waiting period for their merger ahead of schedule, the companies said. The companies expect the transaction to close in the fourth quarter. Allscripts said in July that it agreed to buy ChannelHealth. The stock deal is now worth about $186 million.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

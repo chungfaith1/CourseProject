@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>How Much Book?</title>
+    <meta content="LTR005757" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Theater; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204582"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="THE TONYS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <person class="indexing_service">Uhry, Alfred</person>
+        <person class="indexing_service">Stroman, Susan</person>
+        <person class="indexing_service">Mckinley, Jesse</person>
+        <object.title class="indexing_service">Contact (Play)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F03EFD7123CF937A35755C0A9669C8B63" item-length="255" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>How Much Book?</hl1>
+      </hedline>
+      <abstract>
+        <p>Tony Award winner Alfred Uhry disputes contention, in Jesse McKinley's May 21 article about Susan Stroman, that Contact is 'bookless' musical (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To The Editor:</p>
+        <p>In his article about Susan Stroman [''These Days, Her Dance Card Is Full,' May 21], Jesse McKinley refers to ''Contact'' as a ''bookless'' musical. This is not the case.</p>
+        <p>It is a common misconception that the amount of dialogue in a show reflects the amount of ''book.'' In fact, musical books are about story and structure, what the playwright Terrence McNally has called the architecture of a show. Sometimes that architecture is expressed in substantial nonmusical scenes -- in shows like ''Gypsy'' or ''Parade.'' Sometimes that architecture is expressed almost entirely in music and lyrics -- in shows like ''Rent'' and ''Sweeney Todd.''</p>
+      </block>
+      <block class="full_text">
+        <p>To The Editor:</p>
+        <p>In his article about Susan Stroman [''These Days, Her Dance Card Is Full,' May 21], Jesse McKinley refers to ''Contact'' as a ''bookless'' musical. This is not the case.</p>
+        <p>It is a common misconception that the amount of dialogue in a show reflects the amount of ''book.'' In fact, musical books are about story and structure, what the playwright Terrence McNally has called the architecture of a show. Sometimes that architecture is expressed in substantial nonmusical scenes -- in shows like ''Gypsy'' or ''Parade.'' Sometimes that architecture is expressed almost entirely in music and lyrics -- in shows like ''Rent'' and ''Sweeney Todd.''</p>
+        <p>''Contact'' is made up of three connecting stories, which explore and develop a common theme. It has character development, plot, plot twists and -- although its architecture is expressed largely in dance -- a significant amount of dialogue.</p>
+        <p>In short, it has a book. If it did not, it would be an entirely different show.</p>
+        <p>ALFRED UHRY  Manhattan</p>
+        <p>The writer won the 1999 Tony Award for best book of a musical for ''Parade.''</p>
+        <p>THE TONYS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

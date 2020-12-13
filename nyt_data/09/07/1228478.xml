@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Speedy Connections: Cable Versus D.S.L.</title>
+    <meta content="07ASKK$04" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/07/technology/07ASKK.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1228478"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000907T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E4D61739F934A3575AC0A9669C8B63" item-length="748" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Speedy Connections: Cable Versus D.S.L.</hl1>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. Is there any difference between a D.S.L. and a cable-modem connection for high-speed Internet access?  A. The two types of connections have several things in common, like speeds much faster than a regular dial-up modem can offer and the ability to be on all the time. And they usually download files much faster  than they upload them. But a cable connection and an asynchronous digital subscriber line (commonly referred to as D.S.L.) differ in how they link you to the Internet.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. Is there any difference between a D.S.L. and a cable-modem connection for high-speed Internet access?  A. The two types of connections have several things in common, like speeds much faster than a regular dial-up modem can offer and the ability to be on all the time. And they usually download files much faster  than they upload them. But a cable connection and an asynchronous digital subscriber line (commonly referred to as D.S.L.) differ in how they link you to the Internet.</p>
+        <p>A cable-modem setup uses the same type of wire that brings cable television programming into your house. In general, cable downloading speeds average one million bits per second, about 20 times as fast as a 56 kilobits-per-second modem (and can be even faster).</p>
+        <p>Cable is a shared line, though, and one reason the speeds may vary is that when a lot of people are using that cable connection, downloading speeds drop for everyone. More information on cable modems is available at the Cable Modem Information Network (www.cable-modem .net).</p>
+        <p>A D.S.L. connection is made through a phone line instead of a shared cable, so speeds are more consistent. Some places advertise a maximum of 1.54 megabits for downloading speed, but most lower-priced D.S.L. services for the home user offer downloading speeds of 256 to 640 kilobits per second, or up to 11 times as fast as a 56K modem. D.S.L. technology can maximize the potential of your phone line for transmitting data because it is possible to use the same line for phone calls and D.S.L. service.</p>
+        <p>For more information about D.S.L., visit www.adsl.com.  Q. The response time from when I type a letter and when it appears on the screen seems very slow on my new computer. Is there anything I can do to fix that?  A. Check the cord connecting your keyboard to the computer and make sure that everything is plugged in tightly. (If you have a cordless keyboard, make sure that you are not farther away than the manufacturer recommends.) Slow response time is often caused by insufficient RAM or processor speed for the task at hand. A program that you may have open in the background but are not using may be taking up some of your processor's attention and causing the lag you see between keys and screen. You might try closing all programs except the one you are working in and see if the keyboard response time improves.</p>
+        <p>In some cases when a computer's memory and processor resources are low, U.S.B. keyboards have been known to cause small delays in the keyboard response time. Increasing your system resources by closing programs might help in this situation as well.</p>
+        <p>A full hard drive or temporary-file directory can also slow things down, but if the computer is new, you may want to check with the manufacturer's technical support department, especially if the machine is still under warranty or you have free access to the telephone help line.  Q. I have already used up all the U.S.B. ports on my computer, but I want to add a U.S.B. scanner. Is there an easy way to do this?  A. If you have used up your U.S.B. ports, you can purchase a hub that lets you add more. It is a small device that plugs into one of your computer's U.S.B. ports and offers you multiple slots to plug in other U.S.B. peripherals.</p>
+        <p>You can get hubs with three, four, seven or even more ports. You can also link the hubs together to create more outlets for U.S.B. equipment. Hubs are available in ''powered'' and ''nonpowered'' models. The powered hubs have their own electrical supply and typically offer better performance because the hubs do not have to rely solely on the power that runs through the U.S.B. cables, as the nonpowered hubs do.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Circuits invites questions about computer-based technology, by e-mail to QandA@nytimes.com or mail to Questions, Circuits, The New York Times, 229 West 43rd Street, New York, N.Y. 10036-3959. This column will answer questions of general interest, but letters cannot be answered individually.</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

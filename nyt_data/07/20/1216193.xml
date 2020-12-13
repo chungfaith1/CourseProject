@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Booting Up Overseas? Look Before You Plug In</title>
+    <meta content="20ASKK" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1216193"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000720T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E2DF1E3BF933A15754C0A9669C8B63" item-length="678" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Booting Up Overseas? Look Before You Plug In</hl1>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. I'm moving to Europe and wish to take my computer with me. Will I have a problem with the computer because of the different electrical standards overseas?</p>
+        <p>A. Different European countries have different electrical standards, so find out ahead of time what the voltage and frequency rates are for your new home. Most computers of recent vintage, especially laptops, should be able to handle it.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. I'm moving to Europe and wish to take my computer with me. Will I have a problem with the computer because of the different electrical standards overseas?</p>
+        <p>A. Different European countries have different electrical standards, so find out ahead of time what the voltage and frequency rates are for your new home. Most computers of recent vintage, especially laptops, should be able to handle it.</p>
+        <p>Most electrical current in the United States operates at 110 to 120 volts, with a frequency of 60 hertz, while other parts of the world use 220 to 240 volts and varying frequencies usually 50 hertz in Europe). Ireland, for example, operates at 220 volts, 50 hertz.</p>
+        <p>If you have a Windows-based PC, check the back of the computer for the voltage switch that leads to the computer's power supply, inside the case. You will probably see a switch that will let you manually select either 115 volts for use on American electrical systems or 230 volts for use with European standards.</p>
+        <p>Apple Computer states that the majority of its Macintosh computers that were manufactured after the Macintosh SE model in 1987 are ''universal'' and can handle currents between 100 and 240 volts, and 50 to 60 hertz. To determine whether a  Mac is indeed universal, look at the machine's F.C.C. identification label for its voltage requirements, or refer to the technical specifications section of the user's manual. Some Apple machines have a manual voltage selector that allows you to choose 110 or 220 volts.</p>
+        <p>Your monitor, printer and other devices may not be so versatile, so refer to the electrical specifications in the documentation that came with your equipment. If the country you're moving to uses a line frequency other than 50 to 60 hertz, make sure your devices are flexible, or ''frequency independent,'' to ensure proper performance. Apple says most of its products are indeed frequency independent, but double-check before using any particular device. If you have lost the manuals that came with your Mac, Apple has a searchable Tech Info Library at til.info.apple.com.</p>
+        <p>PC's running Windows, DOS, OS/2 or other operating systems are made by a wide range of different companies, so refer to the manufacturer's technical specs for your machine. Most computer makers will have that information in the tech support area of their Web sites.</p>
+        <p>You can get a voltage converter for around $30 to $40. And you will probably also need a plug adapter (or a set of them) for your various power cords.</p>
+        <p>Q. Can I use a different keyboard layout for my computer besides the American one? Is there a system setting to change, or do I have to buy a program and a new keyboard to do that?</p>
+        <p>A. Both the Windows and Macintosh operating systems will allow you to substitute foreign-language keyboard layouts. For Windows 98, go to the Start menu, then Settings and Control Panel, then double-click on the Keyboard icon. Click on the Language tab, then on Add. Pick your choice from the pop-up list.</p>
+        <p>For the Macintosh, go to the Apple menu to Control Panels and select Keyboard. You will see a list of languages. Check the one you wish to use. If you don't see the additional keyboards, you may need to install the files from your operating system's CD-ROM.</p>
+        <p>The accents, alphabet and punctuation for many languages, including Danish, French, Norwegian, Spanish and German, are usually readily available. If you need a language that you don't see listed, check with your operating system's maker for additional language kits. Appropriate keyboards (or inexpensive letter stickers to use with your American model) are available, and you can find a good supply of foreign-language hardware and software at www.worldlanguage.com.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Circuits invites questions about computer-based technology, by e-mail to QandA@nytimes.com or mail to Questions, Circuits, The New York Times, 229 West 43rd Street, New York, N.Y. 10036-3959. This column will answer questions of general interest, but letters cannot be answered individually.</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

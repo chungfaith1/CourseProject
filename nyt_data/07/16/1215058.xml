@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Children's Books</title>
+    <meta content="RV083408" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215058"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Gladstone, Jim</person>
+        <person class="indexing_service">Nordine, Ken</person>
+        <object.title class="indexing_service">Colors (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Columns/Children's Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE1D81638F935A25754C0A9669C8B63" item-length="320" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Children's Books</hl1>
+      </hedline>
+      <byline class="print_byline">By Jim Gladstone</byline>
+      <byline class="normalized_byline">Gladstone, Jim</byline>
+      <abstract>
+        <p>Jim Gladstone reviews book Colors by Ken Nordine (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>COLORS</p>
+        <p>By Ken Nordine.</p>
+        <p>Illustrated by Henrik Drescher.</p>
+        <p>Harcourt, $16. (Ages 5 to 9)</p>
+      </block>
+      <block class="full_text">
+        <p>COLORS</p>
+        <p>By Ken Nordine.</p>
+        <p>Illustrated by Henrik Drescher.</p>
+        <p>Harcourt, $16. (Ages 5 to 9)</p>
+        <p>This wiggy collection of Beat-style poetic riffs and mixed-media collages assigns unpredictable personalities to an unlikely spectrum of colors. Readers are told that burgundy is ''fatly soft,'' azure is ''bored with just being blue,'' and magenta ''has her own gossip column.'' A collaboration by Ken Nordine, an NPR commentator, and the illustrator Henrik Drescher, this riotous -- and highly sophisticated -- assembly of images and language ultimately has at least as much to say about creativity as color. The children's-book equivalent of Alexander Theroux's eminently browsable (if not always sensible) free-associative essays, ''The Primary Colors'' and ''The Secondary Colors,'' this is a volume for older kids, who may well be inspired to try their own hands at what Nordine calls ''word jazz.'' Teachers will find the start of excellent lessons on extemporaneous writing, personification and metaphor here too. Parents of children first learning their colors, however, would be well advised to steer clear of ''Colors'' for the time being. Nordine's text began its life as a series of radio commercials for paint, and the poems here, along with others, were featured on a spoken-word recording, also called ''Colors,'' first released in 1967 and recently reissued. Drescher is at his best here. While his art has sometimes felt overconstrained in children's book projects (''Pat the Beastie''), he seems liberated by Nordine's unbridled zaniness.</p>
+        <p>Jim Gladstone</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

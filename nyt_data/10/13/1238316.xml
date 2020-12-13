@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Albums of the Week</title>
+    <meta content="13RECO$01" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/13/arts/13RECO.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1238316"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings (Audio)</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Tom Tom Club (Music Group)</org>
+        <person class="indexing_service">Lee, Sara (Musician)</person>
+        <person class="indexing_service">Powers, Ann</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001013T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E7DE143FF930A25753C1A9669C8B63" item-length="275" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Albums of the Week</hl1>
+      </hedline>
+      <byline class="print_byline">By ANN POWERS</byline>
+      <byline class="normalized_byline">Powers, Ann</byline>
+      <abstract>
+        <p>Ann Powers Albums of the Week reviews of releases by Tom Tom Club and Sara Lee (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TOM TOM CLUB: ''The Good, the Bad and the Funky'' (Rykodisc). The female bass player is a fixture in countless punk and indie bands. But the stereotypical role owes its existence to real pioneers, especially Tina Weymouth of the Talking Heads and the Tom Tom Club.</p>
+        <p>A wicked funk groovemaker who, along with her husband, the drummer Chris Frantz, has created some of the most sampled bottom lines in hip-hop, Ms. Weymouth always projects the friendly cool of someone breaking barriers for fun. Pleasure is the point of the Tom Tom Club, and in its fifth album the group delivers plenty. Charles Pettigrew, Mystic Bowie and Toots Hibbert aid Ms. Weymouth in adding spice to the rhythmic curry of reggae, James Brown throwdowns and smooth soul.</p>
+      </block>
+      <block class="full_text">
+        <p>TOM TOM CLUB: ''The Good, the Bad and the Funky'' (Rykodisc). The female bass player is a fixture in countless punk and indie bands. But the stereotypical role owes its existence to real pioneers, especially Tina Weymouth of the Talking Heads and the Tom Tom Club.</p>
+        <p>A wicked funk groovemaker who, along with her husband, the drummer Chris Frantz, has created some of the most sampled bottom lines in hip-hop, Ms. Weymouth always projects the friendly cool of someone breaking barriers for fun. Pleasure is the point of the Tom Tom Club, and in its fifth album the group delivers plenty. Charles Pettigrew, Mystic Bowie and Toots Hibbert aid Ms. Weymouth in adding spice to the rhythmic curry of reggae, James Brown throwdowns and smooth soul.</p>
+        <p>SARA LEE: ''Make it Beautiful'' (Righteous Babe). Sara Lee, another pioneering bassist, also enlists many notable friends for her solo debut. Lyricists include Ms. Lee's sometime employers Ani Di Franco and Emily Saliers of the Indigo Girls. Yet ''Make it Beautiful'' has the solitary feel of a personal breakthrough. Ms. Lee's vocal reserve complements her delicate playing on songs that stimulate reflection as well as dancing. Like the joyful Tom Tom Club, Ms. Lee plants her ideas in the rich rhythm beds of disco and New Wave. Both albums look backward to go forward.</p>
+        <p>ANN POWERS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

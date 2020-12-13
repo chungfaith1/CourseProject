@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>FARM PURCHASES</title>
+    <meta content="MB225510" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201168"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BRIEFING: ENVIRONMENT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Agriculture</classifier>
+        <classifier class="indexing_service" type="descriptor">Land Use Policies</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <org class="indexing_service">Garden State Preservation Trust</org>
+        <person class="indexing_service">Demasters, Karen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Land Use Policies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Agriculture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000521T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E7D8153AF932A15756C0A9669C8B63" item-length="88" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>FARM PURCHASES</hl1>
+      </hedline>
+      <byline class="print_byline">By KAREN DEMASTERS</byline>
+      <byline class="normalized_byline">Demasters, Karen</byline>
+      <abstract>
+        <p>Garden State Preservation Trust, created to disburse $1 billion to preserve open spaces over next decade, has thus far approved $55 million in farmland purchases (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Garden State Preservation Trust, created to disburse $1 billion over the next decade to preserve a million acres of open space has approved $55 million in farmland purchases, the largest farmland purchase made so far. The money, approved last week, will preserve at least 12,000 acres of farmland around the state either through outright purchases or by buying the development rights to farms.</p>
+        <p>KAREN DeMASTERS</p>
+      </block>
+      <block class="full_text">
+        <p>The Garden State Preservation Trust, created to disburse $1 billion over the next decade to preserve a million acres of open space has approved $55 million in farmland purchases, the largest farmland purchase made so far. The money, approved last week, will preserve at least 12,000 acres of farmland around the state either through outright purchases or by buying the development rights to farms.</p>
+        <p>KAREN DeMASTERS</p>
+        <p>BRIEFING: ENVIRONMENT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

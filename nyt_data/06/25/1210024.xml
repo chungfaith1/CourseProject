@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Control Yourself</title>
+    <meta content="LTR002206" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1210024"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Bathrooms</classifier>
+        <classifier class="indexing_service" type="descriptor">Flight Attendants</classifier>
+        <org class="indexing_service">Continental Airlines Inc</org>
+        <person class="indexing_service">Carrillo, Rene</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flight Attendants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bathrooms and Toilets</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000625T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE6D91031F936A15755C0A9669C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Control Yourself</hl1>
+      </hedline>
+      <abstract>
+        <p>Rene Carrillo letter recalls when flight attendant on Continental flight from Savannah, Ga, announced that toilets were not working and that passengers should 'hold it until we get to Newark' (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Travel section receives hundreds of letters from readers about their experiences with airline travel. Although most write to complain, a small number actually offer words of praise. Here is a selection from the last year:</p>
+        <p>To the Editor: On my two-and-a-half-hour Continental flight from Savannah, Ga., to Newark, the flight attendant made the following announcement: ''The toilets are not operational. If you must use the toilets, hold it until we get to Newark.''</p>
+        <p>RENE CARRILLO  Princeton, N.J.</p>
+      </block>
+      <block class="full_text">
+        <p>The Travel section receives hundreds of letters from readers about their experiences with airline travel. Although most write to complain, a small number actually offer words of praise. Here is a selection from the last year:</p>
+        <p>To the Editor: On my two-and-a-half-hour Continental flight from Savannah, Ga., to Newark, the flight attendant made the following announcement: ''The toilets are not operational. If you must use the toilets, hold it until we get to Newark.''</p>
+        <p>RENE CARRILLO  Princeton, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

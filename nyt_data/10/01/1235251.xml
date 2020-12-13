@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>From a Web Site, A Way to Measure Risk</title>
+    <meta content="MB000029" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1235251"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="INVESTING: FUNDS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">RiskMetrics</org>
+        <person class="indexing_service">Hershey, Robert D Jr</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001001T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01EEDC143DF932A35753C1A9669C8B63" item-length="190" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>From a Web Site, A Way to Measure Risk</hl1>
+      </hedline>
+      <byline class="print_byline">By Robert D. Hershey Jr.</byline>
+      <byline class="normalized_byline">Hershey, Robert D Jr</byline>
+      <abstract>
+        <p>RiskMetrics, a J P Morgan spinoff, adds new dimension to its retail Web site that for first time lets investors evaluate actual or anticipated returns on investments in relation to risk (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>By conventional measures, the Red Oak Technology Select fund has been one of the best performers this year, ranked 12th by Lipper among all funds as of early September. But when one examines the risk that its managers took, Red Oak's position was a less-stellar 27th. By contrast, Fidelity Select Natural Gas ranked 10th by the usual yardstick but did better when adjusted for its risk, rising to 6th.</p>
+        <p>''Return is only half the equation,'' said Ethan Berman, chief executive of RiskMetrics, a J. P. Morgan spinoff that supplies risk-measurement expertise. ''It's not until return is weighed against risk that you achieve an accurate and true assessment of how your investments are performing.''</p>
+      </block>
+      <block class="full_text">
+        <p>By conventional measures, the Red Oak Technology Select fund has been one of the best performers this year, ranked 12th by Lipper among all funds as of early September. But when one examines the risk that its managers took, Red Oak's position was a less-stellar 27th. By contrast, Fidelity Select Natural Gas ranked 10th by the usual yardstick but did better when adjusted for its risk, rising to 6th.</p>
+        <p>''Return is only half the equation,'' said Ethan Berman, chief executive of RiskMetrics, a J. P. Morgan spinoff that supplies risk-measurement expertise. ''It's not until return is weighed against risk that you achieve an accurate and true assessment of how your investments are performing.''</p>
+        <p>Last week, RiskMetrics added a new dimension to its retail Web site (www.riskgrades.com), which was introduced earlier this year, so that for the first time investors can evaluate actual or anticipated returns in relation to risk.</p>
+        <p>RiskMetrics applies its methodology to stocks, bonds and funds, and, recently, options. It even considers currencies so that one can compare, say, an American technology stock with a Korean mutual fund composed of bonds.</p>
+        <p>Robert D. Hershey Jr.</p>
+        <p>INVESTING: FUNDS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

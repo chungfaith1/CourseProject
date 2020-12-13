@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kennedy's Mathis Picks Virginia</title>
+    <meta content="PL000805" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1198482"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PLUS: BASKETBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Basketball</classifier>
+        <classifier class="indexing_service" type="descriptor">Draft and Recruitment (Sports)</classifier>
+        <org class="indexing_service">University of Virginia</org>
+        <person class="indexing_service">Mathis, J C</person>
+        <person class="indexing_service">Lilly, Brandon</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Draft and Recruitment (Sports)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000510T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E6DA143BF933A25756C0A9669C8B63" item-length="140" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kennedy's Mathis Picks Virginia</hl1>
+      </hedline>
+      <byline class="print_byline">By BRANDON LILLY</byline>
+      <byline class="normalized_byline">Lilly, Brandon</byline>
+      <abstract>
+        <p>High school basketball player J C Mathis to play basketball at University of Virginia (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>J. C. Mathis, who helped lead John F. Kennedy High School to the Public Schools Athletic League championship this season, will play at the University of Virginia, the 6-foot-9-inch forward announced yesterday at a news conference.</p>
+        <p>Mathis cited Virginia's tough academic standards as well as a chance to play in the Atlantic Coast Conference as the reasons for his decision.</p>
+      </block>
+      <block class="full_text">
+        <p>J. C. Mathis, who helped lead John F. Kennedy High School to the Public Schools Athletic League championship this season, will play at the University of Virginia, the 6-foot-9-inch forward announced yesterday at a news conference.</p>
+        <p>Mathis cited Virginia's tough academic standards as well as a chance to play in the Atlantic Coast Conference as the reasons for his decision.</p>
+        <p>Mathis averaged 17.2 points and 10.5 rebounds a game last season in leading Kennedy to the city title. The Knights finished the season 28-3.</p>
+        <p>BRANDON LILLY</p>
+        <p>PLUS: BASKETBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mars and Venus, Online</title>
+    <meta content="12VOIC$02" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/12/technology/12VOIC.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1238093"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Women</classifier>
+        <classifier class="indexing_service" type="descriptor">Voice Recognition Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Speech</classifier>
+        <org class="indexing_service">Stanford University</org>
+        <org class="indexing_service">Tellme Networks</org>
+        <person class="indexing_service">Eisenberg, Anne</person>
+        <person class="indexing_service">Nass, Clifford (Prof)</person>
+        <person class="indexing_service">Henton, Caroline (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sound</classifier>
+        <classifier class="online_producer" type="general_descriptor">Speech</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001012T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E7DA163FF931A25753C1A9669C8B63" item-length="1757" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mars and Venus, Online</hl1>
+      </hedline>
+      <byline class="print_byline">By ANNE EISENBERG</byline>
+      <byline class="normalized_byline">Eisenberg, Anne</byline>
+      <abstract>
+        <p>Article reflects predictions and expectations of two experts in voice-synthesis, Stanford University Prof Clifford Nass and Dr Caroline Henton of Tellme Networks; gender of synthesized voices strongly conveys implications regarding information they deliver; drawings; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WITHIN a year or so, people will be shopping by talking to their Web pages, and the Web pages will be talking back.</p>
+        <p>More cars will come equipped with talking computers that not only give directions to the gas station and read e-mail, but also surf the Internet for the driver. The question is, Who will actually be doing the talking?</p>
+      </block>
+      <block class="full_text">
+        <p>WITHIN a year or so, people will be shopping by talking to their Web pages, and the Web pages will be talking back.</p>
+        <p>More cars will come equipped with talking computers that not only give directions to the gas station and read e-mail, but also surf the Internet for the driver. The question is, Who will actually be doing the talking?</p>
+        <p>Dr. Clifford Nass, a professor at Stanford University who has spent nine years studying how people react to voices coming from computers and who advises many companies that are adding voice technology to their Web-based products, has some predictions.</p>
+        <p>''For better or worse, the voices are going to reflect common social stereotypes,'' Dr. Nass said, adding that people react to a computer system's voices, whether synthesized or real, in much the same way they react to voices coming from people. ''They apply gender stereotypes even when they are interacting with something that clearly is neither male nor female.''</p>
+        <p>So, when you drive a next-generation BMW in Japan and ask it for street directions, it may well answer in a deep male voice. Why a deep male voice?</p>
+        <p>''Our studies show that directions from a female voice are perceived as less accurate than those from a male voice,'' Dr. Nass said, ''even when the voices are reading the exact same directions. Deepness helps, too. It implies size, height and authority. Deeper voices are more credible.''</p>
+        <p>One of the people planning the voices that future BMW's will use is Juergen Bruegl, the principal technology engineer for human-machine interfaces at BMW's technology office in Palo Alto, Calif. In Japan, he said, it would make sense for the voice to be male. ''If my customer is more in the executive area in Japan, not a young yuppie,'' Mr. Bruegl said, ''this person would not accept a female telling him something.''</p>
+        <p>Directions are just one kind of information that some people prefer to hear in a male voice from a computer. In another study done by Dr. Nass and his colleagues, students were tutored in technical subjects both by a computer with a male voice and by one with a female voice.</p>
+        <p>''The female-voiced computer was rated significantly less informative about the technical subjects than the male one,'' Dr. Nass said. Both computers read the same information.</p>
+        <p>Dr. Nass and Li Gong, a graduate student, reviewed that research and other voice-technology studies in the September issue of Communications of the Association for Computing Machinery.</p>
+        <p>Some researchers, like Dr. Caroline Henton, of Tellme Networks, say the results of such studies should not be the reinforcement of stereotypes. Dr. Henton, has spent 18 years studying the acoustics of female speech and creating synthetic voices.  ''Times are changing,'' she said. ''What about Ananova?''</p>
+        <p>Ananova is a virtual newscaster with a synthetic female voice that broadcasts news, sports and other subjects on a popular Web site. Her voice is created by a text-to-speech system similar to those that read e-mail on car systems.</p>
+        <p>Dr. Henton said that choosing voices to cater to male and female stereotypes was ill-advised. ''Such choices do not change the way society thinks about machines,'' she said, ''but just make people happier with their interaction with machines.</p>
+        <p>Essentially, such choices are examples of design that doesn't break out, that adjusts itself to the fact that human beings don't like change.''</p>
+        <p>She said that the underlying issue was that listeners' prejudices should be contested rather than accepted. ''This is really a question of listeners equating machines with human beings who are being understood to perform servile functions,'' she said. ''To support that without questioning is essentially to uphold the bastion of male social power.''</p>
+        <p>But Dr. Nass takes a different position. However regrettable it is to reinforce male and female stereotypes, he said, Web sites selling technical goods would be well advised to consider male voices for their sites.</p>
+        <p>Dr. Nass and his colleagues also discovered that when it came to praise, words spoken by a male voice were valued more highly than those spoken by a female voice, even when the praise was issued by a machine.</p>
+        <p>''It's a well-established finding that people take praise from males more seriously than praise from females,'' Dr. Nass said. ''But we wondered, 'Would they do the same thing with computers?' ''</p>
+        <p>They did just that in a study in which the frequencies of synthesized voices were altered to make some of the voices sound more female.</p>
+        <p>''People took the advice of the male voice more seriously,'' Dr. Nass said. ''Male voices were believed more and rated more likable, on the basis that 'females usually say nice things.' ''</p>
+        <p>Similar research has influenced the thinking at General Magic, a company in Sunnyvale, Calif., that provides voice applications for businesses and has sought advice from Dr. Nass and one of his colleagues, Dr. Byron Reeves.</p>
+        <p>Dr. Bill Byrne, a linguist, is working at General Magic on a voice called Virtual Advisor that some drivers of General Motors cars equipped with OnStar will soon be using.</p>
+        <p>OnStar is a service that connects the driver of the car to an adviser who can provide information or advice about problems encountered while on the road.</p>
+        <p>Virtual Advisor will use a recorded female-sounding voice to provide information by means of the cell phone that comes with the car.</p>
+        <p>''Think about what the application does,'' Dr. Byrne said. ''She'll be delivering e-mail, news, weather and eventually even horoscopes. She needs to be the kind of person who is efficient, friendly and a little chatty, but not too chatty.''</p>
+        <p>The friendly secretarial voice is not the only choice General Magic will offer. Dr. Byrne said that the company would soon roll out demonstrations of five new voice personalities.</p>
+        <p>One voice is very direct and gets right to the point. He said that it might be used for applications like stock transactions or related urgent information concerning numbers. ''This voice has to get the numbers right,'' Dr. Byrne said. ''A male voice is more credible in this context.''</p>
+        <p>Other issues besides the perceived sex of the speaker will also be considered for computer voices. Dr. Nass predicted that many of them would be adapted to the personalities of the people listening to them.</p>
+        <p>Dr. Nass and his fellow researchers have done several studies showing that a buyer is more willing to purchase a product if the voice selling the product seems to match the buyer's personality. For example, in one study, both extroverts and introverts were recruited and then asked to review books on an Amazon-like Web site.</p>
+        <p>The book reviews they heard were read by two types of synthesized speech: extroverted and introverted. Dr. Nass said extroverts spoke louder and faster, with a wider pitch range for highs and lows, than slower-speaking introverts.</p>
+        <p>''The extroverts trusted the reviews more and were more willing to buy the book if the review was read in an extroverted voice,'' he said.  The introverts preferred books read in a what was deemed to be an introverted style. The content of the book reviews was identical.</p>
+        <p>Many Web site developers are aware of the effect that perceptions of a voice's personality are likely to have on shoppers.</p>
+        <p>One person paying attention to the personalities of voices used on the Web is Dr. Mark Lucente, chief technology officer at Soliloquy Inc., in Silicon Alley in Manhattan. Dr. Lucente and his colleagues create e-commerce interfaces that allow shoppers to communicate with virtual sales experts by typing their questions.</p>
+        <p>Next year, though, the virtual experts will be able to converse with shoppers by using synthesized voices and speech-recognition technology.</p>
+        <p>''Within a year,'' Dr. Lucente said, ''people will be shopping by talking to their Web pages, and the computer will talk back. Speech won't be entirely natural, but people will be focused on accomplishing a task, so the voice will be adequate.''</p>
+        <p>Dr. Lucente said it made good sense to adapt a computer voice to the listener. ''We want to match our experts on the fly to shoppers,'' he said. There may be a dispassionate voice, like Mr. Spock's, for those who sound as though they want to get down to business, for example, and a more nurturing voice for those who seem to want to take their time.</p>
+        <p>''Tests have shown us that shoppers perceive experts as having a personality,'' Dr. Lucente said. ''So we want to give each expert a personality suited to its specific shopping function, whether it is humorous, say, or down-to-business.''</p>
+        <p>Whether the voices of future Web sites are male or female, extroverted or introverted, direct or indirect,  they will all sound very positive.</p>
+        <p>''Negative comments are processed more deeply,'' Dr. Nass said, ''and lead to greater arousal than positive comments.'' So computers will be far more polite when they deliver error messages by voice than they are now when they simply flash ''error'' on the screen.</p>
+        <p>''When there are glitches in communication,'' Dr. Nass said, ''the voice will have to change its tone to be nicer. Voices will say extremely polite utterances like: 'I didn't quite get that. Would you mind repeating it again?' ''</p>
+        <p>And these voices will never become impatient. Somewhat like the affable Regis Philbin, who gives contestants on the television show ''Who Wants to Be a Millionaire'' as much time as they want to answer questions, software agents of the future are expected to be extremely forbearing.</p>
+        <p>''Many people are afraid to ask a stupid question, for instance, when they are buying wine,'' Dr. Lucente said. ''Here it is not a matter of male or female voices, but of the voice being extremely patient and nonjudgmental, no matter how long the conversation lasts.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

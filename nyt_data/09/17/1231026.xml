@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Children's Books</title>
+    <meta content="RV110447" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="33" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1231026"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Markee, Patrick</person>
+        <person class="indexing_service">Ehlert, Lois</person>
+        <object.title class="indexing_service">Market Day: A Story Told With Folk Art (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Columns/Children's Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000917T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E7DA1339F934A2575AC0A9669C8B63" item-length="350" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Children's Books</hl1>
+      </hedline>
+      <byline class="print_byline">By Patrick Markee</byline>
+      <byline class="normalized_byline">Markee, Patrick</byline>
+      <abstract>
+        <p>Patrick Markee reviews book Market Day: A Story Told With Folk Art written and illustrated by Lois Ehlert (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MARKET DAY</p>
+        <p>A Story Told With Folk Art.</p>
+        <p>Written and illustrated by Lois Ehlert.</p>
+        <p>Harcourt, $16.</p>
+        <p>(Ages 3 to 7)</p>
+      </block>
+      <block class="full_text">
+        <p>MARKET DAY</p>
+        <p>A Story Told With Folk Art.</p>
+        <p>Written and illustrated by Lois Ehlert.</p>
+        <p>Harcourt, $16.</p>
+        <p>(Ages 3 to 7)</p>
+        <p>Here in North America, our suburbanized, commodified, impoverished culture has no equivalent to the chaotic splendor of Latin America's rural markets. More than merely a place for commerce and trade, the market is a place where social ties are forged and families from far-flung villages and farms can meet and mingle. Young readers can catch a glimpse of its wonders in Lois Ehlert's ''Market Day.''</p>
+        <p>From dawn to sundown, Ehlert takes us on a tour of a peasant family's day going to the local market in the town square. She illustrates her tale with photographic collages of genuine handicrafts and folk art, mostly from Latin American countries with vibrant Indian cultures (Guatemala, Peru, Mexico and Bolivia) and some from places farther afield, like Mali and China. Sharp-eyed readers will meet a dragonfly from China and a beaded blue ox from Africa who probably cares little about Paul Bunyan.</p>
+        <p>Ehlert's charming photo collages place a turnip in a brightly colored cart pulled by an opossum, and a giant carrot in the mouth of a Mexican jaguar. Two Indonesian mice ride an unwieldy motorcycle, apparently fashioned from newspaper and discarded springs. There are even hunting and ice-fishing decoys and a Popsicle-stick Ferris wheel from the United States, a reminder that folk art flourishes even in the land of franchises and shopping malls.</p>
+        <p>After her tale is complete, Ehlert provides two richly illustrated index pages that tell us where the individual artworks came from and what they were made of, so readers inspired by a design or a technique can find out more about the cultures that created them. Most important, young readers fed on a steady diet of television and advertising can peer through a window to societies that are vanishing all too quickly in some parts of the world, but whose values of community and fellowship are well worth recalling and preserving.</p>
+        <p>Patrick Markee</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

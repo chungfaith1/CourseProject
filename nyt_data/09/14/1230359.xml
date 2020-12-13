@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cell Phone Radiation Levels Now Published on the Web</title>
+    <meta content="14GEE4" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/14/technology/14GEE4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1230359"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Radiation</classifier>
+        <classifier class="indexing_service" type="descriptor">Cellular Telephones</classifier>
+        <org class="indexing_service">Motorola Inc</org>
+        <org class="indexing_service">Ericsson Ab</org>
+        <org class="indexing_service">Do-Mode (Co)</org>
+        <person class="indexing_service">Greenman, Catherine</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000914T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE3DB1538F937A2575AC0A9669C8B63" item-length="153" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cell Phone Radiation Levels Now Published on the Web</hl1>
+      </hedline>
+      <byline class="print_byline">By CATHERINE GREENMAN</byline>
+      <byline class="normalized_byline">Greenman, Catherine</byline>
+      <abstract>
+        <p>Do-Mode, a search engine company in Los Angeles, publishes a list of specific absorption radiation, or SAR, levels for many cell phone models; Ericsson's T28 World model tops list, and Motorola's Star TAC 7860 has the lowest level (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Do-Mode, a search engine company in Los Angeles, has published a list of specific absorption radiation, or SAR, levels for many cell phone models. In 1996, the Federal Communications Commission mandated a requirement limiting SAR levels on phones sold in the United States to less than 1.6 watts per kilogram of human tissue. According to the list (www.sardata.com/sardata.htm), which was compiled from information on the commission's Web site, the cell phone with the highest SAR level in digital mode is Ericsson's T28 World model (1.49 watts per kilogram); Motorola's StarTAC 7860 has the lowest level (0.24 watts per kilogram).</p>
+      </block>
+      <block class="full_text">
+        <p>Do-Mode, a search engine company in Los Angeles, has published a list of specific absorption radiation, or SAR, levels for many cell phone models. In 1996, the Federal Communications Commission mandated a requirement limiting SAR levels on phones sold in the United States to less than 1.6 watts per kilogram of human tissue. According to the list (www.sardata.com/sardata.htm), which was compiled from information on the commission's Web site, the cell phone with the highest SAR level in digital mode is Ericsson's T28 World model (1.49 watts per kilogram); Motorola's StarTAC 7860 has the lowest level (0.24 watts per kilogram).</p>
+        <p>Jo-Anne Basile of the Cellular Communications Technology Association pointed out that these numbers represent peak radiation levels, while SAR levels fluctuate, depending on the user's location and the phone's battery status. She also pointed out that the 1.6 number ''has a substantial margin of safety built into it.''</p>
+        <p>CATHERINE GREENMAN</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="NEW8" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1221082"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000808T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E6DA113CF93BA3575BC0A9669C8B63" item-length="230" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TRW INC., -- Cleveland, sold two electronic-sensor units, formerly part of TRW's auto-parts division, to Measurement Specialties Inc., Fairfield, N.J., for $17.7 million as it sheds businesses to reduce debt.</p>
+        <p>ATLANTIC COAST HOLDINGS INC., -- Dulles, Va., a regional airline, announced a firm agreement to buy three Canadair regional jets from Bombardier Inc. for about $66 million and a conditional offer for 27 more.</p>
+      </block>
+      <block class="full_text">
+        <p>TRW INC., -- Cleveland, sold two electronic-sensor units, formerly part of TRW's auto-parts division, to Measurement Specialties Inc., Fairfield, N.J., for $17.7 million as it sheds businesses to reduce debt.</p>
+        <p>ATLANTIC COAST HOLDINGS INC., -- Dulles, Va., a regional airline, announced a firm agreement to buy three Canadair regional jets from Bombardier Inc. for about $66 million and a conditional offer for 27 more.</p>
+        <p>UNITED TECHNOLOGIES CORP., -- Hartford, said its Pratt &amp; Whitney unit had won a contract valued at $410 million to maintain the jet engines on a dozen United Parcel Service Inc. freighter aircraft over 10 years.</p>
+        <p>B. F. GOODRICH CO., -- Charlotte, has won contracts to supply as much as $600 million in aircraft parts to Lockheed Martin Corp. for an updated version of Lockheed's Galaxy transport plane for the U.S. Air Force.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

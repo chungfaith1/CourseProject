@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Reading Between the Lines</title>
+    <meta content="13FASH" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1222168"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="LITERARY PULSE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Apparel</classifier>
+        <person class="indexing_service">Eisner, Lisa</person>
+        <person class="indexing_service">Alonso, Roman</person>
+        <person class="indexing_service">Decaro, Frank</person>
+        <object.title class="indexing_service">Height of Fashion (Book)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000813T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DEEDB173FF930A2575BC0A9669C8B63" item-length="287" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Reading Between the Lines</hl1>
+      </hedline>
+      <byline class="print_byline">By FRANK DeCARO</byline>
+      <byline class="normalized_byline">Decaro, Frank</byline>
+      <abstract>
+        <p>Height of Fashion, book of photos of famous and not so famous style-mongers edited by Lisa Eisner and Roman Alonso noted; photo (Literary Pulse column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As Asian fever, cowboy cool, 60's modernism and vintage kitsch are all touching down on the fashion tarmac, a new fleet of books is taking off, on the quirkiest notions of chic. Style monitors have ventured to far-flung corners and brought back Ferlin Husky's dog-sled-embroidered jacket add Suzie Wong's signature cheongsam deress. The coffee table is groaning.</p>
+        <p>Other People's Kodak Moments</p>
+        <p>They're all here: Sandra Bernhard, dressed for her brother's bar mitzvah in 1963. A hirsute Dennis Hopper, in bed with John Ford and John Huston in 1971. Bebe Buell, clad in white vinyl boots, in 1986. Tom Ford in 1997, with a naked man under each arm. These are among the strangely alluring images in ''Height of Fashion'' (Greybull Press, $49.95), a book of photographs of famous (and not so famous) style-mongers taken at moments when they felt they looked better than they ever would again. Edited by Lisa Eisner and Roman Alonso, the book blends snapshots and the glamorous results of professional sittings (some by celebrated photographers; others straight from the Sears Portrait Studio) with remembrances of prom tuxedos and Pucci bathing suits.</p>
+      </block>
+      <block class="full_text">
+        <p>As Asian fever, cowboy cool, 60's modernism and vintage kitsch are all touching down on the fashion tarmac, a new fleet of books is taking off, on the quirkiest notions of chic. Style monitors have ventured to far-flung corners and brought back Ferlin Husky's dog-sled-embroidered jacket add Suzie Wong's signature cheongsam deress. The coffee table is groaning.</p>
+        <p>Other People's Kodak Moments</p>
+        <p>They're all here: Sandra Bernhard, dressed for her brother's bar mitzvah in 1963. A hirsute Dennis Hopper, in bed with John Ford and John Huston in 1971. Bebe Buell, clad in white vinyl boots, in 1986. Tom Ford in 1997, with a naked man under each arm. These are among the strangely alluring images in ''Height of Fashion'' (Greybull Press, $49.95), a book of photographs of famous (and not so famous) style-mongers taken at moments when they felt they looked better than they ever would again. Edited by Lisa Eisner and Roman Alonso, the book blends snapshots and the glamorous results of professional sittings (some by celebrated photographers; others straight from the Sears Portrait Studio) with remembrances of prom tuxedos and Pucci bathing suits.</p>
+        <p>The mix is both disturbing and delicious, a guilty pleasure -- like the photo of the 1970's country music hunk Mac Davis, who is pictured in all his sideburned glory.</p>
+        <p>LITERARY PULSE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

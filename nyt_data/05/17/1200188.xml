@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="17CORXN" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Corrections; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200188"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">Roman Catholic Church</org>
+        <person class="indexing_service">Egan, Edward M (Bishop)</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000517T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401EFD91F3BF934A25756C0A9669C8B63" item-length="85" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of May 13 editorial: Bishop Edward M Egan was bishop of Bridgeport, not archbishop</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An editorial in Saturday's Times misidentified Bishop Edward M. Egan as having been archbishop of the archdiocese of Bridgeport. He was bishop of the diocese of Bridgeport.</p>
+      </block>
+      <block class="full_text">
+        <p>An editorial in Saturday's Times misidentified Bishop Edward M. Egan as having been archbishop of the archdiocese of Bridgeport. He was bishop of the diocese of Bridgeport.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

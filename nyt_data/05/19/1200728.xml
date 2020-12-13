@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>National News Briefs; Energy Dept. Tightens Policy on Its Contractors</title>
+    <meta content="NB032813" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200728"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Atomic Weapons</classifier>
+        <org class="indexing_service">Energy Department</org>
+        <person class="indexing_service">Richardson, Bill (Sec)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Weapons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000519T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E2DF123AF93AA25756C0A9669C8B63" item-length="153" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>National News Briefs; Energy Dept. Tightens Policy on Its Contractors</hl1>
+      </hedline>
+      <dateline>WASHINGTON, May 18</dateline>
+      <abstract>
+        <p>Energy Sec Bill Richardson says Dept of Energy is frustrated by performance of contractors it hires to run its nuclear weapons plants; it demands right to fire contractors' top managers and control managers' bonuses in future contracts (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Frustrated by the performance of the contractors that it hires to run its nuclear weapons plants, the Department of Energy will demand the right to fire the contractors' top managers and control the managers' bonuses in future contracts, Secretary Bill Richardson said today.</p>
+        <p>In addition, under the new policy, decisions on what goals to set for contractors and whether the contracting companies have met those goals and should earn bonuses, will be reviewed directly by the energy secretary. Previously, such decisions were usually made by senior civil servants, not the secretary.</p>
+      </block>
+      <block class="full_text">
+        <p>Frustrated by the performance of the contractors that it hires to run its nuclear weapons plants, the Department of Energy will demand the right to fire the contractors' top managers and control the managers' bonuses in future contracts, Secretary Bill Richardson said today.</p>
+        <p>In addition, under the new policy, decisions on what goals to set for contractors and whether the contracting companies have met those goals and should earn bonuses, will be reviewed directly by the energy secretary. Previously, such decisions were usually made by senior civil servants, not the secretary.</p>
+        <p>''I'm trying to end the cozy relationship between the department and its contractors,'' Mr. Richardson said in an interview, adding, ''The department has not exercised proper oversight.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

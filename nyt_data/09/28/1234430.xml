@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="28INSI$16" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234430"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000928T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04EEDB1E3AF93BA1575AC0A9669C8B63" item-length="158" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>West Nile Death Reported  A New Jersey man has died of the West Nile virus, becoming the first known fatality in the United States this year.</p>
+        <p>PAGE B5</p>
+        <p>Deal to Ease Cuba Sanctions  House and Senate leaders approved a deal, sought by farm groups, to allow the sale of American food products to Cuba.</p>
+        <p>PAGE A25</p>
+      </block>
+      <block class="full_text">
+        <p>West Nile Death Reported  A New Jersey man has died of the West Nile virus, becoming the first known fatality in the United States this year.</p>
+        <p>PAGE B5</p>
+        <p>Deal to Ease Cuba Sanctions  House and Senate leaders approved a deal, sought by farm groups, to allow the sale of American food products to Cuba.</p>
+        <p>PAGE A25</p>
+        <p>Mets Earn Wild-Card Berth  The Mets beat the Braves, 6-2, and advanced to the postseason for the second year in a row.</p>
+        <p>SPORTSTHURSDAY, PAGE D1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

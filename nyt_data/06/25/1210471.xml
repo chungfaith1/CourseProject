@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Shining Example</title>
+    <meta content="LTR232805" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1210471"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <org class="indexing_service">New York Yankees</org>
+        <person class="indexing_service">Karalekas, Chris N</person>
+        <person class="indexing_service">Vecsey, George</person>
+        <person class="indexing_service">Sosa, Sammy</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000625T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE3DB1130F936A15755C0A9669C8B63" item-length="199" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Shining Example</hl1>
+      </hedline>
+      <abstract>
+        <p>Chris N Karalekas letter praises George Vecsey's June 14 column questioning New York Yankees' need to sign Sammy Sosa</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>George Vecsey's column, ''Yanks Don't Need Sosa's Price Tag'' (June 14), was so refreshing to read, given the death-watch mentality that envelops the fans and the press. I applaud Vecsey's journalistic courage by simply acknowledging that because of ''the baseball wisdom of George Steinbrenner,'' logic will prevail. Clearly and unequivocally, precedent has been set over the last five years, and that standard of excellence, or that pursuit of it, enables the Yankees under the ownership of Steinbrenner to ''figure it out.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>George Vecsey's column, ''Yanks Don't Need Sosa's Price Tag'' (June 14), was so refreshing to read, given the death-watch mentality that envelops the fans and the press. I applaud Vecsey's journalistic courage by simply acknowledging that because of ''the baseball wisdom of George Steinbrenner,'' logic will prevail. Clearly and unequivocally, precedent has been set over the last five years, and that standard of excellence, or that pursuit of it, enables the Yankees under the ownership of Steinbrenner to ''figure it out.''</p>
+        <p>Baseball is a marathon. Steinbrenner has learned enough from the Gene Michaelses and the Gabe Pauls to know that by adding a pitcher and a veteran hitter and by maintaining his core without mortgaging the very prospects they have learned to nurture, he will again position the franchise with logic. As Branch Rickey once said: the best trades are the ones we don't make.</p>
+        <p>CHRIS N. KARALEKAS  South Huntington, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

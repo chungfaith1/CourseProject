@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Home Care</title>
+    <meta content="LTR085935" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1233044"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Aged</classifier>
+        <person class="indexing_service">Byrne, Mary</person>
+        <person class="indexing_service">Harris, Naomi</person>
+        <person class="indexing_service">Saint Lewis, Catherine</person>
+        <person class="indexing_service">Denny, Chyd</person>
+        <person class="indexing_service">Klein, Sam</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Aged</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000924T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE3D6163BF937A1575AC0A9669C8B63" item-length="61" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Home Care</hl1>
+      </hedline>
+      <abstract>
+        <p>Mary Byrne letter lauds Naomi Harris and Catherine Saint Lewis's August 27 photo essay on friendship between nursing assistant Chyd Denny and 95-year-old Sam Klein (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Thank you for the beautiful photo essay by Naomi Harris and Catherine Saint Louis (Lives, Aug. 27). The love and kindness -- even the sense of play -- between Chyd Denny and Sam Klein touched me deeply.</p>
+        <p>Mary Byrne  Caldwell, N.J.</p>
+      </block>
+      <block class="full_text">
+        <p>Thank you for the beautiful photo essay by Naomi Harris and Catherine Saint Louis (Lives, Aug. 27). The love and kindness -- even the sense of play -- between Chyd Denny and Sam Klein touched me deeply.</p>
+        <p>Mary Byrne  Caldwell, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

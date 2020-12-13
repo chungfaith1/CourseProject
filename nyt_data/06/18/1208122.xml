@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Dass Effect</title>
+    <meta content="LTR105554" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208122"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stroke</classifier>
+        <person class="indexing_service">Dass, Ram</person>
+        <person class="indexing_service">Levine, Howard</person>
+        <person class="indexing_service">Davidson, Sara</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stroke</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E2DA153EF93BA25755C0A9669C8B63" item-length="112" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Dass Effect</hl1>
+      </hedline>
+      <abstract>
+        <p>Howard Levine letter on Sara Davidson's article on Ram Dass's stroke and other articles holds May 21 magazine distilled best and worst of life into about 100 pages</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I was half-full of bourbon and pork chops as I read Sara Davidson's kind article (May 21) on Ram Dass's stroke, followed by Ian Fisher's sobering text and Ettore Malanca's photographs of the Burundian camps. As an avid bird-watcher and gardener, I enjoyed Jonathan Rosen's reflections. Robert Mackey's Lives column on sexual decoys restored my commitment to weekends in the mountains forgetting.</p>
+        <p>I felt compelled to thank you for poignantly distilling the best and worst of life into about 100 pages.</p>
+        <p>Howard Levine</p>
+        <p>Greenvale, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>I was half-full of bourbon and pork chops as I read Sara Davidson's kind article (May 21) on Ram Dass's stroke, followed by Ian Fisher's sobering text and Ettore Malanca's photographs of the Burundian camps. As an avid bird-watcher and gardener, I enjoyed Jonathan Rosen's reflections. Robert Mackey's Lives column on sexual decoys restored my commitment to weekends in the mountains forgetting.</p>
+        <p>I felt compelled to thank you for poignantly distilling the best and worst of life into about 100 pages.</p>
+        <p>Howard Levine</p>
+        <p>Greenvale, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

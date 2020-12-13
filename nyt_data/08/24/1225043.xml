@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>West Nile Spraying Schedule</title>
+    <meta content="24SPRA$01" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225043"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="UPDATE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000824T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CEEDA1431F937A1575BC0A9669C8B63" item-length="317" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>West Nile Spraying Schedule</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BROOKLYN  10 p.m. today to 5 a.m. tomorrow  Fort Hamilton, Bay Ridge, Dyker Heights, Bath Beach, Bensonhurst, New Utrecht, Mapleton, Washington Cemetery</p>
+        <p>MANHATTAN  10 p.m. today to 5 a.m. tomorrow  Washington Heights, Inwood, Fort George, Sherman Creek, Inwood Hill Park, Fort Tryon Park</p>
+      </block>
+      <block class="full_text">
+        <p>BROOKLYN  10 p.m. today to 5 a.m. tomorrow  Fort Hamilton, Bay Ridge, Dyker Heights, Bath Beach, Bensonhurst, New Utrecht, Mapleton, Washington Cemetery</p>
+        <p>MANHATTAN  10 p.m. today to 5 a.m. tomorrow  Washington Heights, Inwood, Fort George, Sherman Creek, Inwood Hill Park, Fort Tryon Park</p>
+        <p>THE BRONX  10 p.m. today to 5 a.m. tomorrow  Marble Hill, Spuyten Duyvil, South Riverdale, Van Cortland Village, Kingsbridge, parts of Kingsbridge Heights, Schuylerville, Eastchester Bay, Country Club, Spencer Estates, Middletown, Unionport, parts of Pelham Bay, parts of Castle Hill, Ferry Point Park, St. Raymond's Cemetery, Pelham Bay Park, Orchard Beach, Rodman's Neck</p>
+        <p>WESTCHESTER COUNTY  11:30 p.m today to 4:30 a.m. tomorrow  Sleepy Hollow, Tarrytown, Mount Pleasant, Pleasantville</p>
+        <p>BERGEN COUNTY, N.J.  3 to 6 a.m. tomorrow  East Rutherford, Montvale, Allendale, Saddle River, Upper Saddle River, Mahwah, Franklin Lakes, Wyckoff, Wallington, Closter, Rivervale, Norwood</p>
+        <p>OTHER NEW JERSEY COUNTIES  Limited spraying as needed at undisclosed sites in Middlesex, Union and Hudson Counties.</p>
+        <p>Note: Spraying schedules are subject to change in the event of rain.  (Source: Health departments)</p>
+        <p>UPDATE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="06CMPBRFS" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1205239"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E0DF143FF935A35755C0A9669C8B63" item-length="268" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PENN OCTANE CORP., Palm Desert, Calif., which supplies cooking gas to northeastern Mexico, said it had hired the investment bank CIBC World Markets Corp. to help review options, including a sale or merger.</p>
+      </block>
+      <block class="full_text">
+        <p>PENN OCTANE CORP., Palm Desert, Calif., which supplies cooking gas to northeastern Mexico, said it had hired the investment bank CIBC World Markets Corp. to help review options, including a sale or merger.</p>
+        <p>LEAR CORP., Southfield, Mich., , the world's No. 1 maker of automotive interiors, sold its exterior-mirror business, which has annual sales of more than $50 million, to the company's joint venture with the closely held Bing Group for an undisclosed price.</p>
+        <p>ADELPHIA COMMUNICATIONS CORP., Coudersport, Pa., the sixth-largest United States cable company, plans to buy television set-top boxes, modems and other equipment valued at $535 million from Motorola Inc., Schaumburg, Ill., through next December.</p>
+        <p>INSWEB CORP., an online insurance marketplace, said it planned to reduce its work force by about 40 percent, or 120 employees, in the next two quarters and discontinue operations of its Benelytics Inc. unit.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

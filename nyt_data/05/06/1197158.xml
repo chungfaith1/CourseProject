@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Attack of the Killer Viruses</title>
+    <meta content="06FREE$08" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1197158"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <person class="indexing_service">Freedman, David H</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000506T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E5DD1438F935A35756C0A9669C8B63" item-length="494" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Attack of the Killer Viruses</hl1>
+      </hedline>
+      <byline class="print_byline">By David H. Freedman</byline>
+      <byline class="normalized_byline">Freedman, David H</byline>
+      <abstract>
+        <p>David H Freedman Op-Ed column on damage from I Love You computer virus (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In the press, around water coolers and at dinner tables, people have been discussing the ''I Love You'' virus, which raced through the Internet this week, leaving a trail of binary destruction. The often breathless accounts have suggested that someone far away lobbed the Big One on us, the helpless citizens of the brave new online world.</p>
+        <p>The Federal Bureau of Investigation is on the case, and yesterday announced that it had a suspect in the Philippines. But, according to experts, we can expect more viruses. Our computers are inherently unsafe, hackers are everywhere, security pros are in short supply. Even when one culprit is nabbed, the experts say, there are thousands of clever hackers who live to create havoc.</p>
+      </block>
+      <block class="full_text">
+        <p>In the press, around water coolers and at dinner tables, people have been discussing the ''I Love You'' virus, which raced through the Internet this week, leaving a trail of binary destruction. The often breathless accounts have suggested that someone far away lobbed the Big One on us, the helpless citizens of the brave new online world.</p>
+        <p>The Federal Bureau of Investigation is on the case, and yesterday announced that it had a suspect in the Philippines. But, according to experts, we can expect more viruses. Our computers are inherently unsafe, hackers are everywhere, security pros are in short supply. Even when one culprit is nabbed, the experts say, there are thousands of clever hackers who live to create havoc.</p>
+        <p>All this hand-wringing is a waste of time. Sure, we should catch the culprits and assess the damage, but there's no reason to believe that the virus will have caused more than the middling sort of inconvenience delivered by Melissa and other viral predecessors.</p>
+        <p>Truth be told, we are not helpless in the face of viruses. In fact, the security precautions have been known for years: Install antivirus software; never click on anything unfamiliar on the Web or in e-mail that links to a file name ending in ''.exe''; and back up your important files regularly.</p>
+        <p>Another good rule is to be careful with Microsoft Web or e-mail software because, as the Justice Department noticed, the company has a habit of giving its programs (and thus any attached viruses) access to the guts of its Windows operating system -- the equivalent of leaving the key to the front door under the mat.</p>
+        <p>Even those users attached to large computer networks have it within their power to greatly reduce their vulnerability to outside attacks. Almost all such networks are already armed with software capable of blocking potentially infected Web sites and e-mail. The information systems managers must activate these filters, which are usually disabled, because, for some funny reason, people don't want their employers monitoring their electronic interaction.</p>
+        <p>As the I Love You virus wanes, most of us will continue to ignore the self-defense measures that are available. It's not completely irrational. At some level, we've noticed that the chance of getting hit by a devastating virus isn't large, and we've weighed this possibility against the inconvenience of establishing good security.</p>
+        <p>But when our computers are finally hit, we shouldn't feel free to slip into the role of stunned victims. Perhaps by the time the 20th or 50th major virus is loosed, we'll all have taken the proper precautions. Or we'll have accepted computer attacks as part of the unpleasant background noise of contemporary life, along with brownouts, gridlock and smog.</p>
+        <p>David H. Freedman, a senior editor of Forbes ASAP, is the author, most recently, of ''Corps Business.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">David H. Freedman, a senior editor of Forbes ASAP, is the author, most recently, of ''Corps Business.''</tagline>
+    </body.end>
+  </body>
+</nitf>

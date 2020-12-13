@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tech 2010: #17 Top Secet; The Code That Can't be Broken</title>
+    <meta content="611CODET" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="76" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Science; Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1206280"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Codes (Ciphers)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Security and Warning Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">New Models, Design and Products</classifier>
+        <classifier class="indexing_service" type="descriptor">Science and Technology</classifier>
+        <person class="indexing_service">Glanz, James</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Codes (Ciphers)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E1D7163FF932A25755C0A9669C8B63" item-length="950" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tech 2010: #17 Top Secet; The Code That Can't be Broken</hl1>
+      </hedline>
+      <byline class="print_byline">By James Glanz</byline>
+      <byline class="normalized_byline">Glanz, James</byline>
+      <abstract>
+        <p>Quantum cryptography, creating codes that cannot be broken, explained (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The technology that will cashier the linguists, mathematicians and hackers who have traditionally devoted themselves to breaking codes comes with a cool name: quantum cryptography. Ordinary cryptographic systems rely on scrambling messages so thoroughly that only a recipient with a code key can unscramble them. Quantum cryptography uses random codes lacking in any pattern that might offer clues to a code breaker. More important, it allows the parties transmitting the code to send it without the fear that it might be intercepted without their knowledge. The result? Unprecedented secrecy and security -- two commodities that are increasingly rare in a world dominated by the free flow of information. For futurists, the development of quantum cryptography is a kind of cosmic victory for personal privacy.</p>
+        <p>Quantum cryptography is more powerful than any computer or eavesdropping equipment that could ever be built. Its impregnability stems from one of the quantum world's weirder but better-known features: that merely observing a quantum system changes it irreversibly. In the realm of quantum mechanics, measuring any system -- coded pulses of light, for example, in a fiber-optic cable that is infiltrated by a spy -- leaves an unalterable trace that immediately betrays the presence of an eavesdropper.</p>
+      </block>
+      <block class="full_text">
+        <p>The technology that will cashier the linguists, mathematicians and hackers who have traditionally devoted themselves to breaking codes comes with a cool name: quantum cryptography. Ordinary cryptographic systems rely on scrambling messages so thoroughly that only a recipient with a code key can unscramble them. Quantum cryptography uses random codes lacking in any pattern that might offer clues to a code breaker. More important, it allows the parties transmitting the code to send it without the fear that it might be intercepted without their knowledge. The result? Unprecedented secrecy and security -- two commodities that are increasingly rare in a world dominated by the free flow of information. For futurists, the development of quantum cryptography is a kind of cosmic victory for personal privacy.</p>
+        <p>Quantum cryptography is more powerful than any computer or eavesdropping equipment that could ever be built. Its impregnability stems from one of the quantum world's weirder but better-known features: that merely observing a quantum system changes it irreversibly. In the realm of quantum mechanics, measuring any system -- coded pulses of light, for example, in a fiber-optic cable that is infiltrated by a spy -- leaves an unalterable trace that immediately betrays the presence of an eavesdropper.</p>
+        <p>In ordinary communications, the pulses are relatively bright, containing zillions of photons. A spy can siphon some of the light from the pulses without being noticed. Quantum cryptographers send pulses so faint that they go through the line one by one. Each pulse that a spy observes is altered in a way that is obvious to the intended recipient.</p>
+        <p>The beauty of the system is that two branches of a bank, say, do not actually have to send the record of a transaction itself. The two branches simply work up a long string of random numbers known only to them, using the faint laser pulses. Those numbers act as a code to encrypt the digital version of a transaction. The encrypted version can be sent over just about any sort of communication line.</p>
+        <p>Cryptographers knew by the 1920's that a completely random code, used just once, is unbreakable. The code is not the meaningful information itself -- just a shared string of nonsense numbers. Once added to a true message, another stream of nonsense results. Only if the code is subtracted does the information emerge for the recipient.</p>
+        <p>One way to effect the quantum system is using special crystals that in essence ''clone'' a single photon into two photons with identical properties. This cloned state lets the code's sender and recipient -- traditionally called Alice and Bob -- generate the code.</p>
+        <p>How does this work? One of the most popular methods has to do with the polarization of photons. When you turn a pair of Polaroid sunglasses in the sun, the glare you see reflected on the sidewalk is the result of photons being polarized in different directions -- vertically or horizontally, for example. The quantum twist on this idea is that the photons' actual polarization cannot be known until they are actually measured as a quantity. The polarization of a series of photons passing through the crystal is random -- sometimes horizontal, sometimes vertical. It is this randomness that enables codemakers to create the perfect code.</p>
+        <p>So, to make the code, Alice fires a photon into the crystals and collects one of the two that come out. She sends the other photon to Bob. Both parties then place a detector behind the equivalent of Polaroid sunglasses; each orients his or her glasses horizontally, then vertically, in a random sequence. Only if both Alice and Bob guess right for a particular photon do they get a detection.</p>
+        <p>After performing this operation on zillions of photons, Alice and Bob discuss at what point they made detections. Simultaneous detections tell them that they've used the same polarizer settings, because the photons are identical. In comparing their results, Alice and Bob do not reveal what the settings actually were in the cases when their results matched. They simply agree that they will convert each vertical detection into a binary 0 and each horizontal into a binary 1.</p>
+        <p>Only Alice and Bob know what the actual series is. If an eavesdropper -- usually called Eve -- has succeeded in intercepting some of the photons, Alice and Bob can discover her interference by comparing just a few of their measurements. If their vertical and horizontal detections do not all match, they know that the quantum system has been breached and that they should discard the code.</p>
+        <p>Some professional cryptographers look askance at quantum cryptography, pointing out that leaks will still occur, as they have throughout history, when people use codes incorrectly or spill information after they have been deciphered. Moreover, the method's practitioners -- notably Dr. Richard Hughes at Los Alamos National Laboratory and Dr. Nicolas Gisin at the University of Geneva -- have been able to transmit codes, using the faint pulses of laser light, across a distance of only 30 miles.</p>
+        <p>Still, chances are good that quantum cryptography will be in use in a decade or so. Like most new technologies, it will probably be used first by those with the power and the resources to deploy it: international banks and nuclear command centers. Of course, as the technology becomes more practical, it should seep down to individuals. Then, the details of life that have been laid bare in recent years to snooping -- e-mail, credit card numbers, financial records, purchases -- will be returned to their rightful place, to the realm of absolute privacy.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

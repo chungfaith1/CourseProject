@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Digital Legerdemain: Irish Mists Into Music</title>
+    <meta content="19RAIN" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/19/technology/19RAIN.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1239906"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <location class="indexing_service">Ireland</location>
+        <person class="indexing_service">Mcnamara, Melissa P</person>
+        <person class="indexing_service">Taylor, Sean</person>
+        <person class="indexing_service">Fernstrom, Mikael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Ireland</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Ireland</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001019T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E4D6143EF93AA25753C1A9669C8B63" item-length="762" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Digital Legerdemain: Irish Mists Into Music</hl1>
+      </hedline>
+      <byline class="print_byline">By MELISSA P. MCNAMARA</byline>
+      <byline class="normalized_byline">Mcnamara, Melissa P</byline>
+      <abstract>
+        <p>Irish artist Sean Taylor and computer scientist Mikael Fernstrom create multimedia project which transforms data concerning Ireland's abundant rainfall into musical score; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AN artist and a computer scientist in Ireland have come up with a new use for rain: making music.</p>
+        <p>Sean Taylor, an artist at the Limerick School of Art and Design, and Mikael Fernstrom, a professor of interactive media and music technology at the University of Limerick, have created a multimedia project that transforms data about Ireland's abundant rainfall into a musical score. Called Bliain le Baisteach (''Year of Rain'' in Irish Gaelic), the project culminated in a performance by the Irish Chamber Orchestra that was broadcast over the Internet on Sept. 20.</p>
+      </block>
+      <block class="full_text">
+        <p>AN artist and a computer scientist in Ireland have come up with a new use for rain: making music.</p>
+        <p>Sean Taylor, an artist at the Limerick School of Art and Design, and Mikael Fernstrom, a professor of interactive media and music technology at the University of Limerick, have created a multimedia project that transforms data about Ireland's abundant rainfall into a musical score. Called Bliain le Baisteach (''Year of Rain'' in Irish Gaelic), the project culminated in a performance by the Irish Chamber Orchestra that was broadcast over the Internet on Sept. 20.</p>
+        <p>Mr. Taylor conceived the project and approached Mr. Fernstrom, who had earlier investigated what he called sonic browsing, or programs that allow people to use audio in computer searches for music and sounds. Fascinated by the daily weather charts in The Irish Times, Mr. Taylor suggested that the project's team convert a year's worth of rainfall data into a musical composition.</p>
+        <p>''When I began to look at the rain charts, I was just blown away,'' Mr. Taylor said. ''Hardly a day goes by without rain, but what would this country be without it?''</p>
+        <p>Met Eireann, the Irish meteorological agency, provided Mr. Taylor and Mr. Fernstrom with rainfall data for 1999, as well as 1,460 satellite images of rainfall patterns for a visual-art project to accompany the music. They also discussed the project with John Kelly, chief executive of the Irish Chamber Orchestra. ''We were quite excited,'' Mr. Kelly said. ''We've never been approached with anything like this before.''</p>
+        <p>Mr. Fernstrom created a neural network, software that roughly mimics the way the brain works. The software allows the computer, in effect, to learn by example from large amounts of data (the way a child learns to recognize an object from seeing many similar objects).</p>
+        <p>In this case, the neural network was ''trained'' by a database of 1,000 traditional Irish jigs, reels and polkas, which include ''The Old Mole,'' ''The Kerry Polka'' and ''The Irish Ho-Hoane.'' After the rainfall data was introduced, the network produced an abstract musical score.</p>
+        <p>An MP3 version of the piece, as performed by the Irish Chamber Orchestra, can be found at the project's Web site (www.softday.ie/info.htm).</p>
+        <p>The computer software performed the function of a composer by trying to find patterns within and between existing tunes, Mr. Kelly explained. But the piece definitely lacked a human touch.</p>
+        <p>''When we first recorded it last May,'' Mr. Kelly said, ''the musicians' reaction was that this was difficult. The music was relentless, like the rain.''</p>
+        <p>The longitude and latitude of each rainfall-recording station allowed Mr. Fernstrom to partition the data so the different instrumental parts of the score would be mapped to geographic areas of Ireland. The first violin, for example, was based on the rainfall in the north, while the second violin is based on the province of Connaught. The viola is based on Munster's rainfall, and the cello on Leinster. To get data to stimulate the score generation for the double bass, Mr. Fernstrom then picked up the average temperatures for Ireland day by day for the same year.</p>
+        <p>''At the orchestra's premiere,'' Mr. Kelly said, ''one of the computer specialists turned around and said, 'The neural network has a way to go to compete with Irish composers.' I agree.''</p>
+        <p>The Irish Chamber Orchestra recorded the work under the direction of Fionnuala Hunt. The finished composition was showcased at the Irish Pavilion as part of Expo 2000 in Hanover, Germany, in June. Beamed live over the Internet, the Irish Chamber Orchestra performed Bliain le Baisteach at the University Concert Hall in Limerick.</p>
+        <p>Mr. Taylor, the artist, edited the satellite images of the rainfall patterns into an animated video artwork that accompanies the  music on CD-ROM.</p>
+        <p>''We had a huge projection of the video,'' Mr. Taylor said. ''The visual images gave us a different notion of looking at Ireland's rain front.''</p>
+        <p>The Irish Chamber Orchestra has no plans to play the work elsewhere. And that is a conscious decision on the part of the project's creators.</p>
+        <p>Mr. Taylor said, ''There is something quite satisfying knowing that only a small percentage of people saw the work in a live context, so now these people have become unwitting custodians of this work.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

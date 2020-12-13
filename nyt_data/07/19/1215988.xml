@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OFF THE MENU</title>
+    <meta content="19OFF.$04" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215988"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <org class="indexing_service">Wallse (NYC Restaurant)</org>
+        <org class="indexing_service">Brasserie 8 1/2 (NYC Restaurant)</org>
+        <org class="indexing_service">Bicyclette, La (NYC Restautrant)</org>
+        <org class="indexing_service">Delphini (NYC Restaurant)</org>
+        <org class="indexing_service">Bar Demi (NYC Restaurant)</org>
+        <org class="indexing_service">Bar Demi (NYC Restaurant)</org>
+        <person class="indexing_service">Leger, Fernand</person>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000719T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E3DB103BF93AA25754C0A9669C8B63" item-length="270" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OFF THE MENU</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>Wallse, restaurtant at 344 West 11th Street in Manhattan, offers Austrian-style menu; wall-size mural by Fernand Leger forms backdrop of new Brasserie 8 1/2 restaurant in midtown Manhattan; photo; La Bicyclette opens in Columbus Circle, replacing Delphini; Bar Demi, operated by Verbena on Irving Place, opens on East 17th Street (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Memories of Vienna</p>
+        <p>Wallse, 344 West 11th Street, is named for Wallsee (pronounced VAHL-zay), a town in Austria where the chef and owner, Kurt Gutenbrunner, was born. The menu is Austrian style, with spatzle and Wiener schnitzel, but not exclusively so.</p>
+      </block>
+      <block class="full_text">
+        <p>Memories of Vienna</p>
+        <p>Wallse, 344 West 11th Street, is named for Wallsee (pronounced VAHL-zay), a town in Austria where the chef and owner, Kurt Gutenbrunner, was born. The menu is Austrian style, with spatzle and Wiener schnitzel, but not exclusively so.</p>
+        <p>Leger and a Staircase</p>
+        <p>''Les Constructeurs,'' a wall-size mural, the only stained-glass work by Fernand Leger, is the stunning backdrop for Brasserie 8 1/2, on the lower level of 9 West 57th Street. Matisse graphics line the walls. The art is from the collection of Sheldon Solow, the developer who owns the building and the restaurant.</p>
+        <p>Brasserie 8 1/2, run by Restaurant Associates, is a modern 230-seat room reached by a grand circular staircase. The chef, Julian Alonzo, offers updated brasserie fare, including ceviche and suckling pig.</p>
+        <p>Short Orders</p>
+        <p>La Bicyclette has opened at 519 Columbus Avenue (85th Street), replacing Delphini. The chef, Suleyman Farah, is the same, now turning out steak frites.</p>
+        <p>Verbena, 15 Irving Place (17th Street), has opened Bar Demi, 125 1/2 East 17th Street, in the space that was Verbena to Go. The emphasis is on half bottles of wine, to go with small tasting plates.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

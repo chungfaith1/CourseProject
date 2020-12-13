@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CueCat Links Printed Ads to Web, but Skeptics Are Wary</title>
+    <meta content="28SCAN" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/28/technology/28SCAN.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1234283"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Bar Codes</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <org class="indexing_service">Radio Shack</org>
+        <org class="indexing_service">DigitalConvergence</org>
+        <person class="indexing_service">Hafner, Katie</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000928T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01E7DE113AF93BA1575AC0A9669C8B63" item-length="1065" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CueCat Links Printed Ads to Web, but Skeptics Are Wary</hl1>
+      </hedline>
+      <byline class="print_byline">By KATIE HAFNER</byline>
+      <byline class="normalized_byline">Hafner, Katie</byline>
+      <abstract>
+        <p>CueCat, computer peripheral with built-in optical reader is being given away by Radio Shack, its manufacturer, and sent to subscribers of number of magazines and newspapers; can be used to scan bar codes that accompany advertising and articles for direct link to relevant Web site; privacy advocates are concerned about personal data users must supply to server at DigitalConvergence, which developed and licenses technology, and company's disclosure practices; company says it does not track individuals' use; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TRY this: Go to your local Radio Shack and ask for a CueCat. The sales representative behind the counter will nod, reach into a box, pull out a plastic off-white object that looks like a McDonald's Happy Meal toy and hand it to you, at no charge.</p>
+        <p>The CueCat, a five-inch-long computer peripheral with an optical reader built into it, is being given away by Radio Shack, its manufacturer, and sent to subscribers of Wired, Forbes and other magazines and newspapers so that they can scan the bar codes that accompany advertising and articles.</p>
+      </block>
+      <block class="full_text">
+        <p>TRY this: Go to your local Radio Shack and ask for a CueCat. The sales representative behind the counter will nod, reach into a box, pull out a plastic off-white object that looks like a McDonald's Happy Meal toy and hand it to you, at no charge.</p>
+        <p>The CueCat, a five-inch-long computer peripheral with an optical reader built into it, is being given away by Radio Shack, its manufacturer, and sent to subscribers of Wired, Forbes and other magazines and newspapers so that they can scan the bar codes that accompany advertising and articles.</p>
+        <p>Nearly one million CueCats have already been given away, and DigitalConvergence, the Dallas company that developed and licenses the CueCat technology, expects to have 10 million CueCats in consumers' hands by the end of the year. But since distribution began last month, the CueCat, more Sphinx than kitty in mien, has managed to inspire the wrath of a number of privacy advocates, who say it is an intrusion because it monitors people's browsing and buying habits.</p>
+        <p>The idea behind the CueCat is simple: if you're reading a magazine or newspaper and an ad catches your eye, you can simply scan the accompanying bar code (known as a cue) with a CueCat, and your browser will go to the relevant Web site. If, for instance, you like a sweater advertised by Saks Fifth Avenue, you can scan the cue and go straight to the page featuring the sweater at the Saks site.</p>
+        <p>The cues can be linked to different Web addresses, based on the age range, sex and ZIP code of the user. Say there is a snowstorm afoot. If you scan the cue next to the weather forecast in your morning newspaper, you will be taken to a list of school closings for that ZIP code. But how does the Web page know your ZIP code?</p>
+        <p>Therein lie the privacy advocates' objections. When you install the CueCat software on your PC (a version for the Macintosh is in the works), you are asked for your ZIP code, sex, age range, name and e-mail address. All that information except your name and e-mail address is transmitted to the DigitalConvergence server each time you use the CueCat, along with a unique identifier for your device.</p>
+        <p>But until recently, the only way CueCat users would know about the information transmittal was by reading the licensing agreement and privacy policy.</p>
+        <p>Last week the Privacy Foundation, a Denver-based nonprofit group, released a report criticizing DigitalConvergence for its disclosure practices. It also criticized the company for transmitting the unique identifier with each bar code swipe, which could lead to the tracking of individuals' usage.</p>
+        <p>''This device basically has two purposes,'' said Richard Smith, the foundation's chief technology officer. ''One is to scan bar codes for people and give them a quick way to go to a Web site to get more information about a product or service. Then there's this whole other aspect, basically providing data for a direct marketing system, and that doesn't seem adequately disclosed to customers.''</p>
+        <p>Lauren Weinstein, co-founder of People for Internet Responsibility, a group in Woodland Hills, Calif., was less alarmed, but he said he was concerned that people using the CueCat might not be fully aware that data was being collected.</p>
+        <p>''This boils down to the basic issues of whether or not there truly is informed consent,'' Mr. Weinstein said, ''which means not buried in a licensing agreement or in a privacy policy page that could change moment to moment anyway.''</p>
+        <p>Michael Garin, president of DigitalConvergence, said the company did not track individuals' use. ''Our job is to take individuals very deep into a Web site,'' he said, ''which would otherwise be difficult to reach, not to track what individuals do.''</p>
+        <p>But Mr. Weinstein said: ''There have been so many cases where people have been disappointed by the way companies have abided by their privacy policies that people are now very skeptical about these things. And some people are taking the view that if it can be abused, it's almost the same as the actual abuse of the data.'' But the CueCat seems to be less of a problem than some tracking of consumer behavior that goes on in cyberspace, he said.</p>
+        <p>Mr. Weinstein suggested that the CueCat might be getting so much scrutiny because it is tangible.  ''Cyberspace is just shadows on a screen,'' he said. ''But the CueCat is a thing. In people's minds, it gets shunted into a different category.''</p>
+        <p>The plastic cat has also become an irresistible target for tinkerers, who take things apart to see how they work. One group of Linux programmers has even created a way to use the CueCat to scan bar codes without using the official CueCat software.</p>
+        <p>''It's a geek's delight,'' Mr. Weinstein said.</p>
+        <p>Both Mr. Weinstein and Mr. Smith have suggested to DigitalConvergence that the company stop transmitting the identifiers. ''They can get all the same data they get now and be able to build aggregate statistics,'' Mr. Weinstein said, ''without tying it to specific identification numbers.''</p>
+        <p>But Mr. Garin said the users' anonymity was adequately protected. ''We may not do what they want the way they want it,'' he said, ''but we do what they want. Our system provides 100 percent anonymity, and at the end of the day that's all that matters.''</p>
+        <p>At Mr. Weinstein's suggestion, the company has added a pop-up message to its installation software to make its privacy policy more obvious. The company also emphasizes its privacy policy in e-mail it sends to CueCat users after they register.</p>
+        <p>The devices are gaining in popularity. Mr. Garin said that 75 percent of the 500,000 CueCats distributed by Radio Shack were in use.</p>
+        <p>Instead of the two-swipe-a-day use the company expected to see, said Doug Davis, the chief technology officer of DigitalConvergence, the average is closer to a dozen swipes a day for its user. ''They've far exceeded any of our expectations for use,'' he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

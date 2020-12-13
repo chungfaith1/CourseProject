@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="CN223018" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1202493"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000526T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E5DB133DF935A15756C0A9669C8B63" item-length="310" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TESORO PETROLEUM INC., San Antonio, an oil refiner and fuel seller, agreed to buy eight gasoline stations in the western United States from closely held Gary-Williams Retail Co. for an undisclosed price.</p>
+        <p>ROHM &amp; HAAS CO., Philadelphia, the largest United States specialty-chemical maker, agreed to buy a unit of Mitsubishi Chemical Corp. that makes chemicals used in the production of semiconductors. Financial terms were not disclosed.</p>
+      </block>
+      <block class="full_text">
+        <p>TESORO PETROLEUM INC., San Antonio, an oil refiner and fuel seller, agreed to buy eight gasoline stations in the western United States from closely held Gary-Williams Retail Co. for an undisclosed price.</p>
+        <p>ROHM &amp; HAAS CO., Philadelphia, the largest United States specialty-chemical maker, agreed to buy a unit of Mitsubishi Chemical Corp. that makes chemicals used in the production of semiconductors. Financial terms were not disclosed.</p>
+        <p>SAKS INC., Birmingham, Ala., the department store company, said it would close a Parisian store in Orlando, Fla., which employs about 140.</p>
+        <p>KENDLE INTERNATIONAL INC., Cincinnati, a researcher for drug and biotechnology companies, said it would cut about 125 full-time jobs, or 8 percent of its work force, because of an industrywide slowdown.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

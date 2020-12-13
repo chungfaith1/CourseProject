@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="24INSI$02" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1202036"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000524T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E2DB173DF937A15756C0A9669C8B63" item-length="170" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Nasdaq at a Six-Month Low  Concerns about the economy's strength sent the Nasdaq index plunging 6 percent, to its lowest level in six months.</p>
+        <p>PAGE C1</p>
+      </block>
+      <block class="full_text">
+        <p>Nasdaq at a Six-Month Low  Concerns about the economy's strength sent the Nasdaq index plunging 6 percent, to its lowest level in six months.</p>
+        <p>PAGE C1</p>
+        <p>Move to Ease Cuba Embargo  Under pressure from farmers to open new markets, Congress is considering softening the United States embargo against Cuba.</p>
+        <p>PAGE A10</p>
+        <p>Russian Lab Opens Door  A former Soviet germ warfare complex is inviting outside scrutiny of its new, peaceful mission.</p>
+        <p>PAGE A10</p>
+        <p>City Aims at Tour Line  Officials will seek to suspend the license of a tour company after its bus killed a pedestrian.</p>
+        <p>PAGE B1</p>
+        <p>Pacers Beat Knicks  Indiana defeated the Knicks, 102-88, in Game 1 of the Eastern Conference finals.</p>
+        <p>SPORTSWEDNESDAY, PAGE D1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

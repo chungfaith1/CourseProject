@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New York Traffic Slows Montoya</title>
+    <meta content="MB224759" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203825"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="AUTO RACING: ROUNDUP"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobile Racing</classifier>
+        <classifier class="indexing_service" type="descriptor">Indianapolis 500 (Auto Race)</classifier>
+        <person class="indexing_service">Williams, Lena</person>
+        <person class="indexing_service">Montoya, Juan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Wheel Spin</classifier>
+        <classifier class="online_producer" type="general_descriptor">Race</classifier>
+        <classifier class="online_producer" type="general_descriptor">Indianapolis 500 (Auto Race)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobile Racing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000531T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04EEDA113FF932A05756C0A9669C8B63" item-length="246" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New York Traffic Slows Montoya</hl1>
+      </hedline>
+      <byline class="print_byline">By LENA WILLIAMS</byline>
+      <byline class="normalized_byline">Williams, Lena</byline>
+      <abstract>
+        <p>Juan Montoya discusses winning Indianapolis 500 auto race (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The mean streets of New York managed to do what the track at Indianapolis Motor Speedway could not: slow down Juan Montoya, the winner of the 2000 Indy 500.</p>
+      </block>
+      <block class="full_text">
+        <p>The mean streets of New York managed to do what the track at Indianapolis Motor Speedway could not: slow down Juan Montoya, the winner of the 2000 Indy 500.</p>
+        <p>Montoya, who so dominated the race on Sunday that he led for 167 of 200 laps, was an hour late yesterday for a press luncheon at Tavern on the Green because he was stuck in traffic.</p>
+        <p>At one point, Montoya, who average of 167.607 miles an hour at Indianpolis, considered the only mode of transportation that might possibly match his times, the subway, to get from Wall Street, where he visited the floor of the New York Stock Exchange, to the restaurant on Central Park West.</p>
+        <p>Montoya, who was the first driver from the Championship Auto Racing Teams to race at Indy since the 1996 split between CART and its rival, the Indy Racing League, thinks the two leagues ''should never have separated from the start.''</p>
+        <p>''Now, everyone is trying to build a fight between CART and I.R.L. and I don't think there is a fight there,'' Montoya said. ''We have two series championships and each are going in the same direction.''</p>
+        <p>LENA WILLIAMS</p>
+        <p>AUTO RACING: ROUNDUP</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

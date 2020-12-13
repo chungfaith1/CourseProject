@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INTEL AIMING FOR WIRELESS MARKET</title>
+    <meta content="MB003425" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225025"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY BRIEFING: HARDWARE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Chips</classifier>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Cellular Telephones</classifier>
+        <org class="indexing_service">Intel Corp</org>
+        <person class="indexing_service">Fisher, Lawrence M</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000824T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E4DA1431F937A1575BC0A9669C8B63" item-length="143" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INTEL AIMING FOR WIRELESS MARKET</hl1>
+      </hedline>
+      <byline class="print_byline">By Lawrence M. Fisher</byline>
+      <byline class="normalized_byline">Fisher, Lawrence M</byline>
+      <abstract>
+        <p>Intel introduces chip design intended to use wide variety of wireless Internet and networking infrastructure applications; called Intel XScale microarchitecture, it has flexibility to handle requirements for both ultralow power and high performance in devices ranging from Internet-ready cell phones to Internet infrastructure equipment (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Intel introduced a chip design intended for use in a wide variety of wireless Internet and networking infrastructure applications. Called the Intel XScale microarchitecture, it has the flexibility to handle requirements for both ultralow power and high performance in devices ranging from Internet-ready cell phones to Internet infrastructure equipment. Intel's XScale is actually a renamed version of the StrongArm architecture Intel acquired from the Digital Equipment Corporation, which was originally based on a design created by Advanced Risc Machines of Britain. The technology is notable for its ability to operate at high speeds while consuming little power, a key requirement for a new generation of battery-powered mobile devices. Intel said the new design would allow the development of new types of wireless devices powered by a single AA battery.</p>
+        <p>Lawrence M. Fisher</p>
+      </block>
+      <block class="full_text">
+        <p>Intel introduced a chip design intended for use in a wide variety of wireless Internet and networking infrastructure applications. Called the Intel XScale microarchitecture, it has the flexibility to handle requirements for both ultralow power and high performance in devices ranging from Internet-ready cell phones to Internet infrastructure equipment. Intel's XScale is actually a renamed version of the StrongArm architecture Intel acquired from the Digital Equipment Corporation, which was originally based on a design created by Advanced Risc Machines of Britain. The technology is notable for its ability to operate at high speeds while consuming little power, a key requirement for a new generation of battery-powered mobile devices. Intel said the new design would allow the development of new types of wireless devices powered by a single AA battery.</p>
+        <p>Lawrence M. Fisher</p>
+        <p>TECHNOLOGY BRIEFING: HARDWARE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR011719" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213121"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Antitrust Actions and Laws</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">Oracle Corp</org>
+        <org class="indexing_service">Microsoft Corp</org>
+        <person class="indexing_service">Lane, Raymond</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Antitrust Actions and Laws</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000707T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E5D81638F934A35754C0A9669C8B63" item-length="190" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>July 1 article in some copies about resignation of Raymond Lane, president of Oracle Corp, referred imprecisely to press reports that Oracle's software rival, Microsoft, had underwritten groups backing Microsoft's antitrust defense; error was repeated in Economic View column July 3</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article in some copies of Business Day on Saturday about the resignation of Raymond Lane, president of the Oracle Corporation, referred imprecisely to press reports that Oracle's software rival, Microsoft, had underwritten groups backing Microsoft's antitrust defense. The error was repeated on Sunday in the Economic View column in Money &amp; Business, about the exchange of invective between Oracle and Microsoft. The accounts of Microsoft's financial support, in The New York Times, The Washington Post and The Wall Street Journal, focused on two groups that are now known to have been targets of an Oracle-sponsored investigation. But none of the newspapers have said the documents cited in their coverage came from the Oracle operation; they have not identified the sources of their information.</p>
+      </block>
+      <block class="full_text">
+        <p>An article in some copies of Business Day on Saturday about the resignation of Raymond Lane, president of the Oracle Corporation, referred imprecisely to press reports that Oracle's software rival, Microsoft, had underwritten groups backing Microsoft's antitrust defense. The error was repeated on Sunday in the Economic View column in Money &amp; Business, about the exchange of invective between Oracle and Microsoft. The accounts of Microsoft's financial support, in The New York Times, The Washington Post and The Wall Street Journal, focused on two groups that are now known to have been targets of an Oracle-sponsored investigation. But none of the newspapers have said the documents cited in their coverage came from the Oracle operation; they have not identified the sources of their information.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV104246" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1240619"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Purdum, Todd S</person>
+        <person class="indexing_service">Reagan, Nancy</person>
+        <person class="indexing_service">Reagan, Ronald Wilson</person>
+        <object.title class="indexing_service">I Love You, Ronnie: The Letters of Ronald to Nancy Reagan (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001022T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805EEDF143FF931A15753C1A9669C8B63" item-length="304" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Todd Purdum</byline>
+      <byline class="normalized_byline">Purdum, Todd S</byline>
+      <abstract>
+        <p>Todd Purdum reviews book I Love You, Ronnie: The Letters of Ronald to Nancy Reagan by Nancy Reagan (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I Love You, Ronnie</p>
+        <p>The Letters of Ronald</p>
+        <p>to Nancy Reagan.</p>
+        <p>By Nancy Reagan.</p>
+        <p>Random House, $24.95.</p>
+      </block>
+      <block class="full_text">
+        <p>I Love You, Ronnie</p>
+        <p>The Letters of Ronald</p>
+        <p>to Nancy Reagan.</p>
+        <p>By Nancy Reagan.</p>
+        <p>Random House, $24.95.</p>
+        <p>In more than 40 years of letters to his wife, Nancy -- sometimes written from just across the same room -- Ronald Reagan reveals not only an abiding love but an enduring gift for courtly whimsy. Here is Reagan in 1997, writing to St. Valentine ''about a beautiful young lady who has been in this household for 25 years now'' and asking the patron of love to ''whisper in her ear that someone loves her very much and more and more each day,'' then adding: ''Tell her if she wants to know who that 'someone' is to just turn her head to the left.'' Here he is sending a Thanksgiving card with the printed message, ''You are the real whipped cream on the pumpkin pie of life!'' and adding: ''And boy am I a dessert man?!'' Here he is, writing ''I love you'' nine times on a piece of White House stationery, then adding, ''And besides that -- I love you.'' In a heartfelt narrative that frames the letters (many of which are reproduced in facsimile in Reagan's curly handwriting) collected in ''I Love You, Ronnie,'' Mrs. Reagan writes that she kept this collection for years in a shopping bag, rereading the notes from time to time, especially after Alzheimer's disease robbed her of the chance to share memories with the former president in person. Before donating them to the Reagan Library, she decided to publish this volume, whose proceeds will benefit the library and Alzheimer's research. If there is any unsettling undercurrent in these billets-doux, it is an expression of love so total and consuming as to crowd out all others, including, by all available evidence, the Reagan children.</p>
+        <p>Todd Purdum</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Let the Patient Decide</title>
+    <meta content="L25LIF$01" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/25/opinion/L25LIF.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1233587"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Death and Dying</classifier>
+        <person class="indexing_service">Kent, Donald F (Dr)</person>
+        <person class="indexing_service">Shaywitz, David A (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Death and Dying</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000925T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E2DE1F3BF936A1575AC0A9669C8B63" item-length="95" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Let the Patient Decide</hl1>
+      </hedline>
+      <abstract>
+        <p>Dr Donald F Kent letter on David A Shaywitz's Sept 19 article stresses importance of patient involvement in end-of-life decisions</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''The Right to Live,'' by David A. Shaywitz (Op-Ed, Sept. 19), points out the importance of including the patient's wishes in end-of-life decisions. Such determinations, always difficult, can and should be solidly grounded in patient autonomy.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''The Right to Live,'' by David A. Shaywitz (Op-Ed, Sept. 19), points out the importance of including the patient's wishes in end-of-life decisions. Such determinations, always difficult, can and should be solidly grounded in patient autonomy.</p>
+        <p>As the winds of change scour the landscape, what remains is always to act, insofar as it is possible, within the parameters set by the patient himself. No effort should be spared to determine what those conditions are.</p>
+        <p>DONALD F. KENT, M.D.  Maplewood, N.J., Sept. 19, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

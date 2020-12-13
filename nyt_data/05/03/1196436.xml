@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>At Last, Tiramisu's Sum Is Greater Than Its Parts</title>
+    <meta content="03TIRA$04" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1196436"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="FOOD STUFF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <org class="indexing_service">Via Quadronno (NYC Restaurant)</org>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000503T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E0D71339F930A35756C0A9669C8B63" item-length="184" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>At Last, Tiramisu's Sum Is Greater Than Its Parts</hl1>
+      </hedline>
+      <byline class="print_byline">By AMANDA HESSER</byline>
+      <abstract>
+        <p>Via Quadronno, New York City restaurant, offers tiramisu broken down into its parts; drawing (Food Stuff column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Instead of ladyfingers, mascarpone and espresso all blurred together in a creamy mess, the tiramisu San Dona at Via Quadronno, 25 East 73rd Street, comes broken down into its parts: crisp ladyfingers, a cup of espresso, and mascarpone and zabaglione whipped together and dusted with bitter cocoa. You dip the ladyfingers in the espresso, then in as much mascarpone as you please. You can hop ecstatically from bowl to bowl until you've perfected the proportions. Or until you're dizzy.</p>
+      </block>
+      <block class="full_text">
+        <p>Instead of ladyfingers, mascarpone and espresso all blurred together in a creamy mess, the tiramisu San Dona at Via Quadronno, 25 East 73rd Street, comes broken down into its parts: crisp ladyfingers, a cup of espresso, and mascarpone and zabaglione whipped together and dusted with bitter cocoa. You dip the ladyfingers in the espresso, then in as much mascarpone as you please. You can hop ecstatically from bowl to bowl until you've perfected the proportions. Or until you're dizzy.</p>
+        <p>Paolo Della Puppa, an owner of the restaurant, deconstructed his tiramisu ($12: it serves two) after he had a similar one in Italy. He then traded his method for a recipe he wanted from Revel, 24 East 81st Street, so you can share a tiramisu with a friend there, too ($10).</p>
+        <p>AMANDA HESSER</p>
+        <p>FOOD STUFF The Food Stuff column now appears every other week, alternating with the Eating Well column.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">The Food Stuff column now appears every other week, alternating with the Eating Well column.</tagline>
+    </body.end>
+  </body>
+</nitf>

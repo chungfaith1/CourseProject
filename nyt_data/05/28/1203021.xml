@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Draft in Germany</title>
+    <meta content="L28GER$01" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203021"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Draft and Recruitment (Military)</classifier>
+        <classifier class="indexing_service" type="descriptor">Armament, Defense and Military Forces</classifier>
+        <location class="indexing_service">Germany</location>
+        <person class="indexing_service">Angermeyer, Philipp</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Germany</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000528T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05EED8133DF93BA15756C0A9669C8B63" item-length="132" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Draft in Germany</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Philipp Angermeyer says German plan to rely less on draft will deprive that country of conscripts who choose social services as alternative to military service (May 24 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''Germans Plan to Trim Army and Rely Less on the Draft'' (news article, May 24), you do not mention what is possibly the most important reason for maintaining the draft.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''Germans Plan to Trim Army and Rely Less on the Draft'' (news article, May 24), you do not mention what is possibly the most important reason for maintaining the draft.</p>
+        <p>Every year between a third and half of all conscripts choose alternative service rather than military service, generally deciding to work in hospitals or nursing homes. These institutions and the social service system in general have come to rely on this cornucopia of cheap labor. In 1999, the total number of Zivis, as they are called, amounted to 138,000.</p>
+        <p>PHILIPP ANGERMEYER  Brooklyn, May 24, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

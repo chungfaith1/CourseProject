@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR023510" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1218335"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Agriculture</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Satellites</classifier>
+        <classifier class="indexing_service" type="descriptor">Landsat Satellites</classifier>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Satellites</classifier>
+        <classifier class="online_producer" type="general_descriptor">Agriculture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000728T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E5D7173DF93BA15754C0A9669C8B63" item-length="83" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>July 13 article about technological advances in farming misstated some facts about Landsat satellites used for monitoring crop growth</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article in Circuits on July 13 about technological advances in farming misstated the altitude of Landsat satellites used to provide images of fields for monitoring crop growth. They are 437 miles above the earth, not 20,000 feet. The article also misstated the resolution of the images. Each pixel represents roughly 1,000 square yards, not 5 to 10 square yards.</p>
+      </block>
+      <block class="full_text">
+        <p>An article in Circuits on July 13 about technological advances in farming misstated the altitude of Landsat satellites used to provide images of fields for monitoring crop growth. They are 437 miles above the earth, not 20,000 feet. The article also misstated the resolution of the images. Each pixel represents roughly 1,000 square yards, not 5 to 10 square yards.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

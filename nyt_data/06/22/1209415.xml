@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="CN234923" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209415"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000622T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E0DB1E31F931A15755C0A9669C8B63" item-length="208" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FPL GROUP INC., Juno Beach, Fla., owner of the largest utilities in Florida, said it bought the rights to build a natural-gas-fired 500-megawatt power plant in Johnston, which is near Providence, R.I., from Reliant Energy Inc., Houston, for an undisclosed price.</p>
+        <p>VERISIGN INC., Mountain View, Calif., a maker of online security software, said it was chosen by Pennsylvania to provide encryption services for the state's law-enforcement agencies over the Internet.</p>
+      </block>
+      <block class="full_text">
+        <p>FPL GROUP INC., Juno Beach, Fla., owner of the largest utilities in Florida, said it bought the rights to build a natural-gas-fired 500-megawatt power plant in Johnston, which is near Providence, R.I., from Reliant Energy Inc., Houston, for an undisclosed price.</p>
+        <p>VERISIGN INC., Mountain View, Calif., a maker of online security software, said it was chosen by Pennsylvania to provide encryption services for the state's law-enforcement agencies over the Internet.</p>
+        <p>INTRAWEST CORP., Vancouver, British Columbia, , which develops and operates resorts across North America, said it planned to develop a $500 million luxury village and hotel at the Lake Las Vegas Resort.</p>
+        <p>TRANSCOASTAL MARINE SERVICES INC., Houston, which installs and repairs pipelines and provides repair and construction services to offshore oil rigs, said it filed for Chapter 7 bankruptcy in the United States Bankruptcy Court for the Southern District of Texas.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

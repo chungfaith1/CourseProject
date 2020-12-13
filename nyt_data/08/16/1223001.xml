@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>FORECAST: MORE ADS ONLINE</title>
+    <meta content="MB234600" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1223001"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY BRIEFING: INTERNET"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Jupiter Communications</org>
+        <person class="indexing_service">Stellin, Susan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000816T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E4D71F3FF935A2575BC0A9669C8B63" item-length="137" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>FORECAST: MORE ADS ONLINE</hl1>
+      </hedline>
+      <byline class="print_byline">By Susan Stellin</byline>
+      <byline class="normalized_byline">Stellin, Susan</byline>
+      <abstract>
+        <p>Jupiter Communications, Internet research firm, plans to release report forecasting that online advertising revenue will reach $16.5 billion by 2005; report predicts 30 percent annual growth rate in total online advertising spending, from $3.5 billion in 1999 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jupiter Communications, an Internet research firm, plans to release a report today forecasting that online advertising revenue will reach $16.5 billion by 2005. The report predicts a 30 percent annual growth rate in total online advertising spending, from $3.5 billion in 1999. According to a Jupiter survey, marketers plan to increase spending on Internet advertising at a higher rate than advertising in any other medium, with nearly three-quarters planning increases in the next 12 months, compared with 43 percent who said they would increase their magazine spending and 37 percent who plan to increase their spending on cable television. This anticipated growth could propel the Internet to fourth place as an advertising medium, behind broadcast television, radio and newspapers.</p>
+        <p>Susan Stellin (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Jupiter Communications, an Internet research firm, plans to release a report today forecasting that online advertising revenue will reach $16.5 billion by 2005. The report predicts a 30 percent annual growth rate in total online advertising spending, from $3.5 billion in 1999. According to a Jupiter survey, marketers plan to increase spending on Internet advertising at a higher rate than advertising in any other medium, with nearly three-quarters planning increases in the next 12 months, compared with 43 percent who said they would increase their magazine spending and 37 percent who plan to increase their spending on cable television. This anticipated growth could propel the Internet to fourth place as an advertising medium, behind broadcast television, radio and newspapers.</p>
+        <p>Susan Stellin (NYT)</p>
+        <p>TECHNOLOGY BRIEFING: INTERNET</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Life Under the Billboard Blanket</title>
+    <meta content="LTR010725" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1197642"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Outdoor Advertising</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Dunlap, David W</person>
+        <person class="indexing_service">Fuller, Joyce</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Outdoor Advertising</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000507T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04EEDE1538F934A35756C0A9669C8B63" item-length="60" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Life Under the Billboard Blanket</hl1>
+      </hedline>
+      <abstract>
+        <p>Joyce Fuller letter disputes David W Dunlap's April 16 article on NYC's massive billboards (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Why shouldn't individual citizens of the city be paid for the encroachment of advertising on their time, their thoughts, their spirits?</p>
+        <p>I would also like to be compensated for the time I spend disposing of mail and telephone solicitations.</p>
+        <p>JOYCE FULLER  Chelsea</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Why shouldn't individual citizens of the city be paid for the encroachment of advertising on their time, their thoughts, their spirits?</p>
+        <p>I would also like to be compensated for the time I spend disposing of mail and telephone solicitations.</p>
+        <p>JOYCE FULLER  Chelsea</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR025321" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Corrections; Real Estate" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1224101"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000820T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E6D9133EF933A1575BC0A9669C8B63" item-length="126" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction: picture with Aug 6 Residential Sales report was published in error</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A picture with the Residential Sales report on Aug. 6, with an entry about a four-bedroom house at 21 Meadow Glen Road in Fort Salonga, N.Y., was published in error. It was a duplicate of one for the Gazetteer chart in the same issue and showed a four-bedroom house at 584 Center Briarwood Avenue in West Islip, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>A picture with the Residential Sales report on Aug. 6, with an entry about a four-bedroom house at 21 Meadow Glen Road in Fort Salonga, N.Y., was published in error. It was a duplicate of one for the Gazetteer chart in the same issue and showed a four-bedroom house at 584 Center Briarwood Avenue in West Islip, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

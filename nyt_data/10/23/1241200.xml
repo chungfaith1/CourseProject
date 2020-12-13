@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Prizes Are Ready, But the E-Books Aren't</title>
+    <meta content="23SOFT$01" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/23/technology/23SOFT.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1241200"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="MEDIA TALK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Frankfurt Book Fair</classifier>
+        <classifier class="indexing_service" type="descriptor">Book Trade</classifier>
+        <org class="indexing_service">Microsoft Corp</org>
+        <person class="indexing_service">Kirkpatrick, David D</person>
+        <person class="indexing_service">Brass, Dick</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frankfurt Book Fair</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frankfurt Book Fair</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Awards, Decorations and Honors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Book Fairs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Book Fairs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Book Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trade Shows and Fairs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001023T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E0D61F3EF930A15753C1A9669C8B63" item-length="364" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Prizes Are Ready, But the E-Books Aren't</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID D. KIRKPATRICK</byline>
+      <byline class="normalized_byline">Kirkpatrick, David D</byline>
+      <dateline>FRANKFURT, Oct. 21</dateline>
+      <abstract>
+        <p>Frankfurt Book Fair sees introduction of Frankfurt eBook Awards, conceived to encourage electronic publishing; Microsoft vice president Dick Brass forsees growth of electronic book sector; judging current award entries proves difficult; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Conceived about a year ago by Dick Brass, a vice president of Microsoft, the Frankfurt eBook Awards were intended to publicize the idea of reading from a screen and to encourage the publication of new electronic books.</p>
+        <p>But at the Frankfurt Book Fair last week, they provoked widespread derision instead.</p>
+      </block>
+      <block class="full_text">
+        <p>Conceived about a year ago by Dick Brass, a vice president of Microsoft, the Frankfurt eBook Awards were intended to publicize the idea of reading from a screen and to encourage the publication of new electronic books.</p>
+        <p>But at the Frankfurt Book Fair last week, they provoked widespread derision instead.</p>
+        <p>''It was somewhere between a joke and a debacle,'' said Stewart Brand, founder of ''The Whole Earth Catalogue'' and one of the judges. ''It was just too early.''</p>
+        <p>The International E-Book Award Foundation, backed by Microsoft and other software companies, was obliged to send technicians around the country to help the judges download the books. Then the judges discovered that events had overtaken them: a wildly popular electronic novella by Stephen King had inspired publishers everywhere to begin publishing electronic books, flooding the judges with hundreds of entries.</p>
+        <p>But several judges said they nonetheless found the pickings to be slim. Mr. Brand questioned the rules limiting candidates to books produced by traditional publishers, excluding less conventional fruits of the World Wide Web. Other judges were disappointed that almost all the nominees had also been published in print and consisted of little more than the same words on a screen. Mr. King's novella was excluded because it was not full-length.</p>
+        <p>Nonetheless, Mr. Brass pronounced the event a rousing success, at least at its goal of getting attention. ''Someday, when electronic books replace print, these will just be called the book awards,'' he said.</p>
+        <p>The grand prize of $100,000 was split between E. M. Schorb's novel ''Paradise Square,'' published by Denlinger's Publishers and David Maraniss's ''When Pride Mattered: A Life of Vince Lombardi,'' published by Simon &amp; Schuster.</p>
+        <p>DAVID D. KIRKPATRICK</p>
+        <p>MEDIA TALK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

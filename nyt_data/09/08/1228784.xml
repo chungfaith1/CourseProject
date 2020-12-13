@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Indeed, a Handshake</title>
+    <meta content="08X1CAST" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="World; Front Page" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1228784"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="SUMMIT IN NEW YORK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000908T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E4D61239F93BA3575AC0A9669C8B63" item-length="55" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Indeed, a Handshake</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The White House confirmed that President Clinton shook Fidel Castro's hand on Wednesday, apparently a first for a United States president.  Article, Page A12.</p>
+      </block>
+      <block class="full_text">
+        <p>The White House confirmed that President Clinton shook Fidel Castro's hand on Wednesday, apparently a first for a United States president.  Article, Page A12.</p>
+        <p>SUMMIT IN NEW YORK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>GREAT EXPECTATIONS</title>
+    <meta content="Y13PRO$01" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page; Corrections; Editors' Notes; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1199030"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="COMING ON SUNDAY"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editors' Note</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Editors' Notes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000513T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806EFDF123BF930A25756C0A9669C8B63" item-length="73" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>GREAT EXPECTATIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Prime Minister Tony Blair set out to modernize England by building bridges to both the Continent and the United States. So far he has been succeeding, and with a baby due any day, he retains the British public firmly on his side. A report by Warren Hoge in The Times Magazine.</p>
+      </block>
+      <block class="full_text">
+        <p>Prime Minister Tony Blair set out to modernize England by building bridges to both the Continent and the United States. So far he has been succeeding, and with a baby due any day, he retains the British public firmly on his side. A report by Warren Hoge in The Times Magazine.</p>
+        <p>COMING ON SUNDAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="18CMPBRFS" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1239796"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001018T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E1DD143EF93BA25753C1A9669C8B63" item-length="368" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TRINITY INDUSTRIES, Dallas, a major manufacturer of products used in transportation, construction and other industries, said that it would close three railcar and parts manufacturing plants in Pennsylvania, Ohio and North Carolina and fewer than 200 workers would be laid off.</p>
+      </block>
+      <block class="full_text">
+        <p>TRINITY INDUSTRIES, Dallas, a major manufacturer of products used in transportation, construction and other industries, said that it would close three railcar and parts manufacturing plants in Pennsylvania, Ohio and North Carolina and fewer than 200 workers would be laid off.</p>
+        <p>INTERNATIONAL PAPER CO., Purchase, N.Y., the world's biggest maker of paper, agreed to sell 105 acres of mostly forest in Connecticut to a nonprofit nature conservation group, the Trust for Public Land, for $11.5 million.</p>
+        <p>MARRIOTT INTERNATIONAL INC., Bethesda, Md., a hotel management company, and a company formed by the Host Marriott Corp., also of Bethesda, a hotel operator, said an investor group voted in favor of selling its 50 Courtyard by Marriott Hotels to a joint venture of the two companies.</p>
+        <p>BOEING CO., Seattle, a maker of commercial jet aircraft, said its Australian unit would buy Hawker de Havilland, Sydney, an aviation component maker, from the Tenix Group, which is Australia's largest military and technology contractor, for an undisclosed sum.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

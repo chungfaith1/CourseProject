@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR012205" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1243500"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">Baptist Churches</org>
+        <org class="indexing_service">Southern Baptist Convention</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001031T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DEFDA1230F932A05753C1A9669C8B63" item-length="115" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of October 28 Religion Journal column on efforts by some Texas Baptists to end contributions to Southern Baptist Convention</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Religion Journal column on Saturday, about efforts by some Texas Baptists to end contributions to the Southern Baptist Convention because of its conservative policies, misstated the name of the denomination's Texas organization. It is the Baptist General Convention of Texas, not the General Baptist Convention.</p>
+      </block>
+      <block class="full_text">
+        <p>The Religion Journal column on Saturday, about efforts by some Texas Baptists to end contributions to the Southern Baptist Convention because of its conservative policies, misstated the name of the denomination's Texas organization. It is the Baptist General Convention of Texas, not the General Baptist Convention.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

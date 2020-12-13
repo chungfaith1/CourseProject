@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>RESTORING STATE'S IDENTITY</title>
+    <meta content="MB013241" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1229294"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BRIEFING: CENSUS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Population</classifier>
+        <classifier class="indexing_service" type="descriptor">Census</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">New Jersey</location>
+        <location class="indexing_service">Philadelphia (Pa)</location>
+        <org class="indexing_service">Office of Management and Budget</org>
+        <person class="indexing_service">Starita, Angela</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Pennsylvania/Philadelphia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Census</classifier>
+        <classifier class="online_producer" type="general_descriptor">Population</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000910T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE6DB1339F933A2575AC0A9669C8B63" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>RESTORING STATE'S IDENTITY</hl1>
+      </hedline>
+      <byline class="print_byline">By Angela Starita</byline>
+      <byline class="normalized_byline">Starita, Angela</byline>
+      <abstract>
+        <p>Office of Management and Budget reverses proposal for interpreting census data that would have defined areas with million people or more as 'megapolitan,' and which would have absorbed North Jersey into New York City and South Jersey into Philadelphia (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The federal Office of Management and Budget has  reversed a proposal for interpreting census data that would have made New Jersey a statistical nonentity. The Metropolitan Area Standards Review Committee, a federal panel that reviews how census information is classified, planned to define areas with a million people or more as ''megapolitan,'' which would have absorbed North Jersey into New York City and South Jersey into Philadelphia. Under the latest plan, a region with at least two and a half million people will be subdivided into ''metropolitan divisions,'' with at least 50,000 people, thus giving New Jersey communities an identity. The Office of Management and Budget will release its final guidelines by Dec. 31.</p>
+        <p>Angela Starita</p>
+      </block>
+      <block class="full_text">
+        <p>The federal Office of Management and Budget has  reversed a proposal for interpreting census data that would have made New Jersey a statistical nonentity. The Metropolitan Area Standards Review Committee, a federal panel that reviews how census information is classified, planned to define areas with a million people or more as ''megapolitan,'' which would have absorbed North Jersey into New York City and South Jersey into Philadelphia. Under the latest plan, a region with at least two and a half million people will be subdivided into ''metropolitan divisions,'' with at least 50,000 people, thus giving New Jersey communities an identity. The Office of Management and Budget will release its final guidelines by Dec. 31.</p>
+        <p>Angela Starita</p>
+        <p>BRIEFING: CENSUS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

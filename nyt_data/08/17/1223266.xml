@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Libraries and Catalogs</title>
+    <meta content="LTR003648" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Education; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1223266"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <person class="indexing_service">braiterman, andrew h</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000817T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E4D7173EF934A2575BC0A9669C8B63" item-length="106" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Libraries and Catalogs</hl1>
+      </hedline>
+      <abstract>
+        <p>Andrew H Braiterman letter comments on Aug 10 article on how Internet has affected students' research strategies</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I am flabbergasted that the article quoted educators from the University of California at Berkeley and the University of Michigan who seemed to think that students cannot be expected to master the basics of Boolean logic. It seems to me that Boolean logic is essential to the efficient use of search engines and that it is readily understandable by a junior high school student of average intelligence.</p>
+        <p>ANDREW H. BRAITERMAN  New York</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I am flabbergasted that the article quoted educators from the University of California at Berkeley and the University of Michigan who seemed to think that students cannot be expected to master the basics of Boolean logic. It seems to me that Boolean logic is essential to the efficient use of search engines and that it is readily understandable by a junior high school student of average intelligence.</p>
+        <p>ANDREW H. BRAITERMAN  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

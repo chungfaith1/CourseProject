@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="26INSI$07" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1202507"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000526T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E6DA133DF935A15756C0A9669C8B63" item-length="121" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Giuliani Returning Donations  The Giuliani Senate campaign will return $2.8 million to contributors and suggest that the money go to the Lazio Senate campaign.</p>
+        <p>PAGE B1</p>
+        <p>Jubilation in Lebanon  The Lebanese proudly celebrated a new holiday, National Resistance Day, with a joyous rally at what had been a notorious prison.</p>
+        <p>PAGE A10</p>
+      </block>
+      <block class="full_text">
+        <p>Giuliani Returning Donations  The Giuliani Senate campaign will return $2.8 million to contributors and suggest that the money go to the Lazio Senate campaign.</p>
+        <p>PAGE B1</p>
+        <p>Jubilation in Lebanon  The Lebanese proudly celebrated a new holiday, National Resistance Day, with a joyous rally at what had been a notorious prison.</p>
+        <p>PAGE A10</p>
+        <p>Doctors Sue Insurers  The California Medical Association accused insurers of violating antiracketeering laws by interfering with doctor-patient relationships.</p>
+        <p>PAGE C1</p>
+        <p>Meat Standards Rejected  A federal judge in Texas struck down the Agriculture Department's inspection standards for meat-processing plants.</p>
+        <p>PAGE A14</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

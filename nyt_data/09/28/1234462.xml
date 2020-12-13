@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Pen That Could Let You Scribble Your Way Across the Internet</title>
+    <meta content="28CIRCDOC" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/28/technology/28HOWW.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1234462"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <classifier class="indexing_service" type="descriptor">Facsimile Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <org class="indexing_service">Ericsson Ab</org>
+        <org class="indexing_service">Anoto</org>
+        <org class="indexing_service">Time Manager</org>
+        <org class="indexing_service">Bluetooth Special Interest Group</org>
+        <person class="indexing_service">Lake, Matt</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Facsimile Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000928T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E3DA1E3AF93BA1575AC0A9669C8B63" item-length="1382" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Pen That Could Let You Scribble Your Way Across the Internet</hl1>
+      </hedline>
+      <byline class="print_byline">By MATT LAKE</byline>
+      <byline class="normalized_byline">Lake, Matt</byline>
+      <abstract>
+        <p>Ericsson, Anoto and Time Manager have each developed technology for using pen to send e-mail, faxes and e-commerce orders; Anoto pen adheres to wireless communication technology standard developed by Bluetooth Special Interest Group consortium to unify computing and wireless telephony platforms; diagram (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ONLY a few years ago, if you wanted to send e-mail across the Internet, you needed a computer and a modem. In the relentless move to simplify technology and make it more accessible, a waveof more familiar Internet devices followed, startingwith WebTV, which turned your television into a PCscreen, and including cellular phones and dedicated e-mail stations that you plug into a phone line.</p>
+        <p>But if you want a really familiar interface with the Internet, how about putting pen to paper? That maysound a little farfetched, but the technology for using a pen to send e-mail, faxes and e-commerce orders has already been developed by three companies: Ericsson, Anoto and Time Manager. It is scheduled for introduction in the second half of 2001.</p>
+      </block>
+      <block class="full_text">
+        <p>ONLY a few years ago, if you wanted to send e-mail across the Internet, you needed a computer and a modem. In the relentless move to simplify technology and make it more accessible, a waveof more familiar Internet devices followed, startingwith WebTV, which turned your television into a PCscreen, and including cellular phones and dedicated e-mail stations that you plug into a phone line.</p>
+        <p>But if you want a really familiar interface with the Internet, how about putting pen to paper? That maysound a little farfetched, but the technology for using a pen to send e-mail, faxes and e-commerce orders has already been developed by three companies: Ericsson, Anoto and Time Manager. It is scheduled for introduction in the second half of 2001.</p>
+        <p>The device, the Anoto Bluetooth pen, looks, handles and writes like an honest-to-goodness ink pen, a bulky one, true, and one with a little L.E.D. indicator light on the side, but an otherwise ordinary-looking writing instrument. But besides the usual ink cartridge, the Anoto pen contains image processing and radio broadcast circuitry designed to transmit what you write, using the Bluetooth wireless networking standard. If the pen is within 30 feet of its owner's Bluetooth-capable cell phone, handheld computer or network base station, it will automatically transmit the information.</p>
+        <p>There is another element to the Anoto (uh-NO-toe)system that enables the whole thing to work properly,and its technology that is hundreds of years old: penon paper. While the pen can write on any regular paper, it needs special paper to transform itself into a wireless communication system.</p>
+        <p>A pattern too small to be seen with the naked eye is printed on Anoto stationery. The paper looks ordinary, although with a slight gray hue. But with a magnifying glass, a tiny pattern of dots is visible. It is this pattern that the pen's camera chip picks up and processes at a rate of 100 frames per second. The pen's image processor picks up the changes inthe pattern as the pen moves across it. That enables the processor to see the direction and speed in which the pen is moving, and that lets it build an image ofw hatever letters or symbols are being written down.In that way, the handwritten notes are compiled in the pen's processor.</p>
+        <p>At that point, the image is transmitted by the pen's radio transmitter to a compatible cell phone, hand-held device or computer. The pen adheres to the Bluetooth standard, a wireless communication technology developed by a consortium including Siemens, Intel, Toshiba, Motorola and Ericsson. Bluetooth is named for a Danish king from the turn of the last millennium, Harald Bluetooth, whose reign unified Denmark and Norway, and it reflects the Bluetooth Special Interest Groups hope to unify computing and wireless telephony platforms.</p>
+        <p>Most of the wireless connections between computing devices are infrared. Such IrDA ports (named for the Infrared Data Association) are commonplace on personal digital assistants, notebook computersand printers, but Bluetooth is gaining ground. The Bluetooth group now numbers more than a thousand companies, and the technology is being built into handheld computers running Palm and Windows CE operating systems as well as cell phones.</p>
+        <p>On Sept. 18, Hewlett-Packard announced that in November it would release a Bluetooth PC card forits OmniBook and Pavilion notebooks. HP teamedwith 3Com to make the cards, which it expects to beavailable globally on Nov. 1 for $149 each. With its widespread acceptance among cell phones and a transmission range of up to 30 feet, Bluetooth has an edge over infrared devices. Another plus is that it lets devices communicate even when they are separated by objects or walls.</p>
+        <p>But it remains to be seen whether the Anoto Bluetooth pen will become a compelling accessory or merely an interesting symbol of Bluetooth technology. As with all other technologies, it is the applications that will drive the product's acceptance.</p>
+        <p>The Anoto pen's applications are all in the stationery. The patterns of tiny dots form a code that tells the pen what to do with the data it is writing. The Anoto stationery is printed with boxes for faxes or e-mail. If you jot down a note and check one of the boxes, then write the destination phone number or e-mail address, the pen will beam instructions to your cell phone to deliver the note to that number or address. If you make a to-do list for yourself on paper, the pen will beam it to your notebook PC. And if aforward-thinking e-commerce company sends you Anoto-based order forms, you can shop online with a few flicks of a pen. As Bluetooth gains ground, it is possible that the Anoto system could also be used to enter Chinese or other keyboard-unfriendly lettering into computers.</p>
+        <p>One thing is certain: if you have an Anoto in your pocket and someone asks to borrow your pen, makesure that you have a cheap ballpoint to hand over.The price isn't set yet, but the radio pen is one writing instrument you will want to keep chained to your pocket protector.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

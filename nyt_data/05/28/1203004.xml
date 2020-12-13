@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Signature Scoops</title>
+    <meta content="28FLAV$01" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203004"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PULSE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Ice Cream</classifier>
+        <org class="indexing_service">Ciao Bella Gelato Co</org>
+        <person class="indexing_service">Holmes, Anna</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ice Cream</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ice</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000528T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04E0D9133DF93BA15756C0A9669C8B63" item-length="195" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Signature Scoops</hl1>
+      </hedline>
+      <byline class="print_byline">By ANNA HOLMES</byline>
+      <byline class="normalized_byline">Holmes, Anna</byline>
+      <abstract>
+        <p>Ciao Bella, ice cream maker in Irvington, NJ, will create custom ice creams for individual patrons as well as restaurants; drawing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ice cream enthusiasts know Ciao Bella as the brand behind unusual ice creams like Malted Milk Ball and Pumpkin Spice gelato. But what the foodies don't know is that the New Jersey-based retailer does the majority of its business supplying chefs and caterers with specially made flavors and will create custom ice creams for individual patrons as well. ''We haven't promoted it that much,'' said Charlie Apt, co-owner of Ciao Bella. One socialite on the Upper East Side sends a chauffeur to Ciao Bella to pick up her custom grapefruit/Campari sorbet; a downtown restaurateur has a gelato made with Maker's Mark Bourbon. We requested Cosmopolitan sorbet, which tasted just like the cocktail and seemed perfect for summer entertaining (adults only, please!). Minimum purchase is five gallons ($35 a gallon). Signature ice creams can be stored until needed at Ciao Bella, at 231 40th Street in Irvington, N.J. Ciao Bella can be reached at (800) 435-2863.</p>
+        <p>ANNA HOLMES</p>
+      </block>
+      <block class="full_text">
+        <p>Ice cream enthusiasts know Ciao Bella as the brand behind unusual ice creams like Malted Milk Ball and Pumpkin Spice gelato. But what the foodies don't know is that the New Jersey-based retailer does the majority of its business supplying chefs and caterers with specially made flavors and will create custom ice creams for individual patrons as well. ''We haven't promoted it that much,'' said Charlie Apt, co-owner of Ciao Bella. One socialite on the Upper East Side sends a chauffeur to Ciao Bella to pick up her custom grapefruit/Campari sorbet; a downtown restaurateur has a gelato made with Maker's Mark Bourbon. We requested Cosmopolitan sorbet, which tasted just like the cocktail and seemed perfect for summer entertaining (adults only, please!). Minimum purchase is five gallons ($35 a gallon). Signature ice creams can be stored until needed at Ciao Bella, at 231 40th Street in Irvington, N.J. Ciao Bella can be reached at (800) 435-2863.</p>
+        <p>ANNA HOLMES</p>
+        <p>PULSE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

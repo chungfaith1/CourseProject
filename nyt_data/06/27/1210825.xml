@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Deconstructing a Chromosome</title>
+    <meta content="27NOME$01" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1210825"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="READING THE BOOK OF LIFE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="indexing_service" type="descriptor">Deoxyribonucleic Acid</classifier>
+        <classifier class="indexing_service" type="descriptor">Human Genome Project</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">DNA (Deoxyribonucleic Acid)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000627T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E2D81330F934A15755C0A9669C8B63" item-length="648" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Deconstructing a Chromosome</hl1>
+      </hedline>
+      <abstract>
+        <p>Diagrams of chromosome 22, which comprises only about 1.7 percent of DNA in human genome, but in many ways shows what it means to have sequence of entire genome</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Chromosome 22 is the second smallest of the 23 pairs of chromosomes in the nucleus of every human cell, and it comprises only about 1.7 percent of the DNA in the human genome, but in many ways it shows what it means to have the sequence of the entire human genome.</p>
+      </block>
+      <block class="full_text">
+        <p>Chromosome 22 is the second smallest of the 23 pairs of chromosomes in the nucleus of every human cell, and it comprises only about 1.7 percent of the DNA in the human genome, but in many ways it shows what it means to have the sequence of the entire human genome.</p>
+        <p>READING THE BOOK OF LIFE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

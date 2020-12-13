@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Targeting Mosquitoes</title>
+    <meta content="04BNILE" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204567"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Encephalitis</classifier>
+        <classifier class="indexing_service" type="descriptor">Mosquitoes</classifier>
+        <classifier class="indexing_service" type="descriptor">West Nile Virus</classifier>
+        <classifier class="indexing_service" type="descriptor">Pesticides</classifier>
+        <location class="indexing_service">Westchester County (NY)</location>
+        <person class="indexing_service">Lombardi, Kate Stone</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Encephalitis</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/West Nile Virus</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Encephalitis</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mosquitoes</classifier>
+        <classifier class="online_producer" type="general_descriptor">West Nile Virus</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pesticides</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Viruses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E2D8153CF937A35755C0A9669C8B63" item-length="200" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Targeting Mosquitoes</hl1>
+      </hedline>
+      <byline class="print_byline">By KATE STONE LOMBARDI</byline>
+      <byline class="normalized_byline">Lombardi, Kate Stone</byline>
+      <abstract>
+        <p>Officials in Westchester County, NY, begin comprehensive program to eradicate mosquitoes that carry West Nile Virus (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Westchester County officials have embarked on a comprehensive program to eradicate the mosquitoes that carry the West Nile virus.</p>
+        <p>''The breeding season for mosquitoes has already begun, and the disease is pretty frightening to people,'' said Dr. Joshua Lipsman, the county health commissioner. ''West Nile is a top priority.''</p>
+      </block>
+      <block class="full_text">
+        <p>Westchester County officials have embarked on a comprehensive program to eradicate the mosquitoes that carry the West Nile virus.</p>
+        <p>''The breeding season for mosquitoes has already begun, and the disease is pretty frightening to people,'' said Dr. Joshua Lipsman, the county health commissioner. ''West Nile is a top priority.''</p>
+        <p>He said he hoped to avoid aerial spraying. Instead, the Health Department is engaged in surveillance, testing, applying local treatments and educating the public about prevention.</p>
+        <p>The so-called West Nile hot line has received 1,283 reports of dead birds from around the county since the beginning of the year. More than 200 have been sent to laboratories for testing. The county is also dropping larvicide into each of its estimated 50,000 catch basins. Each application will prevent mosquito breeding for 150 days. Later in the summer, Dr. Lipsman said, the county would use pesticides.</p>
+        <p>The county is also urging the public to remove all places where standing water can collect and to learn about ways to avoid exposure to the illness. The number to call for information is 637-2420.</p>
+        <p>KATE STONE LOMBARDI</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

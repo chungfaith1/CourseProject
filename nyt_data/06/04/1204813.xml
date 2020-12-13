@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Information Gathering</title>
+    <meta content="LTR020301" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204813"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Kestelyn, Justin</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE5D91E3CF937A35755C0A9669C8B63" item-length="178" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Information Gathering</hl1>
+      </hedline>
+      <abstract>
+        <p>Intelligent Enterprises magazine editor in chief Justin Kestelyn, letter, responds to May 7 article on online advertising industry; points out most companies gather information about their customers from multiple channels and aim to retain customers, not attract new new ones (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''So Far, Big Brother Isn't Big Business'' (May 7) may be an accurate reflection of one narrow viewpoint of the online advertising industry, but it fails to see the forest for the trees.</p>
+        <p>Most companies that are seriously interested in obtaining ''business intelligence'' about their customers gather information from multiple channels -- including the Internet, offline transactions and the call center -- to retain customers, not attract new ones. Such ''longitudinal'' marketing seeks to extend the most profitable customer relationships not only through new media like personalized Web content and e-mail, but also through good old-fashioned direct mail and telemarketing.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''So Far, Big Brother Isn't Big Business'' (May 7) may be an accurate reflection of one narrow viewpoint of the online advertising industry, but it fails to see the forest for the trees.</p>
+        <p>Most companies that are seriously interested in obtaining ''business intelligence'' about their customers gather information from multiple channels -- including the Internet, offline transactions and the call center -- to retain customers, not attract new ones. Such ''longitudinal'' marketing seeks to extend the most profitable customer relationships not only through new media like personalized Web content and e-mail, but also through good old-fashioned direct mail and telemarketing.</p>
+        <p>Measuring the results of such targeted data analysis is a challenge, simply because building a comprehensive snapshot of a customer relationship over time and multiple channels is very difficult.</p>
+        <p>But suggesting that such techniques are a disappointment overall because banner click-through is declining is a false pairing of a cause and effect.</p>
+        <p>JUSTIN KESTELYN  San Mateo, Calif., May 10</p>
+        <p>The writer is editor in chief of Intelligent Enterprise magazine.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

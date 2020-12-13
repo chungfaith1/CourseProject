@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>One Aspect Of Messages On the Internet To Be Delayed</title>
+    <meta content="19ONLI$01" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208652"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">America Online</org>
+        <person class="indexing_service">Richtel, Matt</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE5D91431F93AA25755C0A9669C8B63" item-length="1102" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>One Aspect Of Messages On the Internet To Be Delayed</hl1>
+      </hedline>
+      <byline class="print_byline">By MATT RICHTEL</byline>
+      <byline class="normalized_byline">Richtel, Matt</byline>
+      <abstract>
+        <p>Instant-messaging, popular Internet service that lets users send messages that quickly pop up on recipient's screen, remains mired in technical and political snags; competitors are increasingly hostile to standards proposed by dominant player, America Online, to let users of competing services send messages to each other; charge AOL stalls on interoperability (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Despite the explosive popularity of instant-messaging programs on the Internet, it became apparent last week that one facet of the service may not be instant at all: it may be a year or more before users of competing instant-message services can send missives to one another.</p>
+        <p>Despite more than a year of wrangling between America Online, the industry leader by far, and its competitors, the fate of this service, which permits users to send messages over the Internet that quickly pop up on a recipient's screen, remains mired in technical and political snags.</p>
+      </block>
+      <block class="full_text">
+        <p>Despite the explosive popularity of instant-messaging programs on the Internet, it became apparent last week that one facet of the service may not be instant at all: it may be a year or more before users of competing instant-message services can send missives to one another.</p>
+        <p>Despite more than a year of wrangling between America Online, the industry leader by far, and its competitors, the fate of this service, which permits users to send messages over the Internet that quickly pop up on a recipient's screen, remains mired in technical and political snags.</p>
+        <p>Last Thursday was the deadline for proposals to an industry committee charged with creating standards to permit instant messages to be sent among users of the dozen or so competing programs. Six proposals came in. But the one that carried the most immediate weight was from AOL, which controls roughly 90 percent of the instant-messaging traffic and which has stymied efforts of competitors seeking to communicate with its 90 million instant-messaging users.</p>
+        <p>Given the growing popularity of instant messaging, which now has between 100 million and 120 million users all told, the stakes are profound for consumers and businesses.</p>
+        <p>The competitors have asked the federal government to look into AOL's dominant market position in instant messaging as part of its review of the company's proposed merger with Time Warner.</p>
+        <p>Some industry observers say that the current situation, in which there is no interoperability, could be compared to a telephone system in which different services, like Sprint and AT&amp;T, were unable to place telephone calls to on another.</p>
+        <p>Meanwhile, the initial reaction from competitors to AOL's proposal submitted Thursday was cautious skepticism, but in the days following it has become more hostile. AOL's rivals contend that its proposal is general, providing little technical detail or time frame about how and when a standard will be achieved -- in effect, the proposal is a stall tactic.</p>
+        <p>And some proponents of interoperability say it may now be more than a year before instant message users from different services will be able to communicate if they wait for a protocol to be created.</p>
+        <p>The submission, ''is very high-level and esoteric,'' said Ross Bagully, chief executive of Tribal Voice Inc., an instant messaging service based in Denver. ''There is no hard time frame of what AOL will do and when,'' he said, adding, ''It could be 18 months before there is interoperability.''</p>
+        <p>The standards were proposed to the Internet Engineering Task Force, a group in which participation is voluntary and findings are nonbinding. V. J. Saraswat, co-chairman of the instant messaging committee, said AOL's 18-page submission is a ''document of value'' that requires serious analysis. But he conceded that the deadline was for specific technical protocols, while AOL only sent in a framework for creating protocols.</p>
+        <p>For its part, AOL said it published issues that it says must be addressed as part of any solution that will let hundreds of millions of Internet users send instantaneous messages. Among its concerns, AOL says it wants to safeguard security for its users by, for example, ensuring ways they can block messages from senders they deem undesirable.</p>
+        <p>''We are absolutely sincere'' about achieving interoperability, said Tricia Primrose, an AOL spokeswoman. She said that the document submitted Thursday was ''a significant first step toward developing detailed protocols.''</p>
+        <p>If this debate sounds familiar -- with AOL saying privacy and security must be guarded, and competitors saying AOL is stalling to prevent true interoperability -- that is because it has raged for more than a year. Last summer, AOL was battling with competitors, including Microsoft, which used technical loopholes to contact AOL instant messaging users, causing AOL to accuse competitors of hacking into its system and to continually patch those holes.</p>
+        <p>The back-and-forth has been a theme during the year. In fact, Odigo, a New York-based messaging service with 800,000 members, said that seven times this year it had found a way to direct messages from its users to AOL users, but that each time it had been blocked, including twice in the last week.</p>
+        <p>Now the debate has taken on newfound impetus in light of AOL's proposed merger with Time Warner. Competitors, including Tribal Voice, have asked for an investigation from federal regulators.</p>
+        <p>The stakes are political, but they also touch a growing number of users, both individual and corporate. Forrester Research, a market research group in Cambridge, Mass., reports that 36 percent of Fortune 1000 companies use instant messaging, known in the industry as ''IM,'' and project the number will grow to 46 percent by the end of 2001.</p>
+        <p>Navi Radjou, an analyst with electronic business applications for Forrester, said the debate is taking on newfound significance because of the business users, noting that ''the next battleground in the IM space is the corporate world.''</p>
+        <p>Mr. Radjou said that, even under an optimistic scenario, it will be March or April of next year before there are protocol standards to permit interoperability. This analysis was echoed by Mr. Saraswat, from the task force, who projected it will take six months to a year for his group to come up with a protocol gleaned from the various proposals, including submissions from a group at Fujitsu and one from a group at the Massachusetts Institute of Technology.</p>
+        <p>But Mr. Bagully, from Tribal Voice, said that if the industry truly was committed to reaching interoperability, it could do so ''in a couple of months.'' And, in fact, he said a number of AOL's top competitors are in discussions to open their own systems to one another, which, he said the group could do ''in a heartbeat'' if everyone was committed.</p>
+        <p>Indeed, people within the industry said that if AOL or other companies were willing to embrace a temporary solution, they could enable messages to be sent to one another in a matter of weeks.</p>
+        <p>Avner Ronen, chief executive of Odigo, said simple interoperability could be achieved almost immediately, but creating fully functional systems could take a year or more.</p>
+        <p>Among the questions that would have to be answered are not just the technical specifications of how to enable communication, but also the privacy and security safeguards the industry decides are necessary.</p>
+        <p>''It requires the cooperation of all companies,'' Mr. Ronen said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

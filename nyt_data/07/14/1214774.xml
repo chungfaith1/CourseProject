@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tests Rule Out Some Causes in Brooklyn Blast</title>
+    <meta content="14BLAS" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1214774"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Gas (Fuel)</classifier>
+        <classifier class="indexing_service" type="descriptor">Explosions</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Barstow, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Explosions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000714T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E2D6163BF937A25754C0A9669C8B63" item-length="455" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tests Rule Out Some Causes in Brooklyn Blast</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID BARSTOW</byline>
+      <byline class="normalized_byline">Barstow, David</byline>
+      <abstract>
+        <p>Primary natural gas lines leading into two Brooklyn town houses destroyed in an explosion on July 11 undergo pressure tests without leaking; investigators will now focus on gas meters and several gas appliances recovered from the rubble of the town houses (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The primary natural gas lines leading into two Brooklyn town houses destroyed Tuesday in an explosion did not leak during pressure tests yesterday, several officials involved in the investigation said.</p>
+        <p>The tests undercut a potential explanation for the explosion -- that a leaking service line might have saturated one of the buildings with gas, creating conditions under which the smallest spark could have touched off a massive explosion.</p>
+      </block>
+      <block class="full_text">
+        <p>The primary natural gas lines leading into two Brooklyn town houses destroyed Tuesday in an explosion did not leak during pressure tests yesterday, several officials involved in the investigation said.</p>
+        <p>The tests undercut a potential explanation for the explosion -- that a leaking service line might have saturated one of the buildings with gas, creating conditions under which the smallest spark could have touched off a massive explosion.</p>
+        <p>''This is a huge weight off of the company's back,'' said an employee of KeySpan Energy Corporation, the utility company that supplies the neighborhood, Boerum Hill, with natural gas.</p>
+        <p>Investigators will continue to test the nearby service lines, but based on yesterday's results, they will focus on the gas meters and several gas appliances recovered from the rubble of the town houses in Boerum Hill. Yesterday afternoon, workers carted off a water heater, a boiler and a stove -- all heavily damaged -- for testing and inspection.</p>
+        <p>The blast killed Leonard and Harriet Walit, retirees who lived at 420 State Street, and their close friend, Khay Cochran, 73, who lived next door at 418 State Street. Mr. Walit and Mr. Cochran died from explosion burns and the crushing weight of debris, a spokeswoman for the New York City Medical Examiner's Office said yesterday. Mrs. Walit was crushed to death.</p>
+        <p>Neighborhood leaders said yesterday that they had canceled a block party scheduled for this Saturday. But the Kaddish, the Jewish mourning prayer, will be recited for the Walits at 6:30 p.m. today in front of their town house. Their funeral service is to be held at 9:30 a.m. on Sunday at the Garlick-Kirschenbaum Chapels at 1153 Coney Island Avenue, Brooklyn.</p>
+        <p>No funeral arrangements have been made for Mr. Cochran, but Julian Jackson, 78, his longtime companion, said Mr. Cochran will be buried in his home state of Missouri.</p>
+        <p>Investigators continue to believe that a gas leak is the most likely cause of the explosion. Fire officials said they had found no evidence to verify rumors that the Walits had recently installed a gas dryer, perhaps without using a professional plumber. No dryer was found in the debris, they said.</p>
+        <p>The Walits' boiler, however, has had a history of trouble. Robert J. Mahoney, a spokesman for KeySpan Energy, said a crew was called to 420 State Street on June 1 last year in response to a complaint that water was leaking from it. The KeySpan workers drained water from the boiler, shut off the gas and advised the Walits to have it repaired, Mr. Mahoney said.</p>
+        <p>''The fact that it has gone through 13 months and a winter would indicate that it was repaired,'' he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

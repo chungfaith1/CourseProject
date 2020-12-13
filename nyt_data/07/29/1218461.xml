@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mets Sneak Past the Cardinals</title>
+    <meta content="P29MET0AA" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1218461"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <org class="indexing_service">New York Mets</org>
+        <org class="indexing_service">St Louis Cardinals</org>
+        <person class="indexing_service">Kepner, Tyler</person>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000729T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E1DC153DF93AA15754C0A9669C8B63" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mets Sneak Past the Cardinals</hl1>
+      </hedline>
+      <abstract>
+        <p>New York Mets defeat St Louis Cardinals, 3-2; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content/>
+  </body>
+</nitf>

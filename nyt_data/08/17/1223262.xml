@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR003007" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1223262"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">Wallse (NYC Restaurant)</org>
+        <org class="indexing_service">Tantris (Munich Restaurant)</org>
+        <person class="indexing_service">Gutenbrunner, Kurt</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000817T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E4D7173EF934A2575BC0A9669C8B63" item-length="112" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Diner's Journal column on Aug 11, about Austrian chef Kurt Gutenbrunner and his new Manhattan restaurant, Wallse, misstated site of Tantris, a restaurant where he once cooked; it is in Munich, not in Vienna</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Diner's Journal column in Weekend on Aug. 11, about the Austrian chef Kurt Gutenbrunner and his new Manhattan restaurant, Wall se, misstated the site of Tantris, a restaurant where he once cooked. It is in Munich, not in Vienna.</p>
+      </block>
+      <block class="full_text">
+        <p>The Diner's Journal column in Weekend on Aug. 11, about the Austrian chef Kurt Gutenbrunner and his new Manhattan restaurant, Wall se, misstated the site of Tantris, a restaurant where he once cooked. It is in Munich, not in Vienna.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

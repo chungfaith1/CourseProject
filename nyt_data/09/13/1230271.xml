@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="13CMPBRF" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1230271"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000913T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804EED81438F930A2575AC0A9669C8B63" item-length="282" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>KANEB PIPELINE PARTNERS LP., -- Richardson, Tex., said it bought a storage terminal near Philadelphia from GATX Corp., Chicago, for an undisclosed price to expand in the eastern U.S.</p>
+        <p>ALZA CORP., -- Mountain View, Calif., said it would split its stock, giving shareholders two shares for each they own as of Nov. 1, payable Nov. 15.</p>
+      </block>
+      <block class="full_text">
+        <p>KANEB PIPELINE PARTNERS LP., -- Richardson, Tex., said it bought a storage terminal near Philadelphia from GATX Corp., Chicago, for an undisclosed price to expand in the eastern U.S.</p>
+        <p>ALZA CORP., -- Mountain View, Calif., said it would split its stock, giving shareholders two shares for each they own as of Nov. 1, payable Nov. 15.</p>
+        <p>TRANS WORLD ENTERTAINMENT CORP., -- Albany, said it would acquire Disc Jockey Music Stores from Wax Works Inc., Owensboro, Ky. Terms were not disclosed.</p>
+        <p>SPIEKER PROPERTIES INC.,  Menlo Park, Calif., will spend $142 million to build a 550,000-square-foot office tower in Bellevue, Wash.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

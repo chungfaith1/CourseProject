@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Miller on Monday</title>
+    <meta content="LTR234133" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1224166"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <person class="indexing_service">Carducci, Joseph</person>
+        <person class="indexing_service">Miller, Dennis</person>
+        <object.title class="indexing_service">Monday Night Football (Tv Program)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000820T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00EFDA103EF933A1575BC0A9669C8B63" item-length="119" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Miller on Monday</hl1>
+      </hedline>
+      <abstract>
+        <p>Joseph Carducci letter welcomes Dennis Miller's good-natured barbs as Monday Night Football announcer/</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>Like many people, I had reservations about the comedian Dennis Miller working in the broadcast booth of ''Monday Night Football.'' After all, football has gone from being a spectator sport to a national obsession, and we expect its analysis to be presented in the form of a military science.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>Like many people, I had reservations about the comedian Dennis Miller working in the broadcast booth of ''Monday Night Football.'' After all, football has gone from being a spectator sport to a national obsession, and we expect its analysis to be presented in the form of a military science.</p>
+        <p>Miller's good-natured barbs were a welcome relief to this mock seriousness, however, and his presence reminded us that any football game is still, after all, only a game.</p>
+        <p>JOSEPH CARDUCCI  Pittsburgh</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

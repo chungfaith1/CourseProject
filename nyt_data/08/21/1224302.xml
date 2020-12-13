@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Many Take, but Few Give on Gnutella</title>
+    <meta content="21SHAR" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1224302"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Gnutella (Internet Service)</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Copyrights</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings (Audio)</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">Xerox Corp</org>
+        <org class="indexing_service">Napster Inc</org>
+        <person class="indexing_service">Markoff, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Copyrights</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000821T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E2D7103EF932A1575BC0A9669C8B63" item-length="641" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Many Take, but Few Give on Gnutella</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <dateline>PALO ALTO, Calif., Aug. 16</dateline>
+      <abstract>
+        <p>Scientists at Xerox Palo Alto Research Center report that most users of Gnutella download music files without making their own files accessible to other users, not bearing out the commonly heard claim that software like Gnutella and Napster fosters communal spirit; say such 'free riding' makes for a more sluggish system that one where all users contribute equally; say it also suggests that users who provide overwhelming percentage of the files shared over Gnutella could potentially be made targets of a legal action by recording industry, which could cripple network (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Software programs like Napster and Gnutella have achieved a reputation for fostering a communal spirit of sharing among millions of music-loving computer users.</p>
+        <p>The reality may be more selfish.</p>
+      </block>
+      <block class="full_text">
+        <p>Software programs like Napster and Gnutella have achieved a reputation for fostering a communal spirit of sharing among millions of music-loving computer users.</p>
+        <p>The reality may be more selfish.</p>
+        <p>Two scientists at the Xerox Palo Alto Research Center have surveyed the behavior of anonymous music downloaders on the Internet and have found that, rather than demonstrating a ''from each, to each'' ethos, most Internet users are only taking files and not giving any back to their electronic community.</p>
+        <p>The survey of use of the Gnutella system during a 24-hour period this month was conducted by Eytan Adar and Bernardo A. Huberman. They said their research demonstrates that ''free riding'' is the most common behavior.</p>
+        <p>The result, they said, is a ''tragedy of the digital commons.''</p>
+        <p>For one thing, if only a few users are providing files, they would require inordinate bandwidth to meet all the requests, so the system would be more sluggish than one where all users contributed equally.</p>
+        <p>''Since files on Gnutella are treated like a public good and the users are not charged in proportion to their use, it appears rational for people to download music files without contributing by making their own files accessible to other users,'' they wrote. ''Because every individual can reason this way and free ride on the efforts of others, the whole system's performance can degrade considerably -- which makes everyone worse off.''</p>
+        <p>The results also indicate that Gnutella may not be immune from the legal challenges facing the Napster service. Unlike Napster, Gnutella has no single database under centralized control. But the researchers found that the core users providing music through Gnutella are a concentrated group.</p>
+        <p>''About 25 percent of the Gnutella users serve about 98 percent of the files,'' said Mr. Adar, a Xerox computer scientist who specializes in profiling the Internet. Moreover, the researchers found that 1 percent -- 314 computers -- of the users in their survey provided 40 percent of all files made available during the survey period.</p>
+        <p>Those providing music through Gnutella are identifiable to other users by their Internet protocol addresses, so the biggest providers of files could potentially be made targets of a legal action that could cripple the network.</p>
+        <p>The Xerox survey was based on the activity of 31,395 computer users who shared 3,019,405 files during a 24-hour period over a weekend earlier this month. The researchers said that there was no way to determine the precise number of Gnutella users but that  they thought they had surveyed a substantial portion of the network.</p>
+        <p>The research paper, posted on a Xerox World Wide Web site  (http://www.parc.xerox.com/istl  /groups/iea/papers/gnutella  /index.html), comes during a bitter legal fight between Napster, the most prominent music-sharing system, and the record industry, which says the system is a mass copyright infringement. A federal judge's ruling that Napster must shut down has been temporarily set aside by an appeals court.</p>
+        <p>Recording industry representatives said they were studying how to deal with the Gnutella network.</p>
+        <p>''We are basically analyzing it now,'' said Cary Sherman, senior executive vice president and general counsel for the Recording Industry Association of America.</p>
+        <p>And the behavior of the Gnutella users, the Xerox researchers said, could simply be an artifact of the way large groups function.</p>
+        <p>''It's very hard to secure voluntary cooperation in very large groups,'' said Bernardo Huberman, a physicist who is a research fellow at the Palo Alto center. ''I don't know of a single country in the world where taxation is voluntary.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

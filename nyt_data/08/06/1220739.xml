@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A National Theater Chain Adds 2 Links in New York City</title>
+    <meta content="MB050635" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="14" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1220739"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="IN BRIEF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <classifier class="indexing_service" type="descriptor">Theaters (Buildings)</classifier>
+        <org class="indexing_service">Regal Cinemas Inc</org>
+        <person class="indexing_service">Lubell, Sam</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000806T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E6DC133CF935A3575BC0A9669C8B63" item-length="120" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A National Theater Chain Adds 2 Links in New York City</hl1>
+      </hedline>
+      <byline class="print_byline">By SAM LUBELL</byline>
+      <byline class="normalized_byline">Lubell, Sam</byline>
+      <abstract>
+        <p>Regal Cinemas moves into New York with opening of theaters in Battery Park City and Brooklyn Heights; logo (New Yorkers &amp; Co column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Regal Cinemas, with more than 400 theaters in 32 states, has moved into New York, opening two theaters last month in Battery Park City in Manhattan and in  Brooklyn Heights.</p>
+        <p>The Manhattan location, at 102 North End Avenue, caters to the business people of the financial district, and to residents who have had few options in nearby movie theaters. It has 16 screens and stadium-style seating.</p>
+      </block>
+      <block class="full_text">
+        <p>Regal Cinemas, with more than 400 theaters in 32 states, has moved into New York, opening two theaters last month in Battery Park City in Manhattan and in  Brooklyn Heights.</p>
+        <p>The Manhattan location, at 102 North End Avenue, caters to the business people of the financial district, and to residents who have had few options in nearby movie theaters. It has 16 screens and stadium-style seating.</p>
+        <p>The Brooklyn Heights theater is at 108 Court Street, near Atlantic Avenue, and with 12 screens is the largest theater in the neighborhood. To fit into the neighborhood's small scale, the theater's signs are smaller than most of the chain's.</p>
+        <p>IN BRIEF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

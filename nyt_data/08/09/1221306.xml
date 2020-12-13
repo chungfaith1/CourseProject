@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>West Nile Spraying Schedule</title>
+    <meta content="9SPR" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1221306"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="UPDATE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000809T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E4DE1F3CF93AA3575BC0A9669C8B63" item-length="100" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>West Nile Spraying Schedule</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ROCKLAND COUNTY  10 p.m. tomorrow to 5 a.m. Friday  (ground spraying) Town of Clarkstown, including the village of Upper Nyack and parts of the villages of Nyack and Spring Valley.</p>
+      </block>
+      <block class="full_text">
+        <p>ROCKLAND COUNTY  10 p.m. tomorrow to 5 a.m. Friday  (ground spraying) Town of Clarkstown, including the village of Upper Nyack and parts of the villages of Nyack and Spring Valley.</p>
+        <p>FOR INFORMATION  New York City (877) 968-4692  Nassau County (516) 571-2500  Suffolk County (631) 852-4939  Rockland County (845) 364-8990  Westchester County (914) 637-2420  Connecticut (860) 424-4184  Note: Spraying schedules are subject to change in the event of rain.  (Source: Health departments)</p>
+        <p>UPDATE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

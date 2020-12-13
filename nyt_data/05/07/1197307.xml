@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Fiction</title>
+    <meta content="RV112309" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1197307"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Harrison, William (Author)</person>
+        <person class="indexing_service">Miles, Jonathan</person>
+        <object.title class="indexing_service">Blood Latitudes, The (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000507T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505EEDD1639F934A35756C0A9669C8B63" item-length="281" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Fiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Jonathan Miles</byline>
+      <byline class="normalized_byline">Miles, Jonathan</byline>
+      <abstract>
+        <p>Jonathan Miles reviews book The Blood Latitudes by William Harrison (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE BLOOD LATITUDES</p>
+        <p>By William Harrison.</p>
+        <p>MacMurray &amp; Beck, $25.</p>
+      </block>
+      <block class="full_text">
+        <p>THE BLOOD LATITUDES</p>
+        <p>By William Harrison.</p>
+        <p>MacMurray &amp; Beck, $25.</p>
+        <p>Dipping into 1994's Rwandan atrocities, Will Hobbs, the graying protagonist of this bleakly amoral and rather ugly novel (the author's fifth set in Africa), sets off on a quest to locate his missing son, a foreign correspondent -- like his father, who is now retired -- who had occupied Will's former post in Nairobi for only days before disappearing into Rwanda. Kidnapped by a rogue Hutu militia almost as soon as he enters Rwanda, Will is ferried along on a killing spree that includes the dismemberment of Tutsi children with tree pruners and culminates with an assault upon abandoned children holed up in a church. But another complication intrudes: Will has fallen for his missing son's lovely bride, Key -- and vice versa. Mulling whether or not to sleep with your missing son's wife amid the contorted horrors of genocide seems, well, sick -- but maybe that's the point. ''All the world is Africa, barbaric and primeval,'' Harrison writes, ''and what's in the blood is more savage than we can know or possibly understand, and it comes for us like a marauder, it comes through the streets for us, it finds its way into our veins and moves toward our hearts.''</p>
+        <p>Jonathan Miles</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

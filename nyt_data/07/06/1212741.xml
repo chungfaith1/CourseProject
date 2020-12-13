@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>It's a Jungle Around Here</title>
+    <meta content="06LAMP$02" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212741"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="CURRENTS: ILLUMINATION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Lamps and Lampshades</classifier>
+        <org class="indexing_service">Oriental Lamp Shade Co</org>
+        <person class="indexing_service">Louie, Elaine</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lamps and Lampshades</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lighting</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000706T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E7DA1139F935A35754C0A9669C8B63" item-length="98" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>It's a Jungle Around Here</hl1>
+      </hedline>
+      <byline class="print_byline">By Elaine Louie</byline>
+      <byline class="normalized_byline">Louie, Elaine</byline>
+      <abstract>
+        <p>Oriental Lamp Shade Co introduces line of animal-print lampshades; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It is now possible to live in a room where every surface is covered with spots. There are fake animal print sofas, rugs, pillows and, as of last month, lampshades, too. Ron Murakami, owner of two Oriental Lamp Shade Company stores in Manhattan, makes paper shades in leopard, zebra and snakeskin patterns -- it's a trend, he said. The shades, left, range in diameter from 5 inches to 18 inches ($18 to $48). Oriental Lamp Shade, 816 Lexington Avenue (62nd Street) and 223 West 79th Street.</p>
+      </block>
+      <block class="full_text">
+        <p>It is now possible to live in a room where every surface is covered with spots. There are fake animal print sofas, rugs, pillows and, as of last month, lampshades, too. Ron Murakami, owner of two Oriental Lamp Shade Company stores in Manhattan, makes paper shades in leopard, zebra and snakeskin patterns -- it's a trend, he said. The shades, left, range in diameter from 5 inches to 18 inches ($18 to $48). Oriental Lamp Shade, 816 Lexington Avenue (62nd Street) and 223 West 79th Street.</p>
+        <p>CURRENTS: ILLUMINATION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

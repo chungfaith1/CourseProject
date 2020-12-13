@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>PROFIT AT RUSSIAN METALS PRODUCER</title>
+    <meta content="MB001653" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209830"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WORLD BUSINESS BRIEFING: EUROPE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <org class="indexing_service">Norilsk Nickel</org>
+        <person class="indexing_service">Tavernise, Sabrina</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000624T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE5DD1430F937A15755C0A9669C8B63" item-length="113" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>PROFIT AT RUSSIAN METALS PRODUCER</hl1>
+      </hedline>
+      <byline class="print_byline">By Sabrina Tavernise</byline>
+      <byline class="normalized_byline">Tavernise, Sabrina</byline>
+      <abstract>
+        <p>Russian metals producer Norilsk Nickel reports better-than-expected profit of $1.2 billion for 1999 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Russian metals company Norilsk Nickel, which has been fighting a prosecutor's effort to reverse its 1995 privatization, reported a higher-than-expected profit for 1999, reflecting the effects of the ruble's devaluation on export revenue. Norilsk, a leading producer of platinum and palladium, said it earned $1.2 billion last year, beating estimates of the Moscow-based Troika Dialog brokerage of $900 million.</p>
+        <p>Sabrina Tavernise (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>The Russian metals company Norilsk Nickel, which has been fighting a prosecutor's effort to reverse its 1995 privatization, reported a higher-than-expected profit for 1999, reflecting the effects of the ruble's devaluation on export revenue. Norilsk, a leading producer of platinum and palladium, said it earned $1.2 billion last year, beating estimates of the Moscow-based Troika Dialog brokerage of $900 million.</p>
+        <p>Sabrina Tavernise (NYT)</p>
+        <p>WORLD BUSINESS BRIEFING: EUROPE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

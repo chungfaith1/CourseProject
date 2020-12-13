@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>High-Bandwidth Web Connections Will Let Passengers Surf as They Fly</title>
+    <meta content="13NEXT$03" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20000728T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1214468"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WHAT'S NEXT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Boeing Co</org>
+        <person class="indexing_service">Lawlor, Julia</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/What's Next</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000713T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEEDD1E38F930A25754C0A9669C8B63" item-length="1309" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>High-Bandwidth Web Connections Will Let Passengers Surf as They Fly</hl1>
+      </hedline>
+      <byline class="print_byline">By IAN AUSTEN</byline>
+      <abstract>
+        <p>Boeing Commercial and Information Systems is working to provide airline passengers with high-speed Internet access and expects to have it available on some domestic flights by late 2001; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MANY people have fallen for the lure of high-speed Internet access only to find it hard to get. Now Boeing is promising to make it available to people traveling 500 miles per hour at 30,000 feet.</p>
+        <p>Airplanes stopped being a refuge for business travelers when satellite telephones were installed. On many planes, passengers can make calls or send and receive e-mail messages.</p>
+      </block>
+      <block class="full_text">
+        <p>MANY people have fallen for the lure of high-speed Internet access only to find it hard to get. Now Boeing is promising to make it available to people traveling 500 miles per hour at 30,000 feet.</p>
+        <p>Airplanes stopped being a refuge for business travelers when satellite telephones were installed. On many planes, passengers can make calls or send and receive e-mail messages.</p>
+        <p>The next step, according to a partnership led by the Boeing Company, is to develop full Internet access.</p>
+        <p>''We're looking at this major piece of time that could and should be more productively used,'' said Kenneth Medlin, vice president and general manager of Boeing Commercial Information Systems, a unit of the Boeing Space and Communications Group.</p>
+        <p>This broadband access, expected to become available on some domestic flights late next year, will let people surf the Web and send e-mail messages and other files at an impressive speed: messages will be uploaded at 1.5 megabits per second -- about the same speed provided by a T-1 line, found in many offices -- and Web pages will be downloaded at 5 megabits per second, the rate of a smooth-functioning cable modem link.</p>
+        <p>Of course, in a world where maintaining a reliable link to the Internet from even a  fixed desk is sometimes a challenge, trying to do the same thing in an airplane is  particularly daunting.</p>
+        <p>Even though some planes allow passengers to make calls and send and receive e-mail, such service is spotty and slow, limited on some systems to 64 kilobits per second. The key to the increased capacity of the Boeing system is the antenna, Mr. Medlin said.</p>
+        <p>A system like this, he said, must rely on the use of satellites to relay signals. Communications satellites have large coverage areas, and transmissions from airplanes would generally be unobstructed. To achieve the speed needed for high-bandwidth connections, the Boeing system will rely on high-frequency satellites, which are now primarily used by television networks to beam broadcasts to local stations and cable companies, as well as by telephone companies for moving large numbers of long-distance calls.</p>
+        <p>But there is a catch. Satellites, unlike most ground-based radio systems, can send and receive signals only through relatively narrow, focused radio waves.</p>
+        <p>To make things simple for customers on the ground, most communications satellites are placed in geostationary orbits. That is, they match Earth's rotation, so they stay above the same spot. Because of that, ground-based satellite users aim their dishes at a single, fixed point in the sky.</p>
+        <p>Airliners, of course, are anything but stationary, so a geostationary satellite becomes a moving target. Space shuttles avoid the problem by communicating with ground-based satellite dishes that move mechanically to follow their flight. But designing a conventional dish that is light enough to install on aircraft but can respond to every twist and turn is impractical.</p>
+        <p>Instead Boeing and its partners are using an antenna technology that can electronically steer its radio beams. Called the Connexion system, it has 1,000 small antenna modules, each shaped more like a jumbo pizza box than an antenna dish, are joined into a single grid. Boeing began developing these phased-array antennas 16 years ago.</p>
+        <p>A computer on the aircraft directs the beam by altering the synchronization of the individual radio waves generated by the antenna modules. The signals from the individual modules ultimately combine into a single beam in much the same way that a pianist combines several notes to create a chord. The antenna's computer alters the beam's direction by changing the pattern that joins the signals into the final beam.</p>
+        <p>The antenna computer's work does not stop there. Just as a cell phone switches from one transmitter's territory to another's, the antenna computer must be able to jump from one satellite to another as the aircraft moves. A link between the system and the aircraft's flight control systems allows it to monitor the airplane's motion, adjusting the signal to compensate for turns and altitude changes.</p>
+        <p>A prototype of the Connexion system is being tested, and the final version is expected to consist of two phase-array antennas, each about 18 inches long, 15 inches wide and 2 1/2 inches thick, on the top of the fuselage. One is for receiving, the other for transmitting. A cable connects the antenna to the computer inside the aircraft, and the computer is linked to a conventional Web and e-mail server.</p>
+        <p>All of that will be invisible to passengers. What they will see, Mr. Medlin said, are two jacks on back of the seat in front of them. One will be for users with conventional modems in their laptop computers. Their Web surfing will be limited to the maximum speeds of their modems. The other jack will be a standard Ethernet connection, like those commonly found in offices. People with Ethernet cards will be able to plug in to those jacks to get the system's full high-speed experience.</p>
+        <p>Such service is likely to cost $20 to $25 per hour, Mr. Medlin said, but Boeing and its partners -- Loral Space and Communications, Mitsubishi and Finmeccanica -- must still work out details with airlines. Some services, like online duty-free shopping, travel information and live television programs, will probably be offered at no charge, Mr. Medlin said. CNN Inflight Services and CNBC are also expected to provide news programs.</p>
+        <p>Before service begins, Boeing would have to show the Federal Aviation Administration that the system would not interfere with the aircraft's communications and electronic operations. The system is designed for installation on all major airliners, including those made by Airbus Industrie, Boeing's rival.</p>
+        <p>While Mr. Medlin expects service to begin in the United States late next year, the rest of the world will have to wait a bit longer. That is because there are few television viewers -- and therefore few geostationary satellites -- in the middle of the oceans. Mr. Medlin said Loral was developing satellites that would be able to deflect a portion of their signals into regions not served by high-frequency satellites.</p>
+        <p>Boeing will not be alone. Inmarsat, a satellite operator in London that said it provides phone service in 78 percent of the world's long-haul airliners, is developing a system that would be based on a new generation of satellites. Until that system becomes available in 2004, Inmarsat plans to offer a service beginning next year that allows Web browsing and e-mail exchanges at 64 kilobits per second, slightly faster than the best dial-in modems.</p>
+        <p>And some airlines are looking at systems that at least simulate the experience of on-board e-mail by gathering messages in an on-board server, which then downloads the messages and sends them on after the plane lands.</p>
+        <p>What about those business travelers who view airplanes as a place to rest rather than as a flying office? Mr. Medlin insisted that high-bandwidth connections will make their lives even better.</p>
+        <p>When he returns from a long flight, Mr. Medlin said, the first thing he does is go to a home office to exchange e-mail messages with his office. But once he is able to do that while flying, he said, he will be able to devote that time to his family.</p>
+        <p>''This really gives people back time,'' Mr. Medlin said. ''I would rather have my leisure time when I want it, rather than have it forced into two or three hours on an airplane.''</p>
+        <p>WHAT'S NEXT  Correction:  July 28, 2000, Friday  An article in Circuits on July 13 about technological advances in farming misstated the altitude of Landsat satellites used to provide images of fields for monitoring crop growth. They are 437 miles above the earth, not 20,000 feet. The article also misstated the resolution of the images. Each pixel represents roughly 1,000 square yards, not 5 to 10 square yards.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: July 28, 2000, Friday</p>
+        <p>An article in Circuits on July 13 about technological advances in farming misstated the altitude of Landsat satellites used to provide images of fields for monitoring crop growth. They are 437 miles above the earth, not 20,000 feet. The article also misstated the resolution of the images. Each pixel represents roughly 1,000 square yards, not 5 to 10 square yards.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

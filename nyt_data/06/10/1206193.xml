@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR232412" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1206193"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <classifier class="indexing_service" type="descriptor">Unemployment</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">Macroeconomic Advisers</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Unemployment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000610T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01EED91F3FF933A25755C0A9669C8B63" item-length="144" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of June 3 article on employment figures, which misstated period for a forecast of economic growth made by Macroeconomic Advisers and the recency of the forecast; June 5 correction omitted a clarification of the recency</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A front-page article last Saturday  about the Labor Department's employment report for May misstated the period for a forecast of economic growth made by Macroeconomic Advisers, a consulting firm in St. Louis, and misstated the recency of the forecast. And a correction in this space on Tuesday omitted a clarification of the recency. The firm predicted a decline in growth from 4.5 percent in the second quarter to around 3 percent in the second half of the year, not the second quarter. The forecast was the firm's existing one -- not revised as a result of May's employment data.</p>
+      </block>
+      <block class="full_text">
+        <p>A front-page article last Saturday  about the Labor Department's employment report for May misstated the period for a forecast of economic growth made by Macroeconomic Advisers, a consulting firm in St. Louis, and misstated the recency of the forecast. And a correction in this space on Tuesday omitted a clarification of the recency. The firm predicted a decline in growth from 4.5 percent in the second quarter to around 3 percent in the second half of the year, not the second quarter. The forecast was the firm's existing one -- not revised as a result of May's employment data.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

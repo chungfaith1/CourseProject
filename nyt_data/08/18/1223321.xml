@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DINER'S JOURNAL</title>
+    <meta content="18JOUR$02" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="39" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/08/18/arts/18JOUR.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1223321"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Oliva (NYC Restaurant)</org>
+        <person class="indexing_service">Grimes, William</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Diner's Journal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000818T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05EED6173EF93BA2575BC0A9669C8B63" item-length="376" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DINER'S JOURNAL</hl1>
+      </hedline>
+      <byline class="print_byline">By William Grimes</byline>
+      <byline class="normalized_byline">Grimes, William</byline>
+      <abstract>
+        <p>William Grimes Diner's Journal review of Oliva restaurant on Manhattan's Lower East Side; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It took Frank O. Gehry's Guggenheim to put the Basque region on the map. The building is so famous that visitors no doubt find it surprising to discover that, in addition to a building, the Basques have a distinctive cuisine. It finds an appropriately small home in Oliva, a corner restaurant with a handful of tables, a rough and ready decor and a nifty bone-colored menu imprinted with a giant letter O surrounding a plump, perfect olive.</p>
+        <p>Oliva is cramped, but the corner location offers prime people-watching.</p>
+      </block>
+      <block class="full_text">
+        <p>It took Frank O. Gehry's Guggenheim to put the Basque region on the map. The building is so famous that visitors no doubt find it surprising to discover that, in addition to a building, the Basques have a distinctive cuisine. It finds an appropriately small home in Oliva, a corner restaurant with a handful of tables, a rough and ready decor and a nifty bone-colored menu imprinted with a giant letter O surrounding a plump, perfect olive.</p>
+        <p>Oliva is cramped, but the corner location offers prime people-watching.</p>
+        <p>It's an interesting crowd that cruises by on this part of Houston Street. And a lot of the passers-by stop to stick a nose into the restaurant, sniffing just the right blend of hipness and culinary ambition. Basque is just obscure enough to make it count on the Lower East Side.</p>
+        <p>The menu sticks to fairly traditional dishes, with appetizers like garlic shrimp sizzled on a hot steel grill, bright red piquillo peppers stuffed with cod puree and covered in a sauce basquaise, and clams piperrada, which does not refer to the region's famous piperade sauce but to the accompanying peppers in the sauce of chorizo and white beans.</p>
+        <p>One way to tour the menu is to order a pintxos plate, a sampler of five appetizers served in the bite-size portions referred to as pintxos (PEEN-chohs) in tapas bars.</p>
+        <p>Merluza, or hake, the fish of fishes in Spain, is served San Sebastian style, in a salsa verde made with Txakoli, a local white wine, and firmed up with clams and navy beans. The entree list includes grilled duck with black cherries and chickpea ravioli; scallops with squid-ink fettuccine, cepes and vanilla sauce; and filet mignon in a Spanish brandy and green peppercorn sauce.</p>
+        <p>Think of the menu as an elaborate prelude to the dense, creamy flan, surrounded by very sweet cherries in a runny compote.</p>
+        <p>Oliva, 161 East Houston Street, at Allen Street, Lower East Side; (212) 228-4143. Dinner entrees, $14 to $20.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

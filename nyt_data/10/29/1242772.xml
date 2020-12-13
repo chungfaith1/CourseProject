@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>One That Wasted Away</title>
+    <meta content="29FISH" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1242772"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PULSE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Toys</classifier>
+        <classifier class="indexing_service" type="descriptor">Halloween</classifier>
+        <person class="indexing_service">Decaro, Frank</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Halloween</classifier>
+        <classifier class="online_producer" type="general_descriptor">Toys</classifier>
+        <classifier class="online_producer" type="general_descriptor">Holidays and Special Occasions</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001029T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504EEDF1131F93AA15753C1A9669C8B63" item-length="64" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>One That Wasted Away</hl1>
+      </hedline>
+      <byline class="print_byline">By Frank DeCaro</byline>
+      <byline class="normalized_byline">Decaro, Frank</byline>
+      <abstract>
+        <p>Billy Bones, skeletal version of Billy the Bass animated fish trophy, noted; photo (Pulse column: Halloween Special) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Billy the Bass, the animated fish trophy that sings ''Don't Worry, Be Happy'' at the touch of a button, has spawned a Halloween cousin.</p>
+      </block>
+      <block class="full_text">
+        <p>Billy the Bass, the animated fish trophy that sings ''Don't Worry, Be Happy'' at the touch of a button, has spawned a Halloween cousin.</p>
+        <p>Billy Bones, a skeletal version of the popular novelty item, sings George Thorogood's ''Bad to the Bone.'' Catch it for about $20 in the seasonal sections of department stores.</p>
+        <p>PULSE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

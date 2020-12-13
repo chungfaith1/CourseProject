@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A New Patron Saint Of Book Publishing</title>
+    <meta content="17AOL" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215630"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="MEDIA TALK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <org class="indexing_service">General Electric Co</org>
+        <org class="indexing_service">Time Warner Inc</org>
+        <person class="indexing_service">Kirkpatrick, David D</person>
+        <person class="indexing_service">Welch, John F Jr</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000717T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E5DE123BF934A25754C0A9669C8B63" item-length="404" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A New Patron Saint Of Book Publishing</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID D. KIRKPATRICK</byline>
+      <byline class="normalized_byline">Kirkpatrick, David D</byline>
+      <abstract>
+        <p>Time Warner Trade Publishing not only agreed to record advance of $7.1 million on a book from John F Welch Jr, chairman of General Electric, it also promised a record-breaking marketing campaign, capitalizing heavily on its ties to Time Warner's Internet, broadcasting and magazine businesses; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Last week, Time Warner Trade Publishing acquired a book proposal by John F. Welch Jr., the chairman of General Electric and one of the most widely admired businessmen, for a record advance of $7.1 million. That, however, is just the beginning of what the publisher offered. It also promised a record-breaking marketing campaign, capitalizing heavily on its ties to Time Warner's Internet, broadcasting and magazine businesses.</p>
+        <p>''This goes way beyond anything that we have ever done before,'' said Laurence Kirshbaum, chairman of Time Warner Trade Publishing and himself an avid fan of Mr. Welch. Fifteen executives spent a full day preparing a 10-page, single-spaced marketing plan to show Mr. Welch. About a third of it was devoted to the Internet.</p>
+      </block>
+      <block class="full_text">
+        <p>Last week, Time Warner Trade Publishing acquired a book proposal by John F. Welch Jr., the chairman of General Electric and one of the most widely admired businessmen, for a record advance of $7.1 million. That, however, is just the beginning of what the publisher offered. It also promised a record-breaking marketing campaign, capitalizing heavily on its ties to Time Warner's Internet, broadcasting and magazine businesses.</p>
+        <p>''This goes way beyond anything that we have ever done before,'' said Laurence Kirshbaum, chairman of Time Warner Trade Publishing and himself an avid fan of Mr. Welch. Fifteen executives spent a full day preparing a 10-page, single-spaced marketing plan to show Mr. Welch. About a third of it was devoted to the Internet.</p>
+        <p>Time Warner plans an onslaught of online promotion, including advertisements on America Online Inc., which is acquiring Time Warner, but extending far beyond just AOL. The Internet allows narrow focusing of advertising, which is well suited to the modest size of the book market, Mr. Kirshbaum said, and Time Warner knows books like Mr. Welch's sell fast online -- William H. Gates's recent book became a best seller on Amazon.com the day it appeared. Time Warner also plans special promotional campaigns to sell electronic versions online and ads on Web sites aimed at human resources managers.</p>
+        <p>Mr. Kirshbaum has big plans to take advantage of his parent company's other media outlets, too. He envisions Mr. Welch filming a half-hour segment in CNN's studios for broadcast over the Web and over in-store TV networks proliferating at bookstore chains and other stores.</p>
+        <p>Time Warner's magazine distribution sales force will help stock copies of the book in nontraditional outlets like Home Depot and push for premier placement near the front of the stores. Time Warner magazines like Fortune may also help promote Mr. Welch's book by holding conferences and seminars featuring Mr. Welch.</p>
+        <p>''Jack Welch is our patron saint,'' Mr. Kirshbaum said confidently.</p>
+        <p>DAVID D. KIRKPATRICK</p>
+        <p>MEDIA TALK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

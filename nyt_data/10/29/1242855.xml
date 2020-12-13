@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Art of Books</title>
+    <meta content="MB135320" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1242855"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="JERSEY FOOTLIGHTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Graphic Arts</classifier>
+        <org class="indexing_service">Rutgers, the State University</org>
+        <person class="indexing_service">Nash, Margo</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001029T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E1D71E31F93AA15753C1A9669C8B63" item-length="138" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Art of Books</hl1>
+      </hedline>
+      <byline class="print_byline">By Margo Nash</byline>
+      <byline class="normalized_byline">Nash, Margo</byline>
+      <abstract>
+        <p>Sixth annual Book Arts Symposium is scheduled at Rutgers University-Newark's John Cotton Dana Library (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The term ''Book Arts'' can mean fine papers, calligraphy, bindings and prints. It can also mean works of art that play with the book form.</p>
+        <p>''I think we in the New Jersey book arts have taken a very broad  definition that covers both,'' said Lynn Mullins, director of the John Cotton Dana Library at Rutgers University-Newark, which will be holding its sixth annual Book Arts Symposium on Friday.</p>
+      </block>
+      <block class="full_text">
+        <p>The term ''Book Arts'' can mean fine papers, calligraphy, bindings and prints. It can also mean works of art that play with the book form.</p>
+        <p>''I think we in the New Jersey book arts have taken a very broad  definition that covers both,'' said Lynn Mullins, director of the John Cotton Dana Library at Rutgers University-Newark, which will be holding its sixth annual Book Arts Symposium on Friday.</p>
+        <p>The symposium, which runs from 8:30 a.m. to 4:30 p.m., will include hands-on workshops, exhibitions and talks by New Jersey book artists. Among the presenters will be  Clare Romano, the printmaker who with John Ross wrote the definitive text, ''The Complete Printmaker.''  Registration is $25. Information: (973) 353-5222.</p>
+        <p>Margo Nash</p>
+        <p>JERSEY FOOTLIGHTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

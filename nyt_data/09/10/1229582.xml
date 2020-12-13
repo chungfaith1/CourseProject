@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Don't Tell Moynihan</title>
+    <meta content="LTR090311" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1229582"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <person class="indexing_service">Moynihan, Daniel Patrick (Sen)</person>
+        <person class="indexing_service">Moulson, Tom</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000910T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE6DA1230F933A2575AC0A9669C8B63" item-length="62" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Don't Tell Moynihan</hl1>
+      </hedline>
+      <abstract>
+        <p>Tom Moulson letter on August 13 article about Sen Daniel Patrick Moynihan notes Tio Pepe dry sherry is from Jerez, Spain (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Senator Daniel Patrick Moynihan will no doubt be dismayed to learn that his staff says he is ''with the Mexican ambassador'' (Aug. 13) while he's drinking his favorite Tio Pepe dry sherry. He would surely expect them to know it comes from Jerez in Spain.</p>
+        <p>Tom Moulson  Corona del Mar, Calif.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Senator Daniel Patrick Moynihan will no doubt be dismayed to learn that his staff says he is ''with the Mexican ambassador'' (Aug. 13) while he's drinking his favorite Tio Pepe dry sherry. He would surely expect them to know it comes from Jerez in Spain.</p>
+        <p>Tom Moulson  Corona del Mar, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

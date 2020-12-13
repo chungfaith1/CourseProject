@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Children's Books</title>
+    <meta content="RV110501" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="33" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1231027"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Groban, Betsy</person>
+        <person class="indexing_service">Spinelli, Jerry</person>
+        <object.title class="indexing_service">Stargirl (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Columns/Children's Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000917T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E7DA1339F934A2575AC0A9669C8B63" item-length="423" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Children's Books</hl1>
+      </hedline>
+      <byline class="print_byline">By Betsy Groban</byline>
+      <byline class="normalized_byline">Groban, Betsy</byline>
+      <abstract>
+        <p>Betsy Groban reviews book Stargirl by Jerry Spinelli (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>STARGIRL</p>
+        <p>By Jerry Spinelli.</p>
+        <p>Knopf, $15.95.</p>
+        <p>(Ages 12 and up)</p>
+      </block>
+      <block class="full_text">
+        <p>STARGIRL</p>
+        <p>By Jerry Spinelli.</p>
+        <p>Knopf, $15.95.</p>
+        <p>(Ages 12 and up)</p>
+        <p>The arrival of the previously home-schooled Stargirl hits Mica Area High School in Arizona like a meteor. It's not just her appearance -- hippie clothes, no makeup -- it's her unusual behavior. She strums a ukulele, carries a pet rat in her tote bag, serenades fellow students in the cafeteria and leaves cards and gifts for people she doesn't know.</p>
+        <p>Leo Borlock, a sensitive 16-year-old, is drawn to her immediately, finding her ''elusive,'' ''the faintest scent of a cactus flower, the flitting shadow of an elf owl.'' Soon Stargirl has worked her magic on the entire school, turning the students into ''mud frogs, awakening all around.'' Her presence makes Leo in particular feel ''lighter, unshackled, as if something I had been carrying had fallen away.''</p>
+        <p>But in Stargirl's charms lie the seeds of her own destruction. She becomes a cheerleader (good move) but commits the fatal error of caring equally about the welfare of the opposing team. It's all downhill from then on: both Stargirl and Leo are shunned. Stargirl claims not to notice or care, but Leo is torn between his growing love for her and his need for acceptance by his peers. Despite his sense that she is ''in touch with something that the rest of us are missing,'' Leo cannot bear the taint of associating with an unpopular person and drops her.</p>
+        <p>Soon Stargirl vanishes from Mica without a trace, leaving Leo and the rest of the school an unforgettable legacy of selfless caring and true individuality. ''She taught me to revel,'' Leo says. ''She taught me to wonder. She taught me to laugh.'' His life goes on, but even as an adult he is eternally hopeful that Stargirl will return and give him a second chance. ''The echo of her laughter,'' he admits, ''is the second sunrise I awaken to each day.'' Jerry Spinelli, an author already much acclaimed (his ''Maniac Magee'' won the Newbery Medal in 1991), has produced a poetic allegorical tale about the magnificence and rarity of true nonconformity, handsomely bound by his publisher into an unusually pretty little 186-page book.</p>
+        <p>Betsy Groban</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

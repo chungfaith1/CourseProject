@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OFF THE MENU</title>
+    <meta content="20OFF.$01" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/20/living/20OFF.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1232071"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <org class="indexing_service">Eatery (NYC Restaurant)</org>
+        <org class="indexing_service">Red Square (NYC Restaurant)</org>
+        <org class="indexing_service">Po (NYC Restaurant)</org>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <person class="indexing_service">Batali, Mario</person>
+        <person class="indexing_service">Crane, Steven</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Off the Menu</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000920T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E4DA143BF933A1575AC0A9669C8B63" item-length="323" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OFF THE MENU</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>Eatery on Ninth Ave and 53d St offers American menu; Red Square, Russian-themed bar and restaurant, will open at 68 West 58th St; Mario Batali sells his interest in Po, his original restaurant on Cornelia St, to his partner, Steven Crane (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Accents From All Over</p>
+        <p>A downtown, almost industrial spareness distinguishes the new Eatery, 798 Ninth Avenue (53rd Street), and it features an American menu that is nonetheless touched by virtually every cuisine on the planet. It includes crisp wild mushroom pirogi, seafood salad with lemon-ginger dressing, jerk chicken and Mac and Jack (macaroni and cheese made with Monterey Jack). The chef, Mario J. Arnero, was previously at Park View at the Boathouse, in Central Park.</p>
+      </block>
+      <block class="full_text">
+        <p>Accents From All Over</p>
+        <p>A downtown, almost industrial spareness distinguishes the new Eatery, 798 Ninth Avenue (53rd Street), and it features an American menu that is nonetheless touched by virtually every cuisine on the planet. It includes crisp wild mushroom pirogi, seafood salad with lemon-ginger dressing, jerk chicken and Mac and Jack (macaroni and cheese made with Monterey Jack). The chef, Mario J. Arnero, was previously at Park View at the Boathouse, in Central Park.</p>
+        <p>Dial W for Wodka</p>
+        <p>Red Square, a Russian-themed bar and restaurant owned by Jeffrey Chodorow that originated in Miami Beach and has a branch in Las Vegas, will be moving into 68 West 58th Street in November. The top of the bar will be made of carved ice to hold vodka bottles -- so watch those elbows.</p>
+        <p>Chefs on the Move</p>
+        <p>The peripatetic Sandro Fioriti has settled in at Sandro's, 200 Ninth Avenue (23rd Street), the old Siena.</p>
+        <p>Mario Batali has sold his interest in Po, his original restaurant on Cornelia Street, to his partner, Steven Crane.</p>
+        <p>John Villa, who had been at Park View at the Boathouse, is scheduled to open Pico in late October in a landmark building at 349 Greenwich Street (Jay Street) in TriBeCa. The restaurant will have a Portuguese-influenced menu.</p>
+        <p>Paul Liebrandt has come to his new job as executive chef at Atlas on Central Park South from Bouley Bakery and, before that, from London (Restaurant Marco Pierre White and Pied-a-Terre).</p>
+        <p>Remy Lauvand has left Montrachet. The new chef is Harold Moore, who has worked with Daniel Boulud and Jean-Georges Vongerichten.</p>
+        <p>Evolution-in-Place</p>
+        <p>The identity crisis at 230 West Fourth Street (West 10th Street) continues. What was Joe's, then Formerly Joe's, then Joe's Again, then Chow Bar and Grill is now Chow Bar. The menu, by Peter Klein, the chef and a new part-owner, is Asian-inspired.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

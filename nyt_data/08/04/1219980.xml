@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>$45 Million Grant Awarded to Buy Supercomputer</title>
+    <meta content="Y04COM$02" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/08/04/business/04COMP.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1219980"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Supercomputers</classifier>
+        <org class="indexing_service">National Science Foundation</org>
+        <org class="indexing_service">Pittsburgh Supercomputing Center</org>
+        <person class="indexing_service">Markoff, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000804T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E1DE143CF937A3575BC0A9669C8B63" item-length="467" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>$45 Million Grant Awarded to Buy Supercomputer</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <abstract>
+        <p>National Science Foundation makes $45 million grant to Pittsburgh Supercomputing Center to buy from Compaq what manufacturer says will be world's fastest nonmilitary supercomputer when installed in 2001 (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The National Science Foundation announced yesterday that it had made a $45 million award to the Pittsburgh Supercomputing Center to buy from Compaq what the computer maker says will be the world's fastest nonmilitary supercomputer when it is installed next year.</p>
+        <p>The award, which was announced yesterday in Washington after the foundation reviewed proposals from five scientific centers, is intended to reinvigorate the nation's civilian computational science resources, which have increasingly fallen behind the resources available to the military in recent years.</p>
+      </block>
+      <block class="full_text">
+        <p>The National Science Foundation announced yesterday that it had made a $45 million award to the Pittsburgh Supercomputing Center to buy from Compaq what the computer maker says will be the world's fastest nonmilitary supercomputer when it is installed next year.</p>
+        <p>The award, which was announced yesterday in Washington after the foundation reviewed proposals from five scientific centers, is intended to reinvigorate the nation's civilian computational science resources, which have increasingly fallen behind the resources available to the military in recent years.</p>
+        <p>''The general perception is that we're under-resourced when compared to the military programs,'' said Robert Borchers, division director of the advanced computational infrastructure and research division of the National Science Foundation.</p>
+        <p>The military has been spending heavily on supercomputing as part of the Advanced Strategic Computing Initiative, which is intended to ensure that the nation's nuclear weapons stockpile maintains its effectiveness under the nuclear testing treaty that bans weapons testing.</p>
+        <p>The announcement is likely to shake up the supercomputer industry. The other two major competitors were machines designed by I.B.M. and Intel, which have recently been the most powerful forces in the supercomputer industry. Now, however, Compaq may emerge as a third force in the competition.</p>
+        <p>The foundation's award is also a boost for the Pittsburgh Supercomputer Center, which has been in jeopardy since March of 1997 when the foundation announced it planned to cut in half the number of supercomputer centers it finances -- to two from four.</p>
+        <p>The remaining two centers are the National Center for Supercomputer Applications at the University of Illinois at Urbana-Champaign and the San Diego Supercomputer Center at the University of California at San Diego.</p>
+        <p>The Pittsburgh supercomputer will be designed and built by the Compaq Computer Corporation, and the new machine will have a peak performance of about six trillion mathematical operations a second -- or six teraflops -- when it is completely installed, some time in the second half of next year.</p>
+        <p>The most powerful military supercomputer is a 12-teraflop supercomputer called ASCI White, which is being installed at Lawrence Livermore National Laboratory in Livermore, Calif. The machine will cost $110 million, take up two basketball courts worth of floor space and weigh 106 tons.</p>
+        <p>The Compaq computer will be based on 2.728 Alpha processors, which will be organized into 682 separate nodes and will cost about $36 million.</p>
+        <p>The new computer will be shared by different scientific disciplines, including materials science and climate modeling. Because the new machine will have six times the power of the current fastest nonmilitary computer, Mr. Borchers said it was possible that it would be able to do fundamentally new science.</p>
+        <p>''I suspect in the areas of materials and biological science it will be possible to make significant advances,'' he said.</p>
+        <p>TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>F.C.C. Approves Phone Deal</title>
+    <meta content="17H1PH0AA" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Front Page; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1207955"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">Regulation and Deregulation of Industry</classifier>
+        <org class="indexing_service">Bell Atlantic Corp</org>
+        <org class="indexing_service">Gte Corp</org>
+        <org class="indexing_service">Federal Communications Commission</org>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000617T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904EED81631F934A25755C0A9669C8B63" item-length="51" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>F.C.C. Approves Phone Deal</hl1>
+      </hedline>
+      <abstract>
+        <p>FCC approval of Bell Atlantic-GTE merger noted</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The F.C.C. approved the merger of Bell Atlantic and GTE, creating a company that will control a third of the nation's local telephone market and 25 million cell phones in 40 states. Page C1.</p>
+      </block>
+      <block class="full_text">
+        <p>The F.C.C. approved the merger of Bell Atlantic and GTE, creating a company that will control a third of the nation's local telephone market and 25 million cell phones in 40 states. Page C1.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

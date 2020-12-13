@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Web-Based Courier Service For Those Who Just Can't Wait</title>
+    <meta content="17GEE3$03" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1223117"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Delivery Services</classifier>
+        <org class="indexing_service">NextJet (Co)</org>
+        <person class="indexing_service">Biersdorfer, J D</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Service Industries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000817T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E1DA163EF934A2575BC0A9669C8B63" item-length="305" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Web-Based Courier Service For Those Who Just Can't Wait</hl1>
+      </hedline>
+      <byline class="print_byline">By J.D. BIERSDORFER</byline>
+      <byline class="normalized_byline">Biersdorfer, J D</byline>
+      <abstract>
+        <p>NextJet offers door-to-door delivery service using database that combines schedules of 30,000 commercial airline flights and the availability of 300 ground couriers (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In terms of speed, the New York Minute seems to have been eclipsed by Internet Time. Compared with the almost instant gratification of e-mail, waiting for an overnight courier to deliver a package can feel like waiting for a glacier to move.</p>
+        <p>NextJet, a new company based in Dallas, is aiming to fill the needs of people who need materials delivered the same day, no matter where they live in the United States.</p>
+      </block>
+      <block class="full_text">
+        <p>In terms of speed, the New York Minute seems to have been eclipsed by Internet Time. Compared with the almost instant gratification of e-mail, waiting for an overnight courier to deliver a package can feel like waiting for a glacier to move.</p>
+        <p>NextJet, a new company based in Dallas, is aiming to fill the needs of people who need materials delivered the same day, no matter where they live in the United States.</p>
+        <p>In creating a system that can get a package from Point A to Point B by the fastest means possible, NextJet has developed a custom database that combines the schedules of 30,000 commercial airline flights, along with the availability of 300 ground couriers.</p>
+        <p>To use the service, a customer can either call (888) 639-8538 or visit the company's Web site at www.nextjet.com. On the Web site, the customer can enter the recipient's and the sender's ZIP codes in a form on the page and quickly get several price quotations and estimated delivery times for door-to-door service.</p>
+        <p>To send a 10-pound package from Manhattan to Beverly Hills on a Wednesday afternoon, for example, costs about $200. The package would leave New York around 1:30 p.m. Eastern time and arrive in California about 7:10 p.m. Pacific time. Customers can track their shipments on the NextJet Web site.</p>
+        <p>To those who desperately need shipments as soon as possible, the slightly higher cost may be well worth it, in terms of both productivity and antacid tablets.</p>
+        <p>J.D. BIERSDORFER</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

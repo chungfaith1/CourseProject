@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Editors' Note</title>
+    <meta content="14EDNO" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Corrections; Editors' Notes; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1214715"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">World War II (1939-45)</classifier>
+        <org class="indexing_service">Times of London</org>
+        <person class="indexing_service">Atkins, Vera</person>
+        <classifier class="online_producer" type="types_of_material">Editors' Note</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Editors' Notes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">World War II (1939-45)</classifier>
+        <classifier class="online_producer" type="general_descriptor">War and Revolution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000714T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E1DB163BF937A25754C0A9669C8B63" item-length="166" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Editors' Note</hl1>
+      </hedline>
+      <abstract>
+        <p>Editors note: several passages in June 27 obituary of Vera Atkins should have been attributed to The Times of London</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An obituary on June 27 about Vera Atkins, who recruited and trained British secret agents sent to France in World War II, reported on her education and upbringing, the methods she used to help train the agents and her intense loyalty to them. The 1,000-word article was based substantially on The Times's research in books, but some information came as well from The Times of London and other British publications.</p>
+        <p>Five brief passages in the obituary closely reflected the phrasing of an obituary in The Times of London. These were references to Ms. Atkins's background, to her attempts to trace missing agents, to the training regimen for agents and to Ms. Atkins's retirement. Although the London paper was cited as a source for some material, those five passages should also have been attributed to it, or should have been rephrased.</p>
+      </block>
+      <block class="full_text">
+        <p>An obituary on June 27 about Vera Atkins, who recruited and trained British secret agents sent to France in World War II, reported on her education and upbringing, the methods she used to help train the agents and her intense loyalty to them. The 1,000-word article was based substantially on The Times's research in books, but some information came as well from The Times of London and other British publications.</p>
+        <p>Five brief passages in the obituary closely reflected the phrasing of an obituary in The Times of London. These were references to Ms. Atkins's background, to her attempts to trace missing agents, to the training regimen for agents and to Ms. Atkins's retirement. Although the London paper was cited as a source for some material, those five passages should also have been attributed to it, or should have been rephrased.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

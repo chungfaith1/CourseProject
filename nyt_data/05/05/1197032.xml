@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="CN223956" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1197032"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000505T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E2DD1738F936A35756C0A9669C8B63" item-length="181" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>NASHUA CORP., Nashua, N.H., an office copy and computer products company, said its shareholders had re-elected its current directors, fending off a challenge by Newcastle Partners, Dallas, an investment group holding about 2 percent of Nashua's stock.</p>
+        <p>AMERICAN TOWER CORP., Boston, an owner of broadcast and wireless-communications towers, has agreed to buy General Telecom, New York, a telephone switching company, for $30 million.</p>
+      </block>
+      <block class="full_text">
+        <p>NASHUA CORP., Nashua, N.H., an office copy and computer products company, said its shareholders had re-elected its current directors, fending off a challenge by Newcastle Partners, Dallas, an investment group holding about 2 percent of Nashua's stock.</p>
+        <p>AMERICAN TOWER CORP., Boston, an owner of broadcast and wireless-communications towers, has agreed to buy General Telecom, New York, a telephone switching company, for $30 million.</p>
+        <p>NPC INTERNATIONAL INC., Pittsburg, Kan., the largest Pizza Hut restaurant franchisee, agreed to buy 65 restaurants from Tricon Global Restaurants, Louisville, Ky., an owner of fast-food restaurants, to expand in Iowa, Illinois and Georgia. Terms were not disclosed.</p>
+        <p>CORNING INC., Corning, N.Y., plans to hire 200 more people at its Photonics Technology plant, in Erwin, N.Y., which produces optical fiber equipment.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

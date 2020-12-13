@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Wall Street Remains on a Fed Alert</title>
+    <meta content="14DBK" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1199505"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="DATABANK: MAY 8-12"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Interest Rates</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Economy</classifier>
+        <org class="indexing_service">Federal Reserve System</org>
+        <person class="indexing_service">Marino, Vivian</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000514T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E2DB123BF937A25756C0A9669C8B63" item-length="519" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Wall Street Remains on a Fed Alert</hl1>
+      </hedline>
+      <byline class="print_byline">By VIVIAN MARINO</byline>
+      <byline class="normalized_byline">Marino, Vivian</byline>
+      <abstract>
+        <p>Week's stock market performance is mixed as investors await Federal Reserve decision on interest rates; graphs of stocks in news; tables (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A dash of positive economic news and strong quarterly earnings helped pull some stocks out of the dumps, but most investors remain fixated on the Federal Reserve.</p>
+      </block>
+      <block class="full_text">
+        <p>A dash of positive economic news and strong quarterly earnings helped pull some stocks out of the dumps, but most investors remain fixated on the Federal Reserve.</p>
+        <p>We had a nice rally at the end of the week, but the volume has been very light, said Barry Berman, head trader for Robert W. Baird &amp; Company in Milwaukee. The market is really on a Fed watch.</p>
+        <p>Fed policy makers are expected to raise short-term interest rates by as much as half a percentage point when they meet on Tuesday. The central bank is concerned that the economy is growing too rapidly and that inflation will heat up.</p>
+        <p>But economic data released last week gave some indication that the economy is slowing. The government reported that wholesale prices showed a 0.3 percent decline in April, reversing two months of increases, and that retail sales slowed in the same month.</p>
+        <p>Blue-chip stocks posted gains, and many companies reported solid earnings, including Dell Computer.</p>
+        <p>The Dow Jones industrial average ended the week at 10,609.37, up 31.51 points. The Nasdaq composite index settled at 3,529.06, down 287.76</p>
+        <p>VIVIAN MARINO</p>
+        <p>DATABANK: MAY 8-12</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

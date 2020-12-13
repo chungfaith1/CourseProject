@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Devils Trim Roster</title>
+    <meta content="MB015625" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234888"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="HOCKEY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hockey, Ice</classifier>
+        <org class="indexing_service">New Jersey Devils</org>
+        <person class="indexing_service">Yannis, Alex</person>
+        <person class="indexing_service">Niedermayer, Scott</person>
+        <person class="indexing_service">Arnott, Jason</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey/National Hockey League/New Jersey Devils</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hockey, Ice</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000930T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E4DA143DF933A0575AC0A9669C8B63" item-length="180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Devils Trim Roster</hl1>
+      </hedline>
+      <byline class="print_byline">By Alex Yannis</byline>
+      <byline class="normalized_byline">Yannis, Alex</byline>
+      <abstract>
+        <p>New Jersey Devils trim roster to 23 players; negotiations with holdouts Scott Niedermayer and Jason Arnott are at impasse (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For the first time this season, the Devils are not including Scott Niedermayer and Jason Arnott as members of the team.</p>
+        <p>The Devils trimmed their roster to 23 players yesterday as they assigned 25 players to the Albany River Rats of the American Hockey League.</p>
+      </block>
+      <block class="full_text">
+        <p>For the first time this season, the Devils are not including Scott Niedermayer and Jason Arnott as members of the team.</p>
+        <p>The Devils trimmed their roster to 23 players yesterday as they assigned 25 players to the Albany River Rats of the American Hockey League.</p>
+        <p>Lou Lamoriello indicated that negotiations with Niedermayer and Arnott, who are restricted free agents, have come to a standstill again, even though Niedermayer expressed willingness earlier in the week to settle for less than he was proposing at the start of negotiations.</p>
+        <p>''It's like going shopping for a house and you cannot afford to pay more than you have,'' Lamoriello said yesterday. ''I said before training camp what the team can afford and I'm sticking with that.''</p>
+        <p>It now appears unlikely that either Niedermayer or Arnott will be with the team on Oct. 6, when the Devils open against Montreal.</p>
+        <p>The team will begin the season with six players who were not with them during the playoffs last season.</p>
+        <p>Alex Yannis</p>
+        <p>HOCKEY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

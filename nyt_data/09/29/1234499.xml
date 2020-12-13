@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DINER'S JOURNAL</title>
+    <meta content="29JOUR" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="39" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/29/living/29JOUR.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1234499"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Sandro's (NYC Restaurant)</org>
+        <person class="indexing_service">Grimes, William</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Diner's Journal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000929T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03EED9103AF93AA1575AC0A9669C8B63" item-length="355" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DINER'S JOURNAL</hl1>
+      </hedline>
+      <byline class="print_byline">By William Grimes</byline>
+      <byline class="normalized_byline">Grimes, William</byline>
+      <abstract>
+        <p>William Grimes Diner's Journal review of Sandro's in Chelsea; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Diners with a long memory may recall that there was a Sandro's near the Queensboro Bridge that closed in 1992. It won respect for its Roman-style cuisine, but it never overcame its awkward location. Sandro Fioriti, the chef, went on to cook at Nello and many other restaurants.</p>
+        <p>Most recently sharp-eyed customers may have picked up his trail at Buon Italia in the Chelsea Market, where the takeout counter featured some of his favorite Roman dishes. Now Mr. Fioriti has mounted a full-fledged comeback and opened Sandro's in the space that was formerly Siena.</p>
+      </block>
+      <block class="full_text">
+        <p>Diners with a long memory may recall that there was a Sandro's near the Queensboro Bridge that closed in 1992. It won respect for its Roman-style cuisine, but it never overcame its awkward location. Sandro Fioriti, the chef, went on to cook at Nello and many other restaurants.</p>
+        <p>Most recently sharp-eyed customers may have picked up his trail at Buon Italia in the Chelsea Market, where the takeout counter featured some of his favorite Roman dishes. Now Mr. Fioriti has mounted a full-fledged comeback and opened Sandro's in the space that was formerly Siena.</p>
+        <p>For the moment Mr. Fioriti has planted one foot in Emilia-Romagna, the other in Rome. Crispy fried artichokes, a Roman classic, rub shoulders with northern Italian appetizers like chicken liver in balsamic vinegar.</p>
+        <p>Bucatini in amatriciana sauce, another Roman specialty, competes with fettuccine bolognese, and main courses like breaded veal cutlet alla bolognese, served with prosciutto, mozzarella and tomato, and lamb chops in balsamic vinegar are counterbalanced by Roman-style dishes like bacalao with tomato, onions and potatoes.</p>
+        <p>The menu includes three very distinctive pastas of his own invention: spaghetti with lemon sauce; ravioli filled with sea urchin and topped with a sauce of baby scallops and tomatoes; and the improbable-sounding spaghetti al melone, an adventurous marriage of pasta with a sauce of anchovy, melon, cream and cheese.</p>
+        <p>With time Rome may gain ascendancy over the north. Mr. Fioriti seems to be treading carefully for the moment. But with a surfeit of northern Italian cooking in Manhattan, New Yorkers should be cheering for a Roman victory.</p>
+        <p>Sandro's, 200 Ninth Avenue, at 22nd Street, Chelsea; (212) 633-8033. Dinner entrees, $10 to $20.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

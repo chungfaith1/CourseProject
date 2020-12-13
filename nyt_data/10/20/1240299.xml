@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="20INSI$02" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1240299"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001020T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEEDE103EF933A15753C1A9669C8B63" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mideast Truce Tested  A gunbattle in the West Bank left an Israeli and a Palestinian dead, and strained hopes for the two-day-old cease-fire agreement.</p>
+        <p>PAGE A12</p>
+        <p>Early Terrorism Warning  Officials said they received reports in May that a group linked to Osama bin Laden was preparing an attack on American targets.</p>
+        <p>PAGE A14</p>
+      </block>
+      <block class="full_text">
+        <p>Mideast Truce Tested  A gunbattle in the West Bank left an Israeli and a Palestinian dead, and strained hopes for the two-day-old cease-fire agreement.</p>
+        <p>PAGE A12</p>
+        <p>Early Terrorism Warning  Officials said they received reports in May that a group linked to Osama bin Laden was preparing an attack on American targets.</p>
+        <p>PAGE A14</p>
+        <p>Help for the Everglades  The House approved a $7.8 billion environmental-restoration project to revive the Everglades over the next four decades.</p>
+        <p>PAGE A21</p>
+        <p>The Curated Armani  The Guggenheim is dressing up in Giorgio Armani. A review in Weekend by Herbert Muschamp, who also examines commercial sponsoring of museum exhibits.</p>
+        <p>PAGE E35</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR022348" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1223487"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dancing</classifier>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <org class="indexing_service">New York City Ballet</org>
+        <person class="indexing_service">Albrecht, Angele</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dancing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000818T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E7D9153EF93BA2575BC0A9669C8B63" item-length="101" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Aug 13 obituary of ballerina Angele Albrecht referred imprecisely to founding of New York City Ballet</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An obituary of the ballerina Angele Albrecht on Sunday referred imprecisely to the founding of the New York City Ballet by Lincoln Kirstein and by George Balanchine, for whom Ms. Albrecht danced in Hamburg in the 1950's. The company was founded in 1948, before Ms. Albrecht began her professional career, not after she danced for Balanchine.</p>
+      </block>
+      <block class="full_text">
+        <p>An obituary of the ballerina Angele Albrecht on Sunday referred imprecisely to the founding of the New York City Ballet by Lincoln Kirstein and by George Balanchine, for whom Ms. Albrecht danced in Hamburg in the 1950's. The company was founded in 1948, before Ms. Albrecht began her professional career, not after she danced for Balanchine.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

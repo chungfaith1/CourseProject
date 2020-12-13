@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>List Lists Lists</title>
+    <meta content="25LIST$01" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1210183"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PULSE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Magazines</classifier>
+        <org class="indexing_service">List (Magazine)</org>
+        <person class="indexing_service">Century, Douglas</person>
+        <person class="indexing_service">Becker, Serge</person>
+        <person class="indexing_service">Ano, Lisa</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Magazines</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000625T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE6DA1630F936A15755C0A9669C8B63" item-length="287" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>List Lists Lists</hl1>
+      </hedline>
+      <byline class="print_byline">By DOUGLAS CENTURY</byline>
+      <byline class="normalized_byline">Century, Douglas</byline>
+      <abstract>
+        <p>New quarterly magazine List, co-edited by Serge Becker and Lisa Ano, is filled with nothing but lists; photo (Pulse column) (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Still miffed, a year after the fact, that your name was somehow left off the guest list to Tina Brown's gala Talk start-up party? Now you can peruse the full inventory of invitees in the debut issue of List, a magazine filled with nothing but lists. The quarterly, co-edited by Serge Becker and Lisa Ano, contains such arcana as the top song playlists at fashion shows and the last meals on death row, as well as real estate and cars for sale.</p>
+      </block>
+      <block class="full_text">
+        <p>Still miffed, a year after the fact, that your name was somehow left off the guest list to Tina Brown's gala Talk start-up party? Now you can peruse the full inventory of invitees in the debut issue of List, a magazine filled with nothing but lists. The quarterly, co-edited by Serge Becker and Lisa Ano, contains such arcana as the top song playlists at fashion shows and the last meals on death row, as well as real estate and cars for sale.</p>
+        <p>''The magazine came out of this idea that we're all obsessed with lists, always making lists,'' said Mr. Becker, a Paris-born architect and owner of Joe's Pub. His magazine joins such other recent ranking-obsessed pop phenomena as VH1's hit show ''The List.'' ''There's such a glut of information out there, and lists help give structure and selection.'' Contributors include individuals, reprints from other magazines and polls conducted by List. Heavy on fashion and art world trivia, the first issue, financed independently by Mr. Becker, Michael Donahue and other investors, has a print run of 10,000 and will sell for $15 on newsstands. Among things you won't find in Guinness are a visual list of images ''borrowed'' by fashion photographers from other artists, and ''top ghetto drinks.'' Ghetto drinks? ''Yeah,'' Mr. Becker said. ''Things like merlot with Sprite.''</p>
+        <p>DOUGLAS CENTURY</p>
+        <p>PULSE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

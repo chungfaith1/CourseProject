@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Team of Aircraft Wiring Experts Finds Frequent Flaws in Jetliners</title>
+    <meta content="Y12WIRI" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/12/national/12WIRI.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1238122"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="indexing_service" type="descriptor">Explosions</classifier>
+        <classifier class="indexing_service" type="descriptor">Fires and Firemen</classifier>
+        <org class="indexing_service">Federal Aviation Administration</org>
+        <org class="indexing_service">Trans World Airlines</org>
+        <person class="indexing_service">Wald, Matthew L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Explosions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fires and Firefighters</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001012T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E4D6163FF931A25753C1A9669C8B63" item-length="345" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Team of Aircraft Wiring Experts Finds Frequent Flaws in Jetliners</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">Wald, Matthew L</byline>
+      <dateline>WASHINGTON, Oct. 11</dateline>
+      <abstract>
+        <p>Federal Aviation Administration says team of government and industry experts assembled after TWA Flight 800 crashed off Long Island has found flaws in airplane wiring, some from age and some from damage during maintenance, and is developing new maintenance techniques and new circuit breaker to reduce chance of fires or explosions; sees no immediate safety problem, but expects to order inspection and perhaps replacement of particular wiring segements in several jetliner models in next few months (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A team of government and industry experts  assembled after the crash of T.W.A. Flight 800 off Long Island has found flaws in airplane wiring, some from age and some from damage during maintenance, and is developing new maintenance techniques and a new  circuit breaker to reduce the chance of fires or explosions.</p>
+        <p>The Federal Aviation Administration's director of aircraft certification, Elizabeth Erickson, said today that ''there is no immediate safety problem.'' But Ms. Erickson predicted that in the next few months her agency would order inspection and perhaps replacement of particular segments of wiring in several jetliner models.</p>
+      </block>
+      <block class="full_text">
+        <p>A team of government and industry experts  assembled after the crash of T.W.A. Flight 800 off Long Island has found flaws in airplane wiring, some from age and some from damage during maintenance, and is developing new maintenance techniques and a new  circuit breaker to reduce the chance of fires or explosions.</p>
+        <p>The Federal Aviation Administration's director of aircraft certification, Elizabeth Erickson, said today that ''there is no immediate safety problem.'' But Ms. Erickson predicted that in the next few months her agency would order inspection and perhaps replacement of particular segments of wiring in several jetliner models.</p>
+        <p>The F.A.A. agreed to discuss the  preliminary findings of the wiring team, which began a two-day meeting here today, after some were disclosed in USA Today this morning.</p>
+        <p>The experts examined six recently retired commercial jets, each at least 20 years old, and 81 planes in service. They found that several parts of planes were apt to have damaged wiring, including the forward edges of the wings, the wells into which the landing gears retract and anyplace near a heat source, although Ms. Erickson said these cracks ''do not, in and of themselves, represent a safety problem'' in the absence of flammable material.</p>
+        <p>A related problem is that the circuit breakers in common use on airplanes work much like those in houses: they stop the flow of electricity only if there is a short-circuit long enough to heat up the wiring. But researchers have miniaturized a circuit breaker that will cut off the current if there is a short-lived change in voltage, Ms. Erickson said, and can thus stop electrical arcing almost immediately after it begins. The new circuit breaker has not yet been flown in test planes, however.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

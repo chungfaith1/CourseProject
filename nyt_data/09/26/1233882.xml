@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Living Trees to Honor the Dead</title>
+    <meta content="26WEND0AA" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1233882"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Robberies and Thefts</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Wendy's International Inc</org>
+        <person class="indexing_service">Auguste, Jean Dumel</person>
+        <person class="indexing_service">Castro, Patrick</person>
+        <person class="indexing_service">Godineaux, Craig</person>
+        <person class="indexing_service">Ibadat, Ali</person>
+        <person class="indexing_service">Johnson, Jaquione</person>
+        <person class="indexing_service">Nazario, Ramon</person>
+        <person class="indexing_service">Smith, Anita C</person>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Robberies and Thefts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000926T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E2DD123AF935A1575AC0A9669C8B63" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Living Trees to Honor the Dead</hl1>
+      </hedline>
+      <abstract>
+        <p>Photo of memorial service, Queens Botanical Garden, for five people who were killed in shooting spree at Wendy's restaurant in Flushing four months ago (S)</p>
+      </abstract>
+    </body.head>
+    <body.content/>
+  </body>
+</nitf>

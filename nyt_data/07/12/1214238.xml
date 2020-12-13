@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bright Students Online</title>
+    <meta content="L12INT" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1214238"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Gay, Haika</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000712T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E5DD1038F931A25754C0A9669C8B63" item-length="180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bright Students Online</hl1>
+      </hedline>
+      <abstract>
+        <p>Haika Gay letter says online courses are boon for students working so far ahead of their grade level that their schools cannot meet their academic needs any other way (July 7 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''As Teacher in the Classroom, Internet Needs Fine-Tuning'' (front page, July 7):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''As Teacher in the Classroom, Internet Needs Fine-Tuning'' (front page, July 7):</p>
+        <p>Another group of students for whom online courses seem ideal are those who are working so far ahead of their grademates in a subject area that their school cannot meet their academic needs any other way.</p>
+        <p>Access to online courses eliminates these students' usual alternatives of being bored while sitting through course material they mastered years ago, sitting out that class period in the library, or disrupting their school day to commute to other schools to take courses that are at their level.</p>
+        <p>Given such choices, online courses are indeed a godsend, glitches and all.</p>
+        <p>HAIKA GAY  Livonia, Mich., July 8, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

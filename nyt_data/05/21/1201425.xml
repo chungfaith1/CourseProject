@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR223056" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Corrections; Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201425"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Vietnam War</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vietnam War</classifier>
+        <classifier class="online_producer" type="general_descriptor">War and Revolution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000521T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E1DC113AF932A15756C0A9669C8B63" item-length="109" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of April 30 article on newly declassified documents on Vietnam War</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Word for Word column on April 30, about newly declassified documents on the Vietnam War, referred incorrectly to a sequence of events in Henry A. Kissinger's negotiations with North and South Vietnam in 1972. Mr. Kissinger met with President Nguyen Van Thieu of South Vietnam on Oct. 22; it was four days later -- not ahead of the meeting --  that he publicly declared at a news conference in Washington that ''peace is at hand.''</p>
+      </block>
+      <block class="full_text">
+        <p>The Word for Word column on April 30, about newly declassified documents on the Vietnam War, referred incorrectly to a sequence of events in Henry A. Kissinger's negotiations with North and South Vietnam in 1972. Mr. Kissinger met with President Nguyen Van Thieu of South Vietnam on Oct. 22; it was four days later -- not ahead of the meeting --  that he publicly declared at a news conference in Washington that ''peace is at hand.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

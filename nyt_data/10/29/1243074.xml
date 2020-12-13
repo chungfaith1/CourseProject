@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Poor Example</title>
+    <meta content="LTR002203" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1243074"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001029T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E5D71730F93AA15753C1A9669C8B63" item-length="112" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Poor Example</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>As a Mets fan, I find it quite interesting that Roger Clemens says that emotions got the best of him. What type of precedent is this setting for people watching at home? Any time we're in a pressure situation and we bubble over with emotion, we can act out as we please? Joe Torre said Clemens is an emotional pitcher (as if this is an excuse).</p>
+        <p>ROBERT C. FITTON  Mineola, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>As a Mets fan, I find it quite interesting that Roger Clemens says that emotions got the best of him. What type of precedent is this setting for people watching at home? Any time we're in a pressure situation and we bubble over with emotion, we can act out as we please? Joe Torre said Clemens is an emotional pitcher (as if this is an excuse).</p>
+        <p>ROBERT C. FITTON  Mineola, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

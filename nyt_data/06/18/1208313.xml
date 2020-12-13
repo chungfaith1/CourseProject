@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Example of Making Diversity Work</title>
+    <meta content="LTR023355" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Education; Theater; New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208313"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <person class="indexing_service">Bluestone, Steven</person>
+        <person class="indexing_service">Szamotula, Edward S</person>
+        <object.title class="indexing_service">Romeo and Juliet (Play)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E5DD1F3EF93BA25755C0A9669C8B63" item-length="207" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Example of Making Diversity Work</hl1>
+      </hedline>
+      <abstract>
+        <p>Edward S Szamotula letter on June 4 article questions Steven Bluestone's success in teaching diversity through fifth-grade production of Romeo and Juliet at schools in Mamaroneck, NY (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Regarding the article ''Helping 10-Year-Olds Find Common Ground'' on June 4:</p>
+        <p>The school year ends on a sour note for Ken Taylor's fifth-grade Mamaroneck Avenue School class, which participated in the joint production of ''Romeo and Juliet'' with the Chatsworth Avenue School. The children's efforts were secondary to Steven Bluestone's objective to bring students of different backgrounds together, under the guise of a technology grant. Had parents known the real intention, they would have reacted less than enthusiastically about their children's participation in Mr. Bluestone's pet project.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Regarding the article ''Helping 10-Year-Olds Find Common Ground'' on June 4:</p>
+        <p>The school year ends on a sour note for Ken Taylor's fifth-grade Mamaroneck Avenue School class, which participated in the joint production of ''Romeo and Juliet'' with the Chatsworth Avenue School. The children's efforts were secondary to Steven Bluestone's objective to bring students of different backgrounds together, under the guise of a technology grant. Had parents known the real intention, they would have reacted less than enthusiastically about their children's participation in Mr. Bluestone's pet project.</p>
+        <p>Mr. Bluestone need look no farther than Mamaroneck Avenue School to see his objective at work in the real world. The student body encompasses a wide range of economic and cultural diversity (Ken's real mix); the staff does a masterful job to bridge the gap every day and has done so for years. This is the primary reason my family and I reside in this community and are very proud of it.</p>
+        <p>EDWARD S. SZAMOTULA  Mamaroneck</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

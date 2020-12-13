@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dividend Meetings</title>
+    <meta content="09DIVI" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1237458"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001009T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E0D7133CF93AA35753C1A9669C8B63" item-length="168" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dividend Meetings</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A partial list for this week.</p>
+        <p>MONDAY  Phillips Pete Co  Xerox Corp</p>
+      </block>
+      <block class="full_text">
+        <p>A partial list for this week.</p>
+        <p>MONDAY  Phillips Pete Co  Xerox Corp</p>
+        <p>TUESDAY  Cummins Engine Inc  Hillenbrand Inds Inc  International Paper Co  Procter &amp; Gamble Co  Sprint Corp</p>
+        <p>WEDNESDAY  AAR Corp  Arvin Inds Inc  Bard C R Inc  Caterpillar Inc</p>
+        <p>THURSDAY  Barnes Group Inc  Cinergy Corp  Ford Mtr Co Del  Marshall &amp; Ilsley Corp  RPM Inc Ohio  Tanger Factory Outlet Ctrs Inc  Weyerhaeuser Co  WPS Res Corp</p>
+        <p>FRIDAY  Ameren Corp  Energy East Corp  Montgomery Str Income Secs Inc</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Record Label Is Set</title>
+    <meta content="Y25CLI$01" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225118"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings (Audio)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Bmg Entertainment</org>
+        <org class="indexing_service">J Records</org>
+        <person class="indexing_service">Davis, Clive</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000825T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E6DB1531F936A1575BC0A9669C8B63" item-length="182" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Record Label Is Set</hl1>
+      </hedline>
+      <abstract>
+        <p>Clive Davis and BMG Entertainment conclude deal that will let Davis head new record label called J Records (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After a stormy public relations battle over his leadership succession at Arista Records, Clive Davis has formally fashioned a deal with BMG Entertainment to head a new label with a roster that includes up-and-coming young artists and Q-Tip, the rapper.</p>
+        <p>The new label, which will be called J Records, is a joint venture between BMG and Mr. Davis, who founded Arista in 1975 and was replaced in July as chief executive by Antonio Reid. That succession produced tensions between BMG executives and Mr. Davis, 67, who issued public statements attributing his departure to the imposition of a general retirement policy by BMG's corporate parent, Bertelsmann A.G.</p>
+      </block>
+      <block class="full_text">
+        <p>After a stormy public relations battle over his leadership succession at Arista Records, Clive Davis has formally fashioned a deal with BMG Entertainment to head a new label with a roster that includes up-and-coming young artists and Q-Tip, the rapper.</p>
+        <p>The new label, which will be called J Records, is a joint venture between BMG and Mr. Davis, who founded Arista in 1975 and was replaced in July as chief executive by Antonio Reid. That succession produced tensions between BMG executives and Mr. Davis, 67, who issued public statements attributing his departure to the imposition of a general retirement policy by BMG's corporate parent, Bertelsmann A.G.</p>
+        <p>The first recordings from the company are expected as early as this October. One person close to the negotiations said that J Records' new roster will feature performers Deborah Cox, LFO, Shannon Curfman, Alicia Keys, Jim Cozier and O-Town, a budding boy band.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

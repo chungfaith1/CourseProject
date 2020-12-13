@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="10QNA" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1237586"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Chipmunks</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001010T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE4D8103CF933A25753C1A9669C8B63" item-length="324" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Answer to reader's query about why chipmunks chirp</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Chatty Chipmunks</p>
+        <p>Q. Why do chipmunks sometimes chirp loudly and continuously for 15 or 20 minutes at a time? It doesn't seem to have anything to do with food, as the ones in our backyard do this even when well fed.</p>
+        <p>A. As you suspect, the noise probably has less to do with foraging, as the familiar fat-cheeked Eastern chipmunk (Tamias striatus) can easily collect and store a lifetime supply of food in a single season, than with protecting territory and warning off interlopers.</p>
+      </block>
+      <block class="full_text">
+        <p>Chatty Chipmunks</p>
+        <p>Q. Why do chipmunks sometimes chirp loudly and continuously for 15 or 20 minutes at a time? It doesn't seem to have anything to do with food, as the ones in our backyard do this even when well fed.</p>
+        <p>A. As you suspect, the noise probably has less to do with foraging, as the familiar fat-cheeked Eastern chipmunk (Tamias striatus) can easily collect and store a lifetime supply of food in a single season, than with protecting territory and warning off interlopers.</p>
+        <p>Chipmunks have a variety of vocal sounds, not all of them translated by scientists, but the one you describe, which has also been rendered ''chip-chip-chip'' or ''chuck-chuck-chuck'' or ''chipp-R-R-R,'' is often associated with driving away an intruder perceived as threatening the burrow. The high-pitched sound is repeated every few seconds and may be echoed by a chorus of concerned neighbors.</p>
+        <p>The scolding is probably being delivered by females, as they are apparently even more territorial than the males, but neither sex is particularly gregarious, except for the period around mating, when the couple may play and vocalize together for some time. Shortly afterward, the male is vociferously driven off. The female can have two litters a year, and the young are, in turn, loudly urged to leave home in six to eight weeks.</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Readers are invited to submit questions by mail to Question, Science Times, The New York Times, 229 West 43rd Street, New York, N.Y. 10036-3959, or by e-mail to question@nytimes.com.  Questions of general interest will be answered in this column, but unpublished letters cannot be answered individually.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

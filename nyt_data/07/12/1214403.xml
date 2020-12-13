@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR014758" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1214403"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000712T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E2D81138F931A25754C0A9669C8B63" item-length="127" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A music listing in the Arts &amp; Leisure section on Sunday for the Music Festival of the Hamptons included artists from last year instead of those scheduled to perform this week. This is a corrected listing:</p>
+        <p>The soprano Angelina Reaux tomorrow at 8 p.m. The Atlantic Chamber Orchestra, conducted by Michael Guttman, on Friday at 8 p.m. Chamber music by Arnold Steinhardt and family on Saturday at 5 p.m. An all-Copland tribute concert with the Atlantic Chamber Orchestra, conducted by Lukas Foss, on Saturday at 8 p.m.</p>
+      </block>
+      <block class="full_text">
+        <p>A music listing in the Arts &amp; Leisure section on Sunday for the Music Festival of the Hamptons included artists from last year instead of those scheduled to perform this week. This is a corrected listing:</p>
+        <p>The soprano Angelina Reaux tomorrow at 8 p.m. The Atlantic Chamber Orchestra, conducted by Michael Guttman, on Friday at 8 p.m. Chamber music by Arnold Steinhardt and family on Saturday at 5 p.m. An all-Copland tribute concert with the Atlantic Chamber Orchestra, conducted by Lukas Foss, on Saturday at 8 p.m.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>From Switzerland, a Cheese to Yodel For</title>
+    <meta content="20CHEE$01" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1232065"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="FOOD STUFF"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000920T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E2DB173BF933A1575AC0A9669C8B63" item-length="173" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>From Switzerland, a Cheese to Yodel For</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A new cheese in town has the ecru color and smooth texture of Appenzeller but an herbal twist. The rind is rubbed with herbes de Provence, infusing the cheese, which is fruity tasting, with the aroma of thyme. The cheese, an artisanal import from Switzerland, is called Le Marechal. It is made for a glass of sauvignon blanc. Zabar's, Broadway and 80th Street, is selling Le Marechal for $8.49 a pound. It is $14.95 a pound at Ideal Cheese, which moved this summer from Second Avenue and 63rd Street to 942 First Avenue (52nd Street).</p>
+      </block>
+      <block class="full_text">
+        <p>A new cheese in town has the ecru color and smooth texture of Appenzeller but an herbal twist. The rind is rubbed with herbes de Provence, infusing the cheese, which is fruity tasting, with the aroma of thyme. The cheese, an artisanal import from Switzerland, is called Le Marechal. It is made for a glass of sauvignon blanc. Zabar's, Broadway and 80th Street, is selling Le Marechal for $8.49 a pound. It is $14.95 a pound at Ideal Cheese, which moved this summer from Second Avenue and 63rd Street to 942 First Avenue (52nd Street).</p>
+        <p>FOOD STUFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

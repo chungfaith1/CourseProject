@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>First on the Scene</title>
+    <meta content="LTR094214" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1223723"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Trachtenberg, Stephen Joel</person>
+        <person class="indexing_service">Hoagland, Edward</person>
+        <person class="indexing_service">O'Nan, Stewart</person>
+        <person class="indexing_service">Cohn, Henry S</person>
+        <person class="indexing_service">Bollier, David</person>
+        <object.title class="indexing_service">Circus Fire, The (Book)</object.title>
+        <object.title class="indexing_service">Great Hartford Circus Fire, The (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000820T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07EED6163FF933A1575BC0A9669C8B63" item-length="101" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>First on the Scene</hl1>
+      </hedline>
+      <abstract>
+        <p>Stephen Joel Trachtenberg letter on Edward Hoagland's July 2 review of Stewart O'Nan book The Circus Fire recalls Henry S Cohn and David Bollier book The Great Hartford Circus Fire (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In his review of ''The Circus Fire,'' by Stewart O'Nan (July 2), Edward Hoagland says that ''there are a number of estimable circus books by authors like John Culhane, Bill Ballantine and John and Alice Durant, but none until now have been devoted to the biggest of American big-show disasters.'' He neglected to mention ''The Great Hartford Circus Fire'' (1991), by Henry S. Cohn and David Bollier. Surely this volume, which anticipates O'Nan's, ought to have been acknowledged.</p>
+        <p>Stephen Joel Trachtenberg  Washington</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In his review of ''The Circus Fire,'' by Stewart O'Nan (July 2), Edward Hoagland says that ''there are a number of estimable circus books by authors like John Culhane, Bill Ballantine and John and Alice Durant, but none until now have been devoted to the biggest of American big-show disasters.'' He neglected to mention ''The Great Hartford Circus Fire'' (1991), by Henry S. Cohn and David Bollier. Surely this volume, which anticipates O'Nan's, ought to have been acknowledged.</p>
+        <p>Stephen Joel Trachtenberg  Washington</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

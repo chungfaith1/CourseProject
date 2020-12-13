@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Video Displays Make a Big Deal Out of Tiny Details</title>
+    <meta content="21NEXT$03" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/21/technology/21NEXT.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1232300"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WHAT'S NEXT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Video Display Terminals</classifier>
+        <org class="indexing_service">Sarnoff Corp</org>
+        <person class="indexing_service">Austen, Ian</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/What's Next</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronics</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000921T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E2DA123BF932A1575AC0A9669C8B63" item-length="965" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Video Displays Make a Big Deal Out of Tiny Details</hl1>
+      </hedline>
+      <byline class="print_byline">By IAN AUSTEN</byline>
+      <byline class="normalized_byline">Austen, Ian</byline>
+      <abstract>
+        <p>Sarnoff Corp is working on a job-size, high-resolution, flat-panel display that could be used for everything from medical imaging to showing movies in theaters; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FOR several years, the military has created its maps using computers rather than drawing boards. But when it comes time to use them in battle, things become decidedly low tech. ''They take a paper map and staple it to a 4-by-8 piece of plywood,'' said Jim Birch, business development director for microsystems and displays at the Sarnoff Corporation. ''That's the army we have today.''</p>
+        <p>Recently the military turned to Sarnoff, the successor company to the David Sarnoff Research Center and RCA Laboratories, to be part of a project to develop electronic maps. Mr. Birch said that what was emerging from the research, however, was a technology that might find widespread use off the battlefield. It should, according to Mr. Birch, create jumbo-size (3 feet by 6 feet initially), high-resolution, flat-panel displays that could be used for everything from medical imaging to showing movies in theaters.</p>
+      </block>
+      <block class="full_text">
+        <p>FOR several years, the military has created its maps using computers rather than drawing boards. But when it comes time to use them in battle, things become decidedly low tech. ''They take a paper map and staple it to a 4-by-8 piece of plywood,'' said Jim Birch, business development director for microsystems and displays at the Sarnoff Corporation. ''That's the army we have today.''</p>
+        <p>Recently the military turned to Sarnoff, the successor company to the David Sarnoff Research Center and RCA Laboratories, to be part of a project to develop electronic maps. Mr. Birch said that what was emerging from the research, however, was a technology that might find widespread use off the battlefield. It should, according to Mr. Birch, create jumbo-size (3 feet by 6 feet initially), high-resolution, flat-panel displays that could be used for everything from medical imaging to showing movies in theaters.</p>
+        <p>''There's not a display out there right now that can show high resolution over a large area,'' Mr. Birch said. The gigantic computer displays tacked on buildings in Times Square, along the strip in Las Vegas and at sports stadiums around the world generally use light-emitting diodes, but at best they offer very low resolution. ''They're good for viewing by crowds from a distance,'' Mr. Birch said. Plasma displays, a more recent and costly large-screen panel system for computers, also fall short when fine detail is necessary.</p>
+        <p>At the other extreme of the display resolution world, the best high-definition televisions can produce an image made up of two million picture elements, or pixels. That sounds impressive, but Mr. Birch said that a 35-millimeter film negative generally contains at least twice that number of pixels. And an ordinary X-ray may have eight million pixels.</p>
+        <p>The monitor project is based in part on existing technologies. Anyone who has attended a rock concert knows that one way to construct a huge video display is to pile several monitors together and then electronically divide the overall image among the screens. The downfall of such systems, however, is the appearance of the seams that separate the monitors.</p>
+        <p>The company says that it has found a way to make the seams or gaps invisible without sacrificing image quality. In the past, some systems have tried to minimize the gaps by electronically making images slightly fuzzy where the screens meet. Sarnoff's solution to unsightly seams, a technique Mr. Birch called tiling, has come from the optical world.</p>
+        <p>A prototype system will start with six L.C.D. screens assembled to form a 3-by-6-foot display. To increase their brightness, the screens will be backlighted by special white, light-emitting diodes rather than fluorescent lamps like those normally employed in laptop computers. Then a layer of tiny lenses will be added on top of the screen grid: every L.C.D. screen in the grid will be topped with hundreds'' of individual lenses, Mr. Birch said, although he declined to give the exact number.</p>
+        <p>The lenses, in turn, will be aimed to project a seamless image on a plastic screen that provides the final layer of the screen's sandwich. Unlike bulky rear-projection systems now used for the huge televisions favored by sports bars, the new Sarnoff system will be just 10 inches thick regardless of the overall screen display size. (Production models will probably be only eight inches thick.)</p>
+        <p>Not only is the system seamless, but Sarnoff estimates that it will be able to display 30 million pixels. That's good news for topographic map users but troubling for engineers. The problem, quite simply, is that current computer technologies can't move that much data from a computer's central processing unit to the screen fast enough to allow, for example, full-motion video. The image would be trapped in electronic gridlock on its way to the screen.</p>
+        <p>Instead of developing a new type of image server, Sarnoff solved the problem in a 32-inch, three-million-pixel demonstration prototype by sharing the workload. Each of the L.C.D.'s in the system is fitted with its own Pentium processor. Software developed by Sarnoff allows the main computer controlling the on-screen action to do only a portion of the actual image processing before sending the problem off, as a highly compressed data file, to the screens. The Pentium chips on the L.C.D.'s then take those bundles, expand them and finish the image processing.  The Sarnoff system also has a way around another phenomenon known to concertgoers. When stacked in a grid, differences in color, brightness and contrast between individual screens becomes glaringly obvious. Sarnoff is giving its system the ability to watch itself. A video camera will take in the entire scene and feed the image to software that will ensure, for example, that a wayward screen doesn't render a pop star's nose -- or any other object -- excessively red or unnaturally bright.</p>
+        <p>When the Sarnoff lab finishes its first large prototypes, probably in the next year and a half, the company's scientists won't exactly be overwhelmed with the material they can watch on it. Other than the Pentagon's maps, Mr. Birch said, he isn't aware of any digital images currently available that could take full advantage of a 30-million-pixel screen, and current scanners are unable to convert images made using other media to digital formats with that degree of fidelity.</p>
+        <p>Mr. Birch estimated that the high-resolution, 3-by-6-foot screen would cost $30,000 although a lower-resolution version suitable for high-definition television could be available for $10,000. But sports fans counting on seeing every drop of blood from the big game don't have to start saving their money. Cost aside, Mr. Birch said, the high-resolution system would be overkill, even for the keenest sports fans. ''Nobody,'' he said, ''needs 30 million pixels in their home right now.''</p>
+        <p>WHAT'S NEXT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

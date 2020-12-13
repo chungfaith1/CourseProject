@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Flaws in Digital Wireless Technology Said to Allow Eavesdropping</title>
+    <meta content="Y02DIGI" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1227263"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Wiretapping and Other Eavesdropping Devices and Methods</classifier>
+        <org class="indexing_service">Lucent Technologies Inc</org>
+        <person class="indexing_service">Jacobson, Markus</person>
+        <person class="indexing_service">Wetzel, Susanne</person>
+        <person class="indexing_service">Markoff, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wiretapping and Other Eavesdropping Devices and Methods</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000902T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E1D81330F931A3575AC0A9669C8B63" item-length="482" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Flaws in Digital Wireless Technology Said to Allow Eavesdropping</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <abstract>
+        <p>Markus Jacobson and Susanne Wetzel, researchers in secure systems research department at Lucent Technologies' Bell Laboratories unit, find flaws in widely heralded technology known as Bluetooth that could permit eavesdropper to listen in on digital conversation or determine user's identity (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Two researchers have found flaws in a widely heralded new wireless technology that could permit an eavesdropper to listen in on a digital conversation or determine the user's identity.</p>
+        <p>The researchers are from Lucent Technologies, one of nine corporations cooperating to develop the technology, known as Bluetooth, whose backers say it will make possible a new era of effortless and untethered communication between all kinds of hand-held devices.</p>
+      </block>
+      <block class="full_text">
+        <p>Two researchers have found flaws in a widely heralded new wireless technology that could permit an eavesdropper to listen in on a digital conversation or determine the user's identity.</p>
+        <p>The researchers are from Lucent Technologies, one of nine corporations cooperating to develop the technology, known as Bluetooth, whose backers say it will make possible a new era of effortless and untethered communication between all kinds of hand-held devices.</p>
+        <p>Several companies have recently begun shipping sample quantities of the Bluetooth technology, which has been expected to be widely available in the first half of next year, and more than 1,000 companies are backing the standard.</p>
+        <p>Paul Kan, a member of the Bluetooth technical standards group and a Lucent marketing manager, said he expected that the problem could be fixed ''relatively quickly'' and would not seriously delay the technology's deployment.</p>
+        <p>The Bluetooth system is intended to permit cellular phones, portable computers, headsets and other mobile devices to exchange digital information easily without cords or wires. It has a potential range of 30 feet to 300 feet, but is initially planned for devices in relatively close proximity.</p>
+        <p>Bluetooth devices also require less power than existing cellular phones and give off far less radiation.</p>
+        <p>The flaws were discovered by Markus Jacobson and Susanne Wetzel, researchers in the secure systems research department at Lucent's Bell Laboratories unit.</p>
+        <p>One shortcoming would have permitted an eavesdropper in a cybercafe to place a bugging device in such a way that the encryption key used by the Bluetooth devices could be obtained, Mr. Jacobson said.</p>
+        <p>Obtaining the key would let the intruder listen in on a conversation between two Bluetooth devices.</p>
+        <p>The flaw was not in the basic encryption formula used to protect the information being transmitted, but in the protocol used by two devices to exchange a key -- in this case, a large number -- that is used by the formula to encode and unlock the data.</p>
+        <p>The researchers also discovered that it was possible to obtain the identity of a Bluetooth device, making it traceable and potentially compromising the security of a user.</p>
+        <p>The researchers are suggesting that the Bluetooth standard be altered so that the identity numbers are masked by a constantly changing pseudonym when transmitted.</p>
+        <p>An independent security expert said that the Bluetooth security model was still untested and that other flaws were likely to be discovered.</p>
+        <p>''There are probably dozens of vulnerabilities,'' said the expert, Bruce Schneier, founder and chief technical officer of Counterpane Internet Security. ''The basic problem is that you're building a system that allows devices who don't know each other to communicate. I believe there are too many things that can go wrong.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

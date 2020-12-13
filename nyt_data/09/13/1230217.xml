@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>West Nile Spraying Schedule</title>
+    <meta content="13SPRA$01" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1230217"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="UPDATE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000913T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFDA1438F930A2575AC0A9669C8B63" item-length="170" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>West Nile Spraying Schedule</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ROCKLAND COUNTY  10 p.m. today to 4 a.m. Thursday  Stony Point  10 p.m. Thursday to 4 a.m. Friday  Ramapo</p>
+      </block>
+      <block class="full_text">
+        <p>ROCKLAND COUNTY  10 p.m. today to 4 a.m. Thursday  Stony Point  10 p.m. Thursday to 4 a.m. Friday  Ramapo</p>
+        <p>BERGEN COUNTY, N.J.  3 to 6 a.m. today  Englewood, Glen Rock, Midland Park, Park Ridge and Wyckoff</p>
+        <p>3 to 6 a.m. Thursday  Norwood, Northvale and Ramsey</p>
+        <p>3 to 6 a.m. Friday  Saddle River, Ridgewood, Ho-Ho-Kus, Woodcliff Lake and Waldwick</p>
+        <p>UNION COUNTY, N.J.  3 to 6 a.m. today  Linden</p>
+        <p>FOR INFORMATION</p>
+        <p>New York City (877) 968-4692  Nassau County (516) 571-2500  Suffolk County (631) 852-4939  Rockland County (845) 364-8990  Westchester County (914) 637-2420  Connecticut (860) 424-4184</p>
+        <p>Note: Pesticide spraying schedules are subject to change in the event of rain.  (Source: Health and mosquito control departments)</p>
+        <p>UPDATE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>About the Tables</title>
+    <meta content="02TABL" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Corrections; Editors' Notes; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/02/business/02TABL.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1235452"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <org class="indexing_service">New York Times</org>
+        <classifier class="online_producer" type="types_of_material">Editors' Note</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Editors' Notes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001002T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502EED7153DF931A35753C1A9669C8B63" item-length="216" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>About the Tables</hl1>
+      </hedline>
+      <abstract>
+        <p>New York Times is set to temporarily introduce second business section, World Business, on Tuesdays through Fridays; section will consist of international business news and tables for United States exchanges plus preferred stocks</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Beginning tomorrow and continuing through Dec. 29, Business Day will include a second section, World Business (Section W), on Tuesdays through Fridays. That section will consist of international business news as well as the tables for the United States exchanges plus preferred stocks.</p>
+        <p>The shift will create space for The Times's other sections to print news about the election campaigns and the resulting political changes at the busiest time of year in sports, arts and entertainment -- all while accommodating holiday-season advertising.</p>
+      </block>
+      <block class="full_text">
+        <p>Beginning tomorrow and continuing through Dec. 29, Business Day will include a second section, World Business (Section W), on Tuesdays through Fridays. That section will consist of international business news as well as the tables for the United States exchanges plus preferred stocks.</p>
+        <p>The shift will create space for The Times's other sections to print news about the election campaigns and the resulting political changes at the busiest time of year in sports, arts and entertainment -- all while accommodating holiday-season advertising.</p>
+        <p>The first part of Business Day will continue to carry most business news and tables for mutual funds, late stock trading, stock market indexes, foreign stocks, futures, options and other trading. For stocks traded on the American Stock Exchange, the New York Stock Exchange and Nasdaq, the heading at the start of each table will show the hour for the prices given. In all cases, the daily change will be calculated from the previous day's closing price in regular trading.</p>
+        <p>On Saturdays, all tables will appear in a single-section Business Day. The weekly tables that appear on Sunday will not be affected.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

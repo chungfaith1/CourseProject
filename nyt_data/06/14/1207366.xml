@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR233601" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1207366"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Capital Punishment</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Capital Punishment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E5DD133EF937A25755C0A9669C8B63" item-length="255" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of June 12 article: study of capital-case appeals found two out of three death sentences were set aside, not two out of three convictions</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A front-page article on Monday about a study of appeals in death penalty cases referred incorrectly in the opening paragraph to one finding. As noted elsewhere in the article, the study -- covering the United States from 1973 to 1995 -- found that in capital-case appeals, two out of three sentences were set aside, not two out of three convictions.</p>
+        <p>A Public Lives profile yesterday about the main author of the study, and an editorial yesterday about capital punishment, included other erroneous references to the finding. It covered only those death sentences that were appealed, not all death sentences.</p>
+        <p>The Monday article and the editorial also misstated the year that the Supreme Court reinstated the death penalty. After overturning death penalty laws in 1972, the court began to reinstate revised versions in 1976. Some that were approved by the court had been redrafted in 1973, but the court did not reinstate the penalty that year.</p>
+        <p>The Monday article included an erroneous percentage from a draft of the study, for capital cases in which state courts found error. It was 47 percent, not 46.</p>
+      </block>
+      <block class="full_text">
+        <p>A front-page article on Monday about a study of appeals in death penalty cases referred incorrectly in the opening paragraph to one finding. As noted elsewhere in the article, the study -- covering the United States from 1973 to 1995 -- found that in capital-case appeals, two out of three sentences were set aside, not two out of three convictions.</p>
+        <p>A Public Lives profile yesterday about the main author of the study, and an editorial yesterday about capital punishment, included other erroneous references to the finding. It covered only those death sentences that were appealed, not all death sentences.</p>
+        <p>The Monday article and the editorial also misstated the year that the Supreme Court reinstated the death penalty. After overturning death penalty laws in 1972, the court began to reinstate revised versions in 1976. Some that were approved by the court had been redrafted in 1973, but the court did not reinstate the penalty that year.</p>
+        <p>The Monday article included an erroneous percentage from a draft of the study, for capital cases in which state courts found error. It was 47 percent, not 46.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

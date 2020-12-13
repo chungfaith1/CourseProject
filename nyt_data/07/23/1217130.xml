@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>G.E. Fouled the Hudson</title>
+    <meta content="L23WEL$02" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1217130"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Water Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Polychlorinated Biphenyls</classifier>
+        <location class="indexing_service">Hudson River</location>
+        <org class="indexing_service">General Electric Corp</org>
+        <person class="indexing_service">Birnie, Patricia</person>
+        <person class="indexing_service">Welch, John F Jr</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000723T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E3DC143AF930A15754C0A9669C8B63" item-length="108" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>G.E. Fouled the Hudson</hl1>
+      </hedline>
+      <abstract>
+        <p>Patricia Birnie letter responds to July 20 editorial on General Electric Co chairman John F Welch Jr; recalls GE's PCB contamination of Hudson River (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''The Welch Mystique'' (editorial, July 20):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''The Welch Mystique'' (editorial, July 20):</p>
+        <p>John F. Welch Jr., chairman of the General Electric Company, would serve the public well to direct his $7.1 million advance and other proceeds from a coming book about his career and business philosophy toward the environmental restoration of the Hudson River. G.E.'s PCB contamination of the Hudson leaves a pernicious blot on the G.E. monogram.</p>
+        <p>PATRICIA BIRNIE  Tucson, July 20, 2000</p>
+        <p>The writer is chairwoman of the G.E. Stockholders' Alliance.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

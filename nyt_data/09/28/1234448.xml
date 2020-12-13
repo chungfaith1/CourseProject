@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rooting for WordPerfect</title>
+    <meta content="LTR010743" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234448"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">penman, sheldon (prof)</person>
+        <person class="indexing_service">Brinkley, Joel</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000928T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6DA1E3AF93BA1575AC0A9669C8B63" item-length="102" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rooting for WordPerfect</hl1>
+      </hedline>
+      <abstract>
+        <p>Prof Sheldon Penman letter on Joel Brinkley's Sept 21 article lauds WordPerfect software</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Another gem in the WordPerfect office suite: Corel Presentations is an excellent but largely unheralded equivalent to Microsoft's PowerPoint for presenting images via computer and L.C.D. projector. PowerPoint is not included in the usual small office suite that Microsoft has dragooned computer manufacturers into including in new machines. Rather than send an additional $100 to Redmond, I turned in desperation to Corel Presentations and found to my amazement that it was as functional as PowerPoint, could even open PowerPoint files and was available at essentially no cost.</p>
+        <p>PROF. SHELDON PENMAN  Brookline, Mass.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Another gem in the WordPerfect office suite: Corel Presentations is an excellent but largely unheralded equivalent to Microsoft's PowerPoint for presenting images via computer and L.C.D. projector. PowerPoint is not included in the usual small office suite that Microsoft has dragooned computer manufacturers into including in new machines. Rather than send an additional $100 to Redmond, I turned in desperation to Corel Presentations and found to my amazement that it was as functional as PowerPoint, could even open PowerPoint files and was available at essentially no cost.</p>
+        <p>PROF. SHELDON PENMAN  Brookline, Mass.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

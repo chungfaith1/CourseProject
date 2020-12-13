@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tech 2010: #12 Dream Cuisine; The Tongue With Perfect Taste</title>
+    <meta content="611TONGUE" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="68" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Science; Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1206303"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Food</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Science and Technology</classifier>
+        <classifier class="indexing_service" type="descriptor">Taste</classifier>
+        <person class="indexing_service">Howard, Manny</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taste</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE1DD143FF932A25755C0A9669C8B63" item-length="380" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tech 2010: #12 Dream Cuisine; The Tongue With Perfect Taste</hl1>
+      </hedline>
+      <byline class="print_byline">By Manny Howard</byline>
+      <byline class="normalized_byline">Howard, Manny</byline>
+      <abstract>
+        <p>Research on mysteries of human taste discussed; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To understand the mysteries of human taste, it helps to think of your tongue as a chemical analyzer. Its split-second determination that a piece of food tastes good or bad is a reasonable indication of whether it contains stuff your body needs, like the protein in a big, juicy steak, or stuff that it does not, like the sodium hypochlorite in a spoonful of Drano. Your tongue is not always right -- many things that don't taste good are good for you. But what it lacks in accuracy, it makes up for in speed.</p>
+        <p>So why build a machine to do that? Well, it would spare you the risk that goes along with putting something in your mouth. A prototype for an electronic tongue under development at the University of Texas at Austin works like this: a postage-stamp-size piece of silicon is pocked with hundreds of tiny divots. Each divot is filled with receptor molecules that look for a specific substance, like sugar or citric acid. These receptors are supposed to measure exactly how much of each ingredient is present. This has obvious limitations. It can identify only those compounds it's rigged to look for, and it can only tell if something tastes O.K. based on whether it contains what it's supposed to contain. But an e-tongue could still be useful to have around the house. Diabetics could have it taste their blood and get a quick read of their sugar levels. Raw meat could be tested before being tossed on the grill. ''E. coli, salmonella -- all bacterial contamination and viruses have a taste,'' says Matthew Klee of Agilent Technologies, a maker of chemical-analysis instruments. ''It would certainly be helpful to know if they were present, but you don't want your tongue doing that work.''</p>
+      </block>
+      <block class="full_text">
+        <p>To understand the mysteries of human taste, it helps to think of your tongue as a chemical analyzer. Its split-second determination that a piece of food tastes good or bad is a reasonable indication of whether it contains stuff your body needs, like the protein in a big, juicy steak, or stuff that it does not, like the sodium hypochlorite in a spoonful of Drano. Your tongue is not always right -- many things that don't taste good are good for you. But what it lacks in accuracy, it makes up for in speed.</p>
+        <p>So why build a machine to do that? Well, it would spare you the risk that goes along with putting something in your mouth. A prototype for an electronic tongue under development at the University of Texas at Austin works like this: a postage-stamp-size piece of silicon is pocked with hundreds of tiny divots. Each divot is filled with receptor molecules that look for a specific substance, like sugar or citric acid. These receptors are supposed to measure exactly how much of each ingredient is present. This has obvious limitations. It can identify only those compounds it's rigged to look for, and it can only tell if something tastes O.K. based on whether it contains what it's supposed to contain. But an e-tongue could still be useful to have around the house. Diabetics could have it taste their blood and get a quick read of their sugar levels. Raw meat could be tested before being tossed on the grill. ''E. coli, salmonella -- all bacterial contamination and viruses have a taste,'' says Matthew Klee of Agilent Technologies, a maker of chemical-analysis instruments. ''It would certainly be helpful to know if they were present, but you don't want your tongue doing that work.''</p>
+        <p>Still, there are crucial subtleties that, for the foreseeable future, only a human being can detect. An e-tongue might know that five parts gin, one part vermouth and a twist of lemon equals a good martini. But it'll be a long time before there's a machine sophisticated enough to know whether it was shaken or stirred.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

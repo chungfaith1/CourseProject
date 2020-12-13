@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Valhalla Software Developer Acquires Israeli Company</title>
+    <meta content="MB031113" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1222235"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="IN BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Myitcorp</org>
+        <org class="indexing_service">Cognet Corp</org>
+        <person class="indexing_service">Brenner, Elsa</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000813T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E7D9143FF930A2575BC0A9669C8B63" item-length="103" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Valhalla Software Developer Acquires Israeli Company</hl1>
+      </hedline>
+      <byline class="print_byline">By Elsa Brenner</byline>
+      <byline class="normalized_byline">Brenner, Elsa</byline>
+      <abstract>
+        <p>Cognet Corp of Valhalla, NY, acquires software producer myITcorp in stock purchase agreement valued at $7.5 million (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Cognet Corporation, a Valhalla-based developer of software management technologies for corporate computing and personal communications devices, has acquired the software producer myITcorp in a stock purchase agreement valued at $7.5 million.</p>
+        <p>MyITcorp, based in Haifa, Israel, is one of the leading providers of integrated policy management, usage and inventory software for corporations and government organizations.</p>
+      </block>
+      <block class="full_text">
+        <p>Cognet Corporation, a Valhalla-based developer of software management technologies for corporate computing and personal communications devices, has acquired the software producer myITcorp in a stock purchase agreement valued at $7.5 million.</p>
+        <p>MyITcorp, based in Haifa, Israel, is one of the leading providers of integrated policy management, usage and inventory software for corporations and government organizations.</p>
+        <p>Under terms of the acquisition, Mark Hellinger, the chief executive of myITcorp, will be appointed to Cognet's board, joining Dov Goldman, Cognet's chairman and chief executive officer.</p>
+        <p>Elsa Brenner</p>
+        <p>IN BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

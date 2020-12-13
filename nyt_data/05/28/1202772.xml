@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kipling's Audience</title>
+    <meta content="LTR071757" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1202772"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOKS AND LITERATURE</classifier>
+        <person class="indexing_service">Mendez, Ruben P</person>
+        <person class="indexing_service">Eder, Richard</person>
+        <person class="indexing_service">Ricketts, Harry</person>
+        <person class="indexing_service">Kipling, Rudyard (1865-1936)</person>
+        <object.title class="indexing_service">Rudyard Kipling: A Life (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000528T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E0DF123AF93BA15756C0A9669C8B63" item-length="140" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kipling's Audience</hl1>
+      </hedline>
+      <abstract>
+        <p>Ruben P Mendez letter, responding to Richard Eder's April 30 review of Harry Ricketts' biography of Rudyard Kipling, holds Kipling's poem the White Man's Burden was addressed to Americans, not British</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Richard Eder's review of Harry Ricketts's biography of Rudyard Kipling (April 30) gives the impression that Kipling's ''cautionary lines about the white man's burden'' were meant for ''his middle-class English public.'' In fact, Kipling's poem ''The White Man's Burden,'' written in 1899, was addressed not to the British but to the Americans, who were then, under President McKinley, beginning their own process of colonizing the Philippines.</p>
+        <p>Ruben P. Mendez</p>
+        <p>New York</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Richard Eder's review of Harry Ricketts's biography of Rudyard Kipling (April 30) gives the impression that Kipling's ''cautionary lines about the white man's burden'' were meant for ''his middle-class English public.'' In fact, Kipling's poem ''The White Man's Burden,'' written in 1899, was addressed not to the British but to the Americans, who were then, under President McKinley, beginning their own process of colonizing the Philippines.</p>
+        <p>Ruben P. Mendez</p>
+        <p>New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

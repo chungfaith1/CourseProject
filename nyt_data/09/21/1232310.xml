@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Shoe That Will Give Runners And Walkers Instant Feedback</title>
+    <meta content="21SHOE$01" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/21/technology/21SHOE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1232310"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Shoes and Boots</classifier>
+        <classifier class="indexing_service" type="descriptor">Sneakers</classifier>
+        <classifier class="indexing_service" type="descriptor">Exercise</classifier>
+        <classifier class="indexing_service" type="descriptor">Walking</classifier>
+        <classifier class="indexing_service" type="descriptor">Running</classifier>
+        <org class="indexing_service">Reebok Sports Club</org>
+        <org class="indexing_service">FitSense (Co)</org>
+        <person class="indexing_service">Marriott, Michel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Fashion, Beauty and Fitness</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Hiking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shoes and Boots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Exercise</classifier>
+        <classifier class="online_producer" type="general_descriptor">Walking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Running</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000921T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEED7123BF932A1575AC0A9669C8B63" item-length="1112" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Shoe That Will Give Runners And Walkers Instant Feedback</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHEL MARRIOTT</byline>
+      <byline class="normalized_byline">Marriott, Michel</byline>
+      <abstract>
+        <p>Reebok is working a new kind of sneaker, due for introduction in July 2001, that it says will accurately tell wearers not only how far they have run or walked, but also at what pace and how many calories they expended along the way; its underlying technology was developed FitSense of Newton, Mass; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FOR even the most occasional walker who just wants to take a heart-friendly stroll in the park, as well as the most fanatical marathoner, a single question dogs their every step: How far have I gone?</p>
+        <p>Bill McInnis, a former NASA engineer, has paid a lot of attention to people's obsession with measuring their athletic efforts, particularly when it comes to running and walking. For the past six years he has worked for Reebok International, the maker of sports and fitness gear, based in Canton, Mass.</p>
+      </block>
+      <block class="full_text">
+        <p>FOR even the most occasional walker who just wants to take a heart-friendly stroll in the park, as well as the most fanatical marathoner, a single question dogs their every step: How far have I gone?</p>
+        <p>Bill McInnis, a former NASA engineer, has paid a lot of attention to people's obsession with measuring their athletic efforts, particularly when it comes to running and walking. For the past six years he has worked for Reebok International, the maker of sports and fitness gear, based in Canton, Mass.</p>
+        <p>Next summer Reebok is expected to release a new kind of sneaker that Mr. McInnis, who is the company's director of technology, says will accurately tell its wearers not only how far they have run or walked, but also at what pace and how many calories they vanquished along the way. Called Smart Train, the high-tech shoes are expected to appear in July of next year. Two versions will be available, priced at $110 and  $250.</p>
+        <p>Currently, most devices that measure a runner's distance are step counters. And even if they are properly calibrated to a runner's stride, as that stride changes -- often a consequence of fatigue or changing terrain -- translating steps into real distance becomes less and less reliable.</p>
+        <p>''When you are going over four to five miles, a 10 percent swing in accuracy either way really starts to add up,'' Mr. McInnis noted.</p>
+        <p>The key difference in the Smart Train shoes, which at first glance look like rather ordinary high-performance running sneakers, is a solid state sensor called an accelerometer that measures the force exerted on the foot with each step. It is the same kind of device that in a car senses significantly sudden deceleration to trigger the release of air bags.</p>
+        <p>Using a special algorithm, a microprocessor in a unit in the shoe's tongue then converts the stream of foot-force data into how far and fast a runner is actually going.</p>
+        <p>''It's been an idea that's been a long time coming,'' said Mr. McInnis, who also directs product marketing and advanced research and development for Reebok. ''It's just that the science and the circuitry has finally caught up to the point where you can make it small enough.''</p>
+        <p>The Smart Train's components are small enough, in fact, to fit easily into the tongue of one of its shoes. A prototype of the device is no larger than the face of a quarter, only thicker, and is expected to run for months on standard watch batteries.</p>
+        <p>In the $110 basic version of the shoes, the wearer's information would been seen on a small L.C.D. screen embedded in the shoe's tongue. In the higher-end model, called the Smart Train IQ, the unit  is designed to communicate wirelessly, using radio frequency, or RF, to a specially equipped wristwatch display.</p>
+        <p>Besides the time, day and date, the watch face can also display, in real time, distance, current pace, average pace and calories burned.</p>
+        <p>The wireless feature, something that has been incorporated for years into speedometers and odometers for bicycles, was a major advance in making the device appeal to runners and walkers, Mr. McInnis said. Without it, he said, ''you would have to have a wire basically going up your leg.''</p>
+        <p>The watch interface also makes expansion of features easier, Mr. McInnis said. ''The beauty of the watch and RF communication is that the watch is just a receiver. You can plug in as many different items of data as you want.''</p>
+        <p>Reebok is also considering adding to the shoes the ability to measure heart rate, Mr. McInnis said. Currently, heart rate measuring devices require people to wear a monitoring strap around their chest. Most people, Mr. McInnis said, don't like wearing the strap.</p>
+        <p>Though developers are working on measuring heart rates through a wrist band, Mr. McInnis said it is not likely that heart rate information would be a feature of the first Smart Train line.</p>
+        <p>''Right out of the box,'' Mr. McInnis said, the sneakers are going to be 94 to 95 percent accurate, no matter who is using them. To ensure accuracy rates near 98 percent, the shoes have a calibration step-up. Basically, the shoe can be trained to the wearer's running and walking strides and styles. Mr. McInnis said the wearer needed to run or walk only a quarter of a mile, the length of a common track.</p>
+        <p>''The device, because of the force involved and its measuring of that, knows whether you are walking or running,'' he said. ''You could be a runner and a walker, too. Go out and do a workout and it will tally the whole thing up for you.''</p>
+        <p>Smart Train's underlying technology was developed over the last two years by FitSense, a technology company in Newton, Mass.</p>
+        <p>Sam Joffe, president of the company, said FitSense and Reebok have been working together for the last year to create Smart Train. But the Reebok products will not be the first on the market to use what he calls the FitSense instant feedback technology.</p>
+        <p>In November, FitSense plans to release its own $200 version of the basic technology -- without sneakers, Mr. Joffe said.</p>
+        <p>Called the FitSense FS-1, the system will include a 22-ounce, snap-on foot sensor, a wrist display and a wireless link to a personal computer. The PC link, Mr. Joffe explained, permits users to download their workout information into their computers, where it can be displayed, stored and charted.</p>
+        <p>Mr. Joffe said his company's technology had already been heavily tested -- the FS-1 sensors were even strapped onto the sneakers of one of the fastest humans in history, the track star Michael Johnson. Mr. Johnson wore them in the Olympics trials in July, Mr. Joffe said, adding that he expected to have runners using the technology in the New York Marathon this fall.</p>
+        <p>Mr. McInnis at Reebok said he didn't expect this kind of measured feedback technology to be for everyone.</p>
+        <p>''If you go and watch the New York Marathon,'' he said, ''the guys who are winning it -- the Kenyans and all of those guys, they don't even need shoes. They are so efficient, they are just clicking along. In their head they know, 'Hey, I'm running a five-minute pace.' For the rest of us, we need a more supportive shoe.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

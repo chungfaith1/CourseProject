@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>While the public's concern over online privacy seems to be pervasive, nuances -- and contradictions -- abound.</title>
+    <meta content="24NECO$02" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1217347"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEW ECONOMY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <person class="indexing_service">Race, Tim</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/New Economy</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000724T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6DD123AF937A15754C0A9669C8B63" item-length="1164" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>While the public's concern over online privacy seems to be pervasive, nuances -- and contradictions -- abound.</hl1>
+      </hedline>
+      <byline class="print_byline">By Tim Race</byline>
+      <byline class="normalized_byline">Race, Tim</byline>
+      <abstract>
+        <p>Tim Race column on public's inconsistency in its demand for online privacy; questions why people technically adept enough to use software programs that let them swap media files over Internet are not more concerned that these services give strangers access to their computer hard drives; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE public cares deeply about electronic privacy. And so the federal government sued to try to stop the bankrupt e-tailer Toysmart.com from selling customer data the company collected online.</p>
+        <p>The public cares intensely about electronic privacy. And so civil liberties and privacy rights groups oppose an F.B.I. e-mail surveillance technology called Carnivore.</p>
+      </block>
+      <block class="full_text">
+        <p>THE public cares deeply about electronic privacy. And so the federal government sued to try to stop the bankrupt e-tailer Toysmart.com from selling customer data the company collected online.</p>
+        <p>The public cares intensely about electronic privacy. And so civil liberties and privacy rights groups oppose an F.B.I. e-mail surveillance technology called Carnivore.</p>
+        <p>The public cares passionately about electronic privacy. And so people have been flocking to the Web version of CBS's voyeuristic social psychology experiment, ''Big Brother'' (www.bigbrother2000.com).</p>
+        <p>Online, it seems, privacy is in the eye of the beholder. That's why the public debate over electronic privacy can get so confusing. Whose privacy? Protected from whom?</p>
+        <p>If there is any consistency in this debate it may be the assumption that what people want most is freedom of choice:</p>
+        <p>*Freedom to be left alone;</p>
+        <p>*Freedom to gawk at others;</p>
+        <p>*Freedom to use a technique known as ''opting in'' when it comes to allowing commercial Web sites to collect personal data about oneself;</p>
+        <p>*Freedom to use a technique known as ''kicking out'' when it comes to William or Jordan or Karen or any of the other exhibitionists in the ''Big Brother'' house the public deems displeasing to the Webcam's unblinking eye.</p>
+        <p>But oh, the contradictions.</p>
+        <p>It often seems, for example, that the most outspoken electronic privacy rights advocates are among the most technically adept -- presumably because the real techies understand just how powerful the Internet's data-gathering capabilities can be.</p>
+        <p>So why, then, are some of the most technically adept people willing to take on even potentially broader privacy risks than the perils of receiving e-mail and surfing the Web? Think, for instance, of people adept enough to use Napster or Gnutella or various other software programs that let people swap digital music or other media files over the Internet.</p>
+        <p>So far, the debate over file sharing has focused on copyright issues. The critics, including the Recording Industry Association of America, which is suing to shut Napster down, say that too many of those music files are  swapped with too little regard to copyrights.</p>
+        <p>But services like Napster also involve latent privacy issues. To use one of these services means -- draw the shade and lock the door -- giving total strangers access to your own computer's hard drive. If it is true that even a few of those strangers have few scruples about copyright law, is there any reason -- besides thieves' honor -- to expect them to limit their foraging to the earmarked music files on someone else's PC?</p>
+        <p>Of course, Napster employs safeguards and partitions meant to prevent such unauthorized snooping. But the technically adept -- including a computer security expert named Mark Seiden, a hacker known as DT and some Napster users on the Napster.com software forum where I posted a query on this subject -- acknowledged some risk. The Napster users, though, generally dismissed hacker intrusions as a cause for worry.</p>
+        <p>One Napster user, going by the screen name spyrl, described the Zone Alarm firewall software he had installed to protect his computer from intruders. He also noted that ''so far there have been no known cases of people hacking through Napster and I am not going to let the idea of it give me paranoia.''</p>
+        <p>Spyrl, who in a follow-up e-mail exchange identified himself as 15-year-old Clint Johnson of North Myrtle Beach, S.C., added, ''I do not have sensitive files on my computer, because if they are that important I would print them out and delete them.''</p>
+        <p>BlinkyWillis -- the forum screen name for James Willis, a retired auto parts salesman in a Portland, Ore., suburb -- wrote that the four people in his household share a computer for their Internet access. This machine is not linked to their individual personal computers. ''I do not think we are unusual in our not conducting personal business (or at least leaving no record) on our Internet connection computer,'' Mr. Willis wrote in a subsequent e-mail message. ''We presume that individuals and institutions are accessing the information on our hard drives.''</p>
+        <p>Using a separate computer for Internet access was a common theme on the Napster.com forum. (See? The technologically rich really are different from you and me.)</p>
+        <p>A Napster.com forum member using the online name Drakonix also reported using firewall software, adding that ''the computer which has the physical connection to internet also has no sensitive or irreplaceable files.'' As for Napster, ''I suppose there is still some chance that it could be exploited,'' Drakonix wrote, ''but it is doubtful that Napster user systems would serve useful purpose as targets.''</p>
+        <p>In the view of these techies, then, using Napster presents only theoretical privacy risks. But for most people, the risk of an online merchant's stealing one's identity or the F.B.I.'s subsuming one's digital soul is probably only theoretical, too, right?</p>
+        <p>So is there really much difference among the theoretical privacy risks? Plenty, according to Mr. Seiden, the computer security expert.</p>
+        <p>''In the case of choosing to supply any service to the world, like Napster, it's your own choice to do so, and you can calculate the risk and reward,'' said Mr. Seiden, chief consultant at Securify, a network security consulting firm in Palo Alto, Calif. ''In the case of corporate spyware and the government, you are unaware of what they're doing until some reverse-engineering whistle-blower embarrasses the offenders. Meanwhile, they might have been watching you for years.''</p>
+        <p>If ''Big Brother'' is a social psychology experiment about privacy and group dynamics, so is that big, diverse group house known as the Internet.</p>
+        <p>''There probably are real differences among people in the extent to which they are willing to entrust private information to others,'' writes Anthony G. Greenwald, a social psychology professor the University of Washington, who has used the Web to conduct experiments among volunteers.</p>
+        <p>''Because some are more trusting than others,'' Mr. Greenwald said via e-mail, ''there should be a segmentable market for things that will attract the more trusting (online shopping, music via Napster, opening messages that may contain viruses).</p>
+        <p>''And there is also a market for things that appeal to the less trusting (alarm systems, unlisted phone numbers, etc.). We have an unattractive name for those who seem to live in excessive fear of attacks on their person or identity -- paranoid -- but I don't know of a name for the opposite.''</p>
+        <p>Let's see. How about the name William? Or Jordan? Or Karen?</p>
+        <p>NEW ECONOMY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

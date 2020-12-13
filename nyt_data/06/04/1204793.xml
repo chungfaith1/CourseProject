@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Art and the Environment</title>
+    <meta content="MB235053" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204793"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="JERSEY FOOTLIGHTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Water Pollution</classifier>
+        <location class="indexing_service">Meadowlands (NJ)</location>
+        <org class="indexing_service">Puffin Cultural Forum</org>
+        <person class="indexing_service">Demasters, Karen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE4DB1E3CF937A35755C0A9669C8B63" item-length="188" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Art and the Environment</hl1>
+      </hedline>
+      <byline class="print_byline">By KAREN DeMASTERS</byline>
+      <byline class="normalized_byline">Demasters, Karen</byline>
+      <abstract>
+        <p>Art exhibition, film and discussion series at Puffin Cultural Forum in Teaneck, NJ, will focus on New Jersey Meadowlands, which has become environmental battleground (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Meadowlands is one of the most reviled and ecologically damaged pieces of land in the United States, while it is some of the most valuable and environmentally fragile land in the country. Because of that contradiction, the Meadowlands has become an environmental battleground.</p>
+        <p>That battle is depicted in an art exhibition and film and discussion series being held at the Puffin Cultural Forum, 20 East Oakdene Avenue, Teaneck, through June 24.</p>
+      </block>
+      <block class="full_text">
+        <p>The Meadowlands is one of the most reviled and ecologically damaged pieces of land in the United States, while it is some of the most valuable and environmentally fragile land in the country. Because of that contradiction, the Meadowlands has become an environmental battleground.</p>
+        <p>That battle is depicted in an art exhibition and film and discussion series being held at the Puffin Cultural Forum, 20 East Oakdene Avenue, Teaneck, through June 24.</p>
+        <p>''Terra Infirma: Art, Activism and the Environment'' includes 20 photographs by Greenpeace International photographers of environmental disasters.</p>
+        <p>Also on display are prints by Richard K. Mills of Teaneck, a member of the Hackensack River Greenway Project.</p>
+        <p>The Andy Middleton Quintet will perform ''Jazz Inspired by the State of Our Earth'' today. Lavender Lake, a documentary on the cleanup efforts for the Gowanus Canal in Brooklyn will be shown on Friday.</p>
+        <p>KAREN DeMASTERS</p>
+        <p>JERSEY FOOTLIGHTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

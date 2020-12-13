@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>E-Signing Law Seen as a Boon To E-Business</title>
+    <meta content="Y04DIGI" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212454"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Feder, Barnaby J</person>
+        <person class="indexing_service">Clinton, Bill (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000704T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E5D91339F937A35754C0A9669C8B63" item-length="1020" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>E-Signing Law Seen as a Boon To E-Business</hl1>
+      </hedline>
+      <byline class="print_byline">By BARNABY J. FEDER</byline>
+      <byline class="normalized_byline">Feder, Barnaby J</byline>
+      <abstract>
+        <p>Pres Clinton signs new law allowing businesses and consumers to seal variety of legally-binding arrangements with electronic--rather than handwritten--signatures; analysts see this hastening pace of creation of new e-businesses and saving billions of dollars in administrative and clerical costs; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The law President Clinton signed last week allowing businesses and consumers to seal a variety of legally binding arrangements with electronic rather than handwritten signatures raised the speed limit on e-business development, analysts say.</p>
+        <p>They project that many enterprises awash in documents, especially financial services, real estate and the government itself, will accelerate efforts to use computer transactions to limit paperwork once the law takes effect in October. Such a transition is expected to save billions of dollars annually in administrative costs and cut some online transactions -- like setting up a trading account or applying for a home loan -- from days to minutes.</p>
+      </block>
+      <block class="full_text">
+        <p>The law President Clinton signed last week allowing businesses and consumers to seal a variety of legally binding arrangements with electronic rather than handwritten signatures raised the speed limit on e-business development, analysts say.</p>
+        <p>They project that many enterprises awash in documents, especially financial services, real estate and the government itself, will accelerate efforts to use computer transactions to limit paperwork once the law takes effect in October. Such a transition is expected to save billions of dollars annually in administrative costs and cut some online transactions -- like setting up a trading account or applying for a home loan -- from days to minutes.</p>
+        <p>''We'll be taking a look at every place we require signatures on a case-by-case basis,'' said Greg Gable, a spokesman for Charles Schwab &amp; Company, the stock broker. ''Convenience is important, and if a new capability has value, you can't afford not to have it.''</p>
+        <p>''E-signing,'' as the new process is called, is also expected to spur a variety of technologies that provide digital variations on penning one's name on paper, including the use of coded messages, penlike styluses or thumb prints on electronic pads, or camera shots of the signer's face or eye.</p>
+        <p>The new law came after 46 states and many foreign countries had adopted laws  encouraging online deal-making, and many online businesses have already incorporated such capabilities. So it may be hard to calculate the immediate financial impact of the federal law on the major companies supplying such technology.</p>
+        <p>''It validates the market but it won't really add to their revenue in the near term,'' said Mark Fernandes of Merrill Lynch, who follows companies that provide the software and support services needed for electronic business.</p>
+        <p>Moreover, because the law is careful not to favor any particular technology for signing contracts electronically, it does nothing to alter the scramble for dominance in the new field. The core of the business for now belongs to a group of companies, including VeriSign, Entrust Technologies, RSA and Baltimore Technologies, that provide ways for those doing business online to use coded messages and electronic ''certificates'' to complete their transactions.</p>
+        <p>All of them rely on public key encryption, a technology invented in the 1970's but not widely used until the e-commerce wave hit the Internet. Such systems use a combination of public and private keys, or snippets of numbers, to pass secure messages through a trusted third party, or certification authority. The system not only allows a recipient to be assured the message came from the party that claims to have sent it but also that it has not been tampered with.</p>
+        <p>The digital signature such systems produce looks nothing like a scrawled John Hancock -- in fact, it is invisible. As a result, many entrepreneurs are betting that other systems will be used instead of public key encryption, or in addition to it, to complete e-commerce deals. President Clinton signed the bill into law on Friday with a smart card -- a credit card-sized device programmed to work in combination with a password furnished by the user. Such systems are already widely used in Europe.</p>
+        <p>One company hoping to benefit is Signature-mail.com, based in Greenwich, Conn., which allows users to attach a picture of their actual signature to e-mail. The company's founders figure such a device may well be unacceptable as a legal e-signature since anyone could hit the computer key to send it and hackers might easily forge it. Still, says Michael Lloyd, a Signature-mail co-founder, such a feature might be attractive to companies like VeriSign as an added element to make their encryption products more consumer friendly.</p>
+        <p>Silanis Technology Inc. of Montreal already has a business software program to append visual signatures to documents, but its software makes it impossible to detach the signature, forward the document without it or alter the document once it is added. It is designed for use with the public key systems. Michael Laurie, vice president of alliances for Silanis, said that in response to the new law his company had set up a new business called onSign.com to distribute free e-signature software to consumers.</p>
+        <p>Communication Intelligence, based in Redwood Shores, Calif., and PenOp, a privately held New York company, have also bet that the human signature may retain a role in e-signing. Both companies have systems for authenticating who is signing a document based on how the name is written on a digital pad, but what counts is the pattern of pressures on the pad they are scanning rather than the visible shapes -- a form of biometrics.</p>
+        <p>Others say signatures will be overtaken in many applications by other biometric attributes that are unique to every individual such as digitized thumb prints -- picture applying your thumb to a pad on the keyboard -- or images of the retina of the eye. In some applications, people might ''sign'' by speaking, relying on the computer to recognize their voice or some code word.</p>
+        <p>''Because this legislation is technology neutral, you can use anything that can be fixed to an individual,'' said Anabella Hallawell, an analyst for the Gartner Group, a consulting firm based in Stamford, Conn. Ms. Hallawell expects strong demand for companies like Valicert that can manage multiple verification technologies for companies running e-business sites. Such services will also help the companies keep track of all of the consumer protection requirements written into the law, such as the restrictions on cutting off utility service without written notice.</p>
+        <p>Indeed, the original public key encryption companies like VeriSign and Entrust have long since begun migrating toward providing a full range of management services to e-business.</p>
+        <p>''The new law sends a message to the business community that e-signatures are O.K.,'' said Kevin M. Coleman, a specialist on Internet security issues for KPMG. ''This will be a case of a rising tide lifting all the boats.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

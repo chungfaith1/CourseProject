@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Wave of the Hand May Soon Make a Computer Jump to Obey</title>
+    <meta content="31NEXT$05" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1226537"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WHAT'S NEXT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Hands</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <person class="indexing_service">Eisenberg, Anne</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/What's Next</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000831T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7DD1730F932A0575BC0A9669C8B63" item-length="1021" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Wave of the Hand May Soon Make a Computer Jump to Obey</hl1>
+      </hedline>
+      <byline class="print_byline">By ANNE EISENBERG</byline>
+      <byline class="normalized_byline">Eisenberg, Anne</byline>
+      <abstract>
+        <p>Article on experiments in US and abroad on computer systems that use tiny cameras, fast processors and smart software to identify and respond quickly and accurately to range of hand gestures natural to humans; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WITHOUT a doubt, there are uncounted millions of people who have made rude gestures to their computer screens in moments of desperation. And the computers never respond, which doesn't help matters.</p>
+        <p>That may change. One day soon, computers may understand and respond to many common human gestures, from simple  pointing and grasping to the complex motions used to conduct an orchestra.</p>
+      </block>
+      <block class="full_text">
+        <p>WITHOUT a doubt, there are uncounted millions of people who have made rude gestures to their computer screens in moments of desperation. And the computers never respond, which doesn't help matters.</p>
+        <p>That may change. One day soon, computers may understand and respond to many common human gestures, from simple  pointing and grasping to the complex motions used to conduct an orchestra.</p>
+        <p>In laboratories in the United States and abroad, researchers are experimenting with computer systems that use tiny cameras, fast processors and smart software to identify and respond quickly and accurately to a range of hand gestures natural to humans.</p>
+        <p>Such systems promise to simplify the way people and computers interact. For instance, people may one day walk through their offices, living rooms or backyards and point out the chores that need to be done to video-based interfaces that will pass on the information to computers that can process  motions as well as words.</p>
+        <p>''Hand gestures -- and eventually full body and facial information -- are the natural complement to speech communication with a computer,'' said Dr. Jakub Segen, a researcher who has worked in this field for 10 years. Dr. Segen is a member of the technical staff at Lucent Technologies' Bell Labs in Murray Hill, N.J.</p>
+        <p>He and Dr. Senthil Kumar reported their work on gesture recognition technology, including tests of its accuracy, in the July issue of Communications of the ACM, a journal of the Association for Computing Machinery. Dr. Segen said he had been teaching the computer to recognize and respond accurately to a number of gestures made by the hand. His current project is aimed at making video conferences work better.</p>
+        <p>''Video conferences don't really cut it in their present form,'' Dr. Segen said. ''That's why I end up flying to California for meetings. So this seemed like a promising area for improvement.''</p>
+        <p>People attend Dr. Segen's virtual meetings by logging onto computers equipped with cameras that observe them and with special software that extracts important elements in their gestures. The computers translate participants' gestures into the movements of animated figures he calls  varionettes, marionettelike characters that imitate on the computer screen just what the people at their desks are doing.</p>
+        <p>''If you raise your hand to make a point,''  Dr. Segen said, ''the figure raises its hand, too.''</p>
+        <p>He has also demonstrated his technology in a livelier spot than a corporate meeting: the conductor's podium. Last year he conducted a digital orchestra -- as cameras tracked the position of Dr. Segen's hand, which was holding a baton, his software translated that motion into tempos for the digitally sampled instruments.</p>
+        <p>Such applications of gesture technology are not as far in the future as they might seem.</p>
+        <p>Dr. Frederick Bianchi, a professor at Worcester Polytechnic Institute and one of the founders of the Virtual Orchestra, the computerized orchestra simulation that Dr. Segen conducted, has also conducted the Virtual Orchestra by using Dr. Segen's system.</p>
+        <p>''We plan to have this technology on Broadway and on the road in the next few years,'' Dr. Bianchi said. Without Dr. Segen's system, someone keeps the beat for the Virtual Orchestra by tapping out a rhythm on a computer keyboard. With the new software system, Dr.  Bianchi said, a conductor will be able to use the  baton to set the dynamics and speed of the orchestra.</p>
+        <p>The system is set up for the one-handed conductor. What about the conductor who uses two hands, one to keep the pace and the other to signal crescendos or diminuendos or to tell players when to come in?</p>
+        <p>Richard Campbell, a colleague of Dr. Bianchi's on the Virtual Orchestra project and an electrical engineering professor at Worcester Polytechnic Institute, has supervised a graduate student's dissertation on a gesture controller that can understand two hands. ''One performance was the overture to Tchaikovsky's 'Nutcracker' with a full orchestral score,'' he said. ''The tempo tracked beautifully.''</p>
+        <p>While baton movements interest Mr. Campbell, Dr. Charles J. Cohen, vice president of research and development at the Cybernet Systems Corporation in Ann Arbor, Mich., has been concentrating on circles -- specifically, repeated circular motions. The work is being done for NASA and the Army.</p>
+        <p>The Army is using Dr. Cohen's programs to train scouts in the secret hand signals  they must transmit stealthily but accurately to troops. ''These are exactly the gestures our system can recognize,'' he said. The system promises to train scouts at least as well as the most remorseless sergeant, delivering relentless feedback about errors.</p>
+        <p>For the National Aeronautics and Space Administration, Dr. Cohen is developing kiosk screens that respond to gesture rather than touch. Such screens would, for instance, let an observer wave a hand in a circle to rotate a display of the space station.</p>
+        <p>Gesture-driven screens sidestep the problems of wear and tear that plague standard touch screens, problems like broken joysticks and dirt on the screens. They also make life easier for users.</p>
+        <p>''We want to create kiosks where people can use their hands, not a keyboard or mouse,'' said Stacey Morrison, the deputy chief information officer for the Space and Life Sciences Directorate at the Johnson Space Center in Houston. ''It's simpler if people can just point their hand to go left or right.''</p>
+        <p>Dr. Segen sees enormous potential for gesture technology. ''The ultimate wireless interface will be optical,'' he said. And optical devices can be very precise, he said, pointing out that cameras can read license plates from space.</p>
+        <p>So will computers someday be able to understand the kind of unfriendly gestures that show that a user is reaching a point of uncontrollable rage? The researchers have not tackled that problem yet. But computers that evolve in that direction could be the ones with the best chances of survival.</p>
+        <p>WHAT'S NEXT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

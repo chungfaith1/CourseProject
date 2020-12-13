@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ignoring Exhibit A: The Mailbox</title>
+    <meta content="14EVAN$02" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1207260"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Credit and Money Cards</classifier>
+        <classifier class="indexing_service" type="descriptor">Antitrust Actions and Laws</classifier>
+        <org class="indexing_service">Justice Department</org>
+        <org class="indexing_service">Visa International Inc</org>
+        <org class="indexing_service">Mastercard International Inc</org>
+        <person class="indexing_service">Evans, David</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit and Money Cards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Antitrust Actions and Laws</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E6DB123EF937A25755C0A9669C8B63" item-length="436" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ignoring Exhibit A: The Mailbox</hl1>
+      </hedline>
+      <byline class="print_byline">By David Evans</byline>
+      <byline class="normalized_byline">Evans, David</byline>
+      <dateline>BOSTON</dateline>
+      <abstract>
+        <p>Visa consultant David Evans Op-Ed article, citing heavy competition in credit card market, questions Justice Department's antitrust charges against Visa and MasterCard (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>These days, credit cards come in flavors to appeal to every taste. Anybody with a decent credit record receives an offer (or six) each month for yet another card. So, whatever you think of the credit card economy, it's hard to deny that the competition is hot and heavy. Why, then, is the Justice Department bringing antitrust charges against Visa and MasterCard, the two associations whose 6,000 members issue credit cards?</p>
+        <p>The Justice Department has two problems. First, it claims that the associations, which develop technology, standardize transaction procedures and market the brands on behalf of their members, are too intertwined. Banks can sit on the governing board of one association  even as it issues the cards of the other. Worse, Justice claims, are rules that inhibit competition by forbidding members from issuing cards from rivals like American Express and Discover.</p>
+      </block>
+      <block class="full_text">
+        <p>These days, credit cards come in flavors to appeal to every taste. Anybody with a decent credit record receives an offer (or six) each month for yet another card. So, whatever you think of the credit card economy, it's hard to deny that the competition is hot and heavy. Why, then, is the Justice Department bringing antitrust charges against Visa and MasterCard, the two associations whose 6,000 members issue credit cards?</p>
+        <p>The Justice Department has two problems. First, it claims that the associations, which develop technology, standardize transaction procedures and market the brands on behalf of their members, are too intertwined. Banks can sit on the governing board of one association  even as it issues the cards of the other. Worse, Justice claims, are rules that inhibit competition by forbidding members from issuing cards from rivals like American Express and Discover.</p>
+        <p>It may appear fishy that a member can help run one association and issue cards through the other. But not even the government claims these arrangements have inhibited competition between bank card issuers. By the same token, seemingly discriminatory rules against joint ventures with other credit cards have had no effect on the trustbusters' true clients: nobody is claiming that consumers are having a difficult time obtaining American Express cards on whatever terms American Express wishes.</p>
+        <p>The government says that new products, like ''smart cards'' with computer chips, would proliferate if only a private nonbank innovator like American Express could pursue joint ventures with association members. Maybe. But opening the associations to American Express could also inhibit innovation.</p>
+        <p>For example, in recent years Visa and MasterCard have spent heavily to compete against American Express's corporate cards. This competition has driven down the fees that merchants pay on purchases made by the high-spending holders of these cards. But if American Express had been able to pick off a few big association members, offering them great deals if they agreed to issue Amex corporate cards, Visa and MasterCard would probably not have tried to break into the corporate card market.</p>
+        <p>Such scenarios explain why the sprawling bank card associations need ''loyalty'' rules to compete on equal footing with a nimble corporation like American Express -- and why the trustbusters' activism is misplaced. The antitrust laws are there to defend consumers, not to front for companies looking for an edge in the marketplace.</p>
+        <p>David Evans, a senior vice president of National Economic Research Associates, is a consultant to Visa.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">David Evans, a senior vice president of National Economic Research Associates, is a consultant to Visa.</tagline>
+    </body.end>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV135503" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234932"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Harlan, Megan</person>
+        <person class="indexing_service">Kephart, Beth</person>
+        <object.title class="indexing_service">Into the Tangle of Friendship (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001001T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06EED8103BF932A35753C1A9669C8B63" item-length="364" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Megan Harlan</byline>
+      <byline class="normalized_byline">Harlan, Megan</byline>
+      <abstract>
+        <p>Megan Harlan reviews book Into the Tangle of Friendship: A Memoir of the Things That Matter by Beth Kephart (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Into the Tangle of Friendship</p>
+        <p>A Memoir of the Things That Matter.</p>
+        <p>By Beth Kephart.</p>
+        <p>Houghton Mifflin, $23.</p>
+      </block>
+      <block class="full_text">
+        <p>Into the Tangle of Friendship</p>
+        <p>A Memoir of the Things That Matter.</p>
+        <p>By Beth Kephart.</p>
+        <p>Houghton Mifflin, $23.</p>
+        <p>What is the nature of lasting, adult friendships? How do they compare with the intense, fiercely loyal alliances experienced in youth? In this intimate meditation on friendship, Beth Kephart poses these and other questions. The framework of the book is Kephart's account of how to teach her young son, Jeremy (whose developmental disorder is the subject of Kephart's first book, ''A Slant of Sun''), to value his playmates. But the other catalyst for the philosophical musings collected in ''Into the Tangle of Friendship'' is a high school best friend, Joanne, who abruptly gets in touch with Kephart after 20 years. Though the pair were once inseparable -- Kephart viewed Joanne as ''the noun and the verb . . . the event, the feeling, the actress, the audience'' -- their friendship ended after a painful betrayal over a boy. In spare, vignette-filled chapters, Kephart explores other bonds, like the often disappointing superficiality of her workplace relationships and the toll of inevitable personal tragedies on middle-aged friendships. Her lyrical yet conversational prose neatly evokes friendship's delicate balancing act, as when she deems it ''a benefaction and a weight,'' and decides, ''We grow too old too lose old friends.'' While it feels slightly unsatisfying that Kephart never fully discloses how she and Joanne get along upon their reunion -- she ultimately confesses only their intention to remain close -- it also reflects her most profound and subtle insight. While faith, trust, parity and empathy all play their roles, the will to keep a friendship alive becomes, as time passes and life crowds, the relationship's most powerfully defining aspect.</p>
+        <p>Megan Harlan</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

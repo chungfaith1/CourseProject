@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Editors' Note</title>
+    <meta content="21EDNO" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Theater; Corrections; Editors' Notes; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209098"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <location class="indexing_service">New York City</location>
+        <classifier class="online_producer" type="types_of_material">Editors' Note</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Editors' Notes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000621T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905EEDF1031F932A15755C0A9669C8B63" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Editors' Note</hl1>
+      </hedline>
+      <abstract>
+        <p>Editor's Note corrects front-page article on June 18 on wide variety of low-budget theatrical productions around New York City making use of city's huge pool of unemployed talent; explains how accompanying photograph was used to illustrate piece</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A front-page article on Sunday reported on the wide variety of low-budget theatrical productions around New York City making use of the city's huge pool of unemployed talent.</p>
+        <p>The article was illustrated by a photograph of four dancers from the unpaid cast of a production of ''Goldilocks'' rehearsing in front of a large mirror. The picture was made with a panoramic camera at a very slow shutter speed, in which the film is exposed from left to right over a period of a full second (compared with a standard speed ranging from one-thirtieth to one-thousandth of a second). Because of the very slow speed, the dancers' images as reflected in the mirror were caught at a slightly later moment, so they looked different.</p>
+        <p>This camera technique had an unusual effect in print, raising questions among some readers about whether there had been digital tampering with the image. To forestall such questions, the explanation of the unusual staggering of images should have been explained in the caption.</p>
+      </block>
+      <block class="full_text">
+        <p>A front-page article on Sunday reported on the wide variety of low-budget theatrical productions around New York City making use of the city's huge pool of unemployed talent.</p>
+        <p>The article was illustrated by a photograph of four dancers from the unpaid cast of a production of ''Goldilocks'' rehearsing in front of a large mirror. The picture was made with a panoramic camera at a very slow shutter speed, in which the film is exposed from left to right over a period of a full second (compared with a standard speed ranging from one-thirtieth to one-thousandth of a second). Because of the very slow speed, the dancers' images as reflected in the mirror were caught at a slightly later moment, so they looked different.</p>
+        <p>This camera technique had an unusual effect in print, raising questions among some readers about whether there had been digital tampering with the image. To forestall such questions, the explanation of the unusual staggering of images should have been explained in the caption.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

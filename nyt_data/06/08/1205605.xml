@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Through Rose-Colored Glass</title>
+    <meta content="08PERF$02" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1205605"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="CURRENTS: PARIS -- STOREFRONTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Retail Stores and Trade</classifier>
+        <location class="indexing_service">Paris (France)</location>
+        <org class="indexing_service">Commes des Garcons</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Retail</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France/Paris</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01E3D7153FF93BA35755C0A9669C8B63" item-length="124" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Through Rose-Colored Glass</hl1>
+      </hedline>
+      <byline class="print_byline">By Mallery Lane</byline>
+      <abstract>
+        <p>Rose-colored glass front of Commes des Garcons perfume shop in Paris exemplifies new emphasis on design in city's shopfronts; photo (S) (Currents)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Paris shopfronts are becoming more design conscious. Future Systems, the avant-garde British architecture firm, laminated plastic film onto glass to add a rosy glow to the 19th-century stone facade of the recently opened Comme des Garcons perfume shop, at 23 Place du Marche-St.-Honore.</p>
+      </block>
+      <block class="full_text">
+        <p>Paris shopfronts are becoming more design conscious. Future Systems, the avant-garde British architecture firm, laminated plastic film onto glass to add a rosy glow to the 19th-century stone facade of the recently opened Comme des Garcons perfume shop, at 23 Place du Marche-St.-Honore.</p>
+        <p>CURRENTS: PARIS -- STOREFRONTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

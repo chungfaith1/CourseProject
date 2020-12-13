@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Brain Folds</title>
+    <meta content="31QNA" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/31/science/31QNA.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1243330"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Brain</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Mental Health and Behavior</classifier>
+        <classifier class="online_producer" type="general_descriptor">Brain</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001031T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07EEDB1131F932A05753C1A9669C8B63" item-length="314" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Brain Folds</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Answer to reader's query about brain wrinkles</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q.  What do brain wrinkles have to do with how smart you are?</p>
+        <p>A.  A lot of wrinkles seems to have more to do with what makes humans smarter than lower animals than with what might have made Einstein smarter than you. In normal human brains, large grooves, called fissures; small ones, called sulci, and outward folds, called gyri, follow a standard plan from person to person.</p>
+      </block>
+      <block class="full_text">
+        <p>Q.  What do brain wrinkles have to do with how smart you are?</p>
+        <p>A.  A lot of wrinkles seems to have more to do with what makes humans smarter than lower animals than with what might have made Einstein smarter than you. In normal human brains, large grooves, called fissures; small ones, called sulci, and outward folds, called gyri, follow a standard plan from person to person.</p>
+        <p>Lower animals have smoother brains, apparently for evolutionary reasons. Cognitive brain activity takes place in cells in thin surface layers of the cerebral cortex, and skull size did not increase as fast as brain complexity did as the species evolved. Convoluted human brains pack a larger surface area into a small container.</p>
+        <p>Human intelligence appears to be related to the branching of brain cells and the formation of complex links between them, not the shape of the platform where the links take place.</p>
+        <p>Only in a rare disease called lissencephaly (''smooth brain'') is a lack of complex brain folding linked to mental deficiency. The condition is caused by the failure of developing nerve cells to migrate normally.</p>
+        <p>As for Einstein, recent studies of his preserved brain suggest that his intelligence may actually have been related in part to the absence of a fissure in a brain area involved in mathematical thinking, the inferior parietal lobe. The theory is that more links can be established between its cells because the groove is missing.</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

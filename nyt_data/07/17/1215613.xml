@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Microsoft Sees Software 'Agent' as Way to Avoid Distractions</title>
+    <meta content="17LAB" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20000718T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1215613"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Statistics</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <org class="indexing_service">Microsoft Corp</org>
+        <person class="indexing_service">Bayes, Thomas (1702-61)</person>
+        <person class="indexing_service">Horvitz, Eric</person>
+        <person class="indexing_service">Markoff, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Statistics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000717T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E7DF123BF934A25754C0A9669C8B63" item-length="1884" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Microsoft Sees Software 'Agent' as Way to Avoid Distractions</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <dateline>REDMOND, Wash.</dateline>
+      <abstract>
+        <p>Microsoft Corp is developing software meant to shield people from electronic and voice mail, appointment requests, Internet information and other electronic distractions while they are working; many computer-design experts believe restricting such interruptions to only the most urgent ones has become a pressing necessity in the Internet age; research on software, called Attention User Interface, is led by Eric Horvitz, and his work makes use of statistical techniques developed by Thomas Bayes in 18th century; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Attention, please.</p>
+        <p>Hoping to shed its longstanding industry reputation as a mere imitator, not an innovator, Microsoft is spending heavily on research in a wide range of software technologies that include hand-held computing and voice recognition. But the most intriguing project may be taking place in the cramped office of Eric Horvitz, a devotee of an obscure, 17-century statistical technique that plays a key role in his current work.</p>
+      </block>
+      <block class="full_text">
+        <p>Attention, please.</p>
+        <p>Hoping to shed its longstanding industry reputation as a mere imitator, not an innovator, Microsoft is spending heavily on research in a wide range of software technologies that include hand-held computing and voice recognition. But the most intriguing project may be taking place in the cramped office of Eric Horvitz, a devotee of an obscure, 17-century statistical technique that plays a key role in his current work.</p>
+        <p>In essence, Mr. Horvitz and his team of researchers are trying to make it possible, in the age of information overload, to reclaim the right to pay attention.</p>
+        <p>Using statistical probability and decision-theory techniques that draw inferences from a user's behavior, the team is developing software meant to shield people from information overload while they are working. The new software -- which Microsoft hopes to use in commercial products within the year -- would act as a combination secretary and traffic cop to hold back the torrents of electronic and voice mail, appointment requests and Internet information that increasingly threaten to overwhelm today's office workers.</p>
+        <p>In the view of many computer-design experts, restricting electronic interruptions to only the most urgent ones has become a pressing necessity in the Internet age.</p>
+        <p>''Most Internet entrepreneurs treat the users' attention as a third-world country to be strip mined,'' said Jakob Nielsen, a Silicon Valley expert on software useability.</p>
+        <p>Microsoft's top executives predict that if Mr. Horvitz's software goals can be reached, the company will be able to re-invent the personal computer user interface -- the visual and physical controls that since the mid-1980's have been fixed on the concept of mice, windows and on-screen menus.</p>
+        <p>In the view of Mr. Horvitz's team, this aging interface has allowed a deluge of electronic interruptions to cascade upon office workers with each new generation of technology, to the point that the telephone and potentially dozens of computer programs are now free to distract a person with impunity.</p>
+        <p>''If I had to write a book,'' Mr. Horvitz said in a recent interview, ''It would be titled 'My Battle With Attention.' ''</p>
+        <p>In the new world of the Attentional User Interface, as the researchers call it, a software program known as a notification manager would continuously monitor streams of data that include electronic mail, voice mail, Internet news alerts and so-called instant messaging notes.</p>
+        <p>The system would also observe whether the computer user was typing, talking on the phone or speaking with someone face to face in the office. Helping keep tabs of the user would be a small camera that could determine whether the person was present and looking at the computer screen.</p>
+        <p>But the Attentional User Interface would not be confined to the desktop computer. It would be a software cloak enveloping the users wherever they might be, able to alert them via cell phone, hand-held computer, pager or other digital means -- whenever and wherever the software deemed something worthy of their attention.</p>
+        <p>The notification manager software, which would reside on a remote computer out on the Internet, would use a continuously changing web of probabilities to evaluate each new piece of information in terms of its time value to the user. For the truly economic minded, the individual decisions could even be assigned monetary values.</p>
+        <p>If an e-mail message arrived from a colleague or a supervisor, for example, the system would try to determine how valuable it would be for the user to know about the message immediately. An urgent message from a family member might be assigned a value of $1, for example, while the colleague's message might be valued at 5 cents and the supervisor's at 25 cents.</p>
+        <p>In weighing the decision on whether to issue an alert, the notification manager software would take into account dozens of details -- like the time of day and whether the user was in his office, in a meeting, on the phone or behind the wheel. Having made the decision to send an alert, the program would also have enough information to know whether it should be displayed on the office computer screen or on the small screen of a cell phone, pager or other device.</p>
+        <p>''The software considers what the value of the information is and the cost of the disruption,'' Mr. Horvitz said.</p>
+        <p>The software is at the heart of the new post-PC ''.NET strategy'' that Microsoft announced last month. Even as its lawyers are intent on resisting a court-ordered break-up of the company, its technical staff is fixated on the idea of reinventing the computer user interface.</p>
+        <p>They are motivated, in part, by their desire to overcome the infamy of Bob -- an intrusive, cartoony on-screen valet Microsoft introduced with great fanfare in 1995 then quickly retired after it was ridiculed by computer users and reviewers. Despite that flop, William H. Gates, Microsoft's chief executive, who earlier this year also assumed the title of chief software architect, remains committed to the idea of software as an ''agent'' with human attributes.</p>
+        <p>''Throughout all those futuristic demos you've seen over the last few decades, there was always this concept of an agent, something working on your behalf,'' Mr. Gates said at a June 22 briefing where he introduced the company's .NET strategy. ''Well, we now have what it takes to really build an information agent. We have rich decision software called Bayesian Inference Software that we can build down into the system that can track your usage and adjust in an automatic fashion.''</p>
+        <p>Bayesian what, you say? The reference is to Bayesian statistical techniques -- so named for Thomas Bayes, a 17th-century English minister and polymath who described them in a posthumously published essay.</p>
+        <p>The Bayesian approach centers on a formula for updating the probabilities of events based on repeated observations. The formula, referred to as the Bayes rule, describes how to transform a current assumption about an event into a revised, more accurate assumption after observing further evidence.</p>
+        <p>In the late 1980's, artificial intelligence researchers seized on Bayesian techniques in part because more powerful computers were able to compute large networks of many variables quickly.</p>
+        <p>For Mr. Horvitz, the Bayesian approach came naturally. ''I was a Bayesian before I knew what it meant,'' he said. ''I was the kind of person who would look at events in the world and automatically consider the probability of certain events happening.''</p>
+        <p>Mr. Horvitz's Microsoft Web site (www.research.microsoft.com/users/horvitz) makes his commitment to the Bayesian perspective clear. Along with the lists of dozens of academic papers on decision theory and Bayesian methods is a photo of Mr. Horvitz and his young son on a visit to the Bayes tomb in London.</p>
+        <p>Mr. Horvitz, who has a Ph.D. in computer science and a medical degree from Stanford University, is an intense man who incessantly taps his foot during an interview. As a self-described entrepreneur, he started an artificial-intelligence company -- Knowledge Industries -- while he was still in medical school, sometimes unsuccessfully juggling the two pursuits. Once, as he assisted in the operating room, the chief surgeon ordered a nurse to remove Mr. Horvitz's pager, which was buzzing impatiently.</p>
+        <p>Microsoft acquired the company in 1993, after it was discovered by Nathan Myhrvold, who was Mr. Gates's chief technologist at the time and who persuaded Mr. Horvitz and his researchers that their work could make a bigger impact within Microsoft.</p>
+        <p>Two years later, the Horvitz team saw its first commercial program become part of Microsoft's Office software. The program, based on Bayesian techniques, was a relatively simple tool known as the Answer Wizard, which tried to anticipate the needs of users looking up topics in the software's electronic documentation.</p>
+        <p>The Bayesian techniques have been widely adopted in Microsoft's products -- including the Paper Clip help wizard that pops up frequently to offer advice in the company's Office program. Many users, however, have criticized Paper Clip as an irritant, popping up too often with unwanted help.</p>
+        <p>Mr. Horvitz, who speaks apologetically about the Paper Clip program, said its shortcomings were the result of Microsoft's failure to implement all of his team's ideas.</p>
+        <p>There have been other missteps indicating that Bayesian techniques must be added to software with great care. In December 1998, for example, Blue Mountain Arts, the Internet greeting card company, filed suit after it discovered that a preliminary version of Microsoft's electronic mail software mistakenly filtered Blue Mountain's e-mail greeting cards into users' trash cans. The filter, which had been based on software developed by Mr. Horvitz's researchers, was repaired in the final release of the program. It was an important lesson, he said, in the risk of artificial intelligence making poor judgments.</p>
+        <p>The new Attentional User Interface is already employed in several experimental systems being tested In Mr. Horvitz's office. One, called Lookout, automatically reads electronic mail messages and attempts to schedule requests for appointments and meetings. Another system, Priorities, performs the calculus of deciding when and where to interrupt the user.</p>
+        <p>As one of the few computer users who has experienced such a software agent, Mr. Horvitz concedes that it has had a startling effect on him.</p>
+        <p>''There is a definite sense of a continuous, cross-device 'presence' that understands me and my life in a way that I had not been accustomed to -- and that people have not been accustomed to yet,'' he wrote in a recent e-mail message.</p>
+        <p>Indeed, some computer scientists familiar with Mr. Horvitz's work worry that the Attentional User Interface may be too disorienting.</p>
+        <p>''If a system changes in ways that are not predictable, it may be upsetting to the user,'' said Ben Schneiderman, a computer scientist at the University of Maryland. ''The designers of these systems tend to create elaborate models, which can cause both users and designers to lose track of what's happening.''</p>
+        <p>And Mr. Horvitz and his researchers themselves acknowledge that the information collected by the notification manager software -- potentially, information on the personal activities and movements of millions of people that would be stored on the Internet -- raises privacy and security issues that have yet to be resolved.</p>
+        <p>But Mr. Horvitz said he was confident that adequate security and privacy safeguards would be created. And he sees a vast array of other applications for his Bayesian approach.</p>
+        <p>''Come back in six months,'' he said. His researchers are now working on a conversational system they plan to use experimentally in the research group's reception area. He expects that the system will be able to greet and converse with new visitors. The conversation, he says, will be on par with speaking to a person who is hard-of-hearing.</p>
+        <p>Not perfect, but within shouting distance of the future world of software agents.</p>
+        <p>TECHNOLOGY  Correction:  July 18, 2000, Tuesday  An article in Business Day yesterday about software research at Microsoft based in part on a statistical technique developed by Thomas Bayes, an English mathematician and clergyman, misstated the century in which he worked. It was the 18th, not the 17th.</p>
+        <p>Correction:  July 29, 2000, Saturday  An article in Business Day on July 17 about Microsoft's plans for new software technologies to manage information overload misstated the company's relationship to an artificial intelligence company, Knowledge Industries. While Microsoft bought parts of it in 1993, the company remains independent; it was not wholly acquired.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: July 18, 2000, Tuesday</p>
+        <p>An article in Business Day yesterday about software research at Microsoft based in part on a statistical technique developed by Thomas Bayes, an English mathematician and clergyman, misstated the century in which he worked. It was the 18th, not the 17th.</p>
+        <p>&lt;br&gt;</p>
+        <p>Correction: July 29, 2000, Saturday</p>
+        <p>An article in Business Day on July 17 about Microsoft's plans for new software technologies to manage information overload misstated the company's relationship to an artificial intelligence company, Knowledge Industries. While Microsoft bought parts of it in 1993, the company remains independent; it was not wholly acquired.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

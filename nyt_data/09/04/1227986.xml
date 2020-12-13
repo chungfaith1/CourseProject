@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>QUOTATION OF THE DAY</title>
+    <meta content="04QUOTE" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1227986"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">QUOTATION OF THE DAY</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000904T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE6DF1E30F937A3575AC0A9669C8B63" item-length="94" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>QUOTATION OF THE DAY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''With all today's technology we really feel we have most of the faults located. But then something like this happens and we go, 'Oops, I'll be darned.' ''</p>
+        <p>PAT JORGENSON, a spokeswoman for the United States Geological Survey, on yesterday's earthquake. [A12]</p>
+      </block>
+      <block class="full_text">
+        <p>''With all today's technology we really feel we have most of the faults located. But then something like this happens and we go, 'Oops, I'll be darned.' ''</p>
+        <p>PAT JORGENSON, a spokeswoman for the United States Geological Survey, on yesterday's earthquake. [A12]</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

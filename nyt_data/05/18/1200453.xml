@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Digital Limits</title>
+    <meta content="LTR233541" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Theater; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200453"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">gilliard, robert j</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000518T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E1D7173AF93BA25756C0A9669C8B63" item-length="111" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Digital Limits</hl1>
+      </hedline>
+      <abstract>
+        <p>Robert J Gilliard letter on May 11 article warns use of virtual orchestra is not likely to be limited to supporting touring groups and small ensembles that cannot afford orchestra</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Digitally Sampled Sounds Are Filling Out Some Orchestra Pits'' (May 11) seems to show that some people are on a high-speed quest to a totally technological society. But there are cultural things that do not benefit from technological efficiencies.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Digitally Sampled Sounds Are Filling Out Some Orchestra Pits'' (May 11) seems to show that some people are on a high-speed quest to a totally technological society. But there are cultural things that do not benefit from technological efficiencies.</p>
+        <p>If this application were limited to the stated purpose -- supporting touring groups and small ensembles that otherwise could not afford an orchestra -- that might be acceptable. But often such systems are not self-limiting.</p>
+        <p>ROBERT J. GILLIARD  Cambria Heights, N.Y.</p>
+        <p>The writer is director of the electro-acoustics division at Sound Advice Associates.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

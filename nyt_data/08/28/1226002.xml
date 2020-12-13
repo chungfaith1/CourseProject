@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="28CX" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1226002"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings (Video)</classifier>
+        <org class="indexing_service">Court TV (Network)</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Video)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000828T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E6DA1131F93BA1575BC0A9669C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of August 21 Business Day article on planned Court TV series offering videotaped confessions of people accused of violent crimes such as murder</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article in Business Day last Monday about a planned Court TV series offering the videotaped confessions of people accused of violent crimes misstated the outcome of a case involving Daniel Rakowitz, who was taped confessing to the murder and dismemberment of a woman in Manhattan in 1989. He was tried and found not responsible by reason of insanity in 1991. He was not judged unfit to stand trial.</p>
+      </block>
+      <block class="full_text">
+        <p>An article in Business Day last Monday about a planned Court TV series offering the videotaped confessions of people accused of violent crimes misstated the outcome of a case involving Daniel Rakowitz, who was taped confessing to the murder and dismemberment of a woman in Manhattan in 1989. He was tried and found not responsible by reason of insanity in 1991. He was not judged unfit to stand trial.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

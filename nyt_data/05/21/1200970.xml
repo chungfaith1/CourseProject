@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bloomsberries</title>
+    <meta content="RV071130" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200970"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BOOKS IN BRIEF: NONFICTION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Dunham, Jillian</person>
+        <person class="indexing_service">Todd, Pamela</person>
+        <object.title class="indexing_service">Bloomsbury at Home (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000521T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01EEDA143BF932A15756C0A9669C8B63" item-length="233" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bloomsberries</hl1>
+      </hedline>
+      <byline class="print_byline">By Jillian Dunham</byline>
+      <byline class="normalized_byline">Dunham, Jillian</byline>
+      <abstract>
+        <p>Jillian Dunham reviews book Bloomsbury at Home by Pamela Todd; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>All scandals need a setting: tumultuous love affairs require bedrooms and shaded gardens, sociocultural revolutions their parlors and studios. With this in mind, Pamela Todd, a chronicler of domesticity, organized BLOOMSBURY AT HOME (Abrams, $27.50) ''by biography and geography.'' Todd, hoping ''to step behind the posed facade,'' has had the enviable task of poring over the letters and photographs of the celebrated aggregation of painters, writers and intellectuals and peering into what is left of their domains. She does a good job of extracting the gems -- the book glitters with wonderful quotations, images and anecdotes, like Vanessa Bell and Duncan Grant's newborn daughter, Angelica, being observed by her future husband, David Garnett, while she was being weighed in a shoebox on Christmas Day, 1918. But the chapters, defined by addresses, jump around in space and time and hunger for a sense of narrative. Thus we are told, on several occasions, that Grant was Bell's longtime extramarital lover. Lacking direction, you almost lose sense of what place meant to the Bloomsberries; however, paintings, drawings and home furnishings by the group allow an understanding to emerge. Which is a good thing, since, as Garnett himself once said, ''Places explain people.''</p>
+        <p>Jillian Dunham</p>
+      </block>
+      <block class="full_text">
+        <p>All scandals need a setting: tumultuous love affairs require bedrooms and shaded gardens, sociocultural revolutions their parlors and studios. With this in mind, Pamela Todd, a chronicler of domesticity, organized BLOOMSBURY AT HOME (Abrams, $27.50) ''by biography and geography.'' Todd, hoping ''to step behind the posed facade,'' has had the enviable task of poring over the letters and photographs of the celebrated aggregation of painters, writers and intellectuals and peering into what is left of their domains. She does a good job of extracting the gems -- the book glitters with wonderful quotations, images and anecdotes, like Vanessa Bell and Duncan Grant's newborn daughter, Angelica, being observed by her future husband, David Garnett, while she was being weighed in a shoebox on Christmas Day, 1918. But the chapters, defined by addresses, jump around in space and time and hunger for a sense of narrative. Thus we are told, on several occasions, that Grant was Bell's longtime extramarital lover. Lacking direction, you almost lose sense of what place meant to the Bloomsberries; however, paintings, drawings and home furnishings by the group allow an understanding to emerge. Which is a good thing, since, as Garnett himself once said, ''Places explain people.''</p>
+        <p>Jillian Dunham</p>
+        <p>BOOKS IN BRIEF: NONFICTION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

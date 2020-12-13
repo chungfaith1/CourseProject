@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="24INSI" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1241478"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001024T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E6DC1431F937A15753C1A9669C8B63" item-length="180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Israeli Coalition Talks  Prime Minister Ehud Barak opened talks with Ariel Sharon, the rightist opposition leader, on forming a coalition government as Israeli-Palestinian violence continued.</p>
+        <p>PAGE A18</p>
+      </block>
+      <block class="full_text">
+        <p>Israeli Coalition Talks  Prime Minister Ehud Barak opened talks with Ariel Sharon, the rightist opposition leader, on forming a coalition government as Israeli-Palestinian violence continued.</p>
+        <p>PAGE A18</p>
+        <p>Worth Staying Up Late  The Jets, trailing by 30-7 in the fourth quarter, rallied to defeat the Miami Dolphins, 40-37, in overtime to cap the greatest comeback in their history.</p>
+        <p>SPORTSTUESDAY, PAGE D7</p>
+        <p>The Enigma of Eating  What is ''normal'' eating? Researchers haven't defined it yet. But other studies show that being overweight may not mean being out of shape.</p>
+        <p>SCIENCE TIMES, PAGES F1, F7</p>
+        <p>Actors' Strike Is Settled  A tentative agreement was reached between advertisers and thousands of actors who appear in television commercials, ending a nearly six-month labor dispute.</p>
+        <p>PAGE C1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Building a Better Web With Content Blueprints</title>
+    <meta content="13USEE$03" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1214470"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Iguana Studios</org>
+        <person class="indexing_service">Furness, Colin</person>
+        <person class="indexing_service">Biersdorfer, J D</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000713T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E5DC1E38F930A25754C0A9669C8B63" item-length="728" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Building a Better Web With Content Blueprints</hl1>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+      <byline class="normalized_byline">Biersdorfer, J D</byline>
+      <abstract>
+        <p>Colin Furness, information architect at Iguana Studios, a Web design company in Manhattan, says the essence of his job is to organize the structure and content of all the material on a Web site and figure out how users can effectively navigate through the site to find the one or two things they might be looking for; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HAVE you ever gone to a Web site to find a specific piece of information and found yourself falling through a series of pages while clicking around helplessly, trying to find what you want? Do you feel as though you have opened the door to the basement of your new house only to find that the architect forgot to design the staircase that leads to the lower level?</p>
+        <p>A good architect won't forget your staircase, and a good information architect -- a job that is becoming increasingly more important as the world moves to the Web -- will make sure that visitors to a site will be able to find their way around easily as well. Although some in the new-media industry  have lumped the job with that of a Web site's graphic designer, the role of an information architect in the creation of a site is actually much different.</p>
+      </block>
+      <block class="full_text">
+        <p>HAVE you ever gone to a Web site to find a specific piece of information and found yourself falling through a series of pages while clicking around helplessly, trying to find what you want? Do you feel as though you have opened the door to the basement of your new house only to find that the architect forgot to design the staircase that leads to the lower level?</p>
+        <p>A good architect won't forget your staircase, and a good information architect -- a job that is becoming increasingly more important as the world moves to the Web -- will make sure that visitors to a site will be able to find their way around easily as well. Although some in the new-media industry  have lumped the job with that of a Web site's graphic designer, the role of an information architect in the creation of a site is actually much different.</p>
+        <p>''With apologies to 'Shoeless Joe,' the maxim 'If you build it, they will come' simply does not apply to the Web,'' said Colin Furness, a senior information architect at Iguana Studios, a Web design company in Manhattan that has designed sites for the Corcoran.com real estate site and the American Society for the Prevention of Cruelty to Animals. ''And many storefronts have not figured this out yet. Poor useability that alienates users -- especially mom and pop -- is cheap and easy, which is perhaps why it is so plentiful.''</p>
+        <p>The information architect's job, Mr. Furness said, is to organize the structure and content of all the material on a Web site. The architect also must figure out how users can effectively navigate through the site to find the one or two things they might be looking for, like a pair of khaki pants on a large clothing retailer's site. Once that blueprint has been laid out, the Web site's graphic designer will concentrate on the visual look of the site. Or, to put it back into building terms, the information architect decides where the window will go, and the designer decides what the window will look like.</p>
+        <p>A Web page's look and feel depends on things like where the site puts its search box for users to seek out specific words quickly, but there are no uniform design standards, Mr. Furness said. He noted that while some Web page conventions, like colored, underlined hyperlinks to other Web sites, are quickly understood by most new users, other inconsistencies in design and layout may make the Web hard to grasp.</p>
+        <p>''The rules for navigation, information classification and hierarchy and widgets such as drop-down menus -- and there are actually rules -- have not been consistently applied,'' Mr. Furness said, ''so no standards have emerged, and this has hindered users' abilities to learn and master cyberspace.'' He likened it to the early days of automobiles, when dashboards varied so widely that drivers had to learn a new set of controls before they could operate a car.</p>
+        <p>Information architecture may also be aimed at a specific audience. Older users,  Mr. Furness said, who may have less familiarity with computers as well as the Web, will probably respond differently to an e-commerce site that features loud, snazzy animations and graphics than someone who is used to a more traditional online visual style. In his work, Mr. Furness has noticed that newer users tend to feel more comfortable ''when clickable links are larger, when there is less information density per page, when colors are softer and things are explained in more detail using suitable language and symbolism.''</p>
+        <p>The Web itself is barely a decade old, and standards are bound to emerge as it evolves. Once the technology is in place, it is just a matter of adapting it to suit the needs of people, instead of the other way around.</p>
+        <p>''The world has been slow to realize that the Web is nothing more than a very big information system that can benefit from the same attention to human factors,'' Mr. Furness said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

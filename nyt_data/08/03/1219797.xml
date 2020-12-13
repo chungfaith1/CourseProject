@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Nerd as Stereotype</title>
+    <meta content="LTR000206" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1219797"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Women</classifier>
+        <person class="indexing_service">rappaport, jenny r</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000803T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E3D8163CF930A3575BC0A9669C8B63" item-length="148" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Nerd as Stereotype</hl1>
+      </hedline>
+      <abstract>
+        <p>Jenny R Rappaport letter says 'nerd' stereotype is not the norm among women or men in computer science (July 27 articel)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>While statistics, such as those cited in ''Computer Science Not Drawing Women'' (July 27), are useful for describing the expected drop in the percentage of women majoring in computer science, they cannot accurately portray the experience of being a woman majoring in computer science.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>While statistics, such as those cited in ''Computer Science Not Drawing Women'' (July 27), are useful for describing the expected drop in the percentage of women majoring in computer science, they cannot accurately portray the experience of being a woman majoring in computer science.</p>
+        <p>I am a sophomore majoring in computer science at Carnegie Mellon University; among sophomores, 50 of the 130 computer science majors are women. This year's incoming freshman class has similar or even greater numbers of women entering the major.</p>
+        <p>And even though the typical ''male nerd'' stereotype is present, it is not the norm among women or men in my major.</p>
+        <p>We are not encouraged to think of computer science as pure programming knowledge, as the media often depicts it, but as a field that is literally brimming with possibilities, like artificial intelligence, biocomputing and robotics.</p>
+        <p>JENNY R. RAPPAPORT  Manalapan, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

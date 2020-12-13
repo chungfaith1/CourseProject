@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Puzzles of Radiation</title>
+    <meta content="11NUKE" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1206364"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <classifier class="indexing_service" type="descriptor">Radiation</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <org class="indexing_service">Brookhaven National Laboratory</org>
+        <person class="indexing_service">Cotsalas, Valerie</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E1DE123FF932A25755C0A9669C8B63" item-length="490" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Puzzles of Radiation</hl1>
+      </hedline>
+      <byline class="print_byline">By VALERIE COTSALAS</byline>
+      <byline class="normalized_byline">Cotsalas, Valerie</byline>
+      <abstract>
+        <p>Public debate on health effects of low-level radiation at Brookhaven National Laboratory raises issue of whether data on which most studies are based may be fundamentally flawed (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A PUBLIC debate Monday on the health effects of low-level radiation at Brookhaven National Laboratory raised a common issue: that the data on which most radiation health studies are based may be fundamentally flawed.</p>
+        <p>Four experts who presented different sides of the issue, including the results of their own and historical studies on radiation effects, also faulted other panelists' data and conclusions.</p>
+      </block>
+      <block class="full_text">
+        <p>A PUBLIC debate Monday on the health effects of low-level radiation at Brookhaven National Laboratory raised a common issue: that the data on which most radiation health studies are based may be fundamentally flawed.</p>
+        <p>Four experts who presented different sides of the issue, including the results of their own and historical studies on radiation effects, also faulted other panelists' data and conclusions.</p>
+        <p>Key among the objections on both sides was the researchers' inability to quantify the effects of ''confounders,'' factors like smoking or medical history, when concluding that low-level radiation did or did not result in more cases of cancer.</p>
+        <p>One recurring point of contention was the radiation studies on the survivors of the atomic bombings of Hiroshima and Nagasaki. Since there is no way to determine accurately the radiation that the survivors received, the data are fundamentally flawed, according to Dr. Steven Wing, an epidemiologist from the University of North Carolina, who was one of the panelists.</p>
+        <p>The meeting was organized by the Community Advisory Committee, a local group set up by state and local agencies to raise issues of concern about Brookhaven. Overviews of results from more than 25 radiation studies and other literature were offered to the 100 people who came.</p>
+        <p>The literature underscored the main point of one of the experts, Diane Quigley, a research fellow at Clark University in Worcester, Mass., who said it was important for residents to learn about radiation studies and to get involved in making decisions at nuclear facilities.</p>
+        <p>The results of the meeting were difficult to measure. ''My biggest concern was that the people who were there left more confused than anything else,'' said Scott Cullen, attorney for Standing for Truth About Radiation, a nuclear watchdog group. ''The idea behind this was good but the possible result of it is that it raises more questions than it does answers.''</p>
+        <p>Two experts took positions that ''there are few things in life as safe as low-level radiation,'' in the words of Dr. Otto Raabe, professor of radiation biophysics and environmental engineering at the University of California at Davis, and that low-level radiation ''stimulates the immune system, which then protects against cancer,'' which is the theory explaining the results of a radon study by Dr. Bernard Cohen, retired professor of physics and astronomy and adjunct of environmental and occupational health at the University of Pittsburgh.</p>
+        <p>The debate ended soon after one woman, who said she had recently lost a child to leukemia, expressed frustration over the discussion. ''What can you say to make me feel good about going to bed at night and to still be living here?'' she asked.</p>
+        <p>Dr. Cohen was quick to express his sympathy, but said the cause of her child's cancer ''just can't be from small doses of radiation from Brookhaven.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

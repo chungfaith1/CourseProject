@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cultural Grants for Newark</title>
+    <meta content="MB005604" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211903"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="FOOTLIGHTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Grants (Corporate and Foundation)</classifier>
+        <org class="indexing_service">Newark Museum</org>
+        <org class="indexing_service">New Jersey Performing Arts Center (Newark)</org>
+        <org class="indexing_service">Dodge, Geraldine R, Foundation</org>
+        <person class="indexing_service">Demasters, Karen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Grants (Corporate and Foundation)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Philanthropy</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E1D71439F931A35754C0A9669C8B63" item-length="160" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cultural Grants for Newark</hl1>
+      </hedline>
+      <byline class="print_byline">By KAREN DeMASTERS</byline>
+      <byline class="normalized_byline">Demasters, Karen</byline>
+      <abstract>
+        <p>Geraldine R Dodge Foundation, honoring its 25th anniversary, grants $1 million each to Newark Museum and New Jersey Performing Arts Center (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Newark Museum and the New Jersey Performing Arts Center were each awarded a $1 million grants by the Geraldine R. Dodge Foundation in honor of the foundation's 25th anniversary. Unlike most grants, the money was given without an application process and can be used for general operating expenses. Similar grants will be awarded in the future, according to David Grant, foundation executive director.</p>
+        <p>''The grants to the two Newark cultural organizations will add to the momentum of the city's renaissance,'' said John Yingling, the foundation's chief financial officer.</p>
+      </block>
+      <block class="full_text">
+        <p>The Newark Museum and the New Jersey Performing Arts Center were each awarded a $1 million grants by the Geraldine R. Dodge Foundation in honor of the foundation's 25th anniversary. Unlike most grants, the money was given without an application process and can be used for general operating expenses. Similar grants will be awarded in the future, according to David Grant, foundation executive director.</p>
+        <p>''The grants to the two Newark cultural organizations will add to the momentum of the city's renaissance,'' said John Yingling, the foundation's chief financial officer.</p>
+        <p>The money will allow the Newark Museum to reinstall its American art collection sooner than previously planned and will also be used for exhibitions focusing on Latino cultures. At the New Jersey Performing Arts Center, the money will be used to support core programs like arts education and the World Festival, which focuses on international culture and its local impact.</p>
+        <p>KAREN DeMASTERS</p>
+        <p>FOOTLIGHTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

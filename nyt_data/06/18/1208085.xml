@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Children's Books</title>
+    <meta content="RV070919" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208085"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Leonard, Andrew</person>
+        <person class="indexing_service">Fleischman, Paul</person>
+        <object.title class="indexing_service">Lost! A Story in String (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Columns/Children's Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E7D7113FF93BA25755C0A9669C8B63" item-length="369" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Children's Books</hl1>
+      </hedline>
+      <byline class="print_byline">By Andrew Leonard</byline>
+      <byline class="normalized_byline">Leonard, Andrew</byline>
+      <abstract>
+        <p>Andrew Leonard reviews book Lost! A Story in String by Paul Fleischman (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lost! A Story in String</p>
+        <p>By Paul Fleischman.</p>
+        <p>Illustrated by C. B. Mordan.</p>
+        <p>Holt, $15.95. (Ages 5 to 9)</p>
+      </block>
+      <block class="full_text">
+        <p>Lost! A Story in String</p>
+        <p>By Paul Fleischman.</p>
+        <p>Illustrated by C. B. Mordan.</p>
+        <p>Holt, $15.95. (Ages 5 to 9)</p>
+        <p>Like constellations, string pictures -- the kind made by looping a strand of yarn around your fingers in different patterns -- are often in the eye of the beholder, figments of restless human imagination. A pattern called the Whistling Mouth sounds great, but would you ever have guessed what it was without help from a string-lore master?</p>
+        <p>Perhaps not. But as a good introduction to the subject, combined with a story of girlish self-reliance and dogged derring-do, Paul Fleischman's ''Lost! A Story in String,'' with striking illustrations by C. B. Mordan, is likely to encourage some serious string twirling. Anyone can create the classic Barnyard Gate with just a couple of thumb hooks and pinkie twists, and from that start there are no limits.</p>
+        <p>''Lost! A Story in String'' is a tale of human inventiveness on two levels. The main narrative concerns a string-twirling 9-year-old girl who looks for her dog in snowbound woods until she gets lost herself, then has to rely on her wits to survive. She follows a blue jay to a hazelnut tree, creates a lean-to with some sticks and a fallen log, fashions snowshoes out of pine bark. The message is clear: the girl need not be afraid of the forest if she keeps her head. Just as she can create shapes -- a Dog's Head, the North Star -- out of a length of twine, so can she keep herself alive (and rescue her dog!) in the middle of a howling blizzard.</p>
+        <p>Likewise, another 9-year-old girl, distracted from the nuisance of an electrical blackout by her grandmother's telling the story of the lost girl, is encouraged not to be distraught at the sudden lack of a television, VCR or radio to amuse her. Who needs the razzle-dazzle of modern electronic entertainment when you've got a piece of string? Just start looping, and let your imagination flow.</p>
+        <p>Andrew Leonard</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

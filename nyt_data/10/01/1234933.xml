@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV135514" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234933"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Friedman, Paula</person>
+        <person class="indexing_service">Mulholland, Catherine</person>
+        <person class="indexing_service">Mulholland, William (1855-1935)</person>
+        <object.title class="indexing_service">William Mulholland and the Rise of Los Angeles (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001001T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901EED8103BF932A35753C1A9669C8B63" item-length="275" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Paula Friedman</byline>
+      <byline class="normalized_byline">Friedman, Paula</byline>
+      <abstract>
+        <p>Paula Friedman reviews book William Mulholland and the Rise of Los Angeles by Catherine Mulholland (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>William Mulholland and the Rise of Los Angeles</p>
+        <p>By Catherine Mulholland.</p>
+        <p>University of California, $35.</p>
+      </block>
+      <block class="full_text">
+        <p>William Mulholland and the Rise of Los Angeles</p>
+        <p>By Catherine Mulholland.</p>
+        <p>University of California, $35.</p>
+        <p>William Mulholland (1855-1935) has been credited with a major role in the shaping of Southern California, with results that have remained controversial. In her even-toned biography, his granddaughter Catherine Mulholland draws from extensive sources, including his personal office files, in an effort to put to rest notions of conspiracy in the acquisition of land in the Owens River Valley and the building of the aqueduct that has provided most of the southland's water since the beginning of the last century. Wryly noting that the movie ''Chinatown'' has served as a major source on the subject, Mulholland points out the film's distortion of real events. She counters accusations that Mulholland, then the superintendent of the Los Angeles Water Department, faked rainfall records to create public fear of a drought, thereby ensuring support for the aqueduct. She interprets the controversy attached to Los Angeles's water acquisitions as arriving in part from Wild West mythology that pictured the region as an unspoiled Eden plundered by the greedy and unscrupulous. Still, she does not turn a blind eye to the effects of urban expansion. Neatly suggesting the paradox of metropolitan growth, she quotes her grandfather's response to the City Hall battles over whether or not to build the aqueduct: ''If Los Angeles does not secure the Owens Valley water supply, she will never need it.''</p>
+        <p>Paula Friedman</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

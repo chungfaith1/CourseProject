@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR012228" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1243502"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Hotwire.com</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001031T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504EEDA1230F932A05753C1A9669C8B63" item-length="134" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of October 24 report in Technology Briefings column in Business Day on opening of HotWire.com, online airline ticket service</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A report in the Technology Briefing column of Business Day last Tuesday about the opening of Hotwire.com, an online airline ticket service, misstated the practices of Priceline.com, a competitor. Its users propose a price they are willing to pay for tickets and must buy them if Priceline can match that price. Priceline does not require users to bid for seats and accept the lowest fare offered.</p>
+      </block>
+      <block class="full_text">
+        <p>A report in the Technology Briefing column of Business Day last Tuesday about the opening of Hotwire.com, an online airline ticket service, misstated the practices of Priceline.com, a competitor. Its users propose a price they are willing to pay for tickets and must buy them if Priceline can match that price. Priceline does not require users to bid for seats and accept the lowest fare offered.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

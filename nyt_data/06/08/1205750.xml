@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="CN222455" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1205750"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E2D9133FF93BA35755C0A9669C8B63" item-length="325" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BAY VIEW CAPITAL CORP., San Mateo, Calif., a bank holding company, agreed to sell its Bankers Mutual lending unit to closely held Berkshire Mortgage Finance L.P., Boston, for $40 million in cash.</p>
+        <p>BEA SYSTEMS INC., San Jose, Calif., a supplier of software and services for companies doing business on the Internet, said it bought closely held Softport Systems Inc., New York. Terms were not disclosed.</p>
+      </block>
+      <block class="full_text">
+        <p>BAY VIEW CAPITAL CORP., San Mateo, Calif., a bank holding company, agreed to sell its Bankers Mutual lending unit to closely held Berkshire Mortgage Finance L.P., Boston, for $40 million in cash.</p>
+        <p>BEA SYSTEMS INC., San Jose, Calif., a supplier of software and services for companies doing business on the Internet, said it bought closely held Softport Systems Inc., New York. Terms were not disclosed.</p>
+        <p>TITAN CORP., San Diego, which makes communication equipment, said it planned to acquire a majority stake in Ivoire Telecom, which is a voice and data transmission company with operations in eight West African countries. Financial terms were not disclosed.</p>
+        <p>CHIRON CORP., Emeryville, Calif., a biotechnology drug company, said it planned to repurchase as many as four million shares, or about 2.2 percent of the 180 million shares outstanding, during the next 12 months.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

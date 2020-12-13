@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'X-Files' Returns</title>
+    <meta content="MB012125" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200243"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TV NOTES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <person class="indexing_service">Carter, Bill</person>
+        <person class="indexing_service">Anderson, Gillian</person>
+        <person class="indexing_service">Duchovny, David</person>
+        <object.title class="indexing_service">X-Files, the (TV Program)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000517T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E6D61F3BF934A25756C0A9669C8B63" item-length="142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'X-Files' Returns</hl1>
+      </hedline>
+      <byline class="print_byline">By BILL CARTER</byline>
+      <byline class="normalized_byline">Carter, Bill</byline>
+      <abstract>
+        <p>The X-Files television series will be back for final season in fall, but participation of its star, David Duchovny, is undecided; Gillian Anderson, co-star, has signed to appear in all episodes of show (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After a long period of doubt, ''The X-Files'' will be back for a final season in the fall, representatives of the show's creator, Chris Carter, confirmed yesterday.</p>
+        <p>Still undecided is the particiption of the series' star, David Duchovny. He remains in negotiations over how many episodes he will act in, with reports ranging from as few as six to as many as 16.</p>
+      </block>
+      <block class="full_text">
+        <p>After a long period of doubt, ''The X-Files'' will be back for a final season in the fall, representatives of the show's creator, Chris Carter, confirmed yesterday.</p>
+        <p>Still undecided is the particiption of the series' star, David Duchovny. He remains in negotiations over how many episodes he will act in, with reports ranging from as few as six to as many as 16.</p>
+        <p>But the Fox network will have a full season of ''The X-Files'' to hold down its 9 p.m slot on Sunday nights, and the co-star, Gillian Anderson, is signed to play in all of them.</p>
+        <p>BILL CARTER</p>
+        <p>TV NOTES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

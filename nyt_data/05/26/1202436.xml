@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Judge Bans Web Site's Use of EBay Data</title>
+    <meta content="Y26EBA$02" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1202436"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Auctions</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">Decisions and Verdicts</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <org class="indexing_service">Ebay Inc</org>
+        <org class="indexing_service">Bidder's Edge Inc</org>
+        <person class="indexing_service">Whyte, Ronald M (Judge)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Auctions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000526T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE6D7123DF935A15756C0A9669C8B63" item-length="317" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Judge Bans Web Site's Use of EBay Data</hl1>
+      </hedline>
+      <abstract>
+        <p>US District Court Judge Ronald M Whyte grants request by eBay to stop another Web site, Bidder's Edge Inc, at least temporarily, from compiling database of eBay's auction information without its consent; ban will remain until full trial, scheduled for next March (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A federal judge has granted a request by the auction giant eBay to stop another Web site, at least temporarily, from compiling a database of eBay's auction information without its consent.</p>
+        <p>The decision was issued Wednesday by Judge Ronald M. Whyte of the United States District Court in San Jose, Calif. It  bans Bidder's Edge Inc., the operator of an auction listings site, from ''accessing eBay's computer systems by use of any automated querying system without eBay's written authorization.''</p>
+      </block>
+      <block class="full_text">
+        <p>A federal judge has granted a request by the auction giant eBay to stop another Web site, at least temporarily, from compiling a database of eBay's auction information without its consent.</p>
+        <p>The decision was issued Wednesday by Judge Ronald M. Whyte of the United States District Court in San Jose, Calif. It  bans Bidder's Edge Inc., the operator of an auction listings site, from ''accessing eBay's computer systems by use of any automated querying system without eBay's written authorization.''</p>
+        <p>The ban, which takes effect in early June, will remain until a full trial, scheduled for next March.</p>
+        <p>James Carney, chief executive of Bidder's Edge, said his company intended to appeal the decision and to seek a stay of the ban.</p>
+        <p>The ruling, if not reversed, may serve as a precedent to safeguard contents of large, publicly available databases like eBay's, said lawyers familiar with the case.</p>
+        <p>Bidder's Edge is a so-called auction aggregator, a Web service that let visitors search through the listings of multiple auction sites from a single page. To compile its listings, it uses software that crawls through the eBay site about 100,000 times a day to extract information.</p>
+        <p>Last December, eBay sued, contending that the practice, known as spidering, amounted to an unauthorized trespass of its computer system. It also said the listings compiled by Bidder's Edge and posted on the site were incomplete and misleading, thus harmful to eBay's business.</p>
+        <p>Bidder's Edge denied the assertions and countersued, accusing eBay of wrongful monopolistic practices. That suit is pending.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

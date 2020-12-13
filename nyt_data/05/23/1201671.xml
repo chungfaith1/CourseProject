@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>VITAL SIGNS: Rx MONEY; Save at One End, Spend at the Other</title>
+    <meta content="23SAVE" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health &amp; Fitness" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201671"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Heart</classifier>
+        <classifier class="indexing_service" type="descriptor">Health Insurance</classifier>
+        <person class="indexing_service">Nagourney, Eric</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Anatomy and Physiology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000523T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E0DE123AF930A15756C0A9669C8B63" item-length="267" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>VITAL SIGNS: Rx MONEY; Save at One End, Spend at the Other</hl1>
+      </hedline>
+      <byline class="print_byline">By Eric Nagourney</byline>
+      <byline class="normalized_byline">Nagourney, Eric</byline>
+      <abstract>
+        <p>Study finds that shortening a heart patients stay at the hospital after surgery may save money at the hospital only by shifting the expense elsewhere (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Reducing medical costs has become a major goal in the age of managed care, but a new study finds that can be trickier to accomplish than it may seem.</p>
+        <p>One of the main ways to reduce costs is by shortening as much as possible the amount of time people are hospitalized. They are now told to come in as close to surgery as possible, for example, and discharged far earlier than was the practice in the past.</p>
+      </block>
+      <block class="full_text">
+        <p>Reducing medical costs has become a major goal in the age of managed care, but a new study finds that can be trickier to accomplish than it may seem.</p>
+        <p>One of the main ways to reduce costs is by shortening as much as possible the amount of time people are hospitalized. They are now told to come in as close to surgery as possible, for example, and discharged far earlier than was the practice in the past.</p>
+        <p>When surgeons at the Boston University School of Medicine took a look at the savings associated with the early discharge of patients who had had heart bypass surgery, they found that in many cases the medical costs were simply shifted elsewhere, including to nursing services in the home or extended-care facilities. And in some cases, when problems arose, the patients had to be quickly readmitted to hospitals.</p>
+        <p>The findings were presented earlier this month by Dr. Harold Lazar, a cardiothoracic surgeon, at a meeting of the American Association for Thoracic Surgery.</p>
+        <p>According to the university, researchers compared bypass patients from 1990 with those from 1998, when patients spent an average of 3.8 fewer days in the hospital.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

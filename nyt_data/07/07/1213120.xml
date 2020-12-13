@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR011707" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213120"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000707T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E5D81638F934A35754C0A9669C8B63" item-length="149" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Corrections to July 3 article about challenge of maintaining a reliable flow of electricity</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article in Business Day on Monday about the challenge of maintaining a reliable flow of electricity to meet the needs of the computerized economy miscalculated the amount of time that a user would be without electricity if the power supply were 99.99999999 percent reliable. It would be 0.0032 of a second a year, not 32 seconds.</p>
+        <p>The article also described FuelCell Energy incorrectly. The company, which changed its name last September, was founded in 1969 as the Energy Research Corporation. It is not a start-up company. A chart with the article provided an outdated list of the company's products; it spun off its battery business as Evercel Inc. last year.</p>
+      </block>
+      <block class="full_text">
+        <p>An article in Business Day on Monday about the challenge of maintaining a reliable flow of electricity to meet the needs of the computerized economy miscalculated the amount of time that a user would be without electricity if the power supply were 99.99999999 percent reliable. It would be 0.0032 of a second a year, not 32 seconds.</p>
+        <p>The article also described FuelCell Energy incorrectly. The company, which changed its name last September, was founded in 1969 as the Energy Research Corporation. It is not a start-up company. A chart with the article provided an outdated list of the company's products; it spun off its battery business as Evercel Inc. last year.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

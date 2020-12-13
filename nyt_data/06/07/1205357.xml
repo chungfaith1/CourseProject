@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ratings That Know What You're Looking at, and When</title>
+    <meta content="07APPE$14" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="E-Commerce" name="dsk"/>
+    <meta content="37" name="print_page_number"/>
+    <meta content="H" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1205357"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Ratings and Rating Systems</classifier>
+        <org class="indexing_service">Media Metrix</org>
+        <org class="indexing_service">Nielsen/net Ratings</org>
+        <person class="indexing_service">Appelman, Hillary</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE7DB103DF934A35755C0A9669C8B63" item-length="1371" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ratings That Know What You're Looking at, and When</hl1>
+      </hedline>
+      <byline class="print_byline">By HILARY APPELMAN</byline>
+      <byline class="normalized_byline">Appelman, Hillary</byline>
+      <abstract>
+        <p>Hillary Appelman article on Internet audience rating business; notes companies can track every link followed by their thousands of volunteer panelists as they surf Web and know when users stop interacting with computer; Media Metrix Inc and Nielsen/Net Ratings compete to become dominant company in field (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TELEVISION has its Nielsens. Radio has its Arbitrons. Now the audience ratings business has moved to the Internet. This time, it just about knows when you are in the bathroom.</p>
+        <p>Billions of dollars in advertising are spent each year on the basis of audience ratings that profess to tell what Americans are watching and when. Yet advertisers have no way of knowing if you are glued to the TV, or if you head for the kitchen every time there is a commercial.</p>
+      </block>
+      <block class="full_text">
+        <p>TELEVISION has its Nielsens. Radio has its Arbitrons. Now the audience ratings business has moved to the Internet. This time, it just about knows when you are in the bathroom.</p>
+        <p>Billions of dollars in advertising are spent each year on the basis of audience ratings that profess to tell what Americans are watching and when. Yet advertisers have no way of knowing if you are glued to the TV, or if you head for the kitchen every time there is a commercial.</p>
+        <p>Things are different on the Internet.</p>
+        <p>The computer's ability to track a user's every online move makes it possible to collect far more information about Internet users than has been the case with traditional media audiences. Internet ratings companies can track every link followed by their thousands of volunteer panelists as they surf the Web, recording how long they spend at a given site, when they stop interacting with the computer, even for a moment, and whether they click on banner ads.</p>
+        <p>''It's not simply that a person is at the other end,'' said Chris Charron, the director of media and entertainment at Forrester Research in Cambridge, Mass. ''It's 'Is that person engaged? Are they responding to content? Are they responding to advertising?' All of those things are becoming much more important to measure.''</p>
+        <p>Although the bottom line of audience ratings is commerce, the abundance of data, or metrics, as the audience-tracking numbers are known, should in theory translate into Web sites better tailored to users' interests and needs and even better suited to the capacities of users' computers. It should, again in theory, mean research less crude than divining that Americans like to watch women fight to marry rich strangers. That is, if the numbers are accurate, which remains to be seen.</p>
+        <p>The battle to become the household name in Internet ratings is being fought by four-year-old Media Metrix Inc. and Nielsen/Net Ratings, a joint venture of Nielsen Media Research, the television-ratings giant, and Net Ratings Inc. of Milpitas, Calif.</p>
+        <p>Media Metrix and Nielsen/Net Ratings each have about 50,000 American panelists and are rapidly expanding overseas. The panels, made up of randomly selected volunteers, are 10 times the size of the Nielsen television panel; they have to be bigger because the numbers are spread across thousands of Web sites in a constantly changing online universe.</p>
+        <p>Other players in the market include PC Data of Reston, Va.; the French company NetValue, which entered the United States market in April; and online advertising and marketing networks like DoubleClick and MatchLogic.</p>
+        <p>Privacy concerns raised by companies like DoubleClick, which collects data without the user's knowing, are not an issue for Media Metrix or Nielsen/Net Ratings, whose panel members have agreed to have their Internet use monitored. Panelists receive small cash incentives -- $25 every six months -- or coffee mugs and beach towels.</p>
+        <p>Unlike Nielsen television ratings, which rely partly on weekly diaries and are subject to the vagaries of memory and wishful thinking, Internet ratings data is collected by software that tracks panelists' computer activity and automatically sends the collected information.</p>
+        <p>''We're blessed on the Internet because there's no survey component,'' said Tim Meadows, a senior vice president for marketing at Net Ratings. ''Everything that we track is what actually happens, not what people want to tell you happens.''</p>
+        <p>The numbers are being used not only by advertisers but also by investment companies and venture capitalists to evaluate Web companies' stock prices and potential investment values, in lieu of traditional measures like earnings and profits.</p>
+        <p>''Online companies use the data to track the competition and appraise potential acquisitions,'' said Doug McFarland, a senior vice president and general manager at Media Metrix. ''It's a combination of media and market research. There are billion-dollar decisions being made with this data.''</p>
+        <p>Despite the high stakes, the ratings numbers have little outside verification.</p>
+        <p>Bruce MacEvoy, the director of advertising research at the portal site Yahoo.com, said the ratings companies needed to be able to validate their projections by matching them against actual user counts kept by the Web sites.</p>
+        <p>''It's an evolving art,'' he said. ''We're building an industry here; we're not flying on something that's been around 20 years.''</p>
+        <p>Many large clients are subscribing to more than one ratings service, which can cost hundreds of thousands of dollars a year, as they wait to see which becomes the industry standard.</p>
+        <p>The ratings, while similar, do not always match. In March, for example, both companies reported Yahoo.com as the top-visited Web site. Nielsen/Net Ratings said about 39.2 million home-computer users came to the site, while Media Metrix put the number at 40.5 million. The next most popular site, according to Media Metrix, was MSN.com, with 32 million visitors, while Nielsen/Net Ratings said it was AOL.com, with 35.3 million visitors.</p>
+        <p>The companies are highly critical of each other's panel-  and data-selection methods, which they cite for the differences.</p>
+        <p>Still more vexing are the sometimes large discrepancies between the rating companies' numbers and the logs kept by Web sites. ''Because the Internet is so measurable, there's a high expectation on numbers and measurability, but also a lot of different ways to measure simple things,'' said Mr. Meadows, of Net Ratings.</p>
+        <p>Both Media Metrix and Net Ratings are working with Internet sites to try to reconcile any discrepancies.</p>
+        <p>Shane Ankeney, the director of media strategy at the Los Angeles advertising agency TBWA/Chiat/Day, said that advertisers used the panel-based ratings more for strategy and planning and less for actual advertisement pricing.</p>
+        <p>Pricing itself is based on the number of times an advertisement is seen, which is counted by the site or the advertising network that displays it, Mr. Ankeney said.</p>
+        <p>''On television, I can't tell you how many people were watching 'E.R.' when my Apple commercial ran,'' he said. ''Nielsen will tell you on average how many people are watching that show, and anyone watching the show at that time probably saw my ad as well.'' But referring to online exposure, Mr. Ankeney noted: ''I don't care about Yahoo over all. I want to know how many people saw my ad.''</p>
+        <p>THE panel-based information is invaluable to advertisers who want to identify which sites can help them reach certain segments of the population, said Mr. MacEvoy of Yahoo. In addition, the ratings provide a consistent measurement standard, making comparisons possible. A Web retailer deciding where to advertise might look at ratings data on sites that were  popular with the retailer's own visitors, Mr. Ankeney said. Or the retailer might look for sites frequented by people who matched its demographics but who had not visited the  site.</p>
+        <p>The ability to measure actual responses to online advertisements is changing the Internet business model, said Mr. Charron of Forrester Research.</p>
+        <p>Sites will no longer attract advertisers simply by pulling in high traffic numbers; they will have to prove that those visitors are looking at the advertisements and acting, he said.</p>
+        <p>Fifteen percent of Internet advertising is priced on performance criteria already, and Forrester estimated that 50 percent would be by 2004, Mr. Charron noted.</p>
+        <p>''Advertisers are starting to demand that they pay for advertising on the basis of action,'' he said. That could spell trouble for some popular sites -- like gaming, news and chat sites -- whose users are less likely to interact with advertising.</p>
+        <p>''The Internet shows us that reach and frequency, in and of themselves, do not indicate value,'' Mr. Charron said.</p>
+        <p>''The media ratings services will have to become much more advertising- and commerce-focused, not just simply traffic-focused,'' he added.</p>
+        <p>But Mr. McFarland said that perspective provided a limited view of the advertising and the audience-ratings business.</p>
+        <p>''It's about more than data,'' he said, ''it's about understanding consumer behavior.''</p>
+        <p>Hilary Appelman is a freelance writer living in Clinton, N.Y.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Hilary Appelman is a freelance writer living in Clinton, N.Y.</tagline>
+    </body.end>
+  </body>
+</nitf>

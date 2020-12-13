@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Eye of the Beholder</title>
+    <meta content="LTR000419" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1228615"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Recordings (Audio)</classifier>
+        <classifier class="indexing_service" type="descriptor">Dvd (Digital Versatile Disk)</classifier>
+        <person class="indexing_service">pond, nigel</person>
+        <person class="indexing_service">Lewis, Peter H</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">DVD (Digital Versatile Disk)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000907T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E7DB1539F934A3575AC0A9669C8B63" item-length="246" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Eye of the Beholder</hl1>
+      </hedline>
+      <abstract>
+        <p>Nigel Pond letter on Peter H Lewis's Aug 24 article holds quality of recording made on DVD Video Recorder cannot be higher than that of tape it copies</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''DVD Toy for Rich Techies'' (State of the Art, Aug. 24), about the  the Panasonic DMR-E10 DVD Video Recorder:</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''DVD Toy for Rich Techies'' (State of the Art, Aug. 24), about the  the Panasonic DMR-E10 DVD Video Recorder:</p>
+        <p>I want to comment on Peter H. Lewis's experience in recording from an old videotape. There is simply no way that the copy, even on DVD, can look better than the original. Resolution cannot be added in the recording process -- picture information cannot be created that was not there originally.</p>
+        <p>I suspect that there were psychological elements at work here. Mr. Lewis knows that DVD is generally better than VHS, so that's what he saw. It happens to us all.</p>
+        <p>Mr. Lewis also criticizes Hollywood for its reaction to the cracking of the CSS copyright protection for DVD movies. What sort of new business model does he suggest they try? Pay-per-view is not an option after the abject failure of Circuit City's DiVX model, and rental is already an option in most metropolitan areas.</p>
+        <p>The only sure way to protect intellectual property rights in this case is through litigation.</p>
+        <p>NIGEL POND  Wilmington, Del.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

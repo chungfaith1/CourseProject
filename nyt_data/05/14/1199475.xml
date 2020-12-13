@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'I Love You' -- So Hard to Resist, So Ripe for Evil</title>
+    <meta content="14VIRU$01" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1199475"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PERSONAL BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <person class="indexing_service">Whitaker, Barbara</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000514T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E4DB153BF937A25756C0A9669C8B63" item-length="1188" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'I Love You' -- So Hard to Resist, So Ripe for Evil</hl1>
+      </hedline>
+      <byline class="print_byline">By BARBARA WHITAKER</byline>
+      <byline class="normalized_byline">Whitaker, Barbara</byline>
+      <abstract>
+        <p>'I love you' message attached to destructive computer virus proved success as act of applied psychology; induced people aware of threat of viruses spread by e-mail to open attachment; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ON any ordinary day, Mike McCloskey, an expert in understanding the decision-making needed to protect computer networks, would open an e-mail attachment only if he knew it was coming.</p>
+        <p>But there he was on an unusually busy day, scanning through the subject lines in his electronic in-box, facing the choice of opening one of many dry business-related missives or the one from a friend tagged ''I Love You.''</p>
+      </block>
+      <block class="full_text">
+        <p>ON any ordinary day, Mike McCloskey, an expert in understanding the decision-making needed to protect computer networks, would open an e-mail attachment only if he knew it was coming.</p>
+        <p>But there he was on an unusually busy day, scanning through the subject lines in his electronic in-box, facing the choice of opening one of many dry business-related missives or the one from a friend tagged ''I Love You.''</p>
+        <p>He went with the more intriguing choice. ''I thought it would be a nice break,'' Mr. McCloskey said.</p>
+        <p>Of course, it turned out to be no such thing. Like millions of other computer users, he had blithely opened the door to a malicious virus that corrupted several files and replicated itself in a swarm of new I-Love-You's, this time purporting to come from Mr. McCloskey.</p>
+        <p>If all is fair in love and war, this virus was a sucker punch felt around the world. Those three little words that have manipulated hearts and minds through the ages were once again working their magic, but in a very insidious way.</p>
+        <p>''We joked about it here,'' said Mr. McCloskey, who works at Klein Associates, a research and development company in Fairborn, Ohio, that studies real-world decision making. ''This virus preys on the love-starved.''</p>
+        <p>All that is needed to write a computer virus is a bit of programming skill and a malevolent streak; it is often said that a child can do it. But with ever-growing awareness of viruses that are spread through e-mail attachments, getting the public to unwittingly propagate such a virus requires some cunning. ''I Love You'' hit home not as an act of digital vandalism so much as applied psychology.</p>
+        <p>''Everyone wants to be loved,'' said John Vranesevich, founder of AntiOnline, a computer security research group in Beaver, Pa., that studies hacking and computer viruses.</p>
+        <p>And as Mr. Vranesevich sees it, the ''I Love You'' virus is another evolutionary turn in an endless game of cat and mouse between hackers and those who want to stop them.</p>
+        <p>''Ever since the Melissa virus, there has been a huge educational campaign from the government, the security industry and employers: You don't click on attachments,'' Mr. Vranesevich said. ''Melissa,'' until now, had been the most widespread, disruptive and costly computer virus recorded.</p>
+        <p>BUT the original version of that advice was, don't click on attachments from people you don't know. So virus writers found ways to hijack the e-mail address books on infected computers to make it appear that the victims were sending out the messages.</p>
+        <p>The new advice from security experts is to open only attachments that you know are coming from familiar senders. But plenty of people who knew better fell for ''I Love You'' anyway.</p>
+        <p>''This is the largest infection we've seen to date,'' Mr. Vranesevich said. ''This virus spread around the world in under six hours. We've seen over 10 million computers infected, and the damages are estimated at over $2 billion.</p>
+        <p>''It was a coup d'etat,'' he said.</p>
+        <p>But it was not brought about through technical brilliance. ''It's not a remarkable virus,'' said Sarah Gordon, a data security analyst who works as a consultant with I.B.M.'s antivirus group. She noted that the programming code that makes up the virus contains many obvious clues to its origin that a sophisticated writer would have obscured. ''It is interesting mainly because it's so widespread,'' she said.</p>
+        <p>Nor did the virus sprout wings because of its poetry. Ellen Ullman, a computer programmer and author, said she did not even find the sentiment, which appears in the e-mail subject line as capital letters jammed together, to be at all romantic. ''I really think it is the 'I Hate You' virus,'' she said.</p>
+        <p>WHILE experts draw a distinction between ordinary hackers, who try to trespass into particular computers, and virus writers, whose aim is to wreak indiscriminate havoc, successful computer tricksters in both categories often develop a knack for manipulating people. Like any con artist, ''they try to get people to feel comfortable, where they don't think anything is wrong,'' Mr. Vranesevich said.</p>
+        <p>Or, as Mr. McCloskey put it: ''Social engineering is a subskill that a lot of hackers have. It's a way of getting information out of people.''</p>
+        <p>Experts say it is common, for example, for a hacker to call a company pretending to be an employee or a customer who needs help -- with a lost ID or password, for example -- to get information he can use to break into systems. Mr. McCloskey told of one who impersonated the son of a top executive at a large communications company so he could get a tour of its facilities and spot vulnerabilities.</p>
+        <p>Mr. Vranesevich, who profiles computer vandals for the Federal Bureau of Investigation, said hacker culture glorifies such tactics. ''It's something they lecture about,'' he said. ''The whole point is to lie and get people to believe you.''</p>
+        <p>In the case of e-mail, the medium of deception is the subject line, where a few words must pique the recipient's interest. Common grabbers in e-mail advertising include ''Free!'' and ''Great Opportunity!'' or the generically familiar ''Check this out!'' and ''Have you seen this?''</p>
+        <p>Late last week, it was not yet clear exactly who wrote the ''I Love You'' virus or why, or even if its release was intentional. A technical-college student named Onel de Guzman, who spoke to investigators and reporters in the Philippines last week, said ''it is possible'' that he unleashed the virus. Whoever it was, though, the person who typed the subject line found a grabber to trump them all.</p>
+        <p>''I can't think of better words to get somebody to open up an attachment,'' said Dr. Marion Solomon, a Los Angeles psychotherapist who specializes in issues of love and marriage. ''The curiosity, if nothing else.'' She added, ''What are the magic words? I love you. Tell me you love me. We always, throughout life, feel the best when we have the message that someone loves us, when we know we are in a loving relationship. It comes right from the beginning of life.''</p>
+        <p>Mr. McCloskey is hardly the first person to have taken the bait of those three words in one context or another and felt foolish afterward. ''You get the e-mail from a name you know and it says, 'I love you,' '' he said. ''There's an inherent sort of trust of that.</p>
+        <p>''I heard the same virus was retagged as saying something like 'Your Mother's Day order has been confirmed.' I can't imagine that would be near as effective.''</p>
+        <p>PERSONAL BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

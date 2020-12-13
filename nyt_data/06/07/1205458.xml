@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>At Home and Cox Plan Internet TV Test</title>
+    <meta content="Y07TELE" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1205458"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <org class="indexing_service">Cox Communications Inc</org>
+        <org class="indexing_service">At Home Corp</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000607T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E6DD153FF934A35755C0A9669C8B63" item-length="215" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>At Home and Cox Plan Internet TV Test</hl1>
+      </hedline>
+      <abstract>
+        <p>At Home Corp to cooperate with Cox Communications in test of interactive television services in San Diego; intends to deliver interactive services such as news, weather, e-mail and shopping (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Moving from computer screens to television sets, the At Home Corporation will cooperate with Cox Communications in a test of interactive television services in San Diego.</p>
+        <p>At Home, which is controlled by the AT&amp;T Corporation, is the nation's leading provider of cable modem service, which delivers high-speed Internet access using cable television lines. Cox is one of the biggest cable television providers.</p>
+      </block>
+      <block class="full_text">
+        <p>Moving from computer screens to television sets, the At Home Corporation will cooperate with Cox Communications in a test of interactive television services in San Diego.</p>
+        <p>At Home, which is controlled by the AT&amp;T Corporation, is the nation's leading provider of cable modem service, which delivers high-speed Internet access using cable television lines. Cox is one of the biggest cable television providers.</p>
+        <p>Cable operators of all sizes have spent billions of dollars in recent years to upgrade their systems to give computer users high-speed access to cyberspace, but many United States households do not have computers at all.</p>
+        <p>In their San Diego trial, At Home and Cox intend to deliver interactive services, like news, weather, and on-demand stock quotes, as well as e-mail and shopping. One person close to the test, which will be formally announced today, said the effort, which could begin as soon as next month, will cover only a few thousand homes.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

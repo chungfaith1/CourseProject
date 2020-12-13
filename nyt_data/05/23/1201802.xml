@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="23CBRIE" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201802"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000523T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E7D81F3AF930A15756C0A9669C8B63" item-length="386" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>COLUMBIA ENERGY GROUP,  Herndon, Va., the energy services company, said it is seeking to sell its Propane Corp., Richmond, Va., and Petroleum Corp., Richland, Pa., subsidiaries.</p>
+        <p>GN STORE NORD,  Copenhagen, the Danish telecommunications and electronic equipment company, said it agreed to buy privately held Jabra Corp., San Diego, for $40 million, plus extra payments of up to $35 million depending on Jabra's future earnings.</p>
+      </block>
+      <block class="full_text">
+        <p>COLUMBIA ENERGY GROUP,  Herndon, Va., the energy services company, said it is seeking to sell its Propane Corp., Richmond, Va., and Petroleum Corp., Richland, Pa., subsidiaries.</p>
+        <p>GN STORE NORD,  Copenhagen, the Danish telecommunications and electronic equipment company, said it agreed to buy privately held Jabra Corp., San Diego, for $40 million, plus extra payments of up to $35 million depending on Jabra's future earnings.</p>
+        <p>RADIO ONE INC.,  Lanham, Md., the urban broadcaster that owns and operates 50 radio stations aimed at the African-American market, said it would split its stock 3-for-1. The split will be in the form of a stock dividend of two newly created shares for each of the 28.3 million shares outstanding.</p>
+        <p>CROMPTON CORP.,  Greenwich, Conn., said it is in talks with unspecified buyers to sell an industrial-chemicals unit as part of the company's plan to focus on its main polymer and specialty-chemical businesses.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

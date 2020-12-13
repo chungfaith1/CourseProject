@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV100300" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1233013"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Iyengar, Sunil</person>
+        <person class="indexing_service">Zagajewski, Adam</person>
+        <object.title class="indexing_service">Another Beauty (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000924T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E7D71238F937A1575AC0A9669C8B63" item-length="347" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Sunil Iyengar</byline>
+      <byline class="normalized_byline">Iyengar, Sunil</byline>
+      <abstract>
+        <p>Sunil Iyengar reviews book Another Beauty by Adam Zagajewski (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ANOTHER BEAUTY</p>
+        <p>By Adam Zagajewski.</p>
+        <p>Farrar, Straus &amp; Giroux, $23.</p>
+      </block>
+      <block class="full_text">
+        <p>ANOTHER BEAUTY</p>
+        <p>By Adam Zagajewski.</p>
+        <p>Farrar, Straus &amp; Giroux, $23.</p>
+        <p>Most memoirs describe their authors' passage from innocence to experience; the Polish poet and essayist Adam Zagajewski suggests an opposite formula. ''Another Beauty'' recounts ''an inverted version of 'Don Quixote,' ''his attempts to salvage dignity and self-expression from the collectivist rubble of 1960's and 70's Krakow. Zagajewski had to shed the cynicism he acquired from Communist Party propaganda. Equally threatening was the temptation to become a professional ironist, an ideologue for the opposition. Zagajewski purged himself of both perspectives. This process involved a validation of emotive pleasures; Zagajewski, a former psychology student, records that change through flashbacks, parables and notebook jottings. Some entries are mystifying (''God is hidden. Poverty is obvious''), others awkward (''The cheeky green poplars wobble unrealistically''), although this second trait may be a defect of Clare Cavanagh's translation from the Polish. At its best, ''Another Beauty'' is a convincing affirmation of intellectual joys like jazz and classical music, Polish and French church architecture and the heady bohemia of student life. Zagajewski shares Rilke's faith that revelation requires the fullness of time. All the same, one wishes that Zagajewski, writing from Paris and Houston, had elaborated on his role in the so-called New Wave movement, on how he eluded a brief, ineffectual stint as a party lecturer to become a leading poet of the opposition, and how in turn he escaped the strictures of that responsibility. Paradoxically, the narrator diminishes in clarity as his past recedes. The closer we get to the present, the hazier the details become, until glimpses of his recent history appear only as ''boundary stones, separated by several hundred yards of no man's land.''</p>
+        <p>Sunil Iyengar</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

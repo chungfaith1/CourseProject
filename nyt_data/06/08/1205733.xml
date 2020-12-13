@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MORE ON THE DECISION</title>
+    <meta content="08MORE" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Front Page; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1205733"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="U.S. VS. MIRCROSOFT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E2DA133FF93BA35755C0A9669C8B63" item-length="189" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MORE ON THE DECISION</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>OLD RULES IN NEW ECONOMY  The legal principles that led to the breakup of Standard Oil in 1911 and AT&amp;T in 1984 are not obsolete.</p>
+        <p>PAGE C1</p>
+      </block>
+      <block class="full_text">
+        <p>OLD RULES IN NEW ECONOMY  The legal principles that led to the breakup of Standard Oil in 1911 and AT&amp;T in 1984 are not obsolete.</p>
+        <p>PAGE C1</p>
+        <p>WALL ST. VIEW  Investors face the question of how Microsoft will perform now that a breakup has been ordered.</p>
+        <p>MARKET PLACE, PAGE C1</p>
+        <p>U.S. VS. MIRCROSOFT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

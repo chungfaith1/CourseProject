@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Study Finds Monitors May Pose Health Risks</title>
+    <meta content="21GEE2$01" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/21/technology/21GEE2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1232331"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Industrial and Occupational Hazards</classifier>
+        <classifier class="indexing_service" type="descriptor">Allergies</classifier>
+        <classifier class="indexing_service" type="descriptor">Headaches</classifier>
+        <classifier class="indexing_service" type="descriptor">Triphenyl Phosphate</classifier>
+        <classifier class="indexing_service" type="descriptor">Plastics</classifier>
+        <org class="indexing_service">University of Stockholm</org>
+        <person class="indexing_service">Austen, Ian</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Allergies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Headaches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Plastics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Headaches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000921T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E1DF133BF932A1575AC0A9669C8B63" item-length="394" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Study Finds Monitors May Pose Health Risks</hl1>
+      </hedline>
+      <byline class="print_byline">By IAN AUSTEN</byline>
+      <byline class="normalized_byline">Austen, Ian</byline>
+      <abstract>
+        <p>Study at University of Stockholm finds that triphenyl phosphate, a gas emitted by plastics used in cathode-ray tube monitors, may be giving heavy computer users headaches, allergic skin reactions and nasal congestion (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For people who sit in front of computer monitors all day, the old joke about being allergic to work may have some scientific validity.</p>
+        <p>A study by three members of the department of analytical chemistry at the University of Stockholm has found that a gas emitted by plastics used in cathode-ray tube monitors may be giving users headaches, allergic skin reactions and nasal congestion.</p>
+      </block>
+      <block class="full_text">
+        <p>For people who sit in front of computer monitors all day, the old joke about being allergic to work may have some scientific validity.</p>
+        <p>A study by three members of the department of analytical chemistry at the University of Stockholm has found that a gas emitted by plastics used in cathode-ray tube monitors may be giving users headaches, allergic skin reactions and nasal congestion.</p>
+        <p>The trouble, according to the study, which appears in the current issue of Environmental Science and Technology, stems from the chemical known as triphenyl phosphate. It is commonly added to plastics used in monitors as a flame retardant.</p>
+        <p>The researchers built two offices of varying sizes and equipped them with various pieces of office furniture, computers and telephones. But seated at the desks was vapor-monitoring equipment rather than humans.</p>
+        <p>When the equipment was not operating, the researchers found no significant changes in the office air. But once the monitors were switched on, their internal temperatures rose to between 122 and 131 degrees Fahrenheit, and significant levels of triphenyl phosphate were released. In the 18 monitors tested, the effect was most pronounced in new units. But even older monitors that were left running continuously for 183 days produced concentrations of the gas that were 10 times higher than office background levels.</p>
+        <p>The computers were also monitored for the gas by the researchers. But because they don't generate as much heat as monitors, the group found that the plastic boxes that house the C.P.U. don't spew unpleasant gases.</p>
+        <p>Triphenyl phosphate, according to the study, has been shown to cause skin problems in humans. They can include inflaming nasal passages, leading to congestion. Based on their findings, the study's authors wrote that its use in the plastic boxes that surround monitors ''may be considered a risk to human health.''</p>
+        <p>To reduce the effect, the authors suggest that new CRT monitors be turned on but kept from workers for 10 days to allow some of the gas to bake off. While that would reduce the initial level of gas exposure by two-thirds, it still doesn't solve the problem of long-term release. For that, the study offered no suggestions.</p>
+        <p>IAN AUSTEN</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

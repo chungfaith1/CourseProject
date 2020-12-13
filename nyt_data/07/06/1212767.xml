@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Protection Software For Safe Web Surfing</title>
+    <meta content="06GEE4$01" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212767"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Vandalism</classifier>
+        <org class="indexing_service">Symantec Corp</org>
+        <org class="indexing_service">McAfee Retail Software</org>
+        <person class="indexing_service">Biersdorfer, J D</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Vandalism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000706T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E7DF1E39F935A35754C0A9669C8B63" item-length="351" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Protection Software For Safe Web Surfing</hl1>
+      </hedline>
+      <byline class="print_byline">By J.D. BIERSDORFER</byline>
+      <byline class="normalized_byline">Biersdorfer, J D</byline>
+      <abstract>
+        <p>McAfee Retail Software and Symantec Corp release software to help home users protect their computers from viruses and hackers and to allow parents to control the sites their children see (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With the love-letter e-mail virus and intruders stealing the passwords of America Online staff members, nasty code and naughty hackers have plagued the computer world frequently this spring.</p>
+        <p>Although the makers of antivirus software have been kept busy stopping the spread of digital plague, two major companies in the field recently released software to help home users protect their computers -- and children -- from many types of security threats.</p>
+      </block>
+      <block class="full_text">
+        <p>With the love-letter e-mail virus and intruders stealing the passwords of America Online staff members, nasty code and naughty hackers have plagued the computer world frequently this spring.</p>
+        <p>Although the makers of antivirus software have been kept busy stopping the spread of digital plague, two major companies in the field recently released software to help home users protect their computers -- and children -- from many types of security threats.</p>
+        <p>GuardDog Pro, from McAfee Retail Software, helps take a bite out of computer crime by giving users a variety of software tools. It offers a built-in firewall to keep hackers out of your house, and can prevent personal information like credit card numbers from being sent over the Web without permission. The program also allows parents to control the sites their children see and can even scan and block chat messages for inappropriate content.</p>
+        <p>GuardDog Pro also contains McAfee's anti-virus program, which offers protection against hackers using password-pilfering Trojan horse programs, malicious Java applets and ActiveX controls to gain access to a computer. GuardDog Pro, which costs about $50 and runs on Windows 95 and 98, can be purchased in stores or on the Web at software.mcafee.com.</p>
+        <p>Norton Internet Security Family Edition 2.0, newly updated by the Symantec Corporation, offers many of the same defensive tools and virus remedies for home users, and can work with Windows 95 and 98, Windows 2000 and Windows NT. The Norton suite can also be found in retail stores or on the Web at www .symantec.com for around $80.</p>
+        <p>Norton and GuardDog can both prevent Web sites from tracking your surfing habits as you cruise the Internet and both feature settings that can be configured for each user in the household.</p>
+        <p>J.D. BIERSDORFER</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

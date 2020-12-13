@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR020725" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1239847"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Athletics and Sports</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Auctions</classifier>
+        <classifier class="indexing_service" type="descriptor">Consumer Protection</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Frauds and Swindling</classifier>
+        <org class="indexing_service">Ebay Inc</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Consumer Protection</classifier>
+        <classifier class="online_producer" type="general_descriptor">Auctions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Frauds and Swindling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Athletics and Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001018T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E1DB143EF93BA25753C1A9669C8B63" item-length="128" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Oct 16 and Oct 17 articles about suit against eBay involving auction of forged sports memorabilia; judge dismissed suit in its current form, but let plaintiffs refile case with more specific arguments; did not back eBay's motion to dismiss suit itself</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article in Business Day on Monday and a related article yesterday about a lawsuit against eBay referred imprecisely to a preliminary ruling in the case. In that ruling, which was made last Wednesday, the judge granted eBay's request to dismiss the complaints in their current form. But she let the plaintiffs refile the case with more specific arguments, accusing eBay of neglecting to protect consumers from sales of forged sports memorabilia in its online auctions. The judge did not support eBay's motion to dismiss the case itself. On Monday, the plaintiffs responded by refiling.</p>
+      </block>
+      <block class="full_text">
+        <p>An article in Business Day on Monday and a related article yesterday about a lawsuit against eBay referred imprecisely to a preliminary ruling in the case. In that ruling, which was made last Wednesday, the judge granted eBay's request to dismiss the complaints in their current form. But she let the plaintiffs refile the case with more specific arguments, accusing eBay of neglecting to protect consumers from sales of forged sports memorabilia in its online auctions. The judge did not support eBay's motion to dismiss the case itself. On Monday, the plaintiffs responded by refiling.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

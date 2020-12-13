@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BREWER'S PROFIT JUMPS</title>
+    <meta content="MB224111" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204212"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WORLD BUSINESS BRIEFING: AFRICA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <org class="indexing_service">South African Breweries</org>
+        <person class="indexing_service">Cauvin, Henri E</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E1DA103CF931A35755C0A9669C8B63" item-length="61" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BREWER'S PROFIT JUMPS</hl1>
+      </hedline>
+      <byline class="print_byline">By Henri E. Cauvin</byline>
+      <byline class="normalized_byline">Cauvin, Henri E</byline>
+      <abstract>
+        <p>South African Breweries says pretax profit rose 27 percent last year; company earned $764 million in year ended March 31, up from $600 million a year earlier (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The world's fifth-biggest brewer, South African Breweries, which has been pushing into Eastern Europe, said its pretax profit rose 27 percent last year, powered by increased demand in Poland and China. South African Breweries earned $764 million in the year that ended on March 31, up from $600 million a year earlier.</p>
+        <p>Henri E. Cauvin</p>
+      </block>
+      <block class="full_text">
+        <p>The world's fifth-biggest brewer, South African Breweries, which has been pushing into Eastern Europe, said its pretax profit rose 27 percent last year, powered by increased demand in Poland and China. South African Breweries earned $764 million in the year that ended on March 31, up from $600 million a year earlier.</p>
+        <p>Henri E. Cauvin</p>
+        <p>WORLD BUSINESS BRIEFING: AFRICA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

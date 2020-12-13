@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ALBUM OF THE WEEK</title>
+    <meta content="19RECO$01" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200531"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings (Audio)</classifier>
+        <person class="indexing_service">Hill, Andrew</person>
+        <person class="indexing_service">Ratliff, Ben</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000519T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E1DE143AF93AA25756C0A9669C8B63" item-length="408" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ALBUM OF THE WEEK</hl1>
+      </hedline>
+      <byline class="print_byline">By BEN RATLIFF</byline>
+      <byline class="normalized_byline">Ratliff, Ben</byline>
+      <abstract>
+        <p>Ben Ratliff Album of the Week reviews of Andrew Hill's Dusk (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ANDREW HILL: ''Dusk'' (Palmetto). The pianist Andrew Hill has long been embraced by the jazz underground, whose language of appreciation too often rests on notions of musicians' being underserved, underrated or not having the appropriate context for their genius to shine. ''Dusk,'' Mr. Hill's first album in 10 years, should end his marginal status: it connects him with some of the better young jazz musicians working today and takes the full measure of Mr. Hill as a composer better than one would have thought possible. It makes him important again.</p>
+        <p>What's nice about his current rehabilitation, which was helped by players like the trumpeter Ron Horton and saxophonist Marty Ehrlich, is that it wasn't brought about from the outside, by a record company. Mr. Hill is imposing enough to attract disciples all by himself, and that's what has happened in the last few years. (He has been especially embraced by members of the Jazz Composers Collective.) His pieces tend to strike the ear as discontinuous but generally gain cohesion on further listening. His favorite pace, playing all alone or in front of a steady rhythm section, is wobbly; his legato sounds hesitant; his harmonies are influenced by Thelonious Monk's tone-clashes; he likes to write in odd meters; and his keyboard touch is self-consciously raw and unpolished.</p>
+      </block>
+      <block class="full_text">
+        <p>ANDREW HILL: ''Dusk'' (Palmetto). The pianist Andrew Hill has long been embraced by the jazz underground, whose language of appreciation too often rests on notions of musicians' being underserved, underrated or not having the appropriate context for their genius to shine. ''Dusk,'' Mr. Hill's first album in 10 years, should end his marginal status: it connects him with some of the better young jazz musicians working today and takes the full measure of Mr. Hill as a composer better than one would have thought possible. It makes him important again.</p>
+        <p>What's nice about his current rehabilitation, which was helped by players like the trumpeter Ron Horton and saxophonist Marty Ehrlich, is that it wasn't brought about from the outside, by a record company. Mr. Hill is imposing enough to attract disciples all by himself, and that's what has happened in the last few years. (He has been especially embraced by members of the Jazz Composers Collective.) His pieces tend to strike the ear as discontinuous but generally gain cohesion on further listening. His favorite pace, playing all alone or in front of a steady rhythm section, is wobbly; his legato sounds hesitant; his harmonies are influenced by Thelonious Monk's tone-clashes; he likes to write in odd meters; and his keyboard touch is self-consciously raw and unpolished.</p>
+        <p>All this makes him unusual, but ''Dusk'' is better than just unusual. Part of it has to do with the exactness of the horn arrangements: the music is full of long, contrapuntal harmonized lines that move around from major to minor, keeping the mood in flux, and for the most part solos are used only as short segues to the next chunk of writing. And part of it, of course, has to do with a good rhythm section.</p>
+        <p>Mr. Hill has recorded his share of opaque, incomprehensible music, but ''Dusk'' brings him back into a clarity that's near the territory of his greatest album, ''Point of Departure'' in 1964.</p>
+        <p>BEN RATLIFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

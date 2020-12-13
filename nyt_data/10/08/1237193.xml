@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Together Again</title>
+    <meta content="MB233336" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Theater; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1237193"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="JERSEY FOOTLIGHTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <person class="indexing_service">Accame, Jorge</person>
+        <person class="indexing_service">Rivera, Chita</person>
+        <person class="indexing_service">Klein, Alvin</person>
+        <object.title class="indexing_service">Venecia (Play)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001008T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E0DF123CF93BA35753C1A9669C8B63" item-length="194" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Together Again</hl1>
+      </hedline>
+      <byline class="print_byline">By Alvin Klein</byline>
+      <byline class="normalized_byline">Klein, Alvin</byline>
+      <abstract>
+        <p>Actress Chita Rivera, currently starring in Anything Goes at Paper Mill Playhouse, soon will begin role in Venecia by Argentine playwright Jorge Accame at George Street Playhouse in New Brunswick, NJ (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It's a real shift for Chita Rivera, who is to make the transition from a sexy chanteuse on a luxury liner in a Cole Porter musical to an elderly madam in a seedy godforsaken town.</p>
+        <p>The star is to end a seven-week run as Reno Sweeney, the world's most sensuous sermonizer, in ''Anything Goes'' at Paper Mill Playhouse in Millburn next Sunday.</p>
+      </block>
+      <block class="full_text">
+        <p>It's a real shift for Chita Rivera, who is to make the transition from a sexy chanteuse on a luxury liner in a Cole Porter musical to an elderly madam in a seedy godforsaken town.</p>
+        <p>The star is to end a seven-week run as Reno Sweeney, the world's most sensuous sermonizer, in ''Anything Goes'' at Paper Mill Playhouse in Millburn next Sunday.</p>
+        <p>Next up in New Jersey: La Cieca, a broken-down madam in a broken-down brothel in a broken-down town, in the words of Kelly Ryan, spokeswoman at George Street Playhouse in New Brunswick.  Ms. Rivera begins performances Feb. 10 in ''Venecia,'' by the Argentinian playwright Jorge Accame.</p>
+        <p>The role involves a grand reunion for Ms. Rivera and the play's adapter and director, Arthur Laurents. He wrote the book for ''West Side Story,'' the musical that gave Ms. Rivera her breakthrough role, the fiery Anita.</p>
+        <p>Alvin Klein</p>
+        <p>JERSEY FOOTLIGHTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

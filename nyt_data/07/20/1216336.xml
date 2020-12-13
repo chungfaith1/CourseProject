@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MICROSOFT ADDING LONG-DISTANCE</title>
+    <meta content="MB235423" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1216336"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY BRIEFING: TELECOMMUNICATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <location class="indexing_service">Canada</location>
+        <org class="indexing_service">Microsoft Corp</org>
+        <org class="indexing_service">Net2phone (Co)</org>
+        <person class="indexing_service">Romero, Simon</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000720T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E5D91F3BF933A15754C0A9669C8B63" item-length="131" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MICROSOFT ADDING LONG-DISTANCE</hl1>
+      </hedline>
+      <byline class="print_byline">By Simon Romero</byline>
+      <byline class="normalized_byline">Romero, Simon</byline>
+      <abstract>
+        <p>Microsoft Corp plans to announce availability of technology that will allow consumers to make free long-distance phone calls in US and Canada using company's MSN instant messaging service on Internet; technology, which uses network belonging to Net2Phone, is expected to increase popularity of making phone calls over Web (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Microsoft plans to announce today the availability of a technology that will allow consumers to make free long-distance phone calls in the United States and Canada while using the company's MSN instant messaging service on the Internet. The technology, which uses a network belonging to Net2Phone, a leading Internet telephony company, is expected to increase the popularity of making phone calls over the Web.</p>
+        <p>Simon Romero</p>
+      </block>
+      <block class="full_text">
+        <p>Microsoft plans to announce today the availability of a technology that will allow consumers to make free long-distance phone calls in the United States and Canada while using the company's MSN instant messaging service on the Internet. The technology, which uses a network belonging to Net2Phone, a leading Internet telephony company, is expected to increase the popularity of making phone calls over the Web.</p>
+        <p>Simon Romero</p>
+        <p>TECHNOLOGY BRIEFING: TELECOMMUNICATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

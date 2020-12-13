@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>WIND AND WATER</title>
+    <meta content="30COVERT" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1221964"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Beaches</classifier>
+        <classifier class="indexing_service" type="descriptor">Hurricanes and Tropical Storms</classifier>
+        <location class="indexing_service">Connecticut</location>
+        <person class="indexing_service">Bisbort, Alan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Beaches</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beaches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hurricanes and Tropical Storms</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000813T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407EFD81F3BF930A2575BC0A9669C8B63" item-length="250" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>WIND AND WATER</hl1>
+      </hedline>
+      <byline class="print_byline">By ALAN BISBORT</byline>
+      <byline class="normalized_byline">Bisbort, Alan</byline>
+      <abstract>
+        <p>Item explains how Connecticut coastline was formed and impact past hurricanes have had in shifting shoreline (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A fortuitous accident of geology shaped the coastline of Connecticut into a chockablock mixture of bed-rock (glacial debris made of gneiss and granite) and drift (gravel, sand, silt and clay). About 22,000 years ago, when the Wisconsin glacier covered much of what is now Connecticut's shoreline, it extended 115 miles beyond the south shore of Long Island. Ah, those were the days.</p>
+        <p>Even as recently as 1938, 1955 and 1985, when hurricanes hit the coast,  the sand along the shoreline has been redistributed in new, not always pleasant, patterns.</p>
+      </block>
+      <block class="full_text">
+        <p>A fortuitous accident of geology shaped the coastline of Connecticut into a chockablock mixture of bed-rock (glacial debris made of gneiss and granite) and drift (gravel, sand, silt and clay). About 22,000 years ago, when the Wisconsin glacier covered much of what is now Connecticut's shoreline, it extended 115 miles beyond the south shore of Long Island. Ah, those were the days.</p>
+        <p>Even as recently as 1938, 1955 and 1985, when hurricanes hit the coast,  the sand along the shoreline has been redistributed in new, not always pleasant, patterns.</p>
+        <p>In ''A Moveable Shore: The Fate of the Connecticut Coast'' (Duke University Press), Peter Charles Patton and James M. Kent call the September 1938 hurricane ''the most catastrophic natural even in modern Connecticut history . . . changes it made in the Connecticut coast persist to this day.''</p>
+        <p>The richest deposits of sand in the state today lie in a coastal plain, between Guilford Point and Hatchett Point in Old Lyme. Not surprisingly, the 175,000 gallons-per-second outflow of the Connecticut River is the source of most of this sand.</p>
+        <p>ALAN BISBORT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

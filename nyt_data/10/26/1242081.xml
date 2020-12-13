@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sensor Fish Brave the Bumps to Tame Dams for Young Salmon</title>
+    <meta content="26SALMDOC" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/26/technology/26HOWW.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1242081"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Salmon</classifier>
+        <classifier class="indexing_service" type="descriptor">Robots</classifier>
+        <classifier class="indexing_service" type="descriptor">Dams and Dikes</classifier>
+        <location class="indexing_service">Northwestern States (US)</location>
+        <org class="indexing_service">Energy Department</org>
+        <org class="indexing_service">Pacific Northwest National Laboratory (Paso, Wash)</org>
+        <person class="indexing_service">Fountain, Henry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Northwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dams and Dikes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Robots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001026T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E4D81031F935A15753C1A9669C8B63" item-length="1206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sensor Fish Brave the Bumps to Tame Dams for Young Salmon</hl1>
+      </hedline>
+      <byline class="print_byline">By HENRY FOUNTAIN</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+      <abstract>
+        <p>US Department of Energy's Pacific Northwest National Laboratory develops mechanical, robotic salmon to test stress on fish caused by dams; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FOR a young salmon, spawned on the upper reaches of the Columbia or Snake Rivers in the Pacific Northwest and determined to make it to the Pacific Ocean, a trip through one of the rivers many hydroelectric dams is like a ride on a bad roller coaster with a giant blender thrown in for good measure. Severe pressure changes as the fish travels through the dam can leave it stunned and disoriented, easy prey for other fish and birds once it gets through. And the spinning turbine blades that power the electric generators can kill the fish.</p>
+        <p>Over the years, the Army Corps of Engineers and state and federal wildlife agencies have tried to help juvenile fish avoid this wild ride altogether. Screens have been built near turbine intakes to divert fish into bypass channels. Barges and tanker trucks have been used to give young salmon a lift past the dams.</p>
+      </block>
+      <block class="full_text">
+        <p>FOR a young salmon, spawned on the upper reaches of the Columbia or Snake Rivers in the Pacific Northwest and determined to make it to the Pacific Ocean, a trip through one of the rivers many hydroelectric dams is like a ride on a bad roller coaster with a giant blender thrown in for good measure. Severe pressure changes as the fish travels through the dam can leave it stunned and disoriented, easy prey for other fish and birds once it gets through. And the spinning turbine blades that power the electric generators can kill the fish.</p>
+        <p>Over the years, the Army Corps of Engineers and state and federal wildlife agencies have tried to help juvenile fish avoid this wild ride altogether. Screens have been built near turbine intakes to divert fish into bypass channels. Barges and tanker trucks have been used to give young salmon a lift past the dams.</p>
+        <p>Despite these efforts, millions of unlucky fish inevitably end up going through the turbines. So some scientists have focused their attention on making the ride a less lethal one. And theyve developed a unique tool -- what might be called bionic salmon.</p>
+        <p>These fake fish, developed by the Pacific Northwest National Laboratory, which is managed by the Department of Energy, contain tiny sensors and other electronics to measure stress and strain as they flow through the dam (they don't swim). The goal, said Dr. Thomas J. Carlson, who manages the project for the laboratory, is to understand the conditions the fish encounter. ''If you know those, you can go back and design turbines for safer fish passage,'' he said.</p>
+        <p>The idea of creating the fish came up about a decade ago, Dr. Carlson said, ''but it's only in the last three or five years that the technology has been available to build something like this.''</p>
+        <p>The fish, which are about six inches long and, in the earliest versions, coated in rubber, include accelerometers that can measure the effect of the turbulence, the pressure changes and the shearing forces that occur as the fish are bounced and buffeted through the turbine and through an outflow tunnel, called a draft tube.</p>
+        <p>The sensor data are stored in memory chips and downloaded later when the fish are recovered. To aid retrieval, the fish have tiny air bags, which inflate to carry them to the surface, and tiny transmitters that help researchers find them.</p>
+        <p>So far the sensor fish have been used at Bonneville Dam, the last one that fish encounter on their way to the sea, to test whether a new turbine design there is effective in protecting fish. Since many fish that are injured in turbines are caught in the gaps between the blades and the turbine walls, the new design has narrower gaps to make it safer for the fish.</p>
+        <p>The number of fish killed or injured by the blades of any of the turbines along the river is actually quite small, Dr. Carlson said, between 2 percent and 4 percent. Of greater concern is what happens in the turbulent water of the draft tube. Using the sensor fish, the researchers have found that where a fish ends up in the tube is often determined by where it enters the turbine, and that a fish is better off in some parts of the tube than in others. ''Were just starting now to look at a redesign of the draft tube,'' Dr. Carlson said.</p>
+        <p>The sensor fish are also being used to measure the turbulence in the bypass channels that are intended to keep the fish out of the turbines. These channels, called high-volume outfalls, are essentially small rivers, Dr. Carlson said, and are often designed so the water cascades violently back into the river. The battering and froth that produces can hurt the fish.</p>
+        <p>Outfall designs will have to change to protect more fish, Dr. Carlson said. ''Were looking at outfalls that will allow water to come out and skim along the surface and not plunge deep.''</p>
+        <p>The sensor fish studies are just a small part of what has been a long and expensive effort to protect salmon and steelhead on the Columbia and Snake, both the juveniles moving downstream to the sea and adults traveling upstream to spawn. For all the billions of dollars spent, the effort has not been particularly successful: some species on the rivers are extinct, and others are endangered.</p>
+        <p>For some environmentalists and others, the only solution is to demolish four of the Snake River dams. The Clinton administration has considered this proposal, but recently postponed any decision for at least five years. Critics of that plan say that tearing down the dams will not save the fish and will harm the region's economy.</p>
+        <p>It's not clear to Dr. Carlson that the dams are responsible for most of the problem. ''It could be the way that the bypass systems are being operated,'' he said. Transporting young fish to the ocean on barges, for example, may get them to the ocean too soon and interfere with their development.</p>
+        <p>What is clear to Dr. Carlson is the need to continue research with tools like the sensor fish so the system can be improved. ''The focus is increasingly on finetuning elements of this fish-management capability,'' he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

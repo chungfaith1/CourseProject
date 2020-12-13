@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Getting Better Every Year</title>
+    <meta content="17TILE" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1223082"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="CURRENTS: TOURING PROVENCE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Brick and Tile</classifier>
+        <org class="indexing_service">Carocim (French Co)</org>
+        <person class="indexing_service">Lane, Mallery</person>
+        <object.title class="indexing_service">Currents (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Brick and Tile</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000817T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E0D81E3FF934A2575BC0A9669C8B63" item-length="183" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Getting Better Every Year</hl1>
+      </hedline>
+      <byline class="print_byline">By Mallery Lane</byline>
+      <byline class="normalized_byline">Lane, Mallery</byline>
+      <abstract>
+        <p>Comment on traditional cement tiles produced by Carocim, in Aix-en-Provence, France (Currents); photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Thirteen years ago, an Aix-en-Provence company called Carocim brought back traditional cement tiles, which had been hugely popular in the mid-19th century. They are made to last a lifetime. Christian Bertheas, the company's owner, says, ''The best advertising I have are the happy clients who see their tiles become more beautiful right before their eyes as a natural patina develops with wear.'' Carocim tiles (from $4 for a plain 8-by-8-inch tile to $6.50 for a frieze tile with elements imitated from Matisse; shipping extra) are in New York, to the trade only, at Studio 11, 250 West 50th Street; (212) 387-8786.</p>
+      </block>
+      <block class="full_text">
+        <p>Thirteen years ago, an Aix-en-Provence company called Carocim brought back traditional cement tiles, which had been hugely popular in the mid-19th century. They are made to last a lifetime. Christian Bertheas, the company's owner, says, ''The best advertising I have are the happy clients who see their tiles become more beautiful right before their eyes as a natural patina develops with wear.'' Carocim tiles (from $4 for a plain 8-by-8-inch tile to $6.50 for a frieze tile with elements imitated from Matisse; shipping extra) are in New York, to the trade only, at Studio 11, 250 West 50th Street; (212) 387-8786.</p>
+        <p>CURRENTS: TOURING PROVENCE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

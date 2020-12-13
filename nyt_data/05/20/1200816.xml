@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tribute to Teri Thornton</title>
+    <meta content="Y20THO$02" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200816"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <person class="indexing_service">Thornton, Teri</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000520T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E7DF133AF933A15756C0A9669C8B63" item-length="98" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tribute to Teri Thornton</hl1>
+      </hedline>
+      <abstract>
+        <p>Musical tribute to jazz vocalist Teri Thornton, who died earlier this month, is scheduled for May 21 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A musical tribute to the jazz vocalist Teri Thornton will be held tomorrow at 7:30 p.m. at St. Peter's Church at Lexington Avenue and 54th Street. Ms. Thornton died on May 2 at the age of 65.</p>
+      </block>
+      <block class="full_text">
+        <p>A musical tribute to the jazz vocalist Teri Thornton will be held tomorrow at 7:30 p.m. at St. Peter's Church at Lexington Avenue and 54th Street. Ms. Thornton died on May 2 at the age of 65.</p>
+        <p>Among the musicians who are to take part in the tribute, which is free and open to the public, are Herbie Hancock, Billy Taylor, Vanessa Rubin, Carla Cook and Howard Johnson.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

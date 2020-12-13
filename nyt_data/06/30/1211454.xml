@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NEWSPAPER BRAWL IN TORONTO</title>
+    <meta content="MB000110" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211454"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WORLD BUSINESS BRIEFING: AMERICAS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Newspapers</classifier>
+        <location class="indexing_service">Canada</location>
+        <location class="indexing_service">Toronto (Canada)</location>
+        <org class="indexing_service">Modern Times Group</org>
+        <org class="indexing_service">Quebecor Inc</org>
+        <org class="indexing_service">Torstar Corp</org>
+        <person class="indexing_service">Brooke, James</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada/Ontario/Toronto</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000630T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEEDF1739F933A05755C0A9669C8B63" item-length="96" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NEWSPAPER BRAWL IN TORONTO</hl1>
+      </hedline>
+      <byline class="print_byline">By James Brooke</byline>
+      <byline class="normalized_byline">Brooke, James</byline>
+      <abstract>
+        <p>Modern Times Group of Stockholm is coming out with free tabloid aimed at commuters in Toronto; two of Canada's largest media groups, Quebecor Inc and Torstar Corp, decide to publish competing weekday tabloids (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bus and train commuters in Toronto now have a choice of three free tabloid newspapers. Four daily newspapers already serve the Toronto metropolitan area's 4.7 million people. But the newspaper war suddenly heated up when word got out that the Modern Times Group of Stockholm was coming out with a free tabloid aimed at commuters. Two of Canada's largest media groups, Quebecor Inc. and the Torstar Corporation, decided to publish competing weekday tabloids.</p>
+        <p>James Brooke (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Bus and train commuters in Toronto now have a choice of three free tabloid newspapers. Four daily newspapers already serve the Toronto metropolitan area's 4.7 million people. But the newspaper war suddenly heated up when word got out that the Modern Times Group of Stockholm was coming out with a free tabloid aimed at commuters. Two of Canada's largest media groups, Quebecor Inc. and the Torstar Corporation, decided to publish competing weekday tabloids.</p>
+        <p>James Brooke (NYT)</p>
+        <p>WORLD BUSINESS BRIEFING: AMERICAS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

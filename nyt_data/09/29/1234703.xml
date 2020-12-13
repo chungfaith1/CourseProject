@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Business; Theme Restaurant Swap</title>
+    <meta content="MB034020" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234703"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Official All-Star Cafe</org>
+        <org class="indexing_service">Planet Hollywood</org>
+        <person class="indexing_service">Pristin, Terry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000929T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E1DC163DF93AA1575AC0A9669C8B63" item-length="115" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Business; Theme Restaurant Swap</hl1>
+      </hedline>
+      <byline class="print_byline">By Terry Pristin</byline>
+      <byline class="normalized_byline">Pristin, Terry</byline>
+      <abstract>
+        <p>Official All Star Cafe, five-year-old theme restaurant that helped to transform Times Square into a tourist destination, closes to make way for another theme restaurant owned by the same company; Planet Hollywood will move its flagship restaurant on 57th St near Seventh Ave to newly vacant space at 45th St and Broadway (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Official All Star Cafe, a five-year-old theme restaurant that helped to transform Times Square into a tourist destination, closed Tuesday night to make way for another theme restaurant owned by the same company.</p>
+        <p>Planet Hollywood will move its flagship restaurant, on 57th Street near Seventh Avenue, to the newly vacant space at 45th Street and Broadway, company officials said.</p>
+      </block>
+      <block class="full_text">
+        <p>The Official All Star Cafe, a five-year-old theme restaurant that helped to transform Times Square into a tourist destination, closed Tuesday night to make way for another theme restaurant owned by the same company.</p>
+        <p>Planet Hollywood will move its flagship restaurant, on 57th Street near Seventh Avenue, to the newly vacant space at 45th Street and Broadway, company officials said.</p>
+        <p>Planet Hollywood International, which owns both restaurants, has been closing unprofitable restaurants and franchising others since it filed for bankruptcy protection last October.</p>
+        <p>Company officials said the new Planet Hollywood would open this year.</p>
+        <p>Terry Pristin</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

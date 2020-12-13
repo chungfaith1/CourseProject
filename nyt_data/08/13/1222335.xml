@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Business; WHAT THEY'RE READING</title>
+    <meta content="13REA" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1222335"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Executives and Management</classifier>
+        <person class="indexing_service">O'Brien, Kathleen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Executive</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000813T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E5DD123FF930A2575BC0A9669C8B63" item-length="369" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Business; WHAT THEY'RE READING</hl1>
+      </hedline>
+      <byline class="print_byline">COMPILED BY KATHLEEN O'BRIEN</byline>
+      <byline class="normalized_byline">O'Brien, Kathleen</byline>
+      <abstract>
+        <p>List of books currently being read by business executives (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jim McCann, 49  Chief executive, 1-800-flowers.com  BOOK --The Visionary's Handbook by Watts Wacker, Jim Taylor and Howard Means (2000)  WHY --The approach of the authors is unique and refreshing: You think you know where they are heading and suddenly you find yourself happily pulled in new and unexpected directions.</p>
+      </block>
+      <block class="full_text">
+        <p>Jim McCann, 49  Chief executive, 1-800-flowers.com  BOOK --The Visionary's Handbook by Watts Wacker, Jim Taylor and Howard Means (2000)  WHY --The approach of the authors is unique and refreshing: You think you know where they are heading and suddenly you find yourself happily pulled in new and unexpected directions.</p>
+        <p>Anna Floreno, 27  Corporate communications manager, Lowe Lintas &amp; Partners Worldwide  BOOK --The Hippopotamus(1994) andMaking History(1998) by Stephen Fry  WHY --They're interesting and original stories and they're very funny. It's not very often that something makes me laugh out loud and these books did.</p>
+        <p>George Deeb, 31  Founder, iExplore.com  BOOK --Endurance by Alfred Lansing (1999)  WHY --It is the story of Sir Ernest Shackleton's survival for 16 months stranded in Antarctica. If they could survive this ordeal in the most extreme of condi-tions, we can survive anything as an Internet start-up.</p>
+        <p>Clayton Rose, 41  Head of global investment banking, J.P. Morgan  BOOK --Genomeby Matt Ridley (2000)  WHY --Mapping of the human gen-ome is a fantastic scientific achievement. I don't under-stand the implications nearly as well as I want to or should. I hope to get an understanding of what makes us tick -- not what our genes do mechanically, but how and why the genome has evolved to where it is and what it is about our genes that makes us what we are.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

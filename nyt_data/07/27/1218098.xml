@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>UTILITY SUPERCONDUCTORS</title>
+    <meta content="MB003138" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1218098"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY BRIEFING: HARDWARE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Magnetism and Magnets</classifier>
+        <classifier class="indexing_service" type="descriptor">Superconductors</classifier>
+        <org class="indexing_service">Wisconsin Public Service Corp</org>
+        <org class="indexing_service">American Superconductor</org>
+        <person class="indexing_service">Feder, Barnaby J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electricity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Physics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000727T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E7DF163DF934A15754C0A9669C8B63" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>UTILITY SUPERCONDUCTORS</hl1>
+      </hedline>
+      <byline class="print_byline">By Barnaby J. Feder</byline>
+      <byline class="normalized_byline">Feder, Barnaby J</byline>
+      <abstract>
+        <p>Wisconsin Public Service Corp begins reinforcing section of its power grid with five energy storage units employing superconducting magnets, first commercial use of superconductivity in public power distribution; devices were manufactured by American Superconductor (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Wisconsin Public Service Corporation yesterday began reinforcing a section of its power grid with five energy storage units employing superconducting magnets, the first commercial use of superconductivity in public power distribution. The devices, manufactured by American Superconductor of Westborough, Mass., will be protecting the region around Wausau and Eagle River from voltage spikes and dips as well as blackouts and should increase the capacity of that portion of the grid by 15 percent, according to American Superconductor.</p>
+      </block>
+      <block class="full_text">
+        <p>The Wisconsin Public Service Corporation yesterday began reinforcing a section of its power grid with five energy storage units employing superconducting magnets, the first commercial use of superconductivity in public power distribution. The devices, manufactured by American Superconductor of Westborough, Mass., will be protecting the region around Wausau and Eagle River from voltage spikes and dips as well as blackouts and should increase the capacity of that portion of the grid by 15 percent, according to American Superconductor.</p>
+        <p>TECHNOLOGY BRIEFING: HARDWARE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Scene Change</title>
+    <meta content="LTR080435" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1206260"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOKS AND LITERATURE</classifier>
+        <person class="indexing_service">Karner, Steven</person>
+        <person class="indexing_service">Eder, Richard</person>
+        <person class="indexing_service">Ondaatje, Michael</person>
+        <object.title class="indexing_service">Anil's Ghost (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE3D6123CF932A25755C0A9669C8B63" item-length="150" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Scene Change</hl1>
+      </hedline>
+      <abstract>
+        <p>Steven Karner letter corrects Richard Eder's May 14 review of Michael Ondaatje' book Anil's Ghost</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Richard Eder's review of ''Anil's Ghost'' (May 14), by Michael Ondaatje, reminded me why I so enjoy the author, and I look forward to reading his new novel. However, Eder incorrectly recalls a scene from ''The English Patient'' in which the examination of the frescoes in a darkened church affirms the ability to ''fly above war's destruction.'' In Ondaatje's novel, the sapper hoists a medievalist professor, rather than a nurse, to examine by rope and lighted flare the church fresco. Your reviewer is recalling the subsequent film.</p>
+        <p>Steven Karner  Charlotte, N.C.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Richard Eder's review of ''Anil's Ghost'' (May 14), by Michael Ondaatje, reminded me why I so enjoy the author, and I look forward to reading his new novel. However, Eder incorrectly recalls a scene from ''The English Patient'' in which the examination of the frescoes in a darkened church affirms the ability to ''fly above war's destruction.'' In Ondaatje's novel, the sapper hoists a medievalist professor, rather than a nurse, to examine by rope and lighted flare the church fresco. Your reviewer is recalling the subsequent film.</p>
+        <p>Steven Karner  Charlotte, N.C.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

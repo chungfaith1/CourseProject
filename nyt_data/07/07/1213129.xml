@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Matthaus To Return</title>
+    <meta content="PL025102" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213129"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PLUS: SOCCER -- METROSTARS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Soccer</classifier>
+        <org class="indexing_service">Metrostars</org>
+        <person class="indexing_service">Matthaus, Lothar</person>
+        <person class="indexing_service">Yannis, Alex</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Soccer</classifier>
+        <classifier class="online_producer" type="general_descriptor">Soccer</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000707T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E2D81638F934A35754C0A9669C8B63" item-length="116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Matthaus To Return</hl1>
+      </hedline>
+      <byline class="print_byline">By ALEX YANNIS</byline>
+      <byline class="normalized_byline">Yannis, Alex</byline>
+      <abstract>
+        <p>Lothar Matthaus is expected to rejoin MetroStars after brief rehabilitation in Europe for lower back spasms (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The MetroStars, who play in Kansas City tomorrow, said yesterday that Lothar Matthaus is scheduled to rejoin the team on Sunday from his brief rehabilitation in Europe for lower back spasms.</p>
+        <p>Matthaus was spotted by German photographers in St. Tropez, France, this week; the MetroStars were under the impression he was in Munich.</p>
+      </block>
+      <block class="full_text">
+        <p>The MetroStars, who play in Kansas City tomorrow, said yesterday that Lothar Matthaus is scheduled to rejoin the team on Sunday from his brief rehabilitation in Europe for lower back spasms.</p>
+        <p>Matthaus was spotted by German photographers in St. Tropez, France, this week; the MetroStars were under the impression he was in Munich.</p>
+        <p>Nick Sakiewicz, the general manager of the MetroStars, made light of Matthaus's whereabouts.''His doctor suggested warm climate and exercise,'' Sakiewicz said yesterday,''and St. Tropez is warm this time of year.''</p>
+        <p>ALEX YANNIS</p>
+        <p>PLUS: SOCCER -- METROSTARS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Expensive Tax Cuts</title>
+    <meta content="L25TAX$01" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1217544"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Taxation</classifier>
+        <person class="indexing_service">Ghent, Walter</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000725T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E7D9133AF936A15754C0A9669C8B63" item-length="164" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Expensive Tax Cuts</hl1>
+      </hedline>
+      <abstract>
+        <p>Walter Ghent letter on July 21 article holds public should be informed about annual cost of tax cuts, not 10-year cost</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>When I read that a proposed tax cut for married couples will cost a projected $292 billion over 10 years (news article, July 21), I wonder: When did we as a nation start making spending and tax decisions framed by their supposed effect over 10 years?</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>When I read that a proposed tax cut for married couples will cost a projected $292 billion over 10 years (news article, July 21), I wonder: When did we as a nation start making spending and tax decisions framed by their supposed effect over 10 years?</p>
+        <p>The effect of this is to make cuts seem bigger, spending more generous and political promises easier to fudge. I think we would be better served by knowing what a program or cut is going to cost next year compared with this year, not some mythical amount that a Congress three administrations from now will overturn anyway with its own 10-year plan.</p>
+        <p>WALTER GHENT  Hudson, Mass., July 21, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

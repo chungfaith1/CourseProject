@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV112105" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Health; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1197301"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <person class="indexing_service">Bonadio, William</person>
+        <person class="indexing_service">Higbie, Andrea</person>
+        <object.title class="indexing_service">Julia's Mother (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000507T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05EFDD1639F934A35756C0A9669C8B63" item-length="240" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Andrea Higbie</byline>
+      <byline class="normalized_byline">Higbie, Andrea</byline>
+      <abstract>
+        <p>Andrea Higbie reviews book Julia's Mother: Life Lessons in the Pediatric ER by William Bonadio (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>JULIA'S MOTHER</p>
+        <p>Life Lessons in the Pediatric ER.</p>
+        <p>By William Bonadio.</p>
+        <p>St. Martin's, $22.95</p>
+      </block>
+      <block class="full_text">
+        <p>JULIA'S MOTHER</p>
+        <p>Life Lessons in the Pediatric ER.</p>
+        <p>By William Bonadio.</p>
+        <p>St. Martin's, $22.95</p>
+        <p>A simply written, completely absorbing memoir, ''Julia's Mother'' shows how and why an earnest young man became a dedicated pediatrician: not for glory or money but to help the youngest of patients. William Bonadio's decision to work with children instead of adults was made when he came upon a roomful of people who, having just undergone surgery for throat cancer, were smoking cigarettes through their tracheotomy tubes. ''Children are always blameless,'' writes Bonadio, who practices emergency pediatric medicine at the Children's Hospital in St. Paul. He has found that the mothers of sick children are the fiercest advocates, testament to the ''power of the only unbreakable bond there is in this life,'' and that the will to live, for young and old, can overcome enormous odds as ''a force far greater than our medicine.'' The hardest lesson he has learned is to accept when nothing can be done, no matter the force of will. Hit by a car on her way to school, the 6-year-old Julia of the title is dead, eyes vacant, ''raw, like uncut jewels.'' Not even her mother can help her.</p>
+        <p>Andrea Higbie</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

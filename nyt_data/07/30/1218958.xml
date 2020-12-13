@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Get Ready to Ramble</title>
+    <meta content="30BWAY$01" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1218958"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BY THE WAY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Walking</classifier>
+        <location class="indexing_service">Hudson River Valley (NY)</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Hiking</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Hudson Valley</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Walking</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000730T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E6DA123DF933A05754C0A9669C8B63" item-length="138" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Get Ready to Ramble</hl1>
+      </hedline>
+      <abstract>
+        <p>Hudson River Valley Ramble, set to begin September 23, will include more than 60 events; drawing (By the Way column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Each journey, over 3,000 miles of trails in 10 counties, will begin with the proverbial single step. Some will also require a reservation.</p>
+        <p>So it's not too early to start making plans for the Hudson River Valley Ramble on Sept. 23 and 24. The ramble will include more than 60 events; terrain and trail type will vary, as will the difficulty of the hikes. The event is sponsored by the Hudson River Valley National Heritage Area, which extends from the George Washington Bridge 160 miles north to the Albany area.</p>
+      </block>
+      <block class="full_text">
+        <p>Each journey, over 3,000 miles of trails in 10 counties, will begin with the proverbial single step. Some will also require a reservation.</p>
+        <p>So it's not too early to start making plans for the Hudson River Valley Ramble on Sept. 23 and 24. The ramble will include more than 60 events; terrain and trail type will vary, as will the difficulty of the hikes. The event is sponsored by the Hudson River Valley National Heritage Area, which extends from the George Washington Bridge 160 miles north to the Albany area.</p>
+        <p>Locally, groups sponsoring hikes include the Teatown Lake Reservation Friends of Old Croton Aqueduct.</p>
+        <p>A brochure describing all the weekend events is available from High Land Flings, which organized the ramble. Phone: (800) 453-6665.</p>
+        <p>BY THE WAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

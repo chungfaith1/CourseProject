@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fix the Software</title>
+    <meta content="LTR014632" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201081"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="GLADIATORS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Motion Pictures</classifier>
+        <person class="indexing_service">Fox, Gary</person>
+        <object.title class="indexing_service">Gladiator (Movie)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies/News and Features</classifier>
+        <classifier class="online_producer" type="general_descriptor">Motion Pictures</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000521T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E6D6173AF932A15756C0A9669C8B63" item-length="308" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fix the Software</hl1>
+      </hedline>
+      <abstract>
+        <p>Gary Fox letter disputes Herbert Muschamp's April 30 article on movie Gladiator</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Good try, but you'll have to make some adjustments in the creative writing software (CWS) used to write the article ''Throwing Our Anxieties to the Lions'' [April 30]. I know that major advances have been made in using computers to play chess and to simulate creative writing, but your system still has some major bugs.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Good try, but you'll have to make some adjustments in the creative writing software (CWS) used to write the article ''Throwing Our Anxieties to the Lions'' [April 30]. I know that major advances have been made in using computers to play chess and to simulate creative writing, but your system still has some major bugs.</p>
+        <p>1. Metaphoric and symbolic overruns. Example: the Butch theme linking Rome, Cheez Whiz, RuPaul and many other items can be corrected by restricting CWS to a specific number of symbols, metaphors, allusions and pop culture references. Unlike human writers, CWS will continue to grind out boring and meaningless comparisons.</p>
+        <p>2. Space controls. You will have to specify the amount of space to be filled by CWS. Obviously you wanted a column, perhaps two, but the control systems were not adequate. I had a sense that someone had to pull the plug to prevent the entire Arts &amp; Leisure section from being over-written by CWS.</p>
+        <p>3. Logic controls. This is a tough one: while the program can easily mimic the stream of consciousness writing style by combining sentences from various sources at random, your system demonstrates that it is still not possible to make a lucid, coherent argument or analysis using CWS. At a minimum you should be able to upgrade the system so that the sentences generated can be analyzed and placed together in semicoherent paragraphs. Example: greatest generation, Butch and ''Gladiator'' themes could be grouped together. This would at least provide the reader with the illusion of consistency.</p>
+        <p>There are other areas I could mention, but I assume your software experts are on top of it.</p>
+        <p>GARY FOX  Princeton Junction, N.J.</p>
+        <p>GLADIATORS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

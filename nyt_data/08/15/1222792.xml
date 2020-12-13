@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Thoughts on Thinking</title>
+    <meta content="LTR001720" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1222792"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Culture</classifier>
+        <classifier class="indexing_service" type="descriptor">Language and Languages</classifier>
+        <person class="indexing_service">Brotchner, Michael</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Language and Languages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Culture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000815T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E6DF1E3FF936A2575BC0A9669C8B63" item-length="105" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Thoughts on Thinking</hl1>
+      </hedline>
+      <abstract>
+        <p>Michael Brotshner letter finds it hardly surprising that fulture influences how people think (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>It came as absolutely no surprise to me when I read that culture influences the way people think (''How Culture Molds Habits of Thoughts'').</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>It came as absolutely no surprise to me when I read that culture influences the way people think (''How Culture Molds Habits of Thoughts'').</p>
+        <p>I was especially unfazed by the finding that ''Easterners'' and ''Westerners'' employ different cognitive processes: I've lived in California for two years now, after a lifetime in New York, and I still can't figure these people out!</p>
+        <p>MICHAEL BROTCHNER  San Francisco</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

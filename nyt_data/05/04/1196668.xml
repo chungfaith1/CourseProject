@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Turn Signals; Talking to Computers in a Language of Lines and Specks</title>
+    <meta content="04SBAR" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1196668"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000504T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE1D61139F937A35756C0A9669C8B63" item-length="588" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Turn Signals; Talking to Computers in a Language of Lines and Specks</hl1>
+      </hedline>
+      <byline class="print_byline">By LISA GUERNSEY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE companies that have created bar codes and digital watermarks to link printed pages to sites on the Internet  have their own secrets about how they work. But much of it involves the idea that a printed image can contain more than meets the eye.</p>
+        <p>The bar codes used by GoCode, for example, look like little rectangles made up of white specks on black squares and a few black lines. In fact, those rectangles are a specialized type of symbol called a two-dimensional bar code. The little specks form patterns that provide an extra dimension of information than is available in a traditional bar code, which is made up of straight lines. A bar code with two white specks in the corner, for example, will send a different message than one with one speck.</p>
+      </block>
+      <block class="full_text">
+        <p>THE companies that have created bar codes and digital watermarks to link printed pages to sites on the Internet  have their own secrets about how they work. But much of it involves the idea that a printed image can contain more than meets the eye.</p>
+        <p>The bar codes used by GoCode, for example, look like little rectangles made up of white specks on black squares and a few black lines. In fact, those rectangles are a specialized type of symbol called a two-dimensional bar code. The little specks form patterns that provide an extra dimension of information than is available in a traditional bar code, which is made up of straight lines. A bar code with two white specks in the corner, for example, will send a different message than one with one speck.</p>
+        <p>The messages contain more than a U.R.L., or Uniform Resource Locator, that corresponds to a Web site. They include instructions that tell the computer to open a Web browser and pull up that site. ''It's not just that it is raw information,'' said  George Powell, president of the GoCode Products Corporation. ''We pack tags, or protocols, inside the code.''</p>
+        <p>The straight lines on the left side of the code are simpler signals designed to be picked up by the scanners first. ''They are the piece that says, 'Hey, I'm a GoCode and I'm over here,' '' Mr. Powell said.</p>
+        <p>GoCode has developed a handheld scanner that essentially takes a picture of the bar code, deciphers what it says and sends that information to the computer. GoCode, which is planning to distribute the scanners free with the help of sponsorships, estimates that the scanners will cost $100 or less in a retail store.</p>
+        <p>Digimarc's technology also uses images to store information but takes a different approach. Its digital watermarks are designed not to be perceptible to the humaneye. ''It's like a dog whistle for the Internet,'' said Bruce Davis, Digimarc's chief executive.</p>
+        <p>Imagine, for example, a photograph on a magazine page. Before the magazine is printed, the watermark is applied to an electronic version of the photograph by using Digimarc's production software. When printed, the photograph may look no different at first glance, but in fact the pixels have been adjusted to contain tiny signals that can be picked up by a digital camera that includes Digimarc software. The technology adjusts the luminance of the pixels, which a trained eye might pick up as a slight variation in an image's color or shades of light and dark.</p>
+        <p>Jay McGill, publisher of Popular Mechanics, described the difference as a slight graininess. ''But to the average consumer,'' he said, ''it will be difficult to detect.''</p>
+        <p>The camera, however, does detect the adjustments, and the software decodes them into instructions for the computer, which immediately pulls up a Web page specific to that watermark. The marks could be applied to a whole page, to several images on a page or even to a paragraph of text, Mr. Davis said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

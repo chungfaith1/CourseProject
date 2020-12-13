@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV110307" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1220248"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Hansen, Suzy</person>
+        <person class="indexing_service">Flores, Juan</person>
+        <object.title class="indexing_service">From Bomba to Hip Hop (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000806T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E1DE163DF935A3575BC0A9669C8B63" item-length="242" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Suzy Hansen</byline>
+      <byline class="normalized_byline">Hansen, Suzy</byline>
+      <abstract>
+        <p>Suzy Hansen reviews book From Bomba to Hip-Hop: Puerto Rican Culture and Latino Identity by Juan Flores (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FROM BOMBA TO HIP-HOP</p>
+        <p>Puerto Rican Culture</p>
+        <p>and Latino Identity.</p>
+        <p>By Juan Flores.</p>
+        <p>Columbia University, cloth, $49.50;</p>
+        <p>paper, $17.50.</p>
+      </block>
+      <block class="full_text">
+        <p>FROM BOMBA TO HIP-HOP</p>
+        <p>Puerto Rican Culture</p>
+        <p>and Latino Identity.</p>
+        <p>By Juan Flores.</p>
+        <p>Columbia University, cloth, $49.50;</p>
+        <p>paper, $17.50.</p>
+        <p>In his eloquent essay collection, ''From Bomba to Hip-Hop,'' Juan Flores has compiled a decade of research and meditations on ''America's fastest-growing minority,'' Latinos.+He details the struggle of Puerto Ricans in New York, from the mass migration of the 1950's to the Puerto Rican flag-burning incident on the television program ''Seinfeld'' in the 1990's.+Although they can be intimidating and dense with theory, most of the essays are colorful and engaging, like ''Cha-Cha With a Backbeat'' and ''Puerto Rocks: Rap, Roots, and Amnesia,'' which discuss the transformation of Latino music from Tito Puente to the hip-hop pioneer Charlie Chase.+In a searing analysis of ''The Mambo Kings Play Songs of Love,'' the first novel by a Hispanic (the Cuban-American Oscar Hijuelos) to win the Pulitzer Prize, Flores contends that the search for a ''Latino identity'' exacerbates tensions among Latinos (for example, the very label ''Latino,'' usually used by non-Latinos, because it ignores the diversity of its Spanish-speaking members).+Flores, who teaches Puerto Rican and black studies at Hunter College and sociology at the Graduate Center of the City University of New York, passionately advocates sensitivity to people with multiple identities, those American citizens who declare that ''If I'm Latino or Hispanic, then I am Dominican, or Puerto Rican, or Mexican-American first.''</p>
+        <p>Suzy Hansen</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

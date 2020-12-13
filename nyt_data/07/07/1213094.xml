@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SOUTH KOREAN RATES UNCHANGED</title>
+    <meta content="MB002800" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213094"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WORLD BUSINESS BRIEFING: ASIA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Credit</classifier>
+        <classifier class="indexing_service" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Interest Rates</classifier>
+        <location class="indexing_service">South Korea</location>
+        <person class="indexing_service">Len, Samuel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/South Korea</classifier>
+        <classifier class="online_producer" type="general_descriptor">Interest Rates</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Credit</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000707T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06EFD91638F934A35754C0A9669C8B63" item-length="113" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SOUTH KOREAN RATES UNCHANGED</hl1>
+      </hedline>
+      <byline class="print_byline">By Samuel Len</byline>
+      <byline class="normalized_byline">Len, Samuel</byline>
+      <abstract>
+        <p>South Korea's central bank leaves interest rates unchanged for fifth consecutive month despite signs of inflationary pressure (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Despite signs of inflationary pressure, the central bank in Seoul left interest rates unchanged for the fifth consecutive month. The bank has been seeking to keep the cost of borrowing down to help heavily indebted businesses that are trying to repay their loans. The benchmark rate, to commercial lenders for overnight loans, remained at 5 percent.</p>
+        <p>Samuel Len (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Despite signs of inflationary pressure, the central bank in Seoul left interest rates unchanged for the fifth consecutive month. The bank has been seeking to keep the cost of borrowing down to help heavily indebted businesses that are trying to repay their loans. The benchmark rate, to commercial lenders for overnight loans, remained at 5 percent.</p>
+        <p>Samuel Len (NYT)</p>
+        <p>WORLD BUSINESS BRIEFING: ASIA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

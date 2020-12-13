@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR003739" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225032"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Prisons and Prisoners</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prisons and Prisoners</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000824T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9907E3DA1431F937A1575BC0A9669C8B63" item-length="149" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of Aug 10 article about a slowing in increase of the nation's prison population, which misstated number of federal inmates sentenced on various types of charges in 1998</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article on Aug. 10 about a slowing in the increase of the nation's prison population misstated the number of federal inmates sentenced on various types of charges in 1998. The article substituted 1990 figures from the Justice Department report. Actually, of the 108,925 inmates in federal prisons in 1998, 63,011 (not 30,470) were charged with drug crimes, 12,656 (not 7,557) were charged with violent offenses and 8,627 (not 7,935) were charged with property crimes.</p>
+      </block>
+      <block class="full_text">
+        <p>An article on Aug. 10 about a slowing in the increase of the nation's prison population misstated the number of federal inmates sentenced on various types of charges in 1998. The article substituted 1990 figures from the Justice Department report. Actually, of the 108,925 inmates in federal prisons in 1998, 63,011 (not 30,470) were charged with drug crimes, 12,656 (not 7,557) were charged with violent offenses and 8,627 (not 7,935) were charged with property crimes.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

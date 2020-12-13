@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Etymologies</title>
+    <meta content="LTR023636" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1231145"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="'ORPHEUS'"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <person class="indexing_service">Hanchard, Michael</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000917T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E5D81238F934A2575AC0A9669C8B63" item-length="113" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Etymologies</hl1>
+      </hedline>
+      <abstract>
+        <p>Paul Siff letter disputes Michael Hanchard's September 3 letter on etymological origin of word miscegenation (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Michael Hanchard [Letters, Sept. 3] is wrong on the etymological origin of the word miscegenation. It is derived from the Latin miscere (to mix) and genus (race). Thus, it simply means ''racial mixing''; any negative connotation is extraneous to its etymology. The mistake is a common one, and may stem from misidentifying the word's prefix as ''mis'' rather than ''misc.''</p>
+        <p>PAUL SIFF  Fairfield, Conn.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Michael Hanchard [Letters, Sept. 3] is wrong on the etymological origin of the word miscegenation. It is derived from the Latin miscere (to mix) and genus (race). Thus, it simply means ''racial mixing''; any negative connotation is extraneous to its etymology. The mistake is a common one, and may stem from misidentifying the word's prefix as ''mis'' rather than ''misc.''</p>
+        <p>PAUL SIFF  Fairfield, Conn.</p>
+        <p>'ORPHEUS'</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

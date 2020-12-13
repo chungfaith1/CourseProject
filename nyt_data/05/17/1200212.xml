@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MANAGEMENT SHAKE-UP AT VARIG</title>
+    <meta content="MB230943" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200212"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WORLD BUSINESS BRIEFING: AMERICAS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Varig Brazilian Airlines</org>
+        <person class="indexing_service">Rich, Jennifer L</person>
+        <person class="indexing_service">Silva, Osires</person>
+        <person class="indexing_service">Pinto, Fernando</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000517T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E4D71F3BF934A25756C0A9669C8B63" item-length="128" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MANAGEMENT SHAKE-UP AT VARIG</hl1>
+      </hedline>
+      <byline class="print_byline">By Jennifer L. Rich</byline>
+      <byline class="normalized_byline">Rich, Jennifer L</byline>
+      <abstract>
+        <p>Osires Silva is named president of Varig Airlines, replacing Fernando Pinto (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Brazil's largest airline, Varig, replaced its president in a shake-up intended to return the carrier to profitability. It has lost money in three of the past four years. The new president, Osires Silva, a member of Varig's board, replaced Fernando Pinto, who cut costs and jobs. The carrier still lost $54 million last year.</p>
+        <p>Jennifer L. Rich</p>
+      </block>
+      <block class="full_text">
+        <p>Brazil's largest airline, Varig, replaced its president in a shake-up intended to return the carrier to profitability. It has lost money in three of the past four years. The new president, Osires Silva, a member of Varig's board, replaced Fernando Pinto, who cut costs and jobs. The carrier still lost $54 million last year.</p>
+        <p>Jennifer L. Rich</p>
+        <p>WORLD BUSINESS BRIEFING: AMERICAS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

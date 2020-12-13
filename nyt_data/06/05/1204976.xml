@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dividend Meetings</title>
+    <meta content="05DIVI" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204976"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E0D71F3CF936A35755C0A9669C8B63" item-length="179" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dividend Meetings</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A partial list for this week.</p>
+        <p>MONDAY  Agree Rlty Corp</p>
+        <p>TUESDAY  Nucor Corp  Park Electrochemical Corp  Rowe Cos</p>
+      </block>
+      <block class="full_text">
+        <p>A partial list for this week.</p>
+        <p>MONDAY  Agree Rlty Corp</p>
+        <p>TUESDAY  Nucor Corp  Park Electrochemical Corp  Rowe Cos</p>
+        <p>WEDNESDAY  Helmerich &amp; Payne Inc  LG&amp;E Energy Corp  New Centy Energies Inc  Ramco-Gershenson Pptys Tr  Reynolds R J Tob Hldgs Inc  Spieker Pptys Inc  Urstadt Biddle Pptys Inc  Wallace Computer Svcs Inc</p>
+        <p>THURSDAY  Spartech Corp  Trinity Inds Inc</p>
+        <p>FRIDAY  Abbott Labs</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

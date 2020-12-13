@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Internet Radio Service Prepares Licensing Deal</title>
+    <meta content="01TUNE" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1196056"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Radio</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <org class="indexing_service">Bmg Entertainment</org>
+        <org class="indexing_service">ClickRadio Inc</org>
+        <person class="indexing_service">Flynn, Laurie J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E0DC1539F932A35756C0A9669C8B63" item-length="392" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Internet Radio Service Prepares Licensing Deal</hl1>
+      </hedline>
+      <byline class="print_byline">By LAURIE J. FLYNN</byline>
+      <byline class="normalized_byline">Flynn, Laurie J</byline>
+      <abstract>
+        <p>ClickRadio Inc, Internet radio service, plans licensing deal with record company BMG Entertainment that will give it rights to BMG's catalog of artists; deal is part of music industry effort to let listeners create customized music channels for Internet (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ClickRadio Inc., an Internet radio service, plans to announce a licensing agreement today with the record company BMG Entertainment that gives ClickRadio the rights to BMG's entire catalog of artists.</p>
+        <p>The deal, closely following a similar pact ClickRadio announced last month with Universal Music, the industry leader, was part of an industry effort to let listeners create customized music channels for the Internet. ClickRadio's competitors include AMFM; Launch Media; NetRadio; SonicNet, which is owned by Viacom's MTV, and Spinner, which is owned by America Online.</p>
+      </block>
+      <block class="full_text">
+        <p>ClickRadio Inc., an Internet radio service, plans to announce a licensing agreement today with the record company BMG Entertainment that gives ClickRadio the rights to BMG's entire catalog of artists.</p>
+        <p>The deal, closely following a similar pact ClickRadio announced last month with Universal Music, the industry leader, was part of an industry effort to let listeners create customized music channels for the Internet. ClickRadio's competitors include AMFM; Launch Media; NetRadio; SonicNet, which is owned by Viacom's MTV, and Spinner, which is owned by America Online.</p>
+        <p>Internet radio has gained steadily since the development of so-called streaming media technology that can play music or other material in a continuous stream. But ClickRadio takes a different approach. Rather than playing music files over the Web, listeners download customized selections onto their computer hard drives. This approach eliminates most of the quality problems that have plagued streaming media, according to Hank Williams, founder and chief executive of ClickRadio, which is based in New York.</p>
+        <p>Under the ClickRadio approach, a PC user clicks various onscreen symbols, including thumbs up and thumbs down, and representing genres like rock, hip-hop, jazz or country. Listeners can skip songs as they please, or instruct the station to play more of a certain type.</p>
+        <p>The company intends to make its money by embedding audio commercials within the programming -- five minutes each hour, which is about one-third the advertising time on some broadcast radio stations. And while listeners will be able to customize their music lineup, the ads are there to stay; they cannot be deleted or skipped over.</p>
+        <p>The data that listeners provide about their music preferences is used by the advertisers to more closely tailor ads to individuals.</p>
+        <p>Mr. Williams said the company had deals in the works with several PC makers planning to preinstall the ClickRadio technology in their systems. And he said that some stereo manufacturers had expressed interest in incorporating ClickRadio in some high-end receivers, skipping the PC altogether.</p>
+        <p>BMG, a unit of Bertelsmann that is among the giants in the recording industry, has 21 percent of the domestic market for recorded music and includes the labels Arista Records, RCA Records and Windham Hill, as well the artists Whitney Houston, Carlos Santana and Christina Aguilera.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

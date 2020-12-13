@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="16QNA" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1199839"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Birds</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Birds</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="general_descriptor">Birds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000516T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E0DA133BF935A25756C0A9669C8B63" item-length="325" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Q&amp;A column explains how birds turn in flight, and role tail plays; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Flying Turns</p>
+        <p>Q. How do birds turn in flight? They bank just like planes, but their tails appear to offer no vertical rudder surface.</p>
+        <p>A. The assumption that a bird's tail functions only as a horizontal surface is erroneous, said Ron Rohrbaugh, an ornithologist at the Cornell Laboratory of Ornithology in Ithaca, N.Y.</p>
+      </block>
+      <block class="full_text">
+        <p>Flying Turns</p>
+        <p>Q. How do birds turn in flight? They bank just like planes, but their tails appear to offer no vertical rudder surface.</p>
+        <p>A. The assumption that a bird's tail functions only as a horizontal surface is erroneous, said Ron Rohrbaugh, an ornithologist at the Cornell Laboratory of Ornithology in Ithaca, N.Y.</p>
+        <p>''The tail does function as a rudder,'' he said. ''A bird can twist its tail laterally, from left to right, and downward, so it acts almost as a braking system that allows it to bank into turns.''</p>
+        <p>Some birds are better at this than others, he continued. ''For example,'' he said, ''some hawks in the group known as accipiters, which spend most of the time in forested settings, use their tails as rudders so they can rapidly weave their way through trees without striking them.''</p>
+        <p>There are other turning mechanisms as well. ''Some birds, like waterfowl, that have large webbed feet can use their feet to steer during landing,'' Mr. Rohrbaugh said. ''The feet have a lot of surface area, which creates wind resistance, and can be used much the way other birds might use their tails to steer.''</p>
+        <p>Birds also steer by changing their wing configuration. ''They can change the angle of attack, which is simply the angle at which the wing intersects the stream of air,'' Mr. Rohrbaugh said. ''A greater angle of attack creates more wind resistance, and applying this differentially on each wing allows the bird to turn.''</p>
+        <p>C. CLAIBORNE RAY</p>
+        <p>Readers are invited to submit questions by mail to Question, Science Times, The New York Times, 229 West 43rd Street, New York, N.Y. 10036-3959, or by e-mail to question@nytimes.com.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

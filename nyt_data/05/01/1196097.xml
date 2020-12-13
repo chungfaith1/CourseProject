@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Phillip Katz, Computer Software Pioneer, 37</title>
+    <meta content="Y01KAT$01" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; U.S.; Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1196097"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Katz, Phillip</person>
+        <classifier class="online_producer" type="types_of_material">Obituary (Obit)</classifier>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Deaths (Obituaries)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000501T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE3D81539F932A35756C0A9669C8B63" item-length="221" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Phillip Katz, Computer Software Pioneer, 37</hl1>
+      </hedline>
+      <abstract>
+        <p>Phillip W Katz, inventor of file-compression software used in computers worldwide, dies at age 37 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Phillip W. Katz, the inventor of file-compression software used in computers around the world, died on April 14 in a hotel room in Milwaukee. He was 37.</p>
+        <p>The cause was complications from alcoholism, according to a report from the Milwaukee medical examiner's office.</p>
+      </block>
+      <block class="full_text">
+        <p>Phillip W. Katz, the inventor of file-compression software used in computers around the world, died on April 14 in a hotel room in Milwaukee. He was 37.</p>
+        <p>The cause was complications from alcoholism, according to a report from the Milwaukee medical examiner's office.</p>
+        <p>Mr. Katz's program, PKZip, played a major role in making Internet communications faster and less expensive. The zip file archive he developed compresses information so that it takes up less space on a disk drive and less time is needed to download it from the Web or send it to another computer.</p>
+        <p>In an interview with The Milwaukee Journal in 1993, Mr. Katz said he had developed the concept for PKZip at his mother's kitchen table in 1986. ''It was just a hobby,'' he said. ''I didn't expect it to turn into a business.'' Mr. Katz is survived by his mother, Hildegard, and his sister, Cynthia.</p>
+        <p>Mr. Katz built a company called PKWare Inc. on the success of the file-compression program and became its president. Today, files compressed with Mr. Katz's software are ubiquitous and the term ''zip file'' is familiar to even casual computer users.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

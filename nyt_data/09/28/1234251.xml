@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Illegal Operations And Computer Ports</title>
+    <meta content="28ASKK" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/28/technology/28ASKK.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1234251"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000928T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D01EFD8123AF93BA1575AC0A9669C8B63" item-length="609" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Illegal Operations And Computer Ports</hl1>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. What is an A.G.P. port, and what are P.C.I. slots used for in a computer?</p>
+        <p>A. A.G.P. stands for Accelerated Graphics Port, and it is a place on your computer's motherboard for the system's video card. P.C.I. stands for Peripheral Component Interconnect, and it refers to a different type of slot on the motherboard for things like network cards or cards to connect photo scanners.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. What is an A.G.P. port, and what are P.C.I. slots used for in a computer?</p>
+        <p>A. A.G.P. stands for Accelerated Graphics Port, and it is a place on your computer's motherboard for the system's video card. P.C.I. stands for Peripheral Component Interconnect, and it refers to a different type of slot on the motherboard for things like network cards or cards to connect photo scanners.</p>
+        <p>Video cards are also sometimes installed in P.C.I. slots, but many computers manufactured within the past few years are using the A.G.P. option. That is because the A.G.P. can communicate directly with the computer's main memory, while a video card that is plugged into a P.C.I. slot shares time with other cards plugged into adjacent P.C.I. slots.</p>
+        <p>Cards that plug into P.C.I. slots can help you expand your computer's capabilities, like the ability to connect to an Ethernet network. P.C.I. slots enable ''plug and play'' installation.</p>
+        <p>Industry Standard Architecture slots are an older type of card slot, but most computers are still made to include I.S.A. slots on their motherboards. They are commonly used for adding parallel or serial port expansion cards, and sometimes sound cards or internal modems.</p>
+        <p>Q. What is the meaning of the Windows error message ''This program has performed an illegal operation and will be shut down''? Am I doing something wrong?</p>
+        <p>A. You're not doing anything wrong or against the law, despite what the error message says. The message means that the program in question is having a problem. The ''illegal operation'' designation covers a wide range of errors, and it may take some time, patience and troubleshooting to pinpoint the cause.</p>
+        <p>The most common causes of an illegal operation include a problem between that program and a software driver in your operating system or a memory-management problems between the program and one open in the background.</p>
+        <p>Problems and conflicts with different dynamic-link library files, or D.L.L.'s, that are added to your system when you install software programs can also cause illegal operation errors. Hardware conflicts, defective RAM chips and program bugs can also cause the error.</p>
+        <p>To pinpoint the cause, ask yourself some questions: Has this program always worked but is now crashing out of the blue? Has anything, like new hardware devices or software, been added lately? If you can trace the advent of the problem to a specific event, it may help narrow down the likely suspects.</p>
+        <p>The System File Checker, Version Conflict Manager and Dr. Watson utilities included in Windows 98 might help you track the source of your problem.</p>
+        <p>To find these programs, go to the Start menu, then to Programs, Accessories and System Tools. Open the System Information program and look under the Tools menu to find the utilities.</p>
+        <p>The System File Checker can restore damaged system files, while Dr. Watson records what your computer was doing when it crashed and may offer suggestions as to why. The Verson Conflict Manager keeps a tab on which system files were updated or replaced during a software or hardware installation.</p>
+        <p>Microsoft keeps a vast library of technical articles on its Web site at support.microsoft.com/search. You can search the site for ''illegal operation,'' along with the names of your suspect software or hardware, and you might find the solution to your problem.</p>
+        <p>Solutions will vary depending on the combination of factors, but you may have to do things like uninstalling and reinstalling programs or downloading and installing software patches for your system to put a stop to the illegal-operation errors.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

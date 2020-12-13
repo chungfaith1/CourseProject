@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ONLINE AUCTION MERGER</title>
+    <meta content="MB230917" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200211"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WORLD BUSINESS BRIEFING: EUROPE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">Auctions</classifier>
+        <org class="indexing_service">Ricardo.de AG</org>
+        <org class="indexing_service">Qxl.com</org>
+        <org class="indexing_service">QXLricardo PLC</org>
+        <person class="indexing_service">Cowell, Alan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Auctions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000517T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E4D71F3BF934A25756C0A9669C8B63" item-length="79" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ONLINE AUCTION MERGER</hl1>
+      </hedline>
+      <byline class="print_byline">By Alan Cowell</byline>
+      <byline class="normalized_byline">Cowell, Alan</byline>
+      <abstract>
+        <p>QXL PLC, Britain's biggest online auctioneer, agrees to buy Ricardo.de AG, German rival, for $1 billion in stock, premium of 27 percent; combination will be known as QXLricardo PLC and will have 1.3 million members (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Under challenge from eBay Inc. in Europe's Internet auction business, Britain's biggest online auctioneer QXL P.L.C. agreed to buy Ricardo.de A.G., a German rival, for $1 billion in stock, a premium of 27 percent. The London-based combination will be known as QXLricardo P.L.C. and will have 1.3 million members. EBay already sells more goods in Europe than the British and German companies combined.</p>
+        <p>Alan Cowell</p>
+      </block>
+      <block class="full_text">
+        <p>Under challenge from eBay Inc. in Europe's Internet auction business, Britain's biggest online auctioneer QXL P.L.C. agreed to buy Ricardo.de A.G., a German rival, for $1 billion in stock, a premium of 27 percent. The London-based combination will be known as QXLricardo P.L.C. and will have 1.3 million members. EBay already sells more goods in Europe than the British and German companies combined.</p>
+        <p>Alan Cowell</p>
+        <p>WORLD BUSINESS BRIEFING: EUROPE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

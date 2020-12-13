@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Interesting Choice</title>
+    <meta content="LTR022257" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225576"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="MALE BEAUTY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Photography</classifier>
+        <person class="indexing_service">Trier, William C</person>
+        <person class="indexing_service">Goldberg, Vicki</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000827T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04EEDA1431F934A1575BC0A9669C8B63" item-length="109" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Interesting Choice</hl1>
+      </hedline>
+      <abstract>
+        <p>William C Trier letter notes that Vicki Goldberg's August 13 article on Baron Wilhelm von Gloeden photography shows Sicilian Youth With Amphora depicts youth with condition called gynecomastia, or breast enlargement (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>It is interesting that the photograph ''Sicilian Youth With Amphora,'' which accompanied the article ''A Man-Made Arcadia Enshrining Male Beauty'' by Vicki Goldberg [Aug. 13], depicts a youth with gynecomastia, a condition in which pubertal boys or men develop breast enlargement of varying degrees. The breasts resemble those of females; young men or mature men may seek correction by plastic surgeons to remove a source of embarrrassment and ridicule. What strikes me is that Baron Wilhelm von Gloeden would have chosen this particular subject to photograph -- unless it is a young female, or the photographer was choosing to be cleverly humorous.</p>
+        <p>WILLIAM C. TRIER  Seattle</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>It is interesting that the photograph ''Sicilian Youth With Amphora,'' which accompanied the article ''A Man-Made Arcadia Enshrining Male Beauty'' by Vicki Goldberg [Aug. 13], depicts a youth with gynecomastia, a condition in which pubertal boys or men develop breast enlargement of varying degrees. The breasts resemble those of females; young men or mature men may seek correction by plastic surgeons to remove a source of embarrrassment and ridicule. What strikes me is that Baron Wilhelm von Gloeden would have chosen this particular subject to photograph -- unless it is a young female, or the photographer was choosing to be cleverly humorous.</p>
+        <p>WILLIAM C. TRIER  Seattle</p>
+        <p>MALE BEAUTY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

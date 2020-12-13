@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>To Prepare For Worst, Back Up</title>
+    <meta content="18PETE$02" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200324"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="STATE OF THE ART"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Lewis, Peter</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/State of the Art</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000518T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E7D8163AF93BA25756C0A9669C8B63" item-length="1263" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>To Prepare For Worst, Back Up</hl1>
+      </hedline>
+      <byline class="print_byline">By Peter H. Lewis</byline>
+      <byline class="normalized_byline">Lewis, Peter</byline>
+      <abstract>
+        <p>Peter Lewis column offers advice on ways to backup computer data; cites magnetic, optical and online devices; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>COMPUTERS are treacherous. Thanks to the wonders of modern technology, they make it easier than ever before to lose vast amounts of important information in a hurry. Anyone can misplace a set of car keys, but only a computer can lose years' worth of banking and investment records, family photos, music files, a nearly finished novel and tomorrow's important business presentation instantly and irretrievably.</p>
+        <p>But disasters can be minimized, if not avoided entirely, with a regular backup program. As recounted here last week, a successful data backup strategy for personal computers has to be reasonably easy, regular, remote and reliable.</p>
+      </block>
+      <block class="full_text">
+        <p>COMPUTERS are treacherous. Thanks to the wonders of modern technology, they make it easier than ever before to lose vast amounts of important information in a hurry. Anyone can misplace a set of car keys, but only a computer can lose years' worth of banking and investment records, family photos, music files, a nearly finished novel and tomorrow's important business presentation instantly and irretrievably.</p>
+        <p>But disasters can be minimized, if not avoided entirely, with a regular backup program. As recounted here last week, a successful data backup strategy for personal computers has to be reasonably easy, regular, remote and reliable.</p>
+        <p>There are three major categories of backup devices: magnetic, optical and online. I've tried several examples of each, ranging from the most basic floppy disk system to the newest online storage services. Each has advantages and disadvantages. There is no single solution that is perfect for everyone.</p>
+        <p>If you are shopping for a new PC, adding a magnetic Zip drive or an optical drive (either CD-R or CD-RW) is highly recommended. If you are one of the estimated two million lucky people who have a high-speed Internet connection through a cable modem or D.S.L., an online storage service may be the answer.</p>
+        <p>In some cases, PC owners may choose to use some combination of techniques, sort of a belt-and-suspenders approach. Others may simply choose the easiest or cheapest solution.</p>
+        <p>Personal psychology affects the decision. For example, I avoid almost any type of backup solution that involves data compression, even though compression speeds the backup process by squeezing more files onto fewer disks.</p>
+        <p>My aversion stems from two very bad experiences in trying to restore compressed files after a hard disk failure. I know it is irrational, as irrational as the geezers who go to the bank and demand to see and count their money because they don't trust the idea of their life savings existing only as a green glow on a computer screen. I like to see my backup files displayed as exact copies of the original files, instead of the hieroglyphics that compressed files often resemble. I am happiest when I can back up a file, click on it and test it immediately, just to reassure myself that it works.</p>
+        <p>For the same reason, tape drives give me the willies. Yes, magnetic tape is fast and cheap and reliable, and many corporations rely on it for their most important archiving. But it does not offer the instant gratification of other options, and testing a tape backup is a hassle. For those reasons I avoid it. With my biases now disclosed, let's look at the remaining options.</p>
+        <p>Magnetic Backups</p>
+        <p>Magnetic systems for desktop PC's include the humble floppy disk and high-capacity disks like Iomega's Zip and Imation's SuperDisk. There are other variations, but Zips  and SuperDisks are the most common.</p>
+        <p>In the easy and cheap category, the floppy disk is king. Most PC's still come with a floppy drive as standard equipment. A floppy disk formatted for Windows holds 1.44 megabytes of data, good for impromptu backups of small files but grossly inadequate for today's multigigabyte hard drives and multimegabyte digital photo and music files. Although it may seem as though the floppy is flopping toward extinction -- Apple computers did away with the floppy drive some time ago -- it still serves a limited role for backups and file transfers.</p>
+        <p>Several years ago I got a computer with a built-in Iomega Zip drive. Each Zip disk (about $9) holds about 100 megabytes of data, the equivalent of 69 floppies, making it handy for backing up entire folders. An external Zip drive costs about $100.</p>
+        <p>Recently I bought an external 250-MB U.S.B. Zip drive (about $200; disks about $18 each), which is backward-compatible with older 100-MB disks. The U.S.B. connection allows me to move the drive, and the data, easily from one U.S.B.-equipped computer to another.</p>
+        <p>On my iMac, however, I use an Imation SuperDisk drive (about $120). Unlike the Zip drive, the SuperDisk drive can read and write both conventional 3.5-inch floppy disks and 120-MB SuperDisks (about $10 each, less if bought in bulk).</p>
+        <p>The Zip is more common, which is an important consideration if you need to rush to Kinko's in the middle of the night to retrieve a file. But the SuperDisk is not exactly rare. Several companies offer SuperDisks in their laptop computers.</p>
+        <p>Optical Discs</p>
+        <p>CD-RW (rewritable) optical drives are increasingly popular, especially among people who store a lot of music files and digital photos. The storage capacity of a CD is 650 megabytes, and blank discs are cheap, about $2 or less.</p>
+        <p>CD's have some modest drawbacks. Unlike copying to Zips or SuperDisks, which function a lot like floppy disks, copying files to a recordable CD typically requires a bit of study and practice.</p>
+        <p>A CD-RW drive (around $275) can create both CD-R and CD-RW discs, while a CD-R drive can make only CD-R discs. Get the CD-RW for the most flexibility. In general, a CD-R disc is best for making audio CD's and permanent archives of other types of files. Almost any CD or DVD drive can read CD-R discs, while CD-RW discs are more finicky. On the other hand, CD-RW discs are handy for backing up files that change frequently because files can be erased and overwritten.</p>
+        <p>Online Storage</p>
+        <p>The new champion of easy and cheap backup is online storage. There are several free services on the Internet that allow users to park copies of their important files on secure network server computers. These personal storage areas, which are protected by passwords, are accessible from any computer that has a browser and Web access.</p>
+        <p>My favorite is X:drive (www  .xdrive.com), which offers new users 25 megabytes of free space. More space, up to 100 MB, is awarded in 5-MB or 10-MB increments for enticing friends to sign up for the service or for visiting the site frequently. Extra space can also be purchased for a monthly fee ranging from $4.95 a month for 25 MB to $19.95 a month for a gigabyte of storage.</p>
+        <p>There are two ways to use the service. One is to log on through a browser (Netscape or Microsoft) and download or upload files one at a time. The other, limited to Windows 95 and 98 users, involves downloading a simple application from the X:drive site.</p>
+        <p>Once the application is installed, the X:drive shows up on the desktop and in the Windows Explorer file tree just as if it were a local drive, like the A or C drive. It is then easy to drag and drop files and folders between the local hard disk and the remote X:drive.</p>
+        <p>Before leaving on a trip, I copy my most important files into a private folder on the X drive. I can then retrieve them, or simply use them on line, from any Web-connected computer in the world.</p>
+        <p>Apple offers a similar service called iDisk, exclusively for Macintosh computers. But Apple's service is limited to a paltry 20 MB.</p>
+        <p>There are drawbacks. Working with the X:drive files can be sluggish, especially over dial-up modem connections, and 25 MB is not a lot of space.</p>
+        <p>There are also nagging concerns about the free online storage services. I'm not sure I'd trust my long-term archiving to a start-up. I have more trust in the Zips and the CD's that I burn myself and can hold in my hands. Also, as recent events have shown, no password-protected system is entirely secure from a clever and determined hacker.</p>
+        <p>STATE OF THE ART</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

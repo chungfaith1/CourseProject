@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Success Counts</title>
+    <meta content="LTR232231" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204900"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Basketball</classifier>
+        <classifier class="indexing_service" type="descriptor">Coaches and Managers</classifier>
+        <org class="indexing_service">Indiana University</org>
+        <person class="indexing_service">Dreyer, Edward L</person>
+        <person class="indexing_service">Knight, Bob</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coaches and Managers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E1D81F3CF937A35755C0A9669C8B63" item-length="268" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Success Counts</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Edward L Dreyer addresses situation of Indiana University basketball Coach Bob Knight saying it is not surprising that university administrators remain in denial about him because of alumni and fan pressure (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>''Decision on Knight Shows the Fine Line That Colleges Walk'' (May 21) is a fairly candid look at college sports, but in fact there is no ''fine line.'' There is instead an unwritten rule that sports success exempts one from more than nominal academic or even criminal penalties. When a coach starts losing games or a player loses eligibility, then ''standards'' will be invoked.</p>
+        <p>Sports programs were originally introduced into schools on the theory that exercise is a good thing and that playing games builds character by teaching something called sportsmanship. College sports nowadays are mostly about fans growing obese on beer and snacks, and the moral lesson taught is that winning is all that matters.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>''Decision on Knight Shows the Fine Line That Colleges Walk'' (May 21) is a fairly candid look at college sports, but in fact there is no ''fine line.'' There is instead an unwritten rule that sports success exempts one from more than nominal academic or even criminal penalties. When a coach starts losing games or a player loses eligibility, then ''standards'' will be invoked.</p>
+        <p>Sports programs were originally introduced into schools on the theory that exercise is a good thing and that playing games builds character by teaching something called sportsmanship. College sports nowadays are mostly about fans growing obese on beer and snacks, and the moral lesson taught is that winning is all that matters.</p>
+        <p>Inevitably, many of the players are incapable of doing college work, and in addition the pressure of athletic deficits causes the admission of many substandard students whose tuition revenues are needed to pay the bills. Given the fan and alumni pressures noted in the article, it is not surprising that university administrators prefer to remain in denial.</p>
+        <p>EDWARD L. DREYER  Pinecrest, Fla.</p>
+        <p>The writer is a history professor at the University of Miami.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pickens Is Not Released</title>
+    <meta content="02JETS" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204125"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="FOOTBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Football</classifier>
+        <org class="indexing_service">Cincinnati Bengals</org>
+        <person class="indexing_service">Pickens, Carl</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Cincinnati Bengals</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000602T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01EED8133CF931A35755C0A9669C8B63" item-length="172" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pickens Is Not Released</hl1>
+      </hedline>
+      <abstract>
+        <p>Cincinnati Bengals do not release their disgruntled wide receiver Carl Pickens as expected (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Cincinnati Bengals did not release their disgruntled wide receiver Carl Pickens as expected yesterday, and so his agent, Steve Zucker, could not begin working the phones -- with the expected first call to the Jets -- to find his client a new home.</p>
+      </block>
+      <block class="full_text">
+        <p>The Cincinnati Bengals did not release their disgruntled wide receiver Carl Pickens as expected yesterday, and so his agent, Steve Zucker, could not begin working the phones -- with the expected first call to the Jets -- to find his client a new home.</p>
+        <p>The Bengals were waiting for official word from the players' association that it would drop a grievance filed against the team if the Bengals release Pickens, the team spokesman Jack Brennan said. If the union agreed to void the grievance, the Bengals would be allowed to regain the use of the franchise player tag they stuck on Pickens last year. That word did not come yesterday and now Zucker expects Pickens's release may not come until next week. The Bengals had hoped to cut Pickens before 4 p.m. yesterday to take advantage of the financial impact of his release against this year's salary cap.</p>
+        <p>FOOTBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

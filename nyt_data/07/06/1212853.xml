@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="CN232417" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212853"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000706T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E5D61E39F935A35754C0A9669C8B63" item-length="234" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MINNESOTA MINING AND MANUFACTURING CO., St. Paul, bought the closely held Dynapro Systems Inc., Vancouver, British Columbia, for an undisclosed price to enter the market for touch-screen components, computers and terminals.</p>
+        <p>DELPHI AUTOMOTIVE SYSTEMS CORP., Troy, Mich., said it had received commitments from two automakers for power liftgate and power sliding- door products valued at $350 million for the life of the contracts. The company declined to identify the automakers.</p>
+      </block>
+      <block class="full_text">
+        <p>MINNESOTA MINING AND MANUFACTURING CO., St. Paul, bought the closely held Dynapro Systems Inc., Vancouver, British Columbia, for an undisclosed price to enter the market for touch-screen components, computers and terminals.</p>
+        <p>DELPHI AUTOMOTIVE SYSTEMS CORP., Troy, Mich., said it had received commitments from two automakers for power liftgate and power sliding- door products valued at $350 million for the life of the contracts. The company declined to identify the automakers.</p>
+        <p>EXXON MOBIL CORP., Irving, Tex., agreed to sell 11 gasoline stations and a storage terminal in Guam to South Pacific Petroleum Corp. of Guam for an undisclosed price.</p>
+        <p>PACIFICARE HEALTH SYSTEMS INC., Santa Ana, Calif., said it would close Medicare health maintenance organization plans serving more than 23,000 Medicare patients next year.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

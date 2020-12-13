@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Medical Software Developer In a Stock Swap</title>
+    <meta content="MB002103" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213648"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="IN BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Bioshield Technologies Inc</org>
+        <org class="indexing_service">Aht Corp</org>
+        <person class="indexing_service">Brenner, Elsa</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000709T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01EFDC1438F93AA35754C0A9669C8B63" item-length="136" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Medical Software Developer In a Stock Swap</hl1>
+      </hedline>
+      <byline class="print_byline">By ELSA BRENNER</byline>
+      <byline class="normalized_byline">Brenner, Elsa</byline>
+      <abstract>
+        <p>BioShield Technologies Inc of Norcross, Ga, plans to acquire AHT Corp of Greenburgh, NY, developer of software for medical e-commerce, in stock swap valued at about $20 million (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BioShield Technologies Inc. of Norcross, Ga., plans to acquire AHT Corporation, a Greenburgh developer of software for medical e-commerce, in a stock swap valued at about $20 million, Arthur Dague, a spokesman for AHT, said.</p>
+        <p>Upon completion of the merger, BioShield will integrate AHT's business-to-business laboratory and prescription transaction management operations with its eMD.com Internet healthcare subsidiary, which provides an Internet service for physicians, other health providers and patients.</p>
+      </block>
+      <block class="full_text">
+        <p>BioShield Technologies Inc. of Norcross, Ga., plans to acquire AHT Corporation, a Greenburgh developer of software for medical e-commerce, in a stock swap valued at about $20 million, Arthur Dague, a spokesman for AHT, said.</p>
+        <p>Upon completion of the merger, BioShield will integrate AHT's business-to-business laboratory and prescription transaction management operations with its eMD.com Internet healthcare subsidiary, which provides an Internet service for physicians, other health providers and patients.</p>
+        <p>The combined entity will offer a full array of e-tools to manage laboratory orders and results and prescriptions in doctors' offices. One AHT program, Dr. Chart, allows doctors to order laboratory results and receive the results by way of the Internet. The company also has software called @Rx, which allows doctors to send prescriptions over the Internet.</p>
+        <p>ELSA BRENNER</p>
+        <p>IN BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

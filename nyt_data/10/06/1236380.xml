@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DINER'S JOURNAL</title>
+    <meta content="06JOUR" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="48" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/06/living/06JOUR.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1236380"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Arizona 206 (NYC Restaurant)</org>
+        <person class="indexing_service">Grimes, William</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Diner's Journal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001006T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A02E6DC1E3DF935A35753C1A9669C8B63" item-length="383" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DINER'S JOURNAL</hl1>
+      </hedline>
+      <byline class="print_byline">By William Grimes</byline>
+      <byline class="normalized_byline">Grimes, William</byline>
+      <abstract>
+        <p>William Grimes Diner's Journal review of Arizona 206, latest incarnation of restaurant at 206 East 60th Street; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Most restaurants are moving targets. Chefs change. Menus change. It's hard to keep up. Arizona 206 is a special case. In October 1998 it changed its name to Bolivar, transformed its menu from Southwestern to nuevo latino and began picking up favorable reviews. End of story? No.</p>
+        <p>Last December the restaurant did a double shuffle, shed its new name and new menu, and reverted to Arizona 206. These developments did not sound encouraging. Surprise: Arizona 206 Jr. is at least as good as Arizona 206 Sr.</p>
+      </block>
+      <block class="full_text">
+        <p>Most restaurants are moving targets. Chefs change. Menus change. It's hard to keep up. Arizona 206 is a special case. In October 1998 it changed its name to Bolivar, transformed its menu from Southwestern to nuevo latino and began picking up favorable reviews. End of story? No.</p>
+        <p>Last December the restaurant did a double shuffle, shed its new name and new menu, and reverted to Arizona 206. These developments did not sound encouraging. Surprise: Arizona 206 Jr. is at least as good as Arizona 206 Sr.</p>
+        <p>In fact, for those who know the restaurant from its waning days, when it seemed to be running on autopilot, the freshened version will be a revelation. And a lot less crowded, too.</p>
+        <p>Appetizers like shrimp and frisee in New Mexico chile sauce, and tamales stuffed with braised oxtail in a tomatillo salsa, make a strong, colorful showing, with a complex spiciness. Crisp little tortilla tubes are stuffed with sweet-and-sour pork barbecue and served with a creamy, cool avocado sauce.</p>
+        <p>The weather is just cold enough now to make a case for the very rich lamb shank enchiladas, covered in mole sauce. Thick chunks of tuna rolled in crushed pumpkin seeds are served in a spicy pipian sauce thickened with ground pumpkin seeds, with sweet plantains on the side.</p>
+        <p>Lunch sandwiches include grilled swordfish with mango chipotle mayonnaise and fried pork with tomato, avocado and pico de gallo sauce. Standout dinner entrees include swordfish stuffed with black beans and chorizo, then fried and served with a mango and papaya salad, and pork mixiote: a double-cut pork chop steamed with chayote, zucchini and shallots and served in a tomato-chile-pine-nut sauce.</p>
+        <p>There's no letup at dessert. A fried peach pie with dulce de leche ice cream and chocolate sauce nearly had me begging for mercy (do not order it after the lamb shank), but there are other options, like a roasted pineapple tart with chocolate and bourbon sauces, and a baked apple stuffed with pecans and raisins, served with pecan ice cream and maple sauce.</p>
+        <p>Arizona 206, 206 East 60th Street, Manhattan; (212) 838-0440. Dinner entrees, $17 to $26.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

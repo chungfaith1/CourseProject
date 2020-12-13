@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dell Planning to Offer Digital Audio Receiver</title>
+    <meta content="22GDEL" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209299"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Recording Equipment</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <org class="indexing_service">Dell Computer Corp</org>
+        <person class="indexing_service">Lewis, Peter H</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recording Equipment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000622T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804EFDD1131F931A15755C0A9669C8B63" item-length="353" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dell Planning to Offer Digital Audio Receiver</hl1>
+      </hedline>
+      <byline class="print_byline">By PETER H. LEWIS</byline>
+      <byline class="normalized_byline">Lewis, Peter H</byline>
+      <abstract>
+        <p>Dell Computer Corp says it plans to introduce PC-based digital audio receiver that will allow MP3 and WMA music files stored on personal computer to be played through home stereo system or in any room of the house; photo of receiver (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Making its first foray into consumer electronics -- but still tethered to the personal computer -- the Dell Computer Corporation said yesterday that it was preparing to introduce a PC-based digital audio receiver that would allow MP3 and WMA music files stored on a personal computer to be played through a home stereo system or in any room of the house.</p>
+        <p>The new Dell receiver, which is expected to go on sale at www.gigabuys.com in August for $249 (or $199 when bought with a Dell Dimension computer), is a small, radio-style box that uses an HPNA (Home Phoneline Networking Alliance) version 2.0 or Ethernet network to tap into the digital music files stored on a personal computer. An HPNA 2.0 network card for the PC costs between $50 and $70, depending on the manufacturer. It allows the digital audio receiver to pull MP3 songs and playlists, managed by either Music Match or Real Audio software, into the receiver through a home's existing phone jacks. The receiver itself can be plugged into the home stereo's RCA jack to fill the house with music, or it can be set up with an optional $99 set of Acoustic Research speakers to bring the PC music to any room where music is wanted.</p>
+      </block>
+      <block class="full_text">
+        <p>Making its first foray into consumer electronics -- but still tethered to the personal computer -- the Dell Computer Corporation said yesterday that it was preparing to introduce a PC-based digital audio receiver that would allow MP3 and WMA music files stored on a personal computer to be played through a home stereo system or in any room of the house.</p>
+        <p>The new Dell receiver, which is expected to go on sale at www.gigabuys.com in August for $249 (or $199 when bought with a Dell Dimension computer), is a small, radio-style box that uses an HPNA (Home Phoneline Networking Alliance) version 2.0 or Ethernet network to tap into the digital music files stored on a personal computer. An HPNA 2.0 network card for the PC costs between $50 and $70, depending on the manufacturer. It allows the digital audio receiver to pull MP3 songs and playlists, managed by either Music Match or Real Audio software, into the receiver through a home's existing phone jacks. The receiver itself can be plugged into the home stereo's RCA jack to fill the house with music, or it can be set up with an optional $99 set of Acoustic Research speakers to bring the PC music to any room where music is wanted.</p>
+        <p>Dell's new audio appliance shares the same basic design as S3 Inc.'s Rio Digital Audio Receiver, which was demonstrated last month, but unlike the Rio, the Dell has a retro-style radio control panel. The Rio music appliance will be sold in consumer electronics and computer retail stores later this summer for $299.95, which includes the receiver, an H.P.N.A. 2.0 network card, two phone cords and an RCA cable.</p>
+        <p>PETER H. LEWIS</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

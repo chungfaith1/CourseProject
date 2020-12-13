@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>People</title>
+    <meta content="MB002310" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1233703"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <org class="indexing_service">Burrell Communications Group</org>
+        <org class="indexing_service">chemistri (Co)</org>
+        <org class="indexing_service">Burnett, Leo, Worldwide</org>
+        <person class="indexing_service">Elliott, Stuart</person>
+        <person class="indexing_service">faems, mike</person>
+        <person class="indexing_service">karlenzig, kurt</person>
+        <person class="indexing_service">miller, chris</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000925T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E3D7143AF936A1575AC0A9669C8B63" item-length="192" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>People</hl1>
+      </hedline>
+      <byline class="print_byline">By Stuart Elliott</byline>
+      <byline class="normalized_byline">Elliott, Stuart</byline>
+      <abstract>
+        <p>*Burrell Communications Group names Mike Faems executive vice president and executive creative director for operations; Kurt Karlenzig and Chris Miller are named co-chief executives at Chemistri, new digital communications unit of Leo Burnett USA (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>* Mike Faems was named executive vice president and executive creative director for operations at the Burrell Communications Group, Chicago, 49 percent owned by the Publicis Groupe S.A. He had been executive vice president and co-executive creative director at Young &amp; Rubicam Advertising in Chicago.</p>
+      </block>
+      <block class="full_text">
+        <p>* Mike Faems was named executive vice president and executive creative director for operations at the Burrell Communications Group, Chicago, 49 percent owned by the Publicis Groupe S.A. He had been executive vice president and co-executive creative director at Young &amp; Rubicam Advertising in Chicago.</p>
+        <p>* Kurt Karlenzig, strategic planning director, and Chris Miller, marketing director, at Capps Digital, Chicago, minority owned by the B Com3  Group, were named co-chief executives at Chemistri, a new digital communications unit of Leo Burnett USA, part of the Leo Burnett Worldwide unit of B Com3 . Chemistri was formed from Capps' Digital Garage.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

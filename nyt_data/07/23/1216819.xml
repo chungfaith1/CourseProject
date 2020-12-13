@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Naming Groucho</title>
+    <meta content="LTR083345" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1216819"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Weiner, Richard</person>
+        <person class="indexing_service">Kanfer, Stefan</person>
+        <person class="indexing_service">Marx, Groucho</person>
+        <object.title class="indexing_service">Groucho (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000723T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06EFDD173BF930A15754C0A9669C8B63" item-length="102" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Naming Groucho</hl1>
+      </hedline>
+      <abstract>
+        <p>Richard Weiner letter on June 18 review of Stefan Kanfer's biography, Groucho, notes how grouch bags are used (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In his review of Stefan Kanfer's biography, ''Groucho'' (June 18), Gary Giddins notes that Julius Marx, ''who was acerbic and hid his money in a grouch bag, became Groucho.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In his review of Stefan Kanfer's biography, ''Groucho'' (June 18), Gary Giddins notes that Julius Marx, ''who was acerbic and hid his money in a grouch bag, became Groucho.''</p>
+        <p>How many readers know about grouch bags? They were small pouches, often worn beneath the clothing of traveling performers to conceal their emergency money or valuables. Circus people, vaudevillians and other intemperate spenders were considered ill tempered or grouchy, and their moneybags were called grouch bags.</p>
+        <p>Richard Weiner  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

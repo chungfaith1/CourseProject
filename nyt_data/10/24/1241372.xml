@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Plague Can Wax When Rats Wane</title>
+    <meta content="24RATS" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health &amp; Fitness" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/24/science/24RATS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1241372"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Plague</classifier>
+        <classifier class="indexing_service" type="descriptor">Rats</classifier>
+        <classifier class="indexing_service" type="descriptor">Fleas</classifier>
+        <person class="indexing_service">Fountain, Henry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Plague</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001024T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE2DC1731F937A15753C1A9669C8B63" item-length="936" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Plague Can Wax When Rats Wane</hl1>
+      </hedline>
+      <byline class="print_byline">By HENRY FOUNTAIN</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+      <abstract>
+        <p>Scientists at Cambridge University develop a new, rat-based model for dynamics of bubonic plague, which is caused by a bacterium that usually travels to people from rats by means of flea bites; find that plague can persist in a rat population for years without causing human cases and that it is the characteristics of the rat population that determine whether the disease causes an epidemic among humans (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bubonic plague, the Black Death that killed a third of the population in 14th-century Europe and millions more worldwide at the turn of the 20th century, is one of the most feared diseases. But when it comes to understanding how plague spreads, researchers in Britain say, it's not about humans, it's about rats.</p>
+        <p>Scientists at Cambridge University have developed a new model for the dynamics of the disease, which is caused by a bacterium that usually travels to people from rats via flea bites. Among their findings are that plague can persist in a rat population for years without causing human cases, which helps explain a historical puzzle: why new epidemics kept cropping up in some European cities in the 15th and 16th centuries despite strict quarantine measures.</p>
+      </block>
+      <block class="full_text">
+        <p>Bubonic plague, the Black Death that killed a third of the population in 14th-century Europe and millions more worldwide at the turn of the 20th century, is one of the most feared diseases. But when it comes to understanding how plague spreads, researchers in Britain say, it's not about humans, it's about rats.</p>
+        <p>Scientists at Cambridge University have developed a new model for the dynamics of the disease, which is caused by a bacterium that usually travels to people from rats via flea bites. Among their findings are that plague can persist in a rat population for years without causing human cases, which helps explain a historical puzzle: why new epidemics kept cropping up in some European cities in the 15th and 16th centuries despite strict quarantine measures.</p>
+        <p>But the work is of more than historical interest. Plague is still a public health problem, with some 1,000 to 3,000 cases annually, particularly in developing countries, and with the recent discovery of strains of plague bacteria that are resistant to antibiotics. The new model shows that when human cases occur, some  methods used to control the disease may only make the situation worse.</p>
+        <p>Epidemiologists have known that plague travels from rats to humans since the turn of the 20th century, when the last pandemic began in Canton, China, and Hong Kong and spread around the world, killing six million people in India alone. But, said Dr. Matthew J. Keeling, one of the Cambridge researchers, attempts to understand the dynamics of the disease have been hindered by an anthropocentric approach.</p>
+        <p>''As far as modeling the disease as a mathematical system and trying to predict things, most have been quite simplistic models looking at human populations,'' Dr. Keeling said.</p>
+        <p>''The fact that humans get it is really incidental to the spread of this disease,'' he added.</p>
+        <p>The new model takes what might be called a rat-based approach. In a paper describing their work in the current issue of the journal Nature, Dr. Keeling and a colleague, Chris Gilligan, show that it is the characteristics of the rat population that determine whether the disease causes an epidemic among humans.</p>
+        <p>One critical factor is how many rats are resistant to the disease. Rats get plague from other rodents and small animals that are infected with the bacteria. When a rat population becomes infected, the disease is catastrophic: only 2 to 5 percent of the rats survive. But those survivors are then resistant, just as a person who had chickenpox as a child generally cannot get it again. So in a population riddled with the bacteria, resistant rats quickly become predominant, with the infected fleas contentedly feasting on them.</p>
+        <p>''When most rats are resistant, plague sort of peters away,'' Dr. Keeling said. ''You can't get any of the big epidemics happening.''</p>
+        <p>The problem is what happens if the disease jumps, through the fleas, to a healthy rat population with few resistant members. According to the model, plague will travel quickly through this new population, killing off most of the rats. Then the fleas must find another source of food. ''The main alternative is going to be humans,'' Dr. Keeling said.</p>
+        <p>The model helps explain why even quarantined areas can see a recurrence of plague. Historically, in such cases plague was thought to have been imported. The model shows, however, that the disease can persist within a population, rising from dormancy if the conditions are right.</p>
+        <p>The model also shows that controlling a human outbreak by killing rats usually will not work. By the time human cases appear, Dr. Keeling said, the infection is running rampant among the rats. ''If you kill the rats, you basically remove the food source and make the human cases much worse,'' he said.</p>
+        <p>Most recent outbreaks have occurred in Africa. In the United States, 10 to 20 people a year are infected, mostly in the rural Southwest where plague is widespread among rodents in the wild. The last urban outbreak in the United States occurred in 1924 in Los Angeles.</p>
+        <p>While not commenting directly on Dr. Keeling's work, Dr. Kenneth L. Gage, plague section chief of the Division of Vector-Borne Infectious Diseases for the Centers for Disease Control and Prevention, says the agency recommends flea control, using insecticide, to fight outbreaks. Through public education, the agency works to reduce rodent populations as a preventive measure,  teaching people how to eliminate nesting places and food sources for rodents in their homes.</p>
+        <p>As for the historical implications of the new model, Dr. Ann G. Carmichael, an associate professor of history at Indiana University and the author of ''Plague and the Poor in Renaissance Florence,'' said that while it might be true that in some cases new outbreaks of plague arose from within a community, the evidence that the disease was often imported was irrefutable.</p>
+        <p>In 15th- and 16th-century Germany, she said, the disease traveled over land, from east to west. And the pandemic that started in Asia in 1894 clearly traveled overseas through rats on ships.</p>
+        <p>While Dr. Keeling's model is interesting, Dr. Carmichael said, from a historian's view it is of limited use. The problem is that firsthand historical accounts of plague tend to attribute the disease to the wrath of the gods, to the arrival of a stranger or to  entire groups of people who served as scapegoats. ''Nobody's talking about rats,'' she said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

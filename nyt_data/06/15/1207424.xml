@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pentagon Lets Civilians Use the Best G.P.S. Data</title>
+    <meta content="15NEXT$01" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20000616T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1207424"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Positioning System</classifier>
+        <classifier class="indexing_service" type="descriptor">National Security</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">Maps</classifier>
+        <person class="indexing_service">Lake, Matt</person>
+        <person class="indexing_service">Clinton, Bill (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Maps</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Positioning System</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Navigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506EEDC133EF936A25755C0A9669C8B63" item-length="1363" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pentagon Lets Civilians Use the Best G.P.S. Data</hl1>
+      </hedline>
+      <byline class="print_byline">By MATT LAKE</byline>
+      <byline class="normalized_byline">Lake, Matt</byline>
+      <abstract>
+        <p>Clinton Administration decision to allow civilian use of most advanced Global Positioning System explained (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IT seems as though almost no car advertisement can be broadcast on television without some mention of a feature that can pinpoint exactly where you are, even when you are in the middle of nowhere. And it is getting hard to rent a car in a strange town without being offered an extra (for around $40 a day) that will give you turn-by-turn directions to wherever you want to go.</p>
+        <p>Both types of offers take advantage of a gift from the United States government called the Global Positioning System, or G.P.S. It uses time signals that are transmitted from satellites in geosynchronous orbits around Earth and picked up by receivers, which use that information to calculate those receivers' locations. The math used to calculate location is complex, based on the time it takes for the signals to travel through space and the difference in transmission time for signals from as many as four satellites.</p>
+      </block>
+      <block class="full_text">
+        <p>IT seems as though almost no car advertisement can be broadcast on television without some mention of a feature that can pinpoint exactly where you are, even when you are in the middle of nowhere. And it is getting hard to rent a car in a strange town without being offered an extra (for around $40 a day) that will give you turn-by-turn directions to wherever you want to go.</p>
+        <p>Both types of offers take advantage of a gift from the United States government called the Global Positioning System, or G.P.S. It uses time signals that are transmitted from satellites in geosynchronous orbits around Earth and picked up by receivers, which use that information to calculate those receivers' locations. The math used to calculate location is complex, based on the time it takes for the signals to travel through space and the difference in transmission time for signals from as many as four satellites.</p>
+        <p>But until May 2, the system was flawed by inaccurate timing signals from the satellites -- errors that were deliberately introduced. The positioning system was designed to have two tiers of service: the Precise Positioning Service and the Standard Positioning Service.</p>
+        <p>If you were part of the military of the United States or of one of the nation's allies, or were in an approved civil agency, and if you had big-ticket decoders and cryptographic passkeys, you could take advantage of the more accurate G.P.S. data from the Precise Positioning Service. That can pinpoint your latitude and longitude to within roughly 72 feet (22 meters) -- or less than half that in some cases -- and your elevation, relative to sea level, to within roughly 90 feet.</p>
+        <p>But everyone else -- like hikers, boaters and people paying Avis for a NeverLost system in their rental cars -- got much less precise information. The Standard Positioning Service measurements were accurate to only within about 330 feet (100 meters) for locations and within about 510 feet for elevation. And what's more to the point, that inaccuracy in position information was introduced at some cost by an encrypting system called selective availability.</p>
+        <p>There were good reasons for introducing selective availability. In the early 1980's when the Global Positioning System was introduced, its primary function was military, though there were undoubted benefits to other organizations like commercial airlines and coast guards.</p>
+        <p>The typical military approach (which makes sense in wartime, even if it's a cold war) is to keep anything that may be construed as a threat under tight wraps. So the government decided that there were good military reasons to limit access to the most accurate positioning information.</p>
+        <p>But by 1996, in the post-cold war world, the United States government had decided that there was less need to spend money on encrypting the precise positioning signal.</p>
+        <p>So the Clinton administration announced that the government would end the policy of selective availability to ''encourage acceptance and integration of G.P.S. into peaceful civil, commercial and scientific applications worldwide and to encourage private sector investment in and use of United States G.P.S. technologies and services.''</p>
+        <p>The change was planned for 2006, but the timetable was speeded up because the positioning system has exploded in popularity since the announcement in 1996. Worldwide, there are now more than four million G.P.S. users, using commercial receivers that not only calculate latitudes and longitudes but also superimpose those details onto computerized maps and calculate directions to desired locations. Not only are these G.P.S. receivers used in car, air and marine transportation, but they are also becoming critical for mining, oil exploration and agriculture and for emergency response teams.</p>
+        <p>And the United States Commerce Department has predicted that worldwide sales of G.P.S. products and services will reach $8 billion this year, a number that could double by 2003.</p>
+        <p>With that kind of demand -- coupled with a competing Russian system called Glonass and talk of another from the European Union -- it made sense to move the deadline forward.</p>
+        <p>So six years ahead of schedule, the White House ended the policy of selective availability at midnight on May 1.</p>
+        <p>The response from G.P.S. receiver manufacturers was quick and positive. The move was commended on the following day by John Huyett, president and chief executive of the Magellan Corporation in Santa Clara, Calif., the company that manufactured the first handheld G.P.S. receiver and also makes Avis's NeverLost system.</p>
+        <p>''Our products have become more valuable and useful overnight,'' Mr. Huyett said.  ''The same G.P.S. receiver that provided accuracy within 100 meters of a user's location yesterday is providing position fixes with as good as 10-meter accuracy today.''</p>
+        <p>Dr. Alain L. Kornhauser, founder of TravRoute, which makes navigation systems for laptops and Pocket PC devices, said: ''We should praise the government for doing something right. Even if the only reason they're doing it is because they did something wrong before.'' Dr. Kornhauser is director of the Interdepartmental Transportation Research Program at Princeton University.</p>
+        <p>Even though removing the deliberate errors from G.P.S. theoretically makes the system 10 times as accurate, drivers using G.P.S. navigation systems should not expect to see that much improvement.</p>
+        <p>Although a receiver is less likely to think that you are on a road parallel to the one you are actually on -- and give you impossible turning directions -- the G.P.S. is prone to other errors.</p>
+        <p>Since G.P.S. receivers need signals from four satellites to calculate position precisely, accuracy will suffer if signals from one or two satellites are lost. That can happen to someone driving along tree-lined roads or next to power lines. But in many cases, the algorithms built into a G.P.S. receiver's navigation system will cope with short interruptions.</p>
+        <p>''The software can extrapolate forward,''  Dr. Kornhauser said. ''You'll be in the car for an hour, pass under trees for three or four seconds, and the software takes that into account, based on the speed and direction of travel. You don't need that level of precision.''</p>
+        <p>A greater source of error is atmospheric conditions, which can degrade the microwave carrier signals that G.P.S. satellites transmit and introduce errors.</p>
+        <p>Any error is very likely to be compounded, creating larger positioning errors, because the G.P.S. uses calculations that are based on signals sent from as many as four satellites. And even small signal errors can result in large positioning errors because position calculations are based on minute time differences; the problem becomes worse if more than one satellite's signals contain errors.</p>
+        <p>To overcome the errors introduced by signal noise and create more consistently accurate positioning, another enhancement to the G.P.S., called Differential G.P.S., is under development and already partly rolled out. Differential G.P.S. uses stationary ground-based receivers to monitor the signals from the constellation of G.P.S. satellites. These stationary receivers do not cover nearly as much of the world as the G.P.S. satellites, but they are becoming widespread in coastal areas, where they are of most value to ocean shipping and transportation. The Differential G.P.S. stations  are strategically located so they can spot signal errors generated by G.P.S. satellites and figure out how to correct them.</p>
+        <p>To correct the signal error, the station transmits the correction formula, which specially equipped G.P.S. receivers can receive and use to correct the signal. Using that trick, the Differential G.P.S. can provide accuracy to within about three feet.</p>
+        <p>The result of such increased accuracy has freed G.P.S. navigation companies to concentrate on their customers' needs. Instead of dedicating computing cycles to removing errors caused by either the government or the ionosphere, G.P.S. navigation products can concentrate on faster and better directions.</p>
+        <p>''Now that the computer doesn't have to do all that,'' Dr. Kornhauser said, ''the processing power can be used to suggest, 'You might be better off trying this -- what do you think?' The in-vehicle navigation system becomes an advisor, not a commander.''</p>
+        <p>Correction:  June 16, 2000, Friday  An article in Circuits on Thursday about the improved accuracy of the Global Positioning System misidentified the car rental company that offers NeverLost, a navigation system using G.P.S. It is Hertz, not Avis.</p>
+        <p>Correction:  June 29, 2000, Thursday  An article in Circuits on June 15 about the improved accuracy of the Global Positioning System described the orbits of G.P.S. satellites incorrectly. Their orbital positions are very precisely known, but they are not in geosynchronous orbits (maintaining a fixed position relative to the earth).</p>
+        <p>The article also mischaracterized the number of satellite signals that can be used by a G.P.S. receiver to determine location. Four is the minimum number that can be used, not the maximum.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: June 16, 2000, Friday</p>
+        <p>An article in Circuits on Thursday about the improved accuracy of the Global Positioning System misidentified the car rental company that offers NeverLost, a navigation system using G.P.S. It is Hertz, not Avis.</p>
+        <p>&lt;br&gt;</p>
+        <p>&lt;br&gt;</p>
+        <p>Correction: June 29, 2000, Thursday</p>
+        <p>An article in Circuits on June 15 about the improved accuracy of the Global Positioning System described the orbits of G.P.S. satellites incorrectly. Their orbital positions are very precisely known, but they are not in geosynchronous orbits (maintaining a fixed position relative to the earth).</p>
+        <p>The article also mischaracterized the number of satellite signals that can be used by a G.P.S. receiver to determine location. Four is the minimum number that can be used, not the maximum.</p>
+        <p>&lt;br&gt;</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

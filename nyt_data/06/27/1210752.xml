@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="27INSI" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1210752"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000627T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E4DB1330F934A15755C0A9669C8B63" item-length="255" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Chechnya Assault to Resume  The day after a top commander announced a halt to Russian attacks in Chechnya, the Kremlin said that the attacks would continue.  PAGE A9</p>
+      </block>
+      <block class="full_text">
+        <p>Chechnya Assault to Resume  The day after a top commander announced a halt to Russian attacks in Chechnya, the Kremlin said that the attacks would continue.  PAGE A9</p>
+        <p>A Move Ahead for Ulster  Two envoys have inspected a number of Irish Republican Army arms caches, a step in advancing Northern Ireland's peace pact.  PAGE A3</p>
+        <p>Miami Relatives File Appeal  The Miami relatives of 6-year-old Elian Gonzalez asked the Supreme Court to block his return to Cuba pending a formal appeal.  PAGE A14</p>
+        <p>Fed Unlikely to Raise Rates  The Federal Reserve is expected to leave interest rates unchanged when it completes its two-day meeting tomorrow.  BUSINESS DAY, PAGE C1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

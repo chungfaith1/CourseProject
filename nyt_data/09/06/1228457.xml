@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OFF THE MENU</title>
+    <meta content="06OFF.$01" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/06/living/06OFF.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1228457"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <org class="indexing_service">Strip House (Manhattan Restaurant)</org>
+        <org class="indexing_service">Mirchi (Manhattan Restaurant)</org>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Off the Menu</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000906T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E5D71F30F935A3575AC0A9669C8B63" item-length="377" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OFF THE MENU</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>New Manhattan restaurants Strip House and Mirchi and planned new restaurants noted (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Not What You Think</p>
+        <p>A suggestive name? Well, yes, if it also suggests mouth-watering morsels of steak. At Strip House, 13 East 12th Street, the strip is short loin, cut thick or thin. And by all means, do not ignore the goose-fat potatoes. David Walzog, executive chef of the Glazier Group, which owns the restaurant, and Wayne Harley Brachman, the company's executive pastry chef, are overseeing the menu. The room, designed by David Rockwell, is thoroughly retro, done in scarlet with old opera singer photos, which belonged to the previous tenant, Asti, and shots of French strippers, circa 1930.</p>
+      </block>
+      <block class="full_text">
+        <p>Not What You Think</p>
+        <p>A suggestive name? Well, yes, if it also suggests mouth-watering morsels of steak. At Strip House, 13 East 12th Street, the strip is short loin, cut thick or thin. And by all means, do not ignore the goose-fat potatoes. David Walzog, executive chef of the Glazier Group, which owns the restaurant, and Wayne Harley Brachman, the company's executive pastry chef, are overseeing the menu. The room, designed by David Rockwell, is thoroughly retro, done in scarlet with old opera singer photos, which belonged to the previous tenant, Asti, and shots of French strippers, circa 1930.</p>
+        <p>North Indian Style</p>
+        <p>Mirchi, which opens tomorrow at 29 Seventh Avenue South (Morton Street), breaks new ground for New York in Indian food. Front and center at an open kitchen are two tawas, griddles resembling flattened woks, in which are tossed the ingredients for quick, savory mixtures that are served on bread. Tawas (pronounced tav-AHS) are used by street vendors in the north of India, where the most popular dish is called tak-a-tak from the noise the utensils make on the pan. It combines spices, fresh herbs and vegetables with chicken or lamb. At Mirchi, the varieties also include vegetarian. In addition, the restaurant, in subdued green, purple and cinnamon, serves chats, a snack sometimes wrapped in pastry, and appetizer portions of tandoori dishes on skewers, as well as some of the usual main dishes.</p>
+        <p>Short Orders</p>
+        <p>Steve Hanson, who owns Ruby Foo's, Blue Water Grill, Isabella's, Atlantic Grill and other restaurants, has bought a vacant building at 206 Spring Street, near Avenue of the Americas, where he plans to open an Italian restaurant or steakhouse.</p>
+        <p>Brad Kelley has reworked Bop, his Korean restaurant at 2 East Second Street, turning it into Daily Chow, with a pan-Asian menu that includes Chinese hot and sour soup, Thai curries and Mongolian barbecue.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

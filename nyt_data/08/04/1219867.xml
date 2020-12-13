@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DINER'S JOURNAL</title>
+    <meta content="04JOUR" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="42" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1219867"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Wallse (NYC Restaurant)</person>
+        <person class="indexing_service">Grimes, William</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Diner's Journal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000804T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E2DE1F3DF937A3575BC0A9669C8B63" item-length="322" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DINER'S JOURNAL</hl1>
+      </hedline>
+      <byline class="print_byline">By William Grimes</byline>
+      <byline class="normalized_byline">Grimes, William</byline>
+      <abstract>
+        <p>William Grimes Diner's Journal review of Wallse, new Austrian restaurant in West Village; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Among other things, Danube has taught New York that quark is a cheese as well as a subatomic particle. This is not useless information, certainly not at Wallse, Kurt Gutenbrunner's very appealing little Austrian restaurant in the far West Village, where a quark dumpling with red-currant-stuffed apricot halves leads the list of homey sweets. It's been a long wait for Mr. Gutenbrunner, an Austrian who once cooked at the renowned Tantris in Vienna and was David Bouley's original choice to run the kitchen at Danube. When that project seemed to be stalled, he decided to open his own place.</p>
+        <p>Wallse is the result. Named after Wallsee, Mr. Gutenbrunner's hometown, but outfitted with a stylish French accent, it's a country cousin to Danube, with a relaxed neighborhood feeling and a menu devoted for the most part to comfortable favorites like rostbraten (steak in red wine with fried onions), Wiener schnitzel, veal goulash and tafelspitz (boiled beef), as well as slightly more fancified dishes like asparagus with chanterelles in riesling sauce.</p>
+      </block>
+      <block class="full_text">
+        <p>Among other things, Danube has taught New York that quark is a cheese as well as a subatomic particle. This is not useless information, certainly not at Wallse, Kurt Gutenbrunner's very appealing little Austrian restaurant in the far West Village, where a quark dumpling with red-currant-stuffed apricot halves leads the list of homey sweets. It's been a long wait for Mr. Gutenbrunner, an Austrian who once cooked at the renowned Tantris in Vienna and was David Bouley's original choice to run the kitchen at Danube. When that project seemed to be stalled, he decided to open his own place.</p>
+        <p>Wallse is the result. Named after Wallsee, Mr. Gutenbrunner's hometown, but outfitted with a stylish French accent, it's a country cousin to Danube, with a relaxed neighborhood feeling and a menu devoted for the most part to comfortable favorites like rostbraten (steak in red wine with fried onions), Wiener schnitzel, veal goulash and tafelspitz (boiled beef), as well as slightly more fancified dishes like asparagus with chanterelles in riesling sauce.</p>
+        <p>Appetizers include sauteed rabbit with herb spatzle and sweet peas, and a salad of smoked trout and eel piled high with wild cress and sprinkled with slivers of tart apple. And the entree list, while doing honor to the meaty classics, makes room for fish dishes like sturgeon with peppers, cabbage and green garlic, and halibut surrounded by dill, cucumber and wild mushrooms.</p>
+        <p>There are almost as many desserts as entrees. This is an Austrian restaurant, after all. The list includes two strudels, a Viennese coffee sabayon, chocolate-hazelnut cake, and strawberries served with a floral, quintessentially Austrian elderberry sorbet. The wine list gives you one more reason to wrap your tongue around blauburgunder.</p>
+        <p>Wallse, 344 West 11th Street, at Washington Street, West Village; (212) 352-2300. Dinner entrees, $19 to $27.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

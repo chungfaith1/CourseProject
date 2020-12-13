@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV094907" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208071"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Hughes, Carolyn T</person>
+        <person class="indexing_service">Alexander, Shana</person>
+        <object.title class="indexing_service">Astonishing Elephant, the (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01EFD6133FF93BA25755C0A9669C8B63" item-length="296" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Carolyn T. Hughes</byline>
+      <byline class="normalized_byline">Hughes, Carolyn T</byline>
+      <abstract>
+        <p>Carolyn T Hughes reviews book The Astonishing Elephant by Shana Alexander (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Astonishing Elephant</p>
+        <p>By Shana Alexander.</p>
+        <p>Random House, $25.95.</p>
+      </block>
+      <block class="full_text">
+        <p>The Astonishing Elephant</p>
+        <p>By Shana Alexander.</p>
+        <p>Random House, $25.95.</p>
+        <p>''Over the years I have come to understand that human beings and elephants enjoy a unique relationship, different from our connection to every other animal species,'' Shana Alexander writes in ''The Astonishing Elephant,'' a combination of historical facts, personal anecdotes and scientific studies. She is an eloquent advocate for the species, and her book should be a revelation for anyone not familiar with how cruelly humans have treated elephants. She describes the devastation poaching has exacted upon the African and Indian elephant populations, and her chapter on the killing of the male circus animals in the United States since the late 19th century is shocking. Once circus owners realized that male elephants in their yearly must cycle could not be controlled by their handlers, they decided to get rid of them: ''Dozens of circus bulls . . . were variously shot, poisoned, stabbed, clubbed, garroted, electrocuted, drowned and even hung by the neck until dead.'' Alexander devotes several chapters to scientists and veterinarians who have dedicated their lives to saving elephants from extinction. She also discusses the important role elephants play in Hinduism and Buddhism. Anyone interested in the colorful, if sometimes sorrowful, history of elephants will find much to admire.</p>
+        <p>Carolyn T. Hughes</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

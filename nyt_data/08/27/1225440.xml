@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV100014" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225440"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Constantine, Peggy</person>
+        <person class="indexing_service">Spaethling, Robert</person>
+        <person class="indexing_service">Mozart, Wolfgang Amadeus (1756-91)</person>
+        <object.title class="indexing_service">Mozart's Letters, Mozart's Life: Selected Letters (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000827T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EED9153EF934A1575BC0A9669C8B63" item-length="322" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Peggy Constantine</byline>
+      <byline class="normalized_byline">Constantine, Peggy</byline>
+      <abstract>
+        <p>Peggy Constantine reviews book Mozart's Letters, Mozart's Life: Selected Letters edied by Robert Spaethling (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Mozart's Letters, Mozart's Life</p>
+        <p>Selected Letters.</p>
+        <p>Edited by Robert Spaethling.</p>
+        <p>Norton, $35.</p>
+      </block>
+      <block class="full_text">
+        <p>Mozart's Letters, Mozart's Life</p>
+        <p>Selected Letters.</p>
+        <p>Edited by Robert Spaethling.</p>
+        <p>Norton, $35.</p>
+        <p>In December 1769, the 13-year-old Wolfgang Amadeus Mozart, with his father, Leopold, left their home in Salzburg, Austria, for a two-year concert tour. The young Mozart wrote his first letter to his mother on Dec. 14: ''I feel so jolly on this trip because it's so cozy in our carriage, and because our coachman . . . drives as fast as he can.'' The composer later became an inveterate letter writer. Seven volumes of his correspondence were printed in Germany between 1962 and 1975. Robert Spaethling, an emeritus professor of German at the University of Massachusetts, translated two-thirds of the letters for ''Mozart's Letters, Mozart's Life,'' a wonderful collection that gives Mozart a voice as a son, husband, brother and friend. Mozart's main subjects were his composing and performing, but he usually digresses into love for his parents, his sister and his wife, Constanze. And there was a bawdy side, too, to the composer of such elegant music. As he grew older, he raged at his father on occasion, as when he rejected his father's urging to return from Vienna to Salzburg. ''Do I have to tell you a hundred times that I can be more useful to you here than in Salzburg? . . . Don't write this kind of letter to me anymore.'' Spaethling writes in the introduction that his goal was to ''provide a complete portrait and continuous account of Mozart the musician, Mozart the individual and Mozart the writer,'' and he has succeeded most admirably.</p>
+        <p>Peggy Constantine</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>E-Publish or Perish</title>
+    <meta content="LTR103038" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1220242"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Clark, Charlie</person>
+        <person class="indexing_service">Max, D T</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000806T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E5DE163DF935A3575BC0A9669C8B63" item-length="247" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>E-Publish or Perish</hl1>
+      </hedline>
+      <abstract>
+        <p>Charlie Clark letter opposes D T Max's July 16 Bookend essay blasting new e-publishing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The rebuttal to D. T. Max's Bookend blast against the new e-publishing (''No More Rejections,'' July 16) is contained in the same issue of the Book Review, in which a review of Molly Jong-Fast's novel, ''Normal Girl,'' suggests that the book would never have found a publisher had the author not been the daughter of a famous novelist. Max's essay was published the same week that the publishing world set a record for a book advance with the contract given to Jack Welch, the chairman of the General Electric Company and a nonwriter. Most mainstream editors are looking for books that make money, not books for those with highbrow taste.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The rebuttal to D. T. Max's Bookend blast against the new e-publishing (''No More Rejections,'' July 16) is contained in the same issue of the Book Review, in which a review of Molly Jong-Fast's novel, ''Normal Girl,'' suggests that the book would never have found a publisher had the author not been the daughter of a famous novelist. Max's essay was published the same week that the publishing world set a record for a book advance with the contract given to Jack Welch, the chairman of the General Electric Company and a nonwriter. Most mainstream editors are looking for books that make money, not books for those with highbrow taste.</p>
+        <p>Max is too smug in pronouncing most e-published books to be terrible, given the fact that much of what makes it into mainstream print is monstrous. As the author of the iUniverse.com novel ''Finish High School at Home,'' I can testify that e-publishing can level the playing field a bit and healthily increase (within reason) the number of authors who get a shot at a public verdict. E-publishers who put their own label on a book are no more likely to inflict drivel on an unprotected public than most people are to abuse the telephone by making late-night prank calls; it happens, but not so much that it destroys the value of the medium.</p>
+        <p>Charlie Clark</p>
+        <p>Arlington, Va.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

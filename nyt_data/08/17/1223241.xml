@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Developer for the Poor</title>
+    <meta content="LTR235659" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Home and Garden; Style; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1223241"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000817T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E0D8173EF934A2575BC0A9669C8B63" item-length="163" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Developer for the Poor</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''On Avenue C, Renewal and Regret'' calls La Plaza Cultural on Avenue C a garden, but even the ''gardeners'' now call it an ''outdoor performance space'' and claim it should be maintained as such.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''On Avenue C, Renewal and Regret'' calls La Plaza Cultural on Avenue C a garden, but even the ''gardeners'' now call it an ''outdoor performance space'' and claim it should be maintained as such.</p>
+        <p>The article says that ''developers want the site.'' Lower East Side Coalition Housing has been granted more than $9 million by HUD to build 80 units of housing for poor senior citizens from the neighborhood. While technically a ''developer,'' it develops housing for low/no income families and formerly homeless families.</p>
+        <p>CHRISTINE WIDGREN  New York</p>
+        <p>The writer is a board member of Lower East Side Coalition Housing.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

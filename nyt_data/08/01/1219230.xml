@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dip Into a Book, Physically and Virtually</title>
+    <meta content="L01BOO$02" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1219230"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <org class="indexing_service">Amazon.com Inc</org>
+        <person class="indexing_service">Bruce, Richard</person>
+        <person class="indexing_service">King, Stephen</person>
+        <object.title class="indexing_service">Plant, the (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000801T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DEFDF103DF932A3575BC0A9669C8B63" item-length="252" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dip Into a Book, Physically and Virtually</hl1>
+      </hedline>
+      <abstract>
+        <p>Richard Bruce letter on Internet distribution of Stephen King's new novel suggests that Amazon.com and other Web bookstores publish first several pages of all books for readers to browse online (July 25 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Stephen King's new book, distributed through his Web site and Amazon.com (Business Day, July 25), leads me to wonder why it is that Amazon.com and other Web bookstores do not normally give us the first 5 or 10 pages of their novels. And why don't they give us the first few pages of nonfiction works along with the table of contents and the index?</p>
+        <p>Surely this would make the Web bookstores much more competitive with local bookstores that allow you to  read as much of the book as you want.</p>
+        <p>And it seems likely that the change would help publishers. Their books receive wear and tear through test reading at traditional bookstores. On the Web there is no wear and tear, and they could give us just enough content to make a fair evaluation of the book without giving away the whole thing.</p>
+        <p>Perhaps even the local bookstores could gain a little if people did their test reading at Web stores and bought locally.</p>
+        <p>RICHARD BRUCE  Davis, Calif., July 29, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

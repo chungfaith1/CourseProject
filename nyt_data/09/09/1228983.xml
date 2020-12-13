@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="09INSI$01" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1228983"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000909T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E7DF1139F93AA3575AC0A9669C8B63" item-length="405" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An Apology to Indians  At a ceremony marking the 175th anniversary of the Bureau of Indian Affairs, the agency's director apologized for its ''legacy of misdeeds'' against American Indians. PAGE A7</p>
+      </block>
+      <block class="full_text">
+        <p>An Apology to Indians  At a ceremony marking the 175th anniversary of the Bureau of Indian Affairs, the agency's director apologized for its ''legacy of misdeeds'' against American Indians. PAGE A7</p>
+        <p>New Power Sought on Tires  The head of the federal agency investigating safety problems with Firestone tires plans to ask Congress for additional money and power next week.  PAGE C1</p>
+        <p>Unions Win Better Salaries  Judging from new contracts at some of the nation's best-known companies, labor unions are doing much better at the bargaining table than just a few years ago. PAGE C1</p>
+        <p>Mother vs. Millionaire  In the 1980's, Saul P. Steinberg personified a style of excess. Now he is selling his assets, and his mother, saying he cheated her out of millions of dollars, is suing. PAGE B1</p>
+        <p>A Collision of Rights  Whose rights? The Supreme Court is to decide whether society can intervene if a pregnant woman endangers her fetus. ARTS &amp; IDEAS, PAGE B9</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

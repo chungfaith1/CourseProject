@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OFF THE MENU</title>
+    <meta content="04OFF.$01" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/04/living/04OFF.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1235873"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <org class="indexing_service">Primo (Rockland, Maine, Restaurant)</org>
+        <org class="indexing_service">Hudson Hotel (NYC)</org>
+        <org class="indexing_service">Triomphe (NYC Restaurant)</org>
+        <org class="indexing_service">Iroquois Hotel (NYC)</org>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <person class="indexing_service">Kelly, Melissa</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Off the Menu</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001004T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE4DC103DF937A35753C1A9669C8B63" item-length="350" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OFF THE MENU</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>Melissa Kelly, who made name for herself at Old Chatham Sheepherding Company Inn in Hudson Valley, now has new restaurant, Primo, in Rockland, Maine; comment on Hudson Cafeteria in Hudson Hotel; Triomphe, American restaurant in Iroquois Hotel on West 44th St, opens on Oct 4 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Next Stop, Maine</p>
+        <p>Melissa Kelly, who made a name for herself at the Old Chatham Sheepherding Company Inn (now closed) in the Hudson Valley, has maintained a following that extends to the coast of Maine. Her new place there, Primo, in Rockland, is in a Victorian house, with tables in several cozy rooms. The rich seasonal American menu pays homage to Italy with pizzas, braised rabbit pappardelle and pork saltimbocca. Her partner and the baker, Price Kushner, has come up with crisp cinnamon zeppoli alongside an espresso float.</p>
+      </block>
+      <block class="full_text">
+        <p>Next Stop, Maine</p>
+        <p>Melissa Kelly, who made a name for herself at the Old Chatham Sheepherding Company Inn (now closed) in the Hudson Valley, has maintained a following that extends to the coast of Maine. Her new place there, Primo, in Rockland, is in a Victorian house, with tables in several cozy rooms. The rich seasonal American menu pays homage to Italy with pizzas, braised rabbit pappardelle and pork saltimbocca. Her partner and the baker, Price Kushner, has come up with crisp cinnamon zeppoli alongside an espresso float.</p>
+        <p>A Deceptive Name</p>
+        <p>With a dark-wood-and-brick decor, Hudson Cafeteria in the Hudson Hotel, 356 West 58th Street, is not what you might expect in an Ian Schrager project. But except for the communal tables and a self-service breakfast, this is hardly a cafeteria. There is an all-purpose menu, from chop suey to foie gras, served by waiters from a large open kitchen. A lush garden terrace has the same menu. The Hudson Bar serves light food, and a handsome library bar has a purple pool table.</p>
+        <p>Short Orders</p>
+        <p>Triomphe, a plush, intimate American restaurant in the Iroquois Hotel, 49 West 44th Street, opens today. The menu has a stylish French accent -- salmon with a caviar beurre blanc, for example -- and is the work of Steve Zobel, who was a chef at Sign of the Dove.</p>
+        <p>Chef on the Move</p>
+        <p>So you think finding an apartment is difficult?</p>
+        <p>Didier Virot, formerly of Jean Georges, pounded the pavement for a year looking for a good space for his own restaurant before giving up and becoming the executive chef for the restaurant in the Dylan Hotel, 52 East 41st Street.</p>
+        <p>The hotel is open for business, but the restaurant, which will be called Virot, will not be ready until November.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

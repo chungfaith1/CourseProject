@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Dividend Meetings</title>
+    <meta content="22DIVI$01" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201554"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000522T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E2D9113AF931A15756C0A9669C8B63" item-length="85" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Dividend Meetings</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A partial list for this week.</p>
+        <p>MONDAY  Anthracite Cap Inc  Fort Dearborn Income Secs Inc  Hormel Foods Corp</p>
+        <p>TUESDAY  Chemfirst Inc  Kilroy Rlty Corp  Nisource Inc  NUI Corp  Valley Natl Bancorp  Westvaco Corp</p>
+      </block>
+      <block class="full_text">
+        <p>A partial list for this week.</p>
+        <p>MONDAY  Anthracite Cap Inc  Fort Dearborn Income Secs Inc  Hormel Foods Corp</p>
+        <p>TUESDAY  Chemfirst Inc  Kilroy Rlty Corp  Nisource Inc  NUI Corp  Valley Natl Bancorp  Westvaco Corp</p>
+        <p>WEDNESDAY  AMB Ppty Corp  Amcast Indl Corp  First Va Banks Inc  Invacare Corp  JLG Inds Inc  Raymond James Finl  Sovran Self Storage Inc  Wrigley Wm Jr Co</p>
+        <p>THURSDAY  Brown Shoe Inc (New)  DQE Inc  Ethyl Corp  Laclede Gas Co  Nelson Thomas Inc  Quanex Corp</p>
+        <p>FRIDAY  Dimon Inc  PPL Corp  Stanley Wks</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

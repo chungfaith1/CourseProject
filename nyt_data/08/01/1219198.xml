@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q &amp; A</title>
+    <meta content="01QNA" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1219198"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Multiple Births</classifier>
+        <classifier class="indexing_service" type="descriptor">Twins</classifier>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Multiple Births</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Twins</classifier>
+        <classifier class="online_producer" type="general_descriptor">Births</classifier>
+        <classifier class="online_producer" type="general_descriptor">Twins</classifier>
+        <classifier class="online_producer" type="general_descriptor">Multiple Births</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pregnancy and Obstetrics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000801T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E4DE123DF932A3575BC0A9669C8B63" item-length="287" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q &amp; A</hl1>
+      </hedline>
+      <byline class="print_byline">By C. CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Answer to reader's question on whether twins are more frequently male or female; drawing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Boy Twins, Girl Twins</p>
+        <p>Q.  Are twins more likely to be one sex or the other? What about conjoined or Siamese twins?</p>
+        <p>A.  According to the Mothers of Twins Clubs, a national organization, slightly more than half of all twins born are male.</p>
+      </block>
+      <block class="full_text">
+        <p>Boy Twins, Girl Twins</p>
+        <p>Q.  Are twins more likely to be one sex or the other? What about conjoined or Siamese twins?</p>
+        <p>A.  According to the Mothers of Twins Clubs, a national organization, slightly more than half of all twins born are male.</p>
+        <p>In conjoined or Siamese twins, the picture is complicated both by their extreme rarity and by their very low overall survival rate, which is variously given at 5 percent to 25 percent.</p>
+        <p>Even among twins, conjoined twins account for only about 1 in 200 deliveries.</p>
+        <p>Conjoined twins are always identical, because they always come from a single fertilized egg, and so are always the same sex. The developing embryo splits within two weeks of conception, but is only partly separated and continues to mature into two infants that are connected to a greater or lesser degree. Many die at birth and many have severe birth defects. About 35 percent survive just one day.</p>
+        <p>However, historical studies of about 600 sets of conjoined twins over five centuries list more than 70 percent of the surviving pairs as female.</p>
+        <p>In the United States, according to the National Center for Health Statistics, there has been a sharp rise in multiple births over all, associated with the two overlapping and related trends of older age at childbearing and increased used of fertility-enhancing therapies, many of which have multiple pregnancies as a side effect.</p>
+        <p>C. CLAIBORNE RAY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

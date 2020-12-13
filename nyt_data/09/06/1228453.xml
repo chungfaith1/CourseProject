@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Neatness Counts When You're Making P's, B's and J's</title>
+    <meta content="06SAND$01" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1228453"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="FOOD STUFF: BACK TO SCHOOL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Cooking and Cookbooks</classifier>
+        <classifier class="indexing_service" type="descriptor">Knives</classifier>
+        <org class="indexing_service">Trudeau</org>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tableware</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cooking and Cookbooks</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000906T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06EFD91F30F935A3575AC0A9669C8B63" item-length="99" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Neatness Counts When You're Making P's, B's and J's</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>Trudeau offers knife with wide, flexible stainless steel blade for spreading even layers; photo (Food Stuff column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Connoisseurs of the peanut butter and jelly sandwich know how to achieve perfect, even layers: they use knives with wide, flexible stainless steel blades. The knives also do a terrific job with spreadable cheeses, and some have serrated edges, to handle tomatoes, too.</p>
+      </block>
+      <block class="full_text">
+        <p>Connoisseurs of the peanut butter and jelly sandwich know how to achieve perfect, even layers: they use knives with wide, flexible stainless steel blades. The knives also do a terrific job with spreadable cheeses, and some have serrated edges, to handle tomatoes, too.</p>
+        <p>The one above, made by Trudeau, has a cushioned handle that helps when there are lots of sandwiches to make. It's $4.49 at Zabar's, 80th Street and Broadway. Other houseware stores carry similar ones.</p>
+        <p>FOOD STUFF: BACK TO SCHOOL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

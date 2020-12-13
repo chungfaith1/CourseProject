@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Maps of Anything a Journalist Could Want</title>
+    <meta content="26MAP.$02" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1210507"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="MEDIA TALK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Maps</classifier>
+        <org class="indexing_service">Associated Press</org>
+        <org class="indexing_service">Environmental Systems Research Institute</org>
+        <person class="indexing_service">Mcclain, Dylan Loeb</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Maps</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000626T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE7DB1530F935A15755C0A9669C8B63" item-length="567" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Maps of Anything a Journalist Could Want</hl1>
+      </hedline>
+      <byline class="print_byline">By DYLAN LOEB MCCLAIN</byline>
+      <byline class="normalized_byline">Mcclain, Dylan Loeb</byline>
+      <abstract>
+        <p>Associated Press plans to market to journalists a Web-based program designed to let them create in minutes sophisticated, data-rich maps; program was developed by Environmental Systems Research Institute; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If The Associated Press succeeds with its newest project, people who read newspapers, watch television news broadcasts or scan Web media sites will soon see maps, maps and more maps.</p>
+        <p>And not just ordinary, run-of-the-mill maps -- those pedestrian items with a couple of roads and the names of some towns -- but maps that show demographic data, or earthquake fault lines and the number and location of quakes along each fault or even the location of every tree and bush in a neighborhood.</p>
+      </block>
+      <block class="full_text">
+        <p>If The Associated Press succeeds with its newest project, people who read newspapers, watch television news broadcasts or scan Web media sites will soon see maps, maps and more maps.</p>
+        <p>And not just ordinary, run-of-the-mill maps -- those pedestrian items with a couple of roads and the names of some towns -- but maps that show demographic data, or earthquake fault lines and the number and location of quakes along each fault or even the location of every tree and bush in a neighborhood.</p>
+        <p>The new product, called MapShop, is a Web-based program designed to allow journalists to create in minutes sophisticated, information-rich maps that once might have taken hours or even days.</p>
+        <p>But persuading journalists to use MapShop could be difficult. Some who have seen it are skeptical about its most advanced features and say it costs too much.</p>
+        <p>MapShop was developed with the Environmental Systems Research Institute, a Redlands, Calif., company and the leading maker of computer mapping software.</p>
+        <p>Jack Dangermond, president of the company, said that MapShop puts a lot of power in journalists' hands. He said it connects large databases from hundreds of reliable organizations around the world and combines it with a sophisticated mapping software to create a ''geographic representation that provides a context for traditional content.''</p>
+        <p>The Associated Press will charge a fee based on a sliding scale. Journalists at some large media companies say they have been told that annual fees could be as high as $50,000.</p>
+        <p>Some newspaper designers who saw a demonstration of MapShop in March said it looked impressive. ''I thought the potential was terrific,'' said Laura Sommerville, graphics editor of The Trenton Times. ''It does things that we cannot do right now.''</p>
+        <p>Celeste Bernard, graphics editor of The Seattle Post Intelligencer, also liked MapShop's potential. ''Maps are always the bane of graphics departments -- they always seem to take more time than you want to spend on them,'' she said. ''If I can generate a map that looks like someone in my department did it, then I definitely want to use it.''</p>
+        <p>Other editors at the March demonstration were less enthusiastic. ''I was impressed by the technology, but I can't use it,'' said Pak Nagasing, a graphics editor at The Journal News, which covers Westchester and Rockland counties in New York. ''It's too much money.''</p>
+        <p>There were also concerns about the quality of the data. Bill Marsh, design director of The Philadelphia Inquirer, said that not knowing what all the data sources were and whether they were reliable or compatible with each other could be a serious problem. ''A lot of maps and data sets don't mesh perfectly,'' he said. ''With obscure data that no one has ever layered together, there is no way to check it.''</p>
+        <p>In an a statement about MapShop, Environmental Research said it would ''maintain the most accurate data available, updating the information as it is released by the organizations that collect it.''</p>
+        <p>DYLAN LOEB MCCLAIN</p>
+        <p>MEDIA TALK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

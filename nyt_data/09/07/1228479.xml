@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Graphics Card Game</title>
+    <meta content="07STAT" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/07/technology/07STAT.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1228479"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="STATE OF THE ART"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Marriott, Michel</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/State of the Art</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000907T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E4D61739F934A3575AC0A9669C8B63" item-length="1230" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Graphics Card Game</hl1>
+      </hedline>
+      <byline class="print_byline">By Michel Marriott</byline>
+      <byline class="normalized_byline">Marriott, Michel</byline>
+      <abstract>
+        <p>Michel Marriott column assesses several graphics cards, separate circuit boards that plug into computers' motherboards to produce high-quality images; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>UNTIL recently, the only home computer users who cared about seeing high-quality images on their monitors were hard-core gamers. But in the last few years, that circle has expanded to include people who watch DVD movies on their computers or edit digital photographs or videos on the weekends. And yes, some of them may even be tempted to play the occasional game of Quake III.</p>
+        <p>All that focuses more attention on a generally overlooked computer component: the graphics card.</p>
+      </block>
+      <block class="full_text">
+        <p>UNTIL recently, the only home computer users who cared about seeing high-quality images on their monitors were hard-core gamers. But in the last few years, that circle has expanded to include people who watch DVD movies on their computers or edit digital photographs or videos on the weekends. And yes, some of them may even be tempted to play the occasional game of Quake III.</p>
+        <p>All that focuses more attention on a generally overlooked computer component: the graphics card.</p>
+        <p>For years, home and office computers worked quite nicely without graphics cards. The electronic components that helped the computer render routine, two-dimensional images were built into the main circuit board. But as the demand for more powerful computer graphics increased (first brought on by the heavy graphics demands of the early Windows operating system), the circuitry designed to produce graphics, especially 3-D images, evolved into powerful, separate circuit boards that plug into  computers' motherboards.</p>
+        <p>Those boards -- also called video boards, graphics accelerator cards and game boards -- are a collection of components for  handling graphics quickly, a process known as acceleration. Each graphics card has its own microprocessor and packs megabytes of its own memory, arranged on a board the size of a graham cracker.</p>
+        <p>Practically overnight a confusing crop of graphics cards has sprung up, each promising great enhancements for what can actually be seen on computer monitors.</p>
+        <p>For home computer users with gaming aspirations, almost any card that comes with 64 megabytes of memory and can handle OpenGL, DirectX and Glide -- all video game standards -- will fit the bill. For the average consumer who just wants to play a few modest computer games, a low-end graphics card with two to eight megabytes of memory will work fine. Even the built-in graphics cards, the kind likely to be found in a budget computer, are adequate.</p>
+        <p>Graphics cards come in two types: P.C.I. (Peripheral Component Interconnect) and A.G.P. (Accelerated or Advanced Graphics Port). These abbreviations refer to the expansion slot the cards occupy on computer motherboards. The A.G.P. slot, found on almost all computers made in the last several years, is better suited for a graphics card.</p>
+        <p>I looked at three highly rated, high-performance graphics cards, each made to work in an A.G.P. slot and all for PC's: the Voodoo5 5500 AGP by 3dfx, the Radeon 64-MB DDR by ATI and the 3D Prophet II GTS 64 MB by Hercules, a division of Guillemot. Each card has 64 megabytes of memory, important for delivering very high resolutions for larger monitors (19 inch and up). Each is supposed to deliver high levels of color and 3-D acceleration, a must for demanding games.</p>
+        <p>Each card was a marvel of engineering. But the Voodoo5 5500 was, pound for pound, the, uh, heaviest. The board, with its outsize length (just over nine and a half inches) and two on-board cooling fans, has macho appeal. And get this: the card needs so much juice that it plugs into the computer's main power supply. Most cards draw all the electricity they need from the slot that connects them to the motherboard.</p>
+        <p>Once it was snapped into place and its software installed (itself a snap), the Voodoo5 came to life and instantly produced noticeable improvements on my 19-inch display. Taking advantage of this card's 2-D accelerator, DVD movies appeared to have  more depth, color, detail and vibrancy. But it was under game conditions where the Voodoo5 5500 showed its true colors. Revving up its 3-D accelerator capabilities, the Voodoo5 called upon its processing muscle to render game environments, equipment and characters smoothly and rapidly.</p>
+        <p>The company that makes the Voodoo5 says that its technology is capable of drawing 667 megapixels every second. (The faster the pixels are drawn, the better the image resolution.) The card, which costs $299, also did a good job of reducing the number of jagged edges you often see when running computer games with inadequate graphics cards.</p>
+        <p>But after several days of use, I noticed that the Voodoo5 raised the temperature of my motherboard, sometimes making it so hot that I had to shut my computer down for a few minutes. Especially good computer case ventilation is a must for this monster card.</p>
+        <p>The Radeon, which costs $399, was also simple to install and began working right away. It was particularly impressive handling DVD movies and images, eliminating the need for a separate MPEG-2 decoder card, which many DVD-ROM makers require or include. With the Radeon alone, DVD movies could be played full-screen with good color depth and resolution.</p>
+        <p>The Radeon also played 3-D computer games very well, with resolutions as high as 2,048 by 1,536 pixels, the same as the Voodoo5. But the Radeon's images were not as clean as those rendered by the Voodoo5. It draws only 366 megapixels per second but compensates in other ways.</p>
+        <p>The Radeon does offer some handy pluses: a TV Out port for sending computer-generated images over included cables to a television set (preferably one with a large screen) and video-capture capability to store images seen on television.</p>
+        <p>But it was the third card, the 3-D Prophet II, which was the hands-down winner in practically all the categories and in a few that only it offered.</p>
+        <p>For all of its optimized processing might and 64 megabytes of on-board memory, the Prophet II is surprisingly unassuming in size. It fits easily into its A.G.P. slot, but installation was a bit of a task, requiring the complete removal of any software from previous graphics cards (at least a three-step process).</p>
+        <p>Once it was in and its software was installed, the Prophet started showing off. Its makers say the card will deliver 800 megapixels a second.</p>
+        <p>The Prophet easily handles very high 2-D and 3-D resolutions, up to 2,048 by 1,536 pixels. DVD movies looked especially clear and detailed when played through this card. The Prophet also has a TV Out port and something the other cards don't: a D.V.I. (Digital Visual Interface), which means that newer digital monitors can be plugged right into this card. The Voodoo5 and Radeon are not set up to handle digital monitors.</p>
+        <p>The Prophet easily handled the most demanding video games, making Quake III look downright cinematic. Textures, lighting and shading were all superior, and the card's rendering of 3-D environments was at least as clean as Voodoo5's.</p>
+        <p>But there is a downside to the Prophet -- its price. At $420, this card is one of the most expensive consumer cards on the market. That cost might be especially hard to justify if you are not concerned about seeing your computer games played on a digital flat-screen monitor or if you're not interested in using an L.C.D. projector to stun colleagues with the most visually dazzling PowerPoint presentation they are likely to see. For less money, the Voodoo5 is a better buy.</p>
+        <p>If you are not a serious gamer and don't mind good VCR-type quality images on your computer's DVD, stick with your old eight-megabyte graphics card, which probably came with the wonder PC you bought a few years ago.</p>
+        <p>STATE OF THE ART</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>One-Sided View on TV</title>
+    <meta content="L10CON$03" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/10/opinion/L10CON.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1229327"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <org class="indexing_service">Court TV (Network)</org>
+        <person class="indexing_service">Schleiff, Henry</person>
+        <person class="indexing_service">Prestwood, Hugh</person>
+        <object.title class="indexing_service">Confessions (TV Program)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000910T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E2D91339F933A2575AC0A9669C8B63" item-length="171" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>One-Sided View on TV</hl1>
+      </hedline>
+      <abstract>
+        <p>Hugh Prestwood letter replies to Henry Schleiff's Sept 5 Op-Ed article defending Court TV program Confessions; says 'reality' shows focus on the abnormal and bad in human nature and ignore the good</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In his defense of Court TV's program ''Confessions'' (Op-Ed, Sept. 5), Henry Schleiff asserts that the program provides a true picture of the world we live in and that our world is both good and bad, and there is value in seeing both.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In his defense of Court TV's program ''Confessions'' (Op-Ed, Sept. 5), Henry Schleiff asserts that the program provides a true picture of the world we live in and that our world is both good and bad, and there is value in seeing both.</p>
+        <p>What he doesn't say is that the producers of reality shows typically find little value in showing us the good in human nature. Instead, the majority of shows depict the abnormal and especially the bad. How balanced would a biography of my life be if it spoke only of my failures but never of my successes and only of my clumsiness but never of my grace?</p>
+        <p>HUGH PRESTWOOD  Greenport, N.Y., Sept. 6, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

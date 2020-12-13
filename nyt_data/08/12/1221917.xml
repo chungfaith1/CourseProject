@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Body is Discovered in Gym</title>
+    <meta content="12GYM" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1221917"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000812T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E4DC123FF931A2575BC0A9669C8B63" item-length="180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Body is Discovered in Gym</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A woman was found shot to death yesterday morning at a gymnasium in Woodside, Queens, the police said.</p>
+        <p>The woman, Barbara Perez, 30, of Queens, was found at 7:19 at the Power Factory Gym at 71-13 60th Lane. She had been shot once in the head, said Detective Joseph Pentangelo, a police spokesman.</p>
+      </block>
+      <block class="full_text">
+        <p>A woman was found shot to death yesterday morning at a gymnasium in Woodside, Queens, the police said.</p>
+        <p>The woman, Barbara Perez, 30, of Queens, was found at 7:19 at the Power Factory Gym at 71-13 60th Lane. She had been shot once in the head, said Detective Joseph Pentangelo, a police spokesman.</p>
+        <p>The police said it was not clear whether the shooting occurred yesterday morning or the night before. Ms. Perez was not robbed, they said. They said they did not know whether she was a customer or an employee.</p>
+        <p>No arrests were made as of last night. Detectives at the 104th Precinct were questioning a man who had dated Ms. Perez. The man had had an argument with her, according to a police official who refused to name the man or say whether he was a suspect.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BARCLAYS WILL ACQUIRE WOOLWICH</title>
+    <meta content="MB000957" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1221900"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WORLD BUSINESS BRIEFING: EUROPE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Banks and Banking</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Barclays Bank Plc</org>
+        <org class="indexing_service">Woolwich Plc</org>
+        <person class="indexing_service">Sorkin, Andrew Ross</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000812T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00EFDD123FF931A2575BC0A9669C8B63" item-length="114" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BARCLAYS WILL ACQUIRE WOOLWICH</hl1>
+      </hedline>
+      <byline class="print_byline">By Andrew Ross Sorkin</byline>
+      <byline class="normalized_byline">Sorkin, Andrew Ross</byline>
+      <abstract>
+        <p>Barclay's PLC agrees to acquire Woolwich PLC, British mortgage lender, for $8.1 billion (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Britain's third-largest bank, Barclays P.L.C., agreed to acquire Woolwich P.L.C., a British mortgage lender, for 5.4 billion [pounds], or $8.1 billion. The deal is part of the Barclays strategy to bolster its mortgage business and its Internet presence, an area in which Woolwich has excelled. The deal values Woolwich at 352 pence a share.</p>
+        <p>Andrew Ross Sorkin</p>
+      </block>
+      <block class="full_text">
+        <p>Britain's third-largest bank, Barclays P.L.C., agreed to acquire Woolwich P.L.C., a British mortgage lender, for 5.4 billion [pounds], or $8.1 billion. The deal is part of the Barclays strategy to bolster its mortgage business and its Internet presence, an area in which Woolwich has excelled. The deal values Woolwich at 352 pence a share.</p>
+        <p>Andrew Ross Sorkin</p>
+        <p>WORLD BUSINESS BRIEFING: EUROPE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Busy Times for Optical Sector</title>
+    <meta content="22MAYA" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201546"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <person class="indexing_service">Schiesel, Seth</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000522T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DEEDA113AF931A15756C0A9669C8B63" item-length="317" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Busy Times for Optical Sector</hl1>
+      </hedline>
+      <byline class="print_byline">By SETH SCHIESEL</byline>
+      <byline class="normalized_byline">Schiesel, Seth</byline>
+      <abstract>
+        <p>Dozens of companies are emerging to provide optical communications gear for optical networks, which convey millions or even billions of bits of digital information using pulses of light, rather than bursts of electricity (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Judging by sheer buzz, there is nothing in the technology world hotter these days than ''next generation optical networking.'' And the temperature may increase today, when Mayan Networks, a start-up company based in Sunnyvale, Calif., plans to announce the availability of its first product.</p>
+        <p>ONI Systems, previously known as Optical Networks, another small optical communications company, intends to make an initial public offering of its stock tomorrow. If that offering is successful, it could throw yet more fuel on the optical sector.</p>
+      </block>
+      <block class="full_text">
+        <p>Judging by sheer buzz, there is nothing in the technology world hotter these days than ''next generation optical networking.'' And the temperature may increase today, when Mayan Networks, a start-up company based in Sunnyvale, Calif., plans to announce the availability of its first product.</p>
+        <p>ONI Systems, previously known as Optical Networks, another small optical communications company, intends to make an initial public offering of its stock tomorrow. If that offering is successful, it could throw yet more fuel on the optical sector.</p>
+        <p>Optical networks convey millions or even billions of bits of digital information using pulses of light, rather than bursts of electricity. As demand has increased for these high-speed networks, dozens of companies have emerged to provide optical communications gear.</p>
+        <p>Mayan is nowhere close to an initial public offering, but it has attracted a blue-chip list of venture capital and private equity investors, including New Enterprise Associates and Amerindo Investment Advisors. Intel, as well as Nippon Telegraph and Telephone of Japan, the world's biggest telecommunications carrier, have also invested in Mayan.</p>
+        <p>Mayan's last round of financing, in October, valued the company at about $200 million, though if the company offers stock to the public it will almost surely be at a much higher valuation.</p>
+        <p>Mayan makes complex equipment that helps add flexibility to the optical networks within cities. The traditional optical networking format known as sonet, for synchronous optical network, transports information in ''envelopes'' of 52 million digital bits a second. Mayan and its competitors hope to crack those envelopes so the underlying optical communications capacity can be used more efficiently.</p>
+        <p>Mayan's competitors are mostly private companies including Alidian Networks, Astral Point Communications, Chromatis Networks, Cyras Systems and Sirocco Systems.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

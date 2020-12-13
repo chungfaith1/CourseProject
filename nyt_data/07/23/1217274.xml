@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Liberty Takes On Defending Champs</title>
+    <meta content="PL035404" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1217274"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PLUS: PRO BASKETBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Basketball</classifier>
+        <org class="indexing_service">New York Liberty</org>
+        <org class="indexing_service">Houston Comets</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000723T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E1DE123AF930A15754C0A9669C8B63" item-length="124" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Liberty Takes On Defending Champs</hl1>
+      </hedline>
+      <abstract>
+        <p>New York Liberty will play defending champion Houston Comets; other WNBA results noted (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Even though the Liberty has won six of its last seven games, the team will again be underdogs when facing the Houston Comets today at Madison Square Garden.</p>
+      </block>
+      <block class="full_text">
+        <p>Even though the Liberty has won six of its last seven games, the team will again be underdogs when facing the Houston Comets today at Madison Square Garden.</p>
+        <p>The Comets (21-3), the only champion in the three years of the Women's National Basketball Association, clinched a playoff spot with an overtime victory over Detroit on Friday. But the Liberty used its recent success to climb to 13-10.</p>
+        <p>PLUS: PRO BASKETBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

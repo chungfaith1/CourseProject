@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Aeroflex Approves 1-for-4 Stock Dividend</title>
+    <meta content="MB010740" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208558"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="IN BRIEF"/>
+      <identified-content>
+        <org class="indexing_service">Aeroflex (Co)</org>
+        <person class="indexing_service">Strugatch, Warren</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000618T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E7DA1431F93BA25755C0A9669C8B63" item-length="110" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Aeroflex Approves 1-for-4 Stock Dividend</hl1>
+      </hedline>
+      <byline class="print_byline">Compiled by Warren Strugatch</byline>
+      <byline class="normalized_byline">Strugatch, Warren</byline>
+      <abstract>
+        <p>Aeroflex board declares 25 percent stock dividend in form of stock split (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The board of Aeroflex in Plainview (Nasdaq: ARXX) declared a 25 percent stock dividend in the form of a stock split. Aeroflex shareholders will receive one share of common stock for each four shares they own on June 26. Cash will be paid in lieu of fractional shares.</p>
+      </block>
+      <block class="full_text">
+        <p>The board of Aeroflex in Plainview (Nasdaq: ARXX) declared a 25 percent stock dividend in the form of a stock split. Aeroflex shareholders will receive one share of common stock for each four shares they own on June 26. Cash will be paid in lieu of fractional shares.</p>
+        <p>Subsidiaries of Aeroflex provide microelectronic modules, integrated circuits and interconnect and testing solutions for communications, and design and manufacture motion-control systems and shock and vibration systems.</p>
+        <p>IN BRIEF E-mail address: libiz@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail address: libiz@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

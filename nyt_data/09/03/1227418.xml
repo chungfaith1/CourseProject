@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Fiction</title>
+    <meta content="RV111032" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1227418"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Collier, Andrea King</person>
+        <person class="indexing_service">Cohen, Matt</person>
+        <object.title class="indexing_service">Elizabeth and After (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000903T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EED91431F930A3575AC0A9669C8B63" item-length="258" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Fiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Andrea King Collier</byline>
+      <byline class="normalized_byline">Collier, Andrea King</byline>
+      <abstract>
+        <p>Andrea King Collier reviews the novel Elizabeth and After by Matt Cohen (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Elizabeth and After</p>
+        <p>By Matt Cohen.</p>
+        <p>Picador USA, $25.</p>
+      </block>
+      <block class="full_text">
+        <p>Elizabeth and After</p>
+        <p>By Matt Cohen.</p>
+        <p>Picador USA, $25.</p>
+        <p>When the Canadian writer Matt Cohen died last year, he left behind ''Elizabeth and After,'' a quiet yet haunting tale of love and loss. We see a respected schoolteacher, Elizabeth McKelvey, through the eyes of the people who knew her best, starting with William McKelvey, her husband, whom we meet several years after her death. William escapes from a retirement home in a stolen Pontiac to revisit the house he once shared with Elizabeth; his journey ends when he and the car land in Dead Swede Lake. This event brings their son, Carl, back home to pick up the pieces. Carl has done a fair amount of escaping himself: from violence, alcoholism and a ruined marriage. He returns to face his demons and to be a good father to Lizzie, the young daughter he left behind. Carl's return triggers not only his own memories, but draws out all the generational secrets, schemes and scandals that are hidden in sleepy little West Gull, Ontario. Nobody in this town is quite what he or she seems to be, whether it's Carl's ex-wife, Chrissy, or Luke Richardson, the town's used car dealer and real estate mogul, or the quiet and underestimated Adam Goldsmith, who once loved Elizabeth. He lives his life mourning her and later befriends her son. Cohen relates all these stories with energy and grace.</p>
+        <p>Andrea King Collier</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

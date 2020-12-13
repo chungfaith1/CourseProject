@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR021511" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="World; Corrections" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1229832"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Dilantin (Drug)</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Mental Health and Disorders</classifier>
+        <person class="indexing_service">Nixon, Richard Milhous (1913-94)</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000911T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E1D91F39F932A2575AC0A9669C8B63" item-length="119" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of August 31 article about aides to Pres Richard M Nixon who expressed skepticism about assertions in new book that president took antiseizure drug Dilantin</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article on Aug. 31 about aides to President Richard M. Nixon who expressed skepticism about assertions in a new book that the president took the antiseizure drug Dilantin misstated the tenure of one aide, John H. Taylor. Mr. Taylor, now director of the Nixon Library in Yorba Linda, Calif., worked for President Nixon from 1979 until the former president's death in 1994. Their association did not begin in the mid-1980's.</p>
+      </block>
+      <block class="full_text">
+        <p>An article on Aug. 31 about aides to President Richard M. Nixon who expressed skepticism about assertions in a new book that the president took the antiseizure drug Dilantin misstated the tenure of one aide, John H. Taylor. Mr. Taylor, now director of the Nixon Library in Yorba Linda, Calif., worked for President Nixon from 1979 until the former president's death in 1994. Their association did not begin in the mid-1980's.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

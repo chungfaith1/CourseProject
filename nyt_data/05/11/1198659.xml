@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>STRONG RESULTS AT BNP PARIBAS</title>
+    <meta content="MB231418" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1198659"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WORLD BUSINESS BRIEFING: EUROPE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Company Reports</classifier>
+        <org class="indexing_service">BNP Paribas</org>
+        <person class="indexing_service">Tagliabue, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Company Reports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Corporations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000511T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE1D9163BF932A25756C0A9669C8B63" item-length="102" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>STRONG RESULTS AT BNP PARIBAS</hl1>
+      </hedline>
+      <byline class="print_byline">By John Tagliabue</byline>
+      <byline class="normalized_byline">Tagliabue, John</byline>
+      <abstract>
+        <p>BNP Paribas, largest French bank, reports 22 percent increase in first-quarter profit, to $1.2 billion; graph (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Lifted by flourishing financial markets and Europe's strong economy, the largest French bank, BNP Paribas, reported a 22 percent increase in first-quarter profit to $1.2 billion. BNP Paribas said the largest gains came in asset management, private banking and international retail banking.</p>
+        <p>John Tagliabue</p>
+      </block>
+      <block class="full_text">
+        <p>Lifted by flourishing financial markets and Europe's strong economy, the largest French bank, BNP Paribas, reported a 22 percent increase in first-quarter profit to $1.2 billion. BNP Paribas said the largest gains came in asset management, private banking and international retail banking.</p>
+        <p>John Tagliabue</p>
+        <p>WORLD BUSINESS BRIEFING: EUROPE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR005213" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Corrections; Books; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211477"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mental Health and Disorders</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Freud, Sigmund (1856-1939)</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000630T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E2DE1739F933A05755C0A9669C8B63" item-length="177" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Corrections of June 10 article about new translations of Sigmund Freud's works</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article in Arts &amp; Ideas on June 10 about new translations of Sigmund Freud's works overstated what is to be included in a revised version of the Standard Edition of Freud's works, to be published in 2002 by Hogarth Press in England. It will not include four volumes of Freud's neuroscientific writings, which are to be published separately by Karnac Books.</p>
+        <p>The article also misstated the name of an organization that handles requests for permission to use copyrighted Freud material and misspelled the surname of its director. It is Sigmund Freud Copyrights, not Copyright, and the director is Mark Paterson, not Patterson.</p>
+      </block>
+      <block class="full_text">
+        <p>An article in Arts &amp; Ideas on June 10 about new translations of Sigmund Freud's works overstated what is to be included in a revised version of the Standard Edition of Freud's works, to be published in 2002 by Hogarth Press in England. It will not include four volumes of Freud's neuroscientific writings, which are to be published separately by Karnac Books.</p>
+        <p>The article also misstated the name of an organization that handles requests for permission to use copyrighted Freud material and misspelled the surname of its director. It is Sigmund Freud Copyrights, not Copyright, and the director is Mark Paterson, not Patterson.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

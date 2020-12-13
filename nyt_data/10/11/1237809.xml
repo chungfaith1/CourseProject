@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OFF THE MENU</title>
+    <meta content="11OFF" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/11/living/11OFF.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1237809"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Grand Central Terminal (NYC)</classifier>
+        <org class="indexing_service">Parlour Cafe (NYC)</org>
+        <org class="indexing_service">Shoebox Cafe (NYC)</org>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <person class="indexing_service">Rodriguez, Douglas</person>
+        <person class="indexing_service">Smalls, Alexander</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Off the Menu</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Grand Central Terminal (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stations and Terminals (Passenger)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001011T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E5DF1E3CF932A25753C1A9669C8B63" item-length="180" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OFF THE MENU</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>Douglas Rodriguez takes over Parlour Cafe in ABC Carpet&amp; Home and renames it Pipa; Alexander Smalls opens Shoebox Cafe in dining concourse at Grand Central Terminal (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ABC Carpet &amp; Food</p>
+        <p>Douglas Rodriguez, who runs Chicama in ABC Carpet &amp; Home, has taken over the Parlour Cafe there and renamed it Pipa. The cafe, which also has an entrance at 38 East 19th Street, serves tapas, soups and flatbreads and has an immense Spanish wine list. Each customer gets a glass of fino sherry to start.</p>
+        <p>All Aboard, Southbound</p>
+      </block>
+      <block class="full_text">
+        <p>ABC Carpet &amp; Food</p>
+        <p>Douglas Rodriguez, who runs Chicama in ABC Carpet &amp; Home, has taken over the Parlour Cafe there and renamed it Pipa. The cafe, which also has an entrance at 38 East 19th Street, serves tapas, soups and flatbreads and has an immense Spanish wine list. Each customer gets a glass of fino sherry to start.</p>
+        <p>All Aboard, Southbound</p>
+        <p>Alexander Smalls, who owned Cafe Beulah, a popular spot for Southern food in the Flatiron district until it closed in 1997, has opened the Shoebox Cafe in the dining concourse at Grand Central Terminal. It serves Southern classics like hush puppies with fresh herbs, fried oysters and green tomatoes, hominy cakes and Southern French toast.</p>
+        <p>Short Orders:</p>
+        <p>Two more steakhouses have opened: Larry Forgione's Manhattan Prime, in the Embassy Suites Hotel adjacent to the World Financial Center, and Longacre Square, at 149 West 46th Street.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

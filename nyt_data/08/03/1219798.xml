@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Nerd as Stereotype</title>
+    <meta content="LTR000217" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1219798"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Women</classifier>
+        <person class="indexing_service">boverie, richard</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Women</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000803T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E3D8163CF930A3575BC0A9669C8B63" item-length="103" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Nerd as Stereotype</hl1>
+      </hedline>
+      <abstract>
+        <p>Richard Boverie letter says July 27 article linking high attrition rate for women in computer science to fears about nerd stereotype is demeaning to women</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The article about declining numbers of women majoring in computer science carried a quotation saying that ''the image of the white, male, antisocial nerd who sits in front of a computer turns women off.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The article about declining numbers of women majoring in computer science carried a quotation saying that ''the image of the white, male, antisocial nerd who sits in front of a computer turns women off.''</p>
+        <p>As an excuse for the high attrition rate for women in computer science, the comment implies, at least to me, that women are shallow. I think that is demeaning to women.</p>
+        <p>RICHARD BOVERIE  West Palm Beach, Fla.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>2 News Companies Cover Feud on TV</title>
+    <meta content="Y02COVE" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1196280"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <org class="indexing_service">Disney, Walt, Co</org>
+        <org class="indexing_service">Time Warner Inc</org>
+        <org class="indexing_service">Abc Inc</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000502T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CEFDE1339F931A35756C0A9669C8B63" item-length="148" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>2 News Companies Cover Feud on TV</hl1>
+      </hedline>
+      <abstract>
+        <p>Television news divisions owned by Walt Disney Co and Time Warner Inc give prominent coverage to companies' feud, describing thoroughly the positions of both sides and potential impact on ABC's ratings and Time Warner's relationship with its subscribers (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The television news divisions owned by the Walt Disney Company and Time Warner gave prominent coverage to the companies' feud yesterday, describing thoroughly the positions of both sides and the potential impact on ABC's ratings and Time Warner's relationship with its subscribers.</p>
+        <p>News programs on Time Warner's CNN -- including ''The World Today'' and ''Moneyline'' -- and the Time Warner-owned New York One's 6:30 local news broadcast provided full coverage and gave executives of both the companies a chance to comment, as did ABC's ''World News Tonight.''</p>
+      </block>
+      <block class="full_text">
+        <p>The television news divisions owned by the Walt Disney Company and Time Warner gave prominent coverage to the companies' feud yesterday, describing thoroughly the positions of both sides and the potential impact on ABC's ratings and Time Warner's relationship with its subscribers.</p>
+        <p>News programs on Time Warner's CNN -- including ''The World Today'' and ''Moneyline'' -- and the Time Warner-owned New York One's 6:30 local news broadcast provided full coverage and gave executives of both the companies a chance to comment, as did ABC's ''World News Tonight.''</p>
+        <p>But on ''World News Tonight,'' the preponderance of the arguments were made by Disney executives.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

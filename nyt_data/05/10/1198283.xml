@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Amadeus' Is Closing</title>
+    <meta content="10CLOS" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1198283"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Schedule</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000510T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E3DC1138F933A25756C0A9669C8B63" item-length="79" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Amadeus' Is Closing</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''Amadeus,'' a revival of Peter Shaffer's 1980 drama, is to close after the matinee on Sunday at the Music Box Theater, 239 West 45th Street, Manhattan. The play, directed by Sir Peter Hall, will have run for 165 regular performances and 10 previews.</p>
+      </block>
+      <block class="full_text">
+        <p>''Amadeus,'' a revival of Peter Shaffer's 1980 drama, is to close after the matinee on Sunday at the Music Box Theater, 239 West 45th Street, Manhattan. The play, directed by Sir Peter Hall, will have run for 165 regular performances and 10 previews.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Radiation and Sickness: A Questionable Link</title>
+    <meta content="LTR003045" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213532"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <classifier class="indexing_service" type="descriptor">Radiation</classifier>
+        <person class="indexing_service">Upton, Arthur C (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000709T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CEED91638F93AA35754C0A9669C8B63" item-length="275" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Radiation and Sickness: A Questionable Link</hl1>
+      </hedline>
+      <abstract>
+        <p>Dr Arthur C Upton letter holds there is no scientific justification for assertion in June 25 letter that background radiation is harmful (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>There is no scientific justification for Ms. Goodman's assertion in her letter [''Even 'Background' Levels of Radiation Are Harmful,'' June 25] that ''very low doses of background radiation probably account for 25 percent or more of a vast group of afflictions that occur because of inherited predisposition.''</p>
+      </block>
+      <block class="full_text">
+        <p>There is no scientific justification for Ms. Goodman's assertion in her letter [''Even 'Background' Levels of Radiation Are Harmful,'' June 25] that ''very low doses of background radiation probably account for 25 percent or more of a vast group of afflictions that occur because of inherited predisposition.''</p>
+        <p>Although geneticists warned of such a possibility decades ago, studies of the children of Japanese atomic-bomb survivors and other irradiated groups have failed to disclose harmful hereditary effects of radiation. Hence, it is uncertain whether any such effects result from natural background radiation.</p>
+        <p>The existing data do not suffice to exclude such effects altogether, but they are interpreted by experts to indicate that less than 1 percent of the total burden of inherited diseases in the general population can plausibly be attributed to background radiation.</p>
+        <p>By the same token, although large doses of ionizing radiation have been shown unequivocally to cause certain types of cancer, the carcinogenic effects of small doses, like the average dose typically received from background radiation, have not been demonstrated. While it is nevertheless considered prudent to assume that the risk of cancer may increase in proportion to the dose, even at the lowest levels of exposure, assessments based on this assumption imply that only a small percentage of all cancers in the general population can be attributed to natural background radiation.</p>
+        <p>ARTHUR C. UPTON, M.D.  New York City</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

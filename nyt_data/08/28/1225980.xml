@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>E-Commerce Report; Internet companies learn how to personalize service.</title>
+    <meta content="28ECOM" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/08/28/technology/28ECOMMERCE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1225980"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Retail Stores and Trade</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Amazon.com Inc</org>
+        <person class="indexing_service">Stellin, Susan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/E-Commerce</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Innovation</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Small Business/Operations</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/E-Commerce Report</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Retail</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000828T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E2DD1131F93BA1575BC0A9669C8B63" item-length="1296" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>E-Commerce Report; Internet companies learn how to personalize service.</hl1>
+      </hedline>
+      <byline class="print_byline">By Susan Stellin</byline>
+      <byline class="normalized_byline">Stellin, Susan</byline>
+      <abstract>
+        <p>Amazon.com and other e-retailers are beginning to realize some of the potential of Internet to provide a personalized shopping experience, if not to the single individual, then at least to groups that have been identified as having a similar profile (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ASK a handful of Internet executives to define the term ''personalization,'' and invariably the conversation turns to the analogy of a shopkeeper who knows not only his customers' names, but how much they can afford to spend and what size shirt they wear.</p>
+        <p>Never mind that most Americans shop at retail chains where, if they happen to be greeted by a clerk, they are more likely than not to respond, ''Thanks, I'm just looking.'' This old-fashioned ideal of personalized service -- albeit, updated with new economy motives -- is the next hurdle for Internet companies trying to achieve profitability in an increasingly competitive environment.</p>
+      </block>
+      <block class="full_text">
+        <p>ASK a handful of Internet executives to define the term ''personalization,'' and invariably the conversation turns to the analogy of a shopkeeper who knows not only his customers' names, but how much they can afford to spend and what size shirt they wear.</p>
+        <p>Never mind that most Americans shop at retail chains where, if they happen to be greeted by a clerk, they are more likely than not to respond, ''Thanks, I'm just looking.'' This old-fashioned ideal of personalized service -- albeit, updated with new economy motives -- is the next hurdle for Internet companies trying to achieve profitability in an increasingly competitive environment.</p>
+        <p>What this means in practice is that rather than displaying the same set of pages to every visitor, a Web site would present different information to each customer based on the person's data profile. A person who has shown online interest in classical music might be presented with a special price on Bach compact discs, whereas someone who has bought a Britney Spears CD might be offered a discount on N'Sync.</p>
+        <p>This type of personalized experience, alternatively described as ''one to one marketing'' or ''targeted merchandising,'' has long been touted as one of the key benefits of the Web. But so far, very few Internet companies have been able to take advantage of this potential, mainly because the technologies for delivering it are still in the early stages of development.</p>
+        <p>That said, the industry is gradually catching up to the hype surrounding personalization, as a growing number of companies have installed tools enabling them to present customized Web pages -- if not to a single individual, then at least to groups that have been identified as having a similar profile. This trend is going to raise the ante for companies doing business online, both in terms of investors' and customers' expectations. It is also going to raise new privacy issues concerning what type of information is collected about consumers and how that data is used -- worries that could overshadow any benefits that customers stand to derive from these services.</p>
+        <p>To be sure, some degree of personalization has existed for years online, most notably through sites like Yahoo or Excite, which allow members to create a page that displays information based on preferences they have entered, like stock symbols or categories of news. In the ever-changing industry vernacular, however, that type of service is now referred to as ''customization,'' whereas the  techniques known as ''personalization'' are based on information companies have more discreetly gathered about consumers, like their purchase history or the Web pages they have viewed.</p>
+        <p>Cormac Foster, an analyst at the research firm Jupiter Communications, said the difference involves explicit versus implicit data. ''Customization is giving users what they've told you they want,'' he said, ''and personalization is anticipating what they want.''</p>
+        <p>The ability to deliver personalized services involves a complex process, generally requiring an investment in hardware and software that can cost from several hundred thousand to several million dollars.</p>
+        <p>First, a company must integrate disparate sources of data, like its product list, its customer database and a record of the pages on its Web site those customers have viewed. Once that data is integrated, analysis tools from companies like E.Piphany and Broadbase Software can be used to look for patterns of behavior. Using those patterns, marketers set rules telling the system to give a certain treatment to a particular category of customers. Those rules, in turn, are processed by so-called content delivery systems offered by companies like the ATG Group and BroadVision that are responsible for putting the selected information on the screens of the right customers.</p>
+        <p>One of the challenges for companies setting up personalization systems, Mr. Foster said, is that they generally have to work with a number of different vendors. And in some cases, companies that have experimented with early technologies have already had to replace those systems. ''Part of the problem,'' he said, ''is all the technologies are fairly immature.''</p>
+        <p>Not surprisingly, one of the leaders in the personalization arena is Amazon.com, which began its efforts in 1997 with a ''book matcher'' feature. To use that feature, customers had to fill out a form indicating their interests, and the system would match them with books tailored to their entries. The problem with that feature, according to Josh Petersen, Amazon's director of personalization, was that it required too much work on the user's part.</p>
+        <p>''You wouldn't have had to walk into a store of old and fill out a questionnaire,'' Mr. Petersen said.</p>
+        <p>As a result, Amazon focused its efforts on building a system based on implicit data, like  a customer's past purchases, which now feeds into the site's ''New for You'' and ''Recommendations'' features. Using technology primarily developed by Amazon, these services recommend products to customers based on algorithms that take into account factors like the ratings a customer has assigned various products on the site and the purchasing patterns of customers with similar profiles.</p>
+        <p>To reduce the impact of errant data, Amazon allows users to exclude certain purchases from their profile; that way, a Pokemon game purchased for a niece will not skew a pattern of buying mystery novels and Woody Allen videos. The system also makes some automatic assumptions, like excluding gift-wrapped items.</p>
+        <p>Despite the advances the company has made, Mr. Petersen said Amazon still had a long way to go before meeting the company's goal of creating a unique store for every customer who visits the site. ''It's one of the hardest engineering tasks that we work on,'' he said.</p>
+        <p>John Samuel, vice president of interactive marketing for AMR's American Airlines, would be the first to agree that current implementations of personalization technologies are still in their infancy. American overhauled  its AA.com Web site in 1998, with a new version that allows the site to present pages that have been tailored for each individual.</p>
+        <p>Mr. Samuel said the company had a head start in its personalization efforts because of its AAdvantage frequent-flier program, which has gathered information about 40 million members. American uses that information, as well as data collected from customers who fill out a profile online, to tailor the offers that customers see when they visit the company's Web site.</p>
+        <p>''For us, that translates to knowing someone is in college versus knowing someone is retired or often flies business class,'' Mr. Samuel said. ''The communication to those customers should be very different.''</p>
+        <p>The business customer, for example, might be presented with information about upgrades or American's Admirals Club, whereas the college student would be shown special offers for travel during school vacations. In addition, American targets information based on a customer's home airport and preferred destinations.</p>
+        <p>In this respect, Mr. Samuel said, American has been careful to err on the side of being explicit about collecting data, which is why the company asks customers to fill out a profile, even if that information is easy to deduce from an individual's travel history.</p>
+        <p>''It would not be hard for us to infer a customer's home airport,'' he said. ''But we still ask on the Web site.''</p>
+        <p>The challenge for American Airlines and other companies experimenting with this level of personalization will be negotiating a delicate balance between providing consumers with services and offers they want, and appearing to know too much and risk scaring those customers away.</p>
+        <p>''We know a lot, and our customers know we know a lot,'' Mr. Samuels said. The question is, ''What permission do we have from the customer to use that knowledge?''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

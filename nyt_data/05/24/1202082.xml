@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Top Field Expected</title>
+    <meta content="PL023150" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1202082"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PLUS: GOLF -- BIG APPLE CLASSIC"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Golf</classifier>
+        <classifier class="indexing_service" type="descriptor">Japan Airlines Big Apple Classic (Golf)</classifier>
+        <org class="indexing_service">Ladies Professional Golf Assn</org>
+        <person class="indexing_service">Brown, Clifton</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Golf</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Golf</classifier>
+        <classifier class="online_producer" type="general_descriptor">Golf</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000524T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE7D9173DF937A15756C0A9669C8B63" item-length="108" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Top Field Expected</hl1>
+      </hedline>
+      <byline class="print_byline">By CLIFTON BROWN</byline>
+      <byline class="normalized_byline">Brown, Clifton</byline>
+      <abstract>
+        <p>Japan Airlines Big Apple Classic, to be held July 13-16 at Wykagyl Country Club in New Rochelle, NY, has commitments from top 10 players on this year's Ladies Professional Golf Association money list (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Japan Airlines Big Apple Classic, to be held July 13-16 at Wykagyl Country Club in New Rochelle, N.Y., has commitments from the top 10 players on this year's Ladies Professional Golf Association money list.</p>
+      </block>
+      <block class="full_text">
+        <p>The Japan Airlines Big Apple Classic, to be held July 13-16 at Wykagyl Country Club in New Rochelle, N.Y., has commitments from the top 10 players on this year's Ladies Professional Golf Association money list.</p>
+        <p>Karrie Webb, the world's No. 1 player, will head a field that will also include Annika Sorenstam, Laura Davies, Juli Inkster, Dottie Pepper, Pat Hurst, Charlotta Sorenstam, Michele Redman, Lorie Kane, and the defending champion, Sherri Steinhauer.</p>
+        <p>CLIFTON BROWN</p>
+        <p>PLUS: GOLF -- BIG APPLE CLASSIC</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

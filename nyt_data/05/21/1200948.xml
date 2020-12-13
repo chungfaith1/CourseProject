@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Software Etc.</title>
+    <meta content="21JOHNSOT" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200948"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Johnson, George</person>
+        <person class="indexing_service">Berlinski, David</person>
+        <object.title class="indexing_service">Advent of the Algorithm, The (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000521T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9406E4DE173BF932A15756C0A9669C8B63" item-length="993" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Software Etc.</hl1>
+      </hedline>
+      <byline class="print_byline">By George Johnson</byline>
+      <byline class="normalized_byline">Johnson, George</byline>
+      <abstract>
+        <p>George Johnson reviews book The Advent of the Algorithm: The Idea That Rules the World by David Berlinski (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE ADVENT OF</p>
+        <p>THE ALGORITHM</p>
+        <p>The Idea That Rules the World.</p>
+        <p>By David Berlinski.</p>
+        <p>345 pp. New York:</p>
+        <p>Harcourt. $28.</p>
+      </block>
+      <block class="full_text">
+        <p>THE ADVENT OF</p>
+        <p>THE ALGORITHM</p>
+        <p>The Idea That Rules the World.</p>
+        <p>By David Berlinski.</p>
+        <p>345 pp. New York:</p>
+        <p>Harcourt. $28.</p>
+        <p>Early on in ''The Advent of the Algorithm: The Idea That Rules the World,'' David Berlinski writes that the story of the algorithm -- the powerful, deceptively simple idea coiled at the heart of the computer revolution -- is ''among the greatest and least known of the modern era.''</p>
+        <p>Greatest, maybe, but least known? How this mathematical concept emerged from early inklings by the ninth-century Arab mathematician al-Khwarizmi (his name was transliterated into Latin as ''algoritimi''), reaching full force in the work of the British mathematician Alan Turing, has been told many times. But the more I thought about it, I realized that Berlinski, a writer and mathematician in Paris, was right. Most histories of the computer concentrate on the hardware, barely mentioning the mathematical creativity that led to development of software, the programs that tell the hardware what to do.</p>
+        <p>Even though one can find the tale of the algorithm nicely laid out in ''Alan Turing: The Enigma,'' by Andrew Hodges, and whimsically explored in Douglas Hofstadter's ''GRated PG-13del, Escher, Bach,'' there is room for a more concise account that would bring the tale to a wider audience, people who sit in front of their computers with barely a hint of the ideas that animate the chips.</p>
+        <p>The algorithm -- a step-by-step mathematical procedure so precise it can be carried out by a machine -- is a notion so fundamental that at one moment it seems trivial, the next profound. Since long before there were calculators, schoolchildren have used algorithms to grind through the repetitive steps of long division or multiplication. In a computer, algorithms intertwined with algorithms give rise to behavior as rich as a Bach fugue.</p>
+        <p>But the idea runs even deeper, acting as a bridge between two intellectual worlds. For centuries mathematicians have studied the ethereal, imaginary realm of pure number while physicists have trained their minds on the objects of the physical world. With the algorithm, the separate spheres of abstract and concrete come together. An algorithm is mathematics that does something.</p>
+        <p>As Berlinski shows, Leibniz was aware of the idea's power in the 17th century when he proposed his ''calculus of reason,'' a system of symbols, he dreamed, that could be systematically manipulated to answer any question. But the full implications were not appreciated until the early 1930's, when mathematicians took up a challenge laid down by their German colleague David Hilbert: to prove, as just about everyone believed, that there is no such thing as an unsolvable problem. Kurt GRated PG-13del struck the first blow with his famous incompleteness theorems: any mathematical system, he showed, includes statements that cannot be proved true or false.</p>
+        <p>This came as a shock to mathematicians who had been toiling to prove, say, Goldbach's conjecture (every even number greater than 2 is the sum of two primes). The possibility now existed that there might be no way to show that Goldbach was right or wrong. But was there at least some way to tell in advance which statements were undecidable, not worth bothering with?</p>
+        <p>Turing's approach was to invent an imaginary problem-solving machine. To test Goldbach's conjecture, you could program the device to start with 4. Finding that two prime numbers, 2 and 2, can be added to yield 4, the machine would then examine 6, then 8, then 10. It would be carrying out an algorithm. If it found an even number that wasn't prime, it would stop and you would know the conjecture was false.</p>
+        <p>But what if, after a few weeks or months or years, the machine was still grinding away at the problem? Would the grinding go on forever, meaning the statement was indeed undecidable, or did you simply need to be more patient?</p>
+        <p>To know whether a problem was decidable, one would need a Turing machine that could examine any algorithm, like the one for testing the Goldbach conjecture, and determine whether it would eventually halt. Turing showed this was impossible. (To get a taste of his proof, imagine the dizzying implications of feeding the decidability machine its own program, to determine whether it is decidable.)</p>
+        <p>Turing had demonstrated most decisively the power of approaching problems algorithmically. His imaginary machine is an abstract forerunner of the computers used today. Philosophers and scientists still argue whether, as Turing went on to propose, any physical process, including the mind, can be captured by an algorithm, simulated on a machine.</p>
+        <p>THIS is just one twist in a fascinating tale, but Berlinski doesn't do it justice. Again and again, the elements of his story are overwhelmed by what are apparently intended as exercises in experimental nonfiction. One is reading along about Aristotelian logic when the narrative suddenly lurches to a confusing dreamlike sequence in which Berlinski regales a group of former students with some Delphic pronouncements about syllogisms.</p>
+        <p>In another section he tries to beat into the reader's head a point about mathematical logic (using a fictional taskmaster called Bruno). This leads to a reminiscence about Berlinski's days studying mathematics at Princeton with a fellow student named Daniel, the model for the imaginary Bruno. Daniel, it seems, disappeared from graduate school, and this is an excuse for the author to splice in a short story one of his friends wrote that may or may not be about the same man. Throughout the book, the story jumps around erratically as if a mad scientist were randomly probing Berlinski's brain with an electrode.</p>
+        <p>In ''A Tour of the Calculus,'' Berlinski used a subdued form of this literary careering to much better effect. If that book sometimes seemed overwritten, it was a relieving contrast to so many underwritten attempts to popularize mathematics with brain-desiccating prose. This time Berlinski has gone off the deep end. The prose isn't dry. It's sopping wet.</p>
+        <p>George Johnson is the author of ''Strange Beauty: Murray Gell-Mann and the Revolution in 20th-Century Physics.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">George Johnson is the author of ''Strange Beauty: Murray Gell-Mann and the Revolution in 20th-Century Physics.''</tagline>
+    </body.end>
+  </body>
+</nitf>

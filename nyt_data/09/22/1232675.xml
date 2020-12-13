@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Test for Milosevic</title>
+    <meta content="22X1YUGO" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World; Front Page" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1232675"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000922T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904EFD7113BF931A1575AC0A9669C8B63" item-length="96" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Test for Milosevic</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For the first time since 1992, Slobodan Milosevic is running for direct election in Sunday's balloting for president, and even the opposition expects him to be declared the victor. He called the election early, apparently determined to cement his hold on power. And he has the support of many Serbs who accept his unceasing message that he is better than the foreign-financed opposition that would oust him.</p>
+        <p>Article, Page A6.</p>
+      </block>
+      <block class="full_text">
+        <p>For the first time since 1992, Slobodan Milosevic is running for direct election in Sunday's balloting for president, and even the opposition expects him to be declared the victor. He called the election early, apparently determined to cement his hold on power. And he has the support of many Serbs who accept his unceasing message that he is better than the foreign-financed opposition that would oust him.</p>
+        <p>Article, Page A6.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

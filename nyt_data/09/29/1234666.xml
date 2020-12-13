@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Erin Parish</title>
+    <meta content="RV003418" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="31" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234666"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="ART IN REVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Art</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Parish, Erin</person>
+        <person class="indexing_service">Glueck, Grace</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Art</classifier>
+        <classifier class="online_producer" type="general_descriptor">Art</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000929T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904EEDD163DF93AA1575AC0A9669C8B63" item-length="215" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Erin Parish</hl1>
+      </hedline>
+      <byline class="print_byline">By GRACE GLUECK</byline>
+      <byline class="normalized_byline">Glueck, Grace</byline>
+      <abstract>
+        <p>Grace Glueck reviews Erin Parish's paintings at Winston Wachter-Mayer Fine Art (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Winston Wachter Mayer Fine Art</p>
+        <p>39 East 78th Street</p>
+        <p>Manhattan</p>
+        <p>Through Oct. 14</p>
+        <p>The dense, dynamic facades of these abstract paintings exhibit grids, bubbles, mosaics and the rich shimmer of tapestry cloth. Erin Parish uses layers and layers of pigment to build them up, in some areas carefully rubbing away and then repainting. Optically, these luscious works are meant to vibrate as segments of larger patterns that extend beyond their borders, and to invoke specific emotional states.</p>
+      </block>
+      <block class="full_text">
+        <p>Winston Wachter Mayer Fine Art</p>
+        <p>39 East 78th Street</p>
+        <p>Manhattan</p>
+        <p>Through Oct. 14</p>
+        <p>The dense, dynamic facades of these abstract paintings exhibit grids, bubbles, mosaics and the rich shimmer of tapestry cloth. Erin Parish uses layers and layers of pigment to build them up, in some areas carefully rubbing away and then repainting. Optically, these luscious works are meant to vibrate as segments of larger patterns that extend beyond their borders, and to invoke specific emotional states.</p>
+        <p>Particularly scintillating is ''The Darkest Light,'' in which large dark silvery-blue discs at the painting's bottom seem to release smaller ones that float toward the top of the painting, suggesting an ecstatic starry cosmos. In ''The Shimmering of Heated Air'' an effect like the summer surface of a pond is created by melding orange dots with warm yellows and reds. ''This Sky'' has an allover pattern of diamond mosaics resembling alligator or snakeskin in nuanced blues and aqua-grays.</p>
+        <p>Over all, with one or two gaudy exceptions, Ms. Parish has succeeded in giving depth to surface.</p>
+        <p>GRACE GLUECK</p>
+        <p>ART IN REVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

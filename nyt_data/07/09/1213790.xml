@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Queensberry Rules</title>
+    <meta content="LTR110417" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213790"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOKS AND LITERATURE</classifier>
+        <person class="indexing_service">Poivan, J H</person>
+        <person class="indexing_service">Seymour, Miranda</person>
+        <person class="indexing_service">Murray, Douglas</person>
+        <object.title class="indexing_service">Bosie (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000709T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E0DB1F30F93AA35754C0A9669C8B63" item-length="58" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Queensberry Rules</hl1>
+      </hedline>
+      <abstract>
+        <p>J H Poivan letter corrects Miranda Seymour's June 18 review of Douglas Murray's book Bosie</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Miranda Seymour quotes the inscription (''For Oscar Wilde -- posing as a sodomite'') on the Marquess of Queensberry's card that precipitated the events leading to the trial of Oscar Wilde. Queensberry, an authority on boxing but apparently not on spelling, actually wrote, ''To Oscar Wilde posing Somdomite,'' according to Richard Ellmann's biography.</p>
+        <p>J. H. Poivan  Pennington, N.J.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Miranda Seymour quotes the inscription (''For Oscar Wilde -- posing as a sodomite'') on the Marquess of Queensberry's card that precipitated the events leading to the trial of Oscar Wilde. Queensberry, an authority on boxing but apparently not on spelling, actually wrote, ''To Oscar Wilde posing Somdomite,'' according to Richard Ellmann's biography.</p>
+        <p>J. H. Poivan  Pennington, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

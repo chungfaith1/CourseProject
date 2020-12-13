@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>REFRIGERATOR COMPANY SOLD</title>
+    <meta content="MB222432" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1205244"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WORLD BUSINESS BRIEFING: EUROPE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Stinol (Co)</org>
+        <org class="indexing_service">Novolipetsk Metal Factory</org>
+        <org class="indexing_service">Merloni Elettrodomestici Spa</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506EEDF143FF935A35755C0A9669C8B63" item-length="62" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>REFRIGERATOR COMPANY SOLD</hl1>
+      </hedline>
+      <byline class="print_byline">By Sabrina Tavernise</byline>
+      <abstract>
+        <p>Novolipetsk Metal Factory, Russia, to sell its subsidiary Stinol, Russia's largest refrigerator maker, to Merloni Elettrodomestici of Italy for $119.3 million (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A Russian steel producer, Novolipetsk Metal Factory, agreed to sell its subsidiary Stinol, Russia's largest refrigerator maker, to Merloni Elettrodomestici of Italy for $119.3 million in one of the biggest purchases by a foreign buyer in Russia's consumer goods industry since the 1998 financial crisis.</p>
+        <p>Sabrina Tavernise</p>
+      </block>
+      <block class="full_text">
+        <p>A Russian steel producer, Novolipetsk Metal Factory, agreed to sell its subsidiary Stinol, Russia's largest refrigerator maker, to Merloni Elettrodomestici of Italy for $119.3 million in one of the biggest purchases by a foreign buyer in Russia's consumer goods industry since the 1998 financial crisis.</p>
+        <p>Sabrina Tavernise</p>
+        <p>WORLD BUSINESS BRIEFING: EUROPE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

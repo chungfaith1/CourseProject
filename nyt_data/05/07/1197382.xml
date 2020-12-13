@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Self-portrait; MALERIE MARDER</title>
+    <meta content="07MARDER" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="63" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1197382"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Photography</classifier>
+        <person class="indexing_service">Marder, Malerie</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000507T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E2DB1139F934A35756C0A9669C8B63" item-length="154" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Self-portrait; MALERIE MARDER</hl1>
+      </hedline>
+      <abstract>
+        <p>Photo of Malerie Marder, with her explanation</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>I was upset and I wanted to see what it would look like as a photograph. Essentially I hoped the act of walking up the stairs in my apartment again and again would induce a catharsis. I think there must be something symbolic there for me -- the idea of just sort of leaving something behind. And visually, it has just brought up so many different associations, like Eadweard Muybridge's pictures of a female nude descending a staircase and Alfred Hitchcock's vertiginous staircases.</p>
+      </block>
+      <block class="full_text">
+        <p>I was upset and I wanted to see what it would look like as a photograph. Essentially I hoped the act of walking up the stairs in my apartment again and again would induce a catharsis. I think there must be something symbolic there for me -- the idea of just sort of leaving something behind. And visually, it has just brought up so many different associations, like Eadweard Muybridge's pictures of a female nude descending a staircase and Alfred Hitchcock's vertiginous staircases.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

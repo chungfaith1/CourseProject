@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>After Attack by Hackers, AOL Tightens Data Access</title>
+    <meta content="19HACK" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208663"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <org class="indexing_service">America Online</org>
+        <person class="indexing_service">Hansell, Saul</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E7D81431F93AA25755C0A9669C8B63" item-length="471" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>After Attack by Hackers, AOL Tightens Data Access</hl1>
+      </hedline>
+      <byline class="print_byline">By SAUL HANSELL</byline>
+      <byline class="normalized_byline">Hansell, Saul</byline>
+      <abstract>
+        <p>America Online plans steps to fix flaws in its network that let hackers get access to personal data about some members last week; says it does not yet know how many accounts wer affected and what damage was done; estimates number at about 200 out of 23 million subscribers (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>America Online said yesterday that it would take steps to fix flaws in its network that allowed  hackers to get access to personal information about some members last week.</p>
+        <p>Richard D'Amato, a spokesman for America Online, said the company did not yet have a specific number of how many member accounts were affected and what damage was done, but added that the company believes the number was about 200. The service has about 23 million subscribers.</p>
+      </block>
+      <block class="full_text">
+        <p>America Online said yesterday that it would take steps to fix flaws in its network that allowed  hackers to get access to personal information about some members last week.</p>
+        <p>Richard D'Amato, a spokesman for America Online, said the company did not yet have a specific number of how many member accounts were affected and what damage was done, but added that the company believes the number was about 200. The service has about 23 million subscribers.</p>
+        <p>The issue came to light late last week when Observers.net, a Web site critical of AOL, said hackers had found an elaborate way to gain access to the system used by America Online's customer service representatives. Depending on their job function, those representatives can see members' names, addresses and other information, like the last time they logged on. A smaller number of representatives has access to the users full credit card numbers.</p>
+        <p>Mr. D'Amato said the company did not believe that any credit card numbers were obtained in the incident last week.</p>
+        <p>The breach involved sending an electronic mail message -- with an attached program file -- to a customer service representative or other America Online employee who has access to customer information. E-mail attachments were used in the recent worldwide outbreak of the ''I Love You'' bug and are potentially very destructive because if the recipient opens an attached program, the bug can allow access to the user's entire system.</p>
+        <p>In this case, Mr. D'Amato said, the virus did two things. First it identified an AOL employee's password and sent it back to the e-mail's sender. And second, it created an electronic link between the AOL internal network and the hacker. Using what amounted to a covert relay station, the hacker could use the password to look up information about users.</p>
+        <p>Mr. D'Amato declined to say what steps America Online was taking to prevent the abuse. But he did confirm the report on Observers.net that one measure would require AOL employees to log on using a small electronic device that displays a numeric code that changes every minute.</p>
+        <p>Mr. D'Amato said that unlike other incidents in which hackers broke into the computer systems of companies, the damage done would be moderate because the hacker would have to type in each user's name separately to obtain the personal information.</p>
+        <p>''It's not like they can download a file with 10,000 users' credit card numbers,'' he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>People</title>
+    <meta content="MB231751" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1197988"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <org class="indexing_service">Merkley Newman Harty</org>
+        <person class="indexing_service">Fekula, Peter A</person>
+        <person class="indexing_service">Lauro, Patricia Winters</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000508T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E2DB1338F93BA35756C0A9669C8B63" item-length="78" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>People</hl1>
+      </hedline>
+      <byline class="print_byline">By Patricia Winters Lauro</byline>
+      <byline class="normalized_byline">Lauro, Patricia Winters</byline>
+      <abstract>
+        <p>Merkley Newman Harty names Peter A Fekula to new post of group account director, leading BellSouth account (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>* Peter A. Fekula was named to the new post of group account director, leading the BellSouth account, at Merkley Newman Harty, New York, owned by the Omnicom Group. He had been senior vice president and group director at Lowe Lintas &amp; Partners, New York, part of the Lowe Group unit of the Interpublic Group of Companies.</p>
+      </block>
+      <block class="full_text">
+        <p>* Peter A. Fekula was named to the new post of group account director, leading the BellSouth account, at Merkley Newman Harty, New York, owned by the Omnicom Group. He had been senior vice president and group director at Lowe Lintas &amp; Partners, New York, part of the Lowe Group unit of the Interpublic Group of Companies.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

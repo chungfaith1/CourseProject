@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR002745" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Corrections; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1233354"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Tires</classifier>
+        <classifier class="indexing_service" type="descriptor">Recalls and Bans of Products</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">Bridgestone/firestone Inc</org>
+        <org class="indexing_service">Michelin North America</org>
+        <person class="indexing_service">Clark, Scott</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recalls and Bans of Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tires</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000924T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E5DD163AF937A1575AC0A9669C8B63" item-length="91" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of September 17 article about effects of Firestone's tire recall on its competitors, which misstated name of Michelin North America marketing president Scott Clark (not Scott Blake) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article last Sunday about the effects of Firestone's tire recall on the business of its competitors misstated the surname of a vice president for marketing at one such company, Michelin North America. He is Scott Clark, not Scott Blake.</p>
+      </block>
+      <block class="full_text">
+        <p>An article last Sunday about the effects of Firestone's tire recall on the business of its competitors misstated the surname of a vice president for marketing at one such company, Michelin North America. He is Scott Clark, not Scott Blake.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

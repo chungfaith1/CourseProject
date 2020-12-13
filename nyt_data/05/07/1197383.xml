@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Self-portrait; NAN GOLDIN</title>
+    <meta content="07GOLDIN" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="72" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1197383"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Photography</classifier>
+        <person class="indexing_service">Goldin, Nan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000507T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E1DB1139F934A35756C0A9669C8B63" item-length="80" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Self-portrait; NAN GOLDIN</hl1>
+      </hedline>
+      <abstract>
+        <p>Photograph of Nan Goldin, with her explanation</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>My work has been about making a record of my life that no one can revise. I photograph myself in times of trouble or change in order to find the ground to stand on in the change. I was coming out of a melancholic phase. This was taken when I was traveling extensively, on the road from hotel to hotel. You get displaced, and then taking self-portraits becomes a way of hanging on to yourself.</p>
+      </block>
+      <block class="full_text">
+        <p>My work has been about making a record of my life that no one can revise. I photograph myself in times of trouble or change in order to find the ground to stand on in the change. I was coming out of a melancholic phase. This was taken when I was traveling extensively, on the road from hotel to hotel. You get displaced, and then taking self-portraits becomes a way of hanging on to yourself.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

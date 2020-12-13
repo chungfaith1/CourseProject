@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="17INSI$02" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200187"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000517T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E0D91F3BF934A25756C0A9669C8B63" item-length="119" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Republican Rift on Kosovo  George W. Bush criticized a bill backed by Senate Republicans to set a deadline for withdrawing ground troops from Kosovo.</p>
+        <p>PAGE A11</p>
+      </block>
+      <block class="full_text">
+        <p>Republican Rift on Kosovo  George W. Bush criticized a bill backed by Senate Republicans to set a deadline for withdrawing ground troops from Kosovo.</p>
+        <p>PAGE A11</p>
+        <p>Dominican Republic Votes  The left-leaning Hipolito Mejia led in early returns in the Dominican presidential election.</p>
+        <p>PAGE A4</p>
+        <p>The Man Who Redid Seattle  A Microsoft co-founder's influence on Seattle has been likened to that of a friendly, 800-pound gorilla -- or a Medici.</p>
+        <p>PAGE A14</p>
+        <p>Flyers Overcome Devils  Philadelphia's 4-3 victory evened its series with New Jersey at 1-1.</p>
+        <p>SPORTSWEDNESDAY, PAGE D1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

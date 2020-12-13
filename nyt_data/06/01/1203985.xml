@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Wisdom for the Ages, by Book, Not Chip</title>
+    <meta content="LTR225250" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203985"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Fireman, Richard A</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E0D8123CF932A35755C0A9669C8B63" item-length="159" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Wisdom for the Ages, by Book, Not Chip</hl1>
+      </hedline>
+      <abstract>
+        <p>Richard A Fireman letter questions practice of separating bibliographies from the text of books and putting them on line (May 29 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>A May 29 front-page article discusses the new practice of separating bibliographies from the text of books and putting them on the Internet. We might well worry.</p>
+        <p>Books are not just a passing convenience. They are the way we communicate across the centuries. Ours is the first generation whose wisdom is being electronically stored, where it cannot be read without the appropriate technology.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>A May 29 front-page article discusses the new practice of separating bibliographies from the text of books and putting them on the Internet. We might well worry.</p>
+        <p>Books are not just a passing convenience. They are the way we communicate across the centuries. Ours is the first generation whose wisdom is being electronically stored, where it cannot be read without the appropriate technology.</p>
+        <p>What happens if the technology is lost -- through gradual change or catastrophic destruction? All of our knowledge could be lost.</p>
+        <p>We can still view the cave drawings and stone inscriptions of human civilizations long gone. But who will be able to read our writings?</p>
+        <p>RICHARD A. FIREMAN  Chicago, May 29, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="10INSI$06" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1198401"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000510T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E7D91E38F933A25756C0A9669C8B63" item-length="206" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Death Penalty and Bombings  Attorney General Janet Reno has authorized federal prosecutors to seek the death penalty against at least one defendant in the bombings of two United States Embassies, defense lawyers said.</p>
+        <p>PAGE B1</p>
+        <p>Cause of Osprey Crash Cited  The Marine Corps said a V-22 Osprey crashed last month because it was coming in for a landing so fast that its helicopter rotors encountered the turbulence they had created beneath themselves.</p>
+        <p>PAGE A20</p>
+      </block>
+      <block class="full_text">
+        <p>Death Penalty and Bombings  Attorney General Janet Reno has authorized federal prosecutors to seek the death penalty against at least one defendant in the bombings of two United States Embassies, defense lawyers said.</p>
+        <p>PAGE B1</p>
+        <p>Cause of Osprey Crash Cited  The Marine Corps said a V-22 Osprey crashed last month because it was coming in for a landing so fast that its helicopter rotors encountered the turbulence they had created beneath themselves.</p>
+        <p>PAGE A20</p>
+        <p>Piercing the Silence  The wall of secrecy that traditionally surrounded the Vatican's selection of a new archbishop has cracked in the speculation over who will succeed Cardinal O'Connor.</p>
+        <p>PAGE B6</p>
+        <p>A Quandary for Russia  The case of a Russian scientist reveals both efforts to stem the flow of missile technology to Iran, and resistance to ending the ''strategic'' cultivation of such clients.</p>
+        <p>PAGE A6</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

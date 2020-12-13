@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ball Is Not as Lively</title>
+    <meta content="29BALL$01" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211283"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <org class="indexing_service">Atlanta Braves</org>
+        <org class="indexing_service">Montreal Expos</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Atlanta Braves</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000629T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E2DC1F30F93AA15755C0A9669C8B63" item-length="258" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ball Is Not as Lively</hl1>
+      </hedline>
+      <byline class="print_byline">By MURRAY CHASS</byline>
+      <abstract>
+        <p>Atlanta Braves defeat Montreal Expos, 7-4; other National League results noted (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Not only aren't the baseballs this season livelier than the balls used last season, but the balls tested actually didn't travel as far as the 1999 version.</p>
+        <p>That was one of the results reported yesterday by the people who tested baseballs for Major League Baseball. Sandy Alderson, executive vice president for baseball operations, said last week that this season's balls had tested similarly to those used last year, and the researchers confirmed that result.</p>
+      </block>
+      <block class="full_text">
+        <p>Not only aren't the baseballs this season livelier than the balls used last season, but the balls tested actually didn't travel as far as the 1999 version.</p>
+        <p>That was one of the results reported yesterday by the people who tested baseballs for Major League Baseball. Sandy Alderson, executive vice president for baseball operations, said last week that this season's balls had tested similarly to those used last year, and the researchers confirmed that result.</p>
+        <p>James Sherwood, director of the Baseball Research Center at the University of Massachusetts at Lowell, and Lawrence Fallon, a graduate research engineer, concluded that there is essentially no performance difference between the 1999 and 2000 M.L.B. baseballs.</p>
+        <p>''The 2000 balls tested,'' they said, ''would travel, on average, 1.4 feet less than the 1999 balls.'' They also found that the seams are about the same height on the two different sets of balls and the cover friction coefficient for each year was within the accuracy of the test method.</p>
+        <p>Some pitchers and others in baseball have said this year's balls seemed to be slicker and have different seams, but the testers did not find those suggestions to be true.</p>
+        <p>In conclusion, Sherwood and Fallon wrote, we can say with confidence that the 2000 Major League baseball is no more 'lively' than the 1999 Major League baseball.</p>
+        <p>MURRAY CHASS</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

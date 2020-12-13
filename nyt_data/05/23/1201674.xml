@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Mouse Made for Heavy Drinking</title>
+    <meta content="23ALCO" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health &amp; Fitness" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201674"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="VITAL SIGNS: IN THE LAB"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Alcohol Abuse</classifier>
+        <classifier class="indexing_service" type="descriptor">Mice</classifier>
+        <org class="indexing_service">University of Washington</org>
+        <person class="indexing_service">Nagourney, Eric</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Vital Signs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcohol Abuse</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000523T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE3DB1E3AF930A15756C0A9669C8B63" item-length="176" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Mouse Made for Heavy Drinking</hl1>
+      </hedline>
+      <byline class="print_byline">By Eric Nagourney</byline>
+      <byline class="normalized_byline">Nagourney, Eric</byline>
+      <abstract>
+        <p>Scientists at University of Washington create a mouse that drinks much more alcohol than a normal mouse and that may therefore be useful in study of alcoholism; cartoon (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>First it was mice that could eat to their hearts' content without getting fat. Now it's mice that can hold their alcohol better and recover from it faster.</p>
+        <p>First, scientists at the University of Medicine and Dentistry of New Jersey reported that they had created a genetically modified mouse that could eat with abandon. The long-term objective is better understanding of human obesity.</p>
+      </block>
+      <block class="full_text">
+        <p>First it was mice that could eat to their hearts' content without getting fat. Now it's mice that can hold their alcohol better and recover from it faster.</p>
+        <p>First, scientists at the University of Medicine and Dentistry of New Jersey reported that they had created a genetically modified mouse that could eat with abandon. The long-term objective is better understanding of human obesity.</p>
+        <p>Now, scientists at the University of Washington report creating a mouse that drinks much more alcohol than it would ordinarily. The goal here is more insight into alcoholism.</p>
+        <p>The researchers say they have bred mice missing a gene that bears instructions for making an important brain protein. The mice, they say, drink twice as much alcohol as do mice with the protein.</p>
+        <p>And, given injections of alcohol raising blood-alcohol level to almost three times the driving limit, the mice recovered in about 65 minutes. (Ordinary mice needed about 90.) The findings were reported in a recent issue of The Journal of Neuroscience.</p>
+        <p>VITAL SIGNS: IN THE LAB</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

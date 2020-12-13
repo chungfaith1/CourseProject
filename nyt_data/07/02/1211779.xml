@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>What Dagger?</title>
+    <meta content="LTR033504" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Theater; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211779"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TEST SCREENINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Theater</classifier>
+        <person class="indexing_service">Saduski, Kirk</person>
+        <person class="indexing_service">Shakespeare, William (1564-1616)</person>
+        <person class="indexing_service">Willens, Michele</person>
+        <object.title class="indexing_service">Romeo and Juliet (Play)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features/People</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features/People/William Shakespeare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/Plays</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE5DD1739F931A35754C0A9669C8B63" item-length="55" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>What Dagger?</hl1>
+      </hedline>
+      <abstract>
+        <p>Kirk Saduski letter on Michele Willens' June 25 article holds that if William Shakespeare had benefit of testing his plays before handpicked audience, Romeo and Juliet would have lived happily ever after (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Imagine if William Shakespeare had the benefit of testing his plays before a handpicked audience [''Putting Films to the Test, Every Time,'' by Michele Willens, June 25]. Undoubtedly, Romeo and Juliet would have lived happily ever after.</p>
+        <p>KIRK SADUSKI  Santa Monica, Calif.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Imagine if William Shakespeare had the benefit of testing his plays before a handpicked audience [''Putting Films to the Test, Every Time,'' by Michele Willens, June 25]. Undoubtedly, Romeo and Juliet would have lived happily ever after.</p>
+        <p>KIRK SADUSKI  Santa Monica, Calif.</p>
+        <p>TEST SCREENINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

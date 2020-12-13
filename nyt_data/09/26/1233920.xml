@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>ETHERNET SERVICE EXPANDING</title>
+    <meta content="MB235144" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1233920"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY BRIEFING: DIGITAL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Level 3 Communications Inc</org>
+        <org class="indexing_service">Ethernet</org>
+        <person class="indexing_service">Schiesel, Seth</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000926T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E5DB123AF935A1575AC0A9669C8B63" item-length="119" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>ETHERNET SERVICE EXPANDING</hl1>
+      </hedline>
+      <byline class="print_byline">By Seth Schiesel</byline>
+      <byline class="normalized_byline">Schiesel, Seth</byline>
+      <abstract>
+        <p>Level 3 Communications will offer high-speed Internet service over Ethernet (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Continuing the expansion of Ethernet, the local area networking technology, from offices into large communications networks, Level 3 Communications, the big telecommunications upstart, plans to announce today that it is offering high-speed Internet service over Ethernet. Long thought robust enough only for office networks, Ethernet this year has emerged as a way to provide high-speed data links outside of buildings at costs far below those of traditional communications systems and with little, if any, loss of reliability.</p>
+        <p>Seth Schiesel</p>
+      </block>
+      <block class="full_text">
+        <p>Continuing the expansion of Ethernet, the local area networking technology, from offices into large communications networks, Level 3 Communications, the big telecommunications upstart, plans to announce today that it is offering high-speed Internet service over Ethernet. Long thought robust enough only for office networks, Ethernet this year has emerged as a way to provide high-speed data links outside of buildings at costs far below those of traditional communications systems and with little, if any, loss of reliability.</p>
+        <p>Seth Schiesel</p>
+        <p>TECHNOLOGY BRIEFING: DIGITAL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Laptop Innovations</title>
+    <meta content="LTR231715" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204001"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="INCOMING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">crosby, philip s</person>
+        <person class="indexing_service">Lewis, Peter H</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E7D7123CF932A35755C0A9669C8B63" item-length="164" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Laptop Innovations</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by Philip S Crosby on Peter H Lewis's May 25 article on new laptops; says best development he has seen in laptops is monitor screen</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>While I can appreciate the lighter weight of the new I.B.M. ThinkPads (''I.B.M.'s New ThinkPads: The Laptop Becomes an S.U.V.,'' State of the Art, May 25), the best development I've seen in laptops is the 1400-by-1050-pixel screens on the Dell laptops. As chief engineer of Networks Elements, I bought mine two months ago to run engineering software such as schematic drafting, F.P.G.A. design and circuit board layout.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>While I can appreciate the lighter weight of the new I.B.M. ThinkPads (''I.B.M.'s New ThinkPads: The Laptop Becomes an S.U.V.,'' State of the Art, May 25), the best development I've seen in laptops is the 1400-by-1050-pixel screens on the Dell laptops. As chief engineer of Networks Elements, I bought mine two months ago to run engineering software such as schematic drafting, F.P.G.A. design and circuit board layout.</p>
+        <p>The display is fantastic, far sharper than our 19-inch monitors that usually run at 1280 by 1024. I decided to swap C.P.U. speed for memory -- the downgrade from a Pentium III 650 to a Celeron 500 paid for pushing the RAM to 192 megabytes from 64 megabytes. Since the Celeron consumes less power than the PIII in low power mode, the battery life has gone up to about five hours. The model is the Dell Inspiron 7500. The display alone is worth writing about.</p>
+        <p>PHILIP S. CROSBY  Portland, Ore.</p>
+        <p>INCOMING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

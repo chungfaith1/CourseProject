@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>What Files to Back Up, And When and How</title>
+    <meta content="17ASKK" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1223081"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Biersdorfer, J D</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000817T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE3DA1E3FF934A2575BC0A9669C8B63" item-length="751" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>What Files to Back Up, And When and How</hl1>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+      <byline class="normalized_byline">Biersdorfer, J D</byline>
+      <abstract>
+        <p>Answers to readers' questions on backing up computer files and on diagnostic and utility programs included with Windows 98 (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. I understand that backing up files on my Windows 98 computer is a good thing, but how do I figure out what I need to back up, as well as when and how to perform the task?</p>
+        <p>A. Yes, backing up your valuable files is a very good thing, as anyone who has suffered from a nasty system crash or hard-drive failure can tell you. When and how often you back up depends on your own needs and frequency of computer use. If you have files that you work on and update every day, you may want to perform the chore each night. If you do not use your computer so often, or don't make frequent changes to the documents you use, a weekly or monthly backup may suit your needs better.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. I understand that backing up files on my Windows 98 computer is a good thing, but how do I figure out what I need to back up, as well as when and how to perform the task?</p>
+        <p>A. Yes, backing up your valuable files is a very good thing, as anyone who has suffered from a nasty system crash or hard-drive failure can tell you. When and how often you back up depends on your own needs and frequency of computer use. If you have files that you work on and update every day, you may want to perform the chore each night. If you do not use your computer so often, or don't make frequent changes to the documents you use, a weekly or monthly backup may suit your needs better.</p>
+        <p>If you can afford it, consider investing in an external hard drive or a tape drive to back up your system. Buying a drive that is at least as large as your computer's hard drive will let you back up your entire system and all its files, a move that is highly recommended. Backing up by copying data to an extra drive is also advised because even if your computer's main hard drive dies, your files are safe on the other device.</p>
+        <p>You can buy utility programs like Retrospect, by Dantz (available for Windows or Macintosh), but Windows 98 comes with its own built-in backup software, called Microsoft Backup. To find it, go to the Start menu, then Programs and Accessories. Go to System Tools and select Backup from the list. (If you do not see Backup listed, odds are that it was not initially installed on your computer, but you can add it to your system from your Windows 98 CD-ROM.) The Backup program will also let you restore your saved files to your system in case something becomes corrupted or you delete a document by accident.</p>
+        <p>Once you start the program, the Backup Wizard will lead you through a series of questions. You will be asked if you would like to back up My Computer (which is just about everything) or just certain drives, files or folders. The Wizard will ask you if you want to back up all the files you have selected or just the ones that have changed since your last backup. You will also be asked whether you want to store your backup file on your main computer or on an external device.</p>
+        <p>The Backup program can also compress your files to save space. After you give the backup file a name (like ''daily backup''), click on the Start button in the Backup Wizard's box, and the process will begin.</p>
+        <p>Q. I know I can buy software to help fix my system, but are there any resources within Windows 98 itself that will help me when things just aren't right?</p>
+        <p>A. Although it is tucked away, there is a handy suite of diagnostic and utility programs included with Windows 98, and that software may be of help when you are trying to sort out problems with your operating system. To find these applications, go to the Start menu, then to Programs,  Accessories and System Tools. Select System Information.</p>
+        <p>The System Information box will give you plenty of details about your hardware and software, like what kind of processor your computer has and how much RAM is installed. Under the Tools menu in this System Information box you will find the programs that can help you trouble-shoot.</p>
+        <p>Among the 10 or so different tools at your disposal, you will find the System File Checker, a program that keeps track of your system files and will help you replace any damaged ones from your Windows 98 CD-ROM. If your computer crashes frequently, try running the Dr. Watson utility, which notes what your computer was doing when it crashed and may help with suggestions on the cause and cure of the crash.</p>
+        <p>The Registry Checker, which keeps a backup of your Registry file and scans the current one for problems, can help you restore your registry to better health in times of crisis or when a software installation has gone wrong.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

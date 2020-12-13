@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR011736" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="World; Corrections" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1224379"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">MidAmerica Airport (St Louis)</classifier>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000821T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE3D9113EF932A1575BC0A9669C8B63" item-length="81" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of August 19 article about start of scheduled service at little-used MidAmerica Airport near St Louis</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article on Saturday about the start of scheduled service at the little-used MidAmerica Airport near St. Louis misstated the destination of the newest Pan Am flight there. It goes from MidAmerica to Gary, Ind., and continues to Pittsburgh and Portsmouth, N.H., not Portland.</p>
+      </block>
+      <block class="full_text">
+        <p>An article on Saturday about the start of scheduled service at the little-used MidAmerica Airport near St. Louis misstated the destination of the newest Pan Am flight there. It goes from MidAmerica to Gary, Ind., and continues to Pittsburgh and Portsmouth, N.H., not Portland.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

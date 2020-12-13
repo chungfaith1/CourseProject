@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ishkabibble Is Taken</title>
+    <meta content="22NEUM$02" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201516"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Neuman, Matt</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000522T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E2DC133AF931A15756C0A9669C8B63" item-length="363" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ishkabibble Is Taken</hl1>
+      </hedline>
+      <byline class="print_byline">By Matt Neuman</byline>
+      <byline class="normalized_byline">Neuman, Matt</byline>
+      <abstract>
+        <p>Mark Neuman Op-Ed article on Web search babble; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sorry, www.com is not available.  Sorry, wwww.com is not available.  Sorry, wwwww.com is not available.  Sorry, wwwwww.com is not available.  Sorry, wwwwwww.com is not available.  Sorry, wwwwwwww.com is not available.  Sorry, wwwwwwwww.com is not available.  Sorry, wwwwwwwwww.com is not available.  Congratulations! wwwwwwwwwww. com is available.</p>
+        <p>Sorry, abcdefghijklmnopqrstuvwxyz.com is not available.  Sorry,zyxwvutsrqponmlkjihgfedcba.com is not available.  Sorry, areyoukiddingme.com is not available.  Sorry,youvegottobekidding.com is not available.  Congratulations! yourereallynotkiddingareyou.com is available.</p>
+      </block>
+      <block class="full_text">
+        <p>Sorry, www.com is not available.  Sorry, wwww.com is not available.  Sorry, wwwww.com is not available.  Sorry, wwwwww.com is not available.  Sorry, wwwwwww.com is not available.  Sorry, wwwwwwww.com is not available.  Sorry, wwwwwwwww.com is not available.  Sorry, wwwwwwwwww.com is not available.  Congratulations! wwwwwwwwwww. com is available.</p>
+        <p>Sorry, abcdefghijklmnopqrstuvwxyz.com is not available.  Sorry,zyxwvutsrqponmlkjihgfedcba.com is not available.  Sorry, areyoukiddingme.com is not available.  Sorry,youvegottobekidding.com is not available.  Congratulations! yourereallynotkiddingareyou.com is available.</p>
+        <p>Sorry, help.com is not available.  Sorry, helpme.com is not available.  Sorry, helpmeplease.com is not available.  Congratulations! helpmepleasesomeonehelp.com is available.</p>
+        <p>Sorry, my.com is not available.  Sorry, myfoot.com is not available.  Sorry, myfoothurts.com is not available.  Congratulations! myfoothurtslikeyouwouldntbelieve.com is available.</p>
+        <p>Sorry, antidisestablishmentarianism.com is not available.  Congratulations! myantidisestablishmentarianism.com is available.</p>
+        <p>Sorry, ishkabibble.com is not available.  Sorry, ishkabibble.net is not available.  Congratulations! ishkabibble.org is available.</p>
+        <p>Sorry, yahoo.com is not available.  Sorry, wahoo.com is not available.  Sorry, hoohah.com is not available.  Sorry, wowiezowie.com is not available.  Congratulations! woohoowayflaynoyfloy.com is available.</p>
+        <p>Sorry, oxygen.com is not available.  Sorry, helium.com is not available.  Sorry, hydrogen.com is not available.  Sorry, californium.com is not available.  Congratulations! floridium.com is available.</p>
+        <p>Sorry, gore.com is not available.  Sorry, bush.com is not available.  Sorry, bushgore.com is not available.  Sorry, gorebush.com is not available.  Sorry, gorebush2000.com is not available.  Sorry, bushgore2000.com is not available.  Congratulations! theheckwithbothofthem.com is available.</p>
+        <p>(Search results form Network Solutions.)</p>
+        <p>Matt Neuman is a comedy writer living in Hollywood</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Matt Neuman is a comedy writer living in Hollywood</tagline>
+    </body.end>
+  </body>
+</nitf>

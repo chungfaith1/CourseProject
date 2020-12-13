@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Anticipated Resignation Occurs at 3Com</title>
+    <meta content="Y29NETW" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/29/technology/29NETW.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1234556"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Threecom Corp (3com Corp)</org>
+        <person class="indexing_service">Benhamou, Eric</person>
+        <person class="indexing_service">Claflin, Bruce</person>
+        <person class="indexing_service">Fisher, Lawrence M</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000929T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00E3DC1F3AF93AA1575AC0A9669C8B63" item-length="483" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Anticipated Resignation Occurs at 3Com</hl1>
+      </hedline>
+      <byline class="print_byline">By LAWRENCE M. FISHER</byline>
+      <byline class="normalized_byline">Fisher, Lawrence M</byline>
+      <dateline>SAN FRANCISCO, Sept. 28</dateline>
+      <abstract>
+        <p>3Com Corp says Eric Benhamou has resigned as chief executive, but will remain chairman; he is being succeeded as chief executive by Bruce Claflin, president and chief operating officer; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The 3Com Corporation said today that Eric Benhamou had resigned as chief executive, but would remain chairman.</p>
+        <p>He is being succeeded as chief executive by Bruce Claflin, 3Com's president and chief operating officer.</p>
+      </block>
+      <block class="full_text">
+        <p>The 3Com Corporation said today that Eric Benhamou had resigned as chief executive, but would remain chairman.</p>
+        <p>He is being succeeded as chief executive by Bruce Claflin, 3Com's president and chief operating officer.</p>
+        <p>Mr. Benhamou's departure has been anticipated ever since 3Com successfully spun off its Palm Inc. unit in an initial public offering in July.</p>
+        <p>His restructuring of the company showed signs of being on track on Tuesday, when 3Com reported a first-quarter loss that was substantially smaller than analysts' estimates. But the company's future prospects remain cloudy, analysts say, and investors are wary.</p>
+        <p>''Today is my 10th anniversary as chief executive,'' Mr. Benhamou said in a telephone interview, noting that his original commitment to the board was to run 3Com for 10 years. ''In an industry as volatile as ours, it's a good discipline to self-regenerate leadership. I believe Bruce is up to it, and the most qualified person to lead 3Com through its next phase.''</p>
+        <p>Shares of 3Com rose $1, to $18, in Nasdaq trading.</p>
+        <p>Mr. Benhamou presided over a rocky 10 years at 3Com, which once had a clear opportunity to be the dominant company in computer networking. Its founder, Robert Metcalfe, invented Ethernet, a popular technology used for creating office networks of personal computers, while a researcher at the fabled Xerox PARC. But the company lost ground early on to Novell Inc., which emphasized software over hardware, and more recently to Cisco Systems Inc., which has been a much more aggressive competitor.</p>
+        <p>In 1997, 3Com acquired U.S. Robotics Inc., the leading modem manufacturer, only to watch as the modem market imploded. At the same time, 3Com's own core product, network adaptor cards for connecting PC's to Ethernet, became a commodity item with little profitability. In routers, specialized computers used to direct traffic over networks, the company was consistently outgunned by Cisco.</p>
+        <p>Ultimately Palm, which had been a nearly overlooked part of the U.S. Robotics deal, came to be worth more by itself than all of 3Com. So 3Com spun off Palm, and at the same time announced its withdrawal from the corporate networking equipment business. 3Com now is focused primarily on broadband and wireless connectivity devices for consumers and small businesses, and infrastructure equipment for companies that provide telecommunications and Internet services.</p>
+        <p>Mr. Benhamou, 45, appointed Mr. Claflin, 48, president and chief operating officer in 1998. Mr. Claflin had previously worked for the Digital Equipment Corporation and the International Business Machines Corporation.</p>
+        <p>TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

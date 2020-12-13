@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Seles Wins Easily</title>
+    <meta content="24SEL" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225045"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TENNIS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Tennis</classifier>
+        <classifier class="indexing_service" type="descriptor">Pilot Pen Tennis Tournament</classifier>
+        <person class="indexing_service">Cavanaugh, Jack</person>
+        <person class="indexing_service">Seles, Monica</person>
+        <person class="indexing_service">Van Roost, Dominique</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Tennis</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tennis</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000824T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E7D91431F937A1575BC0A9669C8B63" item-length="166" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Seles Wins Easily</hl1>
+      </hedline>
+      <byline class="print_byline">By JACK CAVANAUGH</byline>
+      <byline class="normalized_byline">Cavanaugh, Jack</byline>
+      <abstract>
+        <p>Monica Seles beats Dominique Van Roost in semifinals of Pilot Pen tennis tournament (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Monica Seles cruised to the semifinals of the Pilot Pen tournament in New Haven yesterday by defeating Dominique Van Roost of Belgium, 6-1, 6-2.</p>
+        <p>Their match was one of two completed as rain delayed much of the day session. Patty Schnyder ousted Yelena Dementieva of Russia, 1-6, 7-5, 6-3. Schnyder will play top-seeded Venus Williams, the defending champion, in the semifinals tomorrow.</p>
+      </block>
+      <block class="full_text">
+        <p>Monica Seles cruised to the semifinals of the Pilot Pen tournament in New Haven yesterday by defeating Dominique Van Roost of Belgium, 6-1, 6-2.</p>
+        <p>Their match was one of two completed as rain delayed much of the day session. Patty Schnyder ousted Yelena Dementieva of Russia, 1-6, 7-5, 6-3. Schnyder will play top-seeded Venus Williams, the defending champion, in the semifinals tomorrow.</p>
+        <p>Aware that Van Roost's backhand is her best weapon, Seles focused on her forehand and elicited more than a dozen errors off that side. At one stretch in the 55-minute match, Seles won 10 of 11 games. After Van Roost saved a match point at 1-5 in the second set, Seles closed out the match with a 105-mile-an-hour service winner.</p>
+        <p>JACK CAVANAUGH</p>
+        <p>TENNIS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

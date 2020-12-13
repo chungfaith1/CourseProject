@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR233828" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201638"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Legal Profession</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Law Schools</classifier>
+        <org class="indexing_service">Columbia University</org>
+        <person class="indexing_service">Gore, Al (Vice Pres)</person>
+        <person class="indexing_service">Schiff, Karenna Gore</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Legal Profession</classifier>
+        <classifier class="online_producer" type="general_descriptor">Graduate Schools and Students</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000522T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06EEDC1E3AF931A15756C0A9669C8B63" item-length="99" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of caption with May 17 picture showing Vice Pres Al Gore and his daughter, Karenna Gore Schiff, at her graduation from Columbia Law School</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A picture caption on Wednesday about the graduation of Vice President's Al Gore's daughter Karenna Gore Schiff from Columbia Law School referred imprecisely to her degree. She is not the newest lawyer in her immediate family; she is the only one. While Mr. Gore's parents were both lawyers and he attended law school, he did not graduate.</p>
+      </block>
+      <block class="full_text">
+        <p>A picture caption on Wednesday about the graduation of Vice President's Al Gore's daughter Karenna Gore Schiff from Columbia Law School referred imprecisely to her degree. She is not the newest lawyer in her immediate family; she is the only one. While Mr. Gore's parents were both lawyers and he attended law school, he did not graduate.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

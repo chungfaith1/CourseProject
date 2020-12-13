@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Historical Jesus</title>
+    <meta content="LTR074532" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1199166"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Ogden, Joan</person>
+        <person class="indexing_service">Kahill, Thomas</person>
+        <object.title class="indexing_service">Desire of the Everlasting Hills (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000514T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905EEDC1738F937A25756C0A9669C8B63" item-length="142" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Historical Jesus</hl1>
+      </hedline>
+      <abstract>
+        <p>Joan Ogden letter disputes statement in April 23 review of Thomas Kahill's book Desire of the Everlasting Hills that there is no evidence outside Bible to support existence of Jesus</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The review of Thomas Cahill's ''Desire of the Everlasting Hills'' (April 23) states, ''There is not a shred of historical evidence outside the Bible itself to support the existence of Jesus.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The review of Thomas Cahill's ''Desire of the Everlasting Hills'' (April 23) states, ''There is not a shred of historical evidence outside the Bible itself to support the existence of Jesus.''</p>
+        <p>There are actually three very definite ''shreds'': in ''Antiquities,'' by the Roman (Jewish) historian Josephus; in the ''Annals'' of Tacitus (another Roman historian); and in ''The Passing of Peregrinus,'' by Lucian of Samosata, a satirist.</p>
+        <p>Joan Ogden  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

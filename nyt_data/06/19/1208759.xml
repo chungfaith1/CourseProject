@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Ratings Winner</title>
+    <meta content="MB011308" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1208759"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="GOLF: NOTEBOOK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Golf</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <classifier class="indexing_service" type="descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Open (Golf)</classifier>
+        <person class="indexing_service">Sandomir, Richard</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Golf</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Golf</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Open (Golf)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Golf</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000619T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE0DB1531F93AA25755C0A9669C8B63" item-length="160" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Ratings Winner</hl1>
+      </hedline>
+      <byline class="print_byline">By RICHARD SANDOMIR</byline>
+      <byline class="normalized_byline">Sandomir, Richard</byline>
+      <abstract>
+        <p>Television ratings for US Open golf championship noted (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The third round of the United States Open on Saturday, during which Tiger Woods extended his lead to 10 strokes, produced a 6.5 overnight Nielsen rating on NBC. The rating was 23 percent higher than last year's third round.</p>
+        <p>NBC carried 11 hours 15 minutes of the national championship on Saturday in two segments. The first, from 9:30 to 11:30 a.m., the completion of the second round, rated a 4.4. The 6.5 rating for the second segment, which lasted from 1:30 to 10:45 p.m., equaled the third-round rating three years ago.</p>
+      </block>
+      <block class="full_text">
+        <p>The third round of the United States Open on Saturday, during which Tiger Woods extended his lead to 10 strokes, produced a 6.5 overnight Nielsen rating on NBC. The rating was 23 percent higher than last year's third round.</p>
+        <p>NBC carried 11 hours 15 minutes of the national championship on Saturday in two segments. The first, from 9:30 to 11:30 a.m., the completion of the second round, rated a 4.4. The 6.5 rating for the second segment, which lasted from 1:30 to 10:45 p.m., equaled the third-round rating three years ago.</p>
+        <p>During the 8 to 10:45 p.m. period, a rare foray for a golf telecast into prime time, the tournament generated a 7.5 rating. Last year's third round was carried from 12:30 to 7 p.m.</p>
+        <p>RICHARD SANDOMIR</p>
+        <p>GOLF: NOTEBOOK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

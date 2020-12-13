@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Virus Also Faxed Itself To Victims</title>
+    <meta content="15SPIN" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Business; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1199705"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Facsimile Systems</classifier>
+        <person class="indexing_service">Markoff, John</person>
+        <person class="indexing_service">Stephenson, Neal</person>
+        <object.title class="indexing_service">Snow Crash (Book)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Facsimile Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000515T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E5D7133BF936A25756C0A9669C8B63" item-length="346" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Virus Also Faxed Itself To Victims</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <abstract>
+        <p>Recent Love Bug computer worm faxed itself to its victims in few scattered cases, in direct echo of Neal Stephenson's 1992 science fiction novel, Snow Crash (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a direct echo of Neal Stephenson's pathbreaking 1992 science fiction novel ''Snow Crash,'' the recent Love Bug computer worm had one oddly disturbing behavior: In a few scattered cases the program faxed itself to its victims.</p>
+        <p>In the dystopian ''Snow Crash'' vision of the world, virus-like software leaps across the boundary separating machines from humans.</p>
+      </block>
+      <block class="full_text">
+        <p>In a direct echo of Neal Stephenson's pathbreaking 1992 science fiction novel ''Snow Crash,'' the recent Love Bug computer worm had one oddly disturbing behavior: In a few scattered cases the program faxed itself to its victims.</p>
+        <p>In the dystopian ''Snow Crash'' vision of the world, virus-like software leaps across the boundary separating machines from humans.</p>
+        <p>Here is a sample passage, describing the hacker's means of invasion: ''He messes with binary code for a living. That ability is firm-wired into the deep structures of the brain. So he's susceptible to that form of information. And so are you, home-boy.''</p>
+        <p>In a case of life imitating art, when the virus struck the Thursday before last, a reporter received a copy of one of the ''I Love You'' notes -- in this case, as a fax accidentally sent by the Microsoft Corporation's public relations office. (''It's an interesting and logical conclusion to everyone's desire for mega-connectedness,'' a Microsoft spokesman said of the incident.)</p>
+        <p>Attached to the cover sheet, which stated ''kindly check the attached LOVELETTER coming from me,'' were two pages of the program's destructive code. Because the code had been attached to the e-mail message as a standard word processing text file, the fax machine simply printed it out.</p>
+        <p>Because the rogue program was designed to send itself to every address in a Microsoft Outlook e-mail address book, when it came across a fax number in the list it simply transmitted itself via fax.</p>
+        <p>In Mr. Stephenson's novel, the invasive virus also carries subliminal messages, such as ideologies and other concepts.</p>
+        <p>The LOVELETTER fax, though, did not seem to carry any subliminal information. And yet, since it was sent from the embattled Microsoft Corporation to a technology writer who covers the company, who really knows?</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

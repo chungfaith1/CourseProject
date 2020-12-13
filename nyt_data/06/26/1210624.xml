@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kraut Takes Lead</title>
+    <meta content="PL030627" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1210624"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PLUS: EQUESTRIAN -- OLYMPIC TRIALS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Olympic Games</classifier>
+        <classifier class="indexing_service" type="descriptor">Olympic Games (2000)</classifier>
+        <classifier class="indexing_service" type="descriptor">Horse Shows</classifier>
+        <person class="indexing_service">Orr, Alex Jr</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Olympics 2004</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Olympic Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Horse Racing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000626T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E3DC1230F935A15755C0A9669C8B63" item-length="195" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kraut Takes Lead</hl1>
+      </hedline>
+      <byline class="print_byline">By ALEX ORR Jr.</byline>
+      <byline class="normalized_byline">Orr, Alex Jr</byline>
+      <abstract>
+        <p>Results of US Olympic Equestrian Team trials noted (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Laura Kraut climbed aboard her 9-year-old Dutch-bred mare, Liberty, and jumped her way to the lead of the $100,000 United States Equestrian Team Olympic show jumping trials at the team's Festival of Champions in Gladstone, N.J.</p>
+        <p>Kraut, 25, who rides out of her training stable in Oconomowoc, Wis., scored a total of 4.75 faults over five rounds of grand prix jumping, which began Wednesday and ended with two rounds yesterday.</p>
+      </block>
+      <block class="full_text">
+        <p>Laura Kraut climbed aboard her 9-year-old Dutch-bred mare, Liberty, and jumped her way to the lead of the $100,000 United States Equestrian Team Olympic show jumping trials at the team's Festival of Champions in Gladstone, N.J.</p>
+        <p>Kraut, 25, who rides out of her training stable in Oconomowoc, Wis., scored a total of 4.75 faults over five rounds of grand prix jumping, which began Wednesday and ended with two rounds yesterday.</p>
+        <p>Kraut and Liberty will carry 4.75 faults into a second set of trials against the top 12 at this event. They will be at San Juan Capistrano and San Diego in July. A team of four horses and riders will be picked for the Games.</p>
+        <p>ALEX ORR Jr.</p>
+        <p>PLUS: EQUESTRIAN -- OLYMPIC TRIALS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

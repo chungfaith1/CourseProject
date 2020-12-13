@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Laundry By the Quart</title>
+    <meta content="22WASH" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209257"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="CURRENTS: APPLIANCES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Washing Machines</classifier>
+        <classifier class="indexing_service" type="descriptor">Currents (Times Column)</classifier>
+        <org class="indexing_service">Terminal-NYC (Store)</org>
+        <person class="indexing_service">Rohrlich, Marianne</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Furnishings</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Appliances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000622T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E3DA1331F931A15755C0A9669C8B63" item-length="167" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Laundry By the Quart</hl1>
+      </hedline>
+      <byline class="print_byline">By Marianne Rohrlich</byline>
+      <byline class="normalized_byline">Rohrlich, Marianne</byline>
+      <abstract>
+        <p>Seven-quart nonelectric washing machine operated with crank handle is available at Terminal-NYC store in Manhattan; photo (Currents column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The portable Super Wash (a nonelectric washing machine) is useful for small apartments, campers or anyone who has small loads of clothes to wash and wants to save water and money and conserve electricity. The seven-quart machine, which is operated by cranking a handle, sits on the edge of a sink and washes up to five pounds of laundry in about two minutes.</p>
+        <p>The soapy water drains through a valve into the sink; rinsing involves refilling with clean water and repeating the process. Super Wash is $90 at Terminal-NYC, 28-30 Watts Street (Thompson Street).</p>
+      </block>
+      <block class="full_text">
+        <p>The portable Super Wash (a nonelectric washing machine) is useful for small apartments, campers or anyone who has small loads of clothes to wash and wants to save water and money and conserve electricity. The seven-quart machine, which is operated by cranking a handle, sits on the edge of a sink and washes up to five pounds of laundry in about two minutes.</p>
+        <p>The soapy water drains through a valve into the sink; rinsing involves refilling with clean water and repeating the process. Super Wash is $90 at Terminal-NYC, 28-30 Watts Street (Thompson Street).</p>
+        <p>CURRENTS: APPLIANCES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

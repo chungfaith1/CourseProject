@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Children's Books</title>
+    <meta content="RV075333" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="31" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1238781"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Rodberg, Simon</person>
+        <person class="indexing_service">Johnson, D B</person>
+        <object.title class="indexing_service">Henry Hikes to Fitchburg (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Columns/Children's Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001015T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE4DC143CF936A25753C1A9669C8B63" item-length="338" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Children's Books</hl1>
+      </hedline>
+      <byline class="print_byline">By Simon Rodberg</byline>
+      <byline class="normalized_byline">Rodberg, Simon</byline>
+      <abstract>
+        <p>Simon Rodberg reviews children's book Henry Hikes to Fitchburg written and illustrated by D B Johnson (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HENRY HIKES TO FITCHBURG</p>
+        <p>Written and illustrated</p>
+        <p>by D. B. Johnson.</p>
+        <p>Houghton Mifflin, $15.</p>
+        <p>(Ages 4 to 8)</p>
+      </block>
+      <block class="full_text">
+        <p>HENRY HIKES TO FITCHBURG</p>
+        <p>Written and illustrated</p>
+        <p>by D. B. Johnson.</p>
+        <p>Houghton Mifflin, $15.</p>
+        <p>(Ages 4 to 8)</p>
+        <p>Despite its striking beauty, ''Henry Hikes to Fitchburg'' should come with a warning label: ''May Depress if Used as Bedtime Reading.''</p>
+        <p>D. B. Johnson adapts a parable from Henry David Thoreau's ''Walden'' -- a tale of two bears who decide to race to Fitchburg. Henry walks the 30 miles; his friend, nattily dressed but somewhat glum, spends the day working to earn money for train fare.</p>
+        <p>The message, from Johnson as from ''Walden,'' is clear: by taking to the trees instead of to the labor market, you can have a lot more fun. And who could argue with the illustrations? Every one is frameable, with a jumbled, almost Cubist perspective and a lush blue-green tinge. The left-hand pages feature Henry's friend at work, counting up his money, while on the right Henry plays and counts down the miles remaining -- with less anxiety. Johnson gives splendor to the quiet glories of the New England countryside, from blackberry picking to pond jumping. Together, the dreamy pictures and the steady rhythm of the story can be hypnotic, with all the allure of a perfect day.</p>
+        <p>Or they can demoralize. Johnson's art may well enchant children, but his subject will ring truer for adults; what child, after all, needs to be infomed of the superiority of play to labor? The literary references are aimed above their heads: A typical spread reads, on the left, ''Henry's friend moved the bookcases in Mr. Emerson's study. 15 cents.'' On the right: ''Henry climbed a tree. 18 miles to Fitchburg.'' But the lesson may hit parents in the gut. After a day on the job, when ''Henry Hikes to Fitchburg'' is the response to ''Read me a story!'' Junior will be sleeping happily, while the exhausted parents will wonder where they went wrong.</p>
+        <p>Simon Rodberg</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

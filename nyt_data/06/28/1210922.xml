@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Uncovered Short Sales Rose 1% in Recent Month</title>
+    <meta content="Y28SHO$02" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1210922"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Short Selling</classifier>
+        <org class="indexing_service">National Assn of Securities Dealers</org>
+        <org class="indexing_service">Nasdaq Stock Market</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000628T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B06E2DA1030F93BA15755C0A9669C8B63" item-length="160" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Uncovered Short Sales Rose 1% in Recent Month</hl1>
+      </hedline>
+      <abstract>
+        <p>National Association of Securities Dealers says open positions of short sales on Nasdaq stock market rose 1 percent in most recent monthly period; uncovered short sales in all 4,735 Nasdaq securities totaled 2.81 billion shares for monthlong period that ended on June 15, compared with 4,725 securities and 2.78 billion shares in previous month; charts (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Open positions of short sales on the Nasdaq stock market rose 1 percent in the most recent monthly period, the National Association of Securities Dealers, which operates the market, said yesterday.</p>
+        <p>Investors who sell shares short borrow them from a brokerage firm and then sell them, hoping to buy the shares back at lower prices and make a profit. But if the shares rise in price, the short-seller faces a loss.</p>
+      </block>
+      <block class="full_text">
+        <p>Open positions of short sales on the Nasdaq stock market rose 1 percent in the most recent monthly period, the National Association of Securities Dealers, which operates the market, said yesterday.</p>
+        <p>Investors who sell shares short borrow them from a brokerage firm and then sell them, hoping to buy the shares back at lower prices and make a profit. But if the shares rise in price, the short-seller faces a loss.</p>
+        <p>Uncovered short sales, or those with open positions, are those shares that have been borrowed and sold, but not yet covered by repurchase. Uncovered short sales in all 4,735 Nasdaq securities totaled 2.81 billion shares for the monthlong period that ended on June 15, compared with 4,725 securities and 2.78 billion shares in the previous month.</p>
+        <p>High short-interest positions have long been considered an indicator of bearish sentiment among market investors. But short interest can also result from complex trading strategies involving options, futures and other stock-related derivatives.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

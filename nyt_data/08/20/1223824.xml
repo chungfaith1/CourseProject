@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Michelin Series Heads in All Directions</title>
+    <meta content="MB015750" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1223824"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TRAVEL ADVISORY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Guidebooks</classifier>
+        <location class="indexing_service">New Haven (Conn)</location>
+        <org class="indexing_service">Michelin Sa</org>
+        <org class="indexing_service">Yale University</org>
+        <person class="indexing_service">Freireich, Paul</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut/New Haven</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000820T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E3D61F3FF933A1575BC0A9669C8B63" item-length="299" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Michelin Series Heads in All Directions</hl1>
+      </hedline>
+      <byline class="print_byline">By PAUL FREIREICH</byline>
+      <byline class="normalized_byline">Freireich, Paul</byline>
+      <abstract>
+        <p>Michelin begins issuing new series of travel guides called NEOS; plans to publish Guide to Yale University and New Haven; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Michelin has come up with a new recipe for a series of guidebooks: to an exotic destination add one part Red (as in the Red Guide listings of recommended hotels and restaurants) and one part Green (descriptions of places of major and minor interest), then fold in a generous helping of practical information and vignettes about the local culture.</p>
+        <p>The result is a series called NEOS, with volumes about Tunisia; Guatemala and Belize; Reunion, Mauritius and the Seychelles; Syria and Jordan; and Turkey. Due in December are guides to Indonesia, Rajasthan, and Sri Lanka and the Maldives.</p>
+      </block>
+      <block class="full_text">
+        <p>Michelin has come up with a new recipe for a series of guidebooks: to an exotic destination add one part Red (as in the Red Guide listings of recommended hotels and restaurants) and one part Green (descriptions of places of major and minor interest), then fold in a generous helping of practical information and vignettes about the local culture.</p>
+        <p>The result is a series called NEOS, with volumes about Tunisia; Guatemala and Belize; Reunion, Mauritius and the Seychelles; Syria and Jordan; and Turkey. Due in December are guides to Indonesia, Rajasthan, and Sri Lanka and the Maldives.</p>
+        <p>The name NEOS is drawn from the four compass points in French -- Nord, Est, Ouest, Sud. Each book comprises four parts: Setting the Scene (geography, history, population and art), Meeting the People (religion, festivals, etiquette, language), Practical Information (Web sites, getting there, a reading list and a glossary of basic expressions) and Exploring (details on places to visit, ranked from no stars to three stars). The guides cost $21.95 to $25.95.</p>
+        <p>The subject of another new Michelin book (not part of a new series) is a world away from the exotic. It is The Green Guide to Yale University and New Haven, issued to mark Yale's 300th anniversary next year. The contents include what to see on campus (the Yale University Art Gallery, for example) and off (the Grove Street Cemetery). The price is $14.95, with $1 of each sale going to New Haven Reads, a literacy project.</p>
+        <p>PAUL FREIREICH</p>
+        <p>TRAVEL ADVISORY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

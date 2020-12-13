@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="08INSI$03" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1205766"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7D8133FF93BA35755C0A9669C8B63" item-length="298" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Obstacle for Abortion Pill  Efforts to bring the French abortion pill to the United States face a new hurdle: a suggestion the government may tightly restrict its distribution and prescription. PAGE A21</p>
+        <p>Drought Torments Afghans  A drought is adding to the misery in Afghanistan, where the economy is in ruins after years of war and foreign aid is hard to come by. Page A12</p>
+      </block>
+      <block class="full_text">
+        <p>Obstacle for Abortion Pill  Efforts to bring the French abortion pill to the United States face a new hurdle: a suggestion the government may tightly restrict its distribution and prescription. PAGE A21</p>
+        <p>Drought Torments Afghans  A drought is adding to the misery in Afghanistan, where the economy is in ruins after years of war and foreign aid is hard to come by. Page A12</p>
+        <p>Herb Suspected in Cancer  Doctors are reporting that a Chinese herb, Aristolochia fangchi, already linked to kidney failure, may cause cancer as well.  PAGE A24</p>
+        <p>Lakers Win Opener in Finals  Shaquille O'Neal scored 43 points as theLos Angeles Lakers defeated the Indiana Pacers, 104-87, in Game 1 of the N.B.A. finals.  PAGE D1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Helping Pandas Survive</title>
+    <meta content="LTR004525" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1235794"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Pandas</classifier>
+        <classifier class="indexing_service" type="descriptor">Endangered and Extinct Species</classifier>
+        <person class="indexing_service">Hemley, Ginette</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="general_descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001003T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E3DE103DF930A35753C1A9669C8B63" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Helping Pandas Survive</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Ginette Hemley, vice pres for species conservation, World Wildlife Fund, comments on issue of protecting pandas in their natural habitat (Sept 19 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Assisted breeding programs, like the one for giant pandas run by our conservation partner, the San Diego Zoo, address only a small piece of the survival puzzle and should not be confused with the ultimate goal of conserving wild pandas  (''With a Little Help From Friends, Pandas Hang On,'' Sept. 19).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Assisted breeding programs, like the one for giant pandas run by our conservation partner, the San Diego Zoo, address only a small piece of the survival puzzle and should not be confused with the ultimate goal of conserving wild pandas  (''With a Little Help From Friends, Pandas Hang On,'' Sept. 19).</p>
+        <p>Protecting pandas in their natural habitat is indisputably the highest priority in conserving this critically endangered species.</p>
+        <p>When protected from poachers and habitat destruction through effective field-based conservation programs, giant pandas have an excellent chance of holding their own in their natural environment.</p>
+        <p>GINETTE HEMLEY  Washington</p>
+        <p>The writer is vice president for species conservation at the World Wildlife Fund.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

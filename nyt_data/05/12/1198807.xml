@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Computer-Generated Havoc</title>
+    <meta content="12FRI4" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1198807"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000512T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E7D7173BF931A25756C0A9669C8B63" item-length="299" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Computer-Generated Havoc</hl1>
+      </hedline>
+      <abstract>
+        <p>Editorial says latest e-mail computer bug should serve as reminder that even as Internet absorbs everyone, values of security and privacy cannot be over-emphasized</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Most of us know what postal junk mail looks like, no matter how cleverly it comes disguised. Most of us also know what a computer-generated phone call sounds like -- the telltale click and pause before your name is mispronounced by a badly paid stranger. But even the worst junk mail will not open your other mail, read your address book and send out fake letters above your forged signature. Even the most obnoxious phone rep cannot go through your phone log and call all your friends and business associates while mimicking your voice.</p>
+        <p>But the e-mail computer bug that appeared last week, fouling tens of millions of computers and racking up damages in the billions of dollars, possessed something like those abilities. If you opened the e-mail headed ''I Love You'' and clicked on its attachment, the virus sent out new, replicant e-mails to all the e-mail addresses it found on your computer, while damaging other files.</p>
+      </block>
+      <block class="full_text">
+        <p>Most of us know what postal junk mail looks like, no matter how cleverly it comes disguised. Most of us also know what a computer-generated phone call sounds like -- the telltale click and pause before your name is mispronounced by a badly paid stranger. But even the worst junk mail will not open your other mail, read your address book and send out fake letters above your forged signature. Even the most obnoxious phone rep cannot go through your phone log and call all your friends and business associates while mimicking your voice.</p>
+        <p>But the e-mail computer bug that appeared last week, fouling tens of millions of computers and racking up damages in the billions of dollars, possessed something like those abilities. If you opened the e-mail headed ''I Love You'' and clicked on its attachment, the virus sent out new, replicant e-mails to all the e-mail addresses it found on your computer, while damaging other files.</p>
+        <p>Unlike mailboxes and telephones, computers are designed to do a host of things automatically. Gathering e-mail addresses and sending out new e-mails to each of them is precisely the kind of task computers are good at. Except for the havoc they create, it is hard to distinguish the functioning of viruses from other computer functions. A computer does not know functional perversity when it sees it.</p>
+        <p>That is why, even as the Internet absorbs us all, the values of security and privacy cannot be overemphasized. From the Internet we can expect all the permutations of human behavior, from real love to real destruction.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Easy Is as Easy Does</title>
+    <meta content="LTR000058" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1224996"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">magary, al</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000824T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00EFDB1431F937A1575BC0A9669C8B63" item-length="208" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Easy Is as Easy Does</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Al Magary comments on Aug 17 article on iPAQ IA-I Internet appliance</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Appliance With a Purpose'' (State of the Art, Aug. 17), about the iPAQ IA-1 Internet appliance, says the role model for such appliances is the television because it doesn't require ''a lot of technical hocus-pocus.'' I've been programming VCR's since the early 1980's, but at least 1 time out of 10, when I've finished programming, I forget to turn off the VCR so it can come on automatically at the specified time. I forget because it's easy to forget and, in any case, counterintuitive to turn off something so that it will work.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Appliance With a Purpose'' (State of the Art, Aug. 17), about the iPAQ IA-1 Internet appliance, says the role model for such appliances is the television because it doesn't require ''a lot of technical hocus-pocus.'' I've been programming VCR's since the early 1980's, but at least 1 time out of 10, when I've finished programming, I forget to turn off the VCR so it can come on automatically at the specified time. I forget because it's easy to forget and, in any case, counterintuitive to turn off something so that it will work.</p>
+        <p>When we refinished the hardwood in the living room the other week, I had to unplug the spaghetti of wiring behind the TV cart. Later, of course, I plugged things back in, but the setup -- which included three cables going into one connecting device -- didn't work correctly until I played around with the wiring and the connectors and the buttons and the on-screen setup. TV watching is too complicated! Give me computing!</p>
+        <p>AL MAGARY  San Francisco</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

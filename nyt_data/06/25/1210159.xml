@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>GREYSTONE CHIEF REPLACED</title>
+    <meta content="MB234730" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1210159"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BRIEFING: HEALTH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mental Health and Disorders</classifier>
+        <classifier class="indexing_service" type="descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">Shutdowns (Institutional)</classifier>
+        <classifier class="indexing_service" type="descriptor">Hospitals</classifier>
+        <org class="indexing_service">Greystone Park Psychiatric Hospital (NJ)</org>
+        <person class="indexing_service">Greenstein, Michael</person>
+        <person class="indexing_service">Strunsky, Steve</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suspensions, Dismissals and Resignations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shutdowns (Institutional)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hospitals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000625T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E4DC1630F936A15755C0A9669C8B63" item-length="67" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>GREYSTONE CHIEF REPLACED</hl1>
+      </hedline>
+      <byline class="print_byline">By STEVE STRUNSKY</byline>
+      <byline class="normalized_byline">Strunsky, Steve</byline>
+      <abstract>
+        <p>New Jersey Human Services Department replaces Greystone Psychiatric Hospital chief executive officer Michael Greenstein with administrator who has already presided over closing of two similar state institutions (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The State Department of Human Services announced last week that it is replacing Michael Greenstein, the chief executive officer of Greystone Psychiatric Hospital in Parsippany, with an administrator who has already presided over the closing of two similar state institutions. Greystone had been plagued by patient deaths, pregnancies and other mishaps, and the state announced last month that it would be closed.</p>
+        <p>STEVE STRUNSKY</p>
+      </block>
+      <block class="full_text">
+        <p>The State Department of Human Services announced last week that it is replacing Michael Greenstein, the chief executive officer of Greystone Psychiatric Hospital in Parsippany, with an administrator who has already presided over the closing of two similar state institutions. Greystone had been plagued by patient deaths, pregnancies and other mishaps, and the state announced last month that it would be closed.</p>
+        <p>STEVE STRUNSKY</p>
+        <p>BRIEFING: HEALTH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

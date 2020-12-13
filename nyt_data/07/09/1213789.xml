@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Queensberry Rules</title>
+    <meta content="LTR110410" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213789"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOKS AND LITERATURE</classifier>
+        <person class="indexing_service">Bentley, Eric</person>
+        <person class="indexing_service">Seymour, Miranda</person>
+        <person class="indexing_service">Douglas, Alfred</person>
+        <person class="indexing_service">Murray, Douglas</person>
+        <object.title class="indexing_service">Bosie (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000709T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E0DB1F30F93AA35754C0A9669C8B63" item-length="237" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Queensberry Rules</hl1>
+      </hedline>
+      <abstract>
+        <p>Eric Bentley letter on Miranda Seymour's June 18 review holds Alfred Douglas was not as bad as how he was portrayed in Douglas Murray's book Bosie1</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In her review of ''Bosie'' (June 18), Miranda Seymour has raised an important issue -- important in the lives of Alfred (Bosie) Douglas and Oscar Wilde; namely: can we accept the account of Douglas that Wilde provided in his notorious ''De Profundis'' letter? That account is devastatingly negative. Accepted as truthful by Wilde's biographers, it has been taken over in various movies and plays about the two men.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In her review of ''Bosie'' (June 18), Miranda Seymour has raised an important issue -- important in the lives of Alfred (Bosie) Douglas and Oscar Wilde; namely: can we accept the account of Douglas that Wilde provided in his notorious ''De Profundis'' letter? That account is devastatingly negative. Accepted as truthful by Wilde's biographers, it has been taken over in various movies and plays about the two men.</p>
+        <p>In fact, the young Douglas wasn't that bad a person. He certainly wasn't Judas to Wilde's Christ, as has countless times been alleged -- recently, for example, in a play by David Hare. Seymour deserves credit for pointing this out; but, in passing the message on from Douglas Murray's ''Bosie,'' she should not have credited Murray with a discovery.</p>
+        <p>''Lord Alfred,'' she says, ''has been in disgrace since his death in 1945.'' Not so. At least one biography of Douglas before Murray rescued him from Wilde's wild accusations. Let me cite Rupert Croft-Cooke's ''Bosie'' (1963).</p>
+        <p>Eric Bentley  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

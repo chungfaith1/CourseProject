@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>LIMITS ON SALE OF CUSTOMER NAMES</title>
+    <meta content="MB004316" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234181"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY BRIEFING: E-COMMERCE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Furniture</classifier>
+        <classifier class="indexing_service" type="descriptor">Bankruptcies</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Privacy</classifier>
+        <location class="indexing_service">Texas</location>
+        <org class="indexing_service">Living.com</org>
+        <person class="indexing_service">Cornyn, John (Atty Gen)</person>
+        <person class="indexing_service">Richtel, Matt</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Texas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Privacy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bankruptcies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Furniture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000927T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801EEDC103AF934A1575AC0A9669C8B63" item-length="214" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>LIMITS ON SALE OF CUSTOMER NAMES</hl1>
+      </hedline>
+      <byline class="print_byline">By Matt Richtel</byline>
+      <byline class="normalized_byline">Richtel, Matt</byline>
+      <abstract>
+        <p>Living.com, bankrupt Internet furniture retailer, will not be allowed to sell customer lists without customer consent under settlement proposed by office of Texas attorney general, John Cornyn (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Living.com, a bankrupt Internet furniture retailer, will not be allowed to sell customer lists without customer consent under a settlement proposed by the office of the Texas attorney general, John Cornyn. He proposed the settlement in a federal bankruptcy court in Austin amid general concerns from privacy advocates that defunct dot-com companies will seek to sell, as assets, names and other data from their customer lists. In the most widely publicized such case, the Federal Trade Commission sued earlier this year to stop ToySmart.com, a bankrupt toy retailer, from selling such lists as part of its liquidation. For its part, Living.com's privacy policy promised customers their names would not be sold if they registered their objections via e-mail. Under the proposed settlement, customer lists can be sold, but only if those on the lists are informed and given a chance to object.</p>
+        <p>Matt Richtel</p>
+      </block>
+      <block class="full_text">
+        <p>Living.com, a bankrupt Internet furniture retailer, will not be allowed to sell customer lists without customer consent under a settlement proposed by the office of the Texas attorney general, John Cornyn. He proposed the settlement in a federal bankruptcy court in Austin amid general concerns from privacy advocates that defunct dot-com companies will seek to sell, as assets, names and other data from their customer lists. In the most widely publicized such case, the Federal Trade Commission sued earlier this year to stop ToySmart.com, a bankrupt toy retailer, from selling such lists as part of its liquidation. For its part, Living.com's privacy policy promised customers their names would not be sold if they registered their objections via e-mail. Under the proposed settlement, customer lists can be sold, but only if those on the lists are informed and given a chance to object.</p>
+        <p>Matt Richtel</p>
+        <p>TECHNOLOGY BRIEFING: E-COMMERCE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

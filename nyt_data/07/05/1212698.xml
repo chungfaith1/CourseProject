@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Leafs Sign Two</title>
+    <meta content="PL021420" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212698"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PLUS: HOCKEY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hockey, Ice</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Toronto Maple Leafs</org>
+        <person class="indexing_service">Roberts, Gary</person>
+        <person class="indexing_service">Corson, Shayne</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey/National Hockey League/Toronto Maple Leafs</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Hockey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hockey, Ice</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000705T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E1DC1139F936A35754C0A9669C8B63" item-length="98" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Leafs Sign Two</hl1>
+      </hedline>
+      <abstract>
+        <p>Maple Leafs sign free-agent forwards Gary Roberts and Shayne Corson (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Maple Leafs added experience and toughness yesterday, signing the free-agent forwards Gary Roberts and Shayne Corson to multiyear contracts.</p>
+        <p>Roberts had 23 goals and 30 assists in 69 games with the Carolina Hurricanes last season. Corson had 8 goals and 20 assists in 70 games with Montreal.</p>
+      </block>
+      <block class="full_text">
+        <p>The Maple Leafs added experience and toughness yesterday, signing the free-agent forwards Gary Roberts and Shayne Corson to multiyear contracts.</p>
+        <p>Roberts had 23 goals and 30 assists in 69 games with the Carolina Hurricanes last season. Corson had 8 goals and 20 assists in 70 games with Montreal.</p>
+        <p>''I don't have to fight Tie Domi anymore,'' Corson said, referring to the Leafs' strongman.</p>
+        <p>Shayne Corson doesn't have to fight Tie Domi and I don't have to fight Shayne Corson, Roberts said. ''So I think we're all going to get along just fine.''</p>
+        <p>PLUS: HOCKEY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

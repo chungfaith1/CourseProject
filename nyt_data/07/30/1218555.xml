@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV121325" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1218555"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Antrim, Taylor</person>
+        <person class="indexing_service">Marder, Herbert</person>
+        <person class="indexing_service">Woolf, Virginia (1882-1941)</person>
+        <object.title class="indexing_service">Measure of Life, The: Virginia Woolf's Last Years (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000730T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E2D61F3BF933A05754C0A9669C8B63" item-length="301" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Taylor Antrim</byline>
+      <byline class="normalized_byline">Antrim, Taylor</byline>
+      <abstract>
+        <p>Taylor Antrim reviews book The Measure of Life: Virginia Woolf's Last Years by Herbert Marder (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE MEASURE OF LIFE</p>
+        <p>Virginia Woolf's Last Years.</p>
+        <p>By Herbert Marder.</p>
+        <p>Cornell University, $35.</p>
+      </block>
+      <block class="full_text">
+        <p>THE MEASURE OF LIFE</p>
+        <p>Virginia Woolf's Last Years.</p>
+        <p>By Herbert Marder.</p>
+        <p>Cornell University, $35.</p>
+        <p>Given the saturated field of Virginia Woolf biography, any new entry invites accusations of superfluity. Herbert Marder's book nevertheless has its twist: his is a study of Woolf in the 1930's, in the last decade of her life, after her career-making novels had been published, when she was transformed from a writer susceptible to charges of political irrelevance to one who took on a declamatory, accusatory, often rough and imperfect artistic voice. ''The complexity of her outlook in the 1930's contrasted sharply with the prevailing calls for ideological purity and the simple taking of sides,'' writes Marder, an emeritus professor of English at the University of Illinois. Woolf's major works of the decade -- The Years,'' ''Three Guineas'' and ''Between the Acts'' -- all attempt to give expression to her pacifism and rejection of the heroic soldier ideal. There's little new biographical material in ''The Measure of Life'' and less in the way of thesis or argument, and Marder's readings of the novels seem incidental and excisable. He does offer a supple narrative, a steady serving of biographical observation, the best of which focuses on Woolf's long-term fascination with drowning and death. In Marder's sensitive account, Woolf's suicide is not the unexplainable tragedy of madness, but rather the measured end of a narrative, as inevitable as it is unhappy.</p>
+        <p>Taylor Antrim</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

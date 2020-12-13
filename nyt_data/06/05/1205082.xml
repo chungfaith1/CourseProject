@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="05INSI$05" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1205082"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000605T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E4D7163FF936A35755C0A9669C8B63" item-length="89" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bitter Divisions in Lebanon  The long years when an Israeli-backed militia controlled southern Lebanon drove a wedge between many families and towns.</p>
+        <p>PAGE A6</p>
+        <p>Lakers Reach N.B.A. Finals  Los Angeles, down by 16 points, beat the Portland Trail Blazers, 89-84, and now faces the Indiana Pacers.</p>
+        <p>SPORTSMONDAY, PAGE D1</p>
+      </block>
+      <block class="full_text">
+        <p>Bitter Divisions in Lebanon  The long years when an Israeli-backed militia controlled southern Lebanon drove a wedge between many families and towns.</p>
+        <p>PAGE A6</p>
+        <p>Lakers Reach N.B.A. Finals  Los Angeles, down by 16 points, beat the Portland Trail Blazers, 89-84, and now faces the Indiana Pacers.</p>
+        <p>SPORTSMONDAY, PAGE D1</p>
+        <p>Derby Winner Sidelined  Fusaichi Pegasus will not run in the Belmont Stakes because of an injury.</p>
+        <p>PAGE D1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

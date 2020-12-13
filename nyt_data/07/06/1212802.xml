@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Vanguard Japan Venture</title>
+    <meta content="Y06FUND" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212802"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Mutual Funds</classifier>
+        <location class="indexing_service">Japan</location>
+        <org class="indexing_service">Vanguard Group Inc</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Japan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mutual Funds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000706T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E2DB1E39F935A35754C0A9669C8B63" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Vanguard Japan Venture</hl1>
+      </hedline>
+      <dateline>TOKYO, July 5 (Dow Jones)</dateline>
+      <abstract>
+        <p>Vanguard Group plans to start offering US mutual funds in Japan by end of September (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Vanguard Group, the world's second-largest mutual fund company, said today that it planned to start offering United States mutual funds in Japan by the end of September. Vanguard, which is based in Malvern, Pa., will initially offer two funds: the Vanguard 500 Index Fund, based on the Standard &amp; Poor's 500-stock index, and the Vanguard Small-Cap Index Fund, based on the Russell 2000 index. The funds will be offered online through an arrangement with the online brokerage firm Monex Inc.</p>
+      </block>
+      <block class="full_text">
+        <p>The Vanguard Group, the world's second-largest mutual fund company, said today that it planned to start offering United States mutual funds in Japan by the end of September. Vanguard, which is based in Malvern, Pa., will initially offer two funds: the Vanguard 500 Index Fund, based on the Standard &amp; Poor's 500-stock index, and the Vanguard Small-Cap Index Fund, based on the Russell 2000 index. The funds will be offered online through an arrangement with the online brokerage firm Monex Inc.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

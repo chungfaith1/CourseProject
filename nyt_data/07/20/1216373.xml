@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Business; High-Speed Network</title>
+    <meta content="MB024430" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1216373"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <location class="indexing_service">New York City</location>
+        <org class="indexing_service">Intellispace</org>
+        <person class="indexing_service">Blair, Jayson</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000720T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E3D81F3BF933A15754C0A9669C8B63" item-length="71" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Business; High-Speed Network</hl1>
+      </hedline>
+      <byline class="print_byline">By Jayson Blair</byline>
+      <byline class="normalized_byline">Blair, Jayson</byline>
+      <abstract>
+        <p>IntelliSpace, largest commercial fiber optic wiring company in New York City, announces installation of fastest metropolitan area network in country (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IntelliSpace, the largest commercial fiber optic wiring company in New York City, announced the installation yesterday of the fastest metropolitan area network in the country.</p>
+      </block>
+      <block class="full_text">
+        <p>IntelliSpace, the largest commercial fiber optic wiring company in New York City, announced the installation yesterday of the fastest metropolitan area network in the country.</p>
+        <p>The network moves information at 10 gigabits per second and is designed to be a backbone for hundreds of networks, IntelliSpace officials said yesterday. The move is the first step in a 20-city introduction of such networks, officials added.</p>
+        <p>Jayson Blair (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

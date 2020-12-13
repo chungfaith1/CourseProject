@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Challenge For Microsoft Is in Middleware</title>
+    <meta content="29SOFT" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203316"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Antitrust Actions and Laws</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <classifier class="indexing_service" type="descriptor">States (US)</classifier>
+        <org class="indexing_service">Microsoft Corp</org>
+        <org class="indexing_service">Justice Department</org>
+        <person class="indexing_service">Lohr, Steve</person>
+        <person class="indexing_service">Jackson, Thomas Penfield (Judge)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">States (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Antitrust Actions and Laws</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000529T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE2DD1F3DF93AA15756C0A9669C8B63" item-length="1426" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Challenge For Microsoft Is in Middleware</hl1>
+      </hedline>
+      <byline class="print_byline">By STEVE LOHR</byline>
+      <byline class="normalized_byline">Lohr, Steve</byline>
+      <abstract>
+        <p>Middleware, a layer of software residing above the operating system that acts as a technology translator between it and the various applications programs that people use to carry out tasks, emerges as focus of government's antitrust suit against Microsoft Corp; Judge Thomas Penfield Jackson has written that Microsoft repeatedly broke nation's antitrust laws because middleware threatened to demolish its coveted monopoly; rationale of Justice Department and states in calling for Microsoft to be split in two is largely to make the world safe for middleware, which has been around since mainframe days but has taken on far more significant role because of Internet and rise of electronic commerce; Microsoft says Jackson and government do not understand software business and define middleware so broadly as to include virtually any feature Microsoft might add to its operating systems (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The government's antitrust suit against Microsoft has provided plenty of surprises the last two years. But surely one of its most remarkable byproducts is that a nerdish bit of computer plumbing called middleware has emerged as the star of the case and a focus of public-policy debate in the Internet age.</p>
+        <p>In his legal ruling last month, Judge Thomas Penfield Jackson had no doubts about what so frightened Microsoft that it repeatedly violated the nation's antitrust laws. ''Middleware,'' he wrote, ''threatened to demolish Microsoft's coveted monopoly power.''</p>
+      </block>
+      <block class="full_text">
+        <p>The government's antitrust suit against Microsoft has provided plenty of surprises the last two years. But surely one of its most remarkable byproducts is that a nerdish bit of computer plumbing called middleware has emerged as the star of the case and a focus of public-policy debate in the Internet age.</p>
+        <p>In his legal ruling last month, Judge Thomas Penfield Jackson had no doubts about what so frightened Microsoft that it repeatedly violated the nation's antitrust laws. ''Middleware,'' he wrote, ''threatened to demolish Microsoft's coveted monopoly power.''</p>
+        <p>And when the Justice Department and states suing Microsoft called earlier this month for the company to be split in two, the rationale for such a harsh remedy was largely to make the world safe for middleware -- a layer of software that acts as a technology translator between the basic computer operating system and the various applications programs that people use to carry out tasks.</p>
+        <p>''Microsoft,'' the government declared, ''has repeatedly, and in a variety of ways, used the monopoly power of its operating systems to prevent the development, distribution and success of middleware products.''</p>
+        <p>Judge Jackson may well issue his remedies order later this week -- probably approving the government's call for a breakup, antitrust experts say. Anticipating that, Microsoft on Friday postponed a gathering of news media and industry analysts that had been scheduled for this Thursday.</p>
+        <p>At the event, rescheduled for June 22, the company was to detail its technology plans for the next few years, including an initiative called ''Next Generation Windows Services.'' To its critics, the Microsoft effort appears to be intended to fold more Internet software into its industry-standard Windows operating system. And such a move, they say, would be a rerun of the very tactics the government cited in asking for a breakup.</p>
+        <p>''Microsoft,'' the government said, ''has combined the software code of separate middleware products with the code of its monopoly operating system -- again with the purpose and effect of foreclosing customer choice and excluding competition.''</p>
+        <p>But to Microsoft, the middleware declarations of Judge Jackson and the government reflect a puzzling inability of those in Washington to comprehend the software business.</p>
+        <p>''The government,'' Microsoft wrote in reply, ''seeks to regulate Microsoft's inclusion of any 'middleware' in Windows -- a term the government defines so broadly as to include virtually any feature Microsoft might add to its operating systems.''</p>
+        <p>So what is all the fuss about anyway?</p>
+        <p>Middleware, a layer of software residing above the operating system that applications can run on, has been around since the mainframe days. But it has taken on a far more significant role in recent years because of the Internet and the rise of electronic commerce.</p>
+        <p>Unlike desktop computing, which Microsoft dominates through its Windows operating system, Internet computing is based on open communications standards that are not owned or controlled by any single software maker.</p>
+        <p>As electronic commerce spreads, more and more companies are writing Internet applications -- for sharing data, handling transactions and so on -- that are written to run on top of a layer of middleware. Because middleware runs on a variety of operating systems, programmers can write a single version of an application, rather than having to write various versions for different operating systems, like Windows and Unix.</p>
+        <p>The Internet is a diverse, global network, and middleware can serve as the translator that enables the different dialects of computing to communicate.</p>
+        <p>''As these distributed Internet applications increase, so does the use of middleware,'' said Dan Kusnetzky, an analyst at the International Data Corporation, a research firm. ''And that makes operating systems less and less important.''</p>
+        <p>Bill Raduchel, the chief technology officer of America Online, observed, ''Almost all the new applications in computing are being written above the operating system. The challenge in software now is to write for the middleware.''</p>
+        <p>The Internet middleware business is growing fast, but still in its infancy. There are perhaps 200 suppliers. International Data estimated middleware sales at $2.77 billion last year, up 66 percent from two years earlier. Both growth and consolidation are predicted for the future.</p>
+        <p>''The big battle of this decade is going to be in middleware, not operating systems,'' said John Swainson, a general manager in I.B.M.'s software group.</p>
+        <p>Microsoft, not surprisingly, views things quite differently. ''We focus on the platform -- the set of technologies and services that software developers need to write programs,'' said Tod Nielsen, vice president of Microsoft's platform group. ''Drawing a distinction between the operating system and middleware isn't something we necessarily do.''</p>
+        <p>Microsoft's platform group is creating the so-called Next Generation Windows Services. Many of the details are not known, but generally it is an effort to have software developers write the new wave of Internet applications to run on Microsoft's layer of software instead of on middleware provided by other companies.</p>
+        <p>One Microsoft executive explained, ''Think of these new Windows services as A.P.I.'s for the Internet.'' A.P.I.'s, or application program interfaces, are the software hooks to which programmers must tailor their applications if they are to run smoothly. In the government's antitrust suit, the Windows A.P.I.'s were portrayed as a key instrument of the company's control of the industry -- enabling Microsoft to withhold or delay rivals' access to that technology.</p>
+        <p>But Internet middleware could allow software developers to write for the middleware A.P.I.'s instead of Windows A.P.I.'s.</p>
+        <p>''Microsoft's monopoly is particularly threatened by the development of 'cross-platform middleware' -- software that exposes A.P.I.'s that are not controlled by Microsoft and that could be accessed using a wide range of operating systems,'' Rebecca Henderson, a professor at the Massachusetts Institute of Technology's Sloan School of Management, wrote in a brief on behalf of the government.</p>
+        <p>Microsoft views its Internet initiative as repeating its past behavior, but in a very different light than its critics. Just as Windows took care of the innards of personal computing, Microsoft executives say they want to perform a similar role with Internet software. ''Software developers want a solid foundation, so they can write value-added products, not plumbing,'' Mr. Nielsen said.</p>
+        <p>To Microsoft, the Next Generation Windows Services program could supply that ''solid foundation'' for the Internet. And the project, Microsoft protested in a court filing last week, ''will be doomed to failure at the outset if Microsoft is split along the arbitrary lines proposed by the government.''</p>
+        <p>In the more closed environment of the personal computer business, of course, no company benefited as much as Microsoft, since it owned the industry-standard technology. With the open technology standards of the Internet, however, Microsoft will face a very different business.</p>
+        <p>''The Next Generation Windows Services is part of the repositioning of the company to compete in this evolving Internet world,'' said Ted Schadler, an analyst at Forrester Research Inc. ''But it's not the PC model. No one can own the standards, and Microsoft knows that. If they're not open, they're toast.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

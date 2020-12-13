@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="29ALCX3" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Arts; Corrections" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1242872"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Design</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <org class="indexing_service">Zone Books</org>
+        <person class="indexing_service">Mau, Bruce</person>
+        <person class="indexing_service">Feher, Michel</person>
+        <person class="indexing_service">Panofsky, Erwin</person>
+        <person class="indexing_service">Bataille, Georges</person>
+        <person class="indexing_service">Pearlman, Chee</person>
+        <person class="indexing_service">Foster,  Hal</person>
+        <person class="indexing_service">Naddaff, Ramona</person>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001029T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E5D61E31F93AA15753C1A9669C8B63" item-length="162" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of October 15 article on design trends and work of graphic designers Bruce Mau and Zone Books, which misspelled names of Michel Feher, Erwin Panofsky, Georges Bataille and Chee Pearlman and omitted names of Zone editors Hal Foster and Ramona Naddaff (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An article on Oct. 15 about trends in design and the work of the graphics designer Bruce Mau with Zone Books misspelled the surname of one of the imprint's editors. He is Michel Feher, nor Fehrer. The article omitted the names of two other prominent editors at Zone who have worked with Mr. Mau; they are Hal Foster and Ramona Naddaff. The article also misspelled the surnames of two authors published by Zone. They are the art historian Erwin Panofsky, not Panovsky, and the philosopher Georges Bataille, not Batailles. And the article misspelled the surname of a former editor of I.D., a leading magazine in the field. She is Chee Pearlman, not Perlman.</p>
+      </block>
+      <block class="full_text">
+        <p>An article on Oct. 15 about trends in design and the work of the graphics designer Bruce Mau with Zone Books misspelled the surname of one of the imprint's editors. He is Michel Feher, nor Fehrer. The article omitted the names of two other prominent editors at Zone who have worked with Mr. Mau; they are Hal Foster and Ramona Naddaff. The article also misspelled the surnames of two authors published by Zone. They are the art historian Erwin Panofsky, not Panovsky, and the philosopher Georges Bataille, not Batailles. And the article misspelled the surname of a former editor of I.D., a leading magazine in the field. She is Chee Pearlman, not Perlman.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

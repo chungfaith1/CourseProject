@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OFF THE MENU</title>
+    <meta content="24OFF.$03" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201914"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <org class="indexing_service">A-Z (NYC Restaurant)</org>
+        <org class="indexing_service">Rhone Bar (NYC Restaurant)</org>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Off the Menu</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000524T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E7DE163DF937A15756C0A9669C8B63" item-length="312" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OFF THE MENU</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>Florence Fabricant reports on changes in restaurant scene, including opening of A-Z and Rhone Bar in Manhattan (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Brooklyn Bonbons</p>
+        <p>Jacques Torres, the executive pastry chef at Le Cirque for nearly 12 years, will leave at the end of June to work on the wholesale chocolate factory he plans to open in Brooklyn. He hopes to sell his products to restaurants and to retail customers through a Web site and eventually a retail store. Patrice Caillot, who was at Le Cirque in Las Vegas, will replace him at Le Cirque 2000.</p>
+      </block>
+      <block class="full_text">
+        <p>Brooklyn Bonbons</p>
+        <p>Jacques Torres, the executive pastry chef at Le Cirque for nearly 12 years, will leave at the end of June to work on the wholesale chocolate factory he plans to open in Brooklyn. He hopes to sell his products to restaurants and to retail customers through a Web site and eventually a retail store. Patrice Caillot, who was at Le Cirque in Las Vegas, will replace him at Le Cirque 2000.</p>
+        <p>A to Z on 3 Levels</p>
+        <p>There's nothing simple about A-Z, which just opened at 21 West 17th Street. How about a third-floor open-air dining room with a greenhouse roof that can zip itself closed at the first raindrop? Or a 500-bottle wine list that has categories like ''earth'' and ''wind''? Even the name is a play on words: it's pronounced ah-ZEE, like the French word for Asia, to suggest the fusion food prepared by Patricia Yeo. It's a handsome place, with a ground floor lounge and a second-floor banquet space under that terrace-like dining room on top.</p>
+        <p>Rhone Appreciation</p>
+        <p>Two sommeliers, Vincent Seufert and Jeffrey Goldenstein, have turned their passion for the wines of the Rhone Valley into the Rhone Bar, 63 Gansevoort Street (Greenwich Street), opening tomorrow. They pour wines from 16 Rhone appellations, with food by Payson Dennis.</p>
+        <p>Seafood in the Rough</p>
+        <p>Jasper White, the Boston chef who closed his eponymous restaurant five years ago and became a consultant, has just opened Summer Shack in Cambridge, Mass. It's designed like a clam shack but with 300 seats.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Endorsements by Two Conservation Groups</title>
+    <meta content="13ENVI" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/13/nyregion/13ENVI.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1238428"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Elections</classifier>
+        <classifier class="indexing_service" type="descriptor">Endorsements</classifier>
+        <classifier class="indexing_service" type="descriptor">Environment</classifier>
+        <classifier class="indexing_service" type="descriptor">Election Issues</classifier>
+        <location class="indexing_service">New York State</location>
+        <org class="indexing_service">Senate (US)</org>
+        <org class="indexing_service">New York League of Conservation Voters</org>
+        <org class="indexing_service">League of Conservation Voters</org>
+        <person class="indexing_service">Clinton, Hillary Rodham</person>
+        <person class="indexing_service">Lazio, Rick A (Repr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001013T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05EEDA153FF930A25753C1A9669C8B63" item-length="169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Endorsements by Two Conservation Groups</hl1>
+      </hedline>
+      <abstract>
+        <p>New York League of Conservation Voters endorses Hillary Rodham Clinton in her bid for US Senate seat; national League of Conservation Voters says Clinton and Rep Rick A Lazio demonstrate equal resolve to curb environmental abuses (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The New York League of Conservation Voters, an environmental group, voted last night to endorse Hillary Rodham Clinton in her bid for a United States Senate seat. In a separate announcement, another group, the national League of Conservation Voters, endorsed both Mrs. Clinton, the Democratic nominee, and her Republican opponent, Representative Rick A. Lazio.</p>
+        <p>The New York League, a supporter of Gov. George E. Pataki, a Republican, had been deeply divided over the candidates.</p>
+      </block>
+      <block class="full_text">
+        <p>The New York League of Conservation Voters, an environmental group, voted last night to endorse Hillary Rodham Clinton in her bid for a United States Senate seat. In a separate announcement, another group, the national League of Conservation Voters, endorsed both Mrs. Clinton, the Democratic nominee, and her Republican opponent, Representative Rick A. Lazio.</p>
+        <p>The New York League, a supporter of Gov. George E. Pataki, a Republican, had been deeply divided over the candidates.</p>
+        <p>The league said that although Mrs. Clinton does not have a legislative record, she demonstrated in interviews with the group a command of the issues and the potential for strong leadership.</p>
+        <p>The national league, which is not affiliated with the New York group, said both candidates demonstrated an equal resolve to curb environmental abuses.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>EXECUTIVE CHANGES</title>
+    <meta content="Y29EXEC" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1226140"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">APPOINTMENTS AND EXECUTIVE CHANGES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000829T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CEFDB1E31F93AA1575BC0A9669C8B63" item-length="169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>EXECUTIVE CHANGES</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BORDERS GROUP, Ann Arbor, Mich., named Edward Wilhelm, vice president for finance at Borders Inc., to the post of senior vice president and chief financial officer. He succeeds Kenneth Scheve, who is retiring.</p>
+      </block>
+      <block class="full_text">
+        <p>BORDERS GROUP, Ann Arbor, Mich., named Edward Wilhelm, vice president for finance at Borders Inc., to the post of senior vice president and chief financial officer. He succeeds Kenneth Scheve, who is retiring.</p>
+        <p>CONVERGENCE COMMUNICATIONS, Salt Lake City, named Douglas K. Jacobs chief executive, succeeding Lance D'Ambrosio, who remains chairman. Mr. Jacobs had been senior vice president and a regional president at Alcatel USA.</p>
+        <p>PRINCETON ECOM, Princeton, N.J., named Curtis R. Welling chief executive, succeeding Donald C. Licciardello, who remains chairman. Mr. Welling had been executive vice president at SG Americas as well as president and chief executive at SG Cowen Securities Corp.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

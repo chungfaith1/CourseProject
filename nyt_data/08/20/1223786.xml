@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fuzzy Little Test Tubes</title>
+    <meta content="LTR093652" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1223786"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MEDICINE AND HEALTH</classifier>
+        <classifier class="indexing_service" type="descriptor">Mice</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <person class="indexing_service">Osborne, Lawrence</person>
+        <person class="indexing_service">Kottler, Janet Robinson</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000820T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9801E1DE1E3FF933A1575BC0A9669C8B63" item-length="103" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fuzzy Little Test Tubes</hl1>
+      </hedline>
+      <abstract>
+        <p>Janet Robinson Kottler letter praises Lawrence Osborne's personal insights and humor in July 30 article on lab micee</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Rarely have I so enjoyed an article on so gruesome a topic. Lawrence Osborne (July 30) provided facts along with personal insights and humor while presenting a moral dilemma. Catherine Chalmers's photographs made an eloquent statement, too. The article went right to my heart, though I have no answers.</p>
+        <p>Janet Robinson Kottler  Boca Raton, Fla.</p>
+      </block>
+      <block class="full_text">
+        <p>Rarely have I so enjoyed an article on so gruesome a topic. Lawrence Osborne (July 30) provided facts along with personal insights and humor while presenting a moral dilemma. Catherine Chalmers's photographs made an eloquent statement, too. The article went right to my heart, though I have no answers.</p>
+        <p>Janet Robinson Kottler  Boca Raton, Fla.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Unplugged, and Smug</title>
+    <meta content="MB232834" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203108"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PRIVATE SECTOR"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <org class="indexing_service">Microsoft Corp</org>
+        <person class="indexing_service">Feder, Barnaby J</person>
+        <person class="indexing_service">Branson, Richard (Sir)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000528T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E7D7113DF93BA15756C0A9669C8B63" item-length="119" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Unplugged, and Smug</hl1>
+      </hedline>
+      <byline class="print_byline">By BARNABY J. FEDER</byline>
+      <byline class="normalized_byline">Feder, Barnaby J</byline>
+      <abstract>
+        <p>Sir Richard Branson reckons he was the only one among 141 executives attending Microsoft's recent conference for CEOs who was not affected by 'Love Bug' e-mail computer virus; Branson relies on paper notebooks and an old-fashioned address book; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sir Richard Branson, the self-described ''technophobe'' whose fortune derives from music and airline ventures under the Virgin brand, looked quite at home briefing reporters last week during a break in Microsoft's closed-door gathering for chief executives.</p>
+      </block>
+      <block class="full_text">
+        <p>Sir Richard Branson, the self-described ''technophobe'' whose fortune derives from music and airline ventures under the Virgin brand, looked quite at home briefing reporters last week during a break in Microsoft's closed-door gathering for chief executives.</p>
+        <p>But while fellow business leaders spoke of the wonders of technology, Sir Richard couldn't help hazarding a guess that he was the only one among the more than 140 executives completely unaffected by the malicious ''I Love You'' program. His secret: he sticks to notebooks (the paper variety) and an old-fashioned address book.</p>
+        <p>BARNABY J. FEDER</p>
+        <p>PRIVATE SECTOR</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

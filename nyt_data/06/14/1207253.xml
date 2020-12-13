@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tests' Economic Bias</title>
+    <meta content="L14TES$01" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1207253"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <classifier class="indexing_service" type="descriptor">Discrimination</classifier>
+        <classifier class="indexing_service" type="descriptor">Admissions Standards</classifier>
+        <classifier class="indexing_service" type="descriptor">Scholastic Assessment Test</classifier>
+        <person class="indexing_service">Madsen, David W</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Admissions Standards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000614T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DEFDD123EF937A25755C0A9669C8B63" item-length="164" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tests' Economic Bias</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by David W Madsen of Seattle University says SAT tes</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In ''Mount Holyoke Drops SAT Requirement'' (news article, June 7), you say that many educational institutions have ''recently moved to de-emphasize College Board scores to ward off criticism from opponents of affirmative action, since whites tend to perform better on such tests than black and Hispanic students.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In ''Mount Holyoke Drops SAT Requirement'' (news article, June 7), you say that many educational institutions have ''recently moved to de-emphasize College Board scores to ward off criticism from opponents of affirmative action, since whites tend to perform better on such tests than black and Hispanic students.''</p>
+        <p>I would argue that it is not so much cultural bias that makes the tests problematic as it is the increasing use of test-preparation programs. Those who can afford the extensive prep courses available for the SAT and graduate admissions tests corrupt the process and render the test scores poor indicators of student learning or potential. The bias is increasingly economic, not cultural.</p>
+        <p>DAVID W. MADSEN  Seattle, June 8, 2000</p>
+        <p>The writer is director of the honors program at Seattle University.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

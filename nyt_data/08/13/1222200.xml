@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Whitman Phrase</title>
+    <meta content="LTR224048" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1222200"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="THE TROJANS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Kupferberg, Herbert</person>
+        <person class="indexing_service">Gurewitsch, Matthew</person>
+        <person class="indexing_service">Whitman, Walt (1819-92)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000813T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04EEDC143FF930A2575BC0A9669C8B63" item-length="89" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Whitman Phrase</hl1>
+      </hedline>
+      <abstract>
+        <p>Herbert Kupferberg letter on Matthew Gurewitsch's July 23 article notes phrase 'the matter of Troy' was first used by Walt Whitman in 1871 poem Song of the Exposition (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In his article ''The Epic That Raised a Thousand Curtains'' [July 23], Matthew Gurewitsch mentions ''what the literati used to call 'the matter of Troy.' '' I don't know which literati he means, but the phrase was first used by Walt Whitman in his 1871 poem ''Song of the Exposition.'' Whitman called upon the poetic Muse to abandon its ancient subjects -- ''That matter of Troy and Achilles' wrath'' -- and take up residence instead in the New World of industry, invention and technology.</p>
+        <p>HERBERT KUPFERBERG  Manhattan</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In his article ''The Epic That Raised a Thousand Curtains'' [July 23], Matthew Gurewitsch mentions ''what the literati used to call 'the matter of Troy.' '' I don't know which literati he means, but the phrase was first used by Walt Whitman in his 1871 poem ''Song of the Exposition.'' Whitman called upon the poetic Muse to abandon its ancient subjects -- ''That matter of Troy and Achilles' wrath'' -- and take up residence instead in the New World of industry, invention and technology.</p>
+        <p>HERBERT KUPFERBERG  Manhattan</p>
+        <p>THE TROJANS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

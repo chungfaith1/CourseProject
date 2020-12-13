@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In France? Non</title>
+    <meta content="LTR012752" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1199298"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="SUMMER FILMS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Circuses</classifier>
+        <org class="indexing_service">Cirque Du Soleil</org>
+        <person class="indexing_service">Gates, Anita</person>
+        <person class="indexing_service">Champion, Lana</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Circuses</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000514T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E4D8163BF937A25756C0A9669C8B63" item-length="90" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In France? Non</hl1>
+      </hedline>
+      <abstract>
+        <p>Lana Champion letter disputes Anita Gates's description of Cirque de Soleil in April 30 article as French circus troupe (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I am Canadian, and so is the Cirque du Soleil. In ''A Summer of Little Action, Lots of Love and Laughs'' [April 30], Anita Gates describes the Cirque du Soleil as the renowned French circus troupe. They are based in Montreal, which is definitely (regrettably, some separatists might say) located in Canada.</p>
+        <p>LANA CHAMPION  Toronto</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I am Canadian, and so is the Cirque du Soleil. In ''A Summer of Little Action, Lots of Love and Laughs'' [April 30], Anita Gates describes the Cirque du Soleil as the renowned French circus troupe. They are based in Montreal, which is definitely (regrettably, some separatists might say) located in Canada.</p>
+        <p>LANA CHAMPION  Toronto</p>
+        <p>SUMMER FILMS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

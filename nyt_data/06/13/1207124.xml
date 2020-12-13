@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Accounts</title>
+    <meta content="MB000644" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1207124"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="THE MEDIA BUSINESS: ADVERTISING -- ADDENDA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Account Changes</classifier>
+        <person class="indexing_service">Fass, Allison</person>
+        <object.title class="indexing_service">Advertising (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Addenda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C03E6DB153EF930A25755C0A9669C8B63" item-length="342" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Accounts</hl1>
+      </hedline>
+      <byline class="print_byline">By Allison Fass</byline>
+      <byline class="normalized_byline">Fass, Allison</byline>
+      <abstract>
+        <p>Roundup of recent advertising account changes (Advertising column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>* Missouri Tourism Commission, Jefferson City, Mo., to MMG Worldwide, Kansas City, Mo., to handle its account, which had been at Muller &amp; Co., also in Kansas City. Billings were estimated at $8 million.  * Pointpathbank, Columbus, Ga., part of the Synovus Financial Corp., an online bank that specializes in financial services for married and engaged couples, to Bayless Cronin, Atlanta, part of the Merkley Newman Harty unit of the Omnicom Group, to handle its first online account. Spending was estimated at $5 million.</p>
+      </block>
+      <block class="full_text">
+        <p>* Missouri Tourism Commission, Jefferson City, Mo., to MMG Worldwide, Kansas City, Mo., to handle its account, which had been at Muller &amp; Co., also in Kansas City. Billings were estimated at $8 million.  * Pointpathbank, Columbus, Ga., part of the Synovus Financial Corp., an online bank that specializes in financial services for married and engaged couples, to Bayless Cronin, Atlanta, part of the Merkley Newman Harty unit of the Omnicom Group, to handle its first online account. Spending was estimated at $5 million.</p>
+        <p>* EverydayOffice.com, New York, a Web site with services like accounting, management, scheduling, e-mail and direct mail, to FDG, New York, and Monsoon, Philadelphia, to handle its first account. Billings were estimated at $5 million.  * iTract, New York, an online direct marketing system, to Mezzina Brown &amp; Partners, New York, to handle its first integrated account. Billings were estimated at $3 million.  * Golf magazine, New York, part of Times Mirror Magazines, to Oasis, New York, to handle the first account for its Web site, Golfonline .com. Billings were not disclosed.</p>
+        <p>THE MEDIA BUSINESS: ADVERTISING -- ADDENDA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

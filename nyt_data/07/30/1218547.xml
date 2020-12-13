@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Homeric Feats</title>
+    <meta content="LTR112831" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1218547"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Simms, Robert M</person>
+        <person class="indexing_service">Hedges, Chris</person>
+        <person class="indexing_service">Lombardo, Stanley</person>
+        <person class="indexing_service">Lattimore, Richmond</person>
+        <person class="indexing_service">Homer (Greek Poet)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000730T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905EED71F3BF933A05754C0A9669C8B63" item-length="174" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Homeric Feats</hl1>
+      </hedline>
+      <abstract>
+        <p>Robert M Simms on July 9 article disagrees with Chris Hedges comparison of Stanley Lombardo's translations of Homer with those of Richmond Lattimore (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>It is unfortunate that Chris Hedges chose to set Stanley Lombardo's translations of Homer against those of Richmond Lattimore (July 9). Those who have spent time with Lattimore will challenge the assertion that his versions are ''florid'' and ''can take two or three lines to explain the proper nuances of the Greek.'' In fact, Lattimore's angular translations reflect great exertion to keep to the Homeric lines, and his language is equal in directness to Lombardo's. What Lattimore has that Lombardo does not, as Hedges concedes, is faithfulness to the Greek. Lombardo has really done nothing more than update the ''Odyssey'' of Robert Fitzgerald, which has long been called ''Fitzgerald's Odyssey.''</p>
+        <p>Robert M. Simms  New York</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>It is unfortunate that Chris Hedges chose to set Stanley Lombardo's translations of Homer against those of Richmond Lattimore (July 9). Those who have spent time with Lattimore will challenge the assertion that his versions are ''florid'' and ''can take two or three lines to explain the proper nuances of the Greek.'' In fact, Lattimore's angular translations reflect great exertion to keep to the Homeric lines, and his language is equal in directness to Lombardo's. What Lattimore has that Lombardo does not, as Hedges concedes, is faithfulness to the Greek. Lombardo has really done nothing more than update the ''Odyssey'' of Robert Fitzgerald, which has long been called ''Fitzgerald's Odyssey.''</p>
+        <p>Robert M. Simms  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

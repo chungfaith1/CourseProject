@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DINER'S JOURNAL</title>
+    <meta content="25JOUR" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Leisure/Weekend Desk" name="dsk"/>
+    <meta content="39" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225049"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Restaurants</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <org class="indexing_service">Montparnasse (New York City Restaurant)</org>
+        <person class="indexing_service">Grimes, William</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Restaurant Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Diner's Journal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="general_descriptor">Restaurants</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000825T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E3D71631F936A1575BC0A9669C8B63" item-length="379" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DINER'S JOURNAL</hl1>
+      </hedline>
+      <byline class="print_byline">By William Grimes</byline>
+      <byline class="normalized_byline">Grimes, William</byline>
+      <abstract>
+        <p>William Grimes Diner's Journal offers brief review of new Manhattan bistro, Montparnasse; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A face-lift, a name change and a new chef have turned the pricey, pan-Mediterranean Scarabee into Montparnasse, a good-looking bistro that just wants to be liked. The murky interior has been brightened, sidewalk tables and booths have been added, and attractive French advertising posters now hang from the walls.</p>
+        <p>The culinary ambitions have been dropped several notches, and a lot of the pretensions have disappeared as well.</p>
+      </block>
+      <block class="full_text">
+        <p>A face-lift, a name change and a new chef have turned the pricey, pan-Mediterranean Scarabee into Montparnasse, a good-looking bistro that just wants to be liked. The murky interior has been brightened, sidewalk tables and booths have been added, and attractive French advertising posters now hang from the walls.</p>
+        <p>The culinary ambitions have been dropped several notches, and a lot of the pretensions have disappeared as well.</p>
+        <p>Claude Chassagne, formerly an instructor at the French Culinary Institute, plays it straight. The menu sticks to classic bistro dishes like hangar steak in a red-wine shallot sauce, served with double-fried frites, or sauteed skate in a brown butter and caper sauce. Diners can even travel back in time to the days of steak Diane, a grilled filet mignon enrobed in a Boredelaise sauce with the luxury add-ons of Cognac and mushrooms. The vintage photographs on the walls, showing Paris scenes from the 1930's, reflect the philosophy at Montparnasse. Old is good.</p>
+        <p>A procession of daily specials sticks to the formula. Monday brings a fish of the day cooked in parchment and served with mushroom duxelles and tomato fondue. Tuesday is braised short ribs with horseradish sauce.</p>
+        <p>Friday is bouillabaisse, and Sunday is poulet chasseur.</p>
+        <p>The befuddled waiters do not seem to know how to get from the kitchen to the tables, and I was ready to send out a search party to track down a lost strawberry napoleon and chocolate gateau with coffee creme anglaise.</p>
+        <p>But Montparnasse, unlike Scarabee, knows what it wants and what it is. That's half the battle. And the world can always make room for one more good hangar steak.</p>
+        <p>Montparnasse, 230 East 51st Street, Manhattan; (212) 758-6633. Dinner entrees, $14 to $21.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

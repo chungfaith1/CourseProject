@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="22INSI$01" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1216726"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000722T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04EED7143AF931A15754C0A9669C8B63" item-length="413" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Online Store Can Sell Data  The Federal Trade Commission reached a settlement to permit Toysmart.com to sell its customer database as part of its bankruptcy proceedings, but it put strict restrictions on the sale.  PAGE C1</p>
+      </block>
+      <block class="full_text">
+        <p>Online Store Can Sell Data  The Federal Trade Commission reached a settlement to permit Toysmart.com to sell its customer database as part of its bankruptcy proceedings, but it put strict restrictions on the sale.  PAGE C1</p>
+        <p>Iran's Campus Evolution  Women in Iran are seeking college educations in historically high numbers as part of a quiet revolution that has wide-ranging social implications. They now make up almost 60 percent of all entrants.  PAGE A3</p>
+        <p>Guilty Plea in Caviar Case  One of the nation's largest caviar importers pleaded guilty to smuggling charges in a case that ranged from the Caspian Sea to the Mississippi River.  PAGE A8</p>
+        <p>Virus Spraying Is Hampered  Mayor Giuliani criticized state and federal environmental officials for blocking New York from spraying in wetlands to kill mosquitoes carrying the West Nile virus. PAGE B1</p>
+        <p>On Deck for Mets: Larkin  The Mets and Reds have agreed to a deal that would bring shortstop Barry Larkin to New York. Larkin, however, must also agree. SPORTSSATURDAY, PAGE D1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

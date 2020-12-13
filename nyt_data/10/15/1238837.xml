@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Manhattan, Step by Step</title>
+    <meta content="MB022238" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1238837"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TRAVEL ADVISORY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Tauranac, John</person>
+        <object.title class="indexing_service">Manhattan Block By Block (Book)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001015T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E7D61F3CF936A25753C1A9669C8B63" item-length="224" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Manhattan, Step by Step</hl1>
+      </hedline>
+      <abstract>
+        <p>John Tauranac, who created New York City subway map, has completed book Manhattan Block by Block (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Manhattan impresses with its skyline, but it reveals its secrets only to those who walk its streets. And John Tauranac is a man from whom Manhattan has little to hide.</p>
+        <p>Mr. Tauranac, creator of the wonderfully lucid New York City subway map, has come up with ''Manhattan Block by Block'' (Tauranac Maps, $14.95). The book is a street-level guide to the borough that points out landmarks like museums, hotels, Broadway theaters, playgrounds, schools, hospitals, parking garages and movie theaters.</p>
+      </block>
+      <block class="full_text">
+        <p>Manhattan impresses with its skyline, but it reveals its secrets only to those who walk its streets. And John Tauranac is a man from whom Manhattan has little to hide.</p>
+        <p>Mr. Tauranac, creator of the wonderfully lucid New York City subway map, has come up with ''Manhattan Block by Block'' (Tauranac Maps, $14.95). The book is a street-level guide to the borough that points out landmarks like museums, hotels, Broadway theaters, playgrounds, schools, hospitals, parking garages and movie theaters.</p>
+        <p>Street numbers are listed for all of Manhattan -- broken down on 94 pages of maps. The book also has citywide subway maps, a Manhattan bus map, and highway and commuter-rail maps. For some light reading among the cartography, Mr. Tauranac has written chapters on the history of Manhattan's street grid and guides to its neighborhoods. The 172-page book, in a pocket-friendly 3 1/4-by-9-inch format, is a result of over three years of walking streets (or, in the case of highways and bridges, riding in a car). ''Manhattan Block by Block,'' distributed by Larry Winderbaum Inc., (212) 481-1588, is sold at bookstores, map stores and other outlets.</p>
+        <p>TRAVEL ADVISORY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

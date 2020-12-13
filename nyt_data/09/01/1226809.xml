@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>F.C.C. Widens Radio Spectrum for Wireless Networks</title>
+    <meta content="Y01SPEC" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/01/technology/01SPEC.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1226809"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Radio</classifier>
+        <org class="indexing_service">Federal Communications Commission</org>
+        <person class="indexing_service">Guernsey, Lisa</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radio</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000901T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE7D81530F932A3575AC0A9669C8B63" item-length="617" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>F.C.C. Widens Radio Spectrum for Wireless Networks</hl1>
+      </hedline>
+      <byline class="print_byline">By LISA GUERNSEY</byline>
+      <byline class="normalized_byline">Guernsey, Lisa</byline>
+      <abstract>
+        <p>Federal Communications Commission says it has eased restrictions on part of radio spectrum; rule change affects 2.4-gigahertz band, area used by companies that produce wireless local-area networks, or LAN's; move may stimulate development of wireless products for home; proponants say opening spectrum will give rise to consumer products that wirelessly transmit large amounts of data (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a move that may stimulate development of wireless products for the home, the Federal Communications Commission announced yesterday that it had eased restrictions on part of the radio spectrum.</p>
+        <p>The rule change affects the 2.4-gigahertz band, an area used by companies that produce wireless local-area networks, or LAN's. Such networks enable people to transmit data from, say, a laptop computer to a desktop computer -- or from either to a printer -- without wires. They have been adopted by office complexes, college campuses and, to a lesser extent, consumers at home.</p>
+      </block>
+      <block class="full_text">
+        <p>In a move that may stimulate development of wireless products for the home, the Federal Communications Commission announced yesterday that it had eased restrictions on part of the radio spectrum.</p>
+        <p>The rule change affects the 2.4-gigahertz band, an area used by companies that produce wireless local-area networks, or LAN's. Such networks enable people to transmit data from, say, a laptop computer to a desktop computer -- or from either to a printer -- without wires. They have been adopted by office complexes, college campuses and, to a lesser extent, consumers at home.</p>
+        <p>Proponents have argued that opening the spectrum will give rise to consumer products that wirelessly transmit large amounts of data, like streaming video and digital music. For example, it may enable someone to send music from a desktop computer to a laptop, or to use a cordless phone to pick up a call that has come in over the Internet.</p>
+        <p>''The rule change has given us everything we need to develop these next-generation wireless devices,'' said Ben Manny, chairman of the HomeRF Working Group, a coalition of technology companies that asked the F.C.C. two years ago to relax its restrictions.</p>
+        <p>Among the members of the Home RF group are Compaq; Intel; Proxim, a wireless LAN company in Sunnyvale, Calif.; and Siemens, which has developed cordless phones that use the 2.4-gigahertz band.</p>
+        <p>From a technical standpoint, the ruling gives new muscle to a radio-signal technique called frequency hopping. For years, proponents of frequency hopping -- who include members of the HomeRF group -- have squared off with engineers who favor a different technique, called direct sequence.</p>
+        <p>Wireless LAN products with direct-sequence systems offer data speeds of up to 10 megabits a second, a rate equal to that on most high-speed networks. But until yesterday, products using frequency hopping could reach speeds of only 1.6 megabits a second.</p>
+        <p>The rule change widens the terrain for frequency hopping by allowing signals to be sent across channels that each span 5 megahertz -- up from the 1 megahertz a channel allowed previously. With the added space, engineers say, HomeRF systems will be able to offer data speeds equal to those of systems based on direct-sequence technology.</p>
+        <p>''It levels the playing field,'' Mr. Manny said.</p>
+        <p>But some companies have already been developing wireless products for consumers based on the direct-sequence technique, which is so far associated with systems that cost more than consumers are willing to pay. Apple Computer, for example, sells a wireless system called AirPort for transferring data between home computers.</p>
+        <p>That several products are already in development has led Jeff Abramowitz, president of the Wireless LAN Association, a trade group, to caution that the change could lead to a plethora of consumer products that run under different systems.</p>
+        <p>''This does create the potential for confusion in the marketplace,'' said Mr. Abramowitz, who is also the vice president for marketing for NoWires Needed, a product that uses the direct-sequence system and is sold by Intersil, a company in Irvine, Calif. ''But in the long term it will not affect what is happening over all.''</p>
+        <p>The F.C.C. ruling did not give the HomeRF advocates everything they wanted. They had asked permission to use 75 channels across the 2.4-gigahertz band. But several engineers protested that hopping frequencies over 75 channels of 5 megahertz in width would lead to interference with other devices, because the channels would have to overlap. The F.C.C. limited the rule change to only 15 permissible channels instead.</p>
+        <p>TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

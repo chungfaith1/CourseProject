@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NEW VERTICALONE BUSINESS</title>
+    <meta content="MB234024" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1226434"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY BRIEFING: INTERNET"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">VerticalOne</org>
+        <org class="indexing_service">S1 Corp</org>
+        <org class="indexing_service">Yahoo Inc</org>
+        <org class="indexing_service">Wells Fargo Bank</org>
+        <person class="indexing_service">Mcgeehan, Patrick</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000830T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B07E0D91630F933A0575BC0A9669C8B63" item-length="92" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NEW VERTICALONE BUSINESS</hl1>
+      </hedline>
+      <byline class="print_byline">By Patrick McGeehan</byline>
+      <byline class="normalized_byline">Mcgeehan, Patrick</byline>
+      <abstract>
+        <p>VerticalOne, unit of S1 Corp, will provide account-aggregation services to Yahoo and Wells Fargo bank, allowing them to provide a single place on the Internet where their customers can keep all of their financial data (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>VerticalOne, a unit of the S1 Corporation, is expected to announce today that it will provide account-aggregation services to Yahoo and to Wells Fargo bank, allowing them to provide a single place on the Internet where their customers can keep all of their financial data, like the balances in their bank and brokerage accounts, frequent-flier programs and credit cards.</p>
+        <p>Patrick McGeehan</p>
+      </block>
+      <block class="full_text">
+        <p>VerticalOne, a unit of the S1 Corporation, is expected to announce today that it will provide account-aggregation services to Yahoo and to Wells Fargo bank, allowing them to provide a single place on the Internet where their customers can keep all of their financial data, like the balances in their bank and brokerage accounts, frequent-flier programs and credit cards.</p>
+        <p>Patrick McGeehan</p>
+        <p>TECHNOLOGY BRIEFING: INTERNET</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

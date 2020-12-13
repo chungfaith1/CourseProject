@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Image Technology Can Drive Shadows Away</title>
+    <meta content="07NEXT$02" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/07/technology/07NEXT.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1228495"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WHAT'S NEXT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Photography</classifier>
+        <classifier class="indexing_service" type="descriptor">Cameras</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings (Video)</classifier>
+        <org class="indexing_service">Columbia University</org>
+        <person class="indexing_service">Eisenberg, Anne</person>
+        <person class="indexing_service">Nayar, Shree K (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/What's Next</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Video)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cameras</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000907T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407E6DD1439F934A3575AC0A9669C8B63" item-length="1054" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Image Technology Can Drive Shadows Away</hl1>
+      </hedline>
+      <byline class="print_byline">By ANNE EISENBERG</byline>
+      <byline class="normalized_byline">Eisenberg, Anne</byline>
+      <abstract>
+        <p>New technology promises to substantially increase dynamic range, gradations of light and dark still and video digital cameras can capture so that details are not washed out by light or concealed by shadows; advance could banish underexposed and overexposed snapshots and have important implications for video surveillance and systems that use images for measurements; technology is combination of software and hardware modifications developed by Columbia University researchers led by Dr Shree K Nayar; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE megapixel race has been the whole game in digital cameras for the past two years, as the cameras have gone from one megapixel or less to sharper, clearer images of nearly four megapixels.</p>
+        <p>That's all about resolution. But another crucial aspect of capturing a high-quality image has lagged far behind, and that is dynamic range, the gradations of light and dark a digital camera can capture so that details are not washed out by light or concealed by shadows.</p>
+      </block>
+      <block class="full_text">
+        <p>THE megapixel race has been the whole game in digital cameras for the past two years, as the cameras have gone from one megapixel or less to sharper, clearer images of nearly four megapixels.</p>
+        <p>That's all about resolution. But another crucial aspect of capturing a high-quality image has lagged far behind, and that is dynamic range, the gradations of light and dark a digital camera can capture so that details are not washed out by light or concealed by shadows.</p>
+        <p>Now, a new technology promises to increase the dynamic range substantially, not just for digital still and video cameras, but also for virtually any imaging system, including those based on X-rays and infrared radiation.</p>
+        <p>The technology is significant not only for its promise to banish underexposed and overexposed snapshots. It also has implications for Web cameras, video surveillance, robotics, medical imaging and any other system that uses images for measurements.</p>
+        <p>Those types of systems, for example, may one day let doctors track changes in the size, color and shape of lesions in the intestinal tract or let new cruise-control systems maintain proper distances between vehicles on the highways.</p>
+        <p>The technology is a combination of software and hardware modifications developed in the past two years by researchers led by Dr. Shree K. Nayar, a professor of computer science at Columbia University and head of the university's Computer Vision Laboratory (he is also the inventor of the Omnicamera, a 360-degree camera that allows Internet or television viewers to see images in all directions simultaneously). Experts in the field say the technology is simple but powerful, increasing the richness of detail a digital camera can provide.</p>
+        <p>For example, Dr. Nayar demonstrated that when a digital camera with an 8-bit sensor, capable of registering 256 levels of brightness at each pixel, was modified with this technology, the sensor was capable of extracting up to 12 bits' worth of brightness measurements, 4,098 levels of brightness, thereby increasing the dynamic range.</p>
+        <p>''This is important work that makes the task of image analysis easier,'' said Dr. Berthold K. P. Horn, an expert in robot vision and a professor of electrical engineering and computer science at the Massachusetts Institute of Technology. ''It gives more accurate data, and it is data that exists throughout the image, not washed out in some areas.''</p>
+        <p>With the new method, there is a small loss of resolution, particularly in the very bright or very dark areas, but Dr. Horn said, ''You have some image there, where before you had it totally lost.''</p>
+        <p>A description of the system was presented in June at the Conference on Computer Vision and Pattern Recognition of the Institute of Electrical and Electronics Engineers. Tomoo Mitsunaga, a Sony scientist who is visiting Columbia, is co-author of the paper with Dr. Nayar. Further work extending the sytem to color photography was done by Dr. Nayar and Srinivasa Narasimhan, a graduate student at Columbia.</p>
+        <p>The Columbia University team's innovations are quite different from image-processing software that can, for instance, enhance parts of an photograph by brightening them slightly. But such systems are limited by the amount of detail initially captured by the camera. ''Areas that are too saturated or too dark inherently lack information,'' Dr. Nayar said. ''No amount of post-processing can recreate scene details that were never captured to begin with.''</p>
+        <p>Dr. Nayar's solution for areas that are oversaturated or undersaturated with light has two parts: hardware and software. With conventional digital camera chips, all the pixels collect light equally. Dr. Nayar's hardware solution, by contrast, involves changing the amount of light received at each pixel. A mask is one of techniques used to vary the exposure of neighboring pixels.</p>
+        <p>The different exposures are repeated over the entire array of pixels, which in effect builds multiple exposures into a single image. After Dr. Nayar's image is collected and stored, special software reconstructs an image with a wide range of brightness variations.</p>
+        <p>''The key insight here is that even if one pixel is saturated, it's likely a nearby pixel will still be producing meaningful brightness,'' Dr. Nayar said, just as another pixel might have zero brightness because of low exposure, but a nearby one could have some data on brightness. The real world has enormous fluctuations in brightness, and those fluctuations have long posed problems for scientists working with computer images.</p>
+        <p>''Nayar's system provides a natural, simple solution to a serious historical problem,'' said Dr. Jitendra Malik, a computer science professor at the University of California in Berkeley and a specialist in computer vision. ''The problem of saturated light outdoors is obvious, but even indoors, with light streaming in the windows, you sacrifice either the bright or the dark regions. This technology recovers the information in those regions.''</p>
+        <p>Computer vision, or machine vision, as it is also called, is expected to have many outdoor uses. It may be used someday in car-mounted cameras that will use image data to maintain a fixed distance from another vehicle, eliminating the brake-tapping of current versions of cruise control.</p>
+        <p>The new technology also promises help for medical applications. The problem was explained by Dr. Takeo Kanade, a professor and head of the robotics institute at Carnegie Mellon University who has experience with laproscopic techniques, in which a tiny camera is inserted in the body.</p>
+        <p>''The camera doesn't have sufficient dynamic range for the bright shiny portions that tend to be saturated with light,'' Dr. Kanade said, ''and for the darker fields which can't be seen.'' Currently, laparoscopic images of lesions are visually analyzed by doctors.</p>
+        <p>''In the future,'' Dr. Kanade said, ''the computer will look to measure the size, shape and color of the lesion, but right now the camera is not good enough as a measurement device.''</p>
+        <p>WHAT'S NEXT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

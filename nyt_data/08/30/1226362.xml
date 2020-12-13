@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>First Central Lab for Linux Research Planned</title>
+    <meta content="Y30LIN$01" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1226362"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <location class="indexing_service">Portland (Ore)</location>
+        <org class="indexing_service">International Business Machines Corp</org>
+        <org class="indexing_service">Intel Corp</org>
+        <org class="indexing_service">Hewlett-Packard Co</org>
+        <org class="indexing_service">Open Source Development Lab</org>
+        <person class="indexing_service">Richtel, Matt</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Oregon</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Northwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Oregon/Portland</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Oregon</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000830T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E1DF1630F933A0575BC0A9669C8B63" item-length="703" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>First Central Lab for Linux Research Planned</hl1>
+      </hedline>
+      <byline class="print_byline">By MATT RICHTEL</byline>
+      <byline class="normalized_byline">Richtel, Matt</byline>
+      <dateline>SAN FRANCISCO, Aug. 29</dateline>
+      <abstract>
+        <p>Intel, IBM, Hewlett-Packard and several other computer companies will jointly create and finance a laboratory for developing and testing advances in Linux operating system; laboratory, Open Source Development Lab, will be in Portland, Ore, and have several satellite offices around the country to support it; will be designed in particular to create Linux-based versions of the so-called enterprise software, which is used on superpowerful servers that automate corporate financial and human resource and customer service backbones; Linux has not made sinificant inroads in that area despite strong growth over all in operating system's market share (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Thousands of computer hobbyists and software developers who together honed the Linux operating system from their homes and small offices could soon have their first central physical lab for testing new versions of the operating systems and application programs built to run on it.</p>
+        <p>In a validation of the growing popularity of Linux, Intel, I.B.M., Hewlett-Packard and several other computer companies plan to announce Wednesday that they will jointly create and finance a laboratory for developing and testing advances in the onetime renegade operating system.</p>
+      </block>
+      <block class="full_text">
+        <p>Thousands of computer hobbyists and software developers who together honed the Linux operating system from their homes and small offices could soon have their first central physical lab for testing new versions of the operating systems and application programs built to run on it.</p>
+        <p>In a validation of the growing popularity of Linux, Intel, I.B.M., Hewlett-Packard and several other computer companies plan to announce Wednesday that they will jointly create and finance a laboratory for developing and testing advances in the onetime renegade operating system.</p>
+        <p>Working with prominent Linux developers and promoters, the companies said, they plan to open the Open Source Development Lab in Portland, Ore., by the end of the year, then create several satellite offices around the country to support it.</p>
+        <p>The companies were vague on details, like the size of the lab, how much it would cost and how much the project's backers would invest. The backers said the lab would be run by an independent director who would essentially choose which projects would be emphasized and which software would be tested, although they suggested that the laboratories would be accessible to Linux developers at large.</p>
+        <p>And they have said the lab will be designed in particular to create Linux-based versions of software to be used on superpowerful servers that automate corporate financial and human resource and customer service backbones.</p>
+        <p>These functions, known as enterprise software programs, are one area where Linux has not made significant inroads in the last year, despite strong growth over all in the operating system's market share, which also includes World Wide Web servers and servers for small and medium-size businesses.</p>
+        <p>Linux developers, industry analysts and participants in the project said a leading reason Linux had not been moved onto these superpowerful computers was that Linux programmers have not had access to the hardware needed to experiment with and test new programs.</p>
+        <p>''When you look at what it takes to build a true enterprise solution, the typical Linux developer does not have access to that kind of hardware,'' said Michael Tiemann, chief technology officer of Red Hat Inc., a leading Linux company, based in Research Triangle Park in North Carolina. ''This is an opportunity to extend our success and results.''</p>
+        <p>Linux is what is known as an open-source operating system, meaning that the code that underlies it is publicly available. That contrasts with proprietary operating systems, like Windows NT, whose underlying code Microsoft does not publicize.</p>
+        <p>Advocates of the open-source movement in general say that making the code available permits hobbyists and professional engineers to tinker with it, find bugs and improve the software.</p>
+        <p>Mike Balma, the open source marketing director at Hewlett-Packard, one of the investors in the lab, said the far-flung contributions had made Linux a very stable operating system, and one in increasing demand from customers. He said, however, that Linux developers' lack of access to high-end hardware had meant that Linux was not built to be scaled to a level needed on the high-end enterprise servers.</p>
+        <p>But Will Swope, a vice president at Intel, which proposed the idea for the lab, said its creation would accelerate development of Linux-based enterprise software.</p>
+        <p>Generally, Linux's share of the server operating system market has grown strongly. In 1999, it held 24 percent of the market, up from 17 percent the year before, said the International Data Corporation, a Framingham, Mass., market research firm. International Data found that the market share leader both years was Microsoft, with 38 percent in each year.</p>
+        <p>Dan Kusnetzky, vice president for system software research for International Data, said that beside helping Linux, the lab might also benefit  Intel. He said Intel had not been perceived as a leader in the field of enterprise servers and that it could help its reputation by promoting and  financing the development of stable Linux-based systems.</p>
+        <p>TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

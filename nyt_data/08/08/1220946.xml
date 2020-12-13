@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Tactic in Physics: Hiding the Answer</title>
+    <meta content="08PHYS$01" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1220946"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Physics</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <person class="indexing_service">Glanz, James</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Physics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000808T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE2DC103CF93BA3575BC0A9669C8B63" item-length="1733" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Tactic in Physics: Hiding the Answer</hl1>
+      </hedline>
+      <byline class="print_byline">By JAMES GLANZ</byline>
+      <byline class="normalized_byline">Glanz, James</byline>
+      <abstract>
+        <p>Researchers in particle physics are programming their computers to add unknown numbers, called 'offsets,' to their data in order to render blind the outcome of their analyses; offsets are revealed only after an experiments is over, allowing researchers learn whether they are close to a routine confirmation of a theory, a Nobel Prize or a humiliating mistake; practice seeks to negate a natural bias researchers might have to pare data or make comparisons in ways that lead to 'discoveries'; can be a salve for physicists who simply want to get on with analysis without worrying about what their subconscious minds might be doing; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Despite its image of arcane intellectuality, particle physics is fast becoming a field with plenty of heart-pounding, high-stakes suspense. The reasons lie not so much in the field's recent string of discoveries as in how some of them were made.</p>
+        <p>Several large, multinational teams of particle physicists, who design experiments to capture, measure and understand the most elementary building blocks of matter, have adopted an analysis technique that may best be compared to walking a tightrope while blindfolded.</p>
+      </block>
+      <block class="full_text">
+        <p>Despite its image of arcane intellectuality, particle physics is fast becoming a field with plenty of heart-pounding, high-stakes suspense. The reasons lie not so much in the field's recent string of discoveries as in how some of them were made.</p>
+        <p>Several large, multinational teams of particle physicists, who design experiments to capture, measure and understand the most elementary building blocks of matter, have adopted an analysis technique that may best be compared to walking a tightrope while blindfolded.</p>
+        <p>They hope the technique will help them overcome their problems with particle ''discoveries'' that turn out to be wishful thinking and with conflicting results that take decades to resolve.</p>
+        <p>The problem is bias, and it plagues all realms of scientific experimentation. In medicine, finding statistically beneficial or disease-causing effects is part of the fabric of research, and blind studies have been used for decades.</p>
+        <p>That approach has been difficult to apply to physics, with its emphasis on discrete effects, from nuclear fission to superconductivity. But in some cases it can be used in particle physics, where detectors collect huge numbers of interactions in order to find a few unusual events or slight differences in behavior between two types of particles.</p>
+        <p>Recently, somewhat in the spirit of biomedicine, research teams in particle physics have been programming their computers to add unknown numbers, called ''offsets,'' to their data to make the outcome of their analyses blind. When an experiment is over, the researchers open their metaphorical sealed envelopes and discover what the value of the offset is -- learning only then whether they are close to a routine confirmation of theory, a Nobel Prize or a humiliating mistake.</p>
+        <p>In some cases, much of the data are ordinary and irrelevant, and physicists must painstakingly winnow them for a few rare particle decays -- events so precious that physicists refer to them as ''golden.'' In other cases, physicists must find tiny differences in millions of decays of two different types of particles.</p>
+        <p>The problem is, physicists' natural eagerness to find new effects may lead them, in all innocence, to pare the data or make the comparisons in slightly biased fashion if they can see the answer as they work. Offsets are designed to prevent that, because they obscure the bottom line as all those choices are being made.</p>
+        <p>The teams agree ahead of time to operate completely in the dark during months of analysis and then to announce publicly whatever results pop out when the cloak is removed.</p>
+        <p>Dr. Eric Prebys, a particle physicist at Princeton, who is a member of a large collaboration called Belle, said scientists ''always want a particular outcome -- whatever they say.'' Removing all landmarks is the only sure way to insulate them from their own hopes and expectations, he said.</p>
+        <p>''Obviously, it takes a little bit of courage to do it,'' Dr. Prebys said.</p>
+        <p>In fact, the queasy moments of suspense have been followed by surprise in more than one recent case. That is just the point, advocates of the method say: there is no chance to redo the analysis just because the answer looks odd.</p>
+        <p>The practice can be a salve for physicists who simply want to get on with the analysis without worrying about what their subconscious minds might be doing.</p>
+        <p>''Psychologically, it's better,'' said Dr. Bruce Winstein, a physicist at the University of Chicago and a member of an experiment team at the Fermi National Accelerator Laboratory, which used the technique in work on the decaying of particles called kaons. The results were announced last year. ''There's no concern about, 'Do we agree with our old experiment? Do we agree with the Standard Model?' '' -- the theory that that contains theorists' best understanding of the structure of all matter.</p>
+        <p>The reward, said Dr. Aaron Roodman, a physicist at the Stanford Linear Accelerator Center who is a member of the large team called BaBar, is better science and a few thrills for the physicists who are present when the offset is revealed, and the experiment is judged either routine or groundbreaking.</p>
+        <p>Both the Belle team, centered at the KEK high-energy physics laboratory in Japan, and the BaBar team, based at the Stanford accelerator site, announced preliminary new results last week after using the blind technique, and both had surprises. The experiments tried to measure a difference, or asymmetry, in the rates at which particles of matter and antimatter decayed. The crucial parameter is called sine-two-beta, a number that would be zero in a perfectly symmetric universe and either positive or negative otherwise.</p>
+        <p>With the Standard Model predicting a value for sine-two-beta of between 0.5 and 0.85, BaBar's result came in positive but unexpectedly low: 0.12. Belle had two separate values corresponding to different types of decays. One of the values, 0.8, raised no eyebrows. But when the other blind result came ''out of the box'' a shocker: a negative 0.6, nowhere near what anyone had predicted.</p>
+        <p>''The reaction among some people was, 'Could we find a way not to include the result?' '' Dr. Prebys said. Then they remembered their pledge to change nothing once the answer was revealed. Belle finally merged the two data sets, as planned, and came up with a middle-of-the-road value of 0.45.</p>
+        <p>Without the blind analysis, the team would almost certainly have searched exhaustively for flaws to justify dropping the deviant result,  he said. And even though all the Belle and BaBar numbers still have wide error bars and are considered preliminary, the incident ''shows how these biases creep in,'' Dr. Prebys said.</p>
+        <p>Human bias has a long, unhappy  history in scientific research. In retrospect, some of Gregor Mendel's data on heritable traits was probably too good to be true, but the great Austrian geneticist knew what he was seeing and may simply have discarded some data that did not fit.</p>
+        <p>Sir Arthur Eddington, the British astrophysicist, probably did the same thing with his team's measurements of the deflection of starlight over the edge of the sun in 1919. But his results fit the predictions from Einstein's theory of relativity, which Sir Arthur was championing at the time and which turned out to be correct.</p>
+        <p>''We now think that his photographic plates weren't as stable as he thought,'' said Dr. Spencer Weart, director of the Center for History of Physics at the American Institute of Physics. ''Which isn't to say that a person who's a great scientist like Eddington isn't entitled to some bias.''</p>
+        <p>Scientists who are either less skilled or less lucky have had harsher experiences with bias. In the 1980's, scientists at the Organization for Heavy-Ion Research in Darmstadt, Germany, convinced themselves that they had established to a statistical certainty of 99.9999 percent that they had discovered either a bizarre new particle or some other unpredicted event. But the particle evaporated when physicists tried to find it in other laboratories.</p>
+        <p>''If you think there's something there and you're very committed to looking for it, you may lull yourself into saying, 'Gee, I've found it,''' said Dr. Michael S. Lubell, chairman of the physics department at City College of New York, who searched for the particle in experiments at Brookhaven National Laboratory.</p>
+        <p>As a result, many physicists have learned to take precautions, especially when searching for rare events amid the confusion of a much greater number of ordinary processes. In such cases, it is only by carefully subtracting events with, say, the wrong energy or mass or decay products that the few golden events emerge. Mistakes or biases in the subtraction can either erase those events or fail to remove all of the meaningless background.</p>
+        <p>Dr. Tatsuya Nakada, a physicist at the University of Lausanne and CERN, a European particle physics laboratory, both in Switzerland, said that one effective way to wipe out biases was to let several subgroups analyze the data independently and then compare notes. ''If they disagree, they discuss why they disagree,'' and work out the kinks, he said.</p>
+        <p>Another common method, he said, is to place a sort of mask over the part of the data in which rare decays would be hiding among the background, if they were there. Criteria, often called ''cuts,'' are established that eliminate the visible background, and then the mask is removed. Anything that remains is golden.</p>
+        <p>The recent experiments at KTeV -- for Kaons at the Tevatron, the Fermi experiment in which Dr. Winstein was involved -- as well as Belle and BaBar took blind analysis a step further, actually showing researchers false numbers as they refined their analysis of the data. As it happened, all three experiments were seeking to measure the matter-antimatter asymmetry, although KTeV was looking at decaying of kaons while the others looked at B mesons, another particle.</p>
+        <p>At KTeV, Dr. Peter Shawhan, a collaborator at California Institute of Technology, wrote a computer program that converted a text string into a number in a horribly complex way that only the computer could reproduce. The string was entered, and the number became an unknown offset in all calculations of their measure of the asymmetry during the analysis.</p>
+        <p>The BaBar team had an unknown offset, but also shuffled the raw data in plots used by the team so that no advance hint of the asymmetry would be revealed, Dr. Roodman said. Belle used its own shuffling procedure.</p>
+        <p>Like Belle and BaBar, the KTeV result was not what the team had expected. (And like the others, it still contained a wide uncertainty. Dr. Roodman believes the ultimate use of the blind analysis will be to squeeze those inaccuracies to the extreme.)</p>
+        <p>When asked for his reaction when the result came out of the box, he said it had been an expletive followed by ''What did we do wrong?''</p>
+        <p>The asymmetry was larger than expected from theory. KTeV published the result.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

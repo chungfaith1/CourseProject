@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Wrong Message</title>
+    <meta content="L16DEA" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="32" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1207703"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Capital Punishment</classifier>
+        <person class="indexing_service">Cohen, Rose</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Capital Punishment</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000616T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E4DE1E3EF935A25755C0A9669C8B63" item-length="101" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Wrong Message</hl1>
+      </hedline>
+      <abstract>
+        <p>Rose Cohen letter says capital punishment sends message th</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Every time we carry out the death penalty (letters, June 14), we send a strong message to adults and children: that at the very top level of government, killing is an acceptable solution to life's most difficult problems.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Every time we carry out the death penalty (letters, June 14), we send a strong message to adults and children: that at the very top level of government, killing is an acceptable solution to life's most difficult problems.</p>
+        <p>This message permeates our society to its very core. The government is seen, especially by children, as validating the violence seen over and over in the media. Is it any wonder that we have a violent society in which adults and children kill for a quick solution?</p>
+        <p>ROSE COHEN  Wauseon, Ohio, June 15, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

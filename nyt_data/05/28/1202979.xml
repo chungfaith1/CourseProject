@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COUNTY IS REIMBURSED</title>
+    <meta content="MB235109" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1202979"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="IN BRIEF: ENVIRONMENT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hurricanes and Tropical Storms</classifier>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Hurricane Floyd</classifier>
+        <location class="indexing_service">Westchester County (NY)</location>
+        <person class="indexing_service">Brenner, Elsa</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hurricanes and Tropical Storms</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000528T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E4DA133DF93BA15756C0A9669C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COUNTY IS REIMBURSED</hl1>
+      </hedline>
+      <byline class="print_byline">By ELSA BRENNER</byline>
+      <byline class="normalized_byline">Brenner, Elsa</byline>
+      <abstract>
+        <p>Westchester County, NY, will receive $1.5 million from federal government for repairs to roads damaged by tropical storm Floyd (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Eight months after tropical storm Floyd, the county will receive $1.5 million from the federal government for road repairs. Most of the money will reimburse the county for $1.4 million in repairs to the two-mile Seven Bridges Road in New Castle and Yorktown. The road was so badly damaged by the storm, which dumped 12 to 14 inches of rain on northern Westchester, that it was closed for four months. Westchester is still awaiting reimbursement for about $2 million in other storm-related damage, Budget Director Kathleen M. Carrano said. The largest claims involve damage to the bridge at Mountain Lakes Park in North Salem.</p>
+        <p>ELSA BRENNER</p>
+      </block>
+      <block class="full_text">
+        <p>Eight months after tropical storm Floyd, the county will receive $1.5 million from the federal government for road repairs. Most of the money will reimburse the county for $1.4 million in repairs to the two-mile Seven Bridges Road in New Castle and Yorktown. The road was so badly damaged by the storm, which dumped 12 to 14 inches of rain on northern Westchester, that it was closed for four months. Westchester is still awaiting reimbursement for about $2 million in other storm-related damage, Budget Director Kathleen M. Carrano said. The largest claims involve damage to the bridge at Mountain Lakes Park in North Salem.</p>
+        <p>ELSA BRENNER</p>
+        <p>IN BRIEF: ENVIRONMENT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Container Store Opens Its First New York Site</title>
+    <meta content="MB035007" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1233243"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="IN BUSINESS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000924T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E4DD1E3BF937A1575AC0A9669C8B63" item-length="105" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Container Store Opens Its First New York Site</hl1>
+      </hedline>
+      <byline class="print_byline">By Peter Beller</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Container Store will open its first store in the New York region next month at Westchester Avenue and Bloomingdale Road in White Plains.</p>
+        <p>Selling products designed to organize and economize space, the store has 21 other stores across the country and projects $237 million in sales for the year.</p>
+      </block>
+      <block class="full_text">
+        <p>The Container Store will open its first store in the New York region next month at Westchester Avenue and Bloomingdale Road in White Plains.</p>
+        <p>Selling products designed to organize and economize space, the store has 21 other stores across the country and projects $237 million in sales for the year.</p>
+        <p>During the two-day grand opening starting Oct. 21, the store will give 10 percent of its proceeds to the Westchester Arts Council.</p>
+        <p>Peter Beller</p>
+        <p>IN BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

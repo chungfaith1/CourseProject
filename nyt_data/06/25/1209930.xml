@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV092036" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209930"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Da Costa, Erica</person>
+        <person class="indexing_service">Nissen, Axel</person>
+        <person class="indexing_service">Harte, Bret (1836-1902)</person>
+        <object.title class="indexing_service">Bret Harte: Prince and Pauper (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000625T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407EEDB113EF936A15755C0A9669C8B63" item-length="330" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Erica Da Costa</byline>
+      <byline class="normalized_byline">Da Costa, Erica</byline>
+      <abstract>
+        <p>Erica Da Costa reviews book Bret Harte: Prince and Pauper by Axel Nissen (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BRET HARTE</p>
+        <p>Prince and Pauper.</p>
+        <p>By Axel Nissen.</p>
+        <p>University Press of Mississippi, $28.</p>
+      </block>
+      <block class="full_text">
+        <p>BRET HARTE</p>
+        <p>Prince and Pauper.</p>
+        <p>By Axel Nissen.</p>
+        <p>University Press of Mississippi, $28.</p>
+        <p>Bret Harte (1836-1902) had a large hand in shaping the mythology of the American West with his short stories about the California gold rush and the frontier towns of his youth. He was one of the most celebrated authors of his day, lauded by peers from Charles Dickens to William Dean Howells, but today his name is rarely recognized. Axel Nissen has charted the rise and fall of this enigmatic figure, whose chief rival and sometime literary collaborator was Mark Twain. Harte's contribution to American letters was primarily the territory of his subject matter, which was scandalous by contemporary standards (one of his earliest stories began with an Indian prostitute giving birth to a white man's baby in a mining camp). Craftsmanship did not transmute into artistry, however, and Harte demonstrated repeatedly a faulty aesthetic sense. He would forever consider Twain a mere humorist, and he said of Henry James, ''I think he hardly sees below the surface.'' Nissen records Harte's adolescence in New York and California, his early professional triumph in New York and his self-imposed exile in Europe, where he spent the last 24 years of his life in a barely veiled attempt to rid himself of his wife and family. Whether Harte's work can support the structure of a serious study is never clearly answered. However, Nissen, who teaches American literature at the University of Oslo, has constructed a worthwhile American narrative, peppered with the presence of 19th-century literati and woven through with the drama of an unfolding empire.</p>
+        <p>Erica Da Costa</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

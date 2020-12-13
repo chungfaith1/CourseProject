@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Fiction</title>
+    <meta content="25BRIE$01" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209942"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Waggoner, Jeff</person>
+        <person class="indexing_service">Bennett, O H</person>
+        <object.title class="indexing_service">Colored Garden, The (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000625T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E3DD1F3EF936A15755C0A9669C8B63" item-length="267" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Fiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Jeff Waggoner</byline>
+      <byline class="normalized_byline">Waggoner, Jeff</byline>
+      <abstract>
+        <p>Jeff Waggoner reviews book The Colored Garden by O H Bennett (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Colored Garden</p>
+        <p>By O. H. Bennett.</p>
+        <p>Laughing Owl, paper, $12.50.</p>
+      </block>
+      <block class="full_text">
+        <p>The Colored Garden</p>
+        <p>By O. H. Bennett.</p>
+        <p>Laughing Owl, paper, $12.50.</p>
+        <p>In O. H. Bennett's affecting first novel, 9-year-old Kenneth Willis's mother abandons his father, an Army officer, in Germany and heads back, kids in tow, to her ancestral home in Kentucky -- it's a place where the boy's grandmother, Ruth, tends an ancient cemetery known as the ''colored garden.'' The garden functions as a kind of repository for the harsh history of slavery and sharecropping on the former tobacco plantation where the family still lives. Kenneth, who is known as Sarge, is brand new to America, and he begins his racial education by listening to his grandmother's tales of people like Cakes Huntley, the son of a slave and a slave owner, who was the color of a ''fried corn cake.'' Cakes dared to dream of becoming a ''gentleman'' and was whipped mercilessly by his biological father for his presumption. The most important story lies under a stone cherub with the mysterious inscription: ''Kate: Born and Died the Same Week. 1931. 'Budded on Earth to Blossom in Heaven.' ''It's the one tale that Sarge's grandmother doesn't want to share. This novel shows how the hidden history of a family, once unearthed, can forever change a person's view of himself and his relatives. In the end, Sarge learns ''more than even my youthful curiosity wanted to know.''</p>
+        <p>Jeff Waggoner</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Telephone Device Keeps Conversations Private</title>
+    <meta content="11GPRI" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1198518"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Wiretapping and Other Eavesdropping Devices and Methods</classifier>
+        <org class="indexing_service">L-3 Communications Holdings Inc</org>
+        <person class="indexing_service">Guernsey, Lisa</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wiretapping and Other Eavesdropping Devices and Methods</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000511T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E3DC1F38F932A25756C0A9669C8B63" item-length="308" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Telephone Device Keeps Conversations Private</hl1>
+      </hedline>
+      <byline class="print_byline">By LISA GUERNSEY</byline>
+      <byline class="normalized_byline">Guernsey, Lisa</byline>
+      <abstract>
+        <p>L-3 Communications offers device that plugs into phone and uses encryption to scramble voice communications over phone lines to thwart illegal wiretapping; both caller and recipient must use devices to ensure secure conversations; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>If you suffer from a tinge of paranoia and worry about snoops listening to your telephone conversations, a new device called the Privatel may ease your mind.</p>
+      </block>
+      <block class="full_text">
+        <p>If you suffer from a tinge of paranoia and worry about snoops listening to your telephone conversations, a new device called the Privatel may ease your mind.</p>
+        <p>The Privatel, a 12-ounce box that plugs into an analog or digital telephone, uses 168-bit encryption to scramble voice communications over telephone lines. Two devices are required to ensure secure conversations -- one for the caller and another for the recipient. Once both users press the ''secure'' button on their Privatel boxes, their conversation is unintelligible to people who might be tapping the wire illegally.</p>
+        <p>The device was designed by L-3 Communications, a New York company that develops communications systems and other high-tech products. According to the company, the Privatel is the same device that has been used by the United States military, the National Security Agency, and the Federal Bureau of Investigation, among others. Developers at L-3 expect that it will be popular among executives who rely on telephones to conduct business with people in other countries, where restrictions on wiretapping by corporations and government agencies are often nonexistent.</p>
+        <p>''People don't recognize that there is no protection of security overseas,'' said Frank Lanza, L-3's chairman and chief executive. ''There is tremendous vulnerability.''</p>
+        <p>Mr. Lanza would not comment on whether the device's encryption could be descrambled by the United States government. But it was the N.S.A. that approved L-3's commercialization of Privatel, so it seems likely that federal agencies have figured out a way to decode the device's encryption.</p>
+        <p>Each Privatel unit costs $595; the price drops to $495 if 100 or more devices are bought at a time.</p>
+        <p>LISA GUERNSEY</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

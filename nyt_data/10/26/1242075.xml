@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Leave No File Behind</title>
+    <meta content="LTR005948" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1242075"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001026T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E6D81031F935A15753C1A9669C8B63" item-length="113" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Leave No File Behind</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Office Renovated for Mac'' (State of the Art, Oct. 19) did not mention whether the new Office 2001 files can be read by older versions of the software.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Office Renovated for Mac'' (State of the Art, Oct. 19) did not mention whether the new Office 2001 files can be read by older versions of the software.</p>
+        <p>In the PC world, the new file formats in Office 97 created chaos. Access in Office 2000 creates files that can't be read by Access 97, which cost me $250. I have literally hundreds of business files created by versions of Works earlier than Works 95. The two most recent versions of Works can't read them. The inconvenience and expense that causes dwarfs any tweaks they might make to already over-featured software.</p>
+        <p>RICH NICHOLLS  Stamford, Conn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Fiction</title>
+    <meta content="RV095916" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1225436"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Thomas, John D</person>
+        <person class="indexing_service">Hunter, Stephen</person>
+        <object.title class="indexing_service">Hot Springs (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000827T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803EFD9153EF934A1575BC0A9669C8B63" item-length="306" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Fiction</hl1>
+      </hedline>
+      <byline class="print_byline">By John D. Thomas</byline>
+      <byline class="normalized_byline">Thomas, John D</byline>
+      <abstract>
+        <p>John D Thomas reviews book Hot Springs by Stephen Hunter (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HOT SPRINGS</p>
+        <p>By Stephen Hunter.</p>
+        <p>Simon &amp; Schuster, $25.</p>
+      </block>
+      <block class="full_text">
+        <p>HOT SPRINGS</p>
+        <p>By Stephen Hunter.</p>
+        <p>Simon &amp; Schuster, $25.</p>
+        <p>Stephen Hunter, a film critic at The Washington Post, has written three thrillers whose main character is Bob Lee Swagger, a Marine sniper in Vietnam whose accuracy earned him the nickname Bob the Nailer. In ''Hot Springs,'' we learn that his steady aim is hereditary. Hunter's new novel focuses on Bob's father, Earl, a no-nonsense marine who was awarded the Medal of Honor for heroism on Iwo Jima. After the war, Earl works as a foreman in a sawmill. But when he is offered a job training a group of young lawmen whose mandate is to rid Hot Springs, Ark., of its mob-run gambling houses, he eagerly accepts. There is a lot of terse talk, and bullets fly frequently. Hunter keeps the book from becoming a dull exercise in machismo, however, with smart character development and a twisting subplot. As Earl's deputies attempt to clean up Hot Springs, Earl's fearlessness makes his boss think he has a death wish. When he hires an investigator to look into Earl's background, the pious myths that surround Earl's father, a respected Arkansas sheriff, are shattered. In the end, Earl's blazing Thompson submachine gun drives the mobsters away, but the more interesting aspect of the novel is how Earl faces up to and slays his own inner demons.</p>
+        <p>John D. Thomas</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="30INSI" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203529"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000530T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E0DF173CF933A05756C0A9669C8B63" item-length="178" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Knicks-Pacers Series at 2-2  Larry Johnson's shooting propelled the injury-plagued Knicks to a 91-89 victory over the Indiana Pacers.</p>
+        <p>SPORTSTUESDAY, PAGE D1</p>
+        <p>U.S. Criticizes Peru's Vote  Sunday's presidential election, held without opposition, was undemocratic and the result illegitimate, an American official said.</p>
+        <p>PAGE A10</p>
+      </block>
+      <block class="full_text">
+        <p>Knicks-Pacers Series at 2-2  Larry Johnson's shooting propelled the injury-plagued Knicks to a 91-89 victory over the Indiana Pacers.</p>
+        <p>SPORTSTUESDAY, PAGE D1</p>
+        <p>U.S. Criticizes Peru's Vote  Sunday's presidential election, held without opposition, was undemocratic and the result illegitimate, an American official said.</p>
+        <p>PAGE A10</p>
+        <p>House Arrest for Suharto  The Indonesian government placed former President Suharto under house arrest as it sought to try him on corruption charges.</p>
+        <p>PAGE A3</p>
+        <p>Sampras Falls in First Round  Pete Sampras was eliminated early in the French Open again, as Mark Philippoussis won their match in five sets.</p>
+        <p>PAGE D1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

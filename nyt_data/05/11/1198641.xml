@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="11CBRIEF" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1198641"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000511T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E4D9163BF932A25756C0A9669C8B63" item-length="211" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>DANA CORP.,  Toledo, Ohio, the largest maker of light-truck axles in the world, said it planned to sell its Chelsea Power Take-Off unit, a maker of auxiliary power equipment for trucks.</p>
+        <p>MASTEC INC.,  Miami, which helps companies build and maintain communications networks, received a five-year contract worth at least $100 million to help build a fiber optic network for the Comcast Corp., Philadelphia, a cable television company.</p>
+      </block>
+      <block class="full_text">
+        <p>DANA CORP.,  Toledo, Ohio, the largest maker of light-truck axles in the world, said it planned to sell its Chelsea Power Take-Off unit, a maker of auxiliary power equipment for trucks.</p>
+        <p>MASTEC INC.,  Miami, which helps companies build and maintain communications networks, received a five-year contract worth at least $100 million to help build a fiber optic network for the Comcast Corp., Philadelphia, a cable television company.</p>
+        <p>K-TEL INTERNATIONAL INC.,  Plymouth, Minn., a retailer of music, said it had been warned by the Nasdaq stock market that it may be delisted because it no longer meets certain minimum requirements.</p>
+        <p>WINDMERE-DURABLE HOLDINGS INC.,  Miami Lakes, Fla., a maker of small appliances, said it was changing its name to Applica Inc. and would increase the number of its authorized shares by 88 percent, to 75 million shares.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

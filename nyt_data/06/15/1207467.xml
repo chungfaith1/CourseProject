@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Taking Palm Notes With a Pad and Ink</title>
+    <meta content="15GPAD$01" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1207467"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Palm Computing Co</org>
+        <org class="indexing_service">Seiko  Instruments USA</org>
+        <person class="indexing_service">Austen, Ian</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5DE103EF936A25755C0A9669C8B63" item-length="440" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Taking Palm Notes With a Pad and Ink</hl1>
+      </hedline>
+      <byline class="print_byline">By IAN AUSTEN</byline>
+      <byline class="normalized_byline">Austen, Ian</byline>
+      <abstract>
+        <p>Seiko markets SmartPad for taking notes with Palm Pilot; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>There is one task, at least according to Earle Roddy of Seiko Instruments USA, that is nearly impossible to do with a Palm Pilot: taking extensive notes.</p>
+        <p>Palm users can write in a shorthand called Graffiti or use a handwriting-recognition program called Jot. But Mr. Roddy said: ''You can't peck it out fast enough or scribble it quickly enough in Jot at a meeting. You just can't get it down.''</p>
+      </block>
+      <block class="full_text">
+        <p>There is one task, at least according to Earle Roddy of Seiko Instruments USA, that is nearly impossible to do with a Palm Pilot: taking extensive notes.</p>
+        <p>Palm users can write in a shorthand called Graffiti or use a handwriting-recognition program called Jot. But Mr. Roddy said: ''You can't peck it out fast enough or scribble it quickly enough in Jot at a meeting. You just can't get it down.''</p>
+        <p>Mr. Roddy, marketing communications manager for Seiko, says he has a solution: the Seiko SmartPad. The device looks like a conventional zippered portfolio with a Palm on one side and a 5-by-8-inch notepad on the other.</p>
+        <p>But the special Cross pen included with the kit contains a battery and internal electronics -- in addition to an old-fashioned ink cartridge -- that allow the pen to generate digital images of everything scrawled in ink on the notepad. The images are transferred wirelessly to a receiver in the SmartPad tablet.</p>
+        <p>Then an infrared port on the pad can beam the digital images into the Palm, where the images can be viewed, organized, stored and (depending on the Palm model) sent as e-mail attachments. PalmPilot software also allows users to upload the images into their computers from their personal digital assistants.</p>
+        <p>The SmartPad uses the same technology as the CrossPad, a similar product made by Cross that works only with PC's. However, unlike the Cross product, Seiko's unit does not allow its users to transform the graphic images of their notes into text with character-recognition software. Nor are SmartPad users able to control their Palms with the special pen (although there is a Palm stylus built into the pen's cap).</p>
+        <p>Mr. Roddy says technophobes will be among the customers for the $299 device, which does not include a PalmPilot. ''There are folks who don't want to do a Palm because they are attached to the idea of having a hard copy,'' he said. ''This gives people who won't give up paper a chance to bridge to the Palm.''</p>
+        <p>He said he had already had inquiries from engineering companies interested in giving the device to employees who produce drawings in the field. Such drawings could be sent back to the office via e-mail.</p>
+        <p>IAN AUSTEN</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

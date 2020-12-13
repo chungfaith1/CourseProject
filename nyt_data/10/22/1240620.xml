@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV104259" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="23" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1240620"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Murray, David</person>
+        <person class="indexing_service">Budiansky, Stephen</person>
+        <object.title class="indexing_service">Battle of Wits (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001022T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04EEDF143FF931A15753C1A9669C8B63" item-length="199" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By David Murray</byline>
+      <byline class="normalized_byline">Murray, David</byline>
+      <abstract>
+        <p>David Murray reviews book Battle of Wits: The Complete Story of Codebreaking in World War II by Stephen Budiansky (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BATTLE OF WITS</p>
+        <p>The Complete Story of Codebreaking</p>
+        <p>in World War II.</p>
+        <p>By Stephen Budiansky.</p>
+        <p>The Free Press, $27.50.</p>
+      </block>
+      <block class="full_text">
+        <p>BATTLE OF WITS</p>
+        <p>The Complete Story of Codebreaking</p>
+        <p>in World War II.</p>
+        <p>By Stephen Budiansky.</p>
+        <p>The Free Press, $27.50.</p>
+        <p>Until World War II, codebreakers were viewed as subprofessional; ''Gentlemen do not read each other's mail,'' Henry L. Stimson, the secretary of war under Franklin D. Roosevelt, said before Pearl Harbor. Then Germany developed the Enigma machines that leapt over generations of technology. The United States Navy had some outstanding victories, like pinpointing Midway Island in 1942 as the target for a Japanese invasion and enabling it to cripple the Japanese fleet. In Europe, after months of setbacks, the British were often able to read routinely German and Italian submarine traffic, which not only eased pressure on the Britain-bound Atlantic convoys but turned the Mediterranean into a British shooting gallery. Familiar as many of these accomplishments are, they have seldom been presented so thoroughly and in such readable form as in Stephen Budiansky's ''Battle of Wits,'' although the author does tax readers whose knowledge of mathematics did not go beyond advanced algebra.</p>
+        <p>David Murray</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

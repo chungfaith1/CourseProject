@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="20INSI$04" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200772"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000519T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E0D7133AF93AA25756C0A9669C8B63" item-length="211" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Gun Owners Promise a Fight</p>
+        <p>Gun owners gathered for the National Rifle Association's 129th annual convention, vowing to fight new firearms restrictions.</p>
+        <p>PAGE A11</p>
+        <p>Market Indexes Plunge</p>
+      </block>
+      <block class="full_text">
+        <p>Gun Owners Promise a Fight</p>
+        <p>Gun owners gathered for the National Rifle Association's 129th annual convention, vowing to fight new firearms restrictions.</p>
+        <p>PAGE A11</p>
+        <p>Market Indexes Plunge</p>
+        <p>The Nasdaq composite fell 148.31 points, to 3,390.40, and the Dow industrial average was down 150.43 points, to 10,626.85.</p>
+        <p>PAGE C1</p>
+        <p>G.O.P. Convention Coverage</p>
+        <p>CNN has promised the Republicans that it will offer not 24 but 264 hours of coverage a day for the party's convention in July.</p>
+        <p>PAGE A11</p>
+        <p>A New, Risky Era for Taiwan</p>
+        <p>Chen Shui-bian was sworn in as president, ending Nationalist rule and marking a risky turn in Taiwan's ties with the mainland.</p>
+        <p>PAGE A3</p>
+        <p>Are We Happy Yet?</p>
+        <p>Social scientists are attempting to measure the country's happiness -- no mean feat.</p>
+        <p>ARTS &amp; IDEAS, PAGE B13</p>
+        <p>A2 Arts &amp; Ideas  Weather  Religious Services</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

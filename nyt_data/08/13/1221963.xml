@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>IF YOU GO</title>
+    <meta content="23CONT$01" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="14CN" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1221963"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="indexing_service" type="descriptor">Beaches</classifier>
+        <location class="indexing_service">Connecticut</location>
+        <person class="indexing_service">Bisbort, Alan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Connecticut</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Beaches</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Connecticut</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beaches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Leisure</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parks and Other Recreation Areas</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000813T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E1D91F38F930A2575BC0A9669C8B63" item-length="208" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>IF YOU GO</hl1>
+      </hedline>
+      <byline class="print_byline">By ALAN BISBORT</byline>
+      <byline class="normalized_byline">Bisbort, Alan</byline>
+      <abstract>
+        <p>List of state parks along Connecticut's coast (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HAMMONASSETT STATE PARK is at Exit 62 of Interstate 95. A connector road goes directly into the park from the Interstate exit. Admission: $5 for state residents during the week ($8 for out of staters) and $7 on Saturday, Sunday and holidays ($12 for out of staters). Camp sites are $12 a night, with reservations required (877-668- CAMP).</p>
+        <p>SILVER SANDS STATE PARK is off Meadowside Road in Milford, though it is most easily accessed by U.S. 1 (follow the signs). Admission: free.</p>
+      </block>
+      <block class="full_text">
+        <p>HAMMONASSETT STATE PARK is at Exit 62 of Interstate 95. A connector road goes directly into the park from the Interstate exit. Admission: $5 for state residents during the week ($8 for out of staters) and $7 on Saturday, Sunday and holidays ($12 for out of staters). Camp sites are $12 a night, with reservations required (877-668- CAMP).</p>
+        <p>SILVER SANDS STATE PARK is off Meadowside Road in Milford, though it is most easily accessed by U.S. 1 (follow the signs). Admission: free.</p>
+        <p>HARKNESS MEMORIAL STATE PARK is at Exit 81 of Interstate 95 in Waterford. Head south on Cross Road to U.S. 1; turn left (north) on U.S. 1 and follow signs to park entrance, which is officially on Great Neck Road. Admission: $4 for state residents, $5 for out of staters. (860- 443-5725).</p>
+        <p>OCEAN BEACH PARK is at 1225 Ocean Avenue (Route 213) in New London. Take Exit 84 of Interstate 95 (U.S.1). Admission: $6 during the week; $10 on weekends. $2 for pedestrians. (800-510-SAND).</p>
+        <p>SEASIDE PARK is at off Park Avenue or Iranistan Avenue in Bridgeport. Take the University of Bridgeport exit of Interstate 95. Admission: $5 for state residents, $10 for out of staters.</p>
+        <p>ALAN BISBORT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

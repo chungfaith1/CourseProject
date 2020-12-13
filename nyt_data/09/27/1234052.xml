@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Pen Led by the Nose</title>
+    <meta content="27TAST$02" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/27/living/27TAST.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1234052"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TASTINGS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Alcoholic Beverages</classifier>
+        <classifier class="indexing_service" type="descriptor">Wines</classifier>
+        <person class="indexing_service">Asimov, Eric</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Beverages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Alcoholic Beverages</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000927T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E0DD133AF934A1575AC0A9669C8B63" item-length="474" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Pen Led by the Nose</hl1>
+      </hedline>
+      <byline class="print_byline">By Eric Asimov</byline>
+      <byline class="normalized_byline">Asimov, Eric</byline>
+      <abstract>
+        <p>Eric Asimov comments on some wines that have bizarre descriptions of their taste (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AS satirists know, the language for describing wines can reach pretentious and even absurd heights. Recently, I enjoyed a description of a port with a ''fumy, high-toned nose.'' Yet, wine does present an awkward problem: the vocabulary for describing subtle differences in smells and flavors is imprecise. So wine experts have to describe by analogy.</p>
+        <p>Some of their more bizarre descriptions seem nonsensical. Would anybody really want to drink wine that smells like road tar, wet rocks or gasoline? What about cured meat, tobacco or sweat, or even what can politely be called cat's litter box? Of course not. Yet, these terms, when taken in the context of a spectrum of sensory impressions, can be surprisingly accurate.</p>
+      </block>
+      <block class="full_text">
+        <p>AS satirists know, the language for describing wines can reach pretentious and even absurd heights. Recently, I enjoyed a description of a port with a ''fumy, high-toned nose.'' Yet, wine does present an awkward problem: the vocabulary for describing subtle differences in smells and flavors is imprecise. So wine experts have to describe by analogy.</p>
+        <p>Some of their more bizarre descriptions seem nonsensical. Would anybody really want to drink wine that smells like road tar, wet rocks or gasoline? What about cured meat, tobacco or sweat, or even what can politely be called cat's litter box? Of course not. Yet, these terms, when taken in the context of a spectrum of sensory impressions, can be surprisingly accurate.</p>
+        <p>For example, as German rieslings age, they sometimes get a pronounced aroma that suggests fuel to me. Rieslings can also have mineral smells. The Lingenfelder here has a smell like wet river rocks, or to be more urban, the sidewalk after a morning rain.</p>
+        <p>Italian reds are often troves of strange smells. The Roccaccia here has a meaty, almost sweaty aroma, like that of boiled cotechino sausage. The Zenner, like many other Sicilian and southern Italian wines, has a smoky aroma that reminds me of tar, a smell I like. Bordeaux, particularly well-aged wines from Pauillac and Graves, smell legendarily like tobacco and cedar. The Pontet-Canet '97 gives a hint of that.</p>
+        <p>As for that litter box, it is meant to describe a piercing pungency that sauvignon blancs sometimes achieve. There is even a New Zealand wine that celebrates this odor with humor, calling itself Cat's Phee on a Gooseberry Bush, gooseberry being the other obscure aroma in sauvignon blanc. Smells more like cold metal and lemon to me.</p>
+        <p>CAT'S PHEE ON A GOOSEBERRY BUSH, SAUVIGNON BLANC,  NEW ZEALAND, EAST COAST 1999  $9  It has a pronounced pungency, clean yet tart in the mouth.</p>
+        <p>LINGENFELDER, RIESLING SPATLESE, HALBTROCKEN, PFALZ ,  GROSSKARLBACHER OSTERBERG 1998  $22  Smells like wet rocks and dried flowers; mineral and orange flavors.</p>
+        <p>CHATEAU PONTET -CANET , BORDEAUX , PAUILLAC 1997 $30  Soft, sweet aroma with a mild cedar component; peppery flavor.</p>
+        <p>TENUTA ROCCACCIA , FONTENOVA , TUSCANY 1998 $13  A real meaty, sausagelike scent, but sweet and fruity in the mouth.</p>
+        <p>C. VON SCHUBERT , RIESLING SPATLESE , MOSEL -SAAR -RUWER ,  MAXIMIN GRUNHAUSER ABTSBERG 1994 $25  You'll swear you're sniffing gasoline. In the mouth, sweetness, acidity.</p>
+        <p>ZENNER , TERRA DELLE SIRENE , NERO D'AVOLA , SICILY 1998 $18  Dense and rich with pronounced aroma of smoky tar and berries.</p>
+        <p>Listed alphabetically. Prices are those paid in Manhattan wine shops.</p>
+        <p>TASTINGS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

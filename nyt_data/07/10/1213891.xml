@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>On TV, No-Frills News</title>
+    <meta content="L10NEW$01" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213891"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <classifier class="indexing_service" type="descriptor">Television</classifier>
+        <org class="indexing_service">Wbbm-TV (Chicago)</org>
+        <person class="indexing_service">Kelly, John</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000710T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE0D71538F933A25754C0A9669C8B63" item-length="155" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>On TV, No-Frills News</hl1>
+      </hedline>
+      <abstract>
+        <p>John Kelly letter applauds no-frills, no-gimmick approach to television news adopted by WBBM in Chicago (July 3 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I was glad to see your July 3 Business Day article concerning the CBS affiliate WBBM in Chicago, and its decision to adopt a no-frills, no-gimmick style of news coverage.</p>
+        <p>It is a hopeful sign that TV stations are getting around to treating that segment of viewers who are discerning with something more than ''it bleeds, it leads'' -- a style, I think, that has ''tuned out'' so many viewers.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I was glad to see your July 3 Business Day article concerning the CBS affiliate WBBM in Chicago, and its decision to adopt a no-frills, no-gimmick style of news coverage.</p>
+        <p>It is a hopeful sign that TV stations are getting around to treating that segment of viewers who are discerning with something more than ''it bleeds, it leads'' -- a style, I think, that has ''tuned out'' so many viewers.</p>
+        <p>If it is successful, it will send a message to other stations around the country that no amount of flashy computer graphics, ''live'' helicopter pictures or screaming headlines can make a marginal story a major one.  JOHN KELLY  New York, July 3, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

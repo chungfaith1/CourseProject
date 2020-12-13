@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Bike Computer: Coxswain and Trainer in a Small Package</title>
+    <meta content="17HOWW$02" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20000826T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1223278"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bicycles and Bicycling</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Fleishman, Glenn</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Biking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bicycles and Bicycling</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000817T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E7D6173EF934A2575BC0A9669C8B63" item-length="1126" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Bike Computer: Coxswain and Trainer in a Small Package</hl1>
+      </hedline>
+      <byline class="print_byline">By GLENN FLEISHMAN</byline>
+      <byline class="normalized_byline">Fleishman, Glenn</byline>
+      <abstract>
+        <p>Newest bicycle computers not only monitor speed, distance and pedaling rhythm, but also count the rider's heart rate and determine elevation; diagram (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHEN you set out for a leisurely country bike ride, knowing the distance you've traversed to the hundredth of a mile probably isn't your first thought. And you might not want to know how much your heart rate increased during the 10 minutes you spent climbing a hill.</p>
+        <p>But dedicated cyclists can be obsessive about their performance. And the only way to get an accurate reading on how fast the bike is going or how hard the rider is working is to use a bicycle computer.</p>
+      </block>
+      <block class="full_text">
+        <p>WHEN you set out for a leisurely country bike ride, knowing the distance you've traversed to the hundredth of a mile probably isn't your first thought. And you might not want to know how much your heart rate increased during the 10 minutes you spent climbing a hill.</p>
+        <p>But dedicated cyclists can be obsessive about their performance. And the only way to get an accurate reading on how fast the bike is going or how hard the rider is working is to use a bicycle computer.</p>
+        <p>The newest computers (sometimes called cyclocomputers by manufacturers and stores) can do more than monitor speed and distance; the most sophisticated can also count the rider's heart rate and determine elevation. These measurements, taken together, offer a series of snapshots of a ride.</p>
+        <p>The practice of measuring how far and fast a bicycle travels emerged alongside the modern bicycle in the 1860's. Russell Mamone, a past editor of The Wheelmen -- a publication of an organization, of the same name, that is devoted to bicycle history -- said that the earliest ''cyclometers'' had been attached inside front wheel hubs, to the underside of pedals or to wheels, where they counted off rotations by striking pins against the wheel or spokes. None of them could be read without dismounting from the bicycle.</p>
+        <p>''People in those days were very interested in how far they traveled,'' Mr. Mamone said. ''You couldn't really tell how far it was from Washington to Fredericksburg, Va. To record mileage accurately, they would use these cyclometer records.''</p>
+        <p>Modern bike computers have not strayed too far from the basics. They employ a magnet attached to a front wheel spoke to signal rotations. A matching magnetic sensor fits on one of the blades of the bike's front fork. The magnet and sensor have to be carefully placed so the gap is small enough to trigger the sensor, but big enough to keep the two from knocking together.</p>
+        <p>Bicycle computers can also calculate cadence -- the pedaling rhythm, measured in rotations per minute -- by mounting sensors on the back of the bike to track rotations of the bicycle crank, the pedals' pivot point and the place where the gears are mounted.</p>
+        <p>Many biking experts recommend a regular cadence for better performance and exercise value. While it can be hard to gauge r.p.m.'s mentally, a bike computer can provide sound and visual cues.</p>
+        <p>When a magnetic sensor is used to determine speed or cadence (some can measure both), the magnet induces a current in a coil in the sensor each time it rushes by, and that pulse is sent to the bike computer. That connection can be through a wire run from the sensor to the computer, mounted on the handlebars, or a low-power transmitter on the sensor can send a signal wirelessly.</p>
+        <p>Wireless transmission might be the only option for mountain bikes because the range of free motion makes it very difficult to thread a wire safely from the fork to the handlebars.</p>
+        <p>Before a bike computer can translate the pulses arriving from a sensor into a readout of miles or kilometers per hour, the computer has to be programmed with the wheel's circumference so it can calculate both speed and distance. For cadence, the sprocket size of each gear has to be entered as well.</p>
+        <p>Bike computers come with settings for standard wheel sizes. But those generally include only a few combinations, so many riders have to make their own calculations. (Measuring the wheel's circumference is easily done by rolling the wheel along a tape measure on the floor.) Some computers can store multiple wheel sizes so adjustments can be made when a rider changes bikes or swaps wheels on the same bike.</p>
+        <p>With the wheel size in mind, the bike computer can translate the number of rotations into a speed calculation. It counts the number of rotations and multiplies that by the distance traveled with each rotation. Most bike computers can store the distance traveled in the current ride and the total number of miles on the bike, as well as the current, minimum and maximum speeds. Some can also monitor how much time is left (distance or time) in a programmed ride, or how close the rider is to an ideal pedaling pace.</p>
+        <p>One of the most advanced bike computers, the SpeedZone P. Brain from Specialized Bicycles, receives information about the rider's heart rate from a wireless heart monitor strap, and it also has an altimeter. The P. Brain can record five measurements -- speed, time, current distance, elevation and heart rate -- at intervals that vary from every 10 seconds to every minute. That information can be uploaded into a desktop computer through a serial port so it can be analyzed.</p>
+        <p>A compact, battery-operated, wireless computer that can perform a number of functions might seem like a far cry from its mechanical ancestor, but it's really just a refinement.</p>
+        <p>Correction:  August 26, 2000, Saturday  An article in Circuits on Aug. 17 about bicycle computers referred incorrectly to their means of measuring pedal rhythm, or cadence. Only rotations of the crank are tracked, by sensors; gear sizes do not have to be entered into the computer.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: August 26, 2000, Saturday</p>
+        <p>An article in Circuits on Aug. 17 about bicycle computers referred incorrectly to their means of measuring pedal rhythm, or cadence. Only rotations of the crank are tracked, by sensors; gear sizes do not have to be entered into the computer.</p>
+        <p>&lt;br&gt;</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

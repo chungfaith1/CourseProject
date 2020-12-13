@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Life, Liberty, Cheap Gas</title>
+    <meta content="L02GAS$01" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211803"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="indexing_service" type="descriptor">Public Opinion</classifier>
+        <person class="indexing_service">Mastrangelo, James</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E4DC1739F931A35754C0A9669C8B63" item-length="137" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Life, Liberty, Cheap Gas</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from James Mastrangelo, noting public outrage over gasoline prices, wonder why people think they have 'right' to cheap gas</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Hasn't some sense of perspective been lost in the anger and outrage over gasoline prices (editorial, June 28)? The most fundamental tenet of economics is about scarce resources. It holds that there will be competition for them and that this will drive up prices.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Hasn't some sense of perspective been lost in the anger and outrage over gasoline prices (editorial, June 28)? The most fundamental tenet of economics is about scarce resources. It holds that there will be competition for them and that this will drive up prices.</p>
+        <p>Why do people think they have a ''right'' to cheap gas? Anyone making the same claim about other luxury resources, like gold, would be ridiculed. What makes gas, particularly in a country where nearly every automobile is larger than it needs to be, different?</p>
+        <p>JAMES MASTRANGELO  Boston, June 28, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

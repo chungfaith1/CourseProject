@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>French Cosmetics Company To Open Store at Mall</title>
+    <meta content="MB001258" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1223946"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="IN BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Cosmetics</classifier>
+        <org class="indexing_service">Sephora (Co)</org>
+        <org class="indexing_service">Westchester (White Plains, Ny, Shopping Mall)</org>
+        <person class="indexing_service">Rosenberg, Merri</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cosmetics and Toiletries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000820T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E3DA153EF933A1575BC0A9669C8B63" item-length="146" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>French Cosmetics Company To Open Store at Mall</hl1>
+      </hedline>
+      <byline class="print_byline">By Merri Rosenberg</byline>
+      <byline class="normalized_byline">Rosenberg, Merri</byline>
+      <abstract>
+        <p>French cosmetics firm Sephora is slated to open store at The Westchester mall in White Plains, NY, on October 6 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sephora, the French cosmetics company, is scheduled to open a store at The Westchester Oct. 6, and cosmetics enthusiasts will no longer have to travel to Manhattan for the company's products.</p>
+        <p>The 4,354-square-foot White Plains store joins 61 other United States outlets of the world's largest beauty company, a division of the LVHM Corporation.</p>
+      </block>
+      <block class="full_text">
+        <p>Sephora, the French cosmetics company, is scheduled to open a store at The Westchester Oct. 6, and cosmetics enthusiasts will no longer have to travel to Manhattan for the company's products.</p>
+        <p>The 4,354-square-foot White Plains store joins 61 other United States outlets of the world's largest beauty company, a division of the LVHM Corporation.</p>
+        <p>Distinguished by black-clad sales staff and an open-shelving system that permits consumers to sample products, Sephora features not only name-brand perfumes and makeup lines but also private-label lipsticks, nail polish, eye shadows, blushes, foundations, body paint, soaps and shower gels, among other items.</p>
+        <p>Merri Rosenberg</p>
+        <p>IN BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

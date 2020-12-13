@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Bowdoin and Colby Lose on the Thames</title>
+    <meta content="PL040056" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211288"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PLUS: ROWING -- HENLEY ROYAL REGATTA"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Rowing</classifier>
+        <classifier class="indexing_service" type="descriptor">Henley Royal Regatta</classifier>
+        <person class="indexing_service">Hildes-Heim, Norman</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rowing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000629T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E0DC1F30F93AA15755C0A9669C8B63" item-length="120" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Bowdoin and Colby Lose on the Thames</hl1>
+      </hedline>
+      <byline class="print_byline">By NORMAN HILDES-HEIM</byline>
+      <byline class="normalized_byline">Hildes-Heim, Norman</byline>
+      <abstract>
+        <p>Henley Royal Regatta results noted (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bowdoin College, in its first Henley appearance, gamely battled London Rowing Club, but came up three-quarters of a boat length short yesterday, losing its heat of the Britannia Challenge Cup for fours with coxswain at the 151st Henley Royal Regatta at Henley-on-Thames, England.</p>
+      </block>
+      <block class="full_text">
+        <p>Bowdoin College, in its first Henley appearance, gamely battled London Rowing Club, but came up three-quarters of a boat length short yesterday, losing its heat of the Britannia Challenge Cup for fours with coxswain at the 151st Henley Royal Regatta at Henley-on-Thames, England.</p>
+        <p>Colby College, also of Maine, endured a similar fate, losing in an all-American heat of the Temple Challenge Cup for eight-oared crews to the University of Virginia Rowing Association by five lengths.</p>
+        <p>The Rutgers oarsmen, racing in an afternoon heat of the Britannia Cup, lost to Lea Rowing Club of England, leaving that event with no American entries with four days of competition remaining in the regatta.</p>
+        <p>NORMAN HILDES-HEIM</p>
+        <p>PLUS: ROWING -- HENLEY ROYAL REGATTA</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

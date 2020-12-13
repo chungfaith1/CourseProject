@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Old-News Bags</title>
+    <meta content="10BAGS$01" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1229306"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PULSE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Handbags and Purses</classifier>
+        <classifier class="indexing_service" type="descriptor">Newspapers</classifier>
+        <person class="indexing_service">Capotorto, Mario</person>
+        <person class="indexing_service">Robinovitz, Karen</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Newspapers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Apparel</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000910T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E0DB1339F933A2575AC0A9669C8B63" item-length="174" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Old-News Bags</hl1>
+      </hedline>
+      <byline class="print_byline">By KAREN ROBINOVITZ</byline>
+      <byline class="normalized_byline">Robinovitz, Karen</byline>
+      <abstract>
+        <p>Designer Maria Capotorto designs handbags from frayed newspapers she finds on street; photo (Pulse column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Maria Capotorto, the designer behind Your Sister's Mustache, a line of home and women's accessories, is giving new meaning to news you can use.</p>
+      </block>
+      <block class="full_text">
+        <p>Maria Capotorto, the designer behind Your Sister's Mustache, a line of home and women's accessories, is giving new meaning to news you can use.</p>
+        <p>A former graphics designer, she makes handbags from frayed newspapers that she finds on the street. Ms. Capotorto, who likes to shape decorative objects out of unlikely materials, was gluing and laminating old newspapers to make wastepaper baskets for her apartment when a friend suggested that the same technique would make cool handbags. The resulting totes, which come in two sizes ($38 and $58), are available in New York at Anthropologie. The laminated bags are square with clear plastic handles, and are made of all kinds of ephemera, including magazine articles, pages from children's books and newspapers dating back to the 70's. ''They're just kitschy and fun,'' Ms. Capotorto said. ''And your hands will never be covered in ink when you're finished reading the articles.''</p>
+        <p>KAREN ROBINOVITZ</p>
+        <p>PULSE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Business; WHAT THEY'RE READING</title>
+    <meta content="REA22" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Business; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1241000"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Executive</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Executives and Management</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001022T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE1DB1E3EF931A15753C1A9669C8B63" item-length="655" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Business; WHAT THEY'RE READING</hl1>
+      </hedline>
+      <byline class="print_byline">COMPILED BY KATHLEEN O'BRIEN</byline>
+      <abstract>
+        <p>List of books currently in favor with business executives (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Jim Barton, 42  Senior vice president, TiVo  BOOK:Dancing Naked in the Mind Field by Kary Mullis (1998)  WHY:This is an off-beat autobiography by the Nobel-Prize winning inventor of the polymerase chain reaction (P.C.R.), the foundation of modern bioengineering. Mullis is an original and sometimes truly weird thinker who often challenges both scientific and cultural dogma.</p>
+      </block>
+      <block class="full_text">
+        <p>Jim Barton, 42  Senior vice president, TiVo  BOOK:Dancing Naked in the Mind Field by Kary Mullis (1998)  WHY:This is an off-beat autobiography by the Nobel-Prize winning inventor of the polymerase chain reaction (P.C.R.), the foundation of modern bioengineering. Mullis is an original and sometimes truly weird thinker who often challenges both scientific and cultural dogma.</p>
+        <p>Mark P. McDonald, 37  Center for Process Excellence Director, Andersen Consulting  BOOK:Beowulf translated by Seamus Heaney (2000)  WHY:'Beowulf' is the latest in a series of classics I am reading to bring me back to those longer-running themes that, regardless of how hard you try, don't really change. From 'Beowulf' I learned a deeper meaning of the power of story in getting people to act, the power of heritage, since large portions of the book talk about the exploits of prior kings and their deeds. These exploits give the characters the courage to act, as they view themselves as just as brave as their ancestors.</p>
+        <p>JoeSipher, 36  Vice president, Handspring  BOOK:The Humane Interfaceby Jef Raskin (2000)  WHY:As a product designer, I'm always looking for new angles ongreat product usability. Raskin does a nice job of des-cribing how to build interfaces that work with natural human behavior.</p>
+        <p>Shirley F. Moulton, 48  President, Universal Solutions  BOOK:Going Home to Teach by Anthony C. Winkler (1995)  WHY:I left Jamaica in 1971 and 'Going Home to Teach' gave me an acute understanding of what life was like, politically, socially and economically, after I left the island -- and it had really changed.</p>
+        <p>Shilpi Somaya, 29  Vice president, Guru.com  BOOK:Real Power: Business Lessons from the Tao Te Ching by James A. Autry and Stephen Mitchell (1998)  WHY:This book takes age-old lessons from the ancient Chinese text, and draws out applications to business challenges. By using analogies and examples, the authors help address the perennial questions of management.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

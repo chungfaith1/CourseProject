@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRAVEL ADVISORY</title>
+    <meta content="17SHOR$01" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1231041"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hotels and Motels</classifier>
+        <org class="indexing_service">Casa Del Mar (Santa Monica, Calif)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hotels and Motels</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000917T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9902E6D71F39F934A2575AC0A9669C8B63" item-length="141" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRAVEL ADVISORY</hl1>
+      </hedline>
+      <abstract>
+        <p>Casa Del Mar hotel in Santa Monica, Calif, marks first anniversary (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HOTEL  Happy Birthday</p>
+        <p>Through Nov. 15, the 129-room Casa Del Mar in Santa Monica is celebrating its first birthday by offering an hour of inline skating lessons or an hour with a personal trainer, a night in an oceanview room and breakfast. The package, called Endless Summer, is $399 single or double, plus tax and tips; (310) 581-5533.</p>
+      </block>
+      <block class="full_text">
+        <p>HOTEL  Happy Birthday</p>
+        <p>Through Nov. 15, the 129-room Casa Del Mar in Santa Monica is celebrating its first birthday by offering an hour of inline skating lessons or an hour with a personal trainer, a night in an oceanview room and breakfast. The package, called Endless Summer, is $399 single or double, plus tax and tips; (310) 581-5533.</p>
+        <p>TOUR  Survival Trip</p>
+        <p>Tread Lightly Travel, in Washington Depot, Conn., is organizing a ''Survivor'' trip to the Falkland Islands. It starts on a small island, with fully provisioned cabins. Each day, a plane removes one ostracized player. One by one, they reunite on another island. Price: about $1,500 a week for land costs and internal flights; (800) 643-0060.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Buying Used Books Online</title>
+    <meta content="LTR230825" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Books; Opinion" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20000512T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1198648"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">proper, forrest</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000511T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E2D9163BF932A25756C0A9669C8B63" item-length="126" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Buying Used Books Online</hl1>
+      </hedline>
+      <abstract>
+        <p>Forrest Proper letter lauds May 4 article on shopping for used books on line</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I enjoyed the Online Shopper column about Alibris and the used book trade very much and thought that it was very well done.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I enjoyed the Online Shopper column about Alibris and the used book trade very much and thought that it was very well done.</p>
+        <p>The members of the Antiquarian Booksellers Association of America (www.library.vanderbilt.edu/law/ acqs/pubr/rare.html) offer exactly the same guarantees that Alibris does, without the markup and (I immodestly add) with much more expertise in old and rare books.</p>
+        <p>Here at Joslin Hall Rare Books, I'm glad to see that the press is getting more into the story of the real tensions, distrust, bad feelings and even near-hysteria that many booksellers are feeling about the changes in our rather insular community.</p>
+        <p>FORREST PROPER  Cambridge, Mass.</p>
+        <p>Correction:  May 12, 2000, Friday  Because of an editing error, a letter to the editor in Circuits yesterday about online used-book sellers misstated the Web address for the Antiquarian Booksellers' Association of America. It is www.abaa.org.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: May 12, 2000, Friday</p>
+        <p>Because of an editing error, a letter to the editor in Circuits yesterday about online used-book sellers misstated the Web address for the Antiquarian Booksellers' Association of America. It is www.abaa.org.</p>
+        <p>&lt;br&gt;</p>
+        <p>&lt;br&gt;</p>
+        <p>&lt;br&gt;</p>
+        <p>&lt;br&gt;</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DNA Evidence</title>
+    <meta content="L12DNA$01" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1206818"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D03E5DE1E3FF931A25755C0A9669C8B63" item-length="170" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DNA Evidence</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Peter Neufeld and Barry Scheck (Op-Ed, June 5) make an important point that is often missed in our focus on the role DNA has played in freeing innocent people from prison, including some from death row. DNA is available only in cases where there is biological material left at the crime scene that can be linked to the guilty person.</p>
+        <p>So what we must learn from the DNA cases is why there was a miscarriage of justice in the first place. That may help to prevent injustice in future cases and to identify other cases that might have been decided unfairly, but have no biological evidence to test.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Peter Neufeld and Barry Scheck (Op-Ed, June 5) make an important point that is often missed in our focus on the role DNA has played in freeing innocent people from prison, including some from death row. DNA is available only in cases where there is biological material left at the crime scene that can be linked to the guilty person.</p>
+        <p>So what we must learn from the DNA cases is why there was a miscarriage of justice in the first place. That may help to prevent injustice in future cases and to identify other cases that might have been decided unfairly, but have no biological evidence to test.</p>
+        <p>By focusing only on DNA evidence, we ignore the larger point that the system convicts innocent people at an alarming rate.</p>
+        <p>JAMES E. COLEMAN JR.  Durham, N.C., June 5, 2000</p>
+        <p>The writer is a professor at Duke University School of Law.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

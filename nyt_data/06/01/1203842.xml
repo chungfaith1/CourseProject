@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Equipping a Dorm Room: Fan, Pillow, LAN Card</title>
+    <meta content="01QNA.$03" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203842"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E7DD153CF932A35755C0A9669C8B63" item-length="668" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Equipping a Dorm Room: Fan, Pillow, LAN Card</hl1>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. Many students entering college are being warned that their personal computers must have ISA/PCI Ethernet adapters and that networked PC's must be equipped with 10Base-T Ethernet adapter cards, cables and communications software. What do these terms mean?</p>
+        <p>A. Many of those terms relate to networking -- specifically, to getting the computer onto the university network.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. Many students entering college are being warned that their personal computers must have ISA/PCI Ethernet adapters and that networked PC's must be equipped with 10Base-T Ethernet adapter cards, cables and communications software. What do these terms mean?</p>
+        <p>A. Many of those terms relate to networking -- specifically, to getting the computer onto the university network.</p>
+        <p>Although standards vary, most major colleges and universities have  Ethernet networks, which provide much faster connections to the Internet than does access through a typical dial-up Internet service provider.</p>
+        <p>Ethernet is a local area network protocol that was first developed in the 1970's and is now one of the most common networking methods used by corporations and colleges. Many types of computers can use it, including Windows PC's and Macintosh machines.</p>
+        <p>Ethernet can transmit data at up to 10 million bits per second, which is much faster than a 56K (56 kilobits per second) modem.</p>
+        <p>The term ''10Base-T'' refers to the specific type of Ethernet network and the cables it uses to connect the computer to that network. Newer versions, called Fast Ethernet, can transfer data at speeds up to 100 million bits per second and are also referred to as 100BaseT networks.</p>
+        <p>The ability to connect to Ethernet networks is not standard in some computers.</p>
+        <p>Most new Macs come with built-in Ethernet capability, but computers running Windows usually need an Ethernet adapter card installed. Some computer manufacturers will sell you a machine with the card already installed, or you can buy an adapter card from a computer store.</p>
+        <p>ISA/PCI refers to the slot on the computer's motherboard that the card snaps into.</p>
+        <p>Older computers usually have ISA slots, but the PCI standard has become the norm in newer machines. The Ethernet card should come with the software that will let the PC communicate with the network. You can also find the proper Ethernet cables at your local computer store. The cable packaging may refer to the cables as having ''RJ-45'' connectors, which is just a reference to the plug type on each end.</p>
+        <p>As far as the communications software requirements, these will probably vary even more depending on the particular college and the computing platform (Windows or Macintosh). Most colleges will provide on request the specific information for what they prefer.</p>
+        <p>You might try looking at the college's Web site for the preferred standards, as well as at a Frequently Asked Questions section focusing on  hardware and software standards. If your future freshman doesn't yet have a computer to take to school, you might also ask if the campus bookstore or an affiliated outlet sells the approved equipment.</p>
+        <p>Q. Is there any way I can tell what Web sites do with the personal information I give them?</p>
+        <p>A. Most commercial Web sites that ask for personal information have a link to their privacy policy at the bottom of the home page, which should tell you what the site is doing with your data and who the site might share the information with.</p>
+        <p>Although it is not a complete record of all the Web sites out there, Enonymous.com's analysts have a database rating privacy practices of 30,000 sites at www.privacyratings .org.</p>
+        <p>The site offers a directory of sites that have high privacy ratings, and you can check to see if a particular site has been rated by typing its U.R.L. into a box on the Privacy Ratings page.</p>
+        <p>There are a number of good sites for general information on online privacy, including legislative measures.</p>
+        <p>If you want to keep up on the issues, try the Electronic Privacy Information Center (www.epic.org), the Online Privacy Alliance (www.privacyalliance.org) or Americans for Computer Privacy (www.computerprivacy.org).</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

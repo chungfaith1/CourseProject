@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pollard's Crime</title>
+    <meta content="L18POL" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1231571"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Espionage</classifier>
+        <classifier class="indexing_service" type="descriptor">Election Issues</classifier>
+        <classifier class="indexing_service" type="descriptor">Treason</classifier>
+        <classifier class="indexing_service" type="descriptor">Elections</classifier>
+        <classifier class="indexing_service" type="descriptor">Debating</classifier>
+        <location class="indexing_service">United States</location>
+        <location class="indexing_service">Israel</location>
+        <location class="indexing_service">New York State</location>
+        <org class="indexing_service">Senate (US)</org>
+        <person class="indexing_service">Lauer, Eliot</person>
+        <person class="indexing_service">Semmelman, Jacques</person>
+        <person class="indexing_service">Pollard, Jonathan</person>
+        <person class="indexing_service">Clinton, Hillary Rodham</person>
+        <person class="indexing_service">Lazio, Rick A (Repr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2008/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Israel</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Debating</classifier>
+        <classifier class="online_producer" type="general_descriptor">Treason</classifier>
+        <classifier class="online_producer" type="general_descriptor">Espionage</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000918T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E1DC1138F93BA2575AC0A9669C8B63" item-length="195" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pollard's Crime</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Eliot Lauer and Jacques Semmelman, Jonathan Pollard's lawyers, on Sept 14 article on debate between Hillary Rodham Clinton and Rep Rick A Lazio; holds moderator incorrectly stated that Pollard was sentenced to life for espionage and treason; notes Pollard, who admitted giving classified data to Israel, was not charged with treason because Israel is not enemy</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Lazio and Hillary Clinton Clash on Donations, Taxes and Trust'' (front page, Sept. 14):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Lazio and Hillary Clinton Clash on Donations, Taxes and Trust'' (front page, Sept. 14):</p>
+        <p>In the debate between Hillary Rodham Clinton and Representative Rick A. Lazio, Tim Russert, the moderator, introduced a question concerning the candidates' positions on clemency for our client Jonathan Pollard by stating that Mr. Pollard had been ''sentenced to life for espionage and treason.''</p>
+        <p>Mr. Pollard has never been charged with or convicted of treason. He was charged with, and pleaded guilty to, conspiracy to commit espionage. The distinction is significant. Treason entails aiding an enemy of the United States. Mr. Pollard was charged with, and pleaded guilty to, conspiracy to deliver classified information to Israel, an ally of the United States. Mr. Pollard was never charged with intending to harm the United States or aiding an enemy of the United States.</p>
+        <p>ELIOT LAUER  JACQUES SEMMELMAN  New York, Sept. 15, 2000</p>
+        <p>The writers are lawyers for Jonathan Pollard.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

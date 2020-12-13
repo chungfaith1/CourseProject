@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Subway Series</title>
+    <meta content="L15YAN" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1207473"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <org class="indexing_service">New York Mets</org>
+        <org class="indexing_service">New York Yankees</org>
+        <person class="indexing_service">Clark, Charles J</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E4DD103EF936A25755C0A9669C8B63" item-length="67" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Subway Series</hl1>
+      </hedline>
+      <abstract>
+        <p>Charles J Clark letter on New York Yankees-New York Mets day-night doubleheader on July 8; says if day-night plan is to truly to take on flavor of New York, why don't players take subway from Shea Stadium to Yankee Stadium?</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Day-Night Plan Is Set: It's Queens, Then Bronx'' (Sports pages, June 14): If the Yankees-Mets day-night doubleheader on July 8 is to truly take on the flavor of New York, why don't the players take the subway from Shea Stadium to Yankee Stadium?</p>
+        <p>CHARLES J. CLARK  Somerset, N.J., June 14, 2000</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Day-Night Plan Is Set: It's Queens, Then Bronx'' (Sports pages, June 14): If the Yankees-Mets day-night doubleheader on July 8 is to truly take on the flavor of New York, why don't the players take the subway from Shea Stadium to Yankee Stadium?</p>
+        <p>CHARLES J. CLARK  Somerset, N.J., June 14, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

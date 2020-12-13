@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Public Pays</title>
+    <meta content="L04GEN" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212414"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <person class="indexing_service">Averick, Fred</person>
+        <person class="indexing_service">Shreeve, James</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000704T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E7DD1339F937A35754C0A9669C8B63" item-length="118" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Public Pays</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Fred Averick says James Shreeve's June 27 Op-Ed on necessity of genetic research glosses over financial costs of such research, which is mostly paid for by public</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Where the Genome Leads Us,'' by James Shreeve (Op-Ed, June 27):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Where the Genome Leads Us,'' by James Shreeve (Op-Ed, June 27):</p>
+        <p>Mr. Shreeve rightly points out that ''scientists need a version of the genome to work with now,'' but he glosses over the financial costs by saying it will ''cost drug companies a few million dollars a year and university researchers a little grant money.''</p>
+        <p>But to whom will the drug companies pass this ''few million dollars'' cost? Certainly not the stockholders.</p>
+        <p>And the majority of research grant money at universities comes from the government. Where do they get their money from?</p>
+        <p>FRED AVERICK  New York, June 28, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

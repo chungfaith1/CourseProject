@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>TRANSACTIONS</title>
+    <meta content="TRAN21" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1201460"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000521T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9904E3DB113AF932A15756C0A9669C8B63" item-length="277" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>TRANSACTIONS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BASEBALL: AMERICAN LEAGUE</p>
+        <p>ANAHEIM ANGELS--Placed RHP Jason Dickson on the 15-day disabled list. Purchased the contract of RHP Brett Hinchliffe from Edmonton of the PCL. Transferred RHP Tim Belcher from the 15- to the 60-day disabled list.</p>
+      </block>
+      <block class="full_text">
+        <p>BASEBALL: AMERICAN LEAGUE</p>
+        <p>ANAHEIM ANGELS--Placed RHP Jason Dickson on the 15-day disabled list. Purchased the contract of RHP Brett Hinchliffe from Edmonton of the PCL. Transferred RHP Tim Belcher from the 15- to the 60-day disabled list.</p>
+        <p>NATIONAL LEAGUE</p>
+        <p>PITTSBURGH PIRATES--Optioned OF Emil Brown to Nashville of the PCL. Activated RHP Francisco Cordova from the 15-day disabled list. Recalled 1B Ivan Cruz from Nashville.</p>
+        <p>SAN DIEGO PADRES--Recalled RHP Will Cunnane from Las Vegas of the PCL. Optioned RHP Brandon Kolb to Las Vegas.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

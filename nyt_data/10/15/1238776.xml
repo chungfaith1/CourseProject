@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Rats in the Grain'</title>
+    <meta content="LTR140723" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1238776"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001015T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F07E4DA163CF936A25753C1A9669C8B63" item-length="276" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Rats in the Grain'</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In his review of two new books about the Archer Daniels Midland price-fixing scandal (Sept. 17), Bryan Burrough praises one (''The Informant,'' by Kurt Eichenwald) while taking potshots at the other (James B. Lieber's ''Rats in the Grain''). Having read and enjoyed Lieber's book, I was naturally interested in reading more on the topic. I found Lieber's writing style compelling and the thoroughness of his research reassuring. His focus on the legal proceedings highlights the vagaries of whistle-blowing and the complexities of pursuing a case against a well-heeled corporate criminal with connections to large Washington law firms, high-placed politicians and influential media resources.</p>
+        <p>I have not yet read Eichenwald's book. Burrough's description of it emphasizes the colorful characters of the defendants and the whistle-blower without much attention to the enormity of the crime and its web of social implications. It would seem that if Burrough were to address the sinking of the Titanic (his reference), he might prefer to speak of the colorful characters who graced its decks rather than of the social and psychological forces that converged to produce such a disaster. His choice, but surely not the only one.</p>
+        <p>Michael S. Diamond  Bethesda, Md.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In his review of two new books about the Archer Daniels Midland price-fixing scandal (Sept. 17), Bryan Burrough praises one (''The Informant,'' by Kurt Eichenwald) while taking potshots at the other (James B. Lieber's ''Rats in the Grain''). Having read and enjoyed Lieber's book, I was naturally interested in reading more on the topic. I found Lieber's writing style compelling and the thoroughness of his research reassuring. His focus on the legal proceedings highlights the vagaries of whistle-blowing and the complexities of pursuing a case against a well-heeled corporate criminal with connections to large Washington law firms, high-placed politicians and influential media resources.</p>
+        <p>I have not yet read Eichenwald's book. Burrough's description of it emphasizes the colorful characters of the defendants and the whistle-blower without much attention to the enormity of the crime and its web of social implications. It would seem that if Burrough were to address the sinking of the Titanic (his reference), he might prefer to speak of the colorful characters who graced its decks rather than of the social and psychological forces that converged to produce such a disaster. His choice, but surely not the only one.</p>
+        <p>Michael S. Diamond  Bethesda, Md.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>You Know How to Whistle, Don't You? Use the Smart Card</title>
+    <meta content="24GEE3" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1224879"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Banks and Banking</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">ComSense Technologies</org>
+        <person class="indexing_service">Freierman, Shelly</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Banks and Banking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000824T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9502E2DD1731F937A1575BC0A9669C8B63" item-length="277" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>You Know How to Whistle, Don't You? Use the Smart Card</hl1>
+      </hedline>
+      <byline class="print_byline">By SHELLY FREIERMAN</byline>
+      <byline class="normalized_byline">Freierman, Shelly</byline>
+      <abstract>
+        <p>ComSense Technologies develops secure way for customers to log on at online banking or trading site by using sound bite instead of password (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ComSense Technologies, a company in Tel Aviv, has developed a secure way for customers to log on at an online banking or trading site by using a sound bite instead of a password. The new product, called Comdot, consists of a credit card with a flat button on it. When the button is pressed, it sends a sound code to a Web site through any built-in or plugged-in microphone. The sound code is used to authenticate the identity of the cardholder.</p>
+        <p>The code changes every time it is sent, which prevents someone from recording the code and playing it back to gain access to an account. Further security is provided by a PIN.</p>
+      </block>
+      <block class="full_text">
+        <p>ComSense Technologies, a company in Tel Aviv, has developed a secure way for customers to log on at an online banking or trading site by using a sound bite instead of a password. The new product, called Comdot, consists of a credit card with a flat button on it. When the button is pressed, it sends a sound code to a Web site through any built-in or plugged-in microphone. The sound code is used to authenticate the identity of the cardholder.</p>
+        <p>The code changes every time it is sent, which prevents someone from recording the code and playing it back to gain access to an account. Further security is provided by a PIN.</p>
+        <p>''Using the Comdot code is equivalent to swiping your card through a reader, but it's online,'' said Alon Atsmon, the founder and chief executive of ComSense. It can be used on a personal computer or on a cell phone or regular phone, he added. The sound code could even be used for phone-card calls and to get access to personal calendars on sites like AOL or Lycos.</p>
+        <p>The sound button, which will have a battery life of three years, will begin appearing on credit cards sometime toward the end of the year.</p>
+        <p>Mr. Atsmon envisions his technology as the logical end to the process of miniaturization in Internet transactions, from the personal computer to the laptop, the P.D.A. and the cell phone. He has plans far beyond the sound button.</p>
+        <p>''We want to put more on the card,'' he said. ''Maybe a tiny L.C.D. screen so you can view your transactions, or a P.D.A.-type calendar.''</p>
+        <p>SHELLY FREIERMAN</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>MUSIC SITES DRAW AD SPENDING</title>
+    <meta content="MB001219" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234420"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY BRIEFING: E-COMMERCE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <classifier class="indexing_service" type="descriptor">Copyrights</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings (Audio)</classifier>
+        <org class="indexing_service">Adrelevance Inc</org>
+        <org class="indexing_service">Napster</org>
+        <person class="indexing_service">Stellin, Susan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Marketing, Advertising and PR</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Copyrights</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000928T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1DB1E3AF93BA1575AC0A9669C8B63" item-length="176" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>MUSIC SITES DRAW AD SPENDING</hl1>
+      </hedline>
+      <byline class="print_byline">By Susan Stellin</byline>
+      <byline class="normalized_byline">Stellin, Susan</byline>
+      <abstract>
+        <p>Data gathered by AdRelevance suggest that Internet music sites have benefited from increased ad revenue in wake of publicity surrounding Napster case (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In what may be seen as a silver lining to the legal clouds hovering over Internet music sites, data gathered by the advertising measurement service AdRelevance suggests that the sites have benefited from increased ad revenue in the wake of publicity surrounding this sector. During the two weeks after the July 26 injunction against the music file-sharing service Napster, advertising revenue at about 23 music sites monitored by AdRelevance jumped 39 percent. Although for most music sites, the spike was short-lived, a few, like Spinner.com and Sonic.Net, had sustained increases in advertising revenue through early September. But Napster itself does not stand to benefit from the effect, since its Web site does not carry advertisements.</p>
+        <p>Susan Stellin</p>
+      </block>
+      <block class="full_text">
+        <p>In what may be seen as a silver lining to the legal clouds hovering over Internet music sites, data gathered by the advertising measurement service AdRelevance suggests that the sites have benefited from increased ad revenue in the wake of publicity surrounding this sector. During the two weeks after the July 26 injunction against the music file-sharing service Napster, advertising revenue at about 23 music sites monitored by AdRelevance jumped 39 percent. Although for most music sites, the spike was short-lived, a few, like Spinner.com and Sonic.Net, had sustained increases in advertising revenue through early September. But Napster itself does not stand to benefit from the effect, since its Web site does not carry advertisements.</p>
+        <p>Susan Stellin</p>
+        <p>TECHNOLOGY BRIEFING: E-COMMERCE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

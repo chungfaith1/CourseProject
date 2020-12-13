@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nike Officers Joining P.B.A.</title>
+    <meta content="27BOWL" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234103"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bowling</classifier>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <org class="indexing_service">Professional Bowlers Assn</org>
+        <person class="indexing_service">Hamilton, Ian</person>
+        <person class="indexing_service">Miller, Steve</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bowling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000927T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9807E3D6133AF934A1575AC0A9669C8B63" item-length="140" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nike Officers Joining P.B.A.</hl1>
+      </hedline>
+      <dateline>SEATTLE, Sept. 26</dateline>
+      <abstract>
+        <p>Professional Bowlers Association names Ian Hamilton commissioner and Steve Miller president (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Already backed by high-tech money, the Professional Bowlers Association added old-fashioned marketing savvy today with the hiring of two former Nike executives. Ian Hamilton was named commissioner and Steve Miller will be president of a P.B.A. that hopes to use the Internet and television to reinvent itself as a multimedia experience.</p>
+        <p>Hamilton's job will be to market players, increase sponsorships and oversee the P.B.A.'s television and Internet properties, essentially, what he did at Nike.</p>
+      </block>
+      <block class="full_text">
+        <p>Already backed by high-tech money, the Professional Bowlers Association added old-fashioned marketing savvy today with the hiring of two former Nike executives. Ian Hamilton was named commissioner and Steve Miller will be president of a P.B.A. that hopes to use the Internet and television to reinvent itself as a multimedia experience.</p>
+        <p>Hamilton's job will be to market players, increase sponsorships and oversee the P.B.A.'s television and Internet properties, essentially, what he did at Nike.</p>
+        <p>Miller will assist in the development of strategies and will be responsible for the day-to-day business operation.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

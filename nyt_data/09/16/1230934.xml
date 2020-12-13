@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="COR002741" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Corrections; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1230934"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="indexing_service" type="descriptor">Advertising</classifier>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <org class="indexing_service">Schwab, Charles, &amp; Co</org>
+        <org class="indexing_service">Brann Worldwide</org>
+        <org class="indexing_service">Digitas (Co)</org>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Advertising and Marketing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000916T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E7DB1E38F935A2575AC0A9669C8B63" item-length="84" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of S</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>An entry in the Addenda listing of the Media Business page on Tuesday about Charles Schwab &amp; Company's selection of Halloran Robertson &amp; Associates in San Jose, Calif., to handle an assignment for its Advisor Source customer consulting service misidentified the agency that had the role previously. It was the San Francisco office of Brann Worldwide, part of Snyder Communications (which is being acquired by Havas Advertising), not Digitas in Boston.</p>
+      </block>
+      <block class="full_text">
+        <p>An entry in the Addenda listing of the Media Business page on Tuesday about Charles Schwab &amp; Company's selection of Halloran Robertson &amp; Associates in San Jose, Calif., to handle an assignment for its Advisor Source customer consulting service misidentified the agency that had the role previously. It was the San Francisco office of Brann Worldwide, part of Snyder Communications (which is being acquired by Havas Advertising), not Digitas in Boston.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

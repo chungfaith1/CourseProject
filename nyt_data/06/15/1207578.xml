@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Surge Protection</title>
+    <meta content="LTR231628" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1207578"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <person class="indexing_service">Marsano, Bill</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7DC113EF936A25755C0A9669C8B63" item-length="209" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Surge Protection</hl1>
+      </hedline>
+      <abstract>
+        <p>Bill Marsano letter on surge protection for computers (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Dr. Elena Citkowitz described in a letter on June 8 (Incoming, ''Surge Protection Subtleties'') how an electrical storm destroyed her modem because there was no surge protector on the telephone line. Phone-line surge protectors are, of course, readily available, but a better solution is an I.P.S. (Uninterruptible Power Source). Models like the CyberPower 320SL and the APC 500 protect against surges through phone and electrical lines with a battery backup that will keep your computer and monitor running for the few minutes needed to shut down your whole system automatically, even if you're not at the keyboard when lightning strikes. Street prices for these home-office units are less than $100. For me, that's a one-time insurance premium equal to 5 percent of the cost of my system -- and it's almost nothing compared to the value of the protected data.</p>
+        <p>BILL MARSANO  New York City</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Dr. Elena Citkowitz described in a letter on June 8 (Incoming, ''Surge Protection Subtleties'') how an electrical storm destroyed her modem because there was no surge protector on the telephone line. Phone-line surge protectors are, of course, readily available, but a better solution is an I.P.S. (Uninterruptible Power Source). Models like the CyberPower 320SL and the APC 500 protect against surges through phone and electrical lines with a battery backup that will keep your computer and monitor running for the few minutes needed to shut down your whole system automatically, even if you're not at the keyboard when lightning strikes. Street prices for these home-office units are less than $100. For me, that's a one-time insurance premium equal to 5 percent of the cost of my system -- and it's almost nothing compared to the value of the protected data.</p>
+        <p>BILL MARSANO  New York City</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

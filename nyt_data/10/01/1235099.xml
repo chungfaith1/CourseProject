@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Exhibition On End of an Age</title>
+    <meta content="01FOSS" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1235099"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Paleontology</classifier>
+        <classifier class="indexing_service" type="descriptor">Dinosaurs</classifier>
+        <classifier class="indexing_service" type="descriptor">Fossils</classifier>
+        <classifier class="indexing_service" type="descriptor">Asteroids</classifier>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <org class="indexing_service">Maastricht Museum of Natural History</org>
+        <org class="indexing_service">New Jersey State Museum</org>
+        <person class="indexing_service">De Graff, Douwe Theodoor (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Asteroids</classifier>
+        <classifier class="online_producer" type="general_descriptor">Paleontology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Dinosaurs</classifier>
+        <classifier class="online_producer" type="general_descriptor">Archaeology and Anthropology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001001T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E1DD1F3AF932A35753C1A9669C8B63" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Exhibition On End of an Age</hl1>
+      </hedline>
+      <abstract>
+        <p>An age***Photo of Maastricht Museum of Natural History director Dr Douwe Theodoor de Graff fitting bone fragment onto skull of Mosasaur fossil as it is prepared for exhibit, Dinosaurs, Ammonites and Asteroids, at New Jersey State Museum</p>
+      </abstract>
+    </body.head>
+    <body.content/>
+  </body>
+</nitf>

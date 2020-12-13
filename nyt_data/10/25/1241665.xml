@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Kramnik Routs Kasparov To Take 2-Point Match Lead</title>
+    <meta content="25CHES" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="The Arts/Cultural Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1241665"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="CHESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Chess</classifier>
+        <person class="indexing_service">Byrne, Robert</person>
+        <person class="indexing_service">Kasparov, Garry</person>
+        <person class="indexing_service">Kramnik, Vladimir</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Crossword and Games/Chess</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chess</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001025T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E3DE1531F936A15753C1A9669C8B63" item-length="432" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Kramnik Routs Kasparov To Take 2-Point Match Lead</hl1>
+      </hedline>
+      <byline class="print_byline">By Robert Byrne</byline>
+      <byline class="normalized_byline">Byrne, Robert</byline>
+      <abstract>
+        <p>Vladimir Kramnik defeats Garry Kasparov in Game 10 of their Brain Games Network World Chess Championship in London; leads match 6 games to 4; Robert Byrne analysis; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In the midst of hurly-burly tactics, Garry Kasparov blundered against a mating attack by Vladimir Kramnik in Game 10 of their Brain Games Network World Chess Championship in London yesterday.</p>
+        <p>The victory put Kramnik 2 points ahead, with the score now 6 to 4 in his favor.</p>
+      </block>
+      <block class="full_text">
+        <p>In the midst of hurly-burly tactics, Garry Kasparov blundered against a mating attack by Vladimir Kramnik in Game 10 of their Brain Games Network World Chess Championship in London yesterday.</p>
+        <p>The victory put Kramnik 2 points ahead, with the score now 6 to 4 in his favor.</p>
+        <p>This means Kramnik needs just 2 1/2 more points for the 8 1/2 he needs to win the match and a $1.33 million prize.</p>
+        <p>When Kasparov said before the match that he expected to find Kramnik a difficult opponent, he knew what he was talking about.</p>
+        <p>There have been numerous blunders in this match, principally because these contenders seem to be able to generate tension whatever direction their strategies lead to. Nothing comes easy when they face each other.</p>
+        <p>Kramnik met Kasparov's Nimzo-Indian Defense with the Classical 4 Qc2 in Game 8. Since Kasparov was well prepared for that, Kramnik now switches to Rubinstein's 4 e3.</p>
+        <p>At Move 7, Kasparov opens the the center with cd 8 ed dc 9 Bc4, thus isolating the white d4 pawn. This leaves White in control of more terrain, but if he does not use it to attack successfully, the d4 pawn can become a weakness in the endgame. This approach has been Anatoly Karpov's favorite for 30 years.</p>
+        <p>After the tricky 14 Bf6!?, Kasparov could not play 14 . . . Bf6, because 15 Nb5 Ra8 16 Nd6 Bf3 17 Qf3 Bd4 18 Nf7! Rf7 19 Be6 Nf6 20 Re d1 b5 21 Rd4! wins for Kramnik.</p>
+        <p>But on 14 . . . Nf6, Kramnik attacked with 15 Be6!? fe 16 Qe6 Kh8 (16 . . . Rf7? 17 Ng5 Bd5 18 Nf7 Be6 19 Nd8 wins for White) 17 Qe7 Bf3 18 gf Qd4 19 Nb5!?</p>
+        <p>After 19 . . . Qb2 20 Rc8 Rc8 21 Nd6 Rb8 22 Nf7 Kg8 23 Qe6, Kasparov had a defense by 23 . . . h5!, when it is not clear who stands better. (He could not play 23 . . . Re8 24 Nh6 Kh8 27 Qg8 and 28 Nf7 mate.)</p>
+        <p>But he committed a terrible blunder with 23 Rf8? and was battered by 24 Nd8 Kh8 25 Qe7!</p>
+        <p>There was no defense: 25 . . . Kg8 is slammed by 26 Ne6! Rf7 27 Qd8 forcing mate. Kasparov gave up.</p>
+        <p>Game 11 is tomorrow at 3 p.m. London time (10 a.m. Eastern Daylight Time).</p>
+        <p>CHESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Stanford Wins</title>
+    <meta content="MB114155" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1206946"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PLUS: BASEBALL -- COLLEGE WORLD SERIES"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000612T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE4DE143EF931A25755C0A9669C8B63" item-length="97" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Stanford Wins</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Stanford beat Clemson by 10-4 yesterday, sending the Tigers into the losers' bracket at the College World Series in Omaha. Justin Wayne (15-3), the fifth overall pick in last week's amateur draft by the Montreal Expos, scattered eight hits over seven and two-thirds innings.</p>
+      </block>
+      <block class="full_text">
+        <p>Stanford beat Clemson by 10-4 yesterday, sending the Tigers into the losers' bracket at the College World Series in Omaha. Justin Wayne (15-3), the fifth overall pick in last week's amateur draft by the Montreal Expos, scattered eight hits over seven and two-thirds innings.</p>
+        <p>Stanford gets to rest until Wednesday. The Cardinal (49-15) will face whichever team comes out of the losers' side of the bracket. Clemson (51-17) plays tomorrow against Louisiana-Lafayette, which eliminated San Jose State by 6-3 last night.</p>
+        <p>PLUS: BASEBALL -- COLLEGE WORLD SERIES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In the Data Mine, There Is Seldom a Pot of Gold</title>
+    <meta content="01STRA$05" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/01/business/01STRA.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1235183"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="STRATEGIES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <person class="indexing_service">Hulbert, Mark</person>
+        <object.title class="indexing_service">Beating the Dow (Newsletter)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Strategies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001001T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E3DE173DF932A35753C1A9669C8B63" item-length="730" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In the Data Mine, There Is Seldom a Pot of Gold</hl1>
+      </hedline>
+      <byline class="print_byline">By MARK HULBERT</byline>
+      <byline class="normalized_byline">Hulbert, Mark</byline>
+      <abstract>
+        <p>Mark Hulbert article on performance of two investment strategies recommended by Beating the Dow newsletter, which lagged behind that of basic Dogs of the Dow approach--buying the 10 highest-yield Dow industrial stocks; figures for Dogs of the Dow, Five-Stock System and Penultimate Profit Prospect system, Dec 31, 1992, to June 30, 2000, noted (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AFTER eight years of publication, one of the investment newsletters that I monitor called it quits over the summer. The newsletter, named Beating the Dow, was one of several that recommend stocks known as the Dogs of the Dow -- those among the Dow Jones industrials that offer the highest yields.</p>
+        <p>Because advisory letters come and go, I usually would not consider the demise of one of them newsworthy. But this case is different, because it teaches us something about a dangerous practice called data mining -- in which advisers continually run investment strategies through databases until they find one that has beaten the market. It seems that almost all strategies that emerge from such a process, sometimes known as back-testing, stop working after we start to follow them.</p>
+      </block>
+      <block class="full_text">
+        <p>AFTER eight years of publication, one of the investment newsletters that I monitor called it quits over the summer. The newsletter, named Beating the Dow, was one of several that recommend stocks known as the Dogs of the Dow -- those among the Dow Jones industrials that offer the highest yields.</p>
+        <p>Because advisory letters come and go, I usually would not consider the demise of one of them newsworthy. But this case is different, because it teaches us something about a dangerous practice called data mining -- in which advisers continually run investment strategies through databases until they find one that has beaten the market. It seems that almost all strategies that emerge from such a process, sometimes known as back-testing, stop working after we start to follow them.</p>
+        <p>To determine whether an apparently successful strategy is worth a bet, we first need to know how many other strategies were also back-tested. An adviser might have tested 99 strategies that failed before coming across one that succeeded.</p>
+        <p>If that is the case, the odds are overwhelming that the 100th strategy will eventually fail, too. After all, we should expect that a few randomly picked strategies will appear to work but don't -- a phenomenon known in the scientific world as ''false positives.''</p>
+        <p>Because few advisers reveal how many of their strategies were failures, the best practical defense against data mining is to test the apparently successful strategy over a different period than used initially. Few advisers have the patience for these tests because they typically require years to complete. As a result, most investors are unwitting participants in the real-time tests of their advisers' data mining.</p>
+        <p>I am not suggesting that Beating the Dow was engaging in data mining simply because it favored high-yielding stocks. But I detect signs of data mining in two of the specific portfolios the letter recommended.</p>
+        <p>Consider the Five-Stock System, one of the letter's recommended strategies. That system calls for buying the five lowest-priced stocks among the 10 highest-yielding Dow companies. As far as I can tell, there was no basis for this approach other than the fact that the stocks did better in back-testing.</p>
+        <p>That is a sure sign of data mining, according to Grant McQueen and Steven Thorley, finance professors at Brigham Young University. They suggest that investors be on guard for any strategy in which the only motive for tweaking a portfolio is that it improves back-tested results.</p>
+        <p>Data mining was also evident in another of the newsletter's strategies, the Penultimate Profit Prospect. That approach calls for buying just one stock: the second-lowest-priced issue among the Dow's highest yielders. (The lowest-priced stock did not do as well in back-testing.)</p>
+        <p>Given these signs of data mining, it is no surprise that these strategies were laggards. According to The Hulbert Financial Digest, simply buying the 10 highest-yielding blue chips produced a 13.9 percent annualized return from the end of 1992 through June 30 of this year. In contrast, the Five-Stock System gained 11.7 percent and the one-stock strategy lost 1.6 percent.</p>
+        <p>UNFORTUNATELY, a number of other advisers have yet to learn such lessons. One of the best-known proponents of these strategies is the Motley Fool, the online investment site. It recommends the Foolish Four strategy, whose portfolio construction rules are constantly being tweaked by back-testing. Initially, the strategy worked like this: Start with the Five-Stock System, but eliminate the lowest-priced stock and give double weight to the so-called Penultimate Profit Prospect. In the face of subsequent back-testing, this rule was tweaked to eliminate the double weighting and to add a few other features.</p>
+        <p>In response to its disappointing performance, Motley Fool is now searching for yet more construction rules. Ann Coleman, a Motley Fool writer, said the approach was to ''test and tweak and brainstorm and test some more.''</p>
+        <p>Sounds like data mining to me.</p>
+        <p>STRATEGIES Mark Hulbert is editor of The Hulbert Financial Digest, a newsletter based in Annandale, Va. His column on investment strategies appears every other week.  E-mail: strategy@nytimes.com.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Mark Hulbert is editor of The Hulbert Financial Digest, a newsletter based in Annandale, Va. His column on investment strategies appears every other week.
+&lt;br&gt;E-mail: strategy@nytimes.com.</tagline>
+    </body.end>
+  </body>
+</nitf>

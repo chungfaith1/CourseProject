@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Effects of Malathion</title>
+    <meta content="L16MAL" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1199930"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Encephalitis</classifier>
+        <classifier class="indexing_service" type="descriptor">Malathion (Pesticide)</classifier>
+        <classifier class="indexing_service" type="descriptor">Pesticides and Pests</classifier>
+        <location class="indexing_service">New York City Metropolitan Area</location>
+        <person class="indexing_service">Ross, Gilbert L (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pesticides</classifier>
+        <classifier class="online_producer" type="general_descriptor">Encephalitis</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000516T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E6D8113BF935A25756C0A9669C8B63" item-length="165" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Effects of Malathion</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Dr Gilbert L Ross says malathion, most potent weapon to prevent recurrence of encephalitis, is not being sprayed in New York area because of pressure from activist groups, whose agendas are based on unfounded fear, not science</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As a public health scientist, I applaud you for pointing out that malathion poses ''no health threat to people'' (news article, May 12).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As a public health scientist, I applaud you for pointing out that malathion poses ''no health threat to people'' (news article, May 12).</p>
+        <p>In its new report, the Environmental Protection Agency, generally no friend to pesticides, agrees with the overwhelming body of scientific evidence. While malathion is possibly a threat to mice at very high doses, the trace levels to which New Yorkers would be exposed via spraying should cause no alarm.</p>
+        <p>Why then do we still hesitate to use our most potent weapon to prevent the recurrence of a potentially lethal mosquito-borne epidemic? Could it be because of pressure from activist groups, whose agendas are based on unfounded fear, not science?</p>
+        <p>GILBERT L. ROSS, M.D.  New York, May 12, 2000</p>
+        <p>The writer is medical director of the American Council on Science and Health.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

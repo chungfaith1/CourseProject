@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tech 2010: #14 Feel Secure; The Surveillance Camera That Picks Out the Bad Guys</title>
+    <meta content="611CAM" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="71" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Science; Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1206304"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Crime and Criminals</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">New Models, Design and Products</classifier>
+        <classifier class="indexing_service" type="descriptor">Science and Technology</classifier>
+        <classifier class="indexing_service" type="descriptor">Security and Warning Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Visionics (Co)</org>
+        <person class="indexing_service">Turner, Rob</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Security and Warning Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E0DD143FF932A25755C0A9669C8B63" item-length="319" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tech 2010: #14 Feel Secure; The Surveillance Camera That Picks Out the Bad Guys</hl1>
+      </hedline>
+      <byline class="print_byline">By Rob Turner</byline>
+      <byline class="normalized_byline">Turner, Rob</byline>
+      <abstract>
+        <p>Visionics Inc develops surveillance device that works with built-in processors to monitor human behavior, whether that of burglars outside home or family members unlocking front door (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>When a thief cases a house, even the craftiest old pro gives himself away. It could be a movement as subtle as as change in gait. A cop might pick that up, if there was one around to see it. So might a camera, says Joseph J. Atick, president of Visionics, a Jersey City-based software maker.</p>
+        <p>Visionics has developed a surveillance device that works with built-in processors to monitor human behavior. The camera can be programmed, for example, to notice someone lingering in one spot for too long, or it can recognize (and recall) a face that reappears at different intervals. It can even analyze a person's body language and sound an alarm if it picks up a suspicious pattern.</p>
+      </block>
+      <block class="full_text">
+        <p>When a thief cases a house, even the craftiest old pro gives himself away. It could be a movement as subtle as as change in gait. A cop might pick that up, if there was one around to see it. So might a camera, says Joseph J. Atick, president of Visionics, a Jersey City-based software maker.</p>
+        <p>Visionics has developed a surveillance device that works with built-in processors to monitor human behavior. The camera can be programmed, for example, to notice someone lingering in one spot for too long, or it can recognize (and recall) a face that reappears at different intervals. It can even analyze a person's body language and sound an alarm if it picks up a suspicious pattern.</p>
+        <p>''It follows the classic saying that people have a hard time chewing gum and walking at the same time,'' explains Atick. ''If they're doing something, looking at a building with an intention to analyze something, the body inclination changes, the way the muscles are carried. Motor control starts taking a different pattern.''</p>
+        <p>Atick's camera can be programmed for more mundane tasks too, such as recognizing members of a family and unlocking the front door for them. In the works are more advanced programs that gauge the emotion of a person by detecting a smile or a furrowed brow.</p>
+        <p>The technology to do much of this exists now, but it's expensive. And not everybody is eager to embrace machines that are programmed to differentiate human behavior. Experts like George Kelling, a criminologist and co-author of the acclaimed book ''Fixing Broken Windows,'' are a bit leery of the idea. ''What bothers me about a lot of the technological solutions,'' Kelling says, ''is that they are basically antisocial.'' Kelling's prescription for a more effective, ''pro-social'' crime-fighting tool: front porches.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

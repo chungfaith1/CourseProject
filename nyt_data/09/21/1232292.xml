@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ways to Keep Out Broadband Hackers</title>
+    <meta content="21ASKK$02" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/21/technology/21ASKK.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1232292"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000921T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE3DB123BF932A1575AC0A9669C8B63" item-length="721" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ways to Keep Out Broadband Hackers</hl1>
+      </hedline>
+      <byline class="print_byline">By J. D. BIERSDORFER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q. I have heard that a speedy connection like a cable modem or a digital subscriber line leaves your computer very vulnerable to invasion by hackers. Is that true, and how can it be prevented?</p>
+        <p>A. Security and privacy issues are causing more and more concern among users as high-speed connections like cable and digital subscriber lines become more available to the home market. An individual cable or D.S.L. connection is part of a network and the connection is always on and therefore visible on the network to anyone poking around in the right places. So they are thought to have more vulnerability than a telephone modem connection, which is turned ''on'' only when it dials up the Internet provider.</p>
+      </block>
+      <block class="full_text">
+        <p>Q. I have heard that a speedy connection like a cable modem or a digital subscriber line leaves your computer very vulnerable to invasion by hackers. Is that true, and how can it be prevented?</p>
+        <p>A. Security and privacy issues are causing more and more concern among users as high-speed connections like cable and digital subscriber lines become more available to the home market. An individual cable or D.S.L. connection is part of a network and the connection is always on and therefore visible on the network to anyone poking around in the right places. So they are thought to have more vulnerability than a telephone modem connection, which is turned ''on'' only when it dials up the Internet provider.</p>
+        <p>Most cable and D.S.L. providers will try to configure a customer's computer to make it more secure. The technician who visits the user's home to set up the service will often make adjustments to certain computer settings, or the company will provide the customer with the information to do it. Many providers of high-speed connections will also encrypt data going to and from the user's computer and will provide measures to help ensure security.</p>
+        <p>There are some basic steps you can take to help safeguard against intruders. Most providers will advise the user to turn off the file- and print-sharing option within Windows. To do that, go to the Start menu to Settings and then Control Panel. Double-click on the Network icon, and in the dialog box, click on the File and Print Sharing button. There are two options there that refer to giving other users access to the computer's files, as well as allowing other users to print files to the printer connected to it. Make sure neither of the boxes next to those options has a check mark in it before you click on OK. Mac users should make sure the file sharing option is turned off in the Apple menu's File Sharing control panel.</p>
+        <p>You should have a current version of a virus-protection program on your computer as well. You can usually find a selection of the programs for either Windows or Macintosh systems at your favorite software retailer, and registered users can usually download updates to the software from the Web.</p>
+        <p>Adding a firewall to your home system can also help block out unwanted visitors. Firewalls can consist of separate hardware (like one made by Linksys (www.linksys .com), special software or both. You should ask your provider if it has  specific methods or programs you should use. Many companies are starting to make easy-to-use firewall software for home users. Windows users can try Norton Internet Security from Symantec (www.symantec .com), Internet Guard Dog from McAfee (software.mcafee.com) or BlackIce Defender by Network Ice (www.networkice.com). Mac users might try NetBarrier by Intego (www.intego.com).</p>
+        <p>If you use a Windows PC and are curious about how vulnerable your machine is on the Internet, try the free Shields Up! test by following the link on the Gibson Research Corporation page at grc.com. Zone Labs also makes a firewall program called Zone Alarm that home PC users can download free at www .zonelabs.com.</p>
+        <p>Q. How can one telephone line be used simultaneously for phone calls and D.S.L. service?</p>
+        <p>A. Plain old voice telephone calls  use only a very small portion of the potential capacity of the copper-wire telephone line in your house. (According to some industry estimates, about 4 percent of the wire's capacity is used on a voice call.)</p>
+        <p>The D.S.L. modem technology takes advantage of the full potential of your phone line. The part of the line that is used for voice calls is different from the part that is used for the high-speed data transmission, and these two parts can coexist, allowing you the ability to surf the Web while talking on the phone over the same line.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

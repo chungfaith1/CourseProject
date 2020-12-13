@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Different Messages</title>
+    <meta content="LTR025843" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215225"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BERLIN AND GUTHRIE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <person class="indexing_service">Guthrie, Woody</person>
+        <person class="indexing_service">Berlin, Irving (1888-1989)</person>
+        <person class="indexing_service">Mcleod, Mike</person>
+        <person class="indexing_service">Rosen, Jody</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E6D91F38F935A25754C0A9669C8B63" item-length="170" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Different Messages</hl1>
+      </hedline>
+      <abstract>
+        <p>Mike McLeod letter on Jody Rosen's July 2 article on Irving Berlin and Woody Guthrie offers other stanzas from 1940 version of Guthrie's This Land Is Your Land; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Jody Rosen's excellent article [''Two American Anthems, in Two American Voices,'' July 2] states that Woody Guthrie deplored the ''cloying sentiments'' of Tin Pan Alley, yet he passed on the opportunity to include the lyrics from other stanzas of the 1940 version of ''This Land Is Your Land'' that would have shown eloquently how far apart the messages of Irving Berlin and Guthrie were:</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Jody Rosen's excellent article [''Two American Anthems, in Two American Voices,'' July 2] states that Woody Guthrie deplored the ''cloying sentiments'' of Tin Pan Alley, yet he passed on the opportunity to include the lyrics from other stanzas of the 1940 version of ''This Land Is Your Land'' that would have shown eloquently how far apart the messages of Irving Berlin and Guthrie were:</p>
+        <p>Was a high wall there that tried to stop me</p>
+        <p>A sign was painted said: Private Property.</p>
+        <p>But on the back side it didn't say nothing --</p>
+        <p>God blessed America for me. . . .</p>
+        <p>One bright sunny morning in the shadow of the steeple</p>
+        <p>By the Relief Office I saw my people --</p>
+        <p>As they stood hungry, I stood there wondering if</p>
+        <p>God blessed America for me.</p>
+        <p>MIKE MCLEOD  Federal Way, Wash.</p>
+        <p>BERLIN AND GUTHRIE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

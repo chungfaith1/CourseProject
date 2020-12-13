@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>WEB SITE IS SUED</title>
+    <meta content="MB235653" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1221519"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY BRIEFING: INTERNET"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">News and News Media</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">New York Times</org>
+        <org class="indexing_service">Time Warner Inc</org>
+        <org class="indexing_service">Gannett Co</org>
+        <org class="indexing_service">G0SMS.com</org>
+        <org class="indexing_service">Washington Post</org>
+        <person class="indexing_service">Barringer, Felicity</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000810T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E1D7163FF933A2575BC0A9669C8B63" item-length="188" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>WEB SITE IS SUED</hl1>
+      </hedline>
+      <byline class="print_byline">By Felicity Barringer</byline>
+      <byline class="normalized_byline">Barringer, Felicity</byline>
+      <abstract>
+        <p>Several news media concerns sue GoSMS.com, Web site based in Israel that sends subscribers headlines via cell phone, saying much of content offered by company is being taken without permission from their Web sites; include CNN unit of Time Warner Inc, Washington Post Co, Gannett Inc and New York Times (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Several news media concerns have sued GoSMS.com, a Web site based in Israel that sends subscribers headlines via cell phone, saying that much of the content offered by the company is being taken without permission from their Web sites. Among the plaintiffs in the suit filed in Federal District Court in New York six weeks ago were the CNN unit of Time Warner Inc., the Washington Post Company, Gannett Inc. and The New York Times Company. Bruce Keller, a lawyer for the media companies, said yesterday, ''There is no legitimate argument to the wholesale copying of content from The New York Times Web site and the Web sites of other major media organizations, particularly when those companies license that content to competitors of companies like GoSMS.'' Yuval Golan, chief executive of GoSMS, could not be reached for comment yesterday.</p>
+        <p>Felicity Barringer</p>
+      </block>
+      <block class="full_text">
+        <p>Several news media concerns have sued GoSMS.com, a Web site based in Israel that sends subscribers headlines via cell phone, saying that much of the content offered by the company is being taken without permission from their Web sites. Among the plaintiffs in the suit filed in Federal District Court in New York six weeks ago were the CNN unit of Time Warner Inc., the Washington Post Company, Gannett Inc. and The New York Times Company. Bruce Keller, a lawyer for the media companies, said yesterday, ''There is no legitimate argument to the wholesale copying of content from The New York Times Web site and the Web sites of other major media organizations, particularly when those companies license that content to competitors of companies like GoSMS.'' Yuval Golan, chief executive of GoSMS, could not be reached for comment yesterday.</p>
+        <p>Felicity Barringer</p>
+        <p>TECHNOLOGY BRIEFING: INTERNET</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

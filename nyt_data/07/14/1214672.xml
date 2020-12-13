@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Album of the Week</title>
+    <meta content="14RECO$04" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1214672"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings (Audio)</classifier>
+        <person class="indexing_service">Lil' Kim (Performer)</person>
+        <person class="indexing_service">Powers, Ann</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000714T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E0D61F38F937A25754C0A9669C8B63" item-length="253" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Album of the Week</hl1>
+      </hedline>
+      <byline class="print_byline">By ANN POWERS</byline>
+      <byline class="normalized_byline">Powers, Ann</byline>
+      <abstract>
+        <p>Ann Powers Album of the Week review of The Notorious KIM by Lil' Kim (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LIL' KIM: ''The Notorious K.I.M.'' (Queen Bee/Undeas/Atlantic Records). Lil' Kim, hip-hop's queen bee, returns after a long hiatus to the same base she used to gain supremacy on ''Hardcore,'' her popular debut: the bedroom. Yes, this album is a declaration of sexual prowess. But the themes Lil' Kim develops here have more to do with machismo than with feminine wiles. Declaring herself ''the first female king,'' she explores the fallout from a woman's decision to take a masculine stance and finds it perilous as well as powerful.</p>
+      </block>
+      <block class="full_text">
+        <p>LIL' KIM: ''The Notorious K.I.M.'' (Queen Bee/Undeas/Atlantic Records). Lil' Kim, hip-hop's queen bee, returns after a long hiatus to the same base she used to gain supremacy on ''Hardcore,'' her popular debut: the bedroom. Yes, this album is a declaration of sexual prowess. But the themes Lil' Kim develops here have more to do with machismo than with feminine wiles. Declaring herself ''the first female king,'' she explores the fallout from a woman's decision to take a masculine stance and finds it perilous as well as powerful.</p>
+        <p>In fat, highly aggressive mixes that sample widely from the women-in-pop palette (tracks interpolate work by Sade, Pat Benatar, Suzanne Vega and Grace Jones), Lil' Kim relentlessly equates eroticism with her urge to dominate and the male hostility it causes. The album's many producers, including Puffy Combs and Yellowman Winans, create action-movie soundtracks for Lil' Kim to move through. She comes out with guns blazing under her belt: the album's dominant metaphor is oral gratification as a power play. It's a mixed-up, cynical vision of female empowerment, but Lil' Kim clearly believes in it. As she declares in the album's final cut, a vision of a female-run America, ''Inside we're all animal.''</p>
+        <p>ANN POWERS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

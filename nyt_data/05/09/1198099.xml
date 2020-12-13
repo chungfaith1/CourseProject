@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Nonprofit Motive</title>
+    <meta content="09BORO$10" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1198099"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <person class="indexing_service">Borowitz, Andy</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000509T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E1DD1038F93AA35756C0A9669C8B63" item-length="362" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Nonprofit Motive</hl1>
+      </hedline>
+      <byline class="print_byline">By Andy Borowitz</byline>
+      <byline class="normalized_byline">Borowitz, Andy</byline>
+      <abstract>
+        <p>Andy Borowitz Op-Ed article on increasingly bullish trend on Wall Street toward dot-orgs, new white-hot market sector replacing diving dot-coms (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Having been burned in recent weeks by the dot-coms, Wall Street insiders are turning an increasingly bullish eye to a new, white-hot market sector: the dot-orgs.</p>
+        <p>At first blush, Wall Street's mad rush to invest in nonprofit organizations seems counterintuitive, but market gurus believe that the dot-orgs provide something the dot-coms cannot: predictability.</p>
+      </block>
+      <block class="full_text">
+        <p>Having been burned in recent weeks by the dot-coms, Wall Street insiders are turning an increasingly bullish eye to a new, white-hot market sector: the dot-orgs.</p>
+        <p>At first blush, Wall Street's mad rush to invest in nonprofit organizations seems counterintuitive, but market gurus believe that the dot-orgs provide something the dot-coms cannot: predictability.</p>
+        <p>''The dot-com companies promise huge profits but wind up hemorrhaging cash,'' said Ivan Z., a senior dot-org analyst. ''The nonprofit organizations promise no profits and consistently deliver on that promise.''</p>
+        <p>He added that, unlike the dot-coms, dot-orgs are not the subject of nagging questions about earnings. ''If people ask when the dot-orgs will turn a profit, there's a simple answer: 'When pigs fly.' Going forward, we expect the dot-orgs to rack up an impressive string of zeroes for some time to come.''</p>
+        <p>In a surprising chorus of unanimity, Main Street seems to be agreeing with Wall Street, as investors rush to gobble up the suddenly sexy dot-orgs.</p>
+        <p>Buster H., a full-time day trader,  has dumped his shares of priceline.com and is loading up on stocks like audubon.org and sierraclub.org. ''With dot-coms, I used to lose sleep worrying about bad earnings reports,'' he told a reporter at the Dot-Org Market Site in Times Square, where investors huddled to track the performance of today's hot I.P.O., savethewhales.org.</p>
+        <p>''Dot-orgs may earn nothing, but when you've lost as much money as I have, nothing starts to look like something.''</p>
+        <p>While some naysayers warn of a coming dot-org bubble, Ivan Z. shrugs off this doom-and-gloom scenario. ''I've put out a strong buy rating on both pbs.org and npr.org,'' he said. ''These two are a sure bet never to turn a profit, plus, you get a mug.''</p>
+        <p>Andy Borowitz is the author of ''The Trillionaire Next Door: The Greedy Investor's Guide to Day Trading.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Andy Borowitz is the author of ''The Trillionaire Next Door: The Greedy Investor's Guide to Day Trading.''</tagline>
+    </body.end>
+  </body>
+</nitf>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Early Warning for Parkinson's</title>
+    <meta content="25EISE$01" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Women's Health" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="15" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209906"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="CHECKUPS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Parkinson's Disease</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Altropane (Drug)</classifier>
+        <classifier class="indexing_service" type="descriptor">Positron Emission Tomography (Pet)</classifier>
+        <classifier class="indexing_service" type="descriptor">Single Photon Emission Computed Tomography</classifier>
+        <person class="indexing_service">Eisenberg, Anne</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Parkinson's Disease</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parkinson's Disease</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000625T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE6DF103EF936A15755C0A9669C8B63" item-length="442" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Early Warning for Parkinson's</hl1>
+      </hedline>
+      <byline class="print_byline">By Anne Eisenberg</byline>
+      <byline class="normalized_byline">Eisenberg, Anne</byline>
+      <abstract>
+        <p>Preliminary tests show drug compound Altropane may be useful in early detection of Parkinson's disease; Altropane's usefulness is as imaging agent in scanning with single photon emission computed tomography, a technique that is less expensive than currently used positron emission tomography (PET) scanning; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PARKINSON'S disease, which affects about one million Americans, is a progressive, incurable illness in which the death of brain cells leads to loss of muscle control, paralysis and, in the worst cases, death. It is usually diagnosed with a PET scan, but the positron emission tomography machines that do the scans are expensive, and only a handful exist in American hospitals.</p>
+        <p>Now scientists are testing a compound that they say will make it possible to detect the abnormality that leads to Parkinson's  far earlier in its development. The compound, Altropane, is in the final stages of clinical testing required by the Food and Drug Administration, and is expected to be available next year, according to Boston Life Sciences Inc., which is marketing it.</p>
+      </block>
+      <block class="full_text">
+        <p>PARKINSON'S disease, which affects about one million Americans, is a progressive, incurable illness in which the death of brain cells leads to loss of muscle control, paralysis and, in the worst cases, death. It is usually diagnosed with a PET scan, but the positron emission tomography machines that do the scans are expensive, and only a handful exist in American hospitals.</p>
+        <p>Now scientists are testing a compound that they say will make it possible to detect the abnormality that leads to Parkinson's  far earlier in its development. The compound, Altropane, is in the final stages of clinical testing required by the Food and Drug Administration, and is expected to be available next year, according to Boston Life Sciences Inc., which is marketing it.</p>
+        <p>Parkinson's is caused by the death of neurons that release dopamine, which is essential for motor control. Altropane, a synthetic compound similar to cocaine, acts as an imaging agent that makes the dopamine transport system easy to scan with single photon emission computed tomography, a technique that is less expensive than PET scanning. The more advanced the disease, the dimmer the dopamine system appears.</p>
+        <p>While Parkinson's is incurable, there are many treatments to ease its symptoms, so doctors say patients can only benefit from early detection.</p>
+        <p>''This may mean an earlier diagnosis, one that is available to far more people,'' said Dr. Leonard M. Freeman, who participated in recent trials of Altropane and is a professor of nuclear medicine and radiology at the Albert Einstein College of Medicine in New York.</p>
+        <p>The compound also shows promise in early tests for attention deficit hyperactivity disorder, which is associated with an oversupply of dopamine in the brain. Right now there is no objective test for the disorder, but Dr. Russell A. Barkley, a professor of psychiatry and neurology at the University of Massachusetts Medical Center in Worcester, says that preliminary tests with Altropane indicate that adults with the disorder show ''much brighter'' brain scans than normal adults.</p>
+        <p>ANNE EISENBERG</p>
+        <p>CHECKUPS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

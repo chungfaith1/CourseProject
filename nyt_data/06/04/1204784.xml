@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ideas &amp; Trends; Even a Worm Needs Love</title>
+    <meta content="04MARK$02" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204784"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Security</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <person class="indexing_service">Markoff, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9404E1DC1E3CF937A35755C0A9669C8B63" item-length="916" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ideas &amp; Trends; Even a Worm Needs Love</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <byline class="normalized_byline">Markoff, John</byline>
+      <abstract>
+        <p>Computer experts looking at different contagion rates for original 'Love Bug' computer virus, or 'worm,' and subsequent copy-cat viruses are uncertain whether Internet users learned hard lesson from original virus or whether Love Bug was so successful because it appealed to deep-seated loneliness of computer users; note subsequent viruses, which were less successful at invading systems, had far more destructive potential than Love Bug, which caused estimated $950 million in damage; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LAST month a hyperactive computer program bearing the message ''I Love You'' ricocheted around the world's e-mail systems in less than 24 hours and infected tens of millions of computers.</p>
+        <p>The ''I Love You'' bug, allegedly launched by a computer student in the Philippines with too much time on his hands, touched off a cyber-flu season. More than 29 variants have emerged so far, including diabolical derivatives with names like ''NewLove'' and ''Resume -- Janet Simons.'' Most of the mutants arrived without tidings of love, and some instead carried a software payload designed to erase victims' disks once the message's attachment was opened.</p>
+      </block>
+      <block class="full_text">
+        <p>LAST month a hyperactive computer program bearing the message ''I Love You'' ricocheted around the world's e-mail systems in less than 24 hours and infected tens of millions of computers.</p>
+        <p>The ''I Love You'' bug, allegedly launched by a computer student in the Philippines with too much time on his hands, touched off a cyber-flu season. More than 29 variants have emerged so far, including diabolical derivatives with names like ''NewLove'' and ''Resume -- Janet Simons.'' Most of the mutants arrived without tidings of love, and some instead carried a software payload designed to erase victims' disks once the message's attachment was opened.</p>
+        <p>While ''I Love You'' was startlingly swift and effective, most of its imitators went almost nowhere. According to some computer security experts, the copycat cyberplagues should have spread just as rapidly as the worm (in computer entomology, worms propel themselves while viruses hitchhike on other documents) they were mimicking.</p>
+        <p>The question is, what's love got to do with it?</p>
+        <p>Quite a lot, perhaps.</p>
+        <p>Computer experts looking at the different contagion rates are divided about whether Internet users learned a hard lesson in computer hygiene or whether the world is actually a lonelier place than anyone realized.</p>
+        <p>''I've been told that men were much more likely to open the 'I Love You' worm than women,'' said George Cybenko, a computer scientist at Dartmouth University and a founder of the Institute of Security Technology Studies.</p>
+        <p>Indeed, the ''I Love You'' message was so simple and beguiling that in some cases it hoodwinked even the most sophisticated computer programmers.</p>
+        <p>Steven Capps, a senior Microsoft software designer, padded downstairs at 5 a.m. on the morning of the ''I Love You'' infection, poured himself a cup of coffee and sat down at his computer to read his e-mail. It happened to be his birthday, so as he scanned his mailbox he thought he saw a love note from his wife.</p>
+        <p>After opening the program Mr. Capps quickly realized his error and managed to delete the bug before it spread widely. ''What I remember thinking was, ''How did Marie manage to sneak downstairs late at night to send me a birthday note?'' he said sheepishly.</p>
+        <p>Mr. Capps was not alone. Hewlett-Packard &amp; Company acknowledged last week that its computers suffered more than 700,000 infections from the ''I Love You'' worm -- more than 500,000 in the United States.</p>
+        <p>The total damage -- primarily time spent restoring files and cleaning out clogged e-mail systems -- may reach $950 million, according to ICSA.net, a computer security company that tracks the cost of computer infections.</p>
+        <p>Two weeks ago, the far more lethal ''NewLove'' bug began infecting the address books of users of the popular Microsoft Outlook e-mail program, sending itself to every person on the list. But instead of delivering the endearingly named document LOVE-LETTER-FOR-YOU.TXT.VBS, NewLove cloaked itself by snatching a recent document name from its victim's hard disk and using that name in the subject line of all subsequent messages sent from the address list, destroying data on the hard drives of affected computers.</p>
+        <p>Last week, the ''Resume'' bug urged e-mail recipients to look at a job seeker's fabulous curriculum vitae, helpfully included as an attachment -- which, of course served as an electronic Trojan Horse.</p>
+        <p>Despite their cleverness, however, both ''NewLove'' and ''Resume'' were stopped in their tracks. ''If 'NewLove' had come before 'I Love You' it would have spread more slowly but we would have had a bigger disaster,'' said Peter Tippett, chief technology officer of ICSA.</p>
+        <p>Mr. Tippett, who was trained as an epidemiologist before starting an antivirus software company in the 1980's, has long argued that computer viruses and infections closely mimic the biological world.</p>
+        <p>THAT might be another reason why the lethal ''NewLove'' was less effective than ''I Love You.'' In the real world as well as in cyberspace, diseases that kill their hosts quickly tend to have limited success in spreading through large populations. ''Viruses that kill their hosts never make it,'' Mr. Tippett said.</p>
+        <p>Whether it's the Darwinian imperative or the irresistible power of love at work, experts believe the current cyber-flu season will not be the last, especially as the millions of PC's of the 1990's are transformed into billions of cell phones, personal digital assistants and even toaster-connected Internet appliances by the end of the decade.</p>
+        <p>For each new device connected to the Internet there are dozens of new ways to spread infection. Even now, computer security experts are warning that the growing popularity of music and file-sharing programs like Napster, Gnutella, iMesh and Scour Exchange will virtually insure new vectors for diseases.</p>
+        <p>That will mean that disease in the cyberworld will become as routine as cold season is today.</p>
+        <p>''That's what concerns me,'' said Kevin Kelly, author of ''Out of Control: The New Biology of Machines, Social Systems and the Economic World'' (Addison Wesley, 1994). ''These new systems leave us completely open to these infections and we may just have to learn to live with them.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

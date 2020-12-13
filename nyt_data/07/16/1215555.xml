@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Two Outs</title>
+    <meta content="LTR010121" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215555"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <org class="indexing_service">New York Yankees</org>
+        <org class="indexing_service">New York Mets</org>
+        <person class="indexing_service">Clemens, Roger</person>
+        <person class="indexing_service">Piazza, Mike</person>
+        <person class="indexing_service">Gurka, Samuel</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407EFD6153BF935A25754C0A9669C8B63" item-length="175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Two Outs</hl1>
+      </hedline>
+      <abstract>
+        <p>Samuel Gurka letter holds Yankees pitcher Roger Clemens should have been excused from game afer hitting Mets catcher Mike Piazzar</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Sports Editor:</p>
+        <p>I have no doubt that Clemens did not intend to hit Piazza in the head. I take Clemens at his word that he wanted to pitch up and in.</p>
+        <p>Nevertheless, the feeling of injustice and suspicion lingers. The need to retaliate, which Glendon Rusch dutifully did in the subsequent inning, was required but unsatisfying. The Mets lost their best player because of the lack of control of the opposing pitcher.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Sports Editor:</p>
+        <p>I have no doubt that Clemens did not intend to hit Piazza in the head. I take Clemens at his word that he wanted to pitch up and in.</p>
+        <p>Nevertheless, the feeling of injustice and suspicion lingers. The need to retaliate, which Glendon Rusch dutifully did in the subsequent inning, was required but unsatisfying. The Mets lost their best player because of the lack of control of the opposing pitcher.</p>
+        <p>Just resolution of this situation, which would also avoid the risk of further escalation, is to excuse the pitcher from  the game. The offending team should not benefit even if there is no malicious intent.</p>
+        <p>SAMUEL GURKA  The Bronx</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

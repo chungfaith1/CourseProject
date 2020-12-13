@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Testing Can't Measure the Person</title>
+    <meta content="LTR234754" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1204904"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <classifier class="indexing_service" type="descriptor">Teachers and School Employees</classifier>
+        <person class="indexing_service">Henkin, Jerome</person>
+        <person class="indexing_service">Botstein, Leon</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Teachers and School Employees</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000604T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE1D81F3CF937A35755C0A9669C8B63" item-length="169" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Testing Can't Measure the Person</hl1>
+      </hedline>
+      <abstract>
+        <p>Jerome Henkin letter responds to Leon Botstein's May 28 Op-Ed commentary on standardized tests; contends such tests are inadequate for measuring students' progress or teachers' effectiveness (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Leon Botstein (Op-Ed, May 28) suggests that computer programs that measure learning progress for each student also be used to evaluate teacher effectiveness. But learning is far more complex than comparing before and after tests.</p>
+        <p>A much more accurate, although subjective, gauge of teacher effectiveness is change in a child's conception of himself as a learner. I have a student in my 11th-grade American literature class who has been failing. Last week, she kept writing notes and passing them to other students while I led the class in analyzing several modern poems.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Leon Botstein (Op-Ed, May 28) suggests that computer programs that measure learning progress for each student also be used to evaluate teacher effectiveness. But learning is far more complex than comparing before and after tests.</p>
+        <p>A much more accurate, although subjective, gauge of teacher effectiveness is change in a child's conception of himself as a learner. I have a student in my 11th-grade American literature class who has been failing. Last week, she kept writing notes and passing them to other students while I led the class in analyzing several modern poems.</p>
+        <p>My annoyance turned to delight when I discovered that she had written a poem in class and was making copies for her friends. This girl had created a poem and shared it with her friends. No one can take that accomplishment away from her; no computerized test can measure her pride and joy.</p>
+        <p>JEROME HENKIN  Yonkers, May 28, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

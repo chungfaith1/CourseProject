@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Business; Print and Dot-Com Team</title>
+    <meta content="MB015704" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1232249"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Real Estate</classifier>
+        <classifier class="indexing_service" type="descriptor">Magazines</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Sales</classifier>
+        <org class="indexing_service">New York (Magazine)</org>
+        <org class="indexing_service">MLX.com</org>
+        <org class="indexing_service">Primedia Consumer Magazines</org>
+        <person class="indexing_service">Blair, Jayson</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Sales and Business Development</classifier>
+        <classifier class="online_producer" type="general_descriptor">Magazines</classifier>
+        <classifier class="online_producer" type="general_descriptor">Real Estate</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sales</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000920T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E0DD123BF933A1575AC0A9669C8B63" item-length="187" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Business; Print and Dot-Com Team</hl1>
+      </hedline>
+      <byline class="print_byline">By Jayson Blair</byline>
+      <byline class="normalized_byline">Blair, Jayson</byline>
+      <abstract>
+        <p>Primedia, parent company of New York magazine, selects MLX.com to power Web site database used in magazine's new real estate section (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Primedia, the parent company of New York magazine, has selected MLX.com, an online real estate company, to power its Web site's database, which will include listings for hundreds of apartments for rent and sale each week, officials said yesterday.</p>
+      </block>
+      <block class="full_text">
+        <p>Primedia, the parent company of New York magazine, has selected MLX.com, an online real estate company, to power its Web site's database, which will include listings for hundreds of apartments for rent and sale each week, officials said yesterday.</p>
+        <p>The deal will also make New York magazine, which recently started a new real estate section, the only print outlet for MLX's expansive database of listings. Readers will be able to browse virtually the same listings in print and online editions of New York magazine. But more detailed information will be available at the Web site, www.nymag.com, including floor plans, pictures and descriptions of properties. In a 180-degree turn on the general way online and print media have co-existed, the print version of New York magazine will become a portal to attract people to the online version.</p>
+        <p>Jayson Blair (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

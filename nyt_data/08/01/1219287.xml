@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lining Up for a Better Look</title>
+    <meta content="01RLAS$02" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Front Page" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1219287"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Eyes and Eyesight</classifier>
+        <classifier class="indexing_service" type="descriptor">Laser (Light Amplification by Stimulated Emission of Radiation)</classifier>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radiation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Laser (Light Amplification by Stimulated Emission of Radiation)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Eyes and Eyesight</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000801T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E6D7103DF932A3575BC0A9669C8B63" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lining Up for a Better Look</hl1>
+      </hedline>
+      <abstract>
+        <p>Photo of bystanders watching television monitors showing Lasik surgery to improve eyesight at clinic in Fairfax, Va</p>
+      </abstract>
+    </body.head>
+    <body.content/>
+  </body>
+</nitf>

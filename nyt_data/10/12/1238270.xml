@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Another Start for Neagle</title>
+    <meta content="MB023226" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1238270"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BASEBALL: 2000 PLAYOFFS -- YANKEES NOTEBOOK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">Playoff Games</classifier>
+        <org class="indexing_service">New York Yankees</org>
+        <org class="indexing_service">Seattle Mariners</org>
+        <person class="indexing_service">Olney, Buster</person>
+        <person class="indexing_service">Torre, Joe</person>
+        <person class="indexing_service">Neagle, Denny</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Seattle Mariners</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Playoff Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001012T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802E2D6173FF931A25753C1A9669C8B63" item-length="211" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Another Start for Neagle</hl1>
+      </hedline>
+      <byline class="print_byline">By Buster Olney</byline>
+      <byline class="normalized_byline">Olney, Buster</byline>
+      <abstract>
+        <p>Yankees notebook; New York Yankee manager Joe Torre praises performance of pitcher Denny Neagle, who started game 1 against Seattle Mariners in ALCS (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Denny Neagle did not win Game 1 for the Yankees, but he did pitch well enough to give the Yankees a chance to win, and that means he will probably start Game 5.</p>
+        <p>''He pitched well enough to be considered seriously for that spot,'' said Joe Torre, the Yankees' manager. ''I think he proved last night that if you keep the ball down and change speeds, you'll be O.K.''</p>
+      </block>
+      <block class="full_text">
+        <p>Denny Neagle did not win Game 1 for the Yankees, but he did pitch well enough to give the Yankees a chance to win, and that means he will probably start Game 5.</p>
+        <p>''He pitched well enough to be considered seriously for that spot,'' said Joe Torre, the Yankees' manager. ''I think he proved last night that if you keep the ball down and change speeds, you'll be O.K.''</p>
+        <p>Neagle pitched poorly in his last three starts of the regular season. When Torre picked him to start Game 1 of this series, he had no sense of how Neagle would react. But the left-hander overcame some early nerves, developed a rhythm and pitched deep into the game.</p>
+        <p>Torre will have the option of starting Orlando Hernandez on three days' rest in Game 5, but keeping Neagle in line to pitch Game 5 will allow Torre to provide full rest for the projected Game 6 and Game 7 starters, Hernandez and Andy Pettitte. Roger Clemens and Pettitte pitched with three days' rest against Oakland in the division series; both were knocked around.</p>
+        <p>Buster Olney</p>
+        <p>BASEBALL: 2000 PLAYOFFS -- YANKEES NOTEBOOK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

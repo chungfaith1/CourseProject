@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Books in Brief: Nonfiction</title>
+    <meta content="RV104212" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1231015"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Da Costa, Erica</person>
+        <person class="indexing_service">Morris, Roy Jr</person>
+        <person class="indexing_service">Whitman, Walt (1819-92)</person>
+        <object.title class="indexing_service">Better Angel, The: Walt Whitman In the Civil War (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000917T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E00EFDB1339F934A2575AC0A9669C8B63" item-length="285" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Books in Brief: Nonfiction</hl1>
+      </hedline>
+      <byline class="print_byline">By Erica Da Costa</byline>
+      <byline class="normalized_byline">Da Costa, Erica</byline>
+      <abstract>
+        <p>Erica Da Costa reviews book The Better Angel: Walt Whitman in the Civil War by Roy Morris Jr (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Better Angel</p>
+        <p>Walt Whitman in the Civil War.</p>
+        <p>By Roy Morris Jr.</p>
+        <p>Oxford University, $25.</p>
+      </block>
+      <block class="full_text">
+        <p>The Better Angel</p>
+        <p>Walt Whitman in the Civil War.</p>
+        <p>By Roy Morris Jr.</p>
+        <p>Oxford University, $25.</p>
+        <p>Walt Whitman the gentle poet was also the ultimate patriot, as Roy Morris Jr., editor of the magazine America's Civil War, points out in ''The Better Angel.'' Whitman did not welcome the prospect of the Civil War but loved his country too much not to support the effort to preserve the Union. When he received news that his brother George had been wounded, he rushed to find him. What he found was a healthy brother and tens of thousands of men who lay dying for lack of care. Whitman spent the next three years among the sick, wounded and dying, administering small gifts and great compassion, for which they would not forget him. The war put an end to what Whitman called his ''New York stagnation,'' when he was growing moldy with insurmountable family troubles and excessive drinking. Equal parts biography and Civil War history, ''The Better Angel'' also incorporates the poetry as it reflects Whitman's wartime experiences. It is a thrilling narrative told with empathy and vast learning, rich with images that reinvigorate figures as familiar as Lincoln: ''Whitman felt it would take four different sorts of genius -- Plutarch, Aeschylus, Michelangelo and Rabelais -- to truly sketch Lincoln's portrait.''</p>
+        <p>Erica Da Costa</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Oppenheimer Takes Stake in Folio Fund</title>
+    <meta content="28FUND$02" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/28/business/28FUND.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1234371"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Mutual Funds</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Oppenheimer Funds Inc</org>
+        <org class="indexing_service">PersonaFund</org>
+        <org class="indexing_service">Tradeworx (Co)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mutual Funds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000928T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E1DE1E3AF93BA1575AC0A9669C8B63" item-length="234" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Oppenheimer Takes Stake in Folio Fund</hl1>
+      </hedline>
+      <abstract>
+        <p>Oppenheimer Funds pays less than $5 million for a 15 percent stake in PersonaFund, new company that is creating alternative to mutual funds; company will offer its version of folios--securities that are packaged and sold in batches, or baskets; Tradeworx is majority owner of PersonaFund (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Oppenheimer Funds has made a small investment in a new company that is creating an alternative to mutual funds.</p>
+        <p>The company, PersonaFund, will offer its version of folios -- securities that are packaged and sold in batches, or baskets. Several companies already offer or plan to offer such products. Perhaps the best known, Folio[fn], sells stock portfolios and lets customers trade the stocks and alter the folios as they see fit, all for a flat monthly fee.</p>
+      </block>
+      <block class="full_text">
+        <p>The Oppenheimer Funds has made a small investment in a new company that is creating an alternative to mutual funds.</p>
+        <p>The company, PersonaFund, will offer its version of folios -- securities that are packaged and sold in batches, or baskets. Several companies already offer or plan to offer such products. Perhaps the best known, Folio[fn], sells stock portfolios and lets customers trade the stocks and alter the folios as they see fit, all for a flat monthly fee.</p>
+        <p>Though many mutual fund executives question the appeal of folios, Oppenheimer is not the first prominent mutual fund manager to enter the business. American Century Investments, for example, has invested in Folio[fn].</p>
+        <p>Instead of stocks, PersonaFund will offer baskets of exchange-traded funds from which customers can choose. The folios of mutual fund-like products that trade like stocks will carry a 0.5 percent yearly fee on top of their own fees.</p>
+        <p>''If you add them together, it's still well under the fees of an actively managed mutual fund,'' said Manoj Narang, chief executive of Tradeworx, a financial technology company that is the majority owner of PersonaFund.</p>
+        <p>Oppenheimer bought a 15 percent stake for less than $5 million and has an option to buy another 15 percent, people at both companies said. Exact terms were not disclosed.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

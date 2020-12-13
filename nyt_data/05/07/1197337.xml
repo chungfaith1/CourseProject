@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Self-portrait; CHUCK CLOSE</title>
+    <meta content="07CLOSE" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="55" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Magazine" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1197337"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Photography</classifier>
+        <person class="indexing_service">Close, Chuck</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Photography</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000507T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A01E5D71339F934A35756C0A9669C8B63" item-length="149" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Self-portrait; CHUCK CLOSE</hl1>
+      </hedline>
+      <abstract>
+        <p>Photo of Chuck Close, with his explanation</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The face is a road map of what the person has been through. I've always thought that if you present something straightforwardly and flat-footedly, the viewer has an active role in trying to figure out who this person is. At first I was interested in everybody seeing it only the way I saw it. But I think I've mellowed over the years. To control everything you lose something because you're just broadcasting. You're not receiving. I'm much more interested in finding out what other people think.</p>
+      </block>
+      <block class="full_text">
+        <p>The face is a road map of what the person has been through. I've always thought that if you present something straightforwardly and flat-footedly, the viewer has an active role in trying to figure out who this person is. At first I was interested in everybody seeing it only the way I saw it. But I think I've mellowed over the years. To control everything you lose something because you're just broadcasting. You're not receiving. I'm much more interested in finding out what other people think.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

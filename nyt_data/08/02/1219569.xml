@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Jammin' Against the Darkness</title>
+    <meta content="MB003850" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1219569"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="PRO BASKETBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Basketball</classifier>
+        <org class="indexing_service">New York Knickerbockers</org>
+        <person class="indexing_service">Williams, Lena</person>
+        <person class="indexing_service">Ward, Charlie</person>
+        <person class="indexing_service">Houston, Allan</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Basketball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Basketball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000802T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E5D71E3DF931A3575BC0A9669C8B63" item-length="183" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Jammin' Against the Darkness</hl1>
+      </hedline>
+      <byline class="print_byline">By LENA WILLIAMS</byline>
+      <byline class="normalized_byline">Williams, Lena</byline>
+      <abstract>
+        <p>New York Knickerbockers players Charlie Ward and Allan Houston are at NBA Store on Fifth Avenue to promote Jammin' Against the Darkness, community outreach program that features Christian music and NBA players speaking about their professional, personal and spiritual lives (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Charlie Ward and Allan Houston were at the NBA Store on Fifth Avenue yesterday to promote Jammin' Against the Darkness, a community outreach program that features Christian music and N.B.A. players speaking about their professional, personal and spiritual lives to people of all ages.</p>
+      </block>
+      <block class="full_text">
+        <p>Charlie Ward and Allan Houston were at the NBA Store on Fifth Avenue yesterday to promote Jammin' Against the Darkness, a community outreach program that features Christian music and N.B.A. players speaking about their professional, personal and spiritual lives to people of all ages.</p>
+        <p>Founded 10 years ago by the former San Antonio Spur David Wood and the evangelist Steve Jamison, this year's program will be held Aug. 19 at Madison Square Garden. The evening event will include performances by Hezekiah Walker, the Grammy Award-winning artist, and the Newsboys. Ward and Houston are scheduled to participate in a three-on-three tournament earlier in the day.</p>
+        <p>LENA WILLIAMS</p>
+        <p>PRO BASKETBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

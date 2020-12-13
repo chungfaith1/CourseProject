@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>It's Where The Twine Meets</title>
+    <meta content="15PEAR$03" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="House &amp; Home/Style Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1207428"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="CURRENTS: LOS ANGELES -- GARDEN FURNITURE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Furniture</classifier>
+        <person class="indexing_service">Hackman, Andy</person>
+        <person class="indexing_service">Guild, Kathy</person>
+        <person class="indexing_service">Anderton, Frances</person>
+        <object.title class="indexing_service">Currents (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Furniture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000615T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE3DB133EF936A25755C0A9669C8B63" item-length="71" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>It's Where The Twine Meets</hl1>
+      </hedline>
+      <byline class="print_byline">By Frances Anderton</byline>
+      <byline class="normalized_byline">Anderton, Frances</byline>
+      <abstract>
+        <p>Andy Hackman and Kathy Guild, co-owners of Outside furniture store in Los Angeles, have designed iron and twine garden chair called curvy Pear chair; photo (Currents column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Andy Hackman and Kathy Guild, co-owners of the Outside furniture store, recently came across a surprisingly comfortable iron and twine garden chair with a fruit shape and unknown provenance. They recast it as the curvy Pear chair, using the same materials. The chair feels like a taut hammock and is made to order for $700, from Outside, 442 North La Brea Avenue, Los Angeles; (323) 934-1254.</p>
+      </block>
+      <block class="full_text">
+        <p>Andy Hackman and Kathy Guild, co-owners of the Outside furniture store, recently came across a surprisingly comfortable iron and twine garden chair with a fruit shape and unknown provenance. They recast it as the curvy Pear chair, using the same materials. The chair feels like a taut hammock and is made to order for $700, from Outside, 442 North La Brea Avenue, Los Angeles; (323) 934-1254.</p>
+        <p>CURRENTS: LOS ANGELES -- GARDEN FURNITURE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

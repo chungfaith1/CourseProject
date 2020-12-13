@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Nasdaq Plan to Trade Big Board Stocks</title>
+    <meta content="Y13MARK" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1207038"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <org class="indexing_service">Nasdaq Stock Market</org>
+        <org class="indexing_service">New York Stock Exchange</org>
+        <org class="indexing_service">Intermarket Trading System</org>
+        <person class="indexing_service">Berenson, Alex</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Markets</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000613T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07EED8143EF930A25755C0A9669C8B63" item-length="404" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Nasdaq Plan to Trade Big Board Stocks</hl1>
+      </hedline>
+      <byline class="print_byline">By ALEX BERENSON</byline>
+      <byline class="normalized_byline">Berenson, Alex</byline>
+      <abstract>
+        <p>Nasdaq stock market plans to announce that it will offer investors new way to trade New York Stock Exchange-listed securities off floor of Big Board; details of plan are sketchy, but Nasdaq has apparently reached agreements with electronic communications networks and market makers to allow ECN's access to Intermarket Trading System, which connects Nasdaq, Big Board and other exchanges (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Nasdaq stock market plans to announce this morning that it will offer investors a new way to trade New York Stock Exchange-listed securities off the floor of the Big Board.</p>
+        <p>Details of the plan are still sketchy, but the Nasdaq has apparently reached agreements with electronic communications networks and market makers to allow the E.C.N.'s access to the Intermarket Trading System. The intermarket system connects the Nasdaq, the Big Board and other exchanges.</p>
+      </block>
+      <block class="full_text">
+        <p>The Nasdaq stock market plans to announce this morning that it will offer investors a new way to trade New York Stock Exchange-listed securities off the floor of the Big Board.</p>
+        <p>Details of the plan are still sketchy, but the Nasdaq has apparently reached agreements with electronic communications networks and market makers to allow the E.C.N.'s access to the Intermarket Trading System. The intermarket system connects the Nasdaq, the Big Board and other exchanges.</p>
+        <p>Electronic communications networks match trades between investors directly, without using a market maker or specialist as an intermediary. By directly matching buyers and sellers, ECN's challenge market makers, which profit by capturing the difference between the highest bid a potential buyer will pay for a stock and the lowest sale price offered by a potential seller. Once used only by institutional investors, the new networks have opened to individuals over the last two years and have become an increasingly important part of the Nasdaq market.</p>
+        <p>The Big Board has so far been able to protect its floor from losing many trades to the electronic networks. In theory, the Nasdaq's plan could change that, enabling E.C.N.'s to win trading from the Big Board's specialists as they already do from Nasdaq market makers.</p>
+        <p>Still, the Nasdaq's plan is not without its detractors. Island, the largest electronic communications network, has refused to participate in the Intermarket Trading System links, arguing that they are too slow to serve its investors. Island argues that Intermarket Trading can take up to two minutes to execute an order. Over that time, a stock can rise or fall several points, leaving an investor stuck with a losing trade even before the trade is finished.</p>
+        <p>The Big Board has asked the Securities and Exchange Commission, which oversees stock trading, to scrap the Intermarket Trading System entirely. Like Island, the Big Board argues that Intermarket Trading is unworkably complex, as well as obsolete thanks to proprietary systems that give brokers and traders the chance to see the best price across all markets.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

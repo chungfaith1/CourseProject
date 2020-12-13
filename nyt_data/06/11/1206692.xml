@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>25 Hurt in Minimall Fire</title>
+    <meta content="11BLAZ" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="48" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1206692"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Fires and Firemen</classifier>
+        <location class="indexing_service">New York City</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Beaches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fires and Firefighters</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000611T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE4D7163EF932A25755C0A9669C8B63" item-length="117" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>25 Hurt in Minimall Fire</hl1>
+      </hedline>
+      <abstract>
+        <p>Fire breaks out in minimall in Brighton Beach, Brooklyn, gutting building, destroying eight businesses and injuring 25 people (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A fire that broke out in a minimall in Brighton Beach yesterday gutted the building, destroying eight businesses and injuring 25 people, fire officials said.</p>
+        <p>Three people were treated at Coney Island Hospital for smoke inhalation, said James Spollen, a Fire Department spokesman. Twenty-two firefighters were also treated there for minor injuries, he said.</p>
+      </block>
+      <block class="full_text">
+        <p>A fire that broke out in a minimall in Brighton Beach yesterday gutted the building, destroying eight businesses and injuring 25 people, fire officials said.</p>
+        <p>Three people were treated at Coney Island Hospital for smoke inhalation, said James Spollen, a Fire Department spokesman. Twenty-two firefighters were also treated there for minor injuries, he said.</p>
+        <p>The fire broke out around 5 p.m. and was under control by 9:30 p.m., Mr. Spollen said.</p>
+        <p>Mr. Spollen said the fire broke out in a beauty parlor and its cause was under investigation. Other shops in the building included a convenience store and a pharmacy, he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

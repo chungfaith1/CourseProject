@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="03INSI$02" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1196550"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000503T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CEFDE1139F930A35756C0A9669C8B63" item-length="314" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AT&amp;T Shares Plunge 14%  AT&amp;T warned that earnings and revenue growth for the year would be lower than expected. Even as it met targets for the quarter, shares plunged 14 percent.  PAGE C1</p>
+      </block>
+      <block class="full_text">
+        <p>AT&amp;T Shares Plunge 14%  AT&amp;T warned that earnings and revenue growth for the year would be lower than expected. Even as it met targets for the quarter, shares plunged 14 percent.  PAGE C1</p>
+        <p>Albany Accord on Borrowing  Governor Pataki and legislative leaders agreed to restrict the state's borrowing practices, paving the way for adoption of a budget.  PAGE B1</p>
+        <p>Democrats Win in Nassau  Democrats regained control of the Nassau County Legislature in a special election to fill the seat of a lawmaker who died.  PAGE B1</p>
+        <p>Publisher Is Replaced  The publisher of The San Francisco Examiner was replaced after saying  he offered Mayor Willie Brown favorable editorials in return for support of a business deal. PAGE A20</p>
+        <p>Top Runner Gets Citizenship  Khalid Khannouchi, the Moroccan-born marathoner, can run for the United States, but may be unable to qualify for the Olympics.  PAGE D5</p>
+        <p>Imperial Relics Sold  A Qing vase sold at a Hong Kong auction for $2.7 million was among four plundered treasures bought and repatriated by Chinese</p>
+        <p>companies. THE ARTS, PAGE E1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

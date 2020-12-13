@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>INSIDE</title>
+    <meta content="06INSI$04" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212839"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000706T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D02E3D71E39F935A35754C0A9669C8B63" item-length="203" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>INSIDE</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Panel Backs Impeachment  A committee of New Hampshire lawmakers recommended that the state's chief justice be impeached on two charges. PAGE A18</p>
+        <p>Fewer Inmates in California  California, which led the national prison-building boom, says its inmate population has declined for the first time in decades. PAGE A18</p>
+      </block>
+      <block class="full_text">
+        <p>Panel Backs Impeachment  A committee of New Hampshire lawmakers recommended that the state's chief justice be impeached on two charges. PAGE A18</p>
+        <p>Fewer Inmates in California  California, which led the national prison-building boom, says its inmate population has declined for the first time in decades. PAGE A18</p>
+        <p>Oil Price Drops 5.6%  Oil fell to $30.67 a barrel only days after Saudi Arabia, OPEC's biggest producer, said it would pump 500,000 more barrels a day. PAGE C1</p>
+        <p>In War Zone, a Diamond Ban  The Security Council imposed a worldwide ban on buying rough diamonds from Sierra Leone, where rebels control the trade. PAGE A9</p>
+        <p>Men's Semifinals Are Set  Andre Agassi, left, ousted Mark Philippoussis in three sets to advance at Wimbledon along with Pete Sampras, Vladimir Voltchkov and Patrick Rafter.  SPORTSTHURSDAY, PAGE D1</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

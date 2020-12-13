@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Prescribing Drugs</title>
+    <meta content="L02FDA$02" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211806"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Drugs (Pharmaceuticals)</classifier>
+        <org class="indexing_service">Food and Drug Administration</org>
+        <person class="indexing_service">Leff, Bruce (Dr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Drugs (Pharmaceuticals)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900E3DC1739F931A35754C0A9669C8B63" item-length="190" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Prescribing Drugs</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Dr Bruce Leff expresses dismay at Food and Drug Administration's proposal to make certain drugs available without prescription (June 28 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As a geriatrician I am greatly troubled by the Food and Drug Administration's proposal to make antibiotics, anti-hypertensive agents and other drugs available without a prescription (front page, June 28). People over the age of 65 are already likely to take multiple drugs with potential interactions and are most likely to suffer dangerous adverse reactions.</p>
+        <p>There is a common belief that over-the-counter medicines are inherently safe. They are not. I have seen scores of patients who have suffered internal bleeding, confusion and kidney failure from medicines like Advil and Aleve, and life-threatening diarrhea from unnecessary antibiotic use.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As a geriatrician I am greatly troubled by the Food and Drug Administration's proposal to make antibiotics, anti-hypertensive agents and other drugs available without a prescription (front page, June 28). People over the age of 65 are already likely to take multiple drugs with potential interactions and are most likely to suffer dangerous adverse reactions.</p>
+        <p>There is a common belief that over-the-counter medicines are inherently safe. They are not. I have seen scores of patients who have suffered internal bleeding, confusion and kidney failure from medicines like Advil and Aleve, and life-threatening diarrhea from unnecessary antibiotic use.</p>
+        <p>Many doctors do not know how to optimally prescribe medicines to older people. There is little reason to believe that most patients, even those with access to medical Web sites, will fare any better.</p>
+        <p>BRUCE LEFF, M.D.  Baltimore, June 28, 2000</p>
+        <p>The writer is an assistant professor at Johns Hopkins School of Medicine.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

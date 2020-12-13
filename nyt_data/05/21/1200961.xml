@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Born in Bombay</title>
+    <meta content="LTR061324" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1200961"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOKS AND LITERATURE</classifier>
+        <person class="indexing_service">Birjepatil, J</person>
+        <person class="indexing_service">Eder, Richard</person>
+        <person class="indexing_service">Ricketts, Harry</person>
+        <person class="indexing_service">Kipling, Rudyard (1865-1936)</person>
+        <object.title class="indexing_service">Rudyard Kipling: A Life (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000521T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504EFDA143BF932A15756C0A9669C8B63" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Born in Bombay</hl1>
+      </hedline>
+      <abstract>
+        <p>J Birjepatil letter on Richard Eder's April 30 review of Harry Ricketts' biography of Rudyard Kipling notes Kipling was born in Bombay, not Lahore2</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As someone who grew up reciting ''Gunga Din'' and singing ''Mandalay,'' like Richard Eder, who reviewed Harry Ricketts's biography of Rudyard Kipling (April 30), I should like to point out that Eder's identification of Lahore as Kipling's birthplace is mistaken. It is a well-documented fact that Kipling was born on Dec. 30, 1865, in Bombay, where his father, Lockwood, taught at the School of Art. After schooling in England, Kipling returned to India at the age of 16 and worked at The Civil and Military Gazette in Lahore, where Lockwood served as curator of the museum.</p>
+        <p>J. Birjepatil  Marlboro, Vt.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As someone who grew up reciting ''Gunga Din'' and singing ''Mandalay,'' like Richard Eder, who reviewed Harry Ricketts's biography of Rudyard Kipling (April 30), I should like to point out that Eder's identification of Lahore as Kipling's birthplace is mistaken. It is a well-documented fact that Kipling was born on Dec. 30, 1865, in Bombay, where his father, Lockwood, taught at the School of Art. After schooling in England, Kipling returned to India at the age of 16 and worked at The Civil and Military Gazette in Lahore, where Lockwood served as curator of the museum.</p>
+        <p>J. Birjepatil  Marlboro, Vt.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

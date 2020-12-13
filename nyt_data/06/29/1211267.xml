@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Being There, Or Nearly So</title>
+    <meta content="LTR005918" name="slug"/>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211267"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Cellular Telephones</classifier>
+        <person class="indexing_service">rowland, david</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000629T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E6DC1F30F93AA15755C0A9669C8B63" item-length="147" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Being There, Or Nearly So</hl1>
+      </hedline>
+      <abstract>
+        <p>David Rowland letter notes one technique used by a friend to deal with a man in an elevator making a loud, self-important cell phone call (June 22 article)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Cell Phone Feedback'' (Incoming, June 22), about the rude behavior often seen in public places by people using cell phones:</p>
+        <p>A friend of mine who is a musician found himself in an elevator with a man making a loud, self-important call. My friend started singing.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Cell Phone Feedback'' (Incoming, June 22), about the rude behavior often seen in public places by people using cell phones:</p>
+        <p>A friend of mine who is a musician found himself in an elevator with a man making a loud, self-important call. My friend started singing.</p>
+        <p>The caller glared at him and said, ''Excuse me, but this is a business call.'' My friend replied, ''I'm a professional songwriter -- this is a business song.''</p>
+        <p>DAVID ROWLAND  Berkeley, Calif.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Compressed Data; By Any Other Name, Is It Spam?</title>
+    <meta content="26EMAI$03" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1210521"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Retail Stores and Trade</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <org class="indexing_service">FloNetwork</org>
+        <person class="indexing_service">Deutsch, Claudia H</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Shopping</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Retail</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Retail Stores and Trade</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000626T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE0DB1530F935A15755C0A9669C8B63" item-length="345" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Compressed Data; By Any Other Name, Is It Spam?</hl1>
+      </hedline>
+      <byline class="print_byline">By CLAUDIA H. DEUTSCH</byline>
+      <byline class="normalized_byline">Deutsch, Claudia H</byline>
+      <abstract>
+        <p>FloNetwork survey of people who regularly shop on Internet finds 94 percent say they occasionally give permission to merchants to send them promotional e-mail and 58 percent see permission-based e-mail as way to learn about products, services and promotions (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>So if you give merchants a green light to spam you, and they do, have you been spammed?</p>
+        <p>Not surprisingly, those who make their livings from junk -- or, in their words, promotional e-mail -- answer with a resounding no. Now, they say they can prove they are right.</p>
+      </block>
+      <block class="full_text">
+        <p>So if you give merchants a green light to spam you, and they do, have you been spammed?</p>
+        <p>Not surprisingly, those who make their livings from junk -- or, in their words, promotional e-mail -- answer with a resounding no. Now, they say they can prove they are right.</p>
+        <p>FloNetwork of Toronto, a company that handles promotional e-mail for merchants, sent e-mail messages to about 1,000 people who regularly buy things on the Internet to ask their feelings about spam versus so-called permission-based e-mail -- messages that go only to consumers who have clicked the button on a Web page indicating that they would welcome updates, promotional material and such.</p>
+        <p>FloNetwork's conclusion? ''People hate spam, but they love permission-based e-mail,'' said Regina A. Brady, a FloNetwork vice president.</p>
+        <p>Actually, that is overstating it on both sides. Most of the respondents said they got about 10 pieces of unsolicited promotional material a week, and only a third of them saw it as a major invasion of privacy. Two percent actually liked it. But a majority -- 65 percent -- did not care about it one way or the other; they just deleted it upon arrival. By contrast, 94 percent of those responding said they occasionally gave permission to merchants to send them e-mail. And 58 percent said they thought permission-based e-mail was an excellent way to learn about products, services and promotions.</p>
+        <p>Tempting as it might be to think of the surveys themselves as spam, they were in a sense permission-based e-mail. Those surveyed were already volunteer members of an online panel that National Family Opinion uses to gauge the popularity of various Internet sites and methods.</p>
+        <p>CLAUDIA H. DEUTSCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

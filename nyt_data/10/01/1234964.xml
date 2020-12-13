@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Architect's Contribution</title>
+    <meta content="01LETT" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Real Estate; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234964"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hotels and Motels</classifier>
+        <classifier class="indexing_service" type="descriptor">Architecture</classifier>
+        <classifier class="indexing_service" type="descriptor">Rockefeller Center (NYC)</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Booth, Francis</person>
+        <person class="indexing_service">Hood, Raymond</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Architecture</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hotels and Motels</classifier>
+        <classifier class="online_producer" type="general_descriptor">Architecture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001001T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E0DA123AF932A35753C1A9669C8B63" item-length="231" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Architect's Contribution</hl1>
+      </hedline>
+      <abstract>
+        <p>Architect Francis Booth letter on September 10 article on recycling of New York buildings into hotels notes architect Raymond Hood's contribution to Rockefeller Center and RCA Building (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In your article describing the happy reuse of some distinguished New York buildings as hotels [''From Front Office to Front Desk,'' Sept. 10], you quite rightly noted the work of Raymond Hood as architect not only of the American Radiator Building, but of The Daily News and old McGraw-Hill buildings as well.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In your article describing the happy reuse of some distinguished New York buildings as hotels [''From Front Office to Front Desk,'' Sept. 10], you quite rightly noted the work of Raymond Hood as architect not only of the American Radiator Building, but of The Daily News and old McGraw-Hill buildings as well.</p>
+        <p>However, the writer did not note Mr. Hood's greatest contribution to New York, a contribution on the highest level of architecture. Raymond Hood was the guiding force in the design of Rockefeller Center, and the architect of its central building -- surely one of the greatest ''skyscrapers'' ever built -- the old RCA Building, presently styled the GE Building.</p>
+        <p>Mr. Hood's contributions in the expressive design of tall buildings, cut short by his death at 53, still bring joy to the citizens of Chicago and New York, and the renewal of the American Radiator Building may bring his accomplishments to their deserved appreciation among the general public.</p>
+        <p>FRANCIS BOOTH  Architect, A.I.A.  Warren, Conn.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

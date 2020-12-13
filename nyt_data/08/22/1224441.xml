@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Marked for Death</title>
+    <meta content="22HUBB" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20000824T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1224441"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Stars and Galaxies</classifier>
+        <classifier class="indexing_service" type="descriptor">Hubble Space Telescope</classifier>
+        <classifier class="indexing_service" type="descriptor">Pegasus (Constellation)</classifier>
+        <classifier class="indexing_service" type="descriptor">Telescopes and Observatories</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hubble Space Telescope</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stars and Galaxies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telescopes and Observatories</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000822T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E1DF1E3EF931A1575BC0A9669C8B63" item-length="216" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Marked for Death</hl1>
+      </hedline>
+      <abstract>
+        <p>Astronomers using Hubble Space Telescope peer into heart of star cluster M15, about 40,000 light-years distant in constellation Pegasus; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Using the Hubble Space Telescope, astronomers recently peered into the heart of the star cluster M15, an assemblage of several hundred thousand stars about 40,000 light-years distant in the constellation Pegasus, hoping to solve an astronomical mystery. Their target was a pinkish cloud, nestled by the upper left of the cluster's core. Such clouds, known as planetary nebulae, are blasted from dying stars about the mass of the sun, but the stars in M15, some 12 million years old, were thought to be too light to engage in such pyrotechnics. Because more massive stars evolve and burn out faster than lighter ones, astronomers deduced that there should not be any stars as massive as the sun still burning in M15. They suspected that the cloud, named Kuestner 648, would be shown to harbor a double star, but none was detected. The dying star remains a mystery.</p>
+      </block>
+      <block class="full_text">
+        <p>Using the Hubble Space Telescope, astronomers recently peered into the heart of the star cluster M15, an assemblage of several hundred thousand stars about 40,000 light-years distant in the constellation Pegasus, hoping to solve an astronomical mystery. Their target was a pinkish cloud, nestled by the upper left of the cluster's core. Such clouds, known as planetary nebulae, are blasted from dying stars about the mass of the sun, but the stars in M15, some 12 million years old, were thought to be too light to engage in such pyrotechnics. Because more massive stars evolve and burn out faster than lighter ones, astronomers deduced that there should not be any stars as massive as the sun still burning in M15. They suspected that the cloud, named Kuestner 648, would be shown to harbor a double star, but none was detected. The dying star remains a mystery.</p>
+        <p>Correction:  August 24, 2000, Thursday  A picture caption in Science Times on Tuesday about the star cluster M15 misstated the age of the stars there. They are about 12 billion years old, not 12 million.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: August 24, 2000, Thursday</p>
+        <p>A picture caption in Science Times on Tuesday about the star cluster M15 misstated the age of the stars there. They are about 12 billion years old, not 12 million.</p>
+        <p>&lt;br&gt;</p>
+        <p>&lt;br&gt;</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

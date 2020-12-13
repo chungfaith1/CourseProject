@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="CN233512" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1232200"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000920T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400E3DE123BF933A1575AC0A9669C8B63" item-length="393" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BOSTON PROPERTIES INC., Boston, a real estate investment trust, said it and the New York Common Retirement Fund, a pension fund company, acquired the 21-story office tower at 265 Franklin Street in Boston, adding to its properties in the city. Terms were not disclosed.</p>
+        <p>IMCLONE SYSTEMS INC., New York, a developer of cancer drugs, said it would split its stock two shares for one on Oct. 13 to shareholders of record as of Sept. 29.</p>
+      </block>
+      <block class="full_text">
+        <p>BOSTON PROPERTIES INC., Boston, a real estate investment trust, said it and the New York Common Retirement Fund, a pension fund company, acquired the 21-story office tower at 265 Franklin Street in Boston, adding to its properties in the city. Terms were not disclosed.</p>
+        <p>IMCLONE SYSTEMS INC., New York, a developer of cancer drugs, said it would split its stock two shares for one on Oct. 13 to shareholders of record as of Sept. 29.</p>
+        <p>SENSORMATIC ELECTRONICS CORP., Boca Raton, Fla., the largest maker of electronic security systems for stores, said the Inditex Group, Arteixo, Spain, which operates fashion chain stores, would install Sensormatic anti-theft technology in all 924 of its stores. Terms of the contract were not disclosed.</p>
+        <p>ESTEE LAUDER COS., New York, which manufactures and markets skin care, fragrance and hair care products, plans to open as many as 260 stores during the next few years in an expansion focusing on its Origins, Aveda and M.A.C. cosmetics lines. Its stores will increase to as many as 500.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

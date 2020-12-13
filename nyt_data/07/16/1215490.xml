@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Rainout May Be Total Loss</title>
+    <meta content="16OLDD$01" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215490"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <org class="indexing_service">New York Yankees</org>
+        <org class="indexing_service">Florida Marlins</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/Florida Marlins</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0CE5DA153BF935A25754C0A9669C8B63" item-length="125" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Rainout May Be Total Loss</hl1>
+      </hedline>
+      <abstract>
+        <p>New York Yankees-Florida Marlins interleague game that was rained out may not be played at all because of scheduling considerations (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Yankees' game against the Florida Marlins at Yankee Stadium yesterday was postponed because of rain, but there is a real chance it will never be played. The Old-Timers' Day game was also postponed, with no makeup date announced.</p>
+        <p>The Marlins, a National League team, will not return to Yankee Stadium this season, and the Yankees share only one day off with them the rest of the season, Aug. 31.</p>
+        <p>But it would almost certainly not be possible for the Yankees to play because they will play a night game in Seattle Aug. 30.</p>
+      </block>
+      <block class="full_text">
+        <p>The Yankees' game against the Florida Marlins at Yankee Stadium yesterday was postponed because of rain, but there is a real chance it will never be played. The Old-Timers' Day game was also postponed, with no makeup date announced.</p>
+        <p>The Marlins, a National League team, will not return to Yankee Stadium this season, and the Yankees share only one day off with them the rest of the season, Aug. 31.</p>
+        <p>But it would almost certainly not be possible for the Yankees to play because they will play a night game in Seattle Aug. 30.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

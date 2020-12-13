@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>NEW YORK: THE FIRST YEAR</title>
+    <meta content="Y16PRO$05" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; Corrections; Editors' Notes; New York and Region" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20000919T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1230827"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="COMING ON SUNDAY"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editors' Note</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Editors' Notes</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000916T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805EFDD1138F935A2575AC0A9669C8B63" item-length="116" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>NEW YORK: THE FIRST YEAR</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The decision to move to New York City remains both irrational and quasireligious.  A special issue of The Times Magazine reports on more than a dozen people who made that decision a year ago, like a star athlete and Israeli dot-commers and a gay teenage runaway. In every case, New York was the place that people hoped would transform their lives.</p>
+        <p>Plus: Men's Fashions of The Times.</p>
+      </block>
+      <block class="full_text">
+        <p>The decision to move to New York City remains both irrational and quasireligious.  A special issue of The Times Magazine reports on more than a dozen people who made that decision a year ago, like a star athlete and Israeli dot-commers and a gay teenage runaway. In every case, New York was the place that people hoped would transform their lives.</p>
+        <p>Plus: Men's Fashions of The Times.</p>
+        <p>COMING ON SUNDAY  Correction:  September 19, 2000, Tuesday  A front-page announcement on Saturday about the contents of the next day's Times Magazine misstated the timing of Men's Fashions of The Times. It will appear this Sunday.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: September 19, 2000, Tuesday</p>
+        <p>A front-page announcement on Saturday about the contents of the next day's Times Magazine misstated the timing of Men's Fashions of The Times. It will appear this Sunday.</p>
+        <p>&lt;br&gt;</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

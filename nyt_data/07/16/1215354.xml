@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corrections</title>
+    <meta content="16CXN" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Style; Corrections" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1215354"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Parties (Social)</classifier>
+        <classifier class="indexing_service" type="descriptor">Correction Stories</classifier>
+        <classifier class="online_producer" type="types_of_material">Correction</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Corrections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parties (Social)</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE0DC173BF935A25754C0A9669C8B63" item-length="54" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corrections</hl1>
+      </hedline>
+      <abstract>
+        <p>Correction of July 9 Evening Hours page; guest in photo identified</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A picture caption on the Evening Hours page last Sunday about a ball at the Breakers in Newport, R.I., misidentified the dance partner of a guest, Emily Wade. He was Jeptha H. Wade, her husband, not Randall Wade, their son.</p>
+      </block>
+      <block class="full_text">
+        <p>A picture caption on the Evening Hours page last Sunday about a ball at the Breakers in Newport, R.I., misidentified the dance partner of a guest, Emily Wade. He was Jeptha H. Wade, her husband, not Randall Wade, their son.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>White Plains Hospital Offers Online Visits</title>
+    <meta content="MB002153" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Health; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1220617"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="IN BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Medicine and Health</classifier>
+        <classifier class="indexing_service" type="descriptor">Hospitals</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Visitingours.Com</org>
+        <org class="indexing_service">White Plains Hospital Center</org>
+        <person class="indexing_service">Beller, Peter</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Hospitals</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hospitals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000806T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9401E1DE123CF935A3575BC0A9669C8B63" item-length="190" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>White Plains Hospital Offers Online Visits</hl1>
+      </hedline>
+      <byline class="print_byline">By Peter Beller</byline>
+      <byline class="normalized_byline">Beller, Peter</byline>
+      <abstract>
+        <p>VisitingOurs.com of New York is building computer kiosks around White Plains Hospital Center through which patients can open their own Web pages to let family mmebers know how they are doing (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Patients at White Plains Hospital Center can now open their own Web pages to let family members know how they're doing. A Manhattan-based company, VisitingOurs.com, is spending $40,000 to build nine computer kiosks around the hospital with access to its Web site, which can also be visited from any computer with Internet service.</p>
+        <p>To create a page, a patient or family member simply enters personal information and the names of the people the patient wants to give access to. Users can also buy gifts for the patient by way of links to retailers.</p>
+      </block>
+      <block class="full_text">
+        <p>Patients at White Plains Hospital Center can now open their own Web pages to let family members know how they're doing. A Manhattan-based company, VisitingOurs.com, is spending $40,000 to build nine computer kiosks around the hospital with access to its Web site, which can also be visited from any computer with Internet service.</p>
+        <p>To create a page, a patient or family member simply enters personal information and the names of the people the patient wants to give access to. Users can also buy gifts for the patient by way of links to retailers.</p>
+        <p>The service has lightened the load on hospital staff, said Karen Lombardi, a hospital spokeswoman, who said that White Plains is the first hospital anywhere to offer such a service.</p>
+        <p>Peter Beller</p>
+        <p>IN BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

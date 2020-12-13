@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>QUOTATION OF THE DAY</title>
+    <meta content="23QUOT$01" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/23/pageoneplus/23QUOTE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1232862"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">QUOTATION OF THE DAY</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000923T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0DE7D91F3BF930A1575AC0A9669C8B63" item-length="131" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>QUOTATION OF THE DAY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''If we don't make this class, and we have no one signing up to take the tests, we will eventually reach a point where we will have no one to make up the shortages, and the department will have to shrink.''</p>
+        <p>JOHN DRISCOLL, who heads a union for police officers, on New York's shortage of Police Academy recruits. [A1]</p>
+      </block>
+      <block class="full_text">
+        <p>''If we don't make this class, and we have no one signing up to take the tests, we will eventually reach a point where we will have no one to make up the shortages, and the department will have to shrink.''</p>
+        <p>JOHN DRISCOLL, who heads a union for police officers, on New York's shortage of Police Academy recruits. [A1]</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

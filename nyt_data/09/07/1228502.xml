@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A VCR That Won't Accept Peanut Butter and Jelly</title>
+    <meta content="07GEE4" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/07/technology/07GEE4.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1228502"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Recordings (Video)</classifier>
+        <classifier class="indexing_service" type="descriptor">Videocassette Recorders (Vcr)</classifier>
+        <org class="indexing_service">Sony Corp</org>
+        <person class="indexing_service">Fountain, Henry</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Video)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronics</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000907T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E1DD1439F934A3575AC0A9669C8B63" item-length="149" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A VCR That Won't Accept Peanut Butter and Jelly</hl1>
+      </hedline>
+      <byline class="print_byline">By HENRY FOUNTAIN</byline>
+      <byline class="normalized_byline">Fountain, Henry</byline>
+      <abstract>
+        <p>Sony Electronics offers videocassette recorder with tape slot that can belocked to keep out wayward objects and timer to enable parent to limit amount of tape viewing; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A videocassette recorder and a child can be a hazardous combination -- for the VCR. The tape slot has been known to attract foreign objects, including the occasional peanut butter and jelly sandwich. Sony Electronics has introduced a new machine with a tape slot that can be locked to keep wayward objects out.</p>
+      </block>
+      <block class="full_text">
+        <p>A videocassette recorder and a child can be a hazardous combination -- for the VCR. The tape slot has been known to attract foreign objects, including the occasional peanut butter and jelly sandwich. Sony Electronics has introduced a new machine with a tape slot that can be locked to keep wayward objects out.</p>
+        <p>The new model, called the MovieTime and priced at $99, also has a timer so that parents can limit the amount of tape viewing at one sitting. For children who can't stand dead air, the machine displays animation while a tape is being fast-forwarded or rewound. One other parent-friendly feature: the Eject button locks, so even if Junior is sick of seeing that old Barney tape, he can't opt out.</p>
+        <p>HENRY FOUNTAIN</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

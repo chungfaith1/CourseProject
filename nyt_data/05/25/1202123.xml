@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Quick Ways to Close A Screenful of Windows</title>
+    <meta content="25ASKK$03" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1202123"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="Q &amp; A"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000525T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E0D8173DF936A15756C0A9669C8B63" item-length="737" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Quick Ways to Close A Screenful of Windows</hl1>
+      </hedline>
+      <byline class="print_byline">By</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Q.  I use Windows 98 and at times I have several windows open on screen. Is there any simple way to close them all at once instead of clicking the X on the window bar or repeatedly pressing Alt-F4?</p>
+      </block>
+      <block class="full_text">
+        <p>Q.  I use Windows 98 and at times I have several windows open on screen. Is there any simple way to close them all at once instead of clicking the X on the window bar or repeatedly pressing Alt-F4?</p>
+        <p>A.  Although Macintosh users can close all open windows on screen by pressing the Command-Option-W keys, Windows users do not have such an easy time of it. As you have found, pressing Alt-F4 will close each active window one at a time.</p>
+        <p>To minimize everything that is open quickly, including open programs and windows, press the Windows key and M on your keyboard. Pressing Shift-Windows-M will undo the minimization. Another option is to press Windows-D, which will minimize all the open windows and reveal your desktop.</p>
+        <p>There are at least a couple of shareware programs that will let you close all the windows with a click of your mouse.</p>
+        <p>If you are interested in a software solution, you might want to try Closer, a $10 program that will let you maximize, minimize and close all windows with one click on your taskbar. (Pressing Control-Windows-Tab will let you jump from the Start menu through the Quick Launch bar to the System Tray, and the left and right arrow keys will then move you from item to item.) You can download Closer at www.coolest.com.</p>
+        <p>Another option, also named Closer, is freeware that can be found at www.chat.ru/anddch/closer .html.</p>
+        <p>Keyboard shortcuts can save time and energy, and if you want to learn more of them, search for ''keyboard shortcuts'' in your system's Help feature, which you can get by pressing F1 on your keyboard. You can also find a list of keyboard shortcuts in the support area of Microsoft's Web site (search.support.microsoft .com/kb), by searching for article No. Q126449.</p>
+        <p>Mac users can find a list of keyboard shortcuts by searching in the Tech Info Library on Apple Computer's Web site (til.info.apple.com) for ''keyboard shortcuts.'' A list of common shortcuts can also be found in the Apple Guide, (the Mac's Help file), which users can usually find under the question mark icon in the Mac's menu bar or by pressing the Help key.</p>
+        <p>Q.  How can I change the picture that appears on my screen when the computer starts up?</p>
+        <p>A.  Adding a touch of personalization when you start your computer is fairly simple to do for either a Windows or Macintosh machine, as long as you save the picture file in the right format. A Windows user needs to save the desired picture in the BMP (bitmap) format so the system can read it, while a Mac owner should save the files in the PICT format.</p>
+        <p>If you don't have image-editing software on your computer, many shareware sites on the Web have sections devoted to alternative start-up screens and graphic converter programs that will help you get personal pictures into the right format for either platform.</p>
+        <p>Windows users should first rename the existing Windows logo file by typing Control-F to call up the Find utility and typing LOGO.SYS in the Named box. The file should be in the C: drive, so click Find Now. Once the file pops up, right-click on it, select Rename and call it something different, like LOGO.OLD, to disable it. Find the picture file that you want to use and change the size to 320 x 400 pixels, with 256 colors or less. Rename it LOGO.SYS and save it on your hard drive (the default C: drive, in most cases), then reboot.</p>
+        <p>If you want to change the screens that appear when you shut down your computer -- ''Please wait while your computer shuts down'' and ''It's now safe to turn off your computer'' -- you can do that by renaming the old files and replacing them with your new choices. LOGOW.SYS is the ''Please wait'' screen, and the ''It is now safe'' message is LOGOS.SYS in the Windows folder.</p>
+        <p>A Mac user who wants to change the start-up screen should change the name of the desired PICT file to StartupScreen (just one word). Put that file into the System Folder and restart the Mac.</p>
+        <p>J. D. BIERSDORFER</p>
+        <p>Q &amp; A</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

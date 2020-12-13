@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Yanks Compile Manager List</title>
+    <meta content="09PINS" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/09/sports/09PINS.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1229007"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BASEBALL"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Baseball</classifier>
+        <classifier class="indexing_service" type="descriptor">Coaches and Managers</classifier>
+        <org class="indexing_service">New York Yankees</org>
+        <person class="indexing_service">Torre, Joe</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball/Major League/New York Yankees</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Baseball</classifier>
+        <classifier class="online_producer" type="general_descriptor">Coaches and Managers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000909T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE2DD1139F93AA3575AC0A9669C8B63" item-length="200" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Yanks Compile Manager List</hl1>
+      </hedline>
+      <dateline>BOSTON, Sept. 8</dateline>
+      <abstract>
+        <p>New York Yankees begin preparations to replace manager Joe Torre when he decides to step down (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Yankees Manager Joe Torre has said he assumes he is coming back next year, the last year of his contract. But at least one Yankee executive has made some very informal inquiries about possible replacements, just in case Torre decides to leave after this season.</p>
+        <p>The Yankees want to be prepared if Torre leaves.</p>
+      </block>
+      <block class="full_text">
+        <p>Yankees Manager Joe Torre has said he assumes he is coming back next year, the last year of his contract. But at least one Yankee executive has made some very informal inquiries about possible replacements, just in case Torre decides to leave after this season.</p>
+        <p>The Yankees want to be prepared if Torre leaves.</p>
+        <p>A Yankee official has asked others about possible managerial candidates, according to a baseball executive.</p>
+        <p>Based on what Torre said last month, however, there is no reason to think they will have to search for a replacement before next season. ''I'm assuming I'm coming back,'' Torre said. ''And being under contract, in my mind, I'm going to manage next year, because that's what I'm under contract to do.''</p>
+        <p>Torre could have left the Yankees last year, when he was treated for prostate cancer, but he elected to come back.</p>
+        <p>BASEBALL</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Old Hero Remembered</title>
+    <meta content="Y02MEM$02" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <docdata>
+      <doc-id id-string="1196257"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Police</classifier>
+        <classifier class="indexing_service" type="descriptor">National Law Enforcement Officers Memorial (Washington, DC)</classifier>
+        <classifier class="indexing_service" type="descriptor">Attacks on Police</classifier>
+        <person class="indexing_service">Smith, Isaac</person>
+        <classifier class="online_producer" type="types_of_material">Caption</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Law Enforcement and Security</classifier>
+        <classifier class="online_producer" type="general_descriptor">Attacks on Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">National Parks, Monuments and Seashores</classifier>
+        <classifier class="online_producer" type="general_descriptor">Police</classifier>
+        <classifier class="online_producer" type="general_descriptor">Monuments and Memorials</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000502T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E3D61239F931A35756C0A9669C8B63" item-length="0" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Old Hero Remembered</hl1>
+      </hedline>
+      <abstract>
+        <p>Name of Deputy Sheriff Isaac Smith of New York, who is believed to have been first American law enforcement officer killed in line of duty, in 1792, is added to National Law Enforcement Officers Memorial in Washington, DC; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content/>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>How I Found DuBois</title>
+    <meta content="L11WAR$01" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1198529"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <classifier class="indexing_service" type="descriptor">Discrimination</classifier>
+        <person class="indexing_service">Connerly, Ward</person>
+        <person class="indexing_service">Reichmann, Rebecca</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Discrimination</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000511T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E7DB1F38F932A25756C0A9669C8B63" item-length="139" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>How I Found DuBois</hl1>
+      </hedline>
+      <abstract>
+        <p>Rebecca Reichmann letter disputes Ward Connerly's May 8 Op-Ed article accusing bookstores of discriminating against black writers in marketing of their works (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Ward Connerly (''Where 'Separate but Equal' Still Rules,'' Op-Ed, May 8) engages in racial profiling himself by assuming that only African-Americans frequent what he calls the ''ghettos'' in the bookstores.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Ward Connerly (''Where 'Separate but Equal' Still Rules,'' Op-Ed, May 8) engages in racial profiling himself by assuming that only African-Americans frequent what he calls the ''ghettos'' in the bookstores.</p>
+        <p>I am a white Anglo-Saxon Protestant who browses in such sections regularly. My first memorable and serendipitous discovery, when I was 14, was W. E. B. DuBois, who forever changed my understanding of race in America.</p>
+        <p>REBECCA REICHMANN  San Diego, May 10, 2000</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

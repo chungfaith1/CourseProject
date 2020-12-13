@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="CN234647" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1234404"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000928T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D07E4DB1E3AF93BA1575AC0A9669C8B63" item-length="277" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LIBERTY CORP., Greenville, S.C., which owns Liberty Life Insurance and Cosmos Broadcasting, said it would buy up to three million more of its shares, in addition to the one million already authorized for repurchase.</p>
+        <p>DIMENSION DATA HOLDINGS LTD., Johannesburg, South Africa, which helps companies set up computer networks and electronic businesses, said it would acquire TimeBridge Technologies Inc., McLean, Va., a privately held computer services company, for $135 million.</p>
+      </block>
+      <block class="full_text">
+        <p>LIBERTY CORP., Greenville, S.C., which owns Liberty Life Insurance and Cosmos Broadcasting, said it would buy up to three million more of its shares, in addition to the one million already authorized for repurchase.</p>
+        <p>DIMENSION DATA HOLDINGS LTD., Johannesburg, South Africa, which helps companies set up computer networks and electronic businesses, said it would acquire TimeBridge Technologies Inc., McLean, Va., a privately held computer services company, for $135 million.</p>
+        <p>CH ENERGY GROUP INC., Poughkeepsie, N.Y., an owner of a New York utility, said it bought closely held Seymour Oil Co. of Connecticut for an undisclosed price to expand nonutility sales of oil, natural gas and propane.</p>
+        <p>SCIENTIFIC-ATLANTA INC., Norcross, Ga., the No. 2 maker of cable television set-top boxes in the United States, said it had sold 1.83 million shares, or 30 percent of its stake, in Bookham Technology P.L.C., England, which makes chips used in fiber-optic networks and to speed Internet access.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

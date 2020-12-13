@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sizzlin' Summer</title>
+    <meta content="02PART0AK" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="9" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1211832"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="EVENING HOURS"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000702T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE4DA1739F931A35754C0A9669C8B63" item-length="729" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sizzlin' Summer</hl1>
+      </hedline>
+      <byline class="print_byline">By Bill Cunningham</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Benefits for dance, film and television, art and women.</p>
+      </block>
+      <block class="full_text">
+        <p>Benefits for dance, film and television, art and women.  EVENING HOURS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

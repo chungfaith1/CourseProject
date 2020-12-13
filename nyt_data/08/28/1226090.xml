@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.S. Book Is Seized By China Over Photo</title>
+    <meta content="28X2BO$01" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1226090"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="types_of_material">Summary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000828T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0DE3DD1F31F93BA1575BC0A9669C8B63" item-length="83" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.S. Book Is Seized By China Over Photo</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Chinese officials confiscated thousands of copies of a book by a former White House photographer as they were being prepared for shipment from a bindery in China, effectively blocking its release in the United States. The book was seized because a photo showed the Dalai Lama, the spiritual leader of Tibetan Buddhism, whom the Chinese government opposes.</p>
+        <p>Business Day, Page C1.</p>
+      </block>
+      <block class="full_text">
+        <p>Chinese officials confiscated thousands of copies of a book by a former White House photographer as they were being prepared for shipment from a bindery in China, effectively blocking its release in the United States. The book was seized because a photo showed the Dalai Lama, the spiritual leader of Tibetan Buddhism, whom the Chinese government opposes.</p>
+        <p>Business Day, Page C1.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

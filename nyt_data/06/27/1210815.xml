@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="27CMPBS" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1210815"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000627T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E6D81330F934A15755C0A9669C8B63" item-length="426" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SABRE HOLDINGS CORP., Fort Worth, the largest travel-reservation company, agreed to buy 51 percent of Dillon Communication Systems of Hamburg, Germany, increasing the number of German travel agencies it serves to 5,900 from 1,000. Terms of the agreement were not disclosed.</p>
+      </block>
+      <block class="full_text">
+        <p>SABRE HOLDINGS CORP., Fort Worth, the largest travel-reservation company, agreed to buy 51 percent of Dillon Communication Systems of Hamburg, Germany, increasing the number of German travel agencies it serves to 5,900 from 1,000. Terms of the agreement were not disclosed.</p>
+        <p>NATIONAL AIRLINES, Las Vegas, a carrier that flies tourists to Las Vegas, agreed to buy as many as eight 757-200 jetliners from the Boeing Co., Seattle, the largest aerospace company in the world, valued at about $588 million. National has an option to order another 12 aircraft under the contract.</p>
+        <p>CORNING INC., Corning, N.Y., which makes optical fiber, cable and photonic products for the telecommunications industry, said it had received a contract valued at more than $1 billion over the next four years to supply optical fiber to Aerie Networks of Denver, a telecommunications company aiming to create a 20,000-mile nationwide broadband network by 2004.</p>
+        <p>LUCENT TECHNOLOGIES INC., Murray Hill, N.J., the biggest phone-equipment manufacturer in the world, said its New Ventures Group unit invested in the closely held ISPSoft Inc., Tinton Falls, N.J., a maker of software. Lucent did not say how much its unit invested in ISPSoft.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

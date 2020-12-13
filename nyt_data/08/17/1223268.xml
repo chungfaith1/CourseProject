@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Laptop for School</title>
+    <meta content="LTR003722" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Education; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1223268"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">st mary's university (san antonio)</org>
+        <person class="indexing_service">cartan, murray</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000817T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE4D7173EF934A2575BC0A9669C8B63" item-length="129" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Laptop for School</hl1>
+      </hedline>
+      <abstract>
+        <p>Murray Cartan letter, commenting on Aug 10 article, notes method used by St Mary's University in San Antonio to solve the problem of supplying computers to college students</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>St. Mary's University in San Antonio has a simple solution to the problem of supplying computers to college students (''PC 101: Pitfalls to Avoid,'' Aug. 10). It furnishes each freshman with identical laptops, with the cost included in the tuition. Each student can trade in the laptop for a newer model after two years. At graduation, each student can purchase the second laptop for $1.</p>
+        <p>MURRAY CARTAN  Queens</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>St. Mary's University in San Antonio has a simple solution to the problem of supplying computers to college students (''PC 101: Pitfalls to Avoid,'' Aug. 10). It furnishes each freshman with identical laptops, with the cost included in the tuition. Each student can trade in the laptop for a newer model after two years. At graduation, each student can purchase the second laptop for $1.</p>
+        <p>MURRAY CARTAN  Queens</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

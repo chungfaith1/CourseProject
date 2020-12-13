@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Software Tells Wireless E-Mail To Please Get to the Point</title>
+    <meta content="03GEE2" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1219657"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Electronic Mail</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">AmikaNow (Co)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electronic Mail</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000803T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE5DA1F3DF930A3575BC0A9669C8B63" item-length="326" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Software Tells Wireless E-Mail To Please Get to the Point</hl1>
+      </hedline>
+      <byline class="print_byline">By IAN AUSTEN</byline>
+      <abstract>
+        <p>Software company AmikaNow offers Web-based service that it says will automatically extract only most important sentences from long E-mail messages before passing them on to a wireless device (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Long e-mail messages are rarely welcome by busy computer users. But they can be almost unbearable when viewed through the tiny screens of wireless gadgets.</p>
+        <p>AmikaNow, a Canadian software company, now offers a service that it says will automatically extract only the most important sentences before passing them on to a wireless device.</p>
+      </block>
+      <block class="full_text">
+        <p>Long e-mail messages are rarely welcome by busy computer users. But they can be almost unbearable when viewed through the tiny screens of wireless gadgets.</p>
+        <p>AmikaNow, a Canadian software company, now offers a service that it says will automatically extract only the most important sentences before passing them on to a wireless device.</p>
+        <p>''People want e-mail highlights,'' said Suhayya Abu-Hakim, the company's president and chief executive. AmikaFreedom.com is a Web-based variation of software the company has been selling for about a year.</p>
+        <p>To use it, users must fill out a long registration form to indicate, among other things, the address of their main e-mail servers. AmikaNow's servers copy e-mail messages as they arrive at customers' main mail servers. The software then does the chopping, first by selecting the most important sentences, then by further reducing them.</p>
+        <p>The software is largely based on artificial intelligence research by Dr. Abu-Hakim at the Canadian government's National Research Council.</p>
+        <p>Not all the decisions about cuts are made using complex algorithms. The first sentence is usually the first to go, Dr. Abu-Hakim said, because ''a lot of people begin e-mails with some nicety like 'it was good to see you again.' ''</p>
+        <p>By the company's estimate, the software has a success rate of 75 percent to 80 percent. That is  partly because of the current software's limitations, Dr. Abu-Hakim acknowledged.</p>
+        <p>But she said there was another important factor: ''Not everyone writes well. In the case where the e-mail makes no sense and the writing is poor, the highlight is going to be poor.''</p>
+        <p>The service is currently free as it is still in development. Dr. Abu-Hakim said the company planned to start charging users $2 to $5 a month for the service by the end of the year.</p>
+        <p>IAN AUSTEN</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Album of the Week</title>
+    <meta content="20RECO" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Movies, Performing Arts/Weekend Desk" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="E" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Movies; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/20/arts/20RECO.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1240186"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <classifier class="indexing_service" type="descriptor">Recordings (Audio)</classifier>
+        <person class="indexing_service">Gonzaga, Luiz</person>
+        <person class="indexing_service">Ratliff, Ben</person>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Movies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music/Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="general_descriptor">Recordings (Audio)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001020T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE4DF133EF933A15753C1A9669C8B63" item-length="432" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Album of the Week</hl1>
+      </hedline>
+      <byline class="print_byline">By BEN RATLIFF</byline>
+      <byline class="normalized_byline">Ratliff, Ben</byline>
+      <abstract>
+        <p>Ben Ratliff Album of the Week review of release in tribute to Luiz Gonzaga, Brazilian singer-songwriter who died in 1989 (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''BAIAO DE VIRAMUNDO: TRIBUTE TO LUIZ GONZAGA'' (Stern's Brasil). The singer, accordionist and songwriter Luiz Gonzaga, who died in 1989, remains a powerful symbol of regional Brazilian culture -- its glory and its backwardness. He came from the backlands of the northeastern state of Pernambuco, and even though his route to success came via the Rio record and radio business in the 1940's, his music was unmistakably country. His songs lurched forward in 2/4 rhythm, and the heart of his music was accordion, bass drum and triangle; it was dance music based in what rural bands played for harvest parties.</p>
+        <p>He paraded his background all through his long career, wearing strange cowboy-style hats in his public appearances, and his music got a new life in the 1970's, when Elis Regina, Gilberto Gil, Caetano Veloso and others made him fashionable again by interpreting his songs.</p>
+      </block>
+      <block class="full_text">
+        <p>''BAIAO DE VIRAMUNDO: TRIBUTE TO LUIZ GONZAGA'' (Stern's Brasil). The singer, accordionist and songwriter Luiz Gonzaga, who died in 1989, remains a powerful symbol of regional Brazilian culture -- its glory and its backwardness. He came from the backlands of the northeastern state of Pernambuco, and even though his route to success came via the Rio record and radio business in the 1940's, his music was unmistakably country. His songs lurched forward in 2/4 rhythm, and the heart of his music was accordion, bass drum and triangle; it was dance music based in what rural bands played for harvest parties.</p>
+        <p>He paraded his background all through his long career, wearing strange cowboy-style hats in his public appearances, and his music got a new life in the 1970's, when Elis Regina, Gilberto Gil, Caetano Veloso and others made him fashionable again by interpreting his songs.</p>
+        <p>Artists like these were busy collapsing what was perceived as low and high culture, spreading the theory that most elements of one's own regional music -- no matter how rustic or commercialized -- can be usable. This notion has persisted; the musicians in today's arty sector of Brazilian pop are still obsessed with their regional roots. Gonzaga songs, which were some of the country's most popular songs in the 1950's, are especially ripe for reinterpretation, and on ''Baiao de Viramundo'' a handful of new Brazilian singers, rock bands, DJ's, and instrumentalists attack 16 of them.</p>
+        <p>Included here is the cream of a new creative Brazilian scene, mostly from the Northeast and Sao Paolo -- rock bands like Nacao Zumbi and Sheik Tosado, the eclectic Mundo Livre S.A., curious regional-music explorers like Mestre Ambrosio and Cascabulho and the singer Andrea Marquee. They dismantle Gonzaga songs, mixing rustic string and percussion instruments, mechanized drum-and-bass rhythm, rapping, live bands with electric guitars and parade bass-drums, and plenty of accordion and triangle. Even when a few individual tracks sound undistinguished, there is plenty of theory here. The album is a potent mix for the brain, and if it leads you back to Gonzaga's great music, so much the better.</p>
+        <p>BEN RATLIFF</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

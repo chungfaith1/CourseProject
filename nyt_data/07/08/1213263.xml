@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="BRI08" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1213263"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000708T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B00E5DB1438F93BA35754C0A9669C8B63" item-length="223" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TOWER AUTOMOTIVE INC., -- Grand Rapids, Mich., a maker of stamped automobile-frame parts, acquired the 60 percent of Metalurgica Caterina S.A., a Brazilian maker of auto parts, it did not already own for about $42 million.</p>
+      </block>
+      <block class="full_text">
+        <p>TOWER AUTOMOTIVE INC., -- Grand Rapids, Mich., a maker of stamped automobile-frame parts, acquired the 60 percent of Metalurgica Caterina S.A., a Brazilian maker of auto parts, it did not already own for about $42 million.</p>
+        <p>COVENTRY HEALTH CARE INC., -- Bethesda, Md., a managed health care insurer, agreed to buy a unit of Duke University Health Systems, Chapel Hill, N.C., for about $25 million.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

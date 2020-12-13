@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Eyewitness Testimony</title>
+    <meta content="L27EYE" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1210682"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Capital Punishment</classifier>
+        <classifier class="indexing_service" type="descriptor">Murders and Attempted Murders</classifier>
+        <location class="indexing_service">Texas</location>
+        <person class="indexing_service">Friedman, Richard D (Prof)</person>
+        <person class="indexing_service">Hutchinson, Asa (Repr)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Texas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Capital Punishment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000627T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE3D81230F934A15755C0A9669C8B63" item-length="131" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Eyewitness Testimony</hl1>
+      </hedline>
+      <abstract>
+        <p>Prof Richard D Friedman letter on Rep Asa Hutchinson's June 22 article cite factors that can make eyewitness testimony unreliable</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Representative Asa Hutchison is correct that eyewitness testimony --  people telling the jury under oath what they have seen -- is the foundation of our judicial system (''Eyewitnesses Under Attack,'' Op-Ed, June 22). And eyewitness identifications clearly have very powerful effects on juries.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Representative Asa Hutchison is correct that eyewitness testimony --  people telling the jury under oath what they have seen -- is the foundation of our judicial system (''Eyewitnesses Under Attack,'' Op-Ed, June 22). And eyewitness identifications clearly have very powerful effects on juries.</p>
+        <p>But many studies have shown that various circumstances -- a difference in race between the witness and the person identified, stress, shortness of time to observe and suggestive questioning, among others --  often make eyewitness identifications far less reliable than most jurors are inclined to believe. Recently, numerous courts have recognized that it is appropriate to give jurors expert assistance in assessing these problems.</p>
+        <p>RICHARD D. FRIEDMAN  Ann Arbor, Mich., June 22, 2000</p>
+        <p>The writer is a professor at the University of Michigan Law School.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

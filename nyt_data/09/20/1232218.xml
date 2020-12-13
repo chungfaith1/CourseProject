@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>HEWLETT SETS WIRELESS INVESTMENT</title>
+    <meta content="MB235556" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1232218"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="TECHNOLOGY BRIEFING: TELECOMMUNICATIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Cellular Telephones</classifier>
+        <classifier class="indexing_service" type="descriptor">Finances</classifier>
+        <org class="indexing_service">Hewlett-Packard</org>
+        <org class="indexing_service">US Wireless</org>
+        <person class="indexing_service">Romero, Simon</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cellular Telephones</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000920T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DEEDE123BF933A1575AC0A9669C8B63" item-length="123" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>HEWLETT SETS WIRELESS INVESTMENT</hl1>
+      </hedline>
+      <byline class="print_byline">By Simon Romero</byline>
+      <byline class="normalized_byline">Romero, Simon</byline>
+      <abstract>
+        <p>Hewlett-Packard plans to invest $52 million in wireless location network under construction by US Wireless, company that provides mobile-location and traffic-related information to communications companies (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Hewlett-Packard plans to invest $52 million in a wireless location network under construction by U.S. Wireless, a company that provides mobile-location and traffic-related information to communications companies. The network is expected to allow users access to traffic navigation services, in addition to allowing authorities to determine the location of cell phone users in 911 emergency situations.</p>
+        <p>Simon Romero (NYT)</p>
+      </block>
+      <block class="full_text">
+        <p>Hewlett-Packard plans to invest $52 million in a wireless location network under construction by U.S. Wireless, a company that provides mobile-location and traffic-related information to communications companies. The network is expected to allow users access to traffic navigation services, in addition to allowing authorities to determine the location of cell phone users in 911 emergency situations.</p>
+        <p>Simon Romero (NYT)</p>
+        <p>TECHNOLOGY BRIEFING: TELECOMMUNICATIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

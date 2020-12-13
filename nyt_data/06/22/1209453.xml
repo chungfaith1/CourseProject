@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Real Books on Real Shelves</title>
+    <meta content="LTR235954" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1209453"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Libraries and Librarians</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">chaffee, james</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Libraries and Librarians</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000622T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04E7D91E31F931A15755C0A9669C8B63" item-length="197" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Real Books on Real Shelves</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by James Chafee responds to June 15 article on library computerization; says intellectual diversity comes from years of research, not from clicking on Internet search engine</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>So Web entrepreneurs are scanning a handful of public domain volumes and calling it a library. The theory is that the lazy-minded will not know the difference, and consequently real libraries are passe. But no one who has actually seen the mountain of records, archives and files that a real library contains could entertain such a notion.</p>
+        <p>It is an error to think that intellectual diversity comes from having a large database. Intellectual diversity comes from having who can spend years on research and then make a living from their publishing. Writers who can challenge the assumptions of the past, go back to original documents and then write books that contribute to a new understanding our society and our history.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>So Web entrepreneurs are scanning a handful of public domain volumes and calling it a library. The theory is that the lazy-minded will not know the difference, and consequently real libraries are passe. But no one who has actually seen the mountain of records, archives and files that a real library contains could entertain such a notion.</p>
+        <p>It is an error to think that intellectual diversity comes from having a large database. Intellectual diversity comes from having who can spend years on research and then make a living from their publishing. Writers who can challenge the assumptions of the past, go back to original documents and then write books that contribute to a new understanding our society and our history.</p>
+        <p>This kind of work does not get done by clicking on a search engine, much as college freshmen would like to believe that it is so.</p>
+        <p>JAMES CHAFFEE  San Francisco</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

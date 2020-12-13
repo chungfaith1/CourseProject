@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Give and Take on Napster</title>
+    <meta content="LTR234755" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212876"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">Napster Inc</org>
+        <person class="indexing_service">santagada, gene</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000706T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F00E0D61E39F935A35754C0A9669C8B63" item-length="134" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Give and Take on Napster</hl1>
+      </hedline>
+      <abstract>
+        <p>Gene Santagada letter says June 29 article on Napster failed to mention that real-time computer-to-computer file exchanges have been popular for years among users of Internet Relay Chat</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''Napster Rocks the Web'' (State of the Art, June 29) did not mention that real-time computer-to-computer file exchanges have been popular for years among users of Internet Relay Chat.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''Napster Rocks the Web'' (State of the Art, June 29) did not mention that real-time computer-to-computer file exchanges have been popular for years among users of Internet Relay Chat.</p>
+        <p>Besides channels for chatting, there are channels devoted to images, music and particular artists or bands. So people can communicate and exchange files.</p>
+        <p>GENE SANTAGADA  Newburgh, N.Y.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

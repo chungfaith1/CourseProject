@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>COMPANY BRIEFS</title>
+    <meta content="10CBRIE" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1221504"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS FROM NYTIMES</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000810T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE7D7163FF933A2575BC0A9669C8B63" item-length="241" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>COMPANY BRIEFS</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>MAYTAG CORP.,  Newton, Iowa, said it would begin selling its appliances at the wholesale warehouse store Sam's Club, a unit of Wal-Mart Stores Inc.</p>
+        <p>EFAX.COM INC.,  Menlo Park, Calif., an Internet messaging service company, said its stock had been delisted from the Nasdaq stock market because it no longer met a requirement of $4 million in net tangible assets.</p>
+      </block>
+      <block class="full_text">
+        <p>MAYTAG CORP.,  Newton, Iowa, said it would begin selling its appliances at the wholesale warehouse store Sam's Club, a unit of Wal-Mart Stores Inc.</p>
+        <p>EFAX.COM INC.,  Menlo Park, Calif., an Internet messaging service company, said its stock had been delisted from the Nasdaq stock market because it no longer met a requirement of $4 million in net tangible assets.</p>
+        <p>HAYES LEMMERZ INTERNATIONAL INC.,  Northville, Mich., a maker of automotive wheels, agreed to buy an aluminum auto-parts foundry in Maulbronn, Germany, to expand its ability to produce lightweight suspension parts. The terms of the deal were not disclosed.</p>
+        <p>RAYTHEON CO.,  Vienna, Va., received a U.S. Air Force contract valued at $250 million to provide base operations support at Johnston Atoll, which supports chemical demilitarization activities for the U.S. Army.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

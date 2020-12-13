@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Trying to Make Package Delivery As Easy as Shopping Online</title>
+    <meta content="26GEE2" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/10/26/technology/26GEE2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1241934"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Delivery Services</classifier>
+        <classifier class="indexing_service" type="descriptor">Trucks and Trucking</classifier>
+        <classifier class="indexing_service" type="descriptor">Catalogs</classifier>
+        <org class="indexing_service">zBox (Co)</org>
+        <person class="indexing_service">Biersdorfer, J D</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mail Order Companies</classifier>
+        <classifier class="online_producer" type="general_descriptor">Service Industries</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trucks and Trucking</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001026T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE7DB1331F935A15753C1A9669C8B63" item-length="379" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Trying to Make Package Delivery As Easy as Shopping Online</hl1>
+      </hedline>
+      <byline class="print_byline">By J.D. BIERSDORFER</byline>
+      <byline class="normalized_byline">Biersdorfer, J D</byline>
+      <abstract>
+        <p>New company, called zBox, creates system to simplify delivery of packages; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Shopping online is usually the easy part: point, click, credit-card number. It's the arrival of the purchases that can be less than convenient, especially if one doesn't happen to be home when the packages arrive.</p>
+        <p>To help solve the problem of that last mile (and to save a trip to the post office with a yellow Delivery Attempt note in hand or the irritation of playing tag with the courier service), a company called zBox has created what it calls a ''smart home-delivery appliance.'' It is a small box (about 2 1/2 feet wide by 2 feet tall and 2 feet deep), that sits outside your house and is equipped with a proprietary access system and a keypad. Shoppers can instruct online and catalog merchants to send packages through the zBox service. A package delivered with the aid of the zBox technology will have an unique access code on the shipping label, and the driver just has to punch the package code into the keypad on the zBox to open the device and leave the goods. The access code on the zBox changes with each package, but the zBox owners have their own PIN code so they can collect deliveries easily.</p>
+      </block>
+      <block class="full_text">
+        <p>Shopping online is usually the easy part: point, click, credit-card number. It's the arrival of the purchases that can be less than convenient, especially if one doesn't happen to be home when the packages arrive.</p>
+        <p>To help solve the problem of that last mile (and to save a trip to the post office with a yellow Delivery Attempt note in hand or the irritation of playing tag with the courier service), a company called zBox has created what it calls a ''smart home-delivery appliance.'' It is a small box (about 2 1/2 feet wide by 2 feet tall and 2 feet deep), that sits outside your house and is equipped with a proprietary access system and a keypad. Shoppers can instruct online and catalog merchants to send packages through the zBox service. A package delivered with the aid of the zBox technology will have an unique access code on the shipping label, and the driver just has to punch the package code into the keypad on the zBox to open the device and leave the goods. The access code on the zBox changes with each package, but the zBox owners have their own PIN code so they can collect deliveries easily.</p>
+        <p>The zBox company recently completed a successful test of the product in the San Francisco  Bay Area, with 100 consumers and major courier services, like United Parcel Service and Federal Express, participating. ''We really expect, within two years, to have zBoxes in almost every neighborhood in the U.S.,'' said Tony Paikeday, one of the company's founders. The zBox will be available for purchase from the company's Web site (www.zbox.com). The United States Postal Service has just signed an agreement with zBox to promote postal-carrier training for zBox deliveries and the marketing of the device. Other delivery services are likely to participate.</p>
+        <p>And there's one other aspect of online shopping that the zBox is prepared for: the return of unwanted purchases. A user will be able to return packages by leaving them in the zBox and clicking a button on the company's Web site to have the packages picked up.</p>
+        <p>J.D. BIERSDORFER</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

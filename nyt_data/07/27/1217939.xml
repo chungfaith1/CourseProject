@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Wired Cyclists Connect to Computers to Measure Pedal Power</title>
+    <meta content="27BIKE" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1217939"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bicycles and Bicycling</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Schoberer Rad Messtechnik</org>
+        <org class="indexing_service">Tune (Co)</org>
+        <person class="indexing_service">Armstrong, Lance</person>
+        <person class="indexing_service">Austen, Ian</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Biking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bicycles and Bicycling</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000727T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E5DA1E3AF934A15754C0A9669C8B63" item-length="1055" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Wired Cyclists Connect to Computers to Measure Pedal Power</hl1>
+      </hedline>
+      <byline class="print_byline">By IAN AUSTEN</byline>
+      <byline class="normalized_byline">Austen, Ian</byline>
+      <abstract>
+        <p>Schoberer Rad Messtechnik of Germany makes the computer equipment that Lance Armstrong and other professional cyclists use to measure how much power they generate as they practice, and it is joining with Tune, an American company, to develop a lower-priced units aimed at amateur cyclists; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LAST winter, when people were still thinking about skiing, the American cyclist Lance Armstrong was beginning the training that led to his second consecutive Tour de France victory last Sunday.</p>
+        <p>But sharp-eyed fans who saw him during those preseason sessions might have noticed something odd about Mr. Armstrong's bike. Its normal cranks -- sleek, lightweight models by Shimano -- had been replaced by a slightly awkward-looking pair. And on his handlebars was a red cycle computer perhaps twice the size of Mr. Armstrong's in-season model, about the same size as the smallest of cell phones.</p>
+      </block>
+      <block class="full_text">
+        <p>LAST winter, when people were still thinking about skiing, the American cyclist Lance Armstrong was beginning the training that led to his second consecutive Tour de France victory last Sunday.</p>
+        <p>But sharp-eyed fans who saw him during those preseason sessions might have noticed something odd about Mr. Armstrong's bike. Its normal cranks -- sleek, lightweight models by Shimano -- had been replaced by a slightly awkward-looking pair. And on his handlebars was a red cycle computer perhaps twice the size of Mr. Armstrong's in-season model, about the same size as the smallest of cell phones.</p>
+        <p>The differences went beyond appearances. Mr. Armstrong's special cranks, made by the German-based company Schoberer Rad Messtechnik, or SRM, contained nine sensitive strain gauges. When combined with the special computer (also from SRM), they allowed Mr. Armstrong to measure exactly how much power he was generating.</p>
+        <p>In the past decade, measuring power output has become standard training procedure for many top-level professional cyclists. Now SRM and a cycling electronics upstart called Tune, based in Cambridge, Mass., are hoping that lower-priced units for measuring power will make converts among amateur cyclists as well. ''We've gone into this market because we think the general cycling market is ready for using power measurement,'' said Tune's president, Gerhard Pawelka. ''It's the next step.''</p>
+        <p>Like race-car drivers, cyclists are keenly interested in power. Measuring power output allows them to evaluate the effectiveness of their training and spot potential physical problems. Unlike automobile racers, however, cyclists are both the engine and the drivers of their machines, and they measure their power output in kilojoules or watts instead of horsepower.</p>
+        <p>Racing cyclists already suffer from information overload. Their cyclometers can track speed (actual, maximum and average), distance, pedaling rate and elapsed riding times. Transmitters strapped around their chests radio a running heartbeat count to their cycle computer or a wristwatch-style receiver.</p>
+        <p>But Dede Demet-Barry, a professional cyclist with the United States-based Saturn team, said she had found power measurement to be a valuable addition. ''It's a more accurate measurement of my fitness than just the heart rate, which is affected by other factors,'' she said. ''It's a very good indicator of overtraining.''</p>
+        <p>As a member of the national cycling team, Mrs. Demet-Barry used power measurements to alter her  position on her bike to take maximum advantage of aerodynamics prior to the 1996 Olympics.</p>
+        <p>Before 1986, the only way to measure cyclists' power output was by using stationary bicycles in sports medicine labs. Then Ulrich Schoberer, a German biomedical engineer who raced bicycles when he wasn't designing pacemakers, created a device that would take measurements on riders' actual road bikes.</p>
+        <p>Both Mr. Schoberer's creation, which became the SRM crank, and Tune's Power Tap rely on strain gauges. In simple terms, they are pieces of extremely fine wire formed into a series of tightly spaced U shapes. The wire is bonded to a piece of flexible plastic before being glued onto either part of the crank (in SRM's design) or inside the rear hub (in Tune's system). Pedaling by cyclists slightly distorts the aluminum of either the hub or crank. That, in turn, stretches the strain gauge wires, which then, according to a long established principal of electrical engineering, reduces the voltage of a small electrical current that is constantly passed through them. Software in the computers mounted on the handlebars calculate how much power output by the cyclist is represented by that minute voltage change.</p>
+        <p>Mr. Schoberer, who is now president of SRM, said that his tests had found that the crank was the only accurate place for measurements because it was not distorted by power loss caused by inefficiencies from the bicycle's chain and sprockets.  Christopher Zigmont, Tune's marketing director, acknowledged that, by using a hub for its system, up to 4  percent of a rider's actual output may be missing from its readings. But he said that that distortion was offset by the fact that the hub made it convenient for a cyclist to remove Tune's system when they don't need power measurement.</p>
+        <p>Both companies have also developed radio telemetry systems that allow coaches and broadcasters to spy on rider's exertions. So far, their only television use has come in a minor men's race in Germany and a women's race in the United States.</p>
+        <p>It may take a while before viewers are able to monitor the progress of Mr. Armstrong or anyone else in the Tour de France. Once the professional men's racing season is fully under way, power measuring devices quickly disappear from the bikes of top level riders. Part of the problem is weight. Both companies say their systems make a bicycle about 200 grams heavier.</p>
+        <p>For amateurs, cost may be the biggest factor in keeping power measuring gadgets off their bikes. SRM's amateur model sells for about $1,530, and its more accurate professional model costs about $2,300 at current exchange rates. Both can store power readings, heart rate, pedal speed, time and road speed for downloading later to a PC. The devices can be ordered online at www.srm.de.</p>
+        <p>Tune, which also sells its units on  its Web site (www.etune.com), has priced its basic Power-Tap hub, which stores up to seven hours of data, at $769 and offers another model without memory for $499. Purchasers of either unit must spend additional money to have the hub built into a wheel.</p>
+        <p>Mr. Schoberer has found that his crank is more popular with amateur cyclists in Italy than with Americans. ''Maybe it's because they're like the Germans,'' he said of Americans. ''They buy the best bike, get the best wheels and then they say they don't have any money for the computer,'' Mr. Schoberer said. ''But you know, the Italians are the best cyclists.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

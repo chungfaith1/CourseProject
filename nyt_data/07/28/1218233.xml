@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Book Publisher Picks Executive</title>
+    <meta content="Y28BOOK" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1218233"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="THE MEDIA BUSINESS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Appointments and Executive Changes</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <org class="indexing_service">Simon &amp; Schuster</org>
+        <person class="indexing_service">Peterson, Kristina</person>
+        <person class="indexing_service">Richter, Rick</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Appointments and Executive Changes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000728T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DEEDD173DF93BA15754C0A9669C8B63" item-length="166" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Book Publisher Picks Executive</hl1>
+      </hedline>
+      <abstract>
+        <p>Simon &amp; Schuster names Kristina Peterson president of its children's publishing division, effective Aug 14; succeeds Rick Richter, who is named president of sales and distribution (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The book publisher Simon &amp; Schuster has named Kristina Peterson president of its children's publishing division, effective on Aug. 14.</p>
+        <p>Ms. Peterson, 49 years old, is currently president of the children's media group at Random House, the book publishing unit of the German media company Bertelsmann.</p>
+      </block>
+      <block class="full_text">
+        <p>The book publisher Simon &amp; Schuster has named Kristina Peterson president of its children's publishing division, effective on Aug. 14.</p>
+        <p>Ms. Peterson, 49 years old, is currently president of the children's media group at Random House, the book publishing unit of the German media company Bertelsmann.</p>
+        <p>Random House said her position was being eliminated as its children's media group is reduced to the children's books division. Craig Virden, 47, remains president and publisher of Random House children's books.</p>
+        <p>Ms. Peterson succeeds Rick Richter, 39, who was named president of the sales and distribution division at Simon &amp; Schuster. The company is a unit of Viacom Inc., a media company based in New York.</p>
+        <p>THE MEDIA BUSINESS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

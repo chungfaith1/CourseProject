@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Can Robots Rule the World? Not Yet</title>
+    <meta content="12ROBO$04" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/12/science/12ROBO.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1229891"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Robots</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <org class="indexing_service">Brandeis University</org>
+        <person class="indexing_service">Chang, Kenneth</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Robots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000912T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803EFD61F39F931A2575AC0A9669C8B63" item-length="1714" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Can Robots Rule the World? Not Yet</hl1>
+      </hedline>
+      <byline class="print_byline">By KENNETH CHANG</byline>
+      <byline class="normalized_byline">Chang, Kenneth</byline>
+      <abstract>
+        <p>Robotics researchers see no possibility that robots will eventually displace humans; hold giving machines ability to reproduce is almost impossible, despite success of Brandeis University researchers in building robotic system that designs and builds other simple robots; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bees do it. Birds do it. Bacteria do it.</p>
+        <p>But robots cannot do it. They cannot reproduce themselves.</p>
+        <p>That's one reason robotics researchers do not believe that robots will displace humans any time soon. Last month organizers of the Humanoids 2000 conference surveyed some of the participants about possible social implications of their work. On a scale of 0, for highly unlikely, to 5, for highly likely, the robotics researchers rated the possibility that robots ''will be the next step in the evolution and will eventually displace human beings'' a zero.</p>
+      </block>
+      <block class="full_text">
+        <p>Bees do it. Birds do it. Bacteria do it.</p>
+        <p>But robots cannot do it. They cannot reproduce themselves.</p>
+        <p>That's one reason robotics researchers do not believe that robots will displace humans any time soon. Last month organizers of the Humanoids 2000 conference surveyed some of the participants about possible social implications of their work. On a scale of 0, for highly unlikely, to 5, for highly likely, the robotics researchers rated the possibility that robots ''will be the next step in the evolution and will eventually displace human beings'' a zero.</p>
+        <p>''They are much less euphoric than other people, say, movie producers,'' said Dr. Alois Knoll of the University of Bielefeld in Germany, one of the  organizers of the conference, which featured reports on research to create humanoid robots.</p>
+        <p>The survey was conducted before the announcement by Brandeis University researchers that they had built a robotic system that designs and builds other robots. But at the conference, held last week at the Massachusetts Institute of Technology, most participants said robots capable of challenging humanity, as in the movie ''Terminator,'' remained in the realm of science fiction.</p>
+        <p>Dr. Knoll listed the limitations of present-day robots: ''We don't have the mechanical dexterity. We don't have the power supply. We don't have the brains. We don't have the emotions. We don't have the autonomy in general to undertake these things to even come close to humans.''</p>
+        <p>For example, even if intelligent, conniving robots did exist and wanted to take over the world, they would have to act fast: most exhaust their batteries in less than half an hour. ''It's the same problem as electric cars,'' Dr. Knoll said.</p>
+        <p>But the most difficult obstacle to building an intelligent, evolving, self-reproducing robot may turn out to be the self-reproducing part.</p>
+        <p>The Brandeis system's ability to design and build robots with little help from humans help set off speculation about self-reproducing, evolving robots that could explore the galaxy -- or push humans to extinction. Even the Brandeis researchers call that far-fetched. ''We're so far from that, it's kind of a silly question,'' said one of them, Dr. Jordan B. Pollack.</p>
+        <p>The machines created at Brandeis  were little more than toys, far less complex than the system that designed and built them.</p>
+        <p>In the biological world, reproduction is a mundane ability mastered by every creature from the smallest microbe to the largest whale.</p>
+        <p>Scientists have made self-reproducing, evolving organisms of their own -- but only within a computer. In 1994, Karl Sims, who was then a research scientist at Thinking Machines, populated a simulated world with animated, evolving creatures. Other researchers, like Dr. Christoph Adami, a research fellow at the California Institute of Technology, and Dr. Thomas S. Ray Jr. of the University of Oklahoma have created self-replicating computer programs that mutate in ways similar to actual organisms like bacteria, fungi and fruit flies.</p>
+        <p>To give machines the ability to reproduce, however, strikes most robotics researchers as an almost impossible task, even more difficult than building an intelligent robot.</p>
+        <p>Like other robotics researchers, Dr. Rodney Brooks, director of the Artificial Intelligence Laboratory at the Massachusetts Institute of Technology, predicts the development of  robots that assemble themselves, so to speak, out of ready-made parts. But to build a copy of itself, a robot would have to forage for raw materials, shape them into motors, sensors, computer chips and other parts and then put the pieces together.</p>
+        <p>Just making computer chips -- currently manufactured in sophisticated factories that cost up to a billion dollars to build -- would be a daunting task for a robot.</p>
+        <p>''Self-replicating robots would have to possess all that ability in a few cubic feet,'' Dr. Brooks said. ''I don't see it on the horizon in any way.''</p>
+        <p>Bill Joy, chief scientist of Sun Microsystems, writing in an article in the April issue of Wired magazine, expressed his concern that self-reproducing robots could displace biological life, and he suggested that  scientists ought to avoid developing some technologies.</p>
+        <p>Dr. Pollack disagreed. ''I think it's kind of being used as a bogeyman,'' he said. ''The question is, will it get out of control? It would take a large industrial, warlike scenario for someone to build a doomsday robot. I don't think anyone knows how to do that. Could robots themselves figure out how to become a doomsday robot? And the answer is, it's as far off as a fax machine is from a Star Trek transporter.''</p>
+        <p>Then there is the optimistic dissenter. Dr. Hans P. Moravec, a principal research scientist at the Robotics Institute at Carnegie Mellon University, sees robots as the future -- and welcomes them. He notes that the processing power of computer chips doubles every year to 18 months. ''By 2040,'' said Dr. Moravec, ''the robots will be as smart as we are.'' By then robots should be skilled enough to design and build automated factories that manufacture improved versions of themselves, he predicted.</p>
+        <p>''Business competition will ensure that robots take over human jobs until 100 percent of industry is automated, from top to bottom,'' Dr. Moravec said. ''I think we can retire comfortably.''</p>
+        <p>The last significant act of humans, he said, would be the passing of laws to ensure that robot-run companies acted in the interest of humans.</p>
+        <p>''I've been thinking about this for 40 years, and I've become very comfortable with this,'' Dr. Moravec said. ''As you think about these ideas, they gradually become less and less strange.''</p>
+        <p>Dr. Moravec said he would not be disturbed even if intelligent robots eventually displaced humanity. ''These things are all our descendants,'' he said. ''We built them. They were initially, more or less, in our image. The robots are us. The biology is no longer necessary.''</p>
+        <p>Dr. Frank J. Tipler, a professor of mathematical physics at Tulane University, also believes that robots are the future of life, and he argues that the lack of robotic spacecraft zipping past Earth means there are not any other intelligent species in the galaxy. ''Not only is there no intelligent life in the galaxy,'' Dr. Tipler said, ''there isn't intelligent life within an order of a billion light-years.''</p>
+        <p>Self-replicating robots, Dr. Tipler argues, would also be an efficient way to explore the galaxy. Several spacecraft could be sent from Earth to scout nearby stars. After transmitting reports about what they found, the spacecraft would then set up factories to build more spacecraft to head for the next nearest stars.</p>
+        <p>Even if each probe traveled at a speed of only a tenth of the speed of light, the ever expanding fleet would would be able to visit every star in the galaxy within 10 million years, less than 1/1,000th of the age of the galaxy.</p>
+        <p>Such visions still seem far off for most researchers.</p>
+        <p>''I would never say never,'' Dr. Knoll said. ''But the likelihood of these things happening in our lifetime is very little.'' He estimated that 90 percent of the Humanoid 2000 participants do not believe Dr. Moravec's predictions.</p>
+        <p>The pessimism may reflect the many obstacles that researchers face in creating useful robots, much less ones that would displace humanity. Two-legged humanoid robots walk slowly and awkwardly. Robots like Kismet at the M.I.T. Artificial Intelligence Laboratory can display childlike reactions when addressed in different tones of voice, but discussions of what would be deemed conscious and intelligent behavior are still rooted in philosophy, not experiments.</p>
+        <p>However, robots do not have to be humanlike, or even visible, to be useful -- or dangerous. In the Aug. 31 issue of Nature, researchers at the University of Lausanne, Switzerland, reported that a group of robots programmed with a few simple rules patterned after ant behavior could efficiently forage their environment.</p>
+        <p>With the development of nanotechnology, the building of machines out of individual atoms and molecules, Mr. Joy worries about artificial microbes that are better than their biological counterparts.</p>
+        <p>Such minuscule robots, less than 1/25,000th of an inch, are one of the aims of Zyvex, a nanotechnology company in Dallas, but company officials say they will not make anything that could pose any danger. Dr. Ralph C. Merkle, a principal fellow of Zyvex and a consultant to the Foresight Institute, says that by design the robots will not be able to evolve.</p>
+        <p>To minimize risks, the Foresight Institute, which studies nanotechnology, has proposed guidelines for its work, including encrypting the robot's programming and designing the robots so that they do not function in an uncontrolled environment.</p>
+        <p>''We're not interested in evolution,'' Dr. Merkle said. ''Quite the reverse.''</p>
+        <p>Zyvex's nanorobots would be mindless machines that followed instructions to build other nanorobots, including ones that could be injected into the bloodstream of a hospital patient. ''It could be programmed to remove specific stuff you don't want,'' like cancer cells, blood vessel obstructions or invading germs, Dr. Merkle said.</p>
+        <p>But without the instructions, nano-robots could not reproduce.</p>
+        <p>''If you flush them down the toilet,'' Dr. Merkle said, ''they stop working.''</p>
+        <p>Adding a built-in ability to replicate would add unnecessary cost and complexity -- unless one was trying to create a dangerous nanorobot as a weapon. Dr. Merkle agrees with Mr. Joy that perhaps some technologies should be avoided. But, he added, research in this area needs to continue to develop defenses if an enemy unleashed a nanorobot weapon.</p>
+        <p>''There are certain things we need to think about very carefully,'' Dr. Merkle said, referring to nanorobots. ''Should we relinquish autonomous, self-replicating devices that can function in a natural environment? The answer is yes, that looks like a fine thing to relinquish.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

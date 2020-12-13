@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Metro Business; Stock Exchange Plan Wins First Approval</title>
+    <meta content="MB030505" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1216601"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <org class="indexing_service">New York Stock Exchange</org>
+        <org class="indexing_service">Empire State Development Corp</org>
+        <person class="indexing_service">Bagli, Charles V</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000721T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E1DB173AF932A15754C0A9669C8B63" item-length="122" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Metro Business; Stock Exchange Plan Wins First Approval</hl1>
+      </hedline>
+      <byline class="print_byline">By Charles V. Bagli</byline>
+      <byline class="normalized_byline">Bagli, Charles V</byline>
+      <abstract>
+        <p>Empire State Development Corp approves proposal for new trading complex for New York Stock Exchange in lower Manhattan (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Empire State Development Corporation approved a proposal for a new trading complex for the New York Stock Exchange in lower Manhattan yesterday, the first step in a public review of the project.</p>
+      </block>
+      <block class="full_text">
+        <p>The Empire State Development Corporation approved a proposal for a new trading complex for the New York Stock Exchange in lower Manhattan yesterday, the first step in a public review of the project.</p>
+        <p>The proposed 50-story tower would rise across the street from the historic home of the New York Stock Exchange, on a block bounded by Exchange Place and Wall, Broad and William Streets. The $480 million, 800,000-square-foot trading complex would be built with public money below a 1.2 million-square-foot office tower.</p>
+        <p>Charles V. Bagli (NYT)</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

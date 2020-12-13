@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DEVILS DEAL FINANCED</title>
+    <meta content="MB233823" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1222205"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="BRIEFING: SPORTS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Hockey, Ice</classifier>
+        <classifier class="indexing_service" type="descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <org class="indexing_service">Yankeenets</org>
+        <org class="indexing_service">New Jersey Devils</org>
+        <person class="indexing_service">Beller, Peter</person>
+        <person class="indexing_service">Mcmullen, John</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mergers, Acquisitions and Divestitures</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hockey, Ice</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000813T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE1DB143FF930A2575BC0A9669C8B63" item-length="117" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DEVILS DEAL FINANCED</hl1>
+      </hedline>
+      <byline class="print_byline">By Peter Beller</byline>
+      <byline class="normalized_byline">Beller, Peter</byline>
+      <abstract>
+        <p>YankeeNets, parent of New York Yankees and New Jersey Nets, secures financing to complete $175 million purchase of New Jersey Devils hockey team from John McMullen; logo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>YankeeNets, the parent company of the New York Yankees and the New Jersey Nets, has secured the financing to complete its $175 million purchase of the New Jersey Devils hockey team by next Friday. Under the deal, which was first announced in March, Puck Holdings, an affiliate of YankeeNets, will buy the hockey team from John McMullen. A small group of private investors, yet to be completed, will hold stakes in the team. Delays in the deal were caused by new investors having to pass the National Hockey League's background checks, according to a spokeswoman.</p>
+        <p>Peter Beller</p>
+      </block>
+      <block class="full_text">
+        <p>YankeeNets, the parent company of the New York Yankees and the New Jersey Nets, has secured the financing to complete its $175 million purchase of the New Jersey Devils hockey team by next Friday. Under the deal, which was first announced in March, Puck Holdings, an affiliate of YankeeNets, will buy the hockey team from John McMullen. A small group of private investors, yet to be completed, will hold stakes in the team. Delays in the deal were caused by new investors having to pass the National Hockey League's background checks, according to a spokeswoman.</p>
+        <p>Peter Beller</p>
+        <p>BRIEFING: SPORTS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

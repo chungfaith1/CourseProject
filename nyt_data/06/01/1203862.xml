@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Nomad Jukebox Holds A Hefty Store of Music</title>
+    <meta content="01GJUK" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1203862"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="NEWS WATCH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Music</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Creative Labs (Co)</org>
+        <person class="indexing_service">Headlam, Bruce</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/Circuits</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Media and Advertising</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Music</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Music, Theater and Dance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Music</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9803E1DA153CF932A35755C0A9669C8B63" item-length="255" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Nomad Jukebox Holds A Hefty Store of Music</hl1>
+      </hedline>
+      <byline class="print_byline">By BRUCE HEADLAM</byline>
+      <byline class="normalized_byline">Headlam, Bruce</byline>
+      <abstract>
+        <p>Creative Labs raises stakes in the MP3 sweepstakes with its release of the new Nomad Jukebox, which can play music in most downloadable formats, including MP3 and WAV files and is about the size and shape of a heavy portable CD player; price of device is $499; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Creative Labs has upped the ante in the MP3 sweepstakes with the release of the new Nomad Jukebox.</p>
+        <p>It can play music in most downloadable formats, including MP3 and WAV files and is about the size and shape of a heavy portable CD player, but it has a hefty six gigabytes of hard drive space. That's more than 90 times that of most smaller MP3 players.</p>
+      </block>
+      <block class="full_text">
+        <p>Creative Labs has upped the ante in the MP3 sweepstakes with the release of the new Nomad Jukebox.</p>
+        <p>It can play music in most downloadable formats, including MP3 and WAV files and is about the size and shape of a heavy portable CD player, but it has a hefty six gigabytes of hard drive space. That's more than 90 times that of most smaller MP3 players.</p>
+        <p>That means the Jukebox can hold up to 100 hours of music in the MP3 format, which is equal to the music on 150 music CD's.</p>
+        <p>''One of the limitations in the MP3 player market has been lack of storage space.'' said Hector Martinez, a company spokesman.</p>
+        <p>Those many audiophiles who do not believe the commonly heard claim that MP3's produce ''near CD sound quality'' can use the Nomad Jukebox to store less music but at higher speeds, up to 320 kilobits per second.</p>
+        <p>The Jukebox can be plugged into a home computer through a U.S.B. port and can be played through car stereo systems or used with headphones.</p>
+        <p>At a suggested retail price of $499, however, the cost matches a hefty hard drive.</p>
+        <p>BRUCE HEADLAM</p>
+        <p>NEWS WATCH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

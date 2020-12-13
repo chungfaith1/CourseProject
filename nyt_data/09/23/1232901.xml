@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Gridlock at La Guardia</title>
+    <meta content="23SAT1$01" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/09/23/opinion/23SAT1.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1232901"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Airports</classifier>
+        <classifier class="indexing_service" type="descriptor">La Guardia Airport (NYC)</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Delays (Transportation)</classifier>
+        <location class="indexing_service">New York City</location>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Delays (Transportation)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airports</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transportation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000923T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9900EFD61F3BF930A1575AC0A9669C8B63" item-length="459" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Gridlock at La Guardia</hl1>
+      </hedline>
+      <abstract>
+        <p>Editorial on addressing gridlock at New York's La Guardia Airport</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>New York City's airports are already strained beyond their limits and crying out for more flights to enhance competition. That is the conundrum now facing regional and federal transportation authorities.</p>
+        <p>Travelers complain that there are not enough conveniently scheduled flights from New York City to places like Buffalo and Norfolk. Congress passed a law earlier this year allowing airlines to circumvent longstanding caps on the number of flights out of La Guardia Airport to fly regional jets to such underserved, or new, destinations.</p>
+      </block>
+      <block class="full_text">
+        <p>New York City's airports are already strained beyond their limits and crying out for more flights to enhance competition. That is the conundrum now facing regional and federal transportation authorities.</p>
+        <p>Travelers complain that there are not enough conveniently scheduled flights from New York City to places like Buffalo and Norfolk. Congress passed a law earlier this year allowing airlines to circumvent longstanding caps on the number of flights out of La Guardia Airport to fly regional jets to such underserved, or new, destinations.</p>
+        <p>But travelers also point out that there are far too many nightmarish delays at La Guardia. The city and the Port Authority of New York and New Jersey, La Guardia's operator, have moved to prevent airlines from capitalizing on the legislation and adding as many as 600 more takeoffs and landings a day at La Guardia.</p>
+        <p>The Port Authority informed airlines on Thursday that they could not add more flights during the airport's two busiest morning and two busiest evening hours. The authority fears that the airlines could add up to 50 percent more daily flights to an already overburdened system, and would like new flights to be scheduled during off-peak hours. The airlines concede that the airport is already under tremendous strain, but feel compelled to add the new flights at prime time to keep up with the competition. They also claim that the Port Authority has no legal right to ban flights approved by the Department of Transportation.</p>
+        <p>One alternative reportedly being considered by the Port Authority is a restructuring of fees paid by airlines to reflect the higher value placed on rush-hour flights. Such a step is worthy of further study, and could be a means of holding airlines to the same pricing principles they impose on passengers -- you pay more for the most convenient flights.</p>
+        <p>At some airports around the nation, the airlines themselves are reacting to passengers' ire at recent gridlock by reducing the number of flights. That is more easily done at hubs already controlled by one airline, where cutting back does not translate into a meaningful drop in market share.</p>
+        <p>At La Guardia, an airport not dominated by any one airline, it will take the prodding of regulators to both rationalize the scheduling of existing service and accommodate truly needed new routes. Whether the Port Authority should be that regulator is not clear, but it should be applauded for intervening to state the obvious. Something has to give.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

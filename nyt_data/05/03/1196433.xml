@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Slice Is Only $4, But That's Without Milk</title>
+    <meta content="03CAKE$03" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Dining In, Dining Out/Style Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Dining and Wine; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1196433"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="FOOD STUFF"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Bakeries and Baked Products</classifier>
+        <org class="indexing_service">Amy's Bread (NYC Store)</org>
+        <person class="indexing_service">Fabricant, Florence</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Dining and Wine/Columns/Food Stuff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bakeries and Baked Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000503T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9501E6D71339F930A35756C0A9669C8B63" item-length="137" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Slice Is Only $4, But That's Without Milk</hl1>
+      </hedline>
+      <byline class="print_byline">By Florence Fabricant</byline>
+      <byline class="normalized_byline">Fabricant, Florence</byline>
+      <abstract>
+        <p>Amy's Bread, New York City, has begun selling cakes by slice; photo (Food Stuff column) (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Bakeries known for their bread are sidling into the cake business. Ecce Panis began making old-fashioned triple-layer cakes with chocolate and vanilla butter cream, $30 each, a few months ago. Now Amy's Bread, 672 Ninth Avenue (46th Street), is baking layer cakes that would win prizes at any county fair.</p>
+      </block>
+      <block class="full_text">
+        <p>Bakeries known for their bread are sidling into the cake business. Ecce Panis began making old-fashioned triple-layer cakes with chocolate and vanilla butter cream, $30 each, a few months ago. Now Amy's Bread, 672 Ninth Avenue (46th Street), is baking layer cakes that would win prizes at any county fair.</p>
+        <p>Coconut cake with a fluffy meringue icing (left), stunning red velvet cake with creamy white frosting, devil's-food cake and glazed marble Bundt cake are some of the varieties that Molly Wessel bakes, often from family recipes. Amy's cakes (not available at Amy's Bread in Chelsea Market) are sold by the slice, $3.50 to $4; whole cakes, including simple birthday cakes, will be sold at the store in a few weeks.</p>
+        <p>FOOD STUFF The Food Stuff column now appears every other week, alternating with the Eating Well column.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">The Food Stuff column now appears every other week, alternating with the Eating Well column.</tagline>
+    </body.end>
+  </body>
+</nitf>

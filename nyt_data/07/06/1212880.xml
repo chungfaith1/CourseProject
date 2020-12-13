@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Speaking Up for Google</title>
+    <meta content="LTR234917" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Circuits" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="G" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1212880"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <org class="indexing_service">Google (Internet Search Engine)</org>
+        <person class="indexing_service">pritchard, john</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000706T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05EFD61E39F935A35754C0A9669C8B63" item-length="175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Speaking Up for Google</hl1>
+      </hedline>
+      <abstract>
+        <p>John Pritchard letter defends Google's Internet search software against criticisms voiced in June 29 article</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>''The Search Engine as Cyborg'' (June 29), about the way many search engines are combining human judgment with search software, played down Google, even though according to the article, Google is the only search engine that isn't a ''cop-out.'' O.K., so your article was about cyborgs, part robot and part human. But are cyborgs good? No! Are they a cop-out? Yes!</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>''The Search Engine as Cyborg'' (June 29), about the way many search engines are combining human judgment with search software, played down Google, even though according to the article, Google is the only search engine that isn't a ''cop-out.'' O.K., so your article was about cyborgs, part robot and part human. But are cyborgs good? No! Are they a cop-out? Yes!</p>
+        <p>It is shortsighted to argue that Google promotes the ''tyranny of the majority'' because it ranks sites based on the number of links from authoritative sites. Google uses the network of information pathways inherent in the Web (hyperlinks) and makes that network available to us through a search interface.</p>
+        <p>The act of creating a link is not trivial, so there is a very high probability that a link is not created frivolously. The Google machine will be much fairer and broader than a people-dependent process.</p>
+        <p>JOHN PRITCHARD  New York City</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

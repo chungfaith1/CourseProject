@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Singer's Charity Moves Online</title>
+    <meta content="25JOHN$11" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="E-Commerce" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="H" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1241625"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="WEB CELEBS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <person class="indexing_service">Jones, Karen</person>
+        <person class="indexing_service">John, Elton</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/AIDS</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Acquired Immune Deficiency Syndrome</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Viruses</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001025T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE1D6123FF936A15753C1A9669C8B63" item-length="191" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Singer's Charity Moves Online</hl1>
+      </hedline>
+      <byline class="print_byline">By KAREN JONES</byline>
+      <byline class="normalized_byline">Jones, Karen</byline>
+      <abstract>
+        <p>Web site founded by singer Elton John promotes AIDS education and research; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ELTON JOHN AIDS FOUNDATION  (www.ejaf.org)  Musician promotes AIDS education and services</p>
+        <p>Elton John has long used his fame in the fight against AIDS. In 1992, the singer formed the Elton John AIDS Foundation to finance programs that teach AIDS prevention and furnish services to people with H.I.V. and AIDS.</p>
+      </block>
+      <block class="full_text">
+        <p>ELTON JOHN AIDS FOUNDATION  (www.ejaf.org)  Musician promotes AIDS education and services</p>
+        <p>Elton John has long used his fame in the fight against AIDS. In 1992, the singer formed the Elton John AIDS Foundation to finance programs that teach AIDS prevention and furnish services to people with H.I.V. and AIDS.</p>
+        <p>John Scott, the executive director and president of the foundation, describes the Web site as ''the brainchild of the board members who felt there really wasn't enough of a media outlet for H.I.V./AIDS information.''</p>
+        <p>The Web site announces fund-raising events and includes a merchandise section selling items like watches, candles and ornaments, with the proceeds going to the foundation. Users may also donate online. ''We definitely use the site as a tool to raise money as well as awareness,'' Mr. Scott said.</p>
+        <p>KAREN JONES</p>
+        <p>WEB CELEBS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

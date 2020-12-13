@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Price of Electricity</title>
+    <meta content="L02CON$03" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1219431"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <org class="indexing_service">Consolidated Edison Co of New York Inc</org>
+        <person class="indexing_service">Thurlow, Peter G</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20000802T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00E4DA113DF931A3575BC0A9669C8B63" item-length="211" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Price of Electricity</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Peter G Thurlow, attorney for Con Edison, disputes July 27 article on soaring cost of electricity; says Con Ed is not responsible for increase, but only for price to deliver electricity to customers' homes</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''As Deregulation Begins, New Yorkers' Power Bills Soar'' (news article, July 27):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''As Deregulation Begins, New Yorkers' Power Bills Soar'' (news article, July 27):</p>
+        <p>Consolidated Edison is not causing the recent increase in the price of electricity. Con Ed is responsible only for the price to deliver the electricity to customers' homes, and that price is going down by more than $1 billion over a five-year period based on an agreement with the New York State Public Service Commission.</p>
+        <p>As you report, Con Ed was forced to sell most of its generation plants. These plants are governed by the newly created New York State Independent System Operator and activated based on the free-market bids they submit to the operator. If the demand for electricity from these plants is high and the supply of electricity is low, then the price for the generation of electricity that gets passed on to customers in the form of a Con Ed bill is going to be higher.</p>
+        <p>PETER G. THURLOW  Ridgewood, N.J., July 28, 2000</p>
+        <p>The writer is a Con Edison lawyer.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>
