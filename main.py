@@ -146,8 +146,8 @@ class Lda:
 
         self.lda_model = gensim.models.ldamodel.LdaModel(self.corpus, num_topics=self.num_topics, id2word=self.dict, passes=3, eta=self.prior, decay = self.u)
 
-    def update_prior(self, prior):
-        self.prior = prior
+    def update_prior(self, new_prior):
+        self.prior = new_prior
 
     def get_top_words(self,topic_impacts):
         words = ""
@@ -532,7 +532,7 @@ def main():
 
             # 4. Generate and update prior
             sig_cutoff = 0.9
-            probM      = 0.025
+            probM      = 0.2
             word_correlations = top_words.get_word_correlations()
             prior_gen = PriorGeneration(top_words, lda_model, sig, probM)
             prior_gen.sort_words_per_topic()
